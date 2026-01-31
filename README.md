@@ -28,32 +28,7 @@ The system follows a modular pipeline designed to maximize context recall and di
 * Neo4j Database (Local Desktop or AuraDB)
 * Qdrant Instance (Docker or Cloud)
 
-### 2. Template for .env
-# --- LLM Providers ---
-OPENAI_API_KEY=sk-proj-...
-HUGGINGFACE_HUB_TOKEN=hf_...
-HF_TOKEN=hf_...
-
-# --- Vector Database (Qdrant) ---
-QDRANT_URL=https://...
-QDRANT_API_KEY=...
-
-# --- Knowledge Graph (Neo4j) ---
-NEO4J_URI=bolt://localhost:7687
-NEO4J_USERNAME=neo4j
-NEO4J_PASSWORD=your_password
-
-# --- Evaluation & Tracing ---
-LANGCHAIN_API_KEY=lsv2_...
-LANGCHAIN_TRACING_V2=true
-
-# --- Model Configuration ---
-ENCODE_MODEL=cross-encoder/ms-marco-MiniLM-L-6-v2
-CHAT_MODEL=gpt-4o-mini
-OPENAI_JUDGE_MODEL=gpt-4o
-
-### 3. Clone the Repository
+### 2. Clone the Repository
 ```bash
 git clone [https://github.com/hovietbach061204/Tropical_Infectious_Diseases.git](https://github.com/hovietbach061204/Tropical_Infectious_Diseases.git)
 cd Tropical_Infectious_Diseases
-
