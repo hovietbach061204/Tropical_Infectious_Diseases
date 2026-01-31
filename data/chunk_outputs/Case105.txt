@@ -1,0 +1,384 @@
+============================================================
+CHUNK 0
+============================================================
+Psychiatric Diseases 11
+Robert C Stewart, Kinke M Lommerse, Atif Rahman
+- Try to establish basic primary care for mental health using simple protocols  for  nonpsychiatric  healthcare  staff  and  community personnel.
+
+============================================================
+CHUNK 1
+============================================================
+CULTURE AND MENTAL HEALTH
+Many aspects of the etiology, presentation, and treatment response of mental disorders are universal. However, it is important to appreciate cultural differences, as failure to do so can lead to misdiagnosis or misunderstanding.
+- Differences in norms of social interaction and nonverbal communication: e.g. in some cultures, it may not be appropriate for patients to make eye contact with the doctor. This could be misinterpreted as evidence of depression or suspiciousness.
+- Beliefs about the influence of supernatural causes on daily life and  disease: e.g.  people  may  attribute  their  difficulties  to  the action of witchcraft, spirits or 'ancestors' . It is important to differentiate these from psychotic experiences.
+- Cultural sanctioning of certain abnormal states of mind: e.g. trance/possession states forming part of religious activities, use of psychoactive  substances,  and  sometimes  even  true  psychotic symptoms, may be experienced as beneficial.
+- Differing patterns of help-seeking behavior when emotionally distressed: It may not be seen as either appropriate or beneficial to seek help for emotional or spiritual issues at 'Western' medical facilities. Many people instead seek help from traditional or religious healers. These consultations often provide important social or spiritual meaning lacking in the Western biomedical model, but can also lead to late presentation or poor compliance with medication.
+- ' Culturally  related  syndromes': Syndromes  that  are  predominantly restricted to localized cultures or populations. These are often anxious or dissociative states precipitated by interpersonal or societal stressors. They may overlap with 'Western' diagnostic categories. Management requires understanding of social context and meaning [4]. Examples:
+- Semen-loss syndrome (also known as Dhat, sukra prameha, Indian  subcontinent):  fatigue  and  other  somatic  complaints,  anxiety and dysphoria, associated with belief  that semen has been 'lost' in urine.
+- Genital shrinking syndrome (Koro, suo-yang, Chinese and Malay populations): belief that penis is retracting into body, associated fear of impotence or death. Epidemics have been reported.
+- Brain  Fag (West  Africa):  pain  and  burning  sensations around head and neck; impaired memory and concentration,  blurred vision, sleep disturbance. Attributed to overwork or excessive studying.
+
+============================================================
+CHUNK 2
+============================================================
+Key features
+- High burden: Neuropsychiatric conditions account for four of the top ten causes of years lived with disability (YLD) in low- and middle-income countries (LAMIC): unipolar depressive disorder (10.4% of total YLD), alcohol use disorders (3.5%), schizophrenia (2.8%), bipolar disorder (2.4%) [1]
+- Signi?cant mortality: > 800,000 people commit suicide annually, 86% in LAMIC [2,3]
+- Socioeconomic risk factors for mental disorder are highly prevalent: e.g. poverty, unemployment, low status of women, violence, rapid urbanization, poor education
+- Low priority is given to mental health: Many LAMIC allocate less than 1% of health expenditure to mental health [2]
+- Human rights abuse: Stigma may lead to structural discrimination and social exclusion. Low resources and outdated legislation increase risk of human rights abuses
+- Task shifting: Extreme shortages of trained sta8 necessitate a Primary Health Care (PHC) approach, with a focus on training and task shifting to lower cadres
+- Cultural factors: These in9uence conceptualization and manifestation of mental illness, and provision of care
+- Mental and physical ill-health are strongly interrelated
+
+============================================================
+CHUNK 3
+============================================================
+GETTING ORGANIZED
+For the general clinician:
+- Identify staff responsible for psychiatric care and their activities.
+- Make a list of local referral options, community support organizations, etc.
+- Be familiar with commonly  available  medications, existing treatment  protocols,  and  the  basics  of  local  mental  health legislation.
+If you are in charge of developing psychiatric services:
+- Build  relationships  with  medical  colleagues,  pharmacies,  community organizations and NGOs.
+- Provide  training  to  as  wide  a  range  of  healthcare  workers  as possible.
+
+============================================================
+CHUNK 4
+============================================================
+Basic Principles
+- Ensure safety (see management of aggression below).
+- Attempt to ensure confidentiality and explain the purpose of the interview.
+- If using an interpreter:
+- Speak directly to the patient, with the interpreter repeating your questions.
+- Ask the interpreter to translate exactly what the patient says and not to tell you what he/she thinks was meant.
+- The interpreter may be a useful source of information on cultural issues.
+
+============================================================
+CHUNK 5
+============================================================
+History
+- Personal details.
+●
+- Who referred and why?
+- History of presenting complaint: Establishing accurate timelines for events may prove difficult. Refer to significant dates to help with this.
+- Past psychiatric history including self-harm: Be wary of previous diagnoses as these may not be accurate.
+- Past medical history: e.g. epilepsy, HIV status, pregnancy.
+- Medication history: Note any medications known to have neuropsychiatric  side  effects  (e.g.  mefloquine  (antimalarial),  Efavirenz (antiretroviral)).
+- Drugs and alcohol.
+- Family psychiatric history.
+- Personal history and current social circumstances.
+- Forensic history.
+- Premorbid personality: Is  this  new  behavior  or  has  the  person always acted like this?
+
+============================================================
+CHUNK 6
+============================================================
+Mental State Examination
+- Appearance and behavior: Note general physical condition.
+- Speech.
+●
+- Mood: Subjective and objective.
+- Thought: Delusions, e.g. persecutory, grandiose; cognitions typical of depression (guilt, worthlessness, hopelessness); suicidal ideas, thoughts of harm to others.
+- Perception: Hallucinations: visual, auditory, other.
+- Cognition: Level of consciousness, attention and concentration, orientation, memory.
+- Insight.
+
+============================================================
+CHUNK 7
+============================================================
+Informant History and Previous Case Notes
+- Informant history is particularly important in psychiatric illness (loss of insight) and high-risk situations.
+- Take care not to breach confidentiality.
+
+============================================================
+CHUNK 8
+============================================================
+Physical Examination
+- Any suspicion of delirium or organic cause should prompt investigation for infective and metabolic causes, head injury, substance misuse, poisoning, etc.
+- People with chronic mental illness are at high risk for physical disorders (e.g. tuberculosis) but tend to be neglected by medical services.
+- Improving general health by treating comorbid conditions (e.g. anemia, parasitic infections) can promote recovery.
+
+============================================================
+CHUNK 9
+============================================================
+Investigations
+- Conduct  focused  and  appropriate  investigations  as  resources allow.
+- If  suspicion  of  delirium  or  organic  cause:  blood  glucose,  full blood  count,  urea  and  electrolytes,  urinalysis,  blood  film  for malaria, syphilis test, chest x-ray, lumbar puncture, brain CT scan.
+
+============================================================
+CHUNK 10
+============================================================
+BOX 11.1  Common Syndromes
+- The acutely disturbed or stuporose patient
+- The patient who is sad, worried or has unexplained somatic complaints
+- The patient who is misusing alcohol or other substances
+- Common psychiatric emergencies (see Boxes 11.2 & 11.3):
+- The aggressive patient
+- The suicidal patient
+- The chronically confused patient (see Box 11.5).
+- The disturbed child (see Box 11.6)
+- HIV (and CD4) testing with counseling and consent procedures, but can be done without if patient lacks capacity and outcome of test would change management.
+
+============================================================
+CHUNK 11
+============================================================
+THE ACUTELY DISTURBED OR STUPOROSE PATIENT
+Patients  may  present  with  a  mixture  of  symptoms  and  often  an unclear history. Precise diagnosis may be difficult.
+
+============================================================
+CHUNK 12
+============================================================
+Delirium
+Altered  level  of  consciousness,  impaired  attention,  disorientation and  visual  hallucinations.  Cause  indicated  by  history  and  examination,  e.g.  infective,  traumatic,  intoxication/poisoning,  alcohol withdrawal ( delirium tremens) .
+
+============================================================
+CHUNK 13
+============================================================
+Acute Psychosis
+Delusions,  hallucinations,  muddled  thinking  and  loss  of  insight. Hostile and suspicious, restless and disinhibited, or withdrawn and stuporose. Many conditions can cause acute psychosis. Characteristic features will guide diagnosis:
+- Recent substance misuse (e.g. cannabis, stimulants),  some 'organic'  features  (confusion,  visual  hallucinations)  and  short duration indicate drug-induced psychosis or withdrawal .
+- Subtle confusion, physical signs or a history suggestive of a temporal  relationship  between  psychiatric  and  physical  symptoms, indicate organic psychosis.
+- Epilepsy-associated  psychiatric  syndromes,  e.g. postictal  confusion (minutes/hours), postictal  psychosis (days/weeks),  and interictal psychosis (months/years).
+- Acute onset in response to a clear stressor (e.g. bereavement, job loss) with no previous episodes suggests a brief reactive psychosis (likely to resolve quickly with good prognosis).
+- Delusions  that  one's  thoughts  or  actions  are  being  controlled, auditory hallucinations in the third person, disjointed and 'offthe-point'  speech  (formal  thought  disorder)  and  a  history  of gradual decline in work and social functioning (negative symptoms) suggest schizophrenia.
+- Onset  of  psychosis  soon  after  childbirth  (mood  symptoms  or confusion may be prominent) indicates puerperal psychosis. Be sure to exclude delirium.
+
+============================================================
+CHUNK 14
+============================================================
+Mood Disorder
+- Elated or irritable mood, disinhibition and recklessness (social, sexual, financial),  pressured  speech,  flight  of ideas (rapidly jumping between tenuously related topics), grandiose delusions
+
+============================================================
+CHUNK 15
+============================================================
+BOX 11.2  Psychiatric Emergencies - The Aggressive Patient
+1. If patient is armed, immediately contact police/security.
+2. Reduce  external  stimulation  for  the  patient  but  do  not become isolated from help. Talk in a calm, reassuring and conKdent manner. Ensure that you can move away from the patient if needed.
+3. Attempt  to  assess  mental  and  physical  state.  Ascertain  if patient has already been given sedation, and any history of adverse drug reactions or cardiorespiratory problems.
+4. OIer oral medication, e.g. diazepam 10-20 mg or lorazepam 1-4 mg and/or chlorpromazine 100-200mg or haloperidol 5-10 mg.
+5. If  the  patient  refuses  oral  medication,  it  should  be  given parenterally. Physical restraint may be needed. Gather adequate staI.  Hold  the  patient  lying  on  his/her  back,  avoid applying force to chest or head. Reassure and give explanation to the patient throughout. End restraint as soon as it is safe.
+6. Local practice for parenteral sedation will vary. An acceptable regimen is benzodiazepine (e.g. lorazepam 1-4 mg IM or diazepam 5-20 mg IV) and/or typical antipsychotic (e.g. haloperidol 5-10 mg IM or chlorpromazine 50-200 mg IM). Choose lower dose in physical illness, the elderly, wasted, dehydrated,  or  treatment-naïve.  In  case  of  insuJcient response, repeat the dose. Wait at least 10 minutes after IV and 30 minutes after IM dose. In case of drug intoxication/ withdrawal,  give  benzodiazepine  only.  Monitor  for  side eIects,  e.g.  respiratory  depression,  hypotension,  acute dystonia.
+
+============================================================
+CHUNK 16
+============================================================
+BOX 11.3  Psychiatric Emergencies The Suicidal Patient
+1. If patient presents having attempted suicide (e.g. hanging, organophosphate poisoning), resuscitate and provide appropriate medical management.
+2. Assess  the  severity  of  the  attempt  and  risk  of  repetition. High intent is indicated by perceived lethality of method, extent of preparation and eIorts to avoid detection. Risk of repeat also increased if: ongoing suicidal intent, thoughts of hopelessness for the future, mental illness (e.g. depression, schizophrenia), lack of social support, alcohol/ substance misuse.
+3. Assess stressors (e.g. life events, family or relationship problems) and support structures.
+4. Monitor the patient and assess suicide risk regularly.
+5. Initiate  treatment  for  underlying  mental  illness.  Problemsolving  and  engagement  of  community  support  can  be helpful in life-diJculties. Organize early follow-up.
+6. Legal consideration: In some countries, attempting suicide is an oIence. The patient's wellbeing should always be the Krst concern for health workers. If police interference may harm a patient's wellbeing, you may decide not to inform the police.
+7. and mood-congruent auditory hallucinations indicate an acute manic episode .
+- A  history  typical  of  depressive  illness  (e.g.  low  mood,  loss  of pleasure and participation in activities), psychomotor retardation (although  may  be  anxious  and  agitated),  prominent  negative content to delusions/hallucinations, and suicidal ideation suggest a depressive psychosis. Emaciation and dehydration are signs of the need for urgent treatment.
+- Remember  that  depressive  and  manic  presentations  may  also have an organic cause (e.g. HIV, syphilis, medications).
+
+============================================================
+CHUNK 17
+============================================================
+Other
+- Prolonged  abnormal  posturing  and/or  alternating  immobility and restlessness are features of catatonia. Causes include organic (e.g.  intracerebral  infection) and schizophrenia (in tropical settings,  catatonia appears  to be a  more common presentation of schizophrenia than in Western settings). In severe form, it may be indistinguishable from neuroleptic malignant syndrome (a lifethreatening side effect of typical antipsychotics).
+- Nonpsychotic acute stress reactions (e.g.  in  response to family crisis, exam pressure) may be difficult to distinguish from acute psychosis  but  are  likely  to  settle  with  reassurance  and  removal of the stressor. Such presentations appear to be common in cultures  where  verbal  expression  of  psychologic  distress  may  be difficult.
+
+============================================================
+CHUNK 18
+============================================================
+THE PATIENT WHO IS SAD, WORRIED OR HAS UNEXPLAINED SOMATIC COMPLAINTS
+- Depression and anxiety are common in LAMIC, in part because of the high prevalence of socioeconomic risk factors.
+- Even mild-moderate depression/anxiety is associated with significant disability.
+- Severe depression can be life-threatening.
+- Depression/anxiety often presents with somatic complaints rather than psychologic symptoms. However, questioning usually reveals anxious and depressive symptoms [5].
+- Somatic  complaints  associated  with  psychologic  distress  vary across populations, e.g. 'all over pain', headache, 'heart pain', or tiredness.
+- If  somatization  is  suspected,  conduct  an  appropriate  medical workup but avoid over-investigation or unnecessary treatment.
+- Explore  the  patient's  beliefs  about  the  symptoms  and  enquire about likely stressors.
+Depressive symptoms: low mood, loss of pleasure in activities, impaired energy and concentration, thoughts of worthlessness, guilt and hopelessness, suicidal ideas and acts, sleep and appetite disturbance.
+Anxiety  symptoms: muscle  tension, restlessness,  dyspnea/ hyperventilation, paresthesia, catastrophic thinking, avoidance and escape from triggers of anxiety.
+
+============================================================
+CHUNK 19
+============================================================
+DiBerential Diagnosis
+- Mixed anxiety/depression (most common)
+- Major depressive episode
+- Bipolar affective disorder (BPAD) (if manic episodes too)
+- Panic disorder
+- Obsessive compulsive disorder (OCD)
+- Post-traumatic  stress  disorder.  People  who  have  experienced severe traumatic events (e.g. war, torture, rape) may present with hypervigilance,  re-living  experiences  ('flashbacks'),  emotional 'numbing', and avoidance of situations that trigger memories of the trauma
+- Conversion symptoms (e.g. pseudoseizures, non-organic paralysis)
+- Dissociative state (acute florid behavioral disturbance)
+- Symptoms  can  be  secondary  to  a  general  medical  condition (e.g.  chronic  infection,  thyroid  disease,  dysrhythmia,  diabetes mellitus, etc.).
+
+============================================================
+CHUNK 20
+============================================================
+THE PATIENT WHO IS MISUSING ALCOHOL OR OTHER SUBSTANCES
+Alcohol is widely used all over the world and is associated with major health and social harm. The pattern of other drug use (e.g. cannabis, opiates, cocaine, khat) varies between countries, depending on socioeconomic, cultural and availability factors. Patients may present with intoxication, withdrawal syndrome, or the psychological, social and physical consequences of excessive use or dependence.
+
+============================================================
+CHUNK 21
+============================================================
+Basic Principles
+- Teamwork is essential. Liaise with other specialities and facilities.
+- Provide psychoeducation. Encourage hope.
+- Follow local mental health legislation. Emergency management of delirium/psychosis should be carried out 'in the patient's best interests'  on  the  basis  that  the  patient  lacks  capacity  and  is  at immediate  risk  of  harm.  Longer-term  enforced  inpatient  treatment  of  mental  disorder  will  require  use  of  the  local  mental health legislation. Ask for guidance on local policy.
+- High risk of harm to self or others may require hospitalization and  sometimes  specialist  services.  If  lower  risk  and  supportive home environment, outpatient treatment may be preferable.
+
+============================================================
+CHUNK 22
+============================================================
+Acute Psychosis
+'Typical' antipsychotics are cheap, effective and widely available, e.g. chlorpromazine  100 mg  nocte-200 mg  three  times  daily  (sedative, risk of photosensitivity), haloperidol 1-5 mg twice a day (increased risk of extrapyramidal side effects [EPSE]). Start on a low dose and review after 1-2 weeks if possible. If acute agitation, consider adjunctive short-term benzodiazepine.
+If available, consider first-line use of ' atypical' antipsychotics (less EPSE, may be more effective for negative schizophrenic syndrome, but more  expensive),  e.g.  risperidone  1-3 mg  twice  daily,  olanzapine 10-20 mg once daily.
+Typical antipsychotics cause extrapyramidal side effects (EPSE). Treat acute  dystonia with  IV/IM  anticholinergic,  e.g.  benzhexol  5 mg. Manage parkinsonism or akathisia by  reducing  dose,  switching antipsychotic, and prescribing regular oral anticholinergic (e.g. benzhexol 5 mg up to three times daily). Tardive dyskinesia is caused by long-term typical antipsychotic use and may be irreversible.
+Continued antipsychotic prescription reduces relapse risk. If possible, continue the dose that was effective in treating the acute episode, but tolerability may necessitate a lower dose. Ask whether the patient can  access  and  afford  an  ongoing  supply.  Suggested  continuation periods are:
+- First episode psychosis - continue for 1-2 years.
+- Schizophrenia  with  recurrent  episodes  -  long-term  treatment recommended.
+- Brief  stress-related  psychosis  -  continue  for  1  month  after recovery.
+If poor compliance or patient preference, consider IM depot antipsychotic, e.g.  fluphenazine  decanoate  25-100 mg  4-weekly.  Give  a small  test  dose  initially.  Steady  state  is  achieved  after  two  or  three doses, so continue oral medication over this period before tapering down.
+Management of chronic psychosis such as schizophrenia must also always include psychosocial interventions ,  e.g.  family  support and education, occupational therapy, rehabilitation.
+
+============================================================
+CHUNK 23
+============================================================
+Drug-Induced Psychosis
+Toxic psychosis will resolve over hours/days with only containment and sedation. If symptoms persist, continue antipsychotic for several months post-recovery and longer if recurrent episodes.
+
+============================================================
+CHUNK 24
+============================================================
+Epilepsy-Associated Psychosis
+Optimize seizure control. For psychosis, use haloperidol in preference to chlorpromazine, which lowers seizure threshold.
+
+============================================================
+CHUNK 25
+============================================================
+Catatonia
+Investigate organic causes. If associated reduced level of consciousness and  autonomic  instability,  treat  on  medical  ICU  if  available.  Stop antipsychotics and treat with benzodiazepines only. Consider referral for electroconvulsive therapy (ECT).
+
+============================================================
+CHUNK 26
+============================================================
+Acute Manic Episode
+Use antipsychotic ± short-term benzodiazepine (as acute psychosis). Gradually reduce dose as patient recovers. If high risk of exhaustion or harm to others, and medication is ineffective, consider referral for ECT.
+
+============================================================
+CHUNK 27
+============================================================
+Bipolar ABective Disorder
+If recurrent manic ( ± depressive) episodes, consider long-term treatment  for  relapse  prevention  ('mood  stabilizers').  Consider  carbamazepine, lithium (requires monitoring), sodium valproate (avoid in  women  of  childbearing  age)  or  atypical  antipsychotics.  Typical antipsychotics are also widely used in LAMIC although research evidence  is  lacking  [6].  Choose  the  medication  that  is  accessible  and affordable over the long term.
+
+============================================================
+CHUNK 28
+============================================================
+Depressive Psychosis
+Ensure adequate hydration and nutrition (IV fluids if needed). Close observation if  high  suicidal  risk. Commence  antidepressant ± antipsychotic. Consider referral for ECT.
+
+============================================================
+CHUNK 29
+============================================================
+DEPRESSION, ANXIETY AND SOMATIZATION
+Use a 'stepped-care approach' [7]:
+1. For mild/moderate symptoms, use a psychosocial intervention such as problem solving (see Box 1 1.4).
+2. If somatization is prominent, do not dismiss symptoms but educate the patient about how sadness and worry can cause physical complaints.
+3. If psychosocial treatment is ineffective or the symptoms are severe/chronic, consider addition of medication. Advise the patient  that  antidepressants  may  take  3  weeks  to  act  and should be continued for at  least 6  months  after  recovery. Tricyclic antidepressants, e.g. amitriptyline 50-150 mg nocte (sedating, dangerous in overdose). Selective serotonin reuptake  inhibitors  (SSRIs),  e.g.  fluoxetine  20 mg  mane (warn about initial agitation and nausea). Antidepressants are  also  effective  in  treating  anxiety.  SSRIs  may  worsen anxiety symptoms initially, so start at a low dose and gradually increase.
+4. If available, refer for specific psychologic treatment, e.g. cognitive behavioral therapy.
+
+============================================================
+CHUNK 30
+============================================================
+SUBSTANCE DEPENDENCE
+1. Engage the person in a non-judgmental manner.
+2. Treat any comorbid mental and physical disorder.
+3. Encourage recognition of the problem by helping him/her list all  the  reasons  for reducing or stopping the substance use.
+4. Decide  with  the  person  if  he/she  wishes  to  control  his/ her substance use or to be abstinent. If the substance use has  caused  severe  health  or  social  harm,  abstinence  is preferred.
+
+============================================================
+CHUNK 31
+============================================================
+BOX 11.4  A Brief Problem-Solving Intervention
+1. Explain how diJculties  in life can  cause  emotional problems  that,  in  turn,  make  it  hard  to  try  to  solve  those diJculties.
+2. Together with the patient, deKne the speciKc problems (e.g. work, relationships, physical health).
+3. Summarize the problems to show you have understood.
+4. Choose a problem that seems solvable.
+5. With the patient, generate possible solutions and identify consequences of carrying these out. Agree on the best solution. Set speciKc achievable targets. The patient should lead in generating solutions but assist by helping him/her identify social supports and individual strengths. Ask colleagues for  advice  on  local  agencies  that  might  help  (e.g.  govt., NGO).
+6. At  subsequent  sessions,  ask  speciKcally  what  the  person has achieved. If successful, reLect on how this aIected the patient's  mood.  If  unsuccessful,  assess  what  the  barriers were and consider another solution.
+7. Repeat 5 and 6 for another problem.
+(Adapted from Patel V, Where There Is No Psychiatrist - A Mental Health Care Manual. London: RCPsych Publications; 2003)
+
+============================================================
+CHUNK 32
+============================================================
+BOX 11.5  The Chronically Confused Patient
+- There  are  rapidly  growing  numbers  of  elderly  people  in LAMIC,  with  a  consequent  increase  in  the  prevalence  of dementia [8].
+- Dementia  describes  a  syndrome  of  progressive  global impairment  of  cognitive  functions,  including  orientation, memory, language and personality. Associated depression and psychotic symptoms are common.
+- The  most  common  causes  in  the  elderly  are  Alzheimer's type and vascular dementia.
+- Particularly if there are atypical features or early onset, consider other causes, some of which may be treatable, e.g.
+- Infective: HIV, neurosyphillis, tuberculosis
+- Chronic subdural hematoma
+- Alcohol-related
+- Vitamin B12 deKciency
+- Hypothyroidism
+- Depression  can  present  with  complaints  of  cognitive impairment ('pseudo-dementia').
+- Principles of management:
+- Optimize physical health.
+- Educate family/carers on nature of disorder and discuss how they can keep their relative safe but also active and involved  in  family  life.  Be  vigilant  for  signs  of  carer fatigue.
+- Only  if  psychosis  is  present  or  the  person  is  severely aggressive, consider low-dose typical antipsychotic (e.g. haloperidol). Review for side eIects and stop if not beneKcial. Avoid sedating medications.
+
+============================================================
+CHUNK 33
+============================================================
+BOX 11.6  The Disturbed Child
+1. See the child with the parents/carers, but you may also wish to see child alone (particularly if older). Engage the child in an  age-appropriate,  non-judgemental  manner.  Get  information from as many sources as possible.
+2. History should include: home environment, friends, schooling;  recent  life  changes  (e.g.  bereavement,  orphaning); recent  and  past  physical  illness  (including  epilepsy,  birth trauma); developmental history.
+3. Observe for neurological or other physical signs. Observe the interaction between child and carers.
+4. DiIerential diagnosis of disturbed behavior includes:
+- New-onset organic cause (e.g.  meningitis/encephalitis, drug ingestion).
+- Learning disability (mental retardation). New troublesome behaviors may indicate comorbid physical disorder (e.g. infection, constipation) or psychiatric condition (e.g. psychosis, depression, reaction  to abuse). Alternatively, carers may have sought help because of fatigue.
+- Poorly controlled epilepsy or side eIects of antiepileptics.
+- Behavioral reaction  to  stress at  home  or  school  (e.g. exams, being sent to live with relatives, abuse). Look for symptoms of depression .
+- Psychosis (rare in children).
+- Attention de?cit hyperactivity disorder (ADHD) presents with persistent restlessness and inattention at school and home. Onset may follow neurological insult, e.g. cerebral malaria.
+- Conduct disorder (repeated  rule  breaking,  criminality, substance misuse)  may be  associated with poor  home circumstances, family breakdown, and suboptimal parenting.
+5. Management:
+- Investigate and treat organic causes. If epileptic, review antiepileptic treatment.
+- In  learning  disability,  you  may  be  asked  to  prescribe 'calming' medication. Do not do so unless Krm suspicion of comorbid psychosis or dangerously severe aggression (consider  low-dose  antipsychotic  or  carbamazepine). Always try non-pharmacological interventions Krst and regularly review need for medication.
+- If  the  problems  followed  an  identiKable  stressor  (e.g. exam  stress),  educate  carers  about  how  children  may express distress through their behavior. Encourage family communication and use problem-solving techniques.
+- Help parents and carers identify and access community support.
+
+============================================================
+CHUNK 34
+============================================================
+BOX 11.6  The Disturbed Child
+- If there is evidence of abuse and/or the child is at immediate risk, involve colleagues and police to help devise a plan that best protects the child.
+- Seek expert review if available.
+- Always oIer follow-up.
+5. Using the problem-solving approach or other psychologic intervention,  help the person avoid relapse by identifying and avoiding triggers (e.g. stress, particular social groups). If available, refer to a community support organization.
+6. If  someone  is  alcohol-  or  drug-dependent, he/she  should not abruptly  stop  use,  but  taper  down gradually  to  avoid withdrawal symptoms.
+7. Treat alcohol withdrawal/delirium tremens with a reducing  regimen  of  benzodiazepine,  e.g.  diazepam  10-20 mg three to four times a day, reducing to stop over 5 days. Give parenteral B vitamins if available, otherwise oral thiamine 100 mg three times a day for 4 weeks.
+
+============================================================
+CHUNK 35
+============================================================
+REFERENCES
+1.  World Health Organisation. ICD-10: The ICD-10 Classification of Mental and Behavioural  Disorders:  Clinical  Descriptions  and  Diagnostic  Guidelines. Geneva: WHO; 1992.
+2.  Prince M, Patel V, Saxena S, et al.  No  health  without mental health. Lancet 2007;370:859-77.
+3.  Lancet Series on Global Mental Health, 2007.
+4.  Jilek  WG.  Culturally  related  syndromes.  In:  Gelder  MG,  Lopez-Ibor  JJ, Andreasen N, eds. New Oxford Textbook of Psychiatry, Vol. 1. Oxford, UK: Oxford University Press; 2000:1061-6.
+5.  Patel V, Pereira J, Mann AH. Somatic and psychological models of common mental disorder in primary care in India. Psychol Med 1998;28:135-43.
+6.  Taylor D, Paton C. The Maudsley Prescribing Guidelines, 10th edn. London: Informa Healthcare; 2009.
+7.  Patel V, Simon G, Chowdhary N, et al. (2009) Packages of care for depression in low- and middle-income countries. PLoS Med 2009;6:e1000159.
+8.  Prince MJ, Acosta D, Castro-Costa E, et al. (2009) Packages of care for dementia in low- and middle-income countries. PLoS Med 2009;6:e1000176.
+
+============================================================
+CHUNK 36
+============================================================
+FURTHER READING
+- Patel V. Where There Is No Psychiatrist - A Mental Health Care Manual. London: RCPsych Publications; 2003.
+- Patel V, Thornicroft G. Packages of care for mental, neurological, and substance use  disorders  in  low-  and  middle-income  countries:  PLoS  Medicine  Series. PLoS Med 2009;6:e1000160.
+- Semple  D,  Smyth  R.  Oxford  Handbook  of  Psychiatry,  2nd  edn.  Oxford,  UK: Oxford University Press; 2009.
+- Ungvari G, Kau LS, Wai-Kwong T, Shing NF. The pharmacological treatment of catatonia:  an  overview.  Eur  Arch  Psychiatry  Clin  Neurosci  2001;251(Suppl 1);I31-4.
+- World Health Organisation. mhGAP intervention guide for mental, neurological and substance use disorders in non-specialised health settings: mental health Gap Action Programme (mhGAP), 2010.
+

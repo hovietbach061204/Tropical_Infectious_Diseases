@@ -1,0 +1,224 @@
+============================================================
+CHUNK 0
+============================================================
+79
+
+============================================================
+CHUNK 1
+============================================================
+KEY FEATURES
+- endemic in impoverished regions of the tropics that is sporadically transmitted in developed countries.
+- pulmonary hemorrhage, jaundice, acute kidney injury, and a high mortality rate.
+- unexplained but probably is due to endothelial cell dysfunction, with key pathologic features being a paucity of histopathologic changes in organs despite marked functional impairment.
+- areas where most disease transmission occurs.
+- penicillin or third-generation cephalosporins, whereas milder cases may be treated with oral doxycycline; other agents may also be effective.
+- humans, although prophylactic weekly doxycycline can be used to prevent disease among select at-risk populations and during outbreaks.
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+Leptospirosis is a globally important bacterial zoonosis caused by pathogenic spirochetes of the genus Leptospira, with a conservatively estimated  1.05  million  cases  and  60,000  deaths  annually. 1 The pathogenesis remains largely unexplained today even though Weil published a clinical description of leptospirosis in 1886. In 1916 Inada isolated spirochetes in pure culture, subsequently delineated Leptospira, identi{ed them as the etiologic agent of leptospirosis, and linked rats to disease transmission. 2 The disease is of greatest public health importance in the tropics, where it is a disease both of agricultural workers 3,4 and residents of urban slums. 5,6 Outbreaks superimposed on endemic disease activity are regularly linked to severe hurricane and |ooding events throughout the world; notable examples have occurred in Brazil, 5 Sri  Lanka, 7 the Philippines, 8 and Thailand. 9
+
+============================================================
+CHUNK 3
+============================================================
+EPIDEMIOLOGY
+Leptospirosis  is  caused  by  spirochetes  of  the  genus Leptospira. This genus contains more than 35 species classi{ed on the basis of comparative genomic analysis 10,11 and more than 300 serovars based on diverse agglutinating lipopolysaccharide antigens. Leptospires colonize proximal renal tubules of mammalian hosts and are shed in the urine. They can survive for several months in the environment under moist conditions, particularly in the presence of  warmth  (above  22°C)  and  neutral  pH  (pH  6.2-8.0).  These conditions occur all year round in the tropics but only during the summer and autumn months in temperate climates. Roughly 160 animal species harbor organisms, but rodents are a particularly
+
+============================================================
+CHUNK 4
+============================================================
+Leptospirosis
+Joseph M. Vinetz, George Watt important reservoir. Carrier rates of over 50% have been measured in  Norway rats,  which  shed massive numbers of organisms for life without showing clinical illness. Some serovars appear to be preferentially adapted to select mammalian hosts. For example, the serovar Icterohaemorrhagiae is primarily associated with the Norway  rat,  Canicola  with  dogs,  and  Pomona  with  swine  and cattle. However, a particular host species may serve as a reservoir for one or more serovars, and a particular serovar may colonize different animal species.
+Transmission of infection from animal to human usually occurs through contact with contaminated water or moist soil. Organisms enter humans through abrasions of the skin or through the mucosal surface of the eye, mouth, nasopharynx, or esophagus. Crowded cities that are |ood-prone and have large rat populations provide ideal conditions for disease transmission. Escalating migration of the rural poor to urban slums is likely to further exacerbate the risks of leptospirosis transmission. An outbreak in Nicaragua in 1995 12 and an urban epidemic in Salvador, Brazil, in 1999 5 were associated with particularly heavy rains and |ooding. In 2009 two typhoons  struck  the  Philippines  and  caused  massive  |ooding. 8 Leptospirosis was recognized as the most urgent threat to health in  the  aftermath  of  these  typhoons.  Special  clinics  to  treat  the disease were set up in evacuation centers, and an estimated 1.3 million |ood survivors were given chemoprophylaxis, the ef{cacy of which was presumed but not demonstrated.
+Intense exposure to leptospires has been documented in rice, sugar cane, and rubber plantation workers. Less frequently, leptospirosis is acquired by direct contact with the blood, urine, or tissues of infected animals. Epidemiologic patterns in the United States and UK have changed. Recreational exposure to freshwater (e.g.,  white  water  rafting,  triathlons,  sailing,  water  skiing)  and animal  contact  at  home  are  more  common  than  occupational exposure  as  the  chief  sources  of  disease  in  industrialized  areas other than slums.
+
+============================================================
+CHUNK 5
+============================================================
+Leptospirosis
+Measuring  incidence  by  active  surveillance  con{rms  that leptospirosis is surprisingly common. Antibody positivity rates of 37% have been recorded in rural Belize,  23% in Vietnam, and 18% in inner city Baltimore, Maryland. 13 More than 2527 human cases and 13 deaths were reported for the {rst 9 months of 1999 by the Ministry of Public Health in Thailand. Human leptospirosis is  an  important  disease  in  China,  Southeast Asia,  India, Africa, and South and Central America. It is also of signi{cance in eastern and southern Europe, Australia, and New Zealand. In the United States, the disease is primarily of veterinary importance, with only 50 to 150 human cases reported annually.
+
+============================================================
+CHUNK 6
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Infection may be asymptomatic, but 5% to 15% of cases are severe or fatal. 1 Pathogenesis, particularly that of severe disease, remains poorly understood. Overall, severe pulmonary hemorrhage syndrome (SPHS) accompanied by refractory shock appears to be the most common cause of death in leptospirosis; oliguric renal failure  without  access  to  dialysis  is  also  associated  with  fatal leptospirosis. It is unclear why renal failure predominates as the principal  cause  of  death  in  some  places,  whereas  pulmonary hemorrhage is the major cause in others, even where the most common infecting serovars are the same. There are only minor histopathologic changes in the kidneys and livers of patients with
+marked functional impairment of these organs. Patients who survive severe leptospirosis have complete recovery of hepatic and renal function, consistent with the lack of structural damage to these organs.
+
+============================================================
+CHUNK 7
+============================================================
+CLINICAL FEATURES
+The most common clinical features of leptospirosis are summarized in  T able  79.1.  Subclinical  infection  is  common,  and  less  than 10% of symptomatic  infections  result  in  severe,  icteric  illness. Even relatively virulent serovars, such as Copenhageni/ Icterohaemorrhagiae, lead more often to anicteric than to icteric disease. Old terms such as peapicker's disease, swineherd's disease, and  canicola  fever,  which  are  linked  to  speci{c  serotypes  with distinct  disease  manifestations,  are  misleading  and  should  be abandoned. The median incubation period is 10 days, with a range of  2  to  26  days. The  duration  of  the  incubation  period  has  no prognostic  signi{cance.  Once  symptoms  develop,  they  may  or may not follow a biphasic course; after an initial  febrile  illness there is defervescence and symptomatic improvement followed by a second period of disease refractory to antibiotics. However, a clear demarcation between the {rst and second stages may not be observed in icteric leptospirosis and, in mild cases, the distinction can be unclear or the second stage may never occur. The diagnostic usefulness of a history of a biphasic illness has been overemphasized. HIV co-infection does not seem to affect the clinical presentation of leptospirosis in the few co-infected patients described thus far.
+
+============================================================
+CHUNK 8
+============================================================
+Symptoms and Signs
+Typically,  the  disease  begins  with  the  abrupt  onset  of  intense headache,  fever,  chills,  and  myalgia.  Fever  often  exceeds  40°C (103°F) and is preceded by rigors. Muscle pain can be excruciating and  occurs  most  commonly  in  the  thighs,  calves,  lumbosacral region, and abdomen. Abdominal wall pain accompanied by palpation tenderness can mimic an acute surgical abdomen. Nausea, vomiting, diarrhea, and sore throat are other frequent symptoms. Cough and chest pain {gure prominently in reports of patients from Korea and China.
+
+TABLE 79.1 The Most Common Clinical Manifestations of 208 Leptospirosis Patients in Puerto Rico
+
+============================================================
+CHUNK 9
+============================================================
+Symptoms and Signs
+Fever, Anicteric (106 Cases) = 100. Fever, Icteric (102 Cases) = 99. Myalgia, Anicteric (106 Cases) = 97. Myalgia, Icteric (102 Cases) = 97. Headache, Anicteric (106 Cases) = 82. Headache, Icteric (102 Cases) = 95. Chills, Anicteric (106 Cases) = 84. Chills, Icteric (102 Cases) = 90. Sore throat, Anicteric (106 Cases) = 72. Sore throat, Icteric (102 Cases) = 87. Nausea, Anicteric (106 Cases) = 71. Nausea, Icteric (102 Cases) = 81. Vomiting, Anicteric (106 Cases) = 65. Vomiting, Icteric (102 Cases) = 75. Eye pain, Anicteric (106 Cases) = 54. Eye pain, Icteric (102 Cases) = 38. Diarrhea, Anicteric (106 Cases) = 23. Diarrhea, Icteric (102 Cases) = 30. Oliguria, Anicteric (106 Cases) = 20. Oliguria, Icteric (102 Cases) = 30. Cough, Anicteric (106 Cases) = 15. Cough, Icteric (102 Cases) = 32. Hemoptysis, Anicteric (106 Cases) = 5. Hemoptysis, Icteric (102 Cases) = 14. Signs (% of Cases), Anicteric (106 Cases) = . Signs (% of Cases), Icteric (102 Cases) = . Conjunctival infection, Anicteric (106 Cases) = 100. Conjunctival infection, Icteric (102 Cases) = 98. Muscle tenderness, Anicteric (106 Cases) = 70. Muscle tenderness, Icteric (102 Cases) = 79. Hepatomegaly, Anicteric (106 Cases) = 60. Hepatomegaly, Icteric (102 Cases) = 60. Pulmonary findings, Anicteric (106 Cases) = 11. Pulmonary findings, Icteric (102 Cases) = 36. Lymphadenopathy, Anicteric (106 Cases) = 35. Lymphadenopathy, Icteric (102 Cases) = 12. Petechiae, ecchymoses, Anicteric
+
+============================================================
+CHUNK 10
+============================================================
+Symptoms and Signs
+(106 Cases) = 4. Petechiae, ecchymoses, Icteric (102 Cases) = 29
+Adapted from Alexander AD, Benenson AS, Byrne RJ, et al. Leptospirosis in Puerto Rico. Zoonoses Res 1963;2:152-227.
+Conjunctival suffusion is a helpful diagnostic clue that usually appears 2 or 3 days after the onset of fever and involves the bulbar conjunctiva. Pus and serous secretions are absent, and there is no matting of the eyelashes and eyelids. Mild suffusion can easily be overlooked. Less common and less distinctive signs include pharyngeal injection, splenomegaly, hepatomegaly, lymphadenopathy, and skin lesions. Within a week, most patients become asymptomatic. After  several  days  of  apparent  recovery,  the  illness  resumes  in some individuals.  Manifestations  of  the  second  stage  are  more variable and mild than those of the initial illness and usually last 2 to 4 days. Leptospires disappear from the blood, cerebrospinal |uid (CSF), and tissues but appear in the urine. Serum antibody titers rise-hence the term immune phase. Aseptic meningitis is the hallmark of this stage of  leptospirosis but is not associated with mortality.  Pleocytosis of the CSF can be demonstrated in 80% to 90% of all patients during the  second  week  of  illness, although only about 50% will have clinical signs and symptoms of meningitis. Meningeal signs can last several weeks but usually resolve  within  a  day  or  two.  Uveitis  is  a  late  manifestation  of leptospirosis, generally seen 4 to 8 months after the illness has begun. The anterior uveal tract is most frequently affected, and pain, photophobia, and blurring of vision are the usual symptoms.
+
+============================================================
+CHUNK 11
+============================================================
+Laboratory Findings
+White blood cell count varies, but neutrophilia is usually present. Urinalysis may show proteinuria, pyuria, and microscopic hematuria. Enzyme markers of skeletal muscle damage, such as creatinine kinase and aldolase, are elevated in the sera of 50% of patients during the {rst week of illness. Chest radiographs from patients with pulmonary manifestations show a variety of abnormalities, but none is pathognomonic of leptospirosis. The most common {nding is patchy, non-lobal, diffuse in{ltrates.
+
+============================================================
+CHUNK 12
+============================================================
+Icteric Leptospirosis (Weil's Disease)
+Weil's disease refers to severe, life-threatening leptospirosis and is  characterized  by  jaundice,  renal  dysfunction,  hemorrhagic manifestations, refractory shock, and a high mortality rate. Although jaundice is the hallmark of severe leptospirosis, true liver failure does not occur. The degree of jaundice has no prognostic signi{cance, but its presence or absence does-virtually all leptospirosis deaths occur in icteric patients but are usually  related to  other associated  mechanisms  (hemorrhage  or  oliguric  renal  failure). Icterus {rst appears between the {fth and ninth days of illness, reaches maximum intensity 4 or 5 days later, and continues for an average of 1 month. Hepatomegaly is found in the majority of  patients;  hepatic  percussion  tenderness  is  a  reliable  clinical marker of continuing disease activity. There is no residual liver dysfunction  in  survivors  of  Weil's  disease,  consistent  with  the absence of structural damage.
+Bleeding  is  occasionally  seen  in  anicteric  cases  but  is  most prevalent in severe disease. Purpura, petechiae, epistaxis, bleeding of the gums, and minor hemoptysis are the most common hemorrhagic manifestations; however, deaths occur from subarachnoid hemorrhage and exsanguination from gastrointestinal bleeding. Conjunctival hemorrhage is an extremely useful diagnostic {nding and, when combined with scleral icterus and conjunctival suffusion, produces eye  {ndings  strongly  suggestive  of  leptospirosis  (Fig. 79.1). The frequency with which severe pulmonary hemorrhage complicates leptospirosis is variable  but is a cardinal feature of some outbreaks.
+Life-threatening oliguric renal failure is a complication of icteric disease, although all forms of leptospirosis may be associated with non-oliguric kidney dysfunction. Oliguria or anuria usually develop during the second week of illness but may appear earlier. Complete anuria is a grave prognostic sign often seen in patients who present late  in  the  course  of  illness  with  frank  uremia  and  irreversible
+
+============================================================
+CHUNK 13
+============================================================
+Icteric Leptospirosis (Weil's Disease)
+Fig. 79.1 Jaundice, hemorrhage, and conjunctival suffusion in acute leptospirosis.
+disease. Because renal failure develops very quickly in leptospirosis, symptoms and signs of uremia are frequently encountered. Anorexia, vomiting, drowsiness, disorientation, and confusion are seen early and rapidly progress to convulsions, stupor, and coma in severe cases.  Disturbances  of  consciousness  in  a  patient  with  severe leptospirosis are usually caused by uremic encephalopathy, whereas in  anicteric  cases  aseptic  encephalitis  is  the  usual  cause.  Renal function eventually returns to normal in survivors of Weil's disease, although detectable abnormalities may persist for several months.
+Leptospirosis-associated SPHS is now recognized as a widespread  public health problem with a case fatality rate  of  about 50%. This lethal complication of leptospirosis can occur either with  or  without  jaundice  and  renal  failure.  Hemoptysis  is  the cardinal sign but may not be apparent until patients are intubated. Real-time  polymerase  chain  reaction  (PCR)  has  shown  that leptospiremia is 10,000 or more bacteria per milliliter of blood in  SPHS-the  apparent  critical  threshold  for  severe  outcomes such as SPHS and death. 6
+
+============================================================
+CHUNK 14
+============================================================
+Laboratory Features of Weil's Disease
+Hyperbilirubinemia  results  from  increases  in  both  conjugated (direct)  and  unconjugated  (indirect)  bilirubin, but  elevations  of the direct fraction predominate. Prolongations of the prothrombin time commonly occur but are easily corrected by the administration of  vitamin  K;  modest  elevations  of  serum alkaline  phosphatase are  typical.  There  is  mild  hepatocellular  necrosis;  greater  than {vefold  increases  of  transaminase  (aminotransferase)  levels  are unusual. Jaundiced patients usually have leukocytosis in the range of 15,000 to 30,000 per mm 3 , and neutrophilia is constant. Anemia is common and multifactorial; blood loss and renal dysfunction contribute  frequently,  intravascular  hemolysis  less  often.  Mild thrombocytopenia often occurs, but decreases in platelet count suf{cient  to  be  associated  with  bleeding  are  exceptional.  The speci{c  gravity  of  the  urine  is  high.  Hypokalemia  due to  renal potassium  wasting  can  occur,  and  hypomagnesemia  has  been reported.
+
+============================================================
+CHUNK 15
+============================================================
+Patient Evaluation
+Patients who present with an undifferentiated febrile illness must be  carefully  evaluated  for  possible  leptospirosis.  A  history  of submersive water exposure or direct animal contact is essential to suspecting diagnosis. Key symptoms and signs are conjunctival suffusion and severe myalgia with tenderness. In the context of a known  outbreak  of  leptospirosis,  individuals  must  be  carefully assessed for signs of severe disease. The most important signs of severity are jaundice, severe thrombocytopenia, bleeding, pulmonary involvement,  oliguria,  hypomagnesemia  and  hypokalemia,  and elevated serum creatinine.
+
+============================================================
+CHUNK 16
+============================================================
+Diagnosis
+Most cases go undiagnosed because symptoms and signs are often non-speci{c and diagnostic con{rmation is rarely available where most disease transmission occurs. Failure to diagnose leptospirosis is  particularly  unfortunate:  severely  ill  patients  often  recover completely with prompt treatment, but delayed therapy is likely to  result  in  a  poor  clinical  outcome.  Late  disease  can  often  be recognized by its typical clinical manifestations, but the presentation of early leptospirosis is usually non-speci{c and is therefore dif{cult to identify clinically. Leptospirosis has long been acknowledged to be a frequent cause of undifferentiated febrile illness in developing countries. Co-infection with diseases such as dengue, malaria, and scrub typhus has been reported and adds to the diagnostic confusion of tropical fevers.
+Laboratory diagnosis of leptospirosis remains problematic. The microscopic  agglutination  test  is  considered  the  serodiagnostic method of choice for leptospirosis, but its complexity limits its use to reference laboratories and requires paired acute and convalescent serum samples. Dilutions of patient sera are applied to a  panel  of  live,  pathogenic  leptospires. The  results  are  viewed under  dark-{eld  microscopy  and  expressed  qualitatively  as  the proportion of organisms cleared from the {eld by agglutination. Inadequate quality controls of the live reference strain panels can lead to frequent false-negative results. 7 A new generation of commercially available, rapid serodiagnostic kits that rely on whole Leptospira antigen preparations have been developed. Unfortunately, these  assays  seem  to  have  unacceptably  low  sensitivities  during acute-phase illness, and persistent antibody produces low speci{city in regions of high endemic transmission. The need for practical, affordable diagnostic kits to be available in areas where leptospirosis is  common cannot be overemphasized. PCR and urine antigen detection are research tools that would be of the greatest potential diagnostic value in patients who present early, before antibodies have  reached detectable levels;  these  tests  are  not  available  for most affected populations.
+Isolation of leptospires from blood or CSF is possible during the {rst 10 days of clinical illness, but specialized media are necessary. Serially diluted urine provides the highest yield. Unfortunately, culture  results  are  only  known  many  weeks  later-too  late  to bene{t severely ill, hospitalized patients.
+
+============================================================
+CHUNK 17
+============================================================
+Diagnosis
+Several  attempts  have  been  made  to  formulate  diagnostic algorithms by assigning points to various clinical, epidemiologic, and laboratory parameters. The points are totaled and the score is then used to represent the likelihood that the patient in question has leptospirosis. An example is shown in T able 79.2. The usefulness of these scoring systems is limited by their complexity, by marked regional variability in the quality of available diagnostic tests, and by regional differences in the prevalent differential diagnoses that must be considered. However, these scoring  systems are useful teaching tools and emphasize the important epidemiologic and clinical characteristics of leptospirosis.
+
+============================================================
+CHUNK 18
+============================================================
+Differential Diagnosis
+The typical leptospirosis patient has a history of water or animal contact, conjunctival suffusion, and severe myalgia. It is important to solicit these {ndings in both mild and severe cases of leptospirosis. Atypical or mild cases are often confused with other entities, but because of a low index of suspicion and the disease's protean manifestations, the diagnosis is often missed, even in typical cases.
+TABLE 79.2 Modified World Health Organization (WHO) Criteria for Diagnosis of Leptospirosis
+
+Part A Clinical signs and symptoms (score), 1 = . > 39.0°C, 1 = (2 points). , 1 = (4 points). , 1 = (4 points). , 1 = (4 points). , 1 = (1 point). , 1 = (1 point). Part B Risk factors for exposure (score), 1 = . , 1 = (5 points). , 1 = (5 points). , 1 = (1 point). Part C Laboratory test results (score), 1 = . , 1 = (15 points). - single high titer, 1 = (15 points). , 1 = (25 points)
+
+============================================================
+CHUNK 19
+============================================================
+Interpretation:
+Presumptive leptospirosis if score ≥ 25 points.
+Possible leptospirosis if score between 20 and 25 points.
+ELISA , Enzyme-linked immunosorbent assay; IgM , immunoglobulin M; MAT , microscopic agglutination test.
+
+============================================================
+CHUNK 20
+============================================================
+BOX 79.1 Clinical Pearl
+Muscles of patients with leptospirosis can be exquisitely tender and painful to the touch, but palpation of painful muscles in patients with scrub typhus sometimes provides pain relief.
+The most important differential diagnoses differ in mild and severe disease.
+
+============================================================
+CHUNK 21
+============================================================
+Anicteric Leptospirosis
+Acute  undifferentiated  febrile  illness,  fever  of  unknown  origin, and aseptic meningitis are the most common clinical impressions in mild leptospirosis. Severe myalgia involving several different muscle  groups,  particularly  the  calves-not  just  the  abdominal wall-suggests leptospirosis rather than appendicitis. Fever and vomiting are frequently misdiagnosed as gastroenteritis.
+
+============================================================
+CHUNK 22
+============================================================
+Weil's Disease
+Viral hepatitis is a common misdiagnosis in patients with Weil's disease. Leukocytosis, elevated serum bilirubin levels without marked transaminase  elevations,  and  renal  dysfunction  are  typical  of leptospirosis but unusual in hepatitis. Marked leukocytosis and a negative blood {lm argue against malaria. Jaundice, severe renal dysfunction, and leukocytosis are atypical of typhoid fever. Differentiating leptospirosis from scrub typhus and Korean hemorrhagic fever (caused by Hantaan virus) in areas where these diseases co-exist is more dif{cult. Both are associated with animals, and both can cause conjunctival suffusion. Korean hemorrhagic fever is transmitted by infected rodent urine, and mixed infection with Leptospira interrogans and Hantaan virus has been reported. Liver disease is not usually a prominent manifestation of Korean hemorrhagic fever. Splenomegaly and generalized lymphadenopathy are characteristic of scrub typhus but not leptospirosis. Serum creatinine levels are usually normal, even in jaundiced patients with Orientia tsutsugamushi infection.  The  myalgia  of  leptospirosis  is  usually more severe than that of scrub typhus (Box 79.1).
+
+============================================================
+CHUNK 23
+============================================================
+BOX 79.2 Clinical Pearl
+Kawasaki's disease (mucocutaneous lymph node syndrome) must be differentiated from leptospirosis in children < 5 years old with desquamation and involvement of the gallbladder and myocardium.
+
+============================================================
+CHUNK 24
+============================================================
+Severe Pulmonary Hemorrhage Syndrome
+Leptospirosis with prominent hemorrhagic manifestations is easily misdiagnosed  as  dengue  virus  infection.  A  severe  outbreak  of leptospirosis with SPHS in Nicaragua was initially thought to be dengue. 12
+
+============================================================
+CHUNK 25
+============================================================
+Childhood Leptospirosis
+This shares many features with adult disease; pulmonary hemorrhage occurs, and severe renal dysfunction is common. Distinct clinical  features  include  hypotension,  acalculous  cholecystitis, pancreatitis, and abdominal causalgia (burning pain). Skin lesions may desquamate and become gangrenous (Box 79.2).
+
+============================================================
+CHUNK 26
+============================================================
+TREATMENT
+Placebo-controlled,  double-blind  trials  have  demonstrated  that doxycycline  bene{ts  patients  with  early,  mild  leptospirosis  and that intravenous penicillin helps adults with severe, late disease. 14 The outcome of severe, pediatric leptospirosis is also improved by penicillin therapy. 15 Antibiotics should therefore be given to all patients with leptospirosis, regardless of age or when in their disease  course  they  are  seen.  Doxycycline  is  given  at  doses  of 100 mg orally twice a day for 1 week. Patients who are vomiting or are seriously ill require parenteral therapy. Intravenous penicillin G is administered to adults as 1.5 million units every 6 hours for 1 week. Recent trials from Thailand indicate that treatment with ceftriaxone, cefotaxime, and doxycycline had equivalent ef{cacy to penicillin in patients with mild to moderately severe disease. However, it is not known whether these antibiotics are as effective as  high-dose  penicillin  for  treatment  of  the  most  severely  ill individuals. Doxycycline and azithromycin had comparable ef{cacy as presumptive treatment of mildly ill patients found later to have leptospirosis, scrub typhus, or dual infections.
+There is controversy regarding the occurrence of a JarischHerxheimer reaction in leptospirosis. If present, it is much less prominent in leptospirosis than in other spirochetal illnesses. The important practical consideration is that antibiotics should not be withheld  because  of  the  fear  of  a  possible  Jarisch-Herxheimer reaction.
+
+============================================================
+CHUNK 27
+============================================================
+TREATMENT
+The management of pulmonary hemorrhage  often requires prompt intubation and mechanical ventilation. SPHS patients have physiologic and pathologic evidence of acute respiratory distress syndrome, so ventilation using low tidal volumes and high postexpiratory end pressures should be provided; hemodialysis even in the absence of renal failure may be useful for the pulmonary hemorrhage syndrome. 14 Respiratory support to maintain adequate tissue oxygenation is essential because in non-fatal cases complete recovery of pulmonary function can be achieved. Ensuring adequate renal perfusion prevents renal failure in the vast majority of oliguric individuals. Continuous hemo{ltration has been shown to be more effective than peritoneal dialysis in treating infection-associated hypercatabolic renal failure. Peritoneal dialysis, however, may be the only option in resource-limited settings. Whichever method of dialysis is chosen, it must be started promptly-delays increase mortality.
+
+============================================================
+CHUNK 28
+============================================================
+PREVENTION
+Doxycycline  200 mg  taken  once  a  week  prevents  infection  by pathogenic leptospires. 16 Widespread use of doxycycline prophylaxis is not indicated, but it can bene{t those who are at high risk for a short time, such as military personnel and certain agricultural workers.  Infection  by  leptospires  confers  only  serovar-speci{c immunity; second attacks caused by different serovars can occur. The ef{cacy and safety of human leptospiral vaccines have yet to be conclusively demonstrated. Prevention of leptospirosis in the tropics  is  particularly  dif{cult.  The  large  animal  reservoir  of infection is impossible to eliminate, the occurrence of numerous serovars limits the usefulness of serovar-speci{c vaccine, and the wearing of protective clothing (e.g., rubber boots in rice {elds) is both prohibitively expensive and impractical. Providing proper sanitation in urban slum communities would be the most effective control measure in this setting.
+
+============================================================
+CHUNK 29
+============================================================
+REFERENCES
+1.  Costa  F ,  Hagan  JE,  Calcagno  J,  et al.  Global  morbidity  and  mortality  of  leptospirosis:  a  systematic  review.  PLoS  Negl  T rop  Dis. 2015;9(9):e0003898.
+2.  Inada R, Ido Y, Hoki R, et al. The Etiology, Mode of Infection, and Speci{c Therapy of Weil's disease (Spirochaetosis Icterohaemorrhagica). J Exp Med 1916;23(3):377-402.
+3.  Agampodi S, Peacock SJ, Thevanesam V. The potential emergence of leptospirosis in Sri Lanka. Lancet Infect Dis 2009;9(9):524-6.
+4.  Bharti AR, Nally JE, Ricaldi JN, et al. Leptospirosis: a zoonotic disease of global importance. Lancet Infect Dis 2003;3(12):757-71.
+5.  Ko  AI,  Galvao  Reis  M,  Dourado  CMR,  et al.  Urban  epidemic  of severe leptospirosis in Brazil. Lancet 1999;354:820-5.
+6.  Vinetz JM, Glass GE, Flexner CE, et al. Sporadic urban leptospirosis. Ann Intern Med 1996;125:794-8.
+7.  Agampodi SB, Peacock SJ, Thevanesam V , et al. Leptospirosis outbreak in Sri Lanka in 2008: lessons for assessing the global burden of disease. Am J Trop Med Hyg 2008;85(3):471-8.
+8.  Matsushita  N,  Ng  CFS,  Kim  Y,  et al.  The  non-linear  and  lagged short-term  relationship  between  rainfall  and  leptospirosis  and  the intermediate role of |oods in the Philippines. PLoS Negl T rop Dis. 2018;12(4):e0006331.
+
+============================================================
+CHUNK 30
+============================================================
+REFERENCES
+9.  Thaipadungpanit J, Wuthiekanun V, Chierakul W, et al. A dominant clone of Leptospira interrogans associated with an outbreak of human leptospirosis in Thailand. PLoS Negl T rop Dis. 2007;1(1):e56.
+10.  Thibeaux  R,  Iraola  G,  Ferres  I,  et al.  Deciphering  the  unexplored Leptospira diversity from soils uncovers genomic evolution to virulence. Microb Genom 2018;4(1).
+11.  Fouts  DE,  Matthias  MA, Adhikarla  H,  et al. What  makes  a  bacterial  species  pathogenic?:comparative genomic analysis of the genus Leptospira. PLoS Negl Trop Dis. 2016;10(2):e0004403.
+12.  Zaki SR, Shieh W-J. Leptospirosis associated with outbreak of acute febrile illnesses and pulmonary haemorrhage, Nicaragua, 1995. Lancet 1996;347:535-6.
+13.  Childs  JE,  Schwartz  BS,  Ksiazek TG, et al.  Risk  factors  associated with antibodies to leptospires in inner-city residents of Baltimore: a protective role for cats. Am J Public Health 1992;82(4):597-9.
+14.  Watt  G,  Padre  LP ,  T uazon  ML,  et al.  Placebo-controlled  trial  of intravenous  penicillin for severe and  late leptospirosis.  Lancet 1988;1(8583):433-5.
+15.  T akafuji  ET,  Kirkpatrick  JW,  Miller  RN,  et al. An  ef{cacy  trial  of doxycycline chemoprophylaxis against leptospirosis. N Engl J Med 1984;310(8):497-500.
+16.  Andrade  L,  Cleto  S,  Seguro  AC.  Door-to-dialysis  time  and  daily hemodialysis in patients with leptospirosis: impact on mortality. Clin J Am Soc Nephrol 2007;2(4):739-44.
+

@@ -1,0 +1,170 @@
+============================================================
+CHUNK 0
+============================================================
+Key Features
+- Gonorrhea is caused by Neisseira gonorrhoeae , a Gramnegative diplococcus that infects columnar epithelial surfaces often resulting in extensive mucopurulent discharge
+- In contrast to men, many women with gonococcal infection are asymptomatic or minimally symptomatic
+- Gonorrhea is usually transmitted sexually
+- Gonorrhea can cause urethritis, endocervical infection, pelvic in&ammatory disease, proctitis, pharyngitis, ocular infection and disseminated infection
+- Neonates can become infected by passage through the birth canal, and infected neonates may present with purulent ocular discharge (ophthalmia neonatorum)
+- Diagnosis of gonococcal infection is usually based on syndromic recognition, or culture or non-culture assays
+- Antibiotic resistance is problematic and of growing concern
+- Treatment often involves the use of single dose parenteral ceftriaxone (to target gonorrhea) together with a 7-day course of a tetracycline or a macrolide antibiotic (to empirically treat possible chlamydial co-infection)
+- Metronidazole is often added to the above regimwen to treat women with pelvic in&ammatory disease (PID)
+- Newborns with gonoccocal ophthalmia neonatorum need systemic parenteral treatment, usually with ceftriaxone
+- Prevention of gonorrhea involves adherence to safer sex practices and tracing and treating of contacts and partners
+- Individuals with gonorrhea should be evaluated and treated for other sexually transmitted diseases
+
+============================================================
+CHUNK 1
+============================================================
+INTRODUCTION
+Gonorrhea is caused by Neisseria gonorrhoeae , a Gram-negative diplococcus that can infect a variety of mucosal surfaces lined by columnar epithelial cells. It remains the second most commonly reported notifiable disease in the USA. Following a significant decline in incidence during the last  three  decades  of  the  1990s,  probably  as  a  result  of successful implementation of control activities, rates have essentially stabilized  over  the  past  10  years.  Elsewhere  in  the  industrialized world, the decline in gonorrhea has also been precipitous, with the disease nearing eradication in some Scandinavian countries. Gonorrhea remains a significant public health problem in many developing countries.
+Gonorrhea is transmitted almost exclusively by sexual contact, with adults under 30 years of age who have unprotected sex with multiple sexual partners at highest risk of infection. The sites most affected are the  urethra  in  men  and  the  uterine  cervix  and  urethra  in  women. Rectal infection is common in both women and men who have sex with men, and gonococcal pharyngitis can occur in both sexes following  orogenital  contact.  Although  gonococcal  vulvovaginitis  in prepubertal  girls  can  be  the  result  of  contact  with  fomites,  sexual transmission is the most frequent cause of infection, even in young children. Vertical transmission can result in conjunctivitis and infection of the  pharynx, vagina and rectum of babies born to infected mothers.
+
+============================================================
+CHUNK 2
+============================================================
+ETIOLOGY
+Neisseria gonorrhoeae is a Gram-negative diplococcus that forms small, mucoid, oxidase-positive colonies on chocolate agar. It is differentiated from other species of Neisseria by its ability to ferment glucose, but  not  lactose,  sucrose  or  maltose.  Confirmatory  tests  include co-agglutination  with  monoclonal  antibodies  and  DNA  hybridization. The ultrastructure of the gonococcal cell envelope is similar to that of other Gram-negative bacteria. Notably, the cell wall contains a number of antigenic proteins, lipopolysaccharide and pili (which are  filamentous  structures  that  aid  attachment  to  cell  surfaces  and enhance resistance to phagocytosis and killing by neutrophils).
+
+============================================================
+CHUNK 3
+============================================================
+ANTIGENS AND IMMUNITY
+The  gonococcal  pili,  lipopolysaccharide  and  the  outer  membrane proteins are antigenic; IgG and IgA antibodies to homologous isolates have been detected in mucosal secretions following uncomplicated infections [1]. However, in practice, natural, uncomplicated gonococcal infections do not confer any significant immunity and re-infections are common. Patients with a congenital deficiency in one of the terminal  components  of  complement  (C7,  C8,  C9)  may  experience recurrent episodes of disseminated gonococcal infection. A variety of methods for gonococcal typing have been developed, including auxotyping  (which  is  dependent  upon  determining  requirements  for growth),  or  protein  I  serotyping.  By  using  both  auxotyping  and serovar analysis, gonococci have been divided into a large number of classes  that  have been widely used as  a  tool for  the epidemiologic study  of  gonococcal  infections.  More  recently,  molecular  methods, such as pulsed field gel electrophoresis, opa -typing and, particularly, Neisseria  gonorrhoeae Multi-Antigen  Sequence  Typing  (NG-MAST) have been used to elucidate the epidemiologic linkages of gonococcal infections in various sexual networks.
+
+============================================================
+CHUNK 4
+============================================================
+ANTIBIOTIC-RESISTANT STRAINS
+Plasmids encoding for the production of ß-lactamases were first demonstrated  in  gonococci  in  1976.  These  penicillinase-producing N. gonorrhoeae (PPNG)  are  now  commonly  encountered  around  the world. High-level resistance to tetracyclines associated with the acquisition of a 25.2 MDa tet-M plasmid (TRNG) was initially detected in 1985 and has subsequently spread around the world [1]. In addition,
+gonococci may be resistant to many antibiotics as a result of chromosomal mutations. Strains showing chromosomal resistance to penicillin/ampicillin/amoxicillin may also show decreased susceptibility to cephalosporins,  tetracycline and  macrolide  antibiotics. Decreased  susceptibility  and  high-level  chromosomal  resistance  of gonococcal strains to the fluoroquinolone antibiotics emerged more recently in many countries. Such resistance is thought to be the result of the acquisition of point mutations in genes encoding gonococcal DNA  gyrase  ( gyr A)  and  topoisomerase  IV  ( par C)  enzymes,  and changes in bacterial cell membrane permeability. These mechanisms of  resistance  can  occur  in  combination,  rendering  most  treatment options ineffective. Where fluoroquinolone resistance is common, the only class of antibiotic that can be used with confidence is the cephalosporins. Even here, problems have emerged with oral cephalosporin treatment  failures  being  recorded  in  the  Far  East.  It  is  clear  that, barring the development of a new class of antibiotic active against N. gonorrhoeae, the era of single-dose, single-agent treatment for gonorrhea may be coming to an end, and that combination therapy may become routine in the near future.
+
+============================================================
+CHUNK 5
+============================================================
+URETHRITIS
+The clinical features  of  gonococcal  urethritis  in men are a urethral discharge,  which  is  often  profuse  and  purulent  (Fig.  50.1),  dysuria and frequency  of  micturition  [2].  The  onset  of  symptoms  is  often sudden following an incubation period of 1-10 days but, in a minority of cases, the disease may be asymptomatic. In rare cases, N. gonorrhoeae may spread to the epididymis and testis, the prostate, or Skene's and Littré's glands.
+
+============================================================
+CHUNK 6
+============================================================
+ENDOCERVICAL INFECTION
+In  contrast  to  men,  most  women  with  gonococcal  infection  are asymptomatic or minimally symptomatic. Those with symptoms may complain of a vaginal discharge or dysuria, which may be associated with infection of the urethra. On speculum examination, a purulent discharge  may  be  seen  arising  from  the  endocervical  canal  but,  in many cases, no visible endocervical mucus can be detected on visual inspection. If left untreated, these infections may progress to salpingitis without any obvious symptoms.
+
+============================================================
+CHUNK 7
+============================================================
+GONOCOCCAL PELVIC INFLAMMATORY DISEASE
+Neisseria gonorrhoeae may ascend from the endocervical canal to the endometrium, fallopian tubes and, eventually, the peritoneal cavity, causing endometritis, salpingitis and pelvic peritonitis. Symptomatic patients may report lower abdominal pain which is usually bilateral.
+FIGURE  50.1 Purulent  urethral  discharge  associated  with  gonococcal urethritis.
+The severity of the condition may vary from being virtually asymptomatic to life-threatening. A profuse vaginal discharge, often with an offensive  odor,  is  commonly  noted  and  is  often  associated  with dysuria.  Abnormal  uterine  bleeding  occurs  in  35-40%  of patients, probably as a result of endometritis. Patients with gonococcal pelvic inflammatory disease  (PID)  may  have  associated  chlamydial  infection, while anaerobic super-infection may contribute to disease etiology, particularly in severe cases [3].
+Clinical findings include pyrexia, tachycardia, lower abdominal tenderness and pelvic, or even generalized, peritonitis. Vaginal examination  reveals  cervical  excitation  tenderness  and,  frequently,  adnexal tenderness.  Adnexal  masses  may  be  formed  from  tubo-ovarian abscesses  or  from  omentum  and  bowel  adherent  to  the  inflamed tubes and ovaries. Occasionally, a patient may present in extremis , with features of generalized peritonitis, septicemic shock and disseminated intravascular coagulopathy. In some severe cases, the liver capsule can become inflamed  and  attached  to  the  peritoneum  by  fine  'violinstring' adhesions. This perihepatitis is also known as Fitz-Hugh-Curtis syndrome. Resolution of tubal infections may result in formation of  fine  scars that  are  associated  with  increased risk of ectopic  pregnancy and tubal infertility.
+
+============================================================
+CHUNK 8
+============================================================
+GONOCOCCAL PROCTITIS
+Most  cases  of  gonococcal  proctitis  are  asymptomatic,  but  may  be associated with an anal discharge, blood and/or mucus in stools, and pain during defecation. Gonococcal proctitis is common in men who have sex with men who practice anal-receptive intercourse; the disease is  frequently  associated  with  other  sexually  acquired  enteric  infections.  Women  may  acquire  gonococcal  proctitis  from  heterosexual anal intercourse or as a result of spread from the adjacent vagina.
+
+============================================================
+CHUNK 9
+============================================================
+GONOCOCCAL PHARYNGITIS
+Pharyngeal gonococcal infection, in common with rectal infection, tends to be asymptomatic. However, a minority of patients may complain of a sore throat and, on examination, a mucopurulent exudate may be present. Pharyngeal infections occur in those patients practicing fellatio or cunnilingus.
+
+============================================================
+CHUNK 10
+============================================================
+OCULAR INFECTIONS
+Ocular infections occur in neonates born to infected mothers. It is characterized by edema of the lids and a profuse purulent discharge (Fig.  50.2).  The  incubation  period  is  usually  short  (normally  1-4 days). Occasionally, a severe, purulent keratoconjunctivitis is seen in adults following accidental exposure of the eye to genital secretions. Both neonatal and adult eye infections require prompt diagnosis and treatment  in  order  to  prevent  sight-threatening  sequelae  that  may ensue as a result  of  corneal  opacities,  scarring,  or  panophthalmitis and perforation.
+FIGURE 50.2 Gonococcal ophthalmia neonatorum.
+
+============================================================
+CHUNK 11
+============================================================
+DISSEMINATED GONOCOCCAL INFECTION
+Disseminated gonococcal infection (DGI) occurs as a result of gonococcal bacteremia. The source of infection tends to be asymptomatic endocervical, pharyngeal, rectal or urethral disease. The most common form of DGI is the dermatitis-arthritis syndrome, in which patients, usually  women,  develop  arthralgias  and  macular,  pustular,  hemorrhagic or necrotic skin lesions on the distal extremities. A minority of patients develops septic joints with a purulent effusion and associated fever.  The  disease  normally affects  isolated joints. Other manifestations of gonococcal bacteremia include endocarditis and meningitis. Fortunately, these complications are extremely rare.
+
+============================================================
+CHUNK 12
+============================================================
+THE GRAM STAIN
+The finding of intracellular Gram-negative diplococci in Gram-stained smears of urethral or conjunctival material is generally regarded as sufficient evidence for a presumptive diagnosis of gonococcal infection in symptomatic men with acute urethritis and in patients with conjunctivitis  (Fig.  50.3).  However,  whenever  possible, the  exudate should be cultured on a selective medium to confirm the diagnosis. Owing to the presence of large numbers of bacteria that can be mistaken  for  (or  mask) N.  gonorrhoeae in  the  female  genital  tract  and rectum,  or  the  presence  of  other Neisseria spp.,  especially  in  the oropharynx, Gram-stained smears of genital secretions from women and from the rectum or pharynx of patients with suspected gonococcal infection are of questionable diagnostic value.
+
+============================================================
+CHUNK 13
+============================================================
+CULTURE
+Urethral swabs should be taken from men and endocervical, urethral and rectal swabs from women to optimize isolation rates. Pharyngeal swabs should be taken from patients with a history of recent orogenital contact.
+Specimens for culture of N. gonorrhoeae should be plated directly onto a selective medium such as Thayer-Martin or New York City medium, each of which is composed of a gonococcal, or equivalent, agar base, with additional growth supplements and antibacterial and antifungal agents. If the specimen is obtained from a site that is usually sterile (e.g. blood or synovial fluid), it can be inoculated directly onto plates of  nonselective  chocolate  agar.  Inoculated  plates  can  be  stored  at room temperature in a candle extinction jar for up to 6 hours without significant loss  of viability.  Alternatively,  specimens may be sent  to the laboratory in Stuart's or Amies' transport medium. After incubation for 24-48 hours at 35-36.5°C in an atmosphere of 10% carbon monoxide, in air, isolated colonies can provisionally be identified on
+FIGURE  50.3 Gram-stained  smear  of  urethral  exudate  showing  Gramnegative intracellular diplococci.
+the basis of a Gram stain, oxidase test and sugar fermentation reactions. Neisseria  gonorrhoeae produces oxidase  and  ferments glucose, but not sucrose, lactose or maltose. Alternatively, isolated organisms can  be  identified  by  using  monoclonal  antibodies  in  commercial co-agglutination tests.
+While culture is largely being replaced by nonculture methods for the diagnosis of gonorrhea in many industrialized countries, it is essential to maintain culture capability for N. gonorrhoeae in order to perform antimicrobial susceptibility testing where necessary.
+
+============================================================
+CHUNK 14
+============================================================
+NONCULTURE TESTS
+Commercially available nonculture tests for the diagnosis of gonorrhea include antigen detection tests, for example ELISA assays, nonamplified  nucleic  add  probes  and  nucleic  acid  amplification  tests (NAATs),  such  as  PCR,  strand  displacement  amplification  (SDA), transcription-mediated amplification (TMA) and real-time PCR tests. These amplified tests, although relatively expensive, are more sensitive than  culture  and  have  the  advantage  that  they  can  be  applied  to 'noninvasive' specimens, such as self-administered vaginal swabs in women and first-catch urine in men-making them ideal for screening applications. Despite the emergence of NAATs as the diagnostic tests of choice for gonorrhea, false-positive results are known to occur, particularly when testing specimens obtained from nongenital sites. It  is  therefore  recommended that positive gonococcal NAAT results should be confirmed with another NAAT which uses an alternative target  sequence  in  order  to  reduce  the  possibility  of  false-positive results that are known to occur with related Neisseria spp.  Unfortunately, all nonculture tests share the disadvantage that they can detect nonviable N.  gonorrhoeae .  Therefore,  they  cannot  be recommended for evaluation of tests of cure following treatment.
+
+============================================================
+CHUNK 15
+============================================================
+UNCOMPLICATED GONOCOCCAL INFECTIONS
+Single-dose  therapy  is  preferred  to  overcome  problems  associated with patient compliance. However, in many countries where gonorrhea is common, the choice of treatment is limited by financial constraints and the availability of antibiotics. The likelihood of concurrent infection justifies the use of combination therapies active against all possible causes of the presenting disease 'syndrome' . This 'syndromic approach' to the management of sexually transmitted infections has been advocated by the World Health Organization (WHO) [4]. Since 1985, the treatment guidelines for gonorrhea published by the Centers for Disease Control (CDC) have recommended that singledose treatments effective for eradication of N.  gonorrhoeae be  automatically followed by a 7-day course of a tetracycline or a macrolide antibiotic, which would be expected to eradicate concomitant Chlamydia trachomatis infection and other causes of nongonococcal urethritis. In many countries with few laboratory facilities, routine treatment of acute  urethritis  in  men  is  achieved  with  such  dual  therapy,  while routine  therapy  of  sexually  acquired  vaginal  discharge  and  PID  is achieved by addition of multidose metronidazole to this regimen to eradicate trichomoniasis, bacterial vaginosis and anaerobes associated with pelvic infection.
+In the few regions of the world where antimicrobial resistance of N. gonorrhoeae is not a problem, single-dose treatment with either ciprofloxacin 500 mg or ofloxacin 400 mg, by mouth, remains acceptable, followed by a 7-day course of doxycycline 100 mg twice daily or tetracycline  500 mg  four  times  daily,  both  by  mouth.  In  areas  where fluoroquinolone resistance is common, cefixime 400 mg as a single oral  dose  or  ceftriaxone  250 mg  or  spectinomycin  2 g  as  a  single, intramuscular  injection  (IM)  may  precede  the  7-day  treatment  for other infections.  Less expensive, and possibly  less effective, alternatives  used  in  some  developing  countries  include  combining  antichlamydial therapy with either kanamycin 2 g or gentamicin 240 mg as a single, intramuscular injection. Sexual partners of patients with gonorrhea should be treated simultaneously, regardless of the results of laboratory investigations.
+
+============================================================
+CHUNK 16
+============================================================
+EPIDIDYMO-ORCHITIS
+As this is usually caused by N. gonorrhoeae or C. trachomatis , the treatment  for  this  complication  is  identical  to  that  of  uncomplicated disease.
+
+============================================================
+CHUNK 17
+============================================================
+PELVIC INFLAMMATORY DISEASE (PID) AND OTHER GENITAL COMPLICATIONS
+Empirical therapy for PID is complicated by the diversity of organisms isolated from specimens obtained from the upper genital tract. The presence of N. gonorrhoeae in the endocervix does not automatically indicate  that  it  is  the  main  etiologic  agent  of  any  associated  PID. Hospital admission is warranted for a temperature > 38°C, pelvic or abdominal peritonitis, or pelvic masses, or when the diagnosis is in doubt.  Outpatient  therapies  recommended  by  the  WHO  for  treatment of PID in areas where gonococcal resistance is common include: single-dose therapy normally recommended for uncomplicated gonorrhea  plus  doxycycline,  100 mg  orally  twice  daily,  or  tetracycline, 500 mg orally four times daily for 14 days, plus metronidazole, 400500 mg orally, twice daily for 14 days.
+In  cases  of  severe  PID  requiring  hospitalization,  the  spectrum  of causative organisms is even broader. To provide adequate antimicrobial cover for N. gonorrhoeae , C. trachomatis, anaerobic bacteria ( Bacteroides spp. and Gram-positive cocci), facultative Gram-negative rods, and Mycoplasma hominis , the WHO recommends one of the following treatment regimens [4].
+
+============================================================
+CHUNK 18
+============================================================
+PELVIC INFLAMMATORY DISEASE (PID) AND OTHER GENITAL COMPLICATIONS
+1. Ceftriaxone, 500 mg by IM injection, once daily, plus doxycycline,  100 mg  orally  or  by  intravenous  (IV)  injection, twice daily, or tetracycline, 500 mg orally four times daily, plus metronidazole, 400-500 mg orally or by IV injection, twice  daily,  or  chloramphenicol,  500 mg  orally  or  by  IV injection, four times daily.
+2. Clindamycin, 900 mg by IV injection, every 8 hours, plus gentamicin 1.5 mg/kg by IV injection every 8 hours.
+3. Ciprofloxacin 500 mg orally, twice daily, or spectinomycin 1g  by  IM  injection,  four  times  daily,  plus  doxycycline, 100 mg orally or by IV injection, twice daily, or tetracycline, 500 mg orally, four times daily, plus metronidazole 400500 mg orally or by IV injection, twice daily, or chloramphenicol, 500 mg orally or by IV injection, four times daily.
+For all three regimens, therapy should be continued until at least 2 days after the patient has improved and should then be followed by either doxycycline 100 mg orally, twice daily for 14 days, or tetracycline, 500 mg orally, four times daily for 14 days.
+As intrauterine devices (IUDs) are recognized as a risk factor for PID, removal of the IUD is recommended soon after initiation of antimicrobial chemotherapy. When the IUD has been removed, appropriate contraceptive counseling should be provided.
+
+============================================================
+CHUNK 19
+============================================================
+DISSEMINATED GONOCOCCAL INFECTION
+Prolonged therapy with ceftriaxone or spectinomycin has been recommended by the WHO: ceftriaxone, 1g by IM or IV injection, once daily for 7 days; or spectinomycin, 2g by IM injection, twice daily for 7 days.
+Repeated aspiration of fluid from any septic joint is recommended. For gonococcal meningitis and endocarditis, treatment with either of the  above  regimens  is  recommended,  but  the  duration  of  therapy should be extended to 14 days in the case of meningitis and 4 weeks in the case of endocarditis.
+
+============================================================
+CHUNK 20
+============================================================
+GONOCOCCAL EYE INFECTIONS
+Ocular infections in adults  should be treated as for uncomplicated infections of the genital tract. In addition, the eyes should be irrigated frequently  with  sterile  saline  to  prevent  accumulation  of  purulent discharge.  Topical  antibiotics  alone  are  not  considered  sufficient therapy.  Neonates  with  gonococcal  ophthalmia  should,  ideally,  be hospitalized  and  isolated  for  24  hours  after  initiation  of  therapy. Ceftriaxone 50 mg/kg (maximum 125 mg), spectinomycin 25 mg/kg (maximum 75 mg) or kanamycin 25 mg/kg (maximum 75 mg) can all be given as a single IM injection. As with adults, the eyes of babies should be irrigated with sterile saline hourly to prevent accumulation of discharge. Topical antibiotic preparations alone are not sufficient for  therapy.  Both  parents  of  neonates  with gonococcal  ophthalmia must receive appropriate treatment.
+
+============================================================
+CHUNK 21
+============================================================
+PREVENTION AND CONTROL
+Prevention  strategies  for  gonorrhea  are  identical  to  those  used  for other  sexually  transmitted  infections,  namely,  rapid  diagnosis  and provision of effective therapy together with early partner notification, condom promotion and patient education programs. In developing countries, targeted interventions, such as periodic preventive therapy and outreach aimed at high-risk populations, for example sex workers, military personnel and migrant workers, may be productive. Broadbased case-finding  programs  using noninvasive  techniques, for example testing of self-administered vaginal swabs or first-catch urine for specific gonococcal nucleic acid sequences by PCR, SDA or TMA, may be cost-effective in more affluent settings.
+Gonococcal ophthalmia neonatorum may be prevented by the instillation  of  1%  silver  nitrate  eye  drops  at  birth  (Credé  prophylaxis). However, as many cases of chemically- induced conjunctivitis have been recorded following this procedure, many centers routinely use topical tetracycline, chloramphenicol or erythromycin eye ointment for ocular prophylaxis.
+
+============================================================
+CHUNK 22
+============================================================
+REFERENCES
+1.  Sparling  PF.  Biology  of Neisseria  gonorrhoeae .  In:  Holmes  KK,  Sparling  PF, Stamm WE, et al, eds. Sexually Transmitted Diseases, New York: McGraw-Hill; 2008:607-26.
+2.  Hook EW III, Handsfield HH. Gonococcal Infections in the Adult. In: Holmes KK, Sparling PF,  Stamm  WE, et  al,  eds.  Sexually  Transmitted Diseases,  New York: McGraw-Hill; 2008: 627-45.
+3.  Ison CA, Lewis DA. Gonorrhea. In: Morse SA, Ballard RC, Holmes KK, Moreland  AA,  eds.  Atlas  of  Sexually  Transmitted  Diseases  and  AIDS,  4th  edn. London: Mosby; 2010.
+4.  World  Health  Organization.  Guidelines  for  the  Management  of  Sexually Transmitted Infections. Geneva: World Health Organization; 2010.
+

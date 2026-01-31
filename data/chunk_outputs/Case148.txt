@@ -1,0 +1,93 @@
+============================================================
+CHUNK 0
+============================================================
+Guy E Thwaites, C Louise Thwaites
+groups include injection drug users and those aged over 60 years of age with decreased antibody concentrations [1].
+Vaccination  against  tetanus  is  highly  effective.  The  vaccine  consists of an inactivated tetanus toxin, or toxoid, which induces antibodymediated protective immunity against the toxin. The WHO guidelines for tetanus vaccination recommend a primary course of three vaccinations in infancy, then boosters at 4-7 and 12-15 years, and one in adult life. Centers for Disease Control and Prevention (CDC) recommendations in the USA suggest an additional dose at 14-16 months and boosters every 10 years. 'Catch-up' schedules recommend a threedose  primary  course  for  non-immunized  adolescents  followed  by two  further  doses.  For  those  with  a  complete  childhood  primary course but no further boosters, two doses at least 4 weeks apart are recommended.
+Standard WHO recommendations for the prevention of maternal and neonatal tetanus are of two doses of tetanus toxoid at least 4 weeks apart. However, in high-risk areas success has been achieved with a more intensive approach aiming to provide all women of childbearing age with a primary course of vaccination plus additional education on safe delivery and postnatal practices [2].
+Individuals sustaining tetanus-prone wounds should also be immunized if they have incomplete or unknown vaccination status, or if a booster  was  given > 10  years  previously.  In  the  USA,  the  CDC  also recommends that unvaccinated individuals sustaining high risk, dirty wounds  should  also  receive  passive  immunization  with  tetanus immune globulin (human; TIG).
+
+============================================================
+CHUNK 1
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Clostridium tetani is an anaerobic, Gram-positive, spore-forming rod. The spores are highly resilient, which explains their ubiquity, and can easily contaminate wounds, especially those associated with soil contamination. Once inoculated into a suitable anaerobic environment, the spores germinate to produce vegetative bacteria which release the neurotoxin. The toxin is extremely potent - only very small concentrations are required to produce disease. No entry wound or focus of infection  is  found  in  approximately  20%  of  cases  of  tetanus  [3]. Superficial abrasions to the limbs are the commonest infection sites in adults. Deeper infections, for example through open fractures or drug injections,  are  associated  with  more  severe  disease  and  worse outcomes. In neonates, the umbilical stump is the  usual source of infection,  and  contamination  can  result  from  poor  umbilical  cord care,  cutting  the  cord  with  grass  or  applying  animal  dung  to  the stump. Circumcision or ear-piercing of the newborn can also result in neonatal tetanus.
+Tetanus toxin (or tetanospasmin) is a 150-kDa protein closely related to botulinum toxin (the cause of botulism), the latter produced by Clostridium botulinum . Unlike botulinum toxin, which remains at the neuromuscular junction to cause a flaccid paralysis, tetanus toxin is transported  within the motor nerves to the central nervous system (CNS). Once there, the toxin preferentially targets inhibitory gamma
+
+============================================================
+CHUNK 2
+============================================================
+Key features
+- Tetanus is a neurologic syndrome characterized by acute skeletal muscle spasm and autonomic nervous system disturbance, caused by a neurotoxin released from Cl o st r i di um  t et ani , a ubiquitous environmental bacterium that can contaminate wounds
+- Tetanus can be completely prevented by vaccination, yet more than 100,000 people develop tetanus each year, primarily in regions with inadequate vaccination programs
+- Tetanus is a clinical diagnosis. The cardinal clinical features are muscle spasms, airway obstruction, and (in severe cases) autonomic dysfunction
+- At diagnosis, the management priorities are to secure the airway, administer antitoxin immune globulins and debride potentially infected wounds
+- Spasms can be controlled with high-dose benzodiazepines; magnesium sulfate infusions may help control spasms and autonomic dysfunction
+- Disease does not confer immunity: vaccinate all survivors
+
+============================================================
+CHUNK 3
+============================================================
+INTRODUCTION
+Tetanus is a vaccine-preventable disease caused by Clostridium tetani , a spore-forming and neurotoxin-producing bacterium. The spores of C. tetani are ubiquitous and can be found in soil, dust, and animal and human feces throughout the world. Therefore, tetanus can occur in  any  unvaccinated  individual,  regardless  of  where  they  live.  The disease  is  characterized  by  acute  skeletal  muscle  spasm  and  autonomic nervous system disturbance and, once established, is associated with a high mortality.
+
+============================================================
+CHUNK 4
+============================================================
+EPIDEMIOLOGY
+It is estimated that over 100,000 individuals die of tetanus each year, with many (61,000) of these deaths being in neonates and children less than 5 years of age. Most cases of tetanus are never reported. As worldwide vaccination coverage has improved, the number of cases of tetanus has fallen, particularly in children and neonates who have been targeted by recent vaccination programs. Indeed, the elimination of maternal and neonatal tetanus by vaccination during pregnancy is one of the targets of the World Health Organization (WHO) and its partners' Expanded Program on Immunization (EPI).
+Comprehensive vaccination programs in the developed world have meant tetanus is a  rare disease  in  these settings  and mostly  occurs in  incompletely  vaccinated  or  unvaccinated  individuals.  High-risk
+aminobutyric acid (GABA)-ergic interneurons and inhibits the binding and release of presynaptic vesicles containing the neurotransmitter [4].
+Thus,  tetanus  toxin  effectively  blocks  inhibitory  interneuron  discharge, which results in unregulated activity of the motor and autonomic  nervous  system.  Hence,  the  characteristic  clinical  features seen  in  tetanus  are  skeletal  muscle  spasm  and  autonomic  system disturbance.
+
+============================================================
+CHUNK 5
+============================================================
+CLINICAL FEATURES
+Tetanus can produce a spectrum of clinical features depending on the site  of  infection  and  the  amount  of  toxin  produced.  In  its  mildest form, isolated areas of the body are affected and only local muscle spasm may be apparent. In such cases, outcome is usually good, with the  important  exception  of  cephalic  tetanus.  In  this  condition,  the cranial nerves are involved and phargyngeal or laryngeal muscles may spasm,  leading  to  sudden  aspiration  or  airway  obstruction.  These patients require careful observation.
+Generalized muscle spasm is the most typical feature of tetanus. The muscles  of  the  face  and  jaw  are  often  affected  first,  producing  the characteristic  'risus  sardonicus'  and  trismus  (lockjaw)  [3].  Many patients also experience difficulty swallowing, back pain, and generalized muscle pain and stiffness. Neonates typically present with difficulty in feeding. As the disease progresses, generalized muscle spasms develop, which can be very painful. Commonly, the laryngeal muscles are  involved  early,  which  can  be  life-threatening  as  it  may  lead  to sudden and complete airway obstruction. Spasm  of the respiratory muscles results in respiratory failure and, without mechanical ventilation,  is  the  commonest  cause  of  death.  Spasms  strong  enough  to produce tendon avulsions and crush fractures have been reported, but are rare.
+Autonomic disturbance is maximal during the second week of the illness and can be fatal. Blood pressure, heart rate and temperature can fluctuate wildly, and can be associated with gastrointestinal stasis, sweating and increased secretions.
+Rapid development of tetanus is associated with more severe disease and poor outcome. The incubation period (time from wound to first symptom) and period of onset (time from first symptom to the first generalized spasm) are of particular significance, with shorter times associated  with  worse  outcome.  Likewise,  in  neonatal  tetanus,  the younger the infant when symptoms occur, the worse the prognosis (Fig. 55.1).
+
+============================================================
+CHUNK 6
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+The diagnosis of tetanus depends upon typical clinical features rather than the results of laboratory tests. Therefore, disease definitions exist to assist diagnosis and to enable comparative clinical and epidemiologic surveys. Tetanus is defined by 'the acute onset of hypertonia, or by painful muscular contractions (usually of the muscles of the jaw and neck)  and  generalized  muscle  spasms  without  other  apparent medical cause' [5]. Neonatal tetanus is defined by the WHO as 'an illness occurring in a child who has the normal ability to suck and cry in the first 2 days of life but who loses this ability between days 3 and 28 days of life and becomes rigid and has spasms' [2]. Maternal tetanus is defined as occurring during pregnancy or within 6 weeks of the end of pregnancy (whether pregnancy ended with birth, miscarriage, or abortion) [2].
+Few conditions mimic generalized tetanus, but strychnine poisoning and dystonic reactions to antidopaminergic drugs (e.g. metaclopramide) can produce similar clinical features. Continuous abdominal muscle rigidity is characteristic of tetanus, whereas it is episodic  in the  other  two  conditions.  Cephalic  tetanus  can  be  confused  with other  causes of trismus, such  as  oropharyngeal infection. Hypocalcemia  or  meningoencephalitis  can  be  confused  with  tetanus  in neonates.
+FIGURE 55.1 Opisthotonus in neonatal tetanus.
+
+============================================================
+CHUNK 7
+============================================================
+TREATMENT
+Once the tetanus toxin has reached the inhibitory interneurons in the CNS and symptoms have begun, there is limited opportunity to affect disease progression. Wound debridement may stop the production of further  toxin  and  neutralizing  immunoglobulins  (antitoxin)  may limit disease severity but, in general, management strategies aim to support vital functions until the effects of the toxin have worn off.
+It  is  important  to  establish  a  secure  airway  early  in  severe  tetanus; hyperactivity and spasm of laryngeal muscles can make endotracheal intubation difficult once the disease has progressed and many advocate early tracheostomy. In addition, patients should be cared for in a quiet environment, as light and noise can trigger spasms.
+If possible, the entry wound should be identified, cleaned and debrided of any necrotic material in order to remove any anaerobic focus of infection and prevent further tetanus toxin production. Failure to identify  or  remove  the  focus  can  be  associated  with  prolonged  or recurrent tetanus. Antibiotics may be helpful; metronidazole (400 mg rectally, or 500 mg intravenously every 6 hours for 7 days) is preferred, despite a lack of comparative studies with other antibiotics [6]. Benzylpenicillin is an alternative, although there are theoretical concerns that penicillins may exacerbate spasms.
+Antitoxin should be given early in an attempt to neutralize any circulating tetanus toxin and prevent its uptake into the nervous system. Antitoxin can be  given by  intramuscular or intrathecal injection. A recent meta-analysis of controlled trials suggested a single 50-1500 IU intrathecal  dose  of  human  antitoxin  was  associated  with  reduced disease progression and improved outcomes in neonates and adults compared with the intramuscular route [7]. There are two antitoxin preparations available - human tetanus immune globulin and equine antitoxin. Human tetanus immune globulin is preferred because it is less likely to be associated with anaphylactic reactions. Standard intramuscular  therapy  is  3000-6000 IU  as  a  single  dose  (or  10,00020,000 U/kg equine preparation).
+
+============================================================
+CHUNK 8
+============================================================
+TREATMENT
+The best way to control the severe muscle spasms of tetanus has not been defined by controlled trials. Most authorities, however, use highdose  benzodiazepines  (up  to  100 mg/hour  diazepam  has  been reported) in combination with other drugs, such as chlorpromazine or phenobarbitone [8]. More recently, intravenous magnesium sulfate has been used as a muscle relaxant [9].
+The problem with all these treatments is that the doses necessary to control  spasms  also  cause  respiratory  depression,  thus  controlling spasms, while maintaining adequate ventilation is a particular issue in settings without facilities  for  mechanical  ventilation. Respiratory failure is a common cause of death in these circumstances. If mechanical ventilation is available, severe spasms are best dealt with using a combination of benzodiazepines, magnesium, and relatively shortacting, cardiovascularly inert, nondepolarizing neuromuscular blocking agents, as they allow titration against spasm intensity. Infusions of propofol have also been used successfully to control spasms and provide sedation.
+The autonomic disturbance of severe tetanus is notoriously difficult to  treat.  A  recent,  double-blind,  placebo-controlled  trial  of  intravenous  magnesium  sulfate  (plasma  concentrations  2-4 mmol/l)  for severe tetanus found treatment with magnesium was associated with reduced requirements for benzodiazepines, nondepolarizing muscle relaxants  (pipecuronium),  and  verapamil  (used  for  the  control  of tachycardia)  [10].  In  addition  to  magnesium,  morphine  and  drugs acting specifically on the cardiovascular system (e.g. esmolol, calcium antagonists, and inotropes) may be required.
+Complications arising  from the treatment of tetanus are common. Ventilator-associated pneumonia, central venous catheter infections, and septicemia are particularly important. In some centers, prophylaxis against deep vein thrombosis and thromboembolism is routine.
+Recovery from tetanus may take 4-6 weeks with prolonged immobility secondary to muscle stiffness. In addition, patients must be given a  full  primary  course  of  immunization,  as  tetanus  toxin  is  poorly immunogenic and does not provoke a protective immune response.
+
+============================================================
+CHUNK 9
+============================================================
+REFERENCES
+1. McQuillan GM, Kruszon-Moran D, Deforest A, et al. Serologic immunity to diphtheria  and  tetanus  in  the  United  States.  Ann  Intern  Med  2002;136: 660-6.
+2. Roper MH, Vandelaer JH, Gasse FL. Maternal and neonatal tetanus. Lancet 2007;370:1947-59.
+3. Thwaites  CL,  Yen  LM,  Nga  NTN,  et  al.  Impact  of  improved  vaccination programme and intensive care facilities on incidence and outcome of tetanus in  southern  Vietnam,  1993-2002.  Trans  R  Soc  Trop  Med  Hyg  2004;98: 671-7.
+4. Caleo M, Schiavo G. Central effects of tetanus and botulinum neurotoxins. Toxicon 2009;54:593-9.
+5. Bardenheier B, Prevots DR, Khetsuriani N, Wharton M. Tetanus surveillance -  United  States,  1995-1997.  Mor  Mortal  Wkly  Rep  CDC  Surveill  Summ 1998;47:1-13.
+6. Farrar  JJ,  Yen  LM,  Cook  TF,  et  al.  Tetanus.  J  Neurol  Neurosurg  Psychiatry 2000;69:292-301.
+7. Kabura L, Ilibagiz D, Menten J, Van den Ende J. Intrathecal vs. intramuscular administration  of  human  antitetanus  immunoglobulin  or  equine  tetanus antitoxin in the treatment of tetanus: a meta-analysis. Trop Med Int Health 2006;11:1075-81.
+8. Okoromah  CNLF.  Diazepam  for  treating  tetanus  (Cochrane  Review).  The Cochrane Library. Chichester: John Wiley & Sons; 2004.
+9. Attygalle D, Rodrigo N. Magnesium as first line therapy in the management of tetanus: a prospective study of 40 patients. Anaesthesia 2002;57: 811-17.
+10.  Thwaites CL, Yen LM, Loan HT, et al. Magnesium sulphate for treatment of severe tetanus: a randomised controlled trial. Lancet 2006;368:1436-43.
+

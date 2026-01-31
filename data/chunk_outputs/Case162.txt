@@ -1,0 +1,391 @@
+============================================================
+CHUNK 0
+============================================================
+69
+
+============================================================
+CHUNK 1
+============================================================
+Key features
+- Salmonella enterica serotypes Typhi and Paratyphi A, B, and C are the causative agents of typhoid and paratyphoid fever, respectively. Enteric fever refers to either typhoid or paratyphoid fever
+- Enteric fever is a nonspeci$c illness characterized by prolonged fevers and persistent bacteremia
+- Life-threatening complications of enteric fever include intestinal hemorrhage, perforation, and encephalopathy
+- The diagnosis of enteric fever should be considered in any patient with prolonged fever and exposure in an endemic area
+- Because of the limitations of diagnostic tests, the initiation of antibiotic treatment for enteric fever is often based on a presumptive diagnosis
+- The choice of empiric antibiotic therapy depends on local patterns of antibiotic resistance
+- Vaccines to prevent typhoid are available
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+Typhoid and paratyphoid fever are systemic febrile illnesses caused by Salmonella enterica serotype Typhi and serotypes Paratyphi A, B, or C, respectively. Enteric fever refers to either typhoid or paratyphoid fever. Collectively, S .  Typhi and S .  Paratyphi A cause approximately 27 million cases of enteric fever and over 200,000 deaths annually (Box 69.1).
+Both typhoid and paratyphoid fever are characterized by prolonged fever and sustained bacteremia. The name typhoid, meaning 'typhuslike', was coined in 1829 by A. Louis and reflects the difficulty physicians had in differentiating the illness from epidemic typhus. Among 19th-century American physicians, 'typho-malaria' was a common diagnosis,  indicative  of  the  difficulty  differentiating  typhoid  from other causes of persistent fever. This proved fortuitous in 1948, when two patients were referred for a study of the efficacy of chloramphenicol  in scrub typhus, but were subsequently found to have S .  Typhi bacteremia. Both patients improved rapidly after antibiotic therapy - a finding that ushered in the post-antibiotic era in typhoid fever [1].
+
+============================================================
+CHUNK 3
+============================================================
+INCIDENCE AND DISTRIBUTION OF ENTERIC FEVER (Fig. 69.1)
+Typhoid fever. Salmonella Typhi causes approximately 22 million cases of typhoid fever annually with an estimated mortality of 1% [2]. The
+
+============================================================
+CHUNK 4
+============================================================
+Jason B Harris, W Abdullah Brooks
+regions  with  the  highest  incidence  are  South  central  Asia  (~1000 cases/100,000 person-years) and Southeast Asia (~100 cases/100,000 person-years).  Sub-Saharan  Africa  reports  more  non-typhoidal  Salmonella bacteremia than S .  Typhi, yet  major epidemics of typhoid fever occur.
+Paratyphoid  fever.  S a lmonella Paratyphi  A  causes  approximately  5 million cases of enteric fever annually [2]. The proportion of cases of enteric fever caused by S . Paratyphi A has increased over the past two decades, and now exceeds 50% in parts of southern Asia [3]. This is significant as current typhoid fever vaccines do not protect against S . Paratyphi A. Serotypes Paratyphi B and C are rare causes of enteric fever.
+
+============================================================
+CHUNK 5
+============================================================
+Source of Infection
+Salmonella Typhi and S . Paratyphi A, B, and C are human-restricted pathogens; no known animal reservoirs exist. Enteric fever patients shed organisms in the stool during acute illness and often for months after  convalescence.  In  the  pre-antibiotic  era,  up  to  3%  of  typhoid fever survivors developed chronic asymptomatic bacterial shedding in the stool. Chronic carriage can persist for life; gallbladder disease is a major risk factor for carriage. A recent study in Nepal found that 5% of  individuals  undergoing  elective  cholecystectomy  for  gallstones grew S . Typhi of S . Paratyphi A from biliary cultures [4]. While chronic carriers are a source of transmission where disease is sporadic, it is unclear whether carriers are an important reservoir in endemic areas.
+
+============================================================
+CHUNK 6
+============================================================
+Mode of Transmission
+In endemic areas, most infections are acquired via contaminated food or water - with water playing the greater role in endemic urban settings.  The  inoculum  required  to  produce  disease  in  50%  of  adult volunteers (ID50) is 10 7 organisms, although as few as 10 3 organisms may produce disease. Risk factors include drinking non-boiled water and eating food prepared outside the home. While direct contact with a typhoid fever patient is an infection risk factor, more than 80% of cases occur in individuals with no known contact [5]. In South central Asia  and  Southeast  Asia,  peak  transmission  occurs  during  the monsoon season, although disease is present year-round. Large waterborne epidemics may be superimposed on endemic seasonality.
+
+============================================================
+CHUNK 7
+============================================================
+Antimicrobial Resistance
+Chloramphenicol-resistant S . Typhi was described in 1950 - 2 years after the antibiotic was first used to treat patients with typhoid fever. Multidrug-resistant S .  Typhi,  carrying  plasmid-mediated  resistance to  chloramphenicol,  ampicillin,  trimethoprim,  and  sulfonamides, became common in the 1980s, and nalidixic-acid-resistant S . Typhi and S .  Paratyphi A  in the 1990s. Nalidixic-acid-resistant strains are associated  with  decreased  susceptibility  to  fluoroquinolones  (an increased  risk  of  treatment  failure)  and  increased  mortality  [6].  In Asia,  most S .  Typhi and Paratyphi A strains are now nalidixic-acidresistant. In the past decade, complete resistance to ciprofloxacin and extended spectrum cephalosporins has emerged [7]. While resistance
+to these newer agents is increasing, susceptibility to original first-line agents may be re-emerging, at least in some locations. Thus, antimicrobial resistance in S . Typhi and Paratyphi A varies significantly by region and patterns of antibiotic use.
+
+============================================================
+CHUNK 8
+============================================================
+Severity
+The majority of cases are not severe enough to require hospitalization. Case fatality prevalence for typhoid fever patients in the pre-antibiotic era was approximately 15%. Current hospital-based mortality rates
+
+============================================================
+CHUNK 9
+============================================================
+BOX 69.1  Nomenclature of Salmonella Infections
+The multiple microbiologic, serologic and clinical designations applied to Salmonella infections are confusing [36]. Most pathogenic Salmonella belong to a single subspecies designated Salmonella enterica subspecies enterica. In addition to this species designation, Salmonella are  classiNed  serologically.  The  serogroup  is  assigned  based  on  the  O  antigen  alone,  while  the serotype designation, from which the name is derived, is based on both the O and H antigens.
+Salmonella  enterica subsp.  enterica  includes  over  1400  serotypes. Although the full name of the cause of typhoid fever is Salmonella enterica subsp. enterica serotype Typhi , it is normally just shortened to: S . Typhi . While serogroup designation is performed routinely in many laboratories, the test lacks clinical utility. Complete serotype identiNcation is often performed in a reference laboratory; however, S . Typhi and Paratyphi A can also be identiNed by biochemical tests in a routine microbiology laboratory.  IdentiNcation  of S .  Typhi  and  Paratyphi  A  are reviewed in detail in the World Health Organization's 'The diagnosis, treatment and prevention of typhoid fever' [22].
+Clinically, Salmonella are classiNed as typhoidal or nontyphoidal. The typhoidal serotypes are S . Typhi and Paratyphi A, B and C. All others are classiNed as non-typhoidal. However, this is  also  misleading  as  many  non-typhoidal  strains  also  cause invasive infection that may mimic typhoid fever.
+range by location (0-15%), with a median mortality rate of 2% [8]. In the USA, where disease is sporadic, the fatality rate of reported cases is 0.2% [9].
+
+============================================================
+CHUNK 10
+============================================================
+Age and Immunity
+In  the  most  highly  endemic communities, the  incidence of  enteric fever is highest in children between the age 1 and 5 years old. In such areas, S . Typhi is the leading cause of bacteremia in children and may be responsible for over 75% of cases of occult bacteremia [10]. In less endemic areas, the median age of patients with typhoid fever increases. Relapse and recurrent infections among patients who have recovered from typhoid fever demonstrate that immunity is neither lifelong nor universally acquired after a single illness.
+
+============================================================
+CHUNK 11
+============================================================
+Sporadic Disease and Travelers
+In  countries  where  typhoid  fever  is  sporadic  ( < 1/100,000  personyears), most cases are imported through travel. In the USA, over 75% of cases are travel-related. The typhoid fever incidence is estimated at 10 per 1 million travelers arriving from Asia, but increases to 89 per 1 million travelers arriving from India. Many remaining cases can be traced to small, foodborne outbreaks and/or a chronic carrier [9]. The risk  of  travel-related  enteric  fever  is  higher  among  travelers  visiting friends and relatives [1 1].
+
+============================================================
+CHUNK 12
+============================================================
+INVASION AND LATENCY
+Salmonella Typhi and S . Paratyphi A, B, and C are rod-shaped, Gramnegative bacteria that have adapted to survive and replicate in human macrophages. Salmonella Typhi  and  Paratyphi  breach  the  intestinal barrier though specialized microfold cells (M cells) that transport the bacteria  across  the  basolateral  membrane  where they are phagocytosed by macrophages in the intestinal lymphoid tissue. This invasion phase of infection is usually asymptomatic, but may be accompanied by transient diarrhea in 10-20% of patients. Latent infection typically lasts one to two weeks (range 3-60 days), depending on the number of organisms ingested.
+
+============================================================
+CHUNK 13
+============================================================
+DISSEMINATED INFECTION
+Typhoidal Salmonella deploy an array of virulence factors that enable them to persist and replicate in an intracellular compartment [12]. Intracellular organisms disseminate throughout the reticuloendothelial tissues via the blood  and  lymphatic system. Infection is
+established in the intestinal lymphoid tissue, liver, spleen, gallbladder, and bone marrow.
+Patients with typhoid fever generally have low-grade bacteremia. The median number of culturable bacteria is less than 1 per mL of whole blood and 10 per mL of bone marrow in patients with typhoid fever. The  proportion  of  bacteria  in  the  bone  marrow  increases  over  the course of the illness [13]. Infection results in the secretion of inflammatory cytokines which cause prolonged fever. However, unlike prototypical  Gram-negative  bacteremia,  overt  sepsis  with  hypotension and neutrophilia are rare.
+
+============================================================
+CHUNK 14
+============================================================
+PATHOLOGIC FINDINGS
+Intestinal lymphoid tissue is the major site of localized inflammation in enteric fever. Peyer's  patches in  the terminal ileum  and draining mesenteric nodes become enlarged and contain infiltrates predominantly  consisting of  macrophages  and  lymphocytes.  As  the  disease progresses, necrosis of the intestinal lymphoid tissue may occur with ulceration of the overlying intestinal mucosa. This can lead to hemorrhage  or  intestinal  perforation  -  life-threatening  complications  of enteric fever. Other affected organs include the spleen, with nodular monocytic infiltrates in the red pulp, and liver, with small monocytic infiltrates  and  foci  of  parenchymal  necrosis  ('typhoid  nodules'). Monocytic infiltrates also occur in the bone marrow and gallbladder.
+
+============================================================
+CHUNK 15
+============================================================
+RELAPSE AND CHRONIC CARRIAGE
+Untreated, typhoid fever may persist for three to four weeks. Relapse occurs in 5-10% of untreated cases, usually within 2 weeks of resolution of the fever. The gallbladder is the primary site of chronic carriage. The  observation  that S. enterica forms  biofilms  on  cholesterol gallstones  may  explain  the  association  between  gallstones  and  carriage [14].
+
+============================================================
+CHUNK 16
+============================================================
+CLINICAL FEATURES
+The clinical features of enteric fever are nonspecific. The major clinical findings in enteric fever are listed in Table 69-1. Fever, without localizing  signs  or  symptoms,  may  be  the  sole  manifestation  of  enteric fever.
+Most enteric fever cases are diagnosed in the ambulatory setting, are mild and up to 90% are treated as outpatients [15]. In contrast, classic descriptions of typhoid fever are based on hospitalized patients with more  severe  disease.  Although  life-threatening  complications  of enteric fever usually occur more than a week after fever onset, both intestinal perforation and encephalopathy may occur within days of initial fever.
+Historically, paratyphoid fever was considered less severe than typhoid fever. Current evidence suggests that infections caused by S . Typhi and S . Paratyphi A are clinically indistinguishable and equally severe [16].
+
+============================================================
+CHUNK 17
+============================================================
+MILD ILLNESS
+Enteric fever is usually insidious. Fever may gradually increase over the first week of illness. Headache, anorexia, malaise, and other nonspecific,  flu-like  symptoms  are  common  and  may  precede  fever. Abdominal complaints  including  diarrhea,  constipation,  and  nonlocalizing abdominal pain each occur in less than a third of cases, but may raise clinical suspicion [16].
+Physical findings are also nonspecific. Relative bradycardia, or pulsetemperature dissociation, is considered a classic sign of enteric fever, but there is no widely accepted definition of relative bradycardia and little evidence that it is a useful predictor [17]. Rose spots are small, blanching pink macular lesions, typically 2-4 mm, that usually occur on the chest, abdomen and/or back during the second week of illness, but are infrequently observed. A white, yellow or brown coating of the tongue that spares the tongue's edges is common. Mild abdominal tenderness may be present. Hepatomegaly and splenomegaly, if present, are usually modest.
+
+============================================================
+CHUNK 18
+============================================================
+MILD ILLNESS
+TABLE 69-1 Clinical Features of Typhoid and Paratyphoid Fever
+
+, Clinical feature = Fever. , Approx. frequency (%) * = > 95. Flu-like symptoms, Clinical feature = Headache. Flu-like symptoms, Approx. frequency (%) * = 80. Flu-like symptoms, Clinical feature = Chills. Flu-like symptoms, Approx. frequency (%) * = 40. Flu-like symptoms, Clinical feature = Cough. Flu-like symptoms, Approx. frequency (%) * = 30. Flu-like symptoms, Clinical feature = Myalgia. Flu-like symptoms, Approx. frequency (%) * = 20. Flu-like symptoms, Clinical feature = Arthralgia. Flu-like symptoms, Approx. frequency (%) * = < 5. Abdominal symptoms, Clinical feature = Anorexia. Abdominal symptoms, Approx. frequency (%) * = 50. Abdominal symptoms, Clinical feature = Abdominal pain. Abdominal symptoms, Approx. frequency (%) * = 30. Abdominal symptoms, Clinical feature = Diarrhea. Abdominal symptoms, Approx. frequency (%) * = 20. Abdominal symptoms, Clinical feature = Constipation. Abdominal symptoms, Approx. frequency (%) * = 20. Physical Andings, Clinical feature = Coated tongue. Physical Andings, Approx. frequency (%) * = 50. Physical Andings, Clinical feature = Hepatomegaly. Physical Andings, Approx. frequency (%) * = 10. Physical Andings, Clinical feature = Splenomegaly. Physical Andings, Approx. frequency (%) * = 10. Physical Andings, Clinical feature = Abdominal tenderness. Physical Andings, Approx. frequency (%) * = 5. Physical Andings, Clinical feature = Rash. Physical Andings, Approx. frequency (%) * = < 5. Physical Andings, Clinical feature = Generalized adenopathy. Physical Andings, Approx. frequency (%) * = < 5
+*The proportion of patients demonstrating these clinical features of enteric fever varies depending on the time, region and the type of clinical population (hospitalized or ambulatory) assessed. Estimates are drawn from recent case series in an endemic area presenting for ambulatory or inpatient care [16, 37].
+
+============================================================
+CHUNK 19
+============================================================
+MILD ILLNESS
+In contrast to other causes of bacteremia, patients with enteric fever rarely demonstrate leukocytosis, neutrophilia, or increased immature neutrophils. A typical leukocyte count is 5-8 × 10 6 cells per mL, with 60-75% neutrophils [16]. However, neither leukocytosis nor leukopenia  excludes  enteric  fever.  Hematocrit  and  platelet  counts  are usually  normal or slightly low.  Modest elevations,  typically double the  upper end of the normal range,  in aspartate  transaminase  and alanine transaminase are common. Excessive levels of blood transaminases  should  prompt  concern  for  other  etiologies,  including  viral hepatitis.
+
+============================================================
+CHUNK 20
+============================================================
+SEVERE ILLNESS AND COMPLICATIONS
+Patients with severe enteric fever are ill or toxic appearing and have generally been febrile for more than a week. They are likely to have moderate abdominal pain or tenderness, and either constipation or diarrhea. Moderate hepatomegaly and splenomegaly are also common.
+The major complications of typhoid fever are  listed in Table 69-2. Complications associated with increased mortality include intestinal hemorrhage  and  perforation,  severe  encephalopathy,  seizures  and pneumonia  [18],  although  pneumonia  has  also  been  noted  frequently in children without other complications [10].
+
+============================================================
+CHUNK 21
+============================================================
+GASTROINTESTINAL COMPLICATIONS
+Some degree of intestinal hemorrhage occurs in up to 10% of hospitalized patients; this is usually self-limited. Intestinal perforation (Fig. 69.2) occurs in up to 3% of hospitalized patients and is associated
+
+============================================================
+CHUNK 22
+============================================================
+GASTROINTESTINAL COMPLICATIONS
+Gastrointestinal, Complication = Hemorrhage. Gastrointestinal, Notes = 10-15% hospitalized patients.. Gastrointestinal, Complication = Perforation. Gastrointestinal, Notes = 3% hospitalized patients.. Hepatobiliary, Complication = Jaundice. Hepatobiliary, Notes = 1-3% hospitalized patients.. Hepatobiliary, Complication = Hepatitis. Hepatobiliary, Notes = Usually subclinical ( ↑ ALT/AST). Hepatobiliary, Complication = Acute cholecystitis. Hepatobiliary, Notes = Rare, gallbladder may perforate.. Neurologic, Complication = Mild encephalopathy. Neurologic, Notes = Confusion or apathy common.. Neurologic, Complication = Severe encephalopathy. Neurologic, Notes = Delerium, stupor or coma.. Neurologic, Complication = Seizures. Neurologic, Notes = Common in children ≤ 5 years old. Neurologic, Complication = Meningitis. Neurologic, Notes = Rare, primarily infants. Neurologic, Complication = Guillain-Barré syndrome. Neurologic, Notes = Reported. Respiratory, Complication = Bronchitis. Respiratory, Notes = Cough is common. Respiratory, Complication = Pneumonia. Respiratory, Notes = May be other concomitant bacterial infection (e.g. S. pneumoniae ). Cardiovascular, Complication = Myocarditis. Cardiovascular, Notes = Usually subclinical (ECG changes). Cardiovascular, Complication = Shock. Cardiovascular, Notes = Uncommon. Hematologic, Complication = Anemia. Hematologic, Notes = Usually subclinical. Hematologic, Complication = Disseminated intravascular coagulation (DIC). Hematologic, Notes = Usually subclinical ( ↑ PT/PTT). Other, Complication = Pyogenic infections. Other, Notes = Uncommon. Other, Complication = Hemolytic uremic syndrome. Other, Notes = Reported, uncertain relationship. Other, Complication = Miscarriage. Other, Notes = Reported
+
+============================================================
+CHUNK 23
+============================================================
+GASTROINTESTINAL COMPLICATIONS
+ALT, alanine amino transferase; AST, aspartate aminotransferase; ECG, electrocardiography; PT, prothrombin time; PTT, partial thromboplastin time.
+FIGURE 69.2 Intraoperative photograph of intestinal perforation caused by S . Typhi. A single perforation is seen on the anti-mesenteric border of the  inOamed  small  bowel  along  with  patchy  exudates  on  the  serosal surface (photo courtesy of Dr Pukar Maskey, Patan Hospital, Katmandu, Nepal).
+with  substantial  mortality.  A  recent  series  of  27  cases  of  intestinal perforation demonstrated that the median length of illness preceding perforation was 9 days (range 1-22 days) from the onset of fever [19]. Perforation  is  suggested  by  clinical  signs  of  sepsis  and  peritonitis, including tachycardia,  leukocytosis with predominant neutrophilia, and abdominal pain with guarding and rebound tenderness. Radiographic evidence of pneumoperitoneum may be present in only 50% of cases. Perforation may be difficult to recognize, as patients may be toxic  appearing  with  accompanying  abdominal  tenderness,  even before perforation.
+
+============================================================
+CHUNK 24
+============================================================
+NEUROLOGIC COMPLICATIONS
+Severe enteric  fever  may present with encephalopathy.  A  history of confusion is common and patients often demonstrate an apathetic affect.  Severe  encephalopathy  manifested  by  delirium  and  stupor; coma  occurs  in  a  smaller  number  of  hospitalized  patients  and  is associated with a high risk of mortality [18, 20, 2 1]. Seizures are most common in young children and are associated with increased mortality risk [18]. Even in severe encephalopathy or seizure cases, cerebrospinal  fluid  (CSF)  cultures  are  usually  negative  and  pleocytosis,  if present,  reveals  fewer  than  35  cells  per  uL  [20,  2 1].  Meningitis  is uncommon and is primarily seen in infants. Focal neurologic findings have been reported but should prompt consideration of an alternative diagnosis.
+
+============================================================
+CHUNK 25
+============================================================
+OTHER COMPLICATIONS
+Pneumonia is  a  serious  comorbidity  associated  with  severe  enteric fever [18]. Although enteric fever is a disseminated bacterial infection, distal pyogenic complications are not common. This contrasts with invasive non-typhoidal Salmonella in which osteomyelitis and endovascular  infection  occur  more  frequently.  Numerous  other enteric  fever  complications  have  been  reported,  affecting  all  major organ systems [15].
+
+============================================================
+CHUNK 26
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+Enteric  fever  can  be  a  life-threatening  infection  if  not  treated  with appropriate  antimicrobial  therapy  and  should  be  suspected  in  any patient with prolonged fever and exposure to an endemic area. There are  no  reliable  clinical  criteria  to  establish  the  diagnosis  of  enteric fever, and no sensitive or specific diagnostic laboratory tests. Therefore, the diagnosis of enteric fever is usually presumptive.
+
+============================================================
+CHUNK 27
+============================================================
+CLINICAL EVALUATION
+The first requirement for diagnosis is clinical suspicion. In a highly endemic area, three or more days of nonfocal fever should prompt consideration of enteric fever. Patients should undergo a routine clinical history and physical examination. Although most of the findings associated  with  enteric  fever  are  nonspecific,  many  other  causes  of febrile illness will become apparent after a careful history and examination. Routine laboratory studies are also of limited value in establishing  a  diagnosis  of  enteric  fever,  but  may  be  more  useful  in eliminating other potential causes of nonfocal fever.
+In  a  highly  endemic  area,  factors  that  should  increase  the  clinical suspicion for enteric fever early in the course of the illness include: young  age;  a  temperature  above  39°C;  ill  appearance;  and  any abdominal complaints, including diarrhea, constipation or abdominal pain [10]. In the most highly endemic settings, three of more days of fever without localizing signs and a combination of any of these features, in the absence of another obvious cause, may be sufficient to  prompt  a  diagnostic  evaluation  for  enteric  fever  along  with  the initiation of empiric therapy.
+As fever duration increases, the likelihood of enteric fever increases. Any patient with seven or more days of unexplained fever from an area  where  enteric  fever  is  endemic  should  undergo  a  diagnostic evaluation  and  empiric  treatment  should  be  considered,  given  the potential complications of untreated enteric fever [15].
+
+============================================================
+CHUNK 28
+============================================================
+DIFFERENTIAL DIAGNOSIS
+The  differential  diagnosis  should  reflect  local  febrile  disease  prevalence. Malaria, dengue fever, influenza, leptospirosis, rickettsial infections,  urinary  tract  infection,  and  other  causes of  childhood occult bacteremia (e.g. Streptococcus pneumoniae , Haemophilus influenzae , and Neisseria  meningitiditis )  should  all  be  considered  in  the  differential diagnosis of fever without localizing signs. In patients with prolonged fever ( > 7  days) with  or  without  localizing  signs, the  infectious  differential  diagnosis  includes  malaria,  Epstein-Barr  virus  infection, tuberculosis, brucellosis, tularemia, plague, occult abscesses (including amebic liver abscess), and typhus.
+
+============================================================
+CHUNK 29
+============================================================
+MICROBIOLOGIC DIAGNOSIS
+Although presumptive diagnosis of enteric fever is sufficient justification to initiate treatment in an ill-appearing patient, a definitive diagnosis of enteric fever can only be made by detection or isolation of S .  Typhi  or S .  Paratyphi  A,  B,  or  C  from  blood,  bone  marrow,  or other normally sterile clinical specimen. The isolation of a causative organism  also  provides  the  opportunity  to  optimize  antimicrobial therapy.
+Isolation of S . Typhi or Paratyphi A is most commonly achieved by blood  culture.  Factors  that  affect  the  sensitivity  of  blood  isolation include the culture medium, prior antibiotic exposure, blood volume and the  duration  of  illness  prior  to  sample  collection.  The  overall sensitivity of blood culture ranges from 40-80%, reflecting the low number of organisms present in the blood and prior antibiotic use. High blood volumes optimize the yield of blood culture; the World Health Organization (WHO) recommends that 10-15 ml of blood be obtained from school-aged children and 2-4 ml of blood be used for culture in toddlers and pre-school-aged children [22]. Although alternatives to standard blood culture (e.g. direct plating of the buffy coats or the use of selective ox bile media) have been recommended, the use of routine blood cultures with standard broth media is preferable because such methods may detect other potential bacterial pathogens as well.
+Bone  marrow  cultures  have  an  80-95%  sensitivity  for  isolating S . Typhi.  Bone  marrow  cultures  may  remain  positive  for  several  days after initiating antibiotics. However, the invasiveness of bone marrow culture  limits  its  practical  utility  in  uncomplicated  cases.  Under optimal conditions, a single high volume ( > 15 ml) blood culture in an adult has a sensitivity nearly equivalent to a 1 ml bone marrow culture [13, 23].
+Stool cultures are positive in over 50% and 30% of infected children and adults, respectively. Rectal swabs are not recommended, and the yield of stool cultures is optimized by the use of > 1 g of stool and a selective  enrichment  broth  [22].  Cultures  obtained  from  intestinal biopsies of patients with perforation are rarely positive [19].
+
+============================================================
+CHUNK 30
+============================================================
+SEROLOGIC AND MOLECULAR DIAGNOSIS
+The most commonly utilized diagnostic test for enteric fever is Widal's test, which was developed in 1896 and detects agglutinating antibodies against the O and H antigens of S . Typhi. Widal's test is not sufficiently  sensitive,  specific  or  reliable  enough  to  be  an  optimal diagnostic assay for typhoid fever and it does not aid in the diagnosis of paratyphoid fever, as these antibodies are not cross-reactive against S .  Paratyphi A, B and C  antigens. A false-negative Widal's test may result from the assay being performed early in the course of illness and  a  false-positive  Widal's  test  is  more  likely  in  an  area  of  high endemnicity where antibodies may represent past infection.
+Rapid serologic tests, including the IDL Tubex ® and Typhidot ® assays are  available.  In  principle,  tests  such  as  Tubex,  which  detects  IgM antibodies  to  the  O9  antigen  -  a  T-cell  independent  response  to Salmonella infection which is, therefore, rapid - and Typhidot, which detects both IgM and IgG to the 50kD antigen of S . Typhi, should be useful in identifying early acute infection [22]. However, in practice, these  tests  have  met  with  mixed  success  in  high  endemic  settings because they have not consistently demonstrated an ability to distinguish between current and past infection and, in some cases, have not consistently been as sensitive as the Widal test [24, 25]. While diagnostic approaches based on nucleic acid detection appear promising, these tests are not widely available.
+
+============================================================
+CHUNK 31
+============================================================
+TREATMENT AND PREVENTION OF ENTERIC FEVER
+Appropriate antibiotics and supportive care reduce the mortality of enteric  fever  from  10-15% to less than 1%. Fevers  resolve  after an average of 3-5 days of appropriate antibiotics, compared with 3-4 weeks in untreated infections. The widespread emergence of antibiotic  resistant S .  Typhi  and  Paratyphi  A  complicates  the  choice  of antibiotics. Most patients can be managed in an ambulatory setting.
+
+============================================================
+CHUNK 32
+============================================================
+ANTIBIOTICS FOR ENTERIC FEVER
+Uncomplicated enteric fever is usually treated with a single antibacterial drug. Antimicrobial choice depends on patient age, their ability to take oral medications, and drug availability and cost. Knowledge of  antibiotic  resistance  patterns  is  essential  because,  in  most  cases, empiric antibiotics are initiated before an isolate is obtained. Table 69-3 summarizes antibiotic therapy for enteric fever.
+
+TABLE 69-3 Antibiotics Commonly Used to Treat Individuals with Enteric Fever
+
+============================================================
+CHUNK 33
+============================================================
+ANTIBIOTICS FOR ENTERIC FEVER
+Original Nrst-line agents, Antibiotic = Chloramphenicol. Original Nrst-line agents, Route = PO/IV. Original Nrst-line agents, Typical pediatric dosage * = 12.5-25 mg/kg QID. Original Nrst-line agents, Adult dosage = 2-3 g/day (divided QID). Original Nrst-line agents, Typical duration = 14-21 days. Original Nrst-line agents, Comments = These agents are ePective for susceptible strains; however, multidrug resistance to all of these agents is common in many areas. Original Nrst-line agents, Antibiotic = Amoxicillin. Original Nrst-line agents, Route = PO. Original Nrst-line agents, Typical pediatric dosage * = 25-45 mg/kg/day (divided q12h). Original Nrst-line agents, Adult dosage = 1 g TID. Original Nrst-line agents, Typical duration = 14 days. Original Nrst-line agents, Comments = These agents are ePective for susceptible strains; however, multidrug resistance to all of these agents is common in many areas. Original Nrst-line agents, Antibiotic = Ampicillin. Original Nrst-line agents, Route = IV. Original Nrst-line agents, Typical pediatric dosage * = 25-50 mg/kg q6h. Original Nrst-line agents, Adult dosage = 2 g q6h. Original Nrst-line agents, Typical duration = 14 days. Original Nrst-line agents, Comments = These agents are ePective for susceptible strains; however, multidrug resistance to all of these agents is common in many areas. Original Nrst-line agents, Antibiotic = TMP/STX. Original Nrst-line agents, Route = PO/IV. Original Nrst-line agents, Typical pediatric dosage * = 8--12 mg/kg/day (TMP) 40-60 mg/kg/day (STX) (divided QID). Original Nrst-line agents, Adult dosage = 160 mg/800 mg QID. Original Nrst-line agents, Typical duration = 14 days. Original Nrst-line agents, Comments = These agents are ePective for susceptible strains; however, multidrug resistance to all of these agents is common in many areas. Fluoroquinolones
+
+============================================================
+CHUNK 34
+============================================================
+ANTIBIOTICS FOR ENTERIC FEVER
+[27], Antibiotic = OOoxacin. Fluoroquinolones [27], Route = PO/IV. Fluoroquinolones [27], Typical pediatric dosage * = 15 mg/kg BID. Fluoroquinolones [27], Adult dosage = 400 mg PO BID. Fluoroquinolones [27], Typical duration = 5-14 days. Fluoroquinolones [27], Comments = OOoxacin, levoOoxacin, and ciproOoxacin ePective for nalidixic-acid-susceptible strains. Short courses of 5-7 days are acceptable in uncomplicated cases. Ten- to 14-day courses are recommended in patients requiring hospitalization or parenteral therapy GatiOoxacin appears ePective for uncomplicated cases caused by NaR strains but was removed from the US commercial market because of. Fluoroquinolones [27], Antibiotic = LevoOoxacin. Fluoroquinolones [27], Route = PO/IV. Fluoroquinolones [27], Typical pediatric dosage * = 10-15 mg/kg qD. Fluoroquinolones [27], Adult dosage = 500 mg PO QD. Fluoroquinolones [27], Typical duration = 5-14 days. Fluoroquinolones [27], Comments = OOoxacin, levoOoxacin, and ciproOoxacin ePective for nalidixic-acid-susceptible strains. Short courses of 5-7 days are acceptable in uncomplicated cases. Ten- to 14-day courses are recommended in patients requiring hospitalization or parenteral therapy GatiOoxacin appears ePective for uncomplicated cases caused by NaR strains but was removed from the US commercial market because of. Fluoroquinolones [27], Antibiotic = CiproOoxacin. Fluoroquinolones [27], Route = PO/IV. Fluoroquinolones [27], Typical pediatric dosage * = 15 mg/kg BID. Fluoroquinolones [27], Adult dosage = 500 mg PO BID. Fluoroquinolones [27], Typical duration = 5-14 days. Fluoroquinolones [27], Comments = OOoxacin, levoOoxacin, and ciproOoxacin
+
+============================================================
+CHUNK 35
+============================================================
+ANTIBIOTICS FOR ENTERIC FEVER
+ePective for nalidixic-acid-susceptible strains. Short courses of 5-7 days are acceptable in uncomplicated cases. Ten- to 14-day courses are recommended in patients requiring hospitalization or parenteral therapy GatiOoxacin appears ePective for uncomplicated cases caused by NaR strains but was removed from the US commercial market because of. Fluoroquinolones [27], Antibiotic = GatiOoxacin. Fluoroquinolones [27], Route = PO. Fluoroquinolones [27], Typical pediatric dosage * = 10 mg/kg qD. Fluoroquinolones [27], Adult dosage = 10 mg/kg/day qD. Fluoroquinolones [27], Typical duration = 7 days. Fluoroquinolones [27], Comments = OOoxacin, levoOoxacin, and ciproOoxacin ePective for nalidixic-acid-susceptible strains. Short courses of 5-7 days are acceptable in uncomplicated cases. Ten- to 14-day courses are recommended in patients requiring hospitalization or parenteral therapy GatiOoxacin appears ePective for uncomplicated cases caused by NaR strains but was removed from the US commercial market because of. Third-generation cephalosporins, Antibiotic = Ceftriaxone. Third-generation cephalosporins, Route = IV. Third-generation cephalosporins, Typical pediatric dosage * = 50-100 mg/kg q24h. Third-generation cephalosporins, Adult dosage = 1-2 g IV q24h. Third-generation cephalosporins, Typical duration = 10-14 days**. Third-generation cephalosporins, Comments = These are an alternative to Ouoroquinolones for NaR strains and for empiric therapy in areas where NaR is common. Third-generation cephalosporins, Antibiotic = CeNxime. Third-generation cephalosporins, Route = PO. Third-generation cephalosporins, Typical pediatric dosage * = 10 mg/kg BID. Third-generation cephalosporins, Adult dosage = 200 mg PO BID. Third-generation cephalosporins, Typical duration = 7-14 days. Third-generation cephalosporins, Comments
+
+============================================================
+CHUNK 36
+============================================================
+ANTIBIOTICS FOR ENTERIC FEVER
+= These are an alternative to Ouoroquinolones for NaR strains and for empiric therapy in areas where NaR is common. Macrolides [31], Antibiotic = Azithromycin. Macrolides [31], Route = PO. Macrolides [31], Typical pediatric dosage * = 10-20 mg/kg qD. Macrolides [31], Adult dosage = 500mg-1 g PO qD. Macrolides [31], Typical duration = 7 days. Macrolides [31], Comments = An alternative for uncomplicated infections caused by NaR strains and for empiric therapy where multidrug resistance and NaR are common. Eradication of carriage, Antibiotic = CiproOoxacin. Eradication of carriage, Route = PO. Eradication of carriage, Typical pediatric dosage * = -. Eradication of carriage, Adult dosage = 500-750 mg BID. Eradication of carriage, Typical duration = 28 days. Eradication of carriage, Comments = If eradication is indicated for public health reasons, a trial of medical therapy is justiNed, even in patients with evidence of cholelithiasis [34]
+*Weight-based pediatric dosage should not exceed adult maximum. **Recommended that treatment continue for at least 7 days post-defervescence to minimize relapse. NaR, Nalidixic-acid resistance; STX sulfamethoxazole; TMP, trimethoprim.
+
+============================================================
+CHUNK 37
+============================================================
+CHLORAMPHENICOL, AMPICILLIN, AND TRIMETHOPRIMB SULFAMETHOXAZOLE
+The original 'first-line' therapies for enteric fever  include chloramphenicol, ampicillin, and trimethoprim-sulfamethoxazole [26]. After decades of increasing resistance among S . Typhi and Paratyphi A to these antibiotics, the trend may be reversing. Chloramphenicol results in a marked decrease in mortality and clearance of fevers in 3-5 days. It is inexpensive, has excellent oral bioavailability, is available even in the poorest parts of the world and has broad-spectrum activity against other occult childhood bacterial infections (including bacteremia and meningitis  caused  by H.  influenzae,  S.  pneumoniae ,  and N.  meningitides ).  However, up to 1  :  20,000  patients develop fatal irreversible aplastic anemia. Also, chloramphenicol does not substantially reduce the risk of relapse and chronic carriage. Ampicillin, and its oral formulation amoxicillin,  and  trimethoprim-sulfamethoxazole are  also inexpensive, broad-spectrum antibiotics that are effective against susceptible strains of S . Typhi and Paratyphi A.
+
+============================================================
+CHUNK 38
+============================================================
+FLUOROQUINOLONES AND NALIDIXIC-ACIDRESISTANT S . TYPHI AND S . PARATYPHI A
+Widespread acquisition of resistance to chloramphenicol, ampicillin, and trimethoprim-sulfamethoxazole led to the use of fluoroquinolones  as  the  first-line  therapy.  However,  this  approach  is  changing because  of  the  emergence  of  strains  with  reduced  susceptibility  to fluoroquinolones.  Nalidixic-acid  resistance  (NaR)  is  a  marker  of decreased fluoroquinolone susceptibility. Although nalidixic acid is a first-generation quinolone that is not widely used to treat enteric fever, NaR  predicts  an  increased  resistance  to  fluoroquinolones  and  the
+possibility of a poor clinical response to ciprofloxacin, even if the NaR strain meets the Clinical Laboratory and Standards Institute's cut-off for susceptibility to ciprofloxacin [6].
+In the absence of NaR, ciprofloxacin, levofloxacin and ofloxacin are highly efficacious in the treatment of enteric fever. These agents have excellent oral bioavailability, result in rapid defervescence (an average of ~3-4 days) and decreased rates of relapse and carriage compared with  chloramphenicol  and  ß-lactam  antibiotics.  Concern  about fluoroquinolone-induced  cartilage  toxicity  in  children  is  based  on animal models; however, several studies support their safety in children [27].
+Gatifloxacin is a newer generation fluoroquinolone available in many countries  where  enteric  fever  is  endemic,  has  good in  vitro activity against NaR S . Typhi, and has demonstrated efficacy in the treatment of  uncomplicated  enteric  fever  caused  by  NaR  Salmonella  [28]. Unfortunately, gatifloxacin was associated with increased frequency of  hypoglycemia  and  hyperglycemia  compared  to  other  fluoroquinolones and, for this reason, was withdrawn from the US market and should be used, if ever, with  caution. Alternative  fluoroquinolones with improved safety profiles are available.
+
+============================================================
+CHUNK 39
+============================================================
+THIRD-GENERATION CEPHALOSPORINS
+The emergence of NaR stains with decreased fluoroquinolone susceptibility (and associated treatment failures) have caused a shift toward the  use  of  third  generation  cephalosporins  as  first-line  therapy  in more  severe  cases,  although  this  approach  may  result  in  a  longer period until  defervescence  and has a  higher  relapse rate compared with  the  use  of  effective  fluoroquinolones  [27].  Ceftriaxone  is  an effective antibiotic for treating enteric fever, including cases caused by NaR  isolates.  However,  ceftriaxone  must  be  given  parenterally  and short courses ( ≤ 7 days) are associated with high rates of relapse [29]. Furthermore,  clinical  defervescence  may  be  delayed  and  longer courses  of  ceftriaxone  may  be  required,  depending  on  the  clinical response  [30].  Cefixime  is  an  oral,  third-generation  cephalosporin that  may  be  used  to  treat  enteric  fever,  although  short  courses  of cefixime also result in high rates of relapse. Resistance to ceftriaxone and  other  extended  spectrum  ß-lactam  antibiotics is rare,  but increasing [7].
+
+============================================================
+CHUNK 40
+============================================================
+AZITHROMYCIN
+Azithromycin is an effective oral treatment for uncomplicated enteric fever, including enteric fever caused by NaR and multidrug-resistant isolates [31]. A 7-day course of azithromycin appears to be as effective as gatifloxacin in the treatment of enteric fever caused by NaR isolates and results in lower rates of clinical failure and relapse compared with cefixime or ceftriaxone. Azithromycin is safe in children, has excellent bioavailability  and  pharmacokinetics  with  once-daily  dosing  and reaches high intracellular concentrations that may contribute to the high rates of cure seen after seven days of therapy.
+
+============================================================
+CHUNK 41
+============================================================
+SUPPORTIVE AND ADJUNCTIVE THERAPY
+Adjunctive therapy is aimed at managing the inflammatory complications of infection. In a double-blind trial in Indonesia in the 1980s, a short course of high-dose intravenous dexamethasone initiated concurrently with the first dose of antibiotics significantly reduced mortality  in  critically  ill  patients  with  typhoid  fever  with  shock  and/or profound  encephalopathy  manifested  as  delirium  or  obtundation [32]. In suspected cases of severe typhoid fever with shock or encephalopathy in adults and children, dexamethasone should be administered along with intravenous antibiotics as soon as possible, usually before the results of blood cultures are obtained, and may be administered at an initial dose of 3 mg/kg IV, followed by 1 mg/kg IV every 6 hours for eight additional doses.
+Supportive care, including rehydration and nutritional management, are important in patients with enteric fever. Rehydration and nutritional supplementation can be managed according to WHO standards.  Despite  historical  concerns  regarding  their  use,  debilitating fevers and malaise can be managed safely with antipyretics [33].
+
+============================================================
+CHUNK 42
+============================================================
+MANAGEMENT OF INTESTINAL COMPLICATIONS
+Prompt surgical intervention in suspected cases of perforation is the mainstay of therapy. The majority of cases involve single perforation along  the  anti-mesenteric  border  of  the  terminal  ileum.  However, careful inspection of the bowel is required, as multiple perforations are  present  in  approximately  25%  of  patients  and  perforation  can occur  along  the  proximal  or  distal  bowel.  Surrounding  tissues  are usually inflamed and friable. While simple closure may be performed in some cases, wedge excision with debridement of the necrotic bowel or segmental resection is more often necessary. In cases of multiple perforations, more extensive resections and temporary ileostomy may be  required.  Drainage  of  fluid  collections  and  peritoneal  lavage should  be  performed  prior  to  wound  closure.  Antibiotic  coverage should  be  broadened  to  include  other  intestinal  flora,  including anaerobes.  Perforation-associated  mortality  rates  are  variable;  early recognition, surgical intervention and  supportive  care  enhance survival [19].
+Intestinal hemorrhage can  usually  be  managed through supportive care.  Blood  products,  including  packed  red  cells  and  plasma  may be  needed  to  correct  resulting  anemia  and  optimize  coagulation parameters in severe cases. Refractory bleeding and severe bleeding leading to shock suggest the need for surgical resection of the involved bowel.
+
+============================================================
+CHUNK 43
+============================================================
+TREATMENT OF RELAPSE
+Relapse  usually  occurs  within  two  weeks  of  the  discontinuation  of antibiotics. Isolates obtained following a relapsed infection typically have the same antibiotic susceptibility as the isolate from the primary episode. Relapsed illness is usually milder compared with the primary episode. The approach to treating a relapsed infection is the same as treating a primary episode.
+
+============================================================
+CHUNK 44
+============================================================
+TREATMENT OF CHRONIC CARRIERS
+Chronic carriage is asymptomatic and not associated with recurrence of illness. Although chronic carriage is associated with an increased risk of gallbladder carcinoma, no clear, causal relationship is established and it is unknown whether the eradication of carriage reduces this risk of carcinoma. The decision to attempt to eradicate carriage is  based on public health considerations and it is more difficult to eliminate carriage in patients with cholelithiasis. However, in some case-series, ciprofloxacin has demonstrated over 90% efficacy in the eradication  of  carriage  [34].  Cholecystectomy  may  be  necessary  to eradicate  carriage  in  persons  with  cholelithiasis  that  fail  medical therapy  but  for  whom  eradication  is  essential  for  public  health reasons (e.g. food-handlers).
+
+============================================================
+CHUNK 45
+============================================================
+PREVENTION
+There  are  two  licensed commercially-available vaccines for  typhoid fever: the Vi (capsular) polysaccharide parenteral vaccine and a live attenuated Ty21a oral vaccine (Table 69-4). Both vaccines are primarily  used  by  travelers;  neither  vaccine  protects  against  paratyphoid fever  A.  Although  the  WHO's  Strategic  Advisory  Group  of  Experts (SAGE) has recommended that typhoid vaccination programs be considered  in  highly  endemic  settings  [35],  these  vaccines  are  not  yet widely  utilized  in  most  endemic  regions.  A  Vi-conjugate  vaccine has also been shown to be both safe and immunogenic, including in young children in areas of the world endemic for typhoid. A previous whole-cell, killed parenteral vaccine required multiple injections, was  associated  with  a  high  adverse  event  profile  and  should  not be used.
+Other strategies to prevent S . Typhi and Paratyphi A include interventions to reduce exposure to food- and waterborne bacteria. At a household level, strategies include boiling and storing water in narrow-mouthed,  covered  containers.  Food  safety  involves  handwashing with  soap  before  preparing  or  consuming  foods,  and  the avoidance of certain food types in endemic areas, such as raw foods
+TABLE 69-4 Commercially Available Vaccines for Typhoid Fever [11, 22]
+
+Ty21a, Type = Live-attenuated. Ty21a, Route = Oral. Ty21a, Dose and interval = Four doses Administer one dose every other day until complete. Ty21a, Minimum age = 5*. Ty21a, Protection against S . Typhi = 50-80%. Ty21a, Boosting interval in travelers = Every Nve years. Ty21a, Licensed in # countries = 56**. Vi capsule antigen, Type = Polysaccharide. Vi capsule antigen, Route = Intramuscular. Vi capsule antigen, Dose and interval = 1. Vi capsule antigen, Minimum age = 2. Vi capsule antigen, Protection against S . Typhi = 50-80%. Vi capsule antigen, Boosting interval in travelers = Every two years. Vi capsule antigen, Licensed in # countries = > 90**
+*Five years and older per WHO [22], 6 years and older per Advisory Committee on Immunization Practices [11]. **As of March 2010.
+
+============================================================
+CHUNK 46
+============================================================
+PREVENTION
+and shellfish, and consuming only foods that are thoroughly cooked and  hot  at  the  time  of  consumption  [22].  At  a  community  level, prevention entails ensuring reliable access to safe water and improved sanitation.
+
+============================================================
+CHUNK 47
+============================================================
+EXAMPLES OF CLINICAL AND SEROLOGIC CLASSIFICATION OF PATHOGENIC SALMONELLA
+Typhoidal, Serotype = Typhi. Typhoidal, Formal designation = S. enterica subsp. enterica ser. Typhi. Typhoidal, Serogroup = D. , Serotype = Paratyphi A. , Formal designation = S. enterica subsp. enterica ser. Paratyphi A. , Serogroup = A. , Serotype = Paratyphi B (schottmuelleri). , Formal designation = S. enterica subsp. enterica ser. Paratyphi B. , Serogroup = B. , Serotype = Paratyphi C (hirschfeldii). , Formal designation = S. enterica subsp. enterica ser. Paratyphi C. , Serogroup = C. Non-typhoidal, Serotype = Typhimurium. Non-typhoidal, Formal designation = S. enterica subsp. enterica ser. Typhimurium. Non-typhoidal, Serogroup = B. , Serotype = Enteriditis. , Formal designation = S. enterica subsp. enterica ser. Enteriditis. , Serogroup = D. , Serotype = Newport. , Formal designation = S. enterica subsp. enterica ser. Newport. , Serogroup = C
+
+============================================================
+CHUNK 48
+============================================================
+REFERENCES
+1. Hornick RB, Woodward WE, Greisman SE. Doctor T. E. Woodward's legacy: from typhus to typhoid fever. Clin Infect Dis 2007;45(suppl. 1):S6-8.
+2. Crump JA, Luby SP, Mintz ED. The global burden of typhoid fever. Bull World Health Organ 2004;82:346-53.
+3. Ochiai RL, Wang X, von Seidlein L, et al. Salmonella  paratyphi A  rates, Asia. Emerg Infect Dis 2005;11:1764-6.
+4. Khatri NS, Maskey P, Poudel S, et al. Gallbladder carriage of Salmonella paratyphi A may be an important factor in the increasing incidence of this infection in South Asia. Ann Intern Med 2009;150:567-8.
+5. Vollaard AM, Ali S, van Asten HA, et al. Risk factors for typhoid and paratyphoid fever in Jakarta, Indonesia. JAMA 2004;291:2607-15.
+6. Chau TT, Campbell JI, Galindo CM, et al. Antimicrobial drug resistance of Salmonella enterica serovar typhi in Asia and molecular mechanism of reduced susceptibility to the fluoroquinolones. Antimicrob Agents Chemother 2007;51:4315-23.
+7. Kumar S, Rizvi M, Berry N. Rising prevalence of enteric fever due to multidrugresistant  Salmonella:  an  epidemiological  study.  J  Med  Microbiol  2008;57: 1247-50.
+8. Crump JA, Ram PK, Gupta SK, et al. Part I. Analysis of data gaps pertaining to Salmonella enterica serotype Typhi infections in low and medium human development index countries, 1984-2005. Epidemiol Infect 2008;136:436-48.
+9. Lynch MF, Blanton EM, Bulens S, et al. Typhoid fever in the United States, 1999-2006. JAMA 2009;302:859-65.
+
+============================================================
+CHUNK 49
+============================================================
+REFERENCES
+10.  Brooks WA, Hossain A, Goswami D, et al. Bacteremic typhoid fever in children in an urban slum, Bangladesh. Emerg Infect Dis 2005;11:326-9.
+11.  Bhattarai  A,  Mintz  E.  Typhoid  and  Paratyphoid  Fever.  In:  CDC  Health Information for International Travel, 2010th edn. Mosby; 2010:44. Available at:  http://wwwnc.cdc.gov/travel/yellowbook/2012/chapter-3-infectious-diseasesrelated-to-travel/typhoid-and-paratyphoid-fever.htm. Centers for Disease Control and Prevention, Atlanta, GA 30333, USA.
+12.  Monack DM, Mueller A, Falkow S. Persistent bacterial infections: the interface of  the  pathogen  and  the  host  immune  system.  Nat  Rev  Microbiol  2004;2: 747-65.
+13.  Wain J, Pham VB, Ha V, et al. Quantitation of bacteria in bone marrow from patients with typhoid fever: relationship between counts and clinical features. J Clin Microbiol 2001;39:1571-6.
+14.  Crawford RW, Rosales-Reyes R, Ramirez-Aguilar Mde L, et al. Gallstones play a  significant  role  in  Salmonella  spp.  gallbladder  colonization  and  carriage. Proc Natl Acad Sci USA 2010;107:4353-8.
+15.  Parry  CM,  Hien  TT,  Dougan  G,  et  al.  Typhoid  fever.  N  Engl  J  Med 2002;347:1770-82.
+16.  Maskey AP, Day JN, Phung QT, et al. Salmonella enterica serovar Paratyphi A and S.  enterica serovar  Typhi  cause  indistinguishable  clinical  syndromes  in Kathmandu, Nepal. Clin Infect Dis 2006;42:1247-53.
+17.  Davis TM, Makepeace AE, Dallimore EA, Choo KE. Relative bradycardia is not a feature of enteric fever in children. Clin Infect Dis 1999;28:582-6.
+
+============================================================
+CHUNK 50
+============================================================
+REFERENCES
+18.  Butler T,  Islam A, Kabir I, Jones PK. Patterns of morbidity and mortality in typhoid  fever  dependent  on  age  and  gender:  review  of  552  hospitalized patients with diarrhea. Rev Infect Dis 1991;13:85-90.
+19.  Nguyen QC, Everest P, Tran TK, et al. A clinical, microbiological, and pathological  study  of  intestinal  perforation  associated  with  typhoid  fever.  Clin Infect Dis 2004;39:61-7.
+
+============================================================
+CHUNK 51
+============================================================
+REFERENCES
+20.  Punjabi NH, Hoffman SL, Edman DC, et al. Treatment of severe typhoid fever in  children  with  high  dose  dexamethasone.  Pediatr  Infect  Dis  J  1988; 7:598-600.
+21.  Hoffman  SL,  Punjabi  NH,  Kumala  S,  et  al.  Reduction  of  mortality  in chloramphenicol-treated severe typhoid fever by high-dose dexamethasone. N Engl J Med 1984;310:82-8.
+22.  World Health Organization. Background document: The diagnosis, treatment and prevention of typhoid fever. Geneva: World Health Organization; 2003.
+23.  Wain J, Diep TS, Bay PV, et al. Specimens and culture media for the laboratory diagnosis of typhoid fever. J Infect Dev Ctries 2008;2:469-74.
+24.  Naheed A, Ram PK, Brooks WA, et al. Clinical value of Tubex and Typhidot rapid  diagnostic  tests  for  typhoid  fever  in  an  urban  community  clinic  in Bangladesh. Diagn Microbiol Infect Dis 2008;61:381-6.
+25.  Olsen  SJ,  Pruckler  J,  Bibb  W,  et  al.  Evaluation  of  rapid  diagnostic  tests  for typhoid fever. J Clin Microbiol 2004;42:1885-9.
+26.  Snyder MJ, Gonzalez O, Palomino C, et al. Comparative efficacy of chloramphenicol, ampicillin, and co-trimoxazole in the treatment of typhoid fever. Lancet 1976;2:1155-7.
+27.  Thaver D, Zaidi AK, Critchley JA, et al. Fluoroquinolones for treating typhoid and  paratyphoid  fever  (enteric  fever).  Cochrane  Database  Syst  Rev  2008: CD004530.
+28.  Dolecek C, Tran TP, Nguyen NR, et al. A multi-center randomised controlled trial  of  gatifloxacin versus azithromycin for the treatment of uncomplicated typhoid fever in children and adults in Vietnam. PLoS One 2008;3:e2188.
+
+============================================================
+CHUNK 52
+============================================================
+REFERENCES
+29.  Frenck RW, Jr, Nakhla I, Sultan Y, et al. Azithromycin versus ceftriaxone for the  treatment  of  uncomplicated  typhoid  fever  in  children.  Clin  Infect  Dis 2000;31:1134-8.
+30.  Tatli MM, Aktas G, Kosecik M, Yilmaz A. Treatment of typhoid fever in children with a flexible-duration of ceftriaxone, compared with 14-day treatment with chloramphenicol. Int J Antimicrob Agents 2003;21:350-3.
+31.  Effa  EE,  Bukirwa  H.  Azithromycin  for  treating  uncomplicated  typhoid  and paratyphoid fever (enteric fever). Cochrane Database Syst Rev 2008:CD006083.
+32.  Hoffman  SL,  Punjabi  NH,  Kumala  S,  et  al.  Reduction  of  mortality  in chloramphenicol-treated patients with severe typhoid fever by high dose dexamethasone. Trans Assoc Am Physicians 1983;96:188-96.
+33.  Vinh H, Parry CM, Hanh VT, et al. Double blind comparison of ibuprofen and  paracetamol  for  adjunctive  treatment  of  uncomplicated  typhoid  fever. Pediatr Infect Dis J 2004;23:226-30.
+34.  Zavala  Trujillo  I,  Quiroz  C,  Gutierrez  MA,  et  al.  Fluoroquinolones  in  the treatment of typhoid fever and the carrier state. Eur J Clin Microbiol Infect Dis 1991;10:334-41.
+35.  Meeting of the Immunization Strategic Advisory Group of Experts, November 2007  -  conclusions  and  recommendations.  Wkly  Epidemiol  Rec  2008; 83:1-15.
+36.  Brenner  FW,  Villar  RG,  Angulo  FJ,  et  al.  Salmonella  nomenclature.  J  Clin Microbiol 2000;38:2465-7.
+37.  Zimmerman MD, Murdoch DR, Rozmajzl PJ, et al. Murine typhus and febrile illness, Nepal. Emerg Infect Dis 2008;14:1656-9.
+

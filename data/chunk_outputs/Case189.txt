@@ -1,0 +1,259 @@
+============================================================
+CHUNK 0
+============================================================
+97
+
+============================================================
+CHUNK 1
+============================================================
+Key features
+- Synonyms: human African trypanosomiasis, sleeping sickness, encephalitis lethargica
+- Infection caused by protozoa genus Trypanosoma and transmitted by tsetse %y
+- Hematologic stage (I) associated with systemic illness
+- Neurologic stage (II) associated with progressive disease, disability, and death if untreated
+- May be di&cult to diagnose
+- Treatments are associated with signi'cant toxicity
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+The description of sleeping sickness preceded by centuries the discovery of its cause. John Atkin (1685-1757) described 'a sleepy distemper'  reminiscent  of  second  stage  trypanosomiasis  off  the  coast  of Guinea in 1721, and Thomas Masterman Winterbottom (1766-1859) published an account of lethargy in Sierra Leone that was sometimes associated with 'small glandular tumors in the neck' in West African slaves. However, it was only after Pasteur's (1822-1895) demonstration that microorganisms can cause disease that trypanosomes began to be identified in the blood of animals in the middle of the nineteenth century.
+David Livingstone (1813-1873) had already written (1858) of  a nagana ,  a  disease  of  horses  ('which  follows  the  bite  of  the tsetse') when Captain David Bruce (1855-1931) identified trypanosomes  in  large  mammals  in  Ubombo,  Zululand  (in  1895).  Bruce experimented with tsetse flies and dogs to demonstrate transmission of trypanosomes.
+The  first  human  infection  was  described  by  Robert  Forde  (18611948)  together  with  Everett  Dutton  (1877-1905).  They  identified trypanosomes in a sailor returning from The Gambia to Liverpool and classified them as a new species, Trypanosoma gambiense , in 1902.
+Aldo Castellani (1878-1971) went to Entebbe to assist with an epidemic of sleeping sickness that was devastating communities there and first reported trypanosomes in the cerebrospinal fluid (CSF) of patients in 1903, albeit in somewhat controversial circumstances. In 1910, John Stephens (1865-1946) and Harold Fentham (1875-1937) described  in  detail  a  morphologically  different  parasite  -  'with  a nucleus at the posterior (non-flagellar) end' - from another patient who had been seen in Liverpool and named it T.  rhodesiense as the patient had returned from a prospecting expedition in northeastern Rhodesia. This parasite was more virulent in laboratory models than T.  gambiense .  A  year  later,  Allan  Kinghorn  (1880-1953)  and  Warrington Yorke (1883-1943) showed that Glossina morsitans can transmit T. rhodesiense to monkeys.
+
+============================================================
+CHUNK 3
+============================================================
+Sanjeev Krishna, August Stich
+Although arsenic had been used by Livingstone to treat a mare with nagana , and Forde used it (Fowler's solution) to treat his patient from The Gambia, it fell upon Ernst Friedham (1899-1989) to carry out the first drug trials of arsenic derivatives in the 1940s and to select melarsoprol, which was licensed in 1949.
+The control of trypanosomiasis in endemic areas crucially depends upon public health measures that were developed during the major epidemics in  the  last  century,  including  one  in  the  Congo  (18961906,  killing  500,000)  and  Uganda  then  as  well  as  in  the  1970s. Eugene Jamot (1879-1937) in the 1920s evolved the concept of a mobile team for case finding, which has proved to be so important for control in recent years.
+Scientific studies of trypanosomes have resulted in the discovery of antigenic  variation,  GPI  anchors,  polycistronic  transcription,  RNA splicing, mitochondrial RNA editing, and several unusual metabolic pathways, but, as yet, precious few new agents for treatment. Perhaps the  recent  publication  of  the  full  sequence  of  the  genome  of  the kinetoplastids,  including Trypanosoma spp.,  will  help  to  rectify  this anomaly [1].
+Human African trypanosomiasis (HAT) is an acute (caused by T.  b. rhodesiense ) or chronic (caused by T. b. gambiense ) protozoal infection that invariably progresses to a fatal outcome unless treated (see Table 97-1 for forms of HAT). Other human trypanosomiases include infections  in  the  Americas  by T.  cruzi that  causes  Chagas  disease  and occasional infections with T. evansi (in India), and T. congolense and T. b. brucei (in Africa). T. b. brucei is almost exclusively an animal  subspecies  that  causes  economically  important  disease  in ungulates.  In  Malawi,  a  more  chronic  version  of T.  b.  rhodesiense has  been  described,  possibly  with  a  distinct  immunopathogenetic mechanism.
+
+============================================================
+CHUNK 4
+============================================================
+Sanjeev Krishna, August Stich
+Stage  I  hemolymphatic  infection  is  when  there  is  no  evidence  of central nervous system (CNS) involvement (no clinical signs and ≤ 5 lymphocytes/mm 3  in the CSF). Stage II meningoencephalitic infection is when the parasite has penetrated into the CNS as evidenced by a lymphocytic pleocytosis ( > 5 lymphocytes/mm 3  in CSF) associated  with  or  without  CNS  symptoms  and  signs.  An  'intermediate stage' of infection has also been described and used in some countries to guide therapy, defined as infection with trypanosomes in patients who have between 6 and 20 lymphocytes/mm 3  in the CSF. The clinical  relevance  of  this  'intermediate  stage'  and  its  consequences  for treatment are still unclear [2].
+
+============================================================
+CHUNK 5
+============================================================
+EPIDEMIOLOGY
+Within  the  subkingdom  Protozoa  and  Order  kinetoplastida,  the genus Trypanosoma belongs to the family Trypanosomatidae and subgenus Trypanozoon . Despite early descriptions of morphologic differences between T. rhodesiense and T. gambiense , it is accepted that the three species in this subgenus, T. brucei , T. evansi , and T. equiperdum , are morphologically indistinguishable. T. brucei itself is now divided into three subspecies: the two human pathogens T. b. gambiense and T. b. rhodesiense and the animal pathogen T. b. brucei . It is their epidemiology, molecular biology, and clinical behavior that establishes the
+TABLE 97-1 Forms of HAT, 1 = . East African sleeping sickness, 1 = West African sleeping sickness. Trypanosoma brucei rhodesiense, 1 = Trypanosoma brucei gambiense. Zoonosis; wild (antelopes, e.g. bushbuck) and occasionally domestic animals as reservoir and source of case clusters; epidemic outbreaks, mainly in East Africa (Tanzania, Zambia, Malawi), 1 = Mainly anthroponosis with evidence for several other mammal species; severe public health problem in some West and Central African countries (DRC, Sudan, Angola, CAR). Transmitted by savannah tsetse Cies (Morsitans group), 1 = Transmitted by riverine tsetse Cies (Palpalis group). Acute onset, chancre frequent, rapid progression; death frequently in stage I (cardiac failure), 1 = Febrile disease, slow progression; death usually in stage II after many months or years. Parasites usually in high number and easily detectable, serological tests unreliable, 1 = Parasitemia scanty, serology reliable in later stages
+strongest distinctions between subspecies. T. brucei is transmitted by tsetse flies and develops in their midgut and salivary glands (hence 'salivarian' trypanosomes) [3].
+
+============================================================
+CHUNK 6
+============================================================
+EPIDEMIOLOGY
+In nature, T. b. brucei can infect all domestic animals, camels, some antelopes and carnivores; T. b.  rhodesiense infects humans, domestic livestock, and some wild antelopes, and T. b. gambiense infects humans, pigs, and sheep and only occasionally other orders. T. b. rhodesiense and T. b. brucei are easily grown in rodents, whereas T. b. gambiense requires immunosuppressed rodents, multimammate, or thicket rats to yield reasonable rates of isolation after subinoculation.
+Trypanosomes are flagellated, extracellular protozoa (Fig. 97.1) that are slender and long (12-42 μ m) in the bloodstream. They have a single, tubular mitochondrion located near the flagellum, which contains circular DNAs within concatenated structures called the kinetoplast. Short 'stumpy' forms are taken up by tsetse when they feed, and in the midgut they develop into procyclic forms and multiply by binary fission. After about 2 weeks in the gut, trypanosomes migrate to the salivary glands as epimastigotes, where they develop into metacyclic forms that can infect the next host. There are many coordinated changes in the metabolism and antigenicity of the parasite as it develops its morphologic program in each host. In contrast to Leishmania spp and T. cruzi , there is no evidence for intracellular stages of T. brucei .
+
+============================================================
+CHUNK 7
+============================================================
+VECTOR
+African trypanosomes are transmitted by different species of tsetse fly ( Glossina spp)  found  in microfoci  between  the  latitudes  14°N and 29°S (Fig. 97.2) [4]. The genus of these biologically unique insects comprises 31 distinct species and subspecies. Only few are potential vectors of HAT, the most important being G. morsitans (Fig. 97.3) and G. palpalis . Their distinctive behavior, ecology (warm temperatures), and chosen habitat (shade, and humidity for resting and larviposition) explain many epidemiologic features of sleeping sickness. Tsetse flies can live for many months in the wild, but give birth to only about eight larvae per lifetime. Both sexes feed on blood, inflicting a painful bite. A relatively small proportion of flies in the field ( < 1%) are competent to transmit infection, with a higher proportion found in epidemics ( < 5%).
+
+============================================================
+CHUNK 8
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Normal human plasma has a trypanolytic factor that does not allow animal trypanosomes (including T. b. brucei and T. evansi ) to survive. This protective factor, serum resistance antigen, is made of apolipoprotein  L1,  apolipoprotein  A-I,  and  haptoglobin-related  protein, which together are found in the densest subfraction of high-density lipoprotein (HDL3) and in another lipid-poor complex of IgMs. This mechanism has helped  to  explain  how  a  human  case  of T.  evansi developed, as the patient was deficient in apolipoprotein L1. Normal
+FIGURE 97.1 Trypanosomes in peripheral blood (Giemsa stain).
+human serum or recombinant apoLI inserts anionic pores in the lysosomal membrane of parasites, causing lysis through osmotic swelling [5].
+Apart  from  serum  resistance  antigen,  which  acts  to  protect  against innate host defense, parasites have also evolved a dense surface coat of glycoprotein (variant surface glycoprotein or VSG), which is shed when  the  host's  immune  system  develops  anti-VSG  IgM  and  IgG antibody responses. Approximately 10 7 molecules of single VSG are expressed at any one time, being replaced with an antigenically distinct version in a smaller, proliferating subset of parasites (about 2%) that multiply to replace the ones that have already been recognized. As the host immune response attempts to catch up by generating new VSG antibodies, the parasites produce new surface coats. New VSGs are  generated  through  programmed  DNA  rearranging  from  a  nonexpressed  context  to  an  expression-linked,  telomerically  located region. Whilst this elaborate antigenic switching mechanism is well understood in molecular terms, it has not yielded a solution to the problem it creates for making a vaccine against this organism.
+
+============================================================
+CHUNK 9
+============================================================
+POLYCLONAL ACTIVATION OF B CELLS
+A further consequence of antigenic variation is chronic stimulation of the host's immune system with hypergammaglobulinemia, penetration  of  trypanosomes  into  privileged  sites  such  as  the  CNS,  and stimulation  of  the  cytokine  and  mediator  networks,  exhausting defense mechanisms. Much of the IgM and IgG antibody is directed to  non-VSG  antigens,  with  production  of  rheumatoid  factor-like reactivity,  anti-DNA  antibodies  and  heterophile  antibodies,  some of  which  can  be  confusing  if  identified  in  screening  tests.  Crossreactivity with numerous other serologic tests is common and can be misleading.
+FIGURE 97.2 Map of distribution of human African trypanosomiasis
+Lambert azimuthal equal area projection
+FIGURE 97.3 Glossina morsitans .
+
+============================================================
+CHUNK 10
+============================================================
+CLINICAL FEATURES
+There is no unique clinical picture of HAT, and the disease in all its stages offers a  sometimes wide range of differential diagnoses. The infection  often  has  an  insidious  onset,  but T.  brucei ,  whether  the East or West African subspecies, will invariably kill if the patient is not treated in time. The natural course of HAT can be divided into different and distinct stages. Their determination by various laboratory investigations is  important for the clinical management of the patient.
+
+============================================================
+CHUNK 11
+============================================================
+THE TRYPANOSOMAL CHANCRE
+Tsetse bites can be quite painful. In the case of an infection, a local reaction called trypanosomal chancre (Fig. 97.4) can develop at the site where the fly has injected parasites with its saliva. A small raised papule develops after about 5 days. It increases rapidly in size, surrounded by an intense erythematous tissue reaction with local edema and regional lymphadenopathy. Although some chancres have a very angry appearance, they are usually not very painful unless they become ulcerated and superinfected. They heal without treatment after several weeks,  leaving  a  permanent,  hyperpigmented  spot.  Trypanosomal chancres occur in more than half the cases of T. b. rhodesiense . In T. b. gambiense ,  they are much less common and often go undetected in endemic  populations.  Inexperienced  clinicians  might  misdiagnose chancres  as  cutaneous  manifestations  of  bacterial  diseases,  such  as superinfected insect bites, eschar or cutaneous anthrax.
+
+============================================================
+CHUNK 12
+============================================================
+HEMOLYMPHATIC STAGE (HAT STAGE I)
+In T.  b.  rhodesiense infection,  this  hemolymphatic stage  is  very  dramatic and pronounced, clinically often resembling severe Plasmodium falciparum malaria  or  septicemia.  Patients  may  die  within  the  first weeks after the onset of symptoms, mostly through cardiac involvement (myocarditis).  In  the  early  stage  of T.  b.  gambiense infection,
+FIGURE 97.4 Trypanosomal chancre on the leg.
+symptoms are usually infrequent and mild. Laboratory findings indicate raised levels of markers of inflammation (CRP, ESR), normal to low  WBC  counts,  anemia,  and  often  a  marked  thrombocytopenia, depending on the severity of the clinical condition [6].
+After  the  initial  phase,  febrile  episodes  become  less  severe  as  the disease  progresses.  Fever  is  often  undulating,  reflecting  the  lyses  of waves of parasites in the bloodstream. A reliable sign, particularly in T.  b.  gambiense infection, is the enlargement of lymph nodes in the posterior triangle of the neck (Winterbottom's sign, Fig. 97.5). Other typical signs are a fugitive patchy or circinate rash, a myxedematous infiltration  of  connective  tissue  ('puffy  face  syndrome',  Fig.  97.6), and an inconspicuous periostitis of the tibia with delayed hyperesthesia (Kérandel's sign).
+
+============================================================
+CHUNK 13
+============================================================
+MENINGOENCEPHALITIC STAGE (HAT STAGE II)
+Within weeks in T. b. rhodesiense and months (sometimes years) in T. b. gambiense infection, cerebral involvement will invariably follow the early stages of HAT. Trypanosomes cross the blood-brain barrier and enter the CSF by mechanisms that are still not clearly understood.
+The onset of stage II is insidious and may not be determined clinically. As the disease progresses, patients complain of increasing headache and some may detect a marked change in behavior and personality. Neurologic symptoms, which follow gradually, can be focal or generalized, depending on the site of cellular damage in the CNS. Radiologic changes include bilateral, hyperintense signals at MRI T2-signal prolongation, predominantly involving the periventricular and frontal white matter as well as affecting capsules, basal ganglia and cerebellum. The pathohistologic correlate is a perivascular infiltration of inflammatory cells ('cuffing') and glial proliferation, resembling cerebral endarteritis. Neuronal elements may be less affected [7].
+Convulsions in late-stage trypanosomiasis are common, usually indicating a poor prognosis. Periods of confusion and agitation slowly evolve towards a stage of distinct perplexity (Fig. 97.7) when patients lose interest in their surroundings and their own situation. Inflammatory reactions in the hypothalamic structures lead to a dysfunction in circadian rhythms  and  sleep  regulatory  systems.  Sleep  patterns become fragmented and finally result in a somnolent and comatose
+FIGURE 97.5 Winterbottom's sign.
+FIGURE 97.6 'PuDy face' syndrome.
+FIGURE 97.7 Patient with late-stage trypanosomiasis.
+Intersecting pentagons
+FIGURE  97.8 Patient  with  late-stage  trypanosomiasis  asked  to  copy  a Egure (intersecting pentagons) shown in inset.
+FIGURE  97.9 Morular  cell  of  Mott  (H&E  stain)  in  cerebrospinal  Cuid  of patient with stage II disease.
+
+============================================================
+CHUNK 14
+============================================================
+MENINGOENCEPHALITIC STAGE (HAT STAGE II)
+state. Other evidence of CNS involvement includes inability to execute relatively  simple  tasks  (Fig.  97.8).  In  some  cases,  morular  cells  of Mott, activated plasma cells with eosinophilic inclusions containing IgM antibodies, can be seen in the CSF (Fig. 97.9). Progressive wasting and dehydration follows the inability to eat and drink.
+In children, HAT seems to progress even more rapidly. Parents often notice  insomnia  and  behavioral  changes,  and  stage  II  is  usually already reached when the diagnosis is established.
+
+============================================================
+CHUNK 15
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Few  infections  demand  a  confirmed  diagnosis  as  much  as  African trypanosomiasis, because the treatments available can be fatally toxic. Clinical  suspicion is triggered when a patient returns from  an area endemic for trypanosomiasis. A distinction should be made between the  two  forms:  For T.  b.  rhodesiense infections,  the  appearance  of  a chancre and the presence of high  fever should raise suspicion and trigger a vigorous search for parasites in the blood film. T. b. gambiense infections  can  present,  sometimes  months  or  years  after  exposure, with symptoms that may be relatively nonspecific, even sometimes mimicking psychoses. Again, detection of parasites is critical to management,  and  these  can  be  sought  in  aspirate  from  a  chancre,  in blood, lymph fluid in glands, or in the CSF. In endemic areas, active case finding relies on serologic screening tests for T. b. gambiense that identify individuals at high risk of being infected [8]. In some circumstances when serologic tests are strongly positive, there are appropriate clinical findings, and especially when there is evidence of advanced (stage  II)  disease,  treatment can be given  empirically.  For infection with T.  b.  rhodesiense , serologic tests are unhelpful, but parasites are much easier to detect because they are commonly present in greater abundance in the bloodstream.
+T.  b.  gambiense can  cause  disease even though it may be present  in numbers  well  below  the  limits  for  detection  (for  example, < 10 parasites/mL) by  any  method that examines  body  fluids.  Repeated examinations for parasites, or, if possible, subinoculation into a susceptible species, may help in detection.
+
+============================================================
+CHUNK 16
+============================================================
+ASPIRATION OF CHANCRE OR LYMPH NODE
+Chancres  mark  the  portal  of  entry  of  trypanosomes  and  are  more common in T. b. rhodesiense , where half the patients may manifest this sign,  whereas  they  are  less  common  in T.  b.  gambiense infections, particularly in patients in endemic areas. If present, they are a good source  of  parasites.  Fluid  from  enlarged  lymph  nodes,  frequently posterior cervical nodes that form Winterbottom's sign, can be aspirated and visualized immediately ( × 400) with direct microscopy or, if available, dark-field illumination. Fresh preparations contain motile trypanosomes that catch the eye by jostling their neighboring cells.
+
+============================================================
+CHUNK 17
+============================================================
+BLOOD FILMS
+Thick blood films, stained with Field's or Giemsa's stains identical to the ones used for malaria diagnosis, can sometimes show trypanosomes, although concentration techniques are required routinely to identify parasites in a T. b. gambiense infection. Morphology may be poor in thick films, but the longer time required to examine thin films that preserve morphology may outweigh their value in screening for this infection. In contrast, blood film examinations are much more useful in T. b. rhodesiense infections.
+
+============================================================
+CHUNK 18
+============================================================
+CONCENTRATION METHODS
+Many approaches to concentrate parasites before visualization have been successfully developed. Probably the most robust one relies on a mini anion exchange column that allows trypanosomes through its cellulose matrix when 300 μ L of blood is added to it (compared to ~10 μ L of blood volume examined on a thick film). The kit is not commercially available and is used only by specialized laboratories. Another method has been adapted from malaria diagnosis, the quantitative buffy coat (QBC) method. A similar approach uses capillary tube centrifugation (CTC). These approaches can be combined with better  visualization  techniques  such  as  fluorescence  labeling  to improve parasite  recognition  and  together with  field-adapted,  relatively cheap fluorescence microscopes with light-emitting diodes as source illumination are being developed by the Foundation for Innovative  New Diagnostics (FIND), which aims to improve diagnostic approaches for African trypanosomiasis.
+
+============================================================
+CHUNK 19
+============================================================
+NUCLEIC ACID AMPLIFICATION TECHNIQUES
+Genus, species and subspecies specific primers are well described and available for use in epidemiologic studies of African trypanosomiasis, but conventional PCR currently lacks sensitivity to detect parasites in low abundance in the clinic. Newer approaches including the use of isothermal  PCR  techniques  that  demand  much  less  in  the  way  of equipment are being investigated by FIND, but until now molecular diagnostic tests are still inferior to conventional parasite detection.
+
+============================================================
+CHUNK 20
+============================================================
+SEROLOGIC ASSAYS
+A  card  agglutination  test  (CATT)  has  been  used  for  many  years  to screen for antibodies against T. b. gambiense using a mixture of abundant parasite antigens. This is a rapid, field-adapted test that detects antibodies by their ability to agglutinate antigen, but does not confirm
+the infection. Rather, a positive result should stimulate the search for parasites. The CATT can be obtained from the Department of Parasitology, Prince Leopold Institute of Tropical Medicine, Nationalestraat 155 B - 2000 Antwerp, Belgium (www.itg.be).
+
+============================================================
+CHUNK 21
+============================================================
+TREATMENT
+Treatment  of  HAT  is  difficult  and  dangerous  for  the  patient  in  all stages.  Hospitalization  is  usually  necessary.  Patient  management requires not only the availability and correct administration of drugs with numerous side effects, but also good general medical skills and nursing  care  to  deal  with  treatment  reactions  and  concomitant pathologies,  as  most  patients  with  late  stage  trypanosomiasis  are severely  ill  and  malnourished  [9].  However,  sleeping  sickness  is  a disease of rural, remote places where the healthcare system is rudimentary. The active foci of sleeping sickness are usually in far-away and  insecure  places,  which  are  difficult  to  access.  Many  treatment centers work under emergency conditions with extremely restricted resources.
+However, if managed properly, HAT can be cured, especially when the diagnosis is made at an early stage of the disease.
+Still, HAT treatment is not standardized. Trypanosomiasis treatment regimens vary considerably between countries and treatment centers, as  many  country  programs  have  traditionally  developed  their  own treatment protocols. Results from different centers are comparable to only a very limited extent. Few properly conducted and sufficiently powered clinical trials are available to evaluate duration, dosage, possible combinations of drugs, and co-administration of auxiliary treatments. Sufficient infrastructure for carrying out clinical research exists in only a handful of places.
+
+============================================================
+CHUNK 22
+============================================================
+MANAGEMENT OF HAT STAGE I
+The treatment of HAT depends on the trypanosome subspecies and the stage of the disease (Tables 97-2 & 97-3).
+
+============================================================
+CHUNK 23
+============================================================
+Pentamidine
+Since its introduction in 1937, pentamidine has become the drug of choice for gambiense HAT stage I, achieving cure rates as high as 98%. But in T.  rhodesiense HAT there are frequent failures. Lower rates of cellular  pentamidine  uptake  in T.  b.  rhodesiense may  explain  these differences. Some cures of stage II infections have also been reported, but CSF drug levels are usually not sufficiently high to guarantee a reliable trypanosomicidal effect in the CNS.
+Pentamidine is usually given by deep intramuscular injection, which sometimes can be managed on an outpatient basis. If hospital care and reasonable monitoring conditions are available, an intravenous infusion, given in normal saline over 2 hours, might be used instead. The  main  advantage  of  pentamidine  over  other  drugs  is  the  short treatment  course  and  ease  of  administration.  Adverse  effects  are
+TABLE 97-2, 1 = Drugs for the Treatment of HAT. TABLE 97-2, 2 = Drugs for the Treatment of HAT. , 1 = Stage 1 hemolymphatic stage (no evidence of CNS involvement). , 2 = Stage 2 meningoencephalitic stage (pathological CSF GLYPH<c=25,font=/CIDFont+F12>ndings). Trypanosoma brucei rhodesiense, 1 = Suramin. Trypanosoma brucei rhodesiense, 2 = Melarsoprol. Trypanosoma brucei gambiense, 1 = Pentamidine. Trypanosoma brucei gambiense, 2 = ECornithine ( + nifurtimox) alt.: melarsoprol
+related  to  the  route  of  administration  or  its  dose  and  are  usually reversible.
+In clinical medicine, pentamidine is also used as second-line therapy for visceral leishmaniasis and especially in the prophylaxis and treatment of opportunistic Pneumocystis jiroveci pneumonia in AIDS. Since the start of the HIV pandemic, the cost of pentamidine was increased more than tenfold by producers, making it unaffordable for health institutions in low-income countries. After an intervention led by the World Health organization (WHO), a limited amount of pentamidine is now made available for use in HAT through a public-private partnership..
+
+============================================================
+CHUNK 24
+============================================================
+Suramin
+In the early twentieth century, the development of the complex sulphated naphthylamine suramin ('Bayer 205'), resulting from German research on the trypanosomicidal activity of various dyes and heavy metals, was a major breakthrough in the field of tropical medicine. For the first time, African trypanosomiasis, at least in its early stages, became treatable without causing major harm. Suramin, under the trade  name  of  Germanin®  soon  became  a  figurehead  of  German research in tropical medicine. That German politicians tried to use suramin to regain access to Africa to reverse the loss of the German colonies after  World War  I  is  another  sad chapter  on  how  tropical medicine was instrumentalized for political ambitions.
+Suramin is still the drug of choice to treat stage I HAT caused by T. b. rhodesiense . Like pentamidine, it does not reach therapeutic levels in CSF. Suramin is injected intravenously after dilution in distilled water.
+Adverse  effects,  especially  pyrexia  and  nephrotoxicity,  depend  on nutritional  status,  concomitant  illnesses  (especially  onchocerciasis) and the patient's  clinical  condition.  Although  life-threatening  reactions  like  anaphylactic  shock  have  been  described,  serious  adverse effects are rare.
+
+============================================================
+CHUNK 25
+============================================================
+Melarsoprol
+Until the systematic introduction of the arsenical compound melarsoprol in 1949, late stage trypanosomiasis was virtually untreatable. Since then, it has remained the most widely used stage II antitrypanosomal drug for both T. b. gambiense and rhodesiense infections and has thus saved many lives. However, melarsoprol displays a high rate of dangerous adverse  effects  [10].  In  addition,  there  is  increasing  evidence of frequent  relapses  and  resistance  in  some parts  of  Congo, Angola, Sudan and Uganda.
+TABLE 97-3 Treatment Protocols for Antitrypanosomal Drugs, 1 = TABLE 97-3 Treatment Protocols for Antitrypanosomal Drugs. Suramin, 1 = Test dose 5 mg/kg, afterwards 20 mg/ kg (max. 1 g/day) on day 1, 3, 7, 14, 21. Pentamidine, 1 = 4 mg/kg every second day (max. 200 mg/day) for 7-10 days. Melarsoprol, 1 = 2.2 mg/kg daily for 10 days (dosage regimen only evaluated for T. b. gambiense ). ECornithine, 1 = 100 mg/kg every 6 hours for 14 days. NECT (nifurtimox- eCornithine combination therapy), 1 = Nifurtimox 5 mg/kg three times daily for 10 days ECornithine 200 mg/kg twice daily for 7 days
+
+============================================================
+CHUNK 26
+============================================================
+Melarsoprol
+Melarsoprol clears trypanosomes rapidly from the blood, lymph and CSF. It is  given by slow  intravenous injection; extravascular leakage must be avoided because of possible tissue necrosis. The most important  adverse  effect  is  an  acute  encephalopathy,  usually  appearing around day 5 to 8 of the treatment course in 5-14% of all patients. Severe  headache,  convulsions,  rapid  neurologic  deterioration,  or deepening of coma are the indicators of a reaction which is immunemediated by release of parasite antigens in the first days of treatment. MRI changes associated with this reaction are of a diffuse hemorrhagic encephalopathy and cerebral edema. The overall case fatality under treatment ranges between 2% and 12%, depending on the stage of disease  and the quality of medical and nursing care. Simultaneous administration of glucocorticosteroids (prednisolone 1 mg/kg body weight; maximum 40 mg daily) might reduce mortality, especially in cases with high CSF pleocytosis [1 1].
+
+============================================================
+CHUNK 27
+============================================================
+E=ornithine (DFMO)
+Initially developed as antitumor agent, eflornithine (alpha-difluoromethylornithine)  was  introduced  in  1980  as  an  antitrypanosomal drug, in the hope that it might replace melarsoprol for treatment of stage II trypanosomiasis. However, exorbitant costs and limited availability have restricted its use mostly to melarsoprol-refractory cases of gambiense sleeping sickness. T. b. rhodesiense is much less sensitive due to a much higher turnover rate of the target enzyme ornithine decarboxylase, and, therefore, cannot be treated with eflornithine.
+Eflornithine  can  be  taken  orally,  but  intravenous  administration  is preferred as it achieves a much higher bioavailability and success rate. The infusion should be administered slowly over a period of at least 30 minutes. Continuous 24-hour administration is preferable if facilities allow.
+The range of adverse reactions to eflornithine is wide, as with other cytotoxic drugs  in  cancer treatment. Their  occurrence and intensity increase with the duration of treatment and the severity of the patient's general condition.
+In the late 1990s, eflornithine was no longer produced for use against HAT, despite pleas from WHO. The discovery of its therapeutic effect in cosmetic creams against facial hair helped to restimulate a production line and thus had a beneficial 'spin-off effect' for HAT. In 2001, agreements were signed between WHO and two major drug-producing companies  (Bayer  HealthCare  and  Sanofi-Aventis)  which  led  to  a 'public-private partnership' (PPP) and helped to assure a sufficient supply of eflornithine and other drugs essential for the treatment of HAT. In 2006, the agreement was prolonged until 201 1, and there are already promising signs for its continuation.
+
+============================================================
+CHUNK 28
+============================================================
+Nifurtimox
+Ten years after its introduction for the treatment of American trypanosomiasis in 1967, nifurtimox was found to be effective in the treatment  of gambiense sleeping  sickness.  It  has  a  place  as  second-line treatment in melarsoprol-refractory cases and especially as a partner in combination therapies. Nifurtimox is generally not well tolerated, with gastrointestinal (nausea, epigastric pain) and neurologic (polyneuropathies,  ataxia)  symptoms  being  the  most  pronounced, but adverse effects are usually not severe. They are dose-related and rapidly reversible after discontinuation of the drug.
+
+============================================================
+CHUNK 29
+============================================================
+Combination Treatments in HAT
+Melarsoprol, eflornithine and nifurtimox interfere with trypanothione synthesis  and activity at different stages. There is  also  experimental evidence that combinations of suramin and stage II drugs might be beneficial. Therefore, by reducing the overall dosage of each individual  component,  drug  combinations  could  perhaps  reduce  the  frequency  of  serious  side  effects,  and  the  development  of  resistance. Based on this concept, important progress was made in 2009 by a multicenter  trial,  testing  a  combination  of  nifurtimox  and  eflornithine. NECT (nifurtimox- eflornithine combination therapy) has the potential to develop into the preferred first-line treatment for stage II gambiense HAT in the future [12].
+
+============================================================
+CHUNK 30
+============================================================
+Individual Protection
+Pentamidine or suramin chemoprophylaxis is of historical interest, and can  no  longer  be  recommended.  Insect  repellents  are  only  of limited use, as tsetse  flies  are  visually  attracted  to  their  prey.  Longsleeved,  bright  clothing  is  the  best  defence  against  attacking  tsetse flies. Infested strips of land are often well known to the local population and should be avoided as far as possible. Even in foci of disease, less than 1 % of the flies are infective, so HAT among tourists and occasional visitors to endemic areas is rare, although it continues to be reported in returned travelers. Recently, rhodesiense HAT has been reported in visitors to game parks in Tanzania and Zambia.
+
+============================================================
+CHUNK 31
+============================================================
+Control in Endemic Areas
+In the past, tremendous efforts were undertaken to control the threat posed by sleeping sickness to human lives and economic development in rural Africa. Control programs are based on a combination of treatment of patients, mass screening, and vector control, usually by trapping. The most important strategy is active case finding. This requires mobile teams which regularly visit villages in endemic areas. Mostly based on the results of CATT screening, patients, preferably in the early stage of the disease, are identified and treated. Gradually, the parasite reservoir is depleted. As Glossina is a relatively incompetent vector and susceptible to control measures such as insecticide application or trapping, the combination of various approaches can lead to a complete break of the transmission cycle. This was achieved in the past  in  many  places,  and  some  recent  successes  have  been  accomplished, usually through the work of committed non-governmental organizations  (Sudan,  Angola,  CAR).  However,  the  resurgence  of sleeping sickness in areas ridden by war and civil unrest in the last 25 years,  in  combination with the decreasing availability of drugs and the general loss of interest in health in Africa, gives rise to the fear that HAT will still continue to be a severe public health problem in the future.
+
+============================================================
+CHUNK 32
+============================================================
+REFERENCES
+1. Barrett MP, Boykin DW, Brun R, Tidwell RR. Human African trypanosomiasis: pharmacological  re-engagement  with  a  neglected  disease.  Br  J  Pharmacol 2007;152:1155-71.
+2. Brun R, Blum J, Chappuis F, Burri C. Human African trypanosomiasis. Lancet 2010;375:148-59.
+3. Brun R,  Balmer  O.  New developments in  human African trypanosomiasis. Curr Opin Infect Dis 2006;19:415-20.
+4. Simarro PP, Cecchi G, Paone M, et al. The atlas of human African trypanosomiasis: a contribution to global mapping of neglected tropical diseases. Int J Health Geogr 2010;9:57.
+5. Pays E,  Vanhollebeke B. Human innate  immunity  against African trypanosomes. Curr Opin Immunol 2009;21:493-8.
+6. Stich A, Abel PM, Krishna S. Human  African trypanosomiasis.  BMJ 2002;325:203-6.
+7. Kager  PA,  Schipper  HG,  Stam  J,  Majoie  CB.  Magnetic  resonance  imaging findings  in  human  African  trypanosomiasis:  a  four  year  follow-up  study in  a  patient  and  review  of  the  literature.  Am  J  Trop  Med  Hyg  2009;80: 947-52.
+8. Magnus E, Vervoort T, van Meirvenne N. A card-agglutination test with stained trypanosomes  (C.A.T.T.)  for  the  serological  diagnosis  of T.  b.  gambiense trypanosomiasis. Ann Soc Belg Med Trop 1978;58:169-76.
+9. Burri C, Stich A, Brun R. Current chemotherapy of human African trypanosomiasis. In: Maudlin I, Holmes PH, Miles MA, eds. Trypanosomiasis. Wallingford, UK: CABI Publishing; 2004.
+
+============================================================
+CHUNK 33
+============================================================
+REFERENCES
+10.  Burri  C,  Nkunku  S,  Merolle  A,  et  al.  Efficacy  of  new,  concise  schedule  for melarsoprol in treatment of sleeping sickness caused by Trypanosoma brucei gambiense : a randomised trial. Lancet 2000;355:1419-25.
+11. Pepin  J,  Milord  F,  Guern  C,  et  al.  Trial  of  prednisolone  for  prevention  of melarsoprol-induced encephalopathy in gambiense sleeping sickness. Lancet 1989;i:1246-50.
+12.  Priotto G, Kasparian S, Mutombo W, et al. Nifurtimox-eflornithine combination therapy for second-stage African Trypanosoma brucei gambiense trypanosomiasis:  a  multicentre,  randomised,  phase  III, non-inferiority trial.  Lancet 2009;374:56-64.
+

@@ -1,0 +1,245 @@
+============================================================
+CHUNK 0
+============================================================
+148
+
+============================================================
+CHUNK 1
+============================================================
+Key features
+- All individuals returning from tropical areas should be investigated with stool microscopy for ova and parasites and strongyloides serology. An HIV test should be considered
+- Individuals returning from Africa should in addition be investigated with schistosomiasis and GLYPH<c=31,font=/CIDFont+F10>lariasis serology and microscopy of GLYPH<c=31,font=/CIDFont+F10>ltered urine for schistosoma ova
+- In those returning from West Africa, day blood microscopy for microGLYPH<c=31,font=/CIDFont+F10>laria  should additionally be performed and night bloods for microGLYPH<c=31,font=/CIDFont+F10>laria and skin snips for onchocerciasis should be considered
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+Eosinophilia,  defined  here  as  an  absolute  eosinophil  count  greater than  0.45 × 1 0 9 /L,  occurs  in  about  10%  of  migrants  and  travelers returning from the tropics who seek post-travel care [1]. In this group, the presence of eosinophilia usually signifies an underlying helminth infection  [2],  most  frequently  with  a  nematode  (round  worm,  e.g. Ascaris ) or trematode (fluke, e.g. schistosomiasis) [3].
+The cause of eosinophilia varies depending on the patient group and regions  visited.  Eosinophilia  is  often  higher  in  travelers,  most  of whom have been recently infected with helminths, than in chronically  infected  migrants  [4].  Certain  helminth  infections,  such  as Katayama syndrome, tropical pulmonary eosinophilia and strongyloides  infection  are  also  associated  with  a  higher  eosinophilia ( > 2 × 10 9 /L), as are multiple helminth infections. The prevalence of imported helminth infections is highly dependent on the geographic area visited, and this is reflected in published case series in migrants and  travelers.  Studies  from  North  America,  where  many  migrants are  from  Asia  and  Latin  America,  report  a  higher  proportion  of strongyloides infection [5]. Those from Europe, where a higher proportion of travelers and migrants are from Africa, report more schistosomiasis [2].
+It is important to investigate eosinophilia in returning travelers and migrants;  although  helminth  infections  are  often  self-limiting  and cause little harm, they occasionally cause long-term health problems. For example, strongyloides infection can result in a dangerous hyperinfection syndrome [5], and schistosomiasis is occasionally associated with bladder carcinoma.
+Eosinophilia  has  numerous  noninfectious  causes,  most  commonly drugs, atopy (asthma and eczema) and allergy. These and uncommon but serious noninfectious causes such as hemopoietic malignancies and connective tissue disorders are summarized in Table 148-1. Longstanding moderate-/high-grade eosinophilia ( > 1.5 × 10 9 /L) can itself result in end-organ damage.
+
+============================================================
+CHUNK 3
+============================================================
+Eosinophilia in Migrants and Returned Travelers: A Practical Approach
+Anna M Checkley, Christopher JM Whitty
+
+============================================================
+CHUNK 4
+============================================================
+HISTORY AND PHYSICAL EXAMINATION
+A medical history can establish which parasites the individual may have been exposed to. This is mainly determined by the geographic regions they have visited. This should be noted in detail, including travel within the country (urban or rural), activities undertaken, and the timings of these events. A history of  relevant exposures should also  be  sought,  including  swimming  in  fresh  water,  particularly  in Africa (schistosomiasis), barefoot exposure to soil or sand (strongyloidiasis, hookworm), food consumed (parasites of uncooked seafood or meat) and occupation (hydatid disease in sheep farmers). It should be kept in mind, however, that risk factors for exposure to infectious agents  are frequently  underreported. Eosinophilia can be asymptomatic, but symptoms such as fever, cough, diarrhea, dysuria and rash should be specifically queried. The possibility of a noninfectious cause should be explored by taking a careful drug history, and asking about pre-existing medical conditions such as allergic rhinitis or asthma.
+Physical examination is not helpful in reaching a diagnosis in many cases [6], but attention should be paid to the presence of rashes suggestive  of  skin  conditions  that  can  result  in  eosinophilia;  other disease-specific findings are mentioned below.
+
+============================================================
+CHUNK 5
+============================================================
+LABORATORY INVESTIGATIONS
+Laboratory investigations, guided by the geographic area of travel, are the  key  to  the  effective  diagnosis  of  eosinophilia.  The  timing  at which tests are taken in the course of helminth infection is particularly important in interpreting the results. Eosinophilia is often greatest during the tissue migration phase of the parasite, for example in Katayama syndrome,  before eggs can be  detected in  the stool.  The period before eggs can be detected is termed the pre-patent period , and it is important to be aware that during this phase, samples for microscopy for ova or parasites may be negative. Eosinophilia can be transient, or absent from helminth infections without a tissue migration stage  of  infection,  for  example  the  beef  tapeworm Taenia  saginata . Therefore,  the  absence  of  eosinophilia  does  not  exclude  helminth infection.
+
+============================================================
+CHUNK 6
+============================================================
+Direct Microscopy
+Concentrated stool microscopy identifies most soil-transmitted helminths  (e.g. Ascaris  lumbricoides,  Trichuris  trichiura, hookworm spp.) and is useful in patients from all geographic areas. However, it has a low sensitivity in detecting strongyloides. Microscopy of urine for Schistosoma haematobium and of filtered blood for filarial infections is useful in patients from relevant geographic areas.
+
+============================================================
+CHUNK 7
+============================================================
+Serology
+Most serologic tests do not become positive until 4-12 weeks after infection,  so can  be  negative when eosinophilia is  first  detected.  It may be worth repeating serologic investigations at 3 months if they were initially negative and eosinophilia persists. Many serologic tests
+Asthma Eczema Allergic rhinitis Seasonal rhinitis, Cause.Dermatologic = Immunobullous disorders: dermatitis herpetiformis and pemphigoid Atopic dermatitis Eosinophilic cellulitis (Well's syndrome). Asthma Eczema Allergic rhinitis Seasonal rhinitis, Cause.Drug = NSAIDs Beta-lactam antibiotics Sulfa- containing antibiotics Tetracycline Acetylsalicylic acid Carbamazepine Colchicine Nitrofurantoin Dapsone Minocycline. Asthma Eczema Allergic rhinitis Seasonal rhinitis, Cause.Gastrointestinal = InEammatory bowel disease Eosinophilic gastroenteritis Chronic pancreatitis Eosinophilic cholangitis. Asthma Eczema Allergic rhinitis Seasonal rhinitis, Cause.Hematologic = Hodgkin lymphoma Non-Hodgkin lymphoma Chronic eosinophilic leukemia Systemic mastocytosis Chronic myelomonocytic leukemia Chronic myeloid leukemia Acute myeloid leukemia Myelodysplastic syndrome. Asthma Eczema Allergic rhinitis Seasonal rhinitis, Cause.Vasculitis = Churg-Strauss syndrome Polyarteritis nodosa Wegener's granulomatosis Other connective tissue diseases and vasculitides Rheumatoid arthritis. Asthma Eczema Allergic rhinitis Seasonal rhinitis, Cause.Other = Allergic bronchopulmonary aspergillosis Sarcoidosis Addison's disease Eosinophilic myocarditis Familial eosinophilic syndromes Heavy metal poisoning Idiopathic eosinophilic pneumonias ImmunodeFciency syndromes Cholesterol embolization
+NSAIDs, nonsteroidal anti-inEammatory drugs.
+for  helminths cross-react, so taking expert  advice  is recommended. Table 148-2 outlines common helminths, their microscopic appearance, diagnostic tests and treatments.
+
+============================================================
+CHUNK 8
+============================================================
+MANAGEMENT
+The management of certain important conditions is outlined below, and  is  covered  in  greater  detail  in  disease-specific  chapters  and  in Table 148-2. Empiric albendazole (400 mg twice daily for 3 days) is recommended by some experts for those recently returned from the tropics, to cover the possibility of pre-patent geohelminth infection (e.g. Ascaris and hookworm) as the cause of a transient eosinophilia with negative stool microscopy.
+
+============================================================
+CHUNK 9
+============================================================
+FOLLOW-UP ISSUES
+Eosinophilia should resolve following the treatment of the underlying cause, and it is important to establish that this has happened. Occasionally,  a  finding  such as positive  schistosoma serology in a longterm resident of an endemic area can be mistaken to be the cause of eosinophilia,  when  in  fact  there  is  another  cause.  Serology  often remains positive for many years, and is not a good measure of effective treatment.
+
+============================================================
+CHUNK 10
+============================================================
+ASYMPTOMATIC EOSINOPHILIA
+We suggest investigating this common presentation [3] of helminth infection from the basis of the travel history, and therefore the geographic  distribution  of  helminth  infections.  The  soil-transmitted helminths Ascaris lumbricoides, Trichuris trichiura and hookworm have a  worldwide  distribution.  Others,  especially  those  with  a  life  cycle involving  an  intermediate  host  or  vector,  or  those  associated  with certain  foods,  have  defined  geographic  limits.  The  most  common pathogens causing eosinophilia in all returned travelers and migrants are  intestinal  helminths,  especially  strongyloidiasis,  and  in  those returning from Africa, schistosomiasis and filariasis in addition.
+All  patients  presenting  with  eosinophilia  should  be  investigated with concentrated stool microscopy and strongyloides serology [2]. Strongyloides stool culture and an HIV test should also be considered. Other  initial  screening  investigations  are  region-specific.  Terminal urine microscopy (for ova) and serology for schistosomiasis should be performed in those returning from Africa. The filarial infections Loa loa , Onchocerca volvulus and Wuchereria bancrofti are more common in  patients from West Africa, so  filarial serology and filtered blood microscopy for microfilaria should be requested (see 'dermatologic presentations').
+If initially negative, stool microscopy should be performed on a total of three occasions, and serology should be repeated at 3 months if it was first taken less than 12 weeks after the time of probable exposure. If initial investigations are negative, attention should also be paid to the possibility of noninfectious causes. An empiric course of albendazole can be considered.
+Table 148-3 lists common helminth infections by geographic area and summarizes clinical presentations.
+
+============================================================
+CHUNK 11
+============================================================
+Katayama Syndrome
+This occurs during acute schistosomiasis infection 2-9 weeks following exposure [7]. It presents with fever and high-grade eosinophilia ( > 5 × 1 0 9 /L),  dry  cough,  urticarial  rash  and  sometimes  pulmonary infiltrates on chest radiograph. Serology and stool and terminal urine microscopy are often negative. Empiric treatment can be given when this presentation is accompanied by a history of freshwater exposure in Africa: praziquantel 40 mg/kg single dose and oral prednisolone 20 mg/day  for  5  days.  Praziquantel  is  relatively  ineffective  against immature stages of schistosomiasis, so treatment should be repeated at 6-8 weeks.
+
+============================================================
+CHUNK 12
+============================================================
+Loe<er's Syndrome
+The relatively rare Loeffler's syndrome is caused by larvae of helminths such as Ascaris ,  hookworm and Strongyloides migrating  through the lungs during acute infection. It presents similarly to Katayama syndrome, with fever, urticaria, wheeze and dry cough. Diagnosis is clinical  as  symptoms  occur  before  eggs  can  be  detected  in  the  stool. Migratory  pulmonary  infiltrates  may  be  seen  on  chest  radiograph. Albendazole 400 mg/day for 3 days is recommended.
+
+============================================================
+CHUNK 13
+============================================================
+Strongyloidiasis
+This  is  widely  distributed  throughout  the  tropics.  It  is  transmitted when  larvae  penetrate  the  skin  of  humans  walking  barefoot.  It often presents with larva currens, an itchy, linear, urticarial rash which
+
+============================================================
+CHUNK 14
+============================================================
+Strongyloidiasis
+Imported Helminth Infections, 1 = Treatment. Imported Helminth Infections, 2 = Albendazole 400 mg single dose. Imported Helminth Infections, 3 = Albendazole 400 mg single dose (mebendazole 500 mg single dose). Imported Helminth Infections, 4 = Seek specialist advice. Combination of praziquantel 20 mg/ kg twice daily for 14 days pre- and post-procedure, prolonged course of albendazole 400 mg twice daily, PAIR, surgery. Imported Helminth Infections, 5 = Seek specialist advice. First exclude coexisting onchocerciasis. DEC 50 mg day 1 increasing by day 4 to 200 mg three times daily which is then given for 3 weeks; pretreat with prednisolone if microFlariae seen on blood Flm. Imported Helminth Infections, 6 = Ivermectin 200 μ g/kg monthly doses for 3 months, repeat every 3-6 months usually for several years; seek ophthalmologic advice; observe Frst dose. Imported Helminth Infections, 7 = Praziquantel 40 mg single dose. Imported Helminth Infections, 8 = Ivermectin 200 μ g/kg (single dose albendazole 400 mg twice daily for 3 days) Seek specialist advice. First exclude coexisting onchocerciasis. DEC 50 mg day 1 increasing by day 4 to 200 mg three times daily, which is then given for 3 weeks. and Treatment of the More Common, 1 = Diagnosis. and Treatment of the More Common, 2 = Concentrated stool microscopy Concentrated stool microscopy. and Treatment of the More Common, 3 = Serology. and Treatment of the More Common, 4 = Microscopy of blood taken within 2 h of midday, serology. and Treatment of the More Common, 5 = Skin snips (specialist centers), Flarial serology. and Treatment of the More Common, 6 = S. Microscopy of nitrocellulose- Fltered terminal urine ( S. haematobium ), concentrated stool microscopy ( S. mansoni and other species), serology (all species). and Treatment of the More Common, 7 = Concentrated stool microscopy, serology, stool culture (charcoal or agar plate method). and Treatment of the More Common, 8 = Microscopy of blood taken within 2 h of midnight, serology. Distribution,
+
+============================================================
+CHUNK 15
+============================================================
+Strongyloidiasis
+Diagnosis, 1 = Geographic distribution. Distribution, Diagnosis, 2 = Worldwide Worldwide. Distribution, Diagnosis, 3 = Worldwide. Distribution, Diagnosis, 4 = Africa (Central and West predominantly). Distribution, Diagnosis, 5 = Africa (Central and West predominantly). Distribution, Diagnosis, 6 = Africa ( S. haematobium / mansoni ) Southeast Asia (other species). Distribution, Diagnosis, 7 = Worldwide. Distribution, Diagnosis, 8 = Worldwide, tropical ( W. bancrofti ), South/Southeast Asia ( B. malayi ). 148-2 Microscopic Appearance,, 1 = Picture. 148-2 Microscopic Appearance,, 2 = . 148-2 Microscopic Appearance,, 3 = . 148-2 Microscopic Appearance,, 4 = . 148-2 Microscopic Appearance,, 5 = . 148-2 Microscopic Appearance,, 6 = . 148-2 Microscopic Appearance,, 7 = . 148-2 Microscopic Appearance,, 8 = . TABLE, 1 = Name. TABLE, 2 = Ankylostoma duodenale / Necator americanus (hookworm) Ascaris lumbricoides (ascariasis, roundworm). TABLE, 3 = Echinococcus granulosus (hydatid). TABLE, 4 = Loa loa (eye worm). TABLE, 5 = Onchocerca volvulus (river blindness, onchocerciasis). TABLE, 6 = Schistosoma haematobium (schistosomiasis) S. mansoni (schistosomiasis). TABLE, 7 = Strongyloides stercoralis (strongyloidiasis)*. TABLE, 8 = Wucheria bancrofti / Brugia malayi (lymphatic Flariasis)
+DEC, diethylcarbamazine; PAIR, puncture, aspiration of cyst contents, injection of a substance toxic to the immature 'scolices' and re-aspiration. Figures are reproduced courtesy of the Centers for Disease Control and Prevention (CDC), apart from Ascaris lumbricoides which is courtesy of Kansas State University, Echinococcus granulosus which is courtesy of CDC and Dr LLA Moore Jr, Onchocerca volvulus which is kindly provided by Eric A T Bienen, Department of Parasitology, Leiden University Medical Centre, and Wuchereria bancrofti which is courtesy of CDC and Dr Mae Melvin.
+
+============================================================
+CHUNK 16
+============================================================
+Strongyloidiasis
+Other, 1 = Fever (Loe8er's syndrome). Other, 2 = Anaphylaxis Fever (Loe8er's syndrome) Fever (tropical pulmonary eosinophilia). Other, 3 = . Other, 4 = . Other, 5 = . Other, 6 = . Other, 7 = Fever. Other, 8 = . Other, 9 = Anaphylaxis Disseminated infection to any. Other, 10 = organ late in infection Vaginal discharge. Other, 11 = Fever. Other, 12 = . Other, 13 = . Other, 14 = Conjunctival worm migration. Other, 15 = itch/ rash Fever (Loe8er's syndrome). Other, 16 = Keratitis, anterior uveitis, choroidoretinitis. Cutaneous/ muscular, 1 = Transient itch/ maculopapular rash. Cutaneous/ muscular, 2 = Serpiginous rash. Cutaneous/ muscular, 3 = . Cutaneous/ muscular, 4 = . Cutaneous/ muscular, 5 = Urticarial rash (Loe8er's syndrome). Cutaneous/ muscular, 6 = Lymphadenitis, lymphedema. Cutaneous/ muscular, 7 = Urticarial skin rash. Cutaneous/ muscular, 8 = meningitis Rash. Cutaneous/ muscular, 9 = . Cutaneous/ muscular, 10 = Pruritus ani. Cutaneous/ muscular, 11 = . Cutaneous/ muscular, 12 = focal subarachnoid Intermittent subcutaneous swelling, pruritus, edema. Cutaneous/ muscular, 13 = . Cutaneous/ muscular, 14 = Calabar swelling. Cutaneous/ muscular, 15 = Transient maculopapular. Cutaneous/ muscular, 16 = Nodules, pruritic dermatitis, limb swelling. Neurological, 1 = . Neurological, 2 = Severe headache, meningism, focal neurological signs. Neurological, 3 = . Neurological, 4 = . Neurological, 5 = Biliary obstruction. Neurological, 6 = . Neurological, 7 = Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),. Neurological, 8 = cholangiocarcinoma (chronic) Chronic. Neurological, 9 = Asymptomatic/right upper quadrant pain Asymptomatic/right upper quadrant pain. Neurological, 10 = . Neurological,
+
+============================================================
+CHUNK 17
+============================================================
+Strongyloidiasis
+11 = Upper abdominal pain (acute), biliary obstruction and hepatic abscesses (chronic). Neurological, 12 = Severe meningoencephalitis and myelitis, neurology, and intracerebral hemorrhage. Neurological, 13 = . Neurological, 14 = . Neurological, 15 = . Neurological, 16 = . Gastrointestinal Hepatic by Geographic Area and Clinical Presentation, 1 = Nausea, vomiting, diarrhea, abdominal pain. Gastrointestinal Hepatic by Geographic Area and Clinical Presentation, 2 = . Gastrointestinal Hepatic by Geographic Area and Clinical Presentation, 3 = Severe abdominal pain, diarrhea, constipation. Gastrointestinal Hepatic by Geographic Area and Clinical Presentation, 4 = Severe abdominal pain, nausea and vomiting. Gastrointestinal Hepatic by Geographic Area and Clinical Presentation, 5 = Abdominal pain, diarrhea. Gastrointestinal Hepatic by Geographic Area and Clinical Presentation, 6 = . Gastrointestinal Hepatic by Geographic Area and Clinical Presentation, 7 = . Gastrointestinal Hepatic by Geographic Area and Clinical Presentation, 8 = . Gastrointestinal Hepatic by Geographic Area and Clinical Presentation, 9 = . Gastrointestinal Hepatic by Geographic Area and Clinical Presentation, 10 = Diarrhea, abdominal pain, weight loss. Gastrointestinal Hepatic by Geographic Area and Clinical Presentation, 11 = . Gastrointestinal Hepatic by Geographic Area and Clinical Presentation, 12 = Abdominal pain. Gastrointestinal Hepatic by Geographic Area and Clinical Presentation, 13 = Diarrhea, abdominal pain. Gastrointestinal Hepatic by Geographic Area and Clinical Presentation, 14 = . Gastrointestinal Hepatic by Geographic Area and Clinical Presentation, 15 = cough syndrome) Nausea, vomiting, diarrhea, abdominal pain. Gastrointestinal Hepatic by Geographic Area and Clinical Presentation, 16 = . Distribution Respiratory Infections Summarized, 1 = Worldwide Wheeze, dry cough (Loe8er's syndrome). Distribution Respiratory Infections Summarized, 2 = Worldwide, tropical only SE Asia, Oceania, Caribbean. Distribution Respiratory Infections Summarized, 3 = South America, Caribbean. Distribution Respiratory Infections Summarized, 4 = SE Asia, S America, Europe. Distribution Respiratory Infections Summarized, 5 = Worldwide Wheeze, dry cough (Loe8er's syndrome). Distribution Respiratory
+
+============================================================
+CHUNK 18
+============================================================
+Strongyloidiasis
+Infections Summarized, 6 = SE Asia, S Asia, Oceania Dry cough, wheeze, breathlessness (tropical pulmonary. Distribution Respiratory Infections Summarized, 7 = eosinophilia) SE Asia. Distribution Respiratory Infections Summarized, 8 = South, Central and North America Fever, cough, pleuritic chest pain. Distribution Respiratory Infections Summarized, 9 = Worldwide Cough, pleuritic pain, breathlessness Middle East, SE Asia,. Distribution Respiratory Infections Summarized, 10 = Central Asia, Europe Worldwide. Distribution Respiratory Infections Summarized, 11 = Worldwide. Distribution Respiratory Infections Summarized, 12 = SE Asia, Central and South America, Caribbean. Distribution Respiratory Infections Summarized, 13 = Worldwide, tropical only. Distribution Respiratory Infections Summarized, 14 = Africa (Central and West predominantly). Distribution Respiratory Infections Summarized, 15 = Worldwide Wheeze, dry (Loe8er's. Distribution Respiratory Infections Summarized, 16 = Africa (Central and West predominantly), Middle East, Central Asia, Central and South America. Common name/ Common Helminth, 1 = syndrome Hookworm. Common name/ Common Helminth, 2 = spp. Cutaneous larva migrans Eosinophilic meningitis, rat lung worm. Common name/ Common Helminth, 3 = . Common name/ Common Helminth, 4 = Fish tapeworm. Common name/ Common Helminth, 5 = Roundworm. Common name/ Common Helminth, 6 = Lymphatic GLYPH<c=2,font=/CIDFont+F14>lariasis. Common name/ Common Helminth, 7 = Clonorchiasis. Common name/ Common Helminth, 8 = Coccidioidomycosis. Common name/ Common Helminth, 9 = Cystic hydatid Alveolar hydatid. Common name/ Common Helminth, 10 = Pinworm/threadworm. Common name/ Common Helminth, 11 = Fascioliasis. Common name/ Common Helminth, 12 = Gnathostomiasis. Common name/ Common Helminth, 13 = Dwarf tapeworm. Common name/ Common Helminth, 14 = Eye worm, Calabar swelling. Common name/ Common Helminth, 15 = Hookworm. Common name/ Common Helminth, 16 = Onchocerciasis/river blindness. Helminth TABLE 148-3, 1 =
+
+============================================================
+CHUNK 19
+============================================================
+Strongyloidiasis
+Ancylostoma. Helminth TABLE 148-3, 2 = duodenale Ancylostoma Angiostrongylus cantonensis. Helminth TABLE 148-3, 3 = Angiostrongylus costaricensis. Helminth TABLE 148-3, 4 = Anisakis spp.. Helminth TABLE 148-3, 5 = Ascaris lumbricoides. Helminth TABLE 148-3, 6 = Brugia malayi. Helminth TABLE 148-3, 7 = Clonorchis sinensis. Helminth TABLE 148-3, 8 = Coccidioides immitis. Helminth TABLE 148-3, 9 = Echinococcus granulosus Echinococcus. Helminth TABLE 148-3, 10 = multilocularis Enterobius vermicularis. Helminth TABLE 148-3, 11 = Fasciola hepatica. Helminth TABLE 148-3, 12 = Gnathostoma spinigerum. Helminth TABLE 148-3, 13 = Hymenolepis nana. Helminth TABLE 148-3, 14 = Loa loa. Helminth TABLE 148-3, 15 = Necator americanus. Helminth TABLE 148-3, 16 = Onchocerca volvulus
+
+============================================================
+CHUNK 20
+============================================================
+Strongyloidiasis
+Fever, 1 = . Fever, 2 = . Fever, 3 = . Fever, 4 = Fever (Katayama fever), hematuria, proteinuria, dysuria, hematospermia. Fever, 5 = Fever (Katayama fever). Fever, 6 = Fever (Katayama fever). Fever, 7 = maculopapular. Fever, 8 = Fever (Loe8er's syndrome). Fever, 9 = . Fever, 10 = . Fever, 11 = . Fever, 12 = Myocarditis, cardiac conduction. Fever, 13 = disturbances. Fever, 14 = Fever (tropical pulmonary. Fever, 15 = eosinophilia). Fever, 16 = . Fever, 17 = . Urticarial skin rash, 1 = Ulcerative oral/nasal/. Urticarial skin rash, 2 = cutaneous lesions Subcutaneous migratory nodules. Urticarial skin rash, 3 = . Urticarial skin rash, 4 = Urticarial rash (Katayama fever). Urticarial skin rash, 5 = Urticarial rash (Katayama fever). Urticarial skin rash, 6 = Urticarial rash (Katayama fever). Urticarial skin rash, 7 = Itchy rash. Urticarial skin rash, 8 = Itchy urticarial rash (larva currens). Urticarial skin rash, 9 = . Urticarial skin rash, 10 = . Urticarial skin rash, 11 = . Urticarial skin rash, 12 = Periorbital edema, urticaria, myalgia,. Urticarial skin rash, 13 = muscle weakness. Urticarial skin rash, 14 = Myalgia, muscle weakness, edema, urticarial rash. Urticarial skin rash, 15 = Lymphadenitis, lymphedema. Urticarial skin rash, 16 = . Urticarial skin rash, 17 = . , 1 = . , 2 = Chronic meningitis Meningoencephalitis, transverse myelitis, myelopathy. , 3 = . , 4 = Paraplegia, spinal cord syndromes. , 5 = Focal neurological signs/ seizures. , 6 = Paraplegia, spinal cord syndromes. , 7 = . , 8 = . , 9 = . , 10 = Usually space-occupying lesions without eosinophilia. Rarely eosinophilic
+
+============================================================
+CHUNK 21
+============================================================
+Strongyloidiasis
+meningoencephalitis. , 11 = Meningoencephalitis. , 12 = Meningoencephalitis. , 13 = . , 14 = . , 15 = . , 16 = . , 17 = . Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 1 = (chronic). Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 2 = Abdominal pain, diarrhea. Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 3 = Severe abdominal pain, nausea and vomiting. Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 4 = . Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 5 = Hepatosplenomegaly, portal hypertension. Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 6 = Hepatosplenomegaly, portal hypertension. Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 7 = . Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 8 = . Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 9 = . Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 10 = . Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 11 = Hepatosplenomegaly. Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 12 = . Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 13 = . Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 14 = . Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 15 = . Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 16 = . Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 17 = .
+
+============================================================
+CHUNK 22
+============================================================
+Strongyloidiasis
+Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 1 = . Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 2 = . Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 3 = . Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 4 = . Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 5 = Abdominal pain, diarrhea. Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 6 = Abdominal pain, diarrhea. Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 7 = . Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 8 = Diarrhea, abdominal pain, bloating, hyperinfestation syndrome. Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 9 = Abdominal pain, diarrhea, segments expelled per rectum. Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 10 = Abdominal pain, diarrhea, segments expelled per rectum. Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 11 = Abdominal pain. Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 12 = Upper abdominal pain, fever, vomiting, diarrhea. Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 13 = Dysphagia Diarrhea. Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 14 = Dysentery. Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 15 = . Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 16 = . Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 17 = . Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 1 =
+
+============================================================
+CHUNK 23
+============================================================
+Strongyloidiasis
+Cough, night sweats,. Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 2 = weight loss, malaise Pleuritic chest pain, pleural e:usion, cough, hemoptysis. Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 3 = . Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 4 = Dry cough (Katayama fever). Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 5 = Dry cough (Katayama fever). Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 6 = Dry cough (Katayama fever). Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 7 = . Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 8 = Wheeze, dry cough (Loe8er's syndrome), hyperinfestation syndrome. Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 9 = . Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 10 = . Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 11 = Wheeze, cough. Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 12 = . Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 13 = . Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 14 = only Dry cough, wheeze, breathlessness (tropical. Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 15 = pulmonary eosinophilia). Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 16 = . Hepatomegaly, biliary obstruction, (acute) Abdominal pain (acute),, 17 = . SE Asia, Europe (Siberia), 1 = South, Central and North America. SE Asia, Europe (Siberia),
+
+============================================================
+CHUNK 24
+============================================================
+Strongyloidiasis
+2 = Africa (Central and West predominantly), SE Asia, Central and South America. SE Asia, Europe (Siberia), 3 = SE Asia, South America and Europe. SE Asia, Europe (Siberia), 4 = Africa (all), Middle East and Central Asia. SE Asia, Europe (Siberia), 5 = SE Asia. SE Asia, Europe (Siberia), 6 = Africa (all), South America, Caribbean, Middle East and Central Asia. SE Asia, Europe (Siberia), 7 = Worldwide. SE Asia, Europe (Siberia), 8 = Worldwide. SE Asia, Europe (Siberia), 9 = Worldwide. SE Asia, Europe (Siberia), 10 = Worldwide, tropical only. SE Asia, Europe (Siberia), 11 = Worldwide. SE Asia, Europe (Siberia), 12 = Worldwide. SE Asia, Europe (Siberia), 13 = Worldwide. SE Asia, Europe (Siberia), 14 = Worldwide, tropical. SE Asia, Europe (Siberia), 15 = . SE Asia, Europe (Siberia), 16 = condition. SE Asia, Europe (Siberia), 17 = . Opisthorchiasis, 1 = Paracoccidioidomycosis. Opisthorchiasis, 2 = Paragonimiasis. Opisthorchiasis, 3 = Fish tapeworm. Opisthorchiasis, 4 = Bilharzia/Katayama fever. Opisthorchiasis, 5 = Bilharzia/Katayama fever. Opisthorchiasis, 6 = Bilharzia/Katayama fever. Opisthorchiasis, 7 = Cercarial dermatitis. Opisthorchiasis, 8 = Strongyloidiasis. Opisthorchiasis, 9 = Beef tapeworm. Opisthorchiasis, 10 = Pork tapeworm, cysticercosis. Opisthorchiasis, 11 = Visceral larva migrans. Opisthorchiasis, 12 = Trichinellosis/ trichinosis. Opisthorchiasis, 13 = Whipworm. Opisthorchiasis, 14 = Lymphatic GLYPH<c=2,font=/CIDFont+F16>lariasis/ tropical pulmonary eosinophilia. Opisthorchiasis, 15 = More commonly imported. Opisthorchiasis, 16 = Usual presentation. Opisthorchiasis, 17 = Uncommonpresentation.
+
+============================================================
+CHUNK 25
+============================================================
+Strongyloidiasis
+Opisthorchis spp., 1 = Paracoccidioides. Opisthorchis spp., 2 = brasiliensis Paragonimus spp.. Opisthorchis spp., 3 = Pseudoterranova decipiens. Opisthorchis spp., 4 = Schistosoma haematobium. Opisthorchis spp., 5 = Schistosoma japonicum. Opisthorchis spp., 6 = Schistosoma mansoni. Opisthorchis spp., 7 = Schistosoma spp. Opisthorchis spp., 8 = Strongyloides stercoralis. Opisthorchis spp., 9 = Taenia saginata. Opisthorchis spp., 10 = Taenia solium. Opisthorchis spp., 11 = Toxocara canis/ cati. Opisthorchis spp., 12 = Trichinella spiralis. Opisthorchis spp., 13 = Trichuris trichiura. Opisthorchis spp., 14 = Wuchereria bancrofti. Opisthorchis spp., 15 = . Opisthorchis spp., 16 = . Opisthorchis spp., 17 = 
+FIGURE 148.1 Linear, urticarial rash of larva currens . (Reproduced courtesy of the Centers for Disease Control and Prevention.)
+typically moves several millimeters per second (Fig. 148.1). Nonspecific  gastrointestinal  symptoms  include  diarrhea  and  abdominal bloating.  In  immunocompromised  individuals,  strongyloides  can present decades after exposure as hyperinfection syndrome [6] with paralytic ileus and Gram-negative sepsis. This condition is due to uncontrolled replication of the parasite and is life-threatening.
+
+============================================================
+CHUNK 26
+============================================================
+Strongyloidiasis
+Diagnosis  of  strongyloides  infection  can  be  difficult:  serology  is usually the most sensitive test and stool microscopy is often negative. The  reverse  applies  in  the  hyperinfection  syndrome,  where  stool samples contain abundant larvae but serology may be negative and eosinophilia absent. Stool culture (performed in specialist laboratories) is recommended. Treatment is with a single dose of ivermectin 200 μ g/kg,  or  (less  effective)  albendazole  400 mg  twice  daily  for  3 days [8]. Hyperinfection should be treated with a prolonged course. Migrants  from  all  tropical  regions  should  be  screened  for  strongyloides before starting treatment with immunosuppressive drugs.
+
+============================================================
+CHUNK 27
+============================================================
+Soil-Transmitted Helminths (Geohelminths)
+These have a worldwide distribution but are most prevalent in the tropics. Ascaris and Trichuris are transmitted via the fecal-oral route, and hookworm is acquired when larvae penetrate the skin of humans walking  barefoot  on  affected  soil.  They  are  often  asymptomatic. Hookworm may present  with  a  transient  itch  and  maculopapular rash, followed weeks later by nausea, vomiting, diarrhea and abdominal pain. Ascaris may present as  Loeffler's syndrome, or weeks later with abdominal pain, diarrhea, and occasionally gastrointestinal or biliary obstruction. Visible worms may be passed in stools. Trichuris infection  is  usually  asymptomatic,  but  heavy  infections  can  cause morbidity  in  children,  including anemia,  dysentery  and rectal prolapse. All are diagnosed by concentrated stool microscopy. Ascaris and hookworm are  treated  with  a  single  dose  of  albendazole  400 mg; trichuriasis requires albendazole 400-800 mg twice daily 3 days.
+
+============================================================
+CHUNK 28
+============================================================
+Schistosomiasis/Bilharzia: Schistosoma mansoni, S. japonicum and S. haematobium
+Schistosomiasis is widely distributed, particularly in Africa ( S. haematobium and S.  mansoni )  and  Southeast  Asia  ( S.  japonicum )  [9].  It  is acquired following freshwater exposure, usually swimming. Infection is  often  asymptomatic. S.  haematobium affects  the  genitourinary system  and  can  present  with  hematuria,  proteinuria,  dysuria  and hematospermia. S. mansoni and S. japonicum affect the gastrointestinal tract and can present with abdominal pain or diarrhea; portal hypertension and hepatosplenomegaly occur in chronic infection. Schistosomiasis is diagnosed by serology and microscopy of either nitrocellulose-filtered  terminal  urine  ( S.  haematobium )  or  concentrated stool samples ( S. mansoni and S. japonicum). Treatment is with praziquantel 40mg/kg. S.  haematobium infection has been linked to
+squamous cell carcinoma of the bladder, and heavy infections require further investigation.
+
+============================================================
+CHUNK 29
+============================================================
+Hydatid
+Hydatid  disease  is  most  often  seen  in  individuals  returning  from sheep-rearing areas, especially the Middle East, although it also occurs in  North  and  East  Africa,  Asia,  Europe  and  the  Americas.  Affected individuals are usually asymptomatic; eosinophilia, right upper quadrant pain, and fever can indicate cyst leakage or infection. Diagnosis is by serology with characteristic appearances on ultrasound or computed tomography (CT). Treatment depends on factors such as cyst size,  location  and  stage  [10,1 1].  Options  include 'PAIR'  (puncture, aspiration of cyst contents, injection of a substance toxic to the immature 'scolices' and re-aspiration), prolonged albendazole, surgery, or a combination of methods. Surgical and percutaneous intervention carry  a  risk  of  anaphylaxis  and  cyst  dissemination,  and  should  be performed in specialist centers.
+
+============================================================
+CHUNK 30
+============================================================
+Liver Flukes
+Liver flukes including Fasciola hepatica, Clonorchis sinensis and Opisthorchis spp. typically present with hepatomegaly and symptoms of bile duct  obstruction  such  as  right  upper  quadrant  pain  and  jaundice. They are diagnosed by stool microscopy (low sensitivity in fasciola infection)  and  serology,  and  treated  with  triclabendazole  ( Fasciola ) and praziquantel ( Opisthorchis and Clonorchis ).
+
+============================================================
+CHUNK 31
+============================================================
+NEUROLOGICAL SYMPTOMS
+Rarely, parasites invade the central nervous system (CNS) and cause an eosinophilic meningitis, encephalitis or myelitis. The commonest cause of eosinophilic meningitis is Angiostrongylus cantonensis , the rat lung worm. This occurs in the Caribbean, Hawaii and Southeast Asia, and  is  acquired  following  the  ingestion  of  larvae  in  undercooked snails, prawns, crabs or frogs. It presents with severe acute headache, meningism, visual disturbance, paresthesias and cranial nerve palsies. Gnathostomiasis is less common, occurring in Southeast Asia. It is acquired  by  consuming  inadequately  cooked  fish,  frog,  snake  or chicken, and presents with a severe meningoencephalitis and myelitis , which can be fatal. Diagnosis of both infections is by serology; treatment is with albendazole and corticosteroids.
+Schistosomiasis can rarely present with CNS involvement. Seizures or focal  neurologic  signs  can  occur,  most  commonly  in S.  japonicum infection. Involvement of the spinal cord, usually with paraplegia, is more widely reported with S. mansoni and S. haematobium . Treatment consists  of  an  extended  course  of  praziquantel  and  high-dose steroids.
+
+============================================================
+CHUNK 32
+============================================================
+Filariasis: Onchocerciasis, Lymphatic Filariasis and Loa loa
+The major filariases are onchocerciasis, lymphatic filariasis ( Wucheria bancrofti and Brugia malayi ) and Loa loa .
+Onchocerciasis  or  river  blindness  occurs  around  fast-flowing  rivers mainly in  Africa.  It  presents  with  an  itchy  rash  which  over  a  long period can develop into a 'leopard skin' pattern of hypopigmented patches and nodules. Migration of microfilariae within the eye results in keratitis, anterior uveitis and choroidoretinitis, with eventual blindness.  Lymphatic  filariasis  has  a  worldwide  tropical  distribution, although  it  is  most  common  in  Africa.  Presentation  is  with  fever, lymphangitis, and lymphedema that can include the scrotum. Loiasis occurs  mainly  in  Central  and  West  Africa.  It  causes  migratory  soft tissue 'Calabar' swellings. Sometimes the adult worm is seen migrating across the conjunctiva [4].
+Serology is most sensitive for diagnosing lymphatic filariasis, but can be  positive  in  any  of  the  filariases.  Microfilariae  of W.  bancrofti,  B. malayi and Loa  loa circulate  in  the  bloodstream  with  a  diurnal
+periodicity, and can be diagnosed by blood taken around midnight (lymphatic  filariasis)  or  midday  ( Loa  loa ).  In  routine  practice,  day bloods (taken around midday) for microscopy of filtered blood are often adequate. They are the investigation of choice for Loa loa and should  detect W.  bancrofti .  In  difficult  cases,  bloods  taken  around midnight have higher sensitivity for W. bancrofti . Loa loa can also be diagnosed clinically when conjunctival migration is seen. Onchocerciasis can be diagnosed by microscopy of skin snips (shallow snips of skin are taken, then incubated in saline prior to microscopy), or if microfilariae are seen on slit lamp examination of an affected eye.
+
+============================================================
+CHUNK 33
+============================================================
+Filariasis: Onchocerciasis, Lymphatic Filariasis and Loa loa
+Treatment is associated with significant risks and should be carried out in specialist centers. Lymphatic filariasis and Loa loa are treated with diethylcarbamazine (DEC), after onchocerciasis has been excluded, as DEC can cause severe reactions including blindness in individuals infected with onchocerciasis. Encephalopathy can occur following  treatment  of Loa  loa, and  prednisolone  pretreatment  is necessary  if  there  are  high  levels  of  microfilariae  in  the  blood. Onchocerciasis is  treated with ivermectin 200 μ g/kg  monthly for 3 months, repeated every 3-6 months usually for several years.
+
+============================================================
+CHUNK 34
+============================================================
+REFERENCES
+1. Libman MD, MacLean JD, Gyorkos TW. Screening for schistosomiasis, filariasis, and strongyloidiasis among expatriates returning from the tropics. Clin Infect Dis 1993;17:353-9.
+2. Large North American series of 1605 returning travelers and  migrants, reporting high prevalences of imported schistosomiasis and filariasis. The relative lack of cases of  strongyloides  is  probably  due  to  the  fact  that  the  study  was  performed  before strongyloides serology was widely available.
+2. Whetham J, Day JN, Armstrong M, et al. Investigation of tropical eosinophilia; assessing a strategy based on geographical area. J Infect 2003;46:180-5. Series of 261 patients undergoing investigation of eosinophilia in a London tropical medicine clinic, following return from the tropics.  21% of patients were asymptomatic; the suggested approach to investigating this group is used in this chapter.
+3. Schulte  C,  Krebs  B,  Jelinek  T,  et  al.  Diagnostic  significance  of  blood  eosinophilia in returning travelers. Clin Infect Dis 2002;34:407-1 1. Large series of 14,298 returning travelers investigated in a German infectious diseases department. Eosinophilia was defined as greater than 7%, a definition which may overestimate the prevalence of the problem. In common with other studies, they observed a greater prevalence of eosinophilia in returnees from Africa, in particular West Africa, compared to other geographic regions. The greater the degree of eosinophilia,  the  greater  its  predictive  value  for  an  underlying  helminth  infection.  A definite diagnosis was reached in 36% of individuals. Of note, as is the case in many case series published more than 5 years ago, strongyloides serology was not routinely performed.
+4. Nutman TB, Miller KD, Mulligan M, Ottesen EA. Loa loa infection in temporary residents of endemic regions: recognition of a hyperresponsive syndrome with characteristic clinical manifestations. J Infect Dis 1986;154:10-8.
+
+============================================================
+CHUNK 35
+============================================================
+REFERENCES
+5. Gill GV, Welch E, Bailey JW, et al. Chronic Strongyloides stercoralis infection in former British Far East prisoners of war. QJM 2004;97:789-95.
+6. Whitty CJ, Carroll B, Armstrong M, et al. Utility of history, examination and laboratory tests in screening those returning to Europe from the tropics for parasitic infection. Trop Med Int Health 2000;5:818-23.
+7. Visser LG, Polderman AM, Stuiver PC. Outbreak of schistosomiasis among travelers returning from Mali, West Africa. Clin Infect Dis 1995;20:280-5.
+8. Marti H, Haji HJ, Savioli L, et al. A comparative trial of a single-dose ivermectin versus three days of albendazole for treatment of Strongyloides  stercoralis and other soil-transmitted helminth infections in children. Am J Trop Med Hyg 1996;55:477-81.
+9. Gryseels B, Polman K, Clerinx J, Kestens L. Human schistosomiasis. Lancet 2006;368:1106-18.
+10.  Junghanss  T,  da  Silva  AM,  Horton  J,  et  al.  Clinical  management  of  cystic echinococcosis: state of the art, problems, and perspectives. Am J Trop Med Hyg 2008;79:301-11.
+11.  WHO Informal Working Group on Echinococcosis. Guidelines for treatment of  cystic  and alveolar echinococcosis in humans. Bull World Health Organ 1996;74:231-42.
+

@@ -1,0 +1,309 @@
+============================================================
+CHUNK 0
+============================================================
+101 Toxoplasmosis
+Luc Paris
+
+============================================================
+CHUNK 1
+============================================================
+Key features
+- Toxoplasma gondii is a common intracellular protozoan parasite with a worldwide distribution
+- Although T. gondii usually causes asymptomatic infections, 10-20% of patients with acute infection may develop cervical lymphadenopathy and/or a /u-like illness. The clinical course is usually benign and self-limited with symptoms usually resolving within a few weeks-to-months
+- Atypical strains of T. gondii are responsible for a severe infectious syndrome with pulmonary involvement seen in travelers living in, or returning from, South America, particularly the Amazon area
+- Ocular Toxoplasma infection, an important cause of retinochoroiditis in the USA, can be the result of congenital infection or infection after birth. In congenital infection, patients are often asymptomatic until the second or third decade of life, when lesions develop in the eye
+- Congenital toxoplasmosis results from an acute primary infection acquired by the mother during pregnancy. The incidence and severity of congenital toxoplasmosis vary with the trimester during which infection was acquired
+- Immunode0cient patients often have central nervous system (CNS) disease but may have retinochoroiditis, pneumonitis or other systemic disease. In patients with AIDS, toxoplasmic encephalitis is the most common cause of intracerebral mass lesions
+- The diagnosis of T. gondii is based on serologic methods in immunocompetent individuals and parasitologic methods in immunocompromised individuals
+- Treatment is not needed for a healthy person who is not pregnant. Treatment is usually recommended for pregnant women, persons who are immunocompromised, or persons with ocular disease or severe illness
+- The drug of choice for treatment of symptomatic toxoplasmosis is pyrimethamine plus a sulfa drug, usually sulfadiazine. Trimethoprim-sulfamethoxazole may be used in many settings and may be preferred because of its wide availability
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+Toxoplasmosis is caused by an intracellular protozoan parasite, Toxoplasma gondii ,  which can infect humans and virtually all warm-blooded animals worldwide. Toxoplasma gondii was discovered in 1908 simultaneously by Nicolle and Manceaux in Tunisia and Splendore, Brazil, and toxoplasmosis became recognized as a human disease in 19391940 [1]. The complete lifecycle of the parasite was described at the end  of  the  1960s  [2].  Our  understanding  of  this  parasitic  disease has evolved recently with the availability of new genomic data. Classically, Toxoplasma was considered to be benign in immunocompetent persons  but  potentially  severe  in  immunocompromised  patients and  for  the  fetus.  Today,  we  know  that  the  clinical  spectrum  and severity  of  disease  depends  on  both  the  host  and  the  pathogen's genetic  background,  the  immune  status  of  the  host  and  the  hostparasite interaction. Toxoplasmosis is a possible etiology for a severe infectious syndrome in travelers living in, or returning from, tropical countries.
+
+============================================================
+CHUNK 3
+============================================================
+THE PARASITE AND ITS LIFE CYCLE
+(Fig. 101.1)
+Human infection is acquired by ingesting food or water contaminated with oocysts shed in the feces of wild and domestic cats, or tissue cysts in uncooked meat. The oocyst is ovoid, measures 9 × 13 μ m and can remain viable for more than a year in moist soil. After sporulation (ranging from two days to three weeks, depending on the ambient temperature) takes place, the oocyst is infectious. Millions of initially non-infectious  (unsporulated)  oocysts  are  shed  in  the  cat's  feces. Although oocysts are usually only shed for 1-2 weeks, large numbers may be shed.
+Virtually all warm-blooded animals, especially birds and rodents, can be intermediate hosts in nature and become infected after ingesting soil,  water  or  plant  material  contaminated  with  oocysts.  Oocysts transform into tachyzoites shortly after ingestion and multiply rapidly during the acute infection. These rapidly dividing tachyzoites localize in  neural  and  muscle  tissue  and  are  responsible  for  acute  illness (Fig. 101.2). They destroy their host cells, enter adjacent cells, and give rise  to  focal  necrosis  with  a  vigorous  local  inflammatory  reaction. Tachyzoites  divide  every  5-12  hours  and  can  cause  significant  cell destruction  before effective immunity is acquired. After  3-6 weeks, the  infection  persists  with  only  slowly-dividing  bradyzoites  inside tissue cysts. Neither chemotherapy nor host immunity can affect the parasite once this transformation occurs. The long-lived bradyzoites persist in a viable state inside cysts during the remainder of the hosts' life  without  signs  of  host  reaction;  they  are  responsible  for  latency and reactivation.
+
+============================================================
+CHUNK 4
+============================================================
+THE PARASITE AND ITS LIFE CYCLE
+Cysts ranging in size from 5-50 μ m in diameter appear primarily in the brain, the retina and in skeletal and cardiac muscles (Fig. 101.3). Cysts are usually spherical in the brain but more elongated in cardiac and skeletal muscles. Cats become infected after consuming intermediate  hosts  harboring  tissue  cysts  and  may  also  become  infected directly by ingestion of sporulated oocysts. Animals bred for human consumption and wild game may also become infected with tissue cysts after ingestion of sporulated oocysts in the environment. A very specific phenomenon with T. gondii is the transmission of infection from one intermediate host to another by carnivorism, without need for passage through a definitive host.
+FIGURE  101.1 Life  cycle  of Toxoplasma  gondii. Dashed  arrow  indicate  transmission  by  tachyzoites;  dark  blue  arrows  indicate  transmission  by  cysts (bradyzoites); and light blue arrows indicate transmission by oocysts.
+FIGURE 101.2 Numerous intracellular Toxoplasma gondii in bone marrow. Coloration RAL 1555 × 1000. (From personal collection, Luc Paris, Laboratoire de Parasitologie-Mycologie, Groupe Hospitalier Pitié-Salpêtrère, Paris, France).
+
+============================================================
+CHUNK 5
+============================================================
+TRANSMISSION
+Humans become infected by ingesting tissue cysts when eating raw or  undercooked  meat  (lamb,  beef  or  pork)  of  animals  harboring tissue  cysts,  and  by  ingestion  of  oocysts  in  soil-contaminated  food (raw vegetables) or drinking water-believed to be the major source of  infection  in  tropical  areas.  Transmission  can  also  occur  when changing the litter box of a pet  cat, by blood  transfusion or organ transplantation, and transplacentally from mother to fetus, leading to congenital infections.
+A transplanted solid organ from a donor seropositive for toxoplasmosis can transmit T. gondii to a seronegative recipient. Heart transplant recipients  are  particularly  at  risk  for  this  mode  of  acquisition,  and additional cases have been described with other organs (kidney, lung, liver). Although T. gondii has been isolated from the peripheral blood of acutely symptomatic patients, transmission by transfusion is rare.
+Transplacental infection occurs in approximately 30% of women if they are first infected during pregnancy and thus have no pre-existing immunity. The risk of transmission to the uterus is lowest in the time just  after  conception  ( < 1%) and increases to  virtually  100%  if  the mother is  infected  just  before  delivery.  Additionally,  transplacental transmission during chronic infection has been observed in immunosuppressed women.
+Although uncommon, occupational exposure and transmission via needlestick  can  occur  when  working  with  live Toxoplasma -infected materials in the laboratory.
+
+============================================================
+CHUNK 6
+============================================================
+DISTRIBUTION AND PREVALENCE (Fig. 101.4)
+Toxoplasma is  distributed  worldwide,  but  the  incidence  in  humans varies widely [3]. Prevalence depends on local eating habits, environmental conditions, and the presence of definitive hosts. Prevalence also increases with age. The overall prevalence in Western Europe is 30-50%. Since the initial studies of  the  1950s  and  1960s,  a trend towards lower seroprevalence has been observed in many European countries. In France, the prevalence declined from more than 80% in the 1960s to 54.3% in 1995, and to 43.8% in 2003. This has been attributed to improved hygiene, new habits of food consumption (e.g. freezing  of  meat)  and  better  awareness  in  the  general  population regarding  the  risks  of  consuming  undercooked  meat.  The  same
+FIGURE 101.3 Cysts in the brain.
+phenomenon has been described in the USA, where the seroprevalence declined from 14.1% in the 1988-1994 National Health and Nutrition Examination Survey (NHANES) to 9% in the 1999-2004 NHANES.
+In developing and tropical countries, prevalence depends on environmental conditions  and  climate.  It  is  higher  in  urban  than  in  rural areas,  and  higher  in  wet  compared  with  dry  climates.  Foci  of  high prevalence  ( > 80%) exist in Latin  America,  parts  of  Eastern/Central Europe, the Middle East, parts of Southeast Asia and Africa. Regional seroprevalence variation relates to the dietary practices of individual subpopulations. A trend toward lower seroprevalence has also been observed in Africa: in Gabon, the prevalence in Franceville was 56% in 2007 compared with 71% 15 years earlier. Prevalence is generally higher in South America (e.g. 53% in Southern Brazil) or in Africa (e.g.  46% in  Tanzania and  40.8% in Lagos, Nigeria)  than in  India (20.3% in Bangalore) or in the Far East ( < 10% in Korea or China). Globally,  toxoplasmosis  seroprevalence  is  continuingly  evolving, subject to regional socioeconomic parameters and population habits.
+
+============================================================
+CHUNK 7
+============================================================
+GENETIC DIVERSITY OF TOXOPLAMA GONDII
+Early studies of parasite genotypes revealed a clonal population structure comprising three lineages,  named types I, II and III [4]. These archetypal lineages were isolated in Europe and North America from humans and domestic animals. Types I and III are common worldwide; type II predominates in Western Europe and the USA, but has not  been  described  in  South  America  to  date.  Further  studies  performed on strains isolated in other geographic areas [5] or from wild animals have revealed a greater genetic diversity. There is a relationship between this genetic diversity and the clinical expression of the infection, as shown in South America where several cases of severe toxoplasmosis,  some  fatal,  were  described  in  immunocompetent patients. Initial observations were in patients returning from French Guiana, in whom recombinant or atypical (unrelated to any of the archetypal  lineages)  strains  were  implicated  [6,  7]  .  These  recombinant  and  atypical  strains  are  not  well  adapted  to  human  hosts, perhaps explaining the greater severity of human infection. As more data become available from America and Africa, a new classification is  emerging  with  several  haplogroups  described  in  Brazil  and  in Africa [8].
+
+============================================================
+CHUNK 8
+============================================================
+PATHOPHYSIOLOGY
+The primary route of infection is via oral ingestion into the gastrointestinal tract and progression through lymphatics to widespread dissemination. Asexual multiplication of the parasite occurs within the
+FIGURE 101.4 Global status of Toxoplasma gondii seroprevalence (adapted from Pappas G, Roussos N, Falagas, ME. Toxoplasmosis snapshots: global status of Toxoplasma gondii seroprevalence and implications for pregnancy and congenital toxoplasmosis. Int J Parasitol 2009;39:1385-94.).
+intestinal  epithelial cells  following  ingestion  of infective  cysts. This early infection period is associated with peripheral parasitemia with T. gondii tachyzoites circulating freely, or within mononuclear phagocytic cells, until the development of an effective immune response. Differentiation  of  tachyzoites  into  bradyzoites  correlates  with  the onset  of  protective  immunity  and  begins  after  a  few  days.  In  the setting  of  T  cell  immune deficiency,  bradyzoites can  reactivate into tachyzoites. The genetic background of the host may have influence the risk of reactivation. This is well known in HIV-infected patients for  whom  the  risk  of  reactivated  toxoplasmosis  is  higher  or  lower depending on the host's human leukocyte antigen (HLA) haplotype. The  absence  of  effective  T  cell  immunity  in  the  fetus  explains  the gravity of congenital toxoplasmosis.
+
+============================================================
+CHUNK 9
+============================================================
+CLINICAL MANIFESTATIONS
+Although infection with T. gondii in developed countries is asymptomatic  in  80%  of  newly  infected  patients,  there  are  several  distinct clinical syndromes.
+
+============================================================
+CHUNK 10
+============================================================
+ACUTE POSTNATAL-ACQUIRED TOXOPLASMOSIS IN IMMUNOCOMPETENT PATIENTS
+In the 20% of patients with symptoms at presentation, the disease is generally  mild.  The  incubation  period  is  1-2  weeks.  The most  frequent  symptoms are fever,  asthenia  and  a  single,  enlarged  cervical lymph  node,  but  regional  and  generalized  lymphadenopathy  can occur. The lymph nodes are nontender and do not suppurate. Macular or urticarial rash, arthralgia, myalgia and hepatitis are less common findings. The clinical presentation may resemble a mild influenza-like episode. Symptoms usually resolve spontaneously within a few weeks or  months.  Ocular  involvement  is  also  possible-more  frequently reported in South America (particularly Brazil) -but not specifically associated with recent primary infection or with a wild toxoplasmosis cycle. In Europe and North America the great majority of these classical  mild  cases  are  supposedly  caused  by  infection  with  a  type  II strain.  Clinically,  the  patient  presents  with  a  mononucleosis  syndrome and the diagnosis is made by serology.
+
+============================================================
+CHUNK 11
+============================================================
+ACUTE POSTNATAL-ACQUIRED TOXOPLASMOSIS IN IMMUNOCOMPETENT PATIENTS
+There have been fewer than 100 cases of severe primary toxoplasmosis caused by an atypical or recombinant strain of T. gondii in immunocompetent  patients  reported.  The  majority  of  these  patients  were infected in French Guiana, but cases have also been reported from other areas. In some European cases, the source of infection has been determined  to  be  undercooked  horse  meat  imported  from  South America [9]. Clinically, the patient presents with a marked, nonspecific infectious syndrome with visceral involvement. Fever higher than 39°C and prolonged more than 10 days is prominent. In two-thirds of cases there  is  weight-loss of > 5% body weight, generalized lymphadenopathy, elevated liver enzyme levels and pulmonary involvement. Fifty percent of the patients have severe headache and a third have diarrhea, hepatosplenomegaly or chorioretinitis. Other reported complications include Guillain-Barré syndrome, pericarditis, myositis and  cutaneous  rash.  Prognosis  is  poorer  with  lung  involvement, which occurs generally 10-15 days after the onset of fever and may require hospitalization. For a third of the patients there is an acute respiratory  distress  syndrome.  The  main  differential  diagnosis  in South America is histoplasmosis. Without treatment, this severe presentation  can  be  fatal.  The  diagnosis  can  be  confirmed  by  classical serology, but direct parasitologic diagnosis is also possible in many cases. An outbreak of severe acute primary toxoplasmosis in a Surinamese  village  was  described  with  1 1  cases;  all  the  patients  were infected  by  the  same  atypical  strain.  There  were  five  disseminated acute  toxoplasmosis-all  hospitalized-with  one  death;  four  less severe cases (without hospitalization) and two lethal cases of congenital toxoplasmosis. Different clinical outcomes may be explained by different genetic background in hosts or by the size or type of parasite inoculum [10]. It is important to consider the diagnosis of acute toxoplasmosis in patients who live in, or have recently travelled to, South America-especially  the  Amazon  region-and  who  present  with  a severe infectious syndrome with pulmonary involvement.
+
+============================================================
+CHUNK 12
+============================================================
+TOXOPLASMOSIS IN IMMUNOCOMPROMISED HOSTS
+In immunocompromised patients, toxoplasmosis is a severe disease. Most  cases  are  reactivation  of  chronic  infection  resulting  from impaired of T cell immunity. High-risk groups include HIV-infected patients  with  a  CD4  cells  count < 100/mm 3 ,  patients  treated  with immunosuppressive  agents  and  bone  marrow  transplant  patients. Such patients, if seronegative, are also at risk for newly acquired infection. Although classically a localized and a disseminated form have been described, in reality the presentation is often less distinct. Initial diagnosis will often focus on a clinically localized finding, whereas further  evaluation  will  reveal  disseminated  infection.  The  most common clinical presentation is multifocal necrotizing encephalitis. Patients present with headache and a focal deficit with fever in 50% of cases [1 1]. Other common neurologic presentations include generalized seizures, with or without encephalitis. Compute tomography (CT) and magnetic resonance imaging (MRI) of the head typically show multiple, low-density lesions at corticomedullary junction or in the basal ganglia that enhance following administration of intravenous contrast (Fig. 101.5). Meningeal signs are uncommon. Mononuclear  cerebrospinal  fluid  (CSF)  pleocytosis  and  mildly  elevated protein in the CSF are common.
+Another  common  clinical  presentation  is  pneumonia  (which  can resemble  pneumocystosis)  but  any  organ  can  be  involved  because
+FIGURE 101.5 MRI toxoplasma encepahalitis.
+T. gondii infects all nucleated cell types. Forty percent of AIDS patients with ocular localization will also have a brain abscess. Disseminated toxoplasmosis usually presents with high and prolonged fever with altered mental status, arthralgia, rash and focal clinical (CNS abscess, pneumonia) or laboratory (elevated liver enzymes, hemophagocytosis) findings. There is a higher rate of cerebral involvement in AIDS patients than in those whose immunosuppression is not HIV related; for these patients, pulmonary involvement is more frequent. In tropical areas, the rate of toxoplasma reactivation is dependent on the local prevalence of infection in the community.
+
+============================================================
+CHUNK 13
+============================================================
+TOXOPLASMOSIS IN IMMUNOCOMPROMISED HOSTS
+Although host factors are much more involved than parasite factors in  immunocompromised  patients'  susceptibility  to  toxoplasmosis [12], the  genetic  makeup of  the particular T.  gondii strain  involved may  be  associated  with  atypical  presentations.  Ghosn  et al.  [13] reported one case of inguinal lymphadenopathy in a HIV patient with undetectable viral load and CD4 cell count of > 500/mm 3 . This patient was likely infected by T. gondii in the West Indies several years before. An atypical strain was isolated from the lymph node and the patient required treatment with trimethoprim-sulfamethoxazole followed by secondary prophylaxis.
+Severe generalized toxoplasmosis with high fatality rates occurs when recipient  negative  persons  receive  donor  positive  organs.  Universal prophylaxis with trimethoprim-sulfamethoxazole (TMP-SMX)  is effective in preventing post-transplant toxoplasmosis [14]
+
+============================================================
+CHUNK 14
+============================================================
+MANAGEMENT OF ACUTE TOXOPLASMOSIS DURING PREGNANCY
+Primary  infection  of  the  mother  with  consequent  infection  of  the placenta is the mechanism for congenital transmission. The placenta allows transmission to the fetus in 30-50% of infections acquired in pregnancy. The rate of transplacental infection and severity of disease in the fetus vary with the time of infection in relation to gestation. When maternal infection occurs in the first trimester, the risk of fetal infection  is  only  about  10%  but  disease  is  severe.  When  maternal infection occurs in the third trimester, the risk of fetal infection rises to 65% and approaches 100% at term; however, neonatal infection in these cases is usually asymptomatic.
+Suspected  or  confirmed  toxoplasmosis  during  pregnancy  leads  to complex and ongoing management challenges [15]. With appropriate monitoring and management of seroconversion, the great majority (70-80%) of congenital infection is asymptomatic. In settings where such prenatal monitoring is unavailable, congenital infection rates are much higher.
+One strategy is to place pregnant women suspected of having toxoplasmosis on spiramycin 1 g, three or four times daily to prevent fetal infection, if this has not yet occurred, while waiting for the results of serologic  testing.  If  a  recent  infection  with  toxoplasmosis  is  confirmed, an amniocentesis is performed and PCR testing of amniotic fluid is done. If positive, one option would be to terminate the pregnancy, depending on the parent's wishes. If the PCR is negative, infection  did  not  occur  and  spiramycin  could  be  continued  through delivery.  In  resource-limited,  lower-income  counties,  the  sophisticated reference laboratories for serologic testing and antenatal diagnostic procedures are not available.
+
+============================================================
+CHUNK 15
+============================================================
+CONGENITAL TOXOPLASMOSIS
+Severe  congenital  toxoplasmosis  presents  at  birth  with  intracranial calcifications,  hydrocephalus  and  chorioretinitis.  The  diagnosis  is more difficult in mild or asymptomatic forms. Sequelae may develop just after delivery, or later. Physicians must consider congenital toxoplasmosis  when  a  newborn  exhibits  ocular  abnormalities  (chorioretinitis,  blindness,  strabismus,  cataracts  or  nystagmus),  epilepsy, mental retardation, microcephaly, intracranial calcifications, diarrhea, hypothermia  or  anemia.  The  main  determinant  of  the  severity  of congenital toxoplasmosis remains the stage of pregnancy at the time of  infection.  In  non-archetypal  (i.e.  not  types  I,  II  or  III)  strains, primary infection of the mother does not appear to have any unique
+FIGURE 101.6 Active ocular toxoplasmosis.
+consequences for the mother, although the few reported cases have been associated with severe congenital disease in the newborn [16]. Presence of such atypical strains of T. gondii could explain a reported case  of  re-infection  with  congenital  transmission  in  a  mother  who had  been  exposed  to  toxoplasmosis  before  conception,  suggesting that  acquired  immunity  against  archetypal  strains  may  not  protect against reinfection by atypical strains [9].
+
+============================================================
+CHUNK 16
+============================================================
+OCULAR TOXOPLASMOSIS
+Ocular toxoplasmosis is the main cause of posterior uveitis worldwide [17]. Previously considered a late sequelae of congenital toxoplasmosis,  it  is  now  believed  the  majority  of  ocular  disease  in immuno  competent  patients  is  postnatally-acquired  infection  [18, 19].  Ocular  involvement  is  not  specifically  associated  with  recent primary infection, but can be delayed several months (or even years) after primary infection [20]. In all cases, the main clinical presentation of chorioretinitis is a  focally necrotic retinal lesion  with  fuzzy outlines (Fig. 101.6). It is accompanied by a whitish vitreous exudate that sometimes obscures the lesion [21]. A new lesion can occasionally  arise  from  the  edge of an old one. This chorioretinitis  may be associated with edema of the retina and optic nerve, optic neuritis, iridocyclitis and, in rare instances, panuveitis. In congenital toxoplasmosis, the ocular lesions are more likely bilateral versus uni  lateral in postnatally acquired cases. Ocular toxoplasmosis is characterized by recurrent episodes of chorioretinitis that can be associated with severe morbidity if the disease extends to structures critical for vision or if there is a retinal detachment. The timing of recurrences is unpredictable, but the individual risk is estimated to be as high as 50%. The genetic diversity of T. gondii may partially explain this phenomenon. A high prevalence of ocular toxoplasmosis has been reported in South America [22] and Africa [23]. In the UK, the risk of ocular toxoplasmosis is 100 times higher in black people born in West Africa than in  subjects  born  in  Britain  [23].  In  Brazil,  the  incidence  of  ocular toxoplasmosis  is  17.7%  compared  with  0.6%  in  Alabama
+
+============================================================
+CHUNK 17
+============================================================
+OCULAR TOXOPLASMOSIS
+(USA). Similarly, in Brazil, the ocular sequelae of congenital toxoplasmosis are more frequent, more recurrent and more severe than in Europe [24]. As discussed previously, there is considerable genetic diversity in tropical areas with many atypical strains of T. gondii circulating; in Brazil there is no archetypal strain II that predominates in USA. Type II strain in France can be responsible for ocular toxoplasmosis in both immunocompetent and immunocompromised patients [25]. Cumulatively, these data suggest that some strains probably have a tropism for  eye  tissues  but  that  there  are  also  host  factors  involved  in  the occurrence of ocular toxoplasmosis.
+
+============================================================
+CHUNK 18
+============================================================
+OCULAR TOXOPLASMOSIS
+TABLE 101-1 Interpretation of Toxoplasma Antibody Tests, 1 = TABLE 101-1 Interpretation of Toxoplasma Antibody Tests. TABLE 101-1 Interpretation of Toxoplasma Antibody Tests, 2 = TABLE 101-1 Interpretation of Toxoplasma Antibody Tests. IgG result, 1 = IgM result. IgG result, 2 = Report/interpretation for humans *. Negative, 1 = Negative. Negative, 2 = No serological evidence of infection with Toxoplasma. Negative, 1 = Equivocal. Negative, 2 = Possible early acute infection or false-positive IgM reaction. Obtain a new specimen for IgG and IgM testing. If results for the second specimen remain the same, the patient is probably not infected with Toxoplasma. Negative, 1 = Positive. Negative, 2 = Possible acute infection or false-positive IgM result. Obtain a new specimen for IgG and IgM testing. If results for the second specimen remain the same, the IgM reaction is probably a false-positive.. Equivocal, 1 = Negative. Equivocal, 2 = Indeterminate: obtain a new specimen for testing or retest this specimen for IgG in a diGerent assay.. Equivocal, 1 = Equivocal. Equivocal, 2 = Indeterminate: obtain a new specimen for both IgG and IgM testing.. Equivocal, 1 = Positive. Equivocal, 2 = Possible acute infection with Toxoplasma . Obtain a new specimen for IgG and IgM testing. If results for the second specimen remain the same or if the IgG becomes positive, both specimens should be sent to a reference laboratory with experience in diagnosis of toxoplasmosis for further testing.. Positive, 1 = Negative. Positive, 2 = Infected with Toxoplasma for more than 1 year.. Positive, 1 = Equivocal. Positive, 2 = Infected with Toxoplasma for probably more than 1 year or false-positive IgM reaction. Obtain a new specimen for IgM testing. If results with the second specimen remain the same, both specimens should be sent to a reference laboratory with experience in the diagnosis of toxoplasmosis for further testing.. Positive, 1 = Positive. Positive, 2 = Possible recent infection within the last 12 months, or
+
+============================================================
+CHUNK 19
+============================================================
+OCULAR TOXOPLASMOSIS
+false-positive IgM reaction. Send the specimen to a reference laboratory with laboratory with experience in the diagnosis of toxoplasmosis for further testing.. *except infants Adapted from CDC: http://www.dpd.cdc.gov/dpdx/HTML/Toxoplasmosis.htm., 1 = *except infants Adapted from CDC: http://www.dpd.cdc.gov/dpdx/HTML/Toxoplasmosis.htm.. *except infants Adapted from CDC: http://www.dpd.cdc.gov/dpdx/HTML/Toxoplasmosis.htm., 2 = *except infants Adapted from CDC: http://www.dpd.cdc.gov/dpdx/HTML/Toxoplasmosis.htm.
+
+============================================================
+CHUNK 20
+============================================================
+LABORATORY DIAGNOSIS
+The differential diagnosis of the various syndromes of toxoplasmosis is  broad  and  laboratory  confirmation  is  recommended  in  all  suspected cases, and is essential in the immuncompromised or in those with severe syndromes. The diagnosis of toxoplasmosis is confirmed by direct detection of parasites in patient specimens or by serology.
+
+============================================================
+CHUNK 21
+============================================================
+DIRECT DETECTION AND IDENTIFICATION OF THE PARASITE
+Toxoplasma tachyzoites or cysts  can  be  demonstrated  on  tissue imprints, biologic fluids (blood, bronchoalveolar lavage, CSF, amniotic fluid) or biopsies (CNS, lymph node, bone marrow) that are fixed and stained appropriately. The diagnosis of acute infection requires the  visualization  of  tachyzoites.  The  tachyzoites  of  toxoplasmosis must be distinguished from other intracellular parasites such as Histoplasma , Leishmania , Sarcocystis and Trypanosoma  cruzi .  Isolation  of parasites from blood or other body fluids by intraperitoneal inoculation in mice is very useful in isolating the strain. The mice should be tested for the presence of Toxoplasma organisms in the peritoneal fluid 6-10 days post-inoculation; if no organisms are found, serology can be performed on the animals 4-6 weeks post-inoculation. There are no accepted cell culture techniques for diagnosis because of a lack of sensitivity. The detection of T. gondii DNA by real-time PCR has superseded the classical methods. Several studies confirm that rep529 is the more sensitive DNA target for the diagnosis [26, 27]. Sensitivity using this technique is 95% for antenatal diagnosis in amniotic fluid and for disseminated toxoplasmosis in blood. In localized toxoplasmosis, the sensitivity is similar if PCR is performed on an appropriate sample (BAL (broncho alveolar lavage), cerebral biopsy) but is less sensitive in  blood.  In  AIDS  patients  with  cerebral  abscesses,  PCR  on  CSF  is positive in only 30-60% of cases.
+
+============================================================
+CHUNK 22
+============================================================
+SEROLOGIC TESTING
+Serologic  diagnosis  is  the  routine  method  of  diagnosis  for  most patients and is based on the detection of T.  gondii -specific IgG and
+IgM antibodies. The historic gold standard is the dye test developed by Sabin and Feldman in 1948 for the detection of IgG [28]. In 1968, Remington developed an indirect immunofluorescence (IIF) test for IgM detection [29]. The dye test is only available in a specialized reference laboratories and the IIF test requires specific material, therefore, today,  the  great majority  of  laboratories  use  ELISA  or  electrochemiluminescence immunoassay (ECLIA). Agglutination and indirect hemagglutination tests are easy to perform. Results of IgG studies are generally expressed as international units per milliliter (IU/mL), whereas IgM levels are reported as an index or as serial dilutions. The modern gold standard for IgM is the immuno-sorbent agglutination assay (ISAgA). The interpretation of toxoplasma antibody tests can be complex (Table 101-1).
+The determination of the avidity of anti-toxoplasma IgG antibodies by their ability to stay bound to the antigen when exposed to chaotropic  salt  solutions,  can  be  useful  to  distinguish  early  versus  later infection. Anti-toxoplama antibodies formed in the few months following infection are less tightly bound (lower avidity) than antibodies found much later in the infection (higher avidity). Avidity assays may be useful in the differential diagnosis of lymphadenopathy and dating infection in pregnant women [30]. The Food and Drug Administration (FDA)-cleared VIDAS TOXO IgG Avidity assay (bioMérieux Inc., Hazelwood, MO, USA) helps determine whether a pregnant woman or a person with swollen lymph nodes testing positive for toxoplasmosis developed the infection within the past 4 months.
+
+============================================================
+CHUNK 23
+============================================================
+DIAGNOSIS OF ACUTE POSTNATALACQUIRED TOXOPLASMOSIS IN IMMUNOCOMPETENT PATIENTS
+Acute  infection  is  assessed  by  seroconversion  from  a  negative  to  a positive serology. It is the appearance of IgG that defines seroconversion; the presence of IgM alone can be nonspecific or related to crossreactions. If no negative baseline sample exists, a fourfold rise in IgG titers, combined with a positive IgM, drawn at 2-3 week intervals and run in parallel is highly suggestive of an acute infection. Modern IgM immunosorbent assays are very sensitive and specific but the persistence of these IgM antibodies means that their presence is not, by itself, sufficient to  diagnose  an acute infection.  In  such  cases, a high  IgG
+avidity index may exclude an acute infection. The lack of standardization  between assays may lead to discrepant results; no conclusions can  be  drawn  comparing  two  results  obtained  from  two  different laboratories using different reagents. Routine serology tests are sufficient  for  diagnosis  of  'Guyanese  toxoplasmosis'  strains;  serologic response to these strains is generally brisk, with very high IgG titers and a long persistence of specific IgM and IgA.
+The  differential  diagnosis  of  acute  toxoplasmosis  is  broad  and includes infectious mononucleosis caused by Epstein-Barr and cytomegalovirs viruses, acute HIV infection, cat-scratch disease, tuberculosis, lymphoma, Hodgkin's disease and sarcoidosis.
+
+============================================================
+CHUNK 24
+============================================================
+DIAGNOSIS OF TOXOPLASMOSIS IN IMMUNOCOMPROMISED HOSTS
+Positive serology indicates only that the diagnosis is possible. A negative serology excludes the diagnosis, except in case of primary infection; for these patients, the appearance of an IgM and IgG response can be delayed. The diagnosis is confirmed by demonstration of the parasite in biopsies or biologic fluids by PCR. In the case of cerebral lesions,  a  therapeutic  trial  is  frequently  initiated,  with  biopsy  performed only if there is  no  clinical  improvement  after  one week  of treatment.  Brain  biopsy  without  a  therapeutic  trial  is  indicated  in immunocompromised patients with a negative specific IgG serologic test, non-enhancing single lesions and those on routine prophylaxis with TMP/SMX because these abnormalities are unlikely to be caused by Toxoplasma .
+The most common clinical presentation of T. gondii infection among patients with AIDS is focal encephalitis with headache, confusion, or motor weakness and fever [31]. Physical examination might demonstrate focal neurologic abnormalities and, in the absence of treatment, disease progression results in seizures, stupor and coma.
+Retinochoroiditis, pneumonia and evidence of other multifocal organ system involvement can be observed after dissemination of infection but are rare manifestations in this patient population. A CT scan or MRI  of  the  brain  will  typically  show  multiple  contrast-enhancing lesions, often with  associated edema [32]. However, toxoplasmosis also can manifest as single lesions in the brain.
+The differential diagnosis of CNS toxoplasmosis in immunocompromised  individuals  mimics  other  causes  of  enhancing  mass  lesions such  as  lymphoma,  metastatic  carcinoma,  tuberculoma,  and  brain abscess.
+
+============================================================
+CHUNK 25
+============================================================
+DIAGNOSIS OF CONGENITAL TOXOPLASMOSIS
+The gold standard for the antenatal diagnosis of congenital toxoplasmosis is PCR performed on amniotic fluid. If there are no abnormalities on fetal ultrasound, the mother is treated until delivery. If severe abnormalities are detected on ultrasound, medical interruption of the pregnancy might be considered based on the parents' choice and local laws.  If  an  antenatal  diagnosis  is  negative  or  was  not  performed, neonatal  diagnosis  is  done  via  child/mother  comparison  via  the immunoblot method and inoculation of placental tissue into mouse peritoneum. After one week of life, the presence of IgA or IgM in the child  serum  confirms  the diagnosis.  IgG  passively  transferred  from mother to child should disappear by 10-12 months.
+The differential diagnosis of congenital toxoplasmosis includes congental infections with cytomegalovirus, herpes simplex, rubella, Listeria , syphilis, T. cruzi and erythroblastosis fetalis.
+
+============================================================
+CHUNK 26
+============================================================
+DIAGNOSIS OF OCULAR TOXOPLASMOSIS
+The current gold standard for diagnosis of ocular toxoplasmosis is a thorough an ophthalmologic examination. In patients with atypical lesions,  laboratory  methods  may  confirm  the  diagnosis  [33].  The most reliable  method  is  aspiration  of  aqueous  humor that  can  be tested for local specific antibody production or for T. gondii DNA by PCR.  The  ratio  of  local  specific  intraocular  antibody  production compared  with  serum  antibody  (Goldmann-Witmer  coefficient)  is calculated  as  (antiToxoplasma IgG  in  aqueous  humor/total  IgG  in aqueous humor)/(antiToxoplasma IgG in serum/total IgG in serum). A value of 2 is considered evidence of intraocular Ab synthesis. Immunoblotting can also be utilized.
+The differential diagnosis of acute toxoplasmic encephalitis includes uveitis caused by syphilis, tuberculosis, leprosy and sacrcoidosis.
+
+============================================================
+CHUNK 27
+============================================================
+TREATMENT
+Most drugs used for the treatment of toxoplasmosis are active only against the tachyzoite forms of the parasite and treatment does not eradicate the infection. Atovaquone has limited in vitro activity against the cyst forms.
+Specific  treatment  is  not  indicated  for  a  healthy  person  with  mild symptoms who is not pregnant, as they usually resolve within a few weeks.  Treatment  is  usually  recommended  for severe  illness  in  the immunocompetent, infection acquired infection during  pregnancy, clinical manifestations compatible with toxoplasmosis in immunosuppressed patients, congenital infection (whether the infant is symptomatic or not), or persons with active ocular disease or severe illness. The treatment of toxoplasmosis in immunocompromised patients is a medical emergency. Primary prophylaxis is used in severely immunosuppressed  patients.  Current  treatment  recommendations  are found in Table 101-2.
+Standard  therapy  for  most  indications  is  a  combination  of  oral pyrimethamine  and  a  sulfonamide.  A  200-mg  loading  dose  of pyrimethamine given in divided doses is followed by a daily dose of 1 mg/kg in adults and every 1-3 days for children.
+The  new  gold  standard  in  tropical  countries  should  be  TMP/SMX. Maintenance therapy is given until effective immune reconstitution occurs.  Primary  prophylaxis  is  necessary  for  patients  with  CD4  T cell depletion of less than 200 cells/mm 3 .  The regimen is the same for primary or secondary prophylaxis, with one tablet (160 trimethoprim/800 mg sulfamethozole) daily.
+Treatment  recommendations in pregnancy vary;  in  some  countries treatment by pyrimethamine-sulfonamide is systematically given in cases of seroconversion after the first trimester of the pregnancy. In others locations, spiramycin is given until the result of amniocentesis is known and pyrimethamine-sulfonamide used only if the antenatal diagnosis is positive. There is also variability in the duration of the pyrimethamine-sulfonamide regimen used (only one month or until delivery).  Changes in  antibody titers  are  not  useful  for  monitoring responses to therapy.
+
+============================================================
+CHUNK 28
+============================================================
+TREATMENT
+Patients with Toxoplasma encephalitis should be monitored routinely for adverse events and clinical and radiologic improvement. Common pyrimethamine toxicities include rash, nausea and bone marrow suppression  (neutropenia,  anemia  and  thrombocytopenia)  that  can often be reversed by increasing the dose of leucovorin to 50-100 mg/ day administered in divided doses. Common sulfadiazine toxicities include rash, fever, leukopenia, hepatitis, nausea, vomiting, diarrhea and crystalluria. Common clindamycin toxicities include fever, rash, nausea,  diarrhea  (including pseudomembranous colitis  or diarrhea related  to Clostridium  difficile toxin)  and  hepatotoxicity.  Common TMP-SMX toxicities include rash, fever, leukopenia, thrombocytopenia  and  hepatotoxicity.  Drug  interactions  between  anticonvulsants and  anti-retroviral  agents  should  be  evaluated  carefully  and  doses adjusted according to established guidelines. Several cases of neurologic  disease  have  been  attributed  to  immune  reconstitution  and toxoplasmosis, but more data are needed to verify that such cases are immune reconstitution syndrome related to T. gondii [34].
+
+============================================================
+CHUNK 29
+============================================================
+CONCLUSION
+Since its recognition as a human pathogen in 1939, understanding of Toxoplasma has  evolved  dramatically.  Since  the  end  of  the  1990s, description of T. gondii's genetic composition has led to a better understanding  of  its  biological  diversity  and  pathologic  variability.  We
+
+============================================================
+CHUNK 30
+============================================================
+CONCLUSION
+References, 1 = [35]. References, 2 = . References, 3 = [36, 37]. Comments, 1 = Spiramycin is not a FDA approved drug. Comments, 2 = . Comments, 3 = Add folinic acid if mental status is altered and until clinical improvement is seen (generally 3-5 days) If the patient is comatose, treatment is initially given intravenously at the same dose TMP-SMX was reported in a small (77 patients) randomized trial to be eGective and better tolerated than pyrimethamine- sulfadiazine Great inter-individual variability in drug atovaquone absorption. Alternate drug regimen, 1 = Spiramycin 1-2 grams twice daily (adult) and 25 mg/kg twice daily (children) weighing less than 20 kg. Administer for 2-4 weeks. Alternate drug regimen, 2 = If sulfa allergic or intolerant then use pyrimethamine plus clindamycin at 600 mg orally or intravenously four times daily. Alternate drug regimen, 3 = if is The preferred alternative regimen for patients who are unable to tolerate or who fail to respond to Jrst-line therapy is pyrimethamine plus clindamycin plus leucovorin TMP/SMX is 10/50 mg/kg/ day given BID, or 15/75 mg/ kg/day Atovaquone at 750 mg four times a day plus pyrimethomine. Recommended drug Comments for Toxoplasmosis, 1 = immunocompetent individuals Exception is pregnant women Mild illness resolves spontaneously. Recommended drug Comments for Toxoplasmosis, 2 = To avoid the hematologic toxicity of pyrimethamine, folinic acid (Leucovorin) is administered in a dose of 5-10 mg daily for adults and 1 mg daily for children.. Recommended drug Comments for Toxoplasmosis, 3 = Pyrimethamine penetrates the brain parenchyma eHciently, even in the absence of inIammation Adjunctive corticosteroids (e.g. dexamethasone) should be administered to patients with TE when clinically indicated only for treatment of a mass eGect associated with focal lesions or associated edema Anticonvulsants should be administered to patients with TE who have a history of seizures, but should not be administered as
+
+============================================================
+CHUNK 31
+============================================================
+CONCLUSION
+prophylactics to all patients Anticonvulsants, if administered, should be continued at least through the period of acute therapy. Acute therapy for TE should be continued for at least six weeks, if there is clinical and radiologic improvement. Longer courses might be appropriate clinical or radiologic disease is extensive or response incomplete at six weeks. Because of the potential immunosuppressive eGects of corticosteroids, they should be discontinued as soon as clinically feasible. Patients receiving corticosteroids should be monitored closely for the development of other OIs, including CMV retinitis and TB disease. Clinical syndrome regimen TABLE 101-2 Current Treatment Recommendations, 1 = Acquired postnatal toxoplasmosis in Asymptomatic infection or mild illness No treatment. Clinical syndrome regimen TABLE 101-2 Current Treatment Recommendations, 2 = Severe illness (visceral involvement or severe or persistent symptoms) Adults: 200 mg of pyrimethamine given for one day as a loading dose followed by 50-75 mg per day plus 1-1.5 g sulfadiazine four times per day. Treatment may be indicated for 2-4 weeks. Clinical syndrome regimen TABLE 101-2 Current Treatment Recommendations, 3 = Immuncocompromised patients Encephalitis in HIV infected patients with AIDS Adults: 200 loading mg of pyrimethamine given for one day followed by 50-75 mg per day plus sulfadiazine at 100-150 mg/kg (e.g. 4-6 g/day for an adult in 1-1.5 g four times per day plus folinic acid (leucovorin) 5-10 mg with each dose of pyrimethamine) Children: pyrimethamine 1 mg/kg plus sulfadiazine 100-150 mg/kg given in four divided daily doses To avoid the hematologic toxicity of this regimen, folinic acid is administered in a dose of 25 mg daily for adults and 1 mg daily for children
+
+============================================================
+CHUNK 32
+============================================================
+CONCLUSION
+References, 1 = . References, 2 = . References, 3 = . References, 4 = [38]. Comments, 1 = Alternative regimens used for those who are sulfa intolerant. Comments, 2 = . Comments, 3 = . Comments, 4 = . Clinical syndrome Recommended drug regimen Comments Alternate drug regimen, 1 = Maintenance therapy in the immunocompromised Pyrimethamine 25-50 mg daily plus sulfadiazine 2-4 grams daily plus leucovorin 5 mg/kg daily Suppressive treatment should be continued for duration of immunosuppression Regimen also protects against Pneumocystis jiroveci pneumonia All HIV positive patients with positive Toxoplasma serology and CD4 T lymphocyte counts less than 200/ mcl If CD4 counts are above 200/mcl and viral load is controlled, maintenance therapy can be stopped Clindamycin 300-450 mg three times daily TMP/SMX Dapsone at 50 mg daily plus pyrimethamine 50 mg/ week and leucovorin 10 mg/week 750 mg atovaquone twice daily. Clinical syndrome Recommended drug regimen Comments Alternate drug regimen, 2 = Pregnant women Spiramycin is traditionally used during the Jrst and second trimesters in pregnant women who seroconverted during the Jrst trimester of pregnancy The dose is 3-4 grams daily in divided doses. pyrimethamine/sulfadiazine and leucovorin (for late-second and third trimesters) for women with acute T. gondii infection diagnosed at a reference laboratory during gestation Pyrimethamine is teratogenic and should not be used in the Jrst trimester. Clinical syndrome Recommended drug regimen Comments Alternate drug regimen, 3 = Congential toxoplasmosis in the neonate Pyrimethamine plus a sulfonamide, given to the neonate for 3-12 months depending of the severity of the disease and local recommendations Sulfadiazine can be replaced by sulfadoxine with an intake every 10 days No uniform or consensus recommendations. Clinical syndrome Recommended drug regimen Comments Alternate drug regimen, 4 = Ocular toxoplasmosis Combination pyrimethamine- sulfonamide (same regimen as used in immunocompromised) and corticosteroids Maintenance therapy with TMP/SMX should
+
+============================================================
+CHUNK 33
+============================================================
+CONCLUSION
+be given if a lesion is considered vision-threatening or for mono-ocular patients Long-term maintenance treatment reduces the rate of recurrence The best regimen is not determined but should be one tablet (80 mg/400 mg) per day if adequately tolerated Many other drug combinations are cited in the literature, principally pyrimethamine plus a macrolide, but there is no randomized study evaluating these regimens against the TMP/SMX
+know today that the disease, once considered to be benign, is potentially  severe  in  immunocompetent  patients.  Acute  toxoplasmosis must be considered in the differential diagnosis of a patient living in, or returning from, tropical areas-particularly the Amazon region of South America-who presents with a severe infectious syndrome with pulmonary involvement.
+
+============================================================
+CHUNK 34
+============================================================
+REFERENCES
+1. Weiss LM, Dubey JP. Toxoplasmosis: A history of clinical observations. Int J Parasitol 2009;39:895-901.
+2. Dubey JP. History of the discovery of the life cycle of Toxoplasma gondii . Int J Parasitol 2009;39:877-82.
+3. Pappas G, Roussos N, Falagas, ME. Toxoplasmosis snapshots: global status of Toxoplasma gondii seroprevalence and implications for pregnancy and congenital toxoplasmosis. Int J Parasitol 2009;39:1385-94.
+4. Howe DK, Sibley LD. Toxoplasma gondii comprises three clonal lineages: correlation  of  parasite  genotype  with  human  disease.  J  Infect  Dis  1995;172: 1561-6.
+5. Lehmann T, Graham DH, Dahl ER, et al. Variation in the structure of Toxoplasma gondii and the roles of selfing, drift, and epistatic selection in maintaining linkage disequilibria. Infect Genet Evol 2004;4:107-14.
+6. Bossi P, Caumes E, Paris L, et al. Toxoplasma gondii -associated Guillain-Barre syndrome  in  an  immunocompetent  patient.  J  Clin  Microbiol  1998;36: 3724-5.
+7. Darde ML, Villena I, Pinon JM, Beguinot I. Severe toxoplasmosis caused by a Toxoplasma  gondii strain  with  a  new  isoenzyme  type  acquired  in  French Guyana. J Clin Microbiol 1998;36:324.
+8. Al-Kappany YM, Rajendran C, Abu-Elwafa SA, et al. Genetic diversity of Toxoplasma gondii isolates in Egyptian feral cats reveals new genotypes. J Parasitol 2010;96:1112-14.
+9. Elbez-Rubinstein A, Ajzenberg, D Darde ML, et al. Congenital toxoplasmosis and reinfection during pregnancy: case report, strain characterization, experimental model of reinfection, and review. J Infect Dis 2009;199:280-5.
+
+============================================================
+CHUNK 35
+============================================================
+REFERENCES
+10.  Demar M, Ajzenberg D, Maubon D, et al. Fatal outbreak of human toxoplasmosis along the Maroni River: epidemiological, clinical, and parasitological aspects. Clin Infect Dis 2007;45:e88-95.
+11.  Luft  BJ,  Remington  JS.  Toxoplasmic  encephalitis  in  AIDS.  Clin  Infect  Dis 1992;15:211-22.
+12.  Ajzenberg D, Year H, Marty P, et al. Genotype of 88 Toxoplasma gondii isolates associated with toxoplasmosis in immunocompromised patients and correlation with clinical findings. J Infect Dis 2009;199:1 155-67.
+13.  Ghosn J, Paris L, Ajzenberg D, et al. Atypical toxoplasmic manifestation after discontinuation of maintenance therapy in a human immunodeficiency virus type  1-infected  patient  with  immune  recovery.  Clin  Infect  Dis  2003;37: e112-14.
+14. 14 Martina MN, Cervera C, Esforzado N, et al. Toxoplasma gondii primary infection  in  renal  transplant  recipients.  Two  case  reports  and  literature  review. Transpl Int 201 1;24:e6-12.
+15.  Montoya JG, Remington JS. Management of Toxoplasma gondii infection during pregnancy. Clin Infect Dis 2008;47:554-66.
+16.  Ajzenberg D, Cogne N, Paris L, et al. Genotype of 86 Toxoplasma gondii isolates associated with human congenital toxoplasmosis, and correlation with clinical findings. J Infect Dis 2002;186:684-9.
+17.  Commodaro AG, Belfort RN, Rizzo LV, et al. Ocular toxoplasmosis: an update and review of the literature. Mem Inst Oswaldo Cruz 2009;104:345-50.
+18.  Balasundaram MB,  Andavar R,  Palaniswamy M, Venkatapathy  N. Outbreak of acquired ocular toxoplasmosis involving 248 patients. Arch Ophthalmol 2010;128:28-32.
+
+============================================================
+CHUNK 36
+============================================================
+REFERENCES
+19.  Montoya JG, Remington JS. Toxoplasmic chorioretinitis in the setting of acute acquired toxoplasmosis. Clin Infect Dis 1996;23:277-82.
+20.  Silveira, C, Belfort R, Jr, Muccioli C, et al. A follow-up study of Toxoplasma gondii infection in southern Brazil. Am J Ophthalmol 2001;131:351-4.
+21.  Delair E, Latkany P, Noble AG, et al. Clinical manifestations of ocular toxoplasmosis. Ocul Immunol Inflamm 2011;19:91-102
+22.  Glasner PD, Silveira C, Kruszon-Moran D, et al. An unusually high prevalence of  ocular  toxoplasmosis  in  southern  Brazil.  Am  J  Ophthalmol  1992;1 14: 136-44.
+23.  Gilbert RE,  Stanford MR,  Jackson H, et  al. Incidence of acute  symptomatic toxoplasma retinochoroiditis in south London according to country of birth. BMJ 1994;310:1037-40.
+24.  Gilbert RE, Freeman K, Lago EG, et al. Ocular sequelae of congenital toxoplasmosis in Brazil compared with Europe. PLoS Negl Trop Dis 2008;2:e277.
+25.  Fekkar A, Ajzenberg D, Bodaghi B, et al. Direct genotyping of Toxoplasma gondii in ocular fluid samples from 20 patients with ocular toxoplasmosis: predominance of type II in France. J Clin Microbiol 2011;49:1543-7.
+26.  Mesquita RT, Ziegler AP, Hiramoto RM, et al. Real-time quantitative PCR in cerebral  toxoplasmosis  diagnosis  of  Brazilian  human  immunodeficiency virus-infected patients. J Med Microbiol 2010;59:641-7.
+27.  Sterkers Y, Varlet-Marie E, Cassaing S, et al. Multicentric comparative analytical performance study for molecular detection of low amounts of Toxoplasma gondii from simulated specimens. J Clin Microbiol 2010;48:3216-22.
+
+============================================================
+CHUNK 37
+============================================================
+REFERENCES
+28.  Sabin AB, Feldman HA. Dyes as microchemical indicators of a new immunity phenomenon affecting a protozoon parasite (toxoplasma). Science 1948;108: 660-3.
+29.  Remington JS, Miller MJ, Brownlee I. IgM antibodies in acute toxoplasmosis. II.  Prevalence  and  significance  in  acquired  cases.  J  Lab  Clin  Med  1968; 71:855-66.
+30.  Fricker-Hidalgo H, Saddoux C, Suchel-Jambon AS, et al. New Vidas assay for Toxoplasma-specific  IgG  avidity:  evaluation  on  603  sera.  Diagn  Microbiol Infect Dis 2006;56:167-72.
+31.  Luft  BJ,  Brooks  RG,  Conley  FK.  Toxoplasmic  encephalitis  in  patients  with acquired immune deficiency syndrome. JAMA 1984;252:913-17.
+32.  Kupfer MC, Zee CS, Colletti PM, et al. MRI evaluation of AIDS-related encephalopathy: toxoplasmosis vs. lymphoma. Magn Reson Imaging 1990;8:51-7.
+33.  Fekkar A, Bodaghi B, Touafek F, et al. Comparison of immunoblotting, calculation of the Goldmann-Witmer coefficient, and real-time PCR using aqueous humor samples for diagnosis of ocular toxoplasmosis. J Clin Microbiol 2008; 46:1965-7.
+34.  Martin-Blondel G, Alvarez M, Delobel P, et al. Toxoplasmic encephalitis IRIS in HIV-infected patients: a case series and review of the literature. J Neurol Neurosurg Psychiatry 2011;82:691-3.
+35.  Georgiev VS. Management of toxoplasmosis. Drugs 1994;48:179.
+36.  Beraud G, Pierre-Francois S, Foltzer A, et al. Cotrimoxazole for treatment of cerebral toxoplasmosis: an observational cohort study during 1994-2006. Am J Trop Med Hyg 2009;80:583-7.
+
+============================================================
+CHUNK 38
+============================================================
+REFERENCES
+37.  Torre  D,  Casari  S,  Speranza  F,  et  al.  Randomized  trial  of  trimethoprimsulfamethoxazole versus pyrimethamine-sulfadiazine for therapy of toxoplasmic encephalitis in patients with AIDS. Italian Collaborative Study Group. Antimicrob Agents Chemother 1998;42:1346-9.
+38.  Silveira C, Belfort R, Jr, Muccioli C, et al. The effect of long-term intermittent trimethoprim/sulfamethoxazole  treatment  on  recurrences  of  toxoplasmic retinochoroiditis. Am J Ophthalmol 2002;134:41-6.
+

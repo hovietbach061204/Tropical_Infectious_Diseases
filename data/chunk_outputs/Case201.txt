@@ -1,0 +1,256 @@
+============================================================
+CHUNK 0
+============================================================
+LeAnne M Fox, Christopher L King
+mosquitoes and their maturation to infective forms (1875-89). This was the first description of the mosquito as a vector for any of the parasitic diseases and paved the way to his discovery of malaria transmission. Manson also made the association of endemic microfilaremia with elephantiasis and other lymphatic diseases.
+
+============================================================
+CHUNK 1
+============================================================
+EPIDEMIOLOGY
+Currently, there are an estimated 1.34 billion people living in endemic areas in 72 countries  with 120 million people infected. More than 90% of infections are caused by W. bancrofti for  which humans are the only natural host.
+Lymphatic filariasis is endemic in Africa, Asia, the Indian subcontinent, the western Pacific Islands, focal areas of Latin America, and the Caribbean  -  particularly  Haiti  and  the  Dominican  Republic  (Fig. 110.1). Approximately 65% of those at risk reside in south and Southeast Asia, 30% in sub-Saharan Africa and the remainder in other parts of the tropical world [2]. In the Americas, endemic foci persist on the island of Hispaniola and in coastal areas of Guyana and north-eastern Brazil. Infection with Brugia malayi is limited to Asia (India, Malaysia) and several western Pacific island groups (Indonesia and the Philippines). There are fewer than 10-20 million persons in these areas who are infected with B. malayi .  Unlike W. bancrofti , B. malayi has feline and primate reservoirs. Brugia timori is only found on the islands of south-eastern Indonesia. Both China and the Republic of Korea were considered endemic until recently, but have declared elimination of lymphatic  filariasis  as  a  public  health  problem  in  2007  and  2008, respectively [2].
+
+============================================================
+CHUNK 2
+============================================================
+EPIDEMIOLOGY
+The  distribution  of  lymphatic  filariasis  is  highly  focal  within  an endemic area. This is as a result of the different feeding and breeding behaviors of the mosquito  vectors  that  are  capable  of  transmitting lymphatic filariasis. For example, W. bancrofti is transmitted in much of rural Africa by Anopheles species [3], whereas in many urban areas of  the  world,  including  India  and  in  the  Western  Hemisphere, W. bancrofti is transmitted by Culex mosquitoes [4]. Other vectors include Aedes species in some Pacific islands and Mansonia, which transmits B. malayi [5]. Lymphatic filariasis may be less efficiently transmitted than other vector-borne parasitic infections and therefore less commonly infects travelers with short-term exposure [6]. The microfilariae of W. bancrofti and B. malayi have a nocturnal periodicity where a few microfilaria appear in the circulation beginning around 18.00 h, but with the large majority in the peripheral circulation between 22.00 h and 02.00 h, coinciding with the time when most mosquito vectors take their blood meal [7]. In contrast, there is no clear-cut periodic cycle for Aedes -transmitted microfilariae in the South Pacific.
+Infection, detected by microfilaria in the blood, is gradually acquired until the third or fourth decade of life. In areas of intense transmission, initial infection, detected as the presence of circulating filarial antigen, commonly occurs between the ages of 2 and 4 years and the prevalence of microfilaremia increases rapidly between the ages of 5 and 10 years [8, 9]. The proportion of age group infection and frequency of disease varies in different endemic areas. The chronic manifestations,  such  as  lymphedema  and  hydrocele  (in  males),  occur
+
+============================================================
+CHUNK 3
+============================================================
+Key features
+- Filariasis is a mosquito-transmitted nematode infection where the burden of infection correlates with exposure to infected mosquitos
+- There is widespread chronic infection in 72 countries, with 1.3 billion people at risk and 120 million infected
+- Adult parasites (up to 10 cm in length) live in the host lymphatics for many years and can lead to lymphatic dysfunction
+- Clinical disease ranges from acute .larial lymphangitis (AFL) and acute dermatolymphangioadenitis (ADLA) to intermittent or chronic lymphedema in the extremities and/ or hydroceles in men. The majority of infected individuals are asymptomatic
+- Risk of infection is very low in travelers who are in endemic countries for less than a year
+- Individuals .rst exposed or infected with lymphatic .lariasis as adults are more likely to have clinical disease and eosinophilia
+
+============================================================
+CHUNK 4
+============================================================
+INTRODUCTION
+Lymphatic filariasis is caused by infection with three species of parasite, Wuchereria bancrofti , Brugia malayi and Brugia timori .  This mosquito-transmitted infection occurs throughout the tropics, but is highly heterogeneous in its distribution, infecting a high proportion of people in some communities and few in others [1]. The parasites can  persist  for  years  in  humans  and,  consequently,  the  burden of disease occurs in adults.
+The  nematodes  live  in  human  lymphatics  resulting  in  lymphatic damage and dysfunction that leads to recurrent swelling and disfigurement of the limbs (elephantiasis), genitalia (hydroceles) in men and sometimes breasts in women. Occasionally, infected individuals may develop a retrograde lymphadenitis and lymphangitis. The disfigurement  resulting  from  lymphatic  filariasis  can  have  substantial economic and psychosocial consequences, particularly among individuals whose livelihoods depend on physical labor.
+Descriptions of elephantiasis are found in early Indian, Egyptian and Persian writings, and epidemiologic association of elephantiasis with hydrocele,  chylocele  and  chyluria  were  established  by  the  middle of  the  19th  century.  Their  common  etiology,  however,  remained  a mystery  until  discoveries  were  made  of  microfilariae  in  hydrocele fluid (Demarquay, 1863), chylous urine (Wucherer, 1868) and blood (Lewis, 1872), and of the adult worm in a lymphatic abscess (Bancroft, 1877). Patrick Manson first described uptake of microfilariae by Culex
+FIGURE 110.1 Global distribution of lymphatic 3lariasis and status of mass drug administration as of 2009.
+
+============================================================
+CHUNK 5
+============================================================
+Mosquito
+FIGURE 110.2 Life Cycle of lymphatic 3lariasis.
+infrequently in people younger than 10 years and generally increase with  age  [8].  The  role  of  gender  in  susceptibility  to  infection  and disease is poorly understood. Hydrocele is the most common clinical manifestation of W. bancrofti , whereas chronic lymphedema has been more common in women. Occupation and socioeconomic status are important  risk  factors  as  filariasis  affects  primarily  persons  of  the lowest socioeconomic levels. Host genetics may be important in susceptibility and development of lymphatic filariasis, but more research is needed.
+
+============================================================
+CHUNK 6
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Wuchereria bancrofti , B. malayi and B. timori have five morphologically distinct stages of their  lifecycle (Fig. 1 10.2). The first stage larvae or microfilariae  are  released  from  fecund  adult  female  worms  that release  up  to  10,000  microfilariae  per  day,  which  circulate  in  the blood. Microfilariae are approximately 250 μ m long and 10 μ m wide and  have  an  acellular  sheath.  Microfilariae  of W.  bancrofti and B. malayi differ  morphologically based on the pattern of nuclei in the caudal  and  cephalic  regions.  Microfilariae  are  most  abundant  in the circulation at night (nocturnal periodicity), and during the day the microfilariae sequester in the deep vascular beds. This periodicity is  thought  to  prolong  the  survival  of  microfilariae  (~9  months) and  result in  high levels of microfilaria in some  individuals (e.g. > 10,000/ml).
+
+============================================================
+CHUNK 7
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Microfilariae are ingested by mosquitos and exsheath following the blood  meal,  penetrate  the  mosquito  gut  wall  and  migrate  to  the mosquito's thoracic muscle where they grow and undergo two molts to infective third-stage larvae (L3) in 10-14 days. L3 larvae migrate to the  mouthparts  of  the  mosquitos  where  they  are  deposited  in  the dermis during feeding. The L3 actively enter the feeding site, migrate to the local lymphatics where they quickly molt to L4 stage larvae and then  migrate  centrally  in  the  lymphatic  systems  to  develop  into sexually-mature, adult worms at 6-9 months. Adult worms are long, thread-like organisms, hence the name filariae,  with female worms ranging from 40-100 mm and males 20-40 mm in length. A striking feature of adult worms is the ability to cause massive dilation of the surrounding and proximal lymphatics, indicating release and/or stimulation  of  potent  lymphangiogenic  factors  by  adult  worms.  This lymphatic dilation leads to lymphatic valvular dysfunction and the inability to remove interstitial fluid and lymphedema. Death of adult worms and associated inflammation (acute filarial lymphangitis) can accelerate the process of lymphatic dysfunction. Although treatment can reverse some of the dysfunction, there is often persisting damage, putting an individual at risk for bacterial super-infections. The type, and extent of, overt clinical disease is related to where adult worms accumulate. Large numbers of adults appear to accumulate in lymphatics draining the lower extremities (inguinal and obturator lymphatics), axillary nodes in the upper extremities and, for W. bancrofti in men, in the lymphatics draining the spermatic cord, epididymis and tunica vaginalis surrounding the testis.
+An important characteristic of W. bancrofti and Brugia species is the presence  of  an  obligate  intracellular  bacterial  endosymbiont, Wolbachia.  Wolbachia parasites  support  essential  biochemical  pathways
+necessary for the parasite survival especially for embryogenesis and molting that is critical for transition from one parasite stage to another [10, 1 1].
+
+============================================================
+CHUNK 8
+============================================================
+CLINICAL FEATURES
+The clinical expression of lymphatic filariasis varies from subclinical infection to pronounced chronic manifestations. The three species of parasite  cause  similar  signs  and  symptoms,  although  urogenital disease and chyluria do not occur with Brugia infection.
+
+============================================================
+CHUNK 9
+============================================================
+SUBCLINICAL INFECTION
+Most infected persons are asymptomatic, despite circulating microfilariae or filarial antigen in the peripheral blood [12]. Although they may be clinically asymptomatic, infected individuals have underlying lymphatic damage [13, 14]. Microscopic hematuria or proteinuria are also found in infected persons [15].
+
+============================================================
+CHUNK 10
+============================================================
+ACUTE MANIFESTATIONS
+Infected persons may exhibit acute manifestations, particularly acute filarial  lymphangitis  (AFL)  and  acute  dermatolymphangioadenitis (ADLA). AFL involves acute inflammation of a lymphatic vessel that progresses distally along the vessel and is thought to be caused by the death of the adult worm [16]. Patients usually give a history of pain, erythema and tenderness in the affected lymph node region for hours or a day prior to the onset of lymphangitis. Localized inflammatory nodules in breast, scrotum or subcutaneous  tissues have also been reported.
+ADLA is a separate and clinically distinct syndrome that is caused by bacterial infection of the small collecting lymphatic vessels in areas of lymphatic dysfunction [16, 17]. Unlike true filarial lymphangitis, this syndrome develops in a reticular rather than a linear pattern and is more commonly associated with severe pain, fever and chills. There is often a history of injury to the skin, such as trauma, insect bites or interdigital  fungal  infections.  ADLA  is  often  diagnosed  as  cellulitis and symptoms can last 3-15 days.
+The adenolymphangitis of brugian filariasis (both B.  malayi and B. timori )  is  more  distinct,  more  dramatic  and  more  destructive.  In brugian filariasis, a single local abscess can form along the lymphatic tract, most often in the inguinal area, but sometimes in the axillae. These can suppurate and form sterile abscesses that often leak lymph before healing with a characteristic scar (Fig. 1 10.3).
+FIGURE 110.3 Clean-based  ulcer  resulting  from  the  rupture  of  a  3larial abscess (courtesy of Dr David Dennis).
+
+============================================================
+CHUNK 11
+============================================================
+CHRONIC MANIFESTATIONS
+It  is  estimated that  of the  120 million persons infected worldwide, approximately one-third, or 40 million, have some form of clinicallyovert disease; 25 million with hydrocele and 15 million with lymphedema or elephantiasis.
+
+============================================================
+CHUNK 12
+============================================================
+GENITAL MANIFESTATIONS
+In many endemic areas, the most common chronic manifestation of lymphatic filariasis caused by W. bancrofti is hydrocele. Other forms of genital disease including epididymitis, orchitis, funiculitis, lymphedema of the scrotum and vulvar lymphedema have also been noted [18, 19]. (Figs 1 10.4 and 1 10.5). The pathogenesis of filarial hydrocele is thought to be as a result of lymphatic damage caused by living adult W. bancrofti . In filariasis-endemic areas, clinically-apparent hydrocele may actually be chylocele, resulting from rupture of dilated intrascrotal  lymphatic  vessels  and  leakage  of  lymph  into  the  cavity  of  the testicular  tunica  vaginalis  [20].  Hydroceles  can  become  quite  large (over 30 cm in diameter) and inguinal lymph nodes may be enlarged.
+FIGURE  110.4 Man  from  the  Democratic  Republic  of  the  Congo  with bilateral  3larial  hydrocele  progressing  to 'hanging-groin' (courtesy  of  Dr Tony Ukety).
+FIGURE 110.5 Hydrocele  is  the  most  common  manifestation  of  clinical 3lariasis  in  males,  necessitating  mandatory  genital  examination  in  all patients. Straw-colored hydrocele 4uid is non-in4ammatory and generally without micro3lariae. Therapeutic drainage is discouraged, as 4uid rapidly re-accumulates.
+FIGURE  110.6 Filarial  elephantiasis  showing  nodular  and  verrucous changes of the skin (courtesy of Mr Jonathan Rout, Church's Auxiliary for Social Action, Bhubaneswar, India).
+Men with lymphedema of the scrotum can have rupture of dilated lymphatic  vessels  in  the  scrotal  wall  with  oozing  of  lymph  to  the exterior. Genital manifestations of lymphatic filariasis occur only with W. bancrofti infection.
+
+============================================================
+CHUNK 13
+============================================================
+LYMPHEDEMA AND ELEPHANTIASIS
+Lymphedema  is  a  common  chronic  manifestation  of  lymphatic filariasis  and  occurs  in  the  legs,  scrotum,  penis,  breast  and  arms. Disease is more prevalent in the lower extremities, where assymetrical involvement is common. In bancroftian filariasis, lymphedema may involve the entire limb, whereas in brugian filariasis, the swelling is restricted to the distal extremities below the knee or elbow.
+Grading  systems,  describe  the  severity  of  lymphedema.  The  World Health Organization (WHO) classification consists of four grades:
+Grade I: pitting edema that is reversible upon elevation of the extremity;
+Grade II: non-pitting edema that is not reversible upon elevation of the extremity;
+Grade III: non-pitting edema that is not reversible with elevation associated with thickened skin or skin folds;
+Grade IV: non-pitting edema with fibrotic and papillomatous skin  lesions  and  the  presence  of  skin  folds  (elephantiasis) (Fig. 1 10.6) [21].
+Another grading (staging) system has been proposed containing seven categories and providing a more refined description of lymphedema stage  based  on  depth  of  skin  folds  and  types  of  papillomatous lesions [22].
+Reversible  episodes  of  lymphedema  of  the  extremities  progress  to elephantiasis  in  the  distribution  of  the  affected  lymphatics  over  a period of years. Factors involved include: repeated attacks of ADLA [20]; the intensity of filarial transmission within a population [23]; and the  presence  of Wolbachia [10].  ADLA  episodes  originate  from breaks  in  the  epidermis  and  contribute  to  lymph  stasis,  secondary bacterial infection and fibrosis.
+In Brugia infection,  insidious  onset  of  chronic  lymphedema  or elephantiasis is less common than in bancroftian filariasis. Sclerotic, cordlike lymphatics and enlarged firm nodes of the arms and legs are usual.
+
+============================================================
+CHUNK 14
+============================================================
+CHYLURIA
+Chyluria, resulting from rupture of dilated retroperitoneal lymphatic structures into the renal pelvis, is a rare, but serious, manifestation of lymphatic filariasis. As a result of loss of chyle, which contains dietary lipids, proteins and vitamins, weight loss and malnutrition can ensue. The  condition  is  painless.  The  frequency  of  chyluria  in  filariasis endemic areas has not been established, but it is lower than lymphedema or hydrocele [24].
+
+============================================================
+CHUNK 15
+============================================================
+TROPICAL PULMONARY EOSINOPHILIA
+Tropical pulmonary eosinophilia (TPE) is a distinct clinical entity that results from W. bancrofti or B. malayi infection [25]. Most cases have been reported in long-term residents from India, although there are cases from Pakistan, Sri Lanka, Brazil, Guyana and Southeast Asia. Men aged 20-40 years old are most commonly affected with a male/female ratio of 4:1. The pathogenesis of TPE is postulated to result from an exaggerated allergic type hypersensitivity response to microfilariae as they migrate through the pulmonary blood vessels. TPE is characterized by a paroxysmal, nonproductive cough (which is more severe at night),  wheezing,  low-grade  fever,  adenopathy,  generalized  malaise and weight loss, accompanied by pronounced peripheral blood eosinophilia  ( > 3000  cells/mm 3 ),  elevated  serum  IgE  ( > 10,000 ng/ml), and elevated antifilarial antibody titers. Typically, peripheral microfilaremia  is  absent  in  patients  with  TPE.  Chest  radiographs  can  be normal or show diffuse small (1-3 mm in diameter) interstitial or reticulonodular infiltrates with increased bronchovascular markings. Pulmonary  function  tests  show  restrictive  abnormalities,  although obstructive defects can be seen. Treatment with diethylcarbamazine provides symptomatic improvement with decreases in eosinophilia and serum IgE. In advanced, untreated cases, the disease can progress to chronic restrictive lung disease with diffuse interstitial fibrosis. [26]
+
+============================================================
+CHUNK 16
+============================================================
+LYMPHATIC FILARIASIS IN EXPATRIATES AND TRAVELERS
+AFL has been well documented in travelers to endemic areas. Two-tosix  months  after  exposure,  acute  inflammation  develops  in  a  lymphatic vessel and its associated lymph nodes, most frequently in the leg, scrotal area or arm. Characteristically, the inflammation progresses distally along the lymphatic vessel, which becomes indurated, tender and  erythematous,  and  resolves  spontaneously  within  3-7  days. Because  biopsies  reveal  intense  inflammation  and  nonliving  adult worms, acute filarial lymphangitis is thought to be caused by the death of the adult worm [20]. The risk of developing chronic manifestations of  lymphatic filariasis  for  the  traveler  is  very  low,  as  the  parasite  is inefficiently transmitted to humans by infected mosquitoes [6].
+
+============================================================
+CHUNK 17
+============================================================
+PATIENT EVALUATION
+The diagnosis of lymphatic filariasis depends on the appropriate epidemiologic history, clinical findings and laboratory tests. Acquisition of  filarial  infection  requires  prolonged  exposure,  generally  greater than three months, in a filariasis endemic area. While most infected individuals  are  clinically  asymptomatic,  a  clinical  diagnosis  can  be made in those with acute episodic adenolymphangitis, hydrocele or irreversible lymphedema. Eosinophilia is inconsistent in individuals with long-standing exposure and infection. In children, filarial lymphadenopathy is seen commonly [8, 27]. Adult worms can be detected by ultrasonography of the inguinal, crural and axillary lymph nodes, and vessels of infected children [14].
+
+============================================================
+CHUNK 18
+============================================================
+DIAGNOSIS
+A  definitive  diagnosis  requires  detection  of  the  parasite,  parasite antigen or parasite DNA. The standard for diagnosis is microscopic detection of microfilariae on a thick blood film with Giemsa or hematoxylin staining (Fig. 1 10.7), but filtration of 1-5 ml of blood through
+FIGURE 110.7 Micro3laria of W. bancrofti on a thick blood 3lm stained with hematoxylin (courtesy of Dr Mark L. Eberhard, Division of Parasitic Diseases and Malaria, Centers for Disease Control and Prevention, Atlanta, GA, USA).
+a  3-5μ m  nucleopore  filter  or  centrifugation of fluid fixed in 2% formalin  (Knott's  concentration  technique)  are  more  sensitive methods  [28].  Diagnostic  sampling  must  take  into  account  the periodicity of microfilaria. For example, microfilaria of W.  bancrofti circulate at highest concentration at night; therefore, blood specimens should be collected between 22.00 h and 02.00 h. Microfilaria can be found  in  blood,  hydrocele  fluid  and,  occasionally,  in  other  fluids, such  as  urine.  Microfilariae  of  the  three  species  are  distinguished morphologically.
+Other tests may be helpful in individuals who do not have microfilaremia. Assays that detect circulating W. bancrofti antigen, primarily from the adult worm, are available and allow diagnosis of both microfilaremic and amicrofilaremic infections, even in the daytime blood of those with nocturnally-periodic microfilariae. Two assays for circulating antigens exist, an ELISA [29] and a rapid-format immunchromatographic  card  test  [30].  Both  assays  have  high  sensitivity  and specificity,  but  are  not  currently  Food  and  Drugs  Administration (FDA)-approved for diagnosis of filariasis in the USA. There are currently no tests for circulating antigens in brugian filariasis.
+
+============================================================
+CHUNK 19
+============================================================
+DIAGNOSIS
+Antibody-based  assays  have  suffered  from  poor  specificity  as  they cannot distinguish among the filarial parasites that  infect  humans. Improvements have been made with the detection of antifilarial IgG4, which  cross-reacts  less  with  other  nonfilarial  helminthes  [31].  Elevated antifilarial IgG4 levels indicate active filarial infection. Speciesspecific recombinant antigens have also been developed for brugian and  bancroftian  filariasis  [32].  In  addition,  a  rapid  dipstick  has been developed for the detection of B. malayi infection in endemic areas [33].
+PCR-based assays to detect W. bancrofti and B. malayi in  blood may be available in research laboratories [34, 35].
+Adult worms localized in lymphatic vessels or lymph nodes have been found in pathologic specimens [27]. Examination of superficial lymphatics of the extremities and female breast or the intrascrotal lymphatics in men using high-frequency ultrasound in conjunction with Doppler  techniques  has  demonstrated  motile  adult  worms  within dilated  lymphatics,  termed  the  filaria  dance  sign  [36-39].  Filarial worms have been visualized in the intrascrotal lymphatics in up to 85% of infected men [38]. Ultrasonography has also been used to visualize the adult worms of children [40, 14]. Radionuclide lymphoscintigraphic imaging of the extremities has demonstrated lymphatic dilatation and dysfunction in both asymptomatic persons and those with lymphedema [13].
+
+============================================================
+CHUNK 20
+============================================================
+DIFFERENTIAL DIAGNOSIS
+The differential diagnosis  varies based on the  clinical  presentation. Bacterial infection, thrombophlebitis or trauma can be mistaken for acute filarial adenolymphangitis. Filarial lymphangitis is retrograde, which helps differentiate it from bacterial lymphangitis. Tuberculosis, leprosy,  sarcoidosis  and  other  systemic  granulomatous  diseases may be confused with filarial disease. Chronic lymphedema can be caused by malignancy, postoperative changes, congenital malformations or a hereditary form of lymphostasis (Milroy's disease), as well as renal or cardiac failure. Physical examination cannot distinguish a filarial  from  a  nonfilarial  cause  of  lymphedema  or  elephantiasis. A foreign  body  reaction  to  silica  dust  introduced  into  traumatized legs, termed podoconiosis, accounts for elephantiasis in some parts of the world.
+Patients with filarial lymphedema are often amicrofilaremic, so that diagnosis depends on the epidemiologic and clinical history as well as the physical examination and can be supported by positive serology. In cases of orchitis and epididymitis, sexually transmitted infections  must  be  considered.  For  tropical  pulmonary  eosinophilia,  a failure  to  respond  to  DEC  treatment  should  suggest  an  alternative diagnosis.
+
+============================================================
+CHUNK 21
+============================================================
+TREATMENT
+Diethylcarbamazine (DEC, 6 mg/kg per day for 12 days for a total dose  of  72 mg/kg  or  single-dose  DEC  at  6 mg/kg)  is  the  recommended  treatment  for  active  lymphatic  filariasis  (antigen  and/or microfilaremia positive, adults worms by ultrasound). DEC is active against both the microfilaria and adult worms, although treatment may not kill all adult worms. Infected individuals, particularly those with parasitemia, are at increased risk for adverse reactions from DEC treatment.  Reactions  are  associated  with  the  rapid  killing  of  adult worms, which can lead to scrotal pain in men or acute lymphangioadenitis with nodules containing dying worms. Rapid killing of microfilariae  induces  systemic  inflammation,  most  likely  from  release Wolbachia antigens.  To  reduce this risk of side  effects, an escalating dose of DEC can be used. Alternatively, individuals can be pretreated with 1-3 days of oral steroids, depending on the intensity of infection as most severe reactions occur within the first 48 hours.
+The mechanism of action of DEC is still not completely understood, but it results in the sequestration of microfilariae and their eventual destruction by the immune system, and is dependent on inducible nitric oxide synthase and cyclooxygenase. It is important to exclude co-infections with onchocerciasis and loiasis. Co-infections are most likely to occur in areas of west and central Africa, but not in Asia or the  Pacific  regions.  Treatment  with  DEC  can  cause  rapid  death  of Onchocerciasis  volvulus microfilaria  in  the  skin  (or  eye),  resulting  in severe skin and eye reactions. High levels of circulating microfilaria from Loa loa have been associated with severe systemic reactions and even death with DEC treatment.
+
+============================================================
+CHUNK 22
+============================================================
+TREATMENT
+Other  drugs  are  effective  against W.  bancrofti and Brugia species. Albendazole  inhibits  the  polymerization  of  worm β -tubulin  and microtubule formation. A single dose of 400 mg decreases W. bancrofti microfilaraemia for 6-12 months and when it is used in combination  with  diethylcarbamazine  (or  ivermectin),  the  numbers  of microfilaria are reduced for a longer length of time than after a single dose of DEC. A combined dose of DEC (6 mg/kg daily) plus 400 mg daily of albendazole is likely to kill adult worms more rapidly than DEC alone and the combination could shorten the duration of DEC therapy, although this has not been tested.
+Ivermectin  is  highly  active  against  microfilaria,  and  contributes  to sterilization of adult worms, but does not kill them. It acts by hyperpolarization of glutamate-sensitive channels and was shown to block the  contractile  activity  of  the  excretory/secretory  vesicle  [41].  As  a result,  molecules that may modulate the immune response are not released,  leaving  the  microfilaria  susceptible  to  host  killing  near
+release from adult worms rather than in the peripheral circulation or skin  in  onchocerciasis.  There  are  less  adverse  reactions  in  subjects co-infected with onchocerciasis.
+
+============================================================
+CHUNK 23
+============================================================
+TREATMENT
+As Wolbachia are essential for W. bancrofti and Brugia spp. treatment with a course lasting 4, 6 or 8 weeks of a doxycycline, 200 mg daily, results  in  long-term  sterility  and  eventual  death  of > 90% of  adult worms [42]. This slow death of worms is an advantage as it leads to fewer side effects compared with more rapidly-acting drugs like DEC. Shorter courses of doxycycline do not kill most adult worms, except in a recent study showing that three weeks of doxycycline followed by a single dose of DEC (6 mg/kg) had similar efficacy [43] to 4 weeks or more of doxycycline. There is evidence that antiWolbachia therapy leads to improvements in lymphatic pathologic features and decreased severity of lymphoedema and hydrocele [44]. The disadvantages of doxycycline are that it is contraindicated in children < 9 years of age and  in  pregnant  or  breastfeeding  women.  Therefore,  a  four-week course of doxycycline could be considered in the appropriate patient. More  potent  drugs  are  needed  to  kill  adult  worms.  Flubendazole, which  is  related  to  albendazole,  is  highly  effective  in  killing  adult worms; however, in its current formulation,  it cannot  be  absorbed from the gut and is under further development.
+
+============================================================
+CHUNK 24
+============================================================
+PREVENTION AND CONTROL
+There is no specific  recommendation for prevention of W. bancrofti and Brugia spp. infection for the traveler or short-term residents other than bed nets and/or topical mosquito repellants, as transmission is inefficient  and  infections  require  many  months,  or  even  years,  to acquire. In 2000, a global program to eliminate lymphatic filariasis (GPELF) by 2020 was launched. The main goal of GPELF is to break the cycle of transmission of disease between mosquitoes and human beings, mainly through mass drug distribution of diethylcarbamazine or ivermectin combined with albendazole. This program has distributed  over  2.4  billion  doses  of  drugs  in  more  than  60  countries endemic for lymphatic filariasis. The increased use of bed nets as part of a worldwide malaria control program will also have a substantial impact on transmission of lymphatic filariasis as the two infections are  often  co-endemic  and  often  share  the  same  mosquito  vectors. Hopefully, in several decades, lymphatic filariasis will be a disease of historical interest;  however, there remain tremendous challenges to attain this goal.
+
+============================================================
+CHUNK 25
+============================================================
+REFERENCES
+1. Taylor MJ, Hoerauf A, Bockarie M. Lymphatic filariasis and onchocerciasis. Lancet 2010;376:1175-85.
+2. World  Health  Organization.  Global  Programme  to  Eliminate  Lymphatic Filariasis (GPELF) Progress Report 2000-2009 and Strategic Plan 2010-2020. Geneva: World Health Organization; 2010:6-8.
+3. Merelo-Lobo AR, McCall PJ, Perez MA, et al. Identification of the vectors of lymphatic filariasis in the Lower Shire Valley, southern Malawi. Trans R Soc Trop Med Hyg 2003;97:299-301.
+4. Ramaiah KD, Das PK. Seasonality of adult Culex quinquefasciatus and transmission  of  bancroftian  filariasis  in  Pondicherry,  south  India.  Acta  Trop 1992;50:275-83.
+5. Chang MS. Operational issues in the control of the vectors of Brugia. Ann Trop Med Parasitol 2002;96:S71-S76.
+6. Lipner EM, Law MA, Barnett E, et al. Filariasis in travelers presenting to the GeoSentinel Surveillance Network. PloS Negl Trop Dis 2007;1:e88.
+7. O'Conner FW. Filarial periodicity with observations and on the mechanisms of migration of the microfilariae and from parent worm to the blood stream. PR Public Health Trop Med 1931;6:263.
+8. Witt  C,  Ottesen  EA.  Lymphatic  filariasis:  An  infection  of  childhood.  Bull World Health Org 2001;6:582-606.
+9. Malhotra I, Ouma JH, Wamachi A, et al. Influence of maternal filariasis on childhood infection and immunity to Wuchereria bancrofti in Kenya. Infect Immun 2003;71:5231-7.
+10. Hise AG, Gillette-Ferguson I, Pearlman E. The role of endosymbiotic Wolbachia bacteria in filarial disease. Cell Microbiol 2004;6:97-104.
+
+============================================================
+CHUNK 26
+============================================================
+REFERENCES
+11. Rajan  TV.  Relationship  of  anti-microbial  activity  of  tetracycline  to  their ability  to  block  the  L3  and  L4  molt  of  the  human  filarial  parasite Brugia malayi . Am J Trop Med Hyg 2004;71(1):24-8.
+12. Ottesen EA. Infection and disease in lymphatic filariasis-an immunological perspective. Parasitology 1992;104:571.
+13. Shenoy RK, Suma TK, Kumaraswami V, et al. Lymphoscintigraphic evidence of lymph vessel dilation in the limbs of children with Brugia malayi infection. J Commun Dis 2008;40:91-100.
+14. Fox  LM,  Furness  BW,  Haser  JK,  et  al.  Ultrasonographic  examination  of Haitian children with lymphatic filariasis: a longitudinal assessment in the context of antifilarial drug treatment. Am J Trop Med Hyg 2005;72:642-8.
+15. Dreyer G, Ottesen EA, Galdino E, et al. Renal abnormalities in microfilaremic patients with Bancroftian filariasis. Am J Trop Med Hyg 1992;46:745-51.
+16. Dreyer G, Medeiros Z, Netto  MJ, et  al.  Acute  attacks  in  the  extremities  of persons living in an area endemic for bancroftian filariasis: Differentiation of two syndromes. Trans Roy Soc Trop Med Hyg 1999;93:413-17.
+17. Olszewski WL, Jamal S, Manokaran G, et al. Bacteriologic studies of blood, tissue fluid, lymph, and lymph nodes in patients with acute dermatolymphangioadenitis (DLA) in course of 'filarial' lymphedema. Acta Trop 1999; 73:217-24.
+18. Aguiar-Santos AM, Leal-Cruz M, Netto MJ, et al. Lymph scrotum: an unusual urological presentation of lymphatic filariasis. A case series study. Rev Inst Med Trop Sao Paulo 2009;51:179-83.
+
+============================================================
+CHUNK 27
+============================================================
+REFERENCES
+19. Adesiyun AG, Samaila MO. Huge filarial elephantiasis vulvae in a Nigerian woman with subfertility. Arch gynecol Obstet 2008;278:597-600.
+20. Dreyer G, Noroes J, Figueredo-Silva J, et al. Pathogenesis of lymphatic disease in  bancroftian  filariasis:  A  clinical  perspective.  Parasitol  Today  2000;16: 544-8.
+21. World Health Organization. Informal consultation on evaluation of morbidity  in  lymphatic  filariasis.  WHO/TDR/FK/92.31.  Geneva:  World  Health Organization; 1992.
+22. Dreyer G, Addiss DG, Dreyer P, Norõ es J. Basic lymphoedema management: Treatment and prevention of problems associated with lymphatic filariasis. Hollis: Hollis Publishing Co.; 2002.
+23. Kazura JW, Bockarie M, Alexander N, et al. Transmission intensity and its relationship  to infection and disease due to Wuchereria bancrofti in  Papua New Guinea. J Infect Dis 1997;176:242-6.
+24. Dreyer G, Mattos D, Noroes J. Chyluria. Rev Assoc Med Bras 2007;53:460-4.
+25. Ottesen EA, Nutman TB. Tropical pulmonary eosinophilia. Annu Rev Med 1992;43:417-24.
+26. Rom WN, Vijayan VK, Cornelius MJ, et al. Persistent lower respiratory tract inflammation associated with interstitial lung disease in patients with tropical pulmonary eosinophilia following conventional treatment with diethylcarbamazine. Am Rev Respir Dis 1990;142:1088-92.
+27. Figueredo-Silva  J,  Dreyer  G.  Bancroftian  filariasis  in  children  and  adolescents: clinical-pathological observations in 22 cases from an endemic area. Ann Trop Med Parasitol 2005;99:759-69.
+28. Eberhard ML, Lammie PJ. Laboratory diagnosis of filariasis. Clin Lab Med 1991;11:977-1010.
+
+============================================================
+CHUNK 28
+============================================================
+REFERENCES
+29. More SJ, Copeman DB. A highly specific and sensitive monoclonal antibodybased ELISA for the detection of circulating antigen in bancroftian filariasis. Trop Med Parasitol 1990;41:403-6.
+30. Weil GJ, Lammie PJ, Weiss N. The ICT Filariasis Test: a rapid-format antigen test for diagnosis of bancroftian filariasis. Parasitol Today 1997;13:401-4.
+31. Lal RB, Ottesen EA. Enhanced diagnostic specificity in human filariasis by IgG4 antibody assessment. J Infect Dis. 1988;158:1034-7.
+32. Lammie PJ, Weil G, Rahmah N, et al. Recombinant antigen-based antibody assays  for  the  diagnosis  and  surveillance  of  lymphatic  filariasis-a  multicenter trial. Filaria J 2004;3:9.
+33. Rahmah N, Taniawati S, Shenoy RK, et al. Specificity and sensitivity of a rapid dipstick test (Brugia Rapid) in the detection of Brugia malayi infection. Trans R Soc Trop Med Hyg 2001;95:601-4.
+34. Kanjanavas P, Tan-ariya P, Khawak P, et al. Detection of lymphatic Wuchereria bancrofti in  carriers  and  long-term  storage  of  blood  samples  using  seminested PCR. Mol Cell Probes 2005;19:169-72.
+35. Kluber S, Supali T, Williams SA, et al. Rapid PCR-based detection of Brugia malayi DNA from blood spots by DNA detection test strips. Trans R Soc Trop Med Hyg 2001;95:169-70.
+36. Amaral F, Dreyer G, Figueredo-Silva J, et al. Live adult worms detected by ultrasonography  in  human  bancroftian  filariasis.  Am  J  Trop  Med  Hyg 1994;50:753-7.
+37. Dreyer  G,  Brandao  AC,  Amaral  F,  et  al.  Detection  of  ultrasound  of  living adult Wuchereria  bancrofti in  the  female  breast.  Mem  Inst  Oswaldo  Cruz 1996;91(1):95-6.
+
+============================================================
+CHUNK 29
+============================================================
+REFERENCES
+38. Dreyer  G,  Santos  A,  Noroes  J,  et  al.  Ultrasonographic  detection  of  living adult Wuchereria bancrofti using a 3.5-MHz transducer. Am J Trop Med Hyg 1998;59:399-403.
+39. Mand S, Marfo-Debrekyei Y, Dittrich M, et al. Animated documentation of the filaria dance sign (FDS) in bancroftian filariasis. Filaria J 2003;2:3.
+40. Dreyer  G,  Noroes  J,  Addiss  D,  et  al.  Bancroftian  filariasis  in  a  paediatric population:  An  ultrasonographic  study.  Trans  Roy  Soc  Trop  Med  Hyg 1999;93:633-6.
+41. Moreno Y, Nabhan JF, Solomon J, et al. Ivermectin disrupts the function of the excretory-secretory apparatus in microfilariae of Brugia malayi . Proc Natl Acad Sci USA 2010;107:20120-5.
+42. Taylor MJ, Makunde WH, McGarry HF, et al. Macrofilaricidal activity after doxycycline treatment of Wuchereria bancrofti :  a  double-blind, randomised placebo-controlled trial. Lancet 2005;365:2116-21.
+43. Supali  T,  Djuardi  Y,  Pfarr  KM,  et  al.  Doxycycline  treatment  of Brugia malayi -infected persons reduces microfilaremia and adverse reactions after diethylcarbamazine  and  albendazole  treatment.  Clin  Infect  Dis  2008;46: 1385-93.
+44. Debrah AY, Mand S, Specht S, et al. Doxycycline reduces plasma VEGF-C/ sVEGFR-3  and  improves  pathology  in  lymphatic  fi  lariasis.  PLoS  Pathog 2006;2:e92.
+

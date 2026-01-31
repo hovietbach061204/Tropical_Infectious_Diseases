@@ -1,0 +1,107 @@
+============================================================
+CHUNK 0
+============================================================
+67
+
+============================================================
+CHUNK 1
+============================================================
+KEY FEATURES
+- affected by rat and |ea population and climate.
+- vasculitis.
+- rash.
+- elevation, hypoalbuminemia.
+- complications and mortality.
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+Murine  typhus,  also  referred  to  as endemic  typhus, is  an  acute zoonotic infection  caused by Rickettsia  typhi, an  obligate,  intracellular,  gram-negative  bacterium. 1-3 Humans  are  infected  by inoculation of infective rats' |ea feces into the |ea bite site. 1,2,4 The disease is widely distributed in tropical and sub-tropical areas, particularly in port cities and coastal regions with rodents. 1,4 The true incidence of this infection is dif{cult to establish because of the non-speci{c clinical presentation leading to frequent misdiagnosis. 1,3,4 Most cases are mild with the death rate being generally low. 1,3 Reduction of human cases is brought about by the control of rat populations and their ectoparasites. 4
+
+============================================================
+CHUNK 3
+============================================================
+EPIDEMIOLOGY
+The primary  reservoirs  of R.  typhi are  commensal  rats,  mainly Rattus rattus and R. norvegicus, but various rodents and other wild and domestic animals have been reported to act as hosts. 5,6 The main  vectors  are  the  rat  |ea  ( Xenopsylla  cheopis )  or  the  cat  |ea ( Ctenocephalides  felis )  but  lice  ( Pediculus  humanus,  Polyplax lice), bloodsucking mites of rats, and ticks are also reported to be capable of transmitting R. typhi . 7,8 R. typhi is acquired by |eas while feeding on rickettsemic vertebrate hosts. The organism infects the midgut epithelium of the |ea and is shed in the feces, where it is transmitted to humans by the inoculation of R. typhi -laden |ea feces onto |ea bite  wounds  through  scratching  or  through  rubbing  mucous membranes. 9,10 The typical urban cycle of R. typhi, which generally occurs  in  metropolitan  areas,  involves  the  urban  rats  and  their |eas. An alternative cycle of transmission, referred to as the suburban cycle, involves opossums and cat |eas. 9,11
+Murine typhus has been reported on every continent (except 7 northern countries in travelers who visited endemic areas. 5 Most of the reported human cases have been associated in sites with large rat populations. There is a seasonal incidence, which appears to be correlated with the abundance of the vector |eas, which is in late
+
+============================================================
+CHUNK 4
+============================================================
+Murine Typhus
+Achilleas Gikas, Meropi Gkika summer and early autumn. 11 Well-established prevalence data are lacking  because  the  disease  is  rare  and  usually  neglected,  yet seroprevalence studies continue to demonstrate the disease in many locations and have implicated murine typhus as the causative agent in increasingly large proportions of patients with febrile illness. 7
+
+============================================================
+CHUNK 5
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Rickettsiae over time have undergone considerable evolutionary genome  reduction  as  they  have  adapted  to  their  intracellular niche resulting in a gain of virulence. 2,5 Human endothelial cells bordering the small- and medium-sized vessels are the preferred major  targets  of  rickettsiae. 12 After  the  entry  of  the  organism through the skin and infection of cutaneous phagocytic cells, the bacteria are likely transported via lymphatic vessels to the draining lymph  nodes  where  they  replicate  and  subsequently  enter  the bloodstream, disseminate hematogenously, and infect endothelial cells. 10 R. typhi adhere to endothelial cells through outer membrane proteins  and enter the  cell  through induced  phagocytosis. The bacteria then disrupt the phagosomal membranes and gain access to host cytosol. 12 The mechanisms by which rickettsia escape the phagosome and establish a successful intracellular infection are not fully understood. 12 However, it is well described that the induced endothelial cell activation and dysfunction lead to endothelial injury with increased vascular permeability resulting in manifestations referred  to  as rickettsial  vasculitis (rash,  interstitial  pneumonia, meningoencephalitis, disseminated intravascular coagulation, and  multi-organ  failure), 2,10,12 with  perivascular  in{ltration  of lymphocytes, macrophages, plasma, and mast cells. 4
+
+============================================================
+CHUNK 6
+============================================================
+CLINICAL FEATURES
+Murine typhus is generally considered mild, many cases are undiagnosed, and therefore it is likely vastly under-recognized. 10 Incubation period varies from 7 to 14 days. 13 The disease is characterized by the abrupt onset of fever with commonly accompanying headache, myalgia, chills, and malaise. 7,9,14 Rash, can occur in 50% 9 and is usually macular or maculopapular with a centrifugal spread over the trunk, seldom noted on palms and soles. 7,9,10,14 Every organ can  be  involved,  and  the  clinical  spectrum  includes  symptoms and  signs  of  arthralgia,  cough,  pneumonitis,  nausea/vomiting, anorexia, spleen/liver enlargement, and abdominal pain. 7,9,11,14 The clinical course can be complicated with pulmonary involvement (interstitial in{ltrations and pleural effusions), acute respiratory distress syndrome, central nervous system involvement (confusion, stupor, coma, aseptic meningitis, encephalitis), renal failure, deafness, deep venous thrombosis, disseminated intravas  cular coagulation, hematophagocytic syndrome, myocarditis, and hypovolemic shock. 1,11,13,14 Elderly patients and those with glucose-6-phosphate dehydrogenase  de{ciency  are  at  higher  risk of developing complications. 1,15 In  untreated  patients,  clinical  manifestations last for 7 to 14 days. 16 The reported case fatality rate is between 0.5% and 4%. 7,9,11
+
+============================================================
+CHUNK 7
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+The clinical diagnosis relies on clinical suspicion along with the patient's  signs  and  symptoms.  History  of  possible  exposure  to
+TABLE 67.1 Principal Treatment Regimens for Murine Typhus in Adults
+
+Doxycycline, Dosage and Duration = Adults: 100 mg orally or intravenously twice daily 17 Duration 7 days or ≥ 3 days after defervescence 9,17 Single dose of 200 mg has also been shown to be effective 25. Doxycycline, Comments = Drug of choice for nonpregnant adults 7,25 Associated with better outcomes than other regimens 25 Defervescence within 48-72 hours (2.89 days) 9,26 Single dose may be proposed in pregnant women with severe illness 25. Chloramphenicol, Dosage and Duration = 60-75 mg/kg/day orally or intravenously in 4 doses 25 Duration ≥ 3 days after defervescence 10. Chloramphenicol, Comments = Alternative drug when doxycycline is contraindicated but likely less effective 9 Associated with a longer time to defervesce (4.00 days) 9,10,26 Associated with relapses 25 Shown to be effective and may be an alternative treatment in pregnant women (first and second trimester) 17. Fluoroquinolones, Dosage and Duration = Ciprofloxacin: 500 mg twice daily Duration 5-7 days 10 Levofloxacin: 500 mg daily Duration 5-7 days 10. Fluoroquinolones, Comments = Alternative to doxycycline Associated with longer times to defervescence (4.23 days for ciprofloxacin) 9,17,26 Their use has become controversial due to reports of severe forms of illness and unfavourable outcomes 7,10,25
+
+============================================================
+CHUNK 8
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+infected  arthropods,  contact  with  rats  or  domestic  animals,  or travel to an endemic area and supporting data from  laboratory diagnostic assays confer the diagnosis. 10,13,17 The main hematologic {ndings are thrombocytopenia, leukopenia or leukocytosis, anemia, and high erythrocyte sedimentation rate. 7,14,18 -cal  abnormalities are elevated aminotransferases, alkaline phosphatase and total bilirubin, hypoproteinemia, hypoalbuminemia, and hyponatremia. Impaired renal function with mild to moderate proteinuria and hematuria may be also present. 14,18
+The laboratory diagnosis of murine typhus is based on serology, molecular techniques, and cell culture. 19 Cell culture is not timely and requires technical expertise and specialized facilities and thus is used only in reference laboratories. 7,10 The current gold standard for diagnosing murine typhus is the indirect immuno|uorescence titer between the acute- and convalescent-phase sera, separated by  at  least  14  days,  is  considered  to  be  diagnostic.  The  major disadvantages of IFA include poor sensitivity during acute infection, which does not allow for timely diagnosis, and antibody crossreaction within rickettsial groups, which prevents establishing a species-speci{c diagnosis. 2,7,9,13,17 Other serologic  assays  include immunoperoxidase assay, and Western immunoblot. 17 The advantage of Western blot and antigen adsorption is identi{cation of rickettsiae at the species level. 19 If rash is present, rickettsiae can be demonstrated  by  immunohistochemistry  in  rash  lesion  biopsies. 2,7 20 is  a signi{cant tool in detecting rickettsiae in blood, skin biopsies, and arthropods,  offering  the  possibility  of  early  diagnosis  and  also permitting genus and species identi{cation. 11,13
+
+============================================================
+CHUNK 9
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+The differential diagnosis of murine typhus includes epidemic typhus, Rocky Mountain spotted fever, ehrlichiosis, meningococcemia, measles, typhoid fever, bacterial and viral meningitis, viral hemorrhagic fever, secondary syphilis, leptospirosis, toxic shock syndrome, Kawasaki disease, and malaria. 21
+
+============================================================
+CHUNK 10
+============================================================
+PEDIATRIC CONSIDERATIONS
+Main clinical manifestations  are fever, rash, chills, perspiration, anorexia, hepatosplenomegaly, and musculoskeletal symptoms. 22,23 particularly frequent in children. 22,24 Laboratory {ndings include leukopenia, high  erythrocyte sedimentation rate,  and abnormal liver function tests. 23 The disease has a mild course, with median duration 12 days, 23 and complications are infrequent. 22,23
+
+============================================================
+CHUNK 11
+============================================================
+TREATMENT
+Ν o  of{cial  guidelines  for  the  treatment  of  murine  typhus  are available, and the proposed treatment regimens are based on case series  and  experts'  opinions. The  principal  treatment  regimens for murine typhus in adults are illustrated in T able 67.1.
+
+============================================================
+CHUNK 12
+============================================================
+TREATMENT CONSIDERATIONS IN CHILDREN
+Doxycycline is  considered  to  be  safe  for  treatment  of  children aged < 9 years, because the course is usually short, thus limiting the risk of dental staining. 10,17,25 The dosage is 2.2 mg/kg (maximum 100 mg) twice daily for 3 to 7 days. 10,25
+Newer-generation macrolides (clarithromycin and azithromycin) are effective in vitro, and their oral bioavailability and safety in children make them an attractive alternative. 2
+
+============================================================
+CHUNK 13
+============================================================
+PREVENTION
+Currently, no vaccines exist for murine typhus. 7 Infection can be effectively prevented through |ea and rodent control measures. Flea  bite  avoidance  measures  include  wearing  proper  clothing, avoiding infested locations, and using repellents. 7,17 antibiotic treatment is not well assessed and currently cannot be advocated. 7
+
+============================================================
+CHUNK 14
+============================================================
+REFERENCES
+1.  Botelho-Nevers E, Raoult D. Fever of unknown origin due to rick-
+2. and epidemiological {ndings of Rickettsia species. Infect Genet Evol
+3. epidemiology of Rickettsiatyphi, etiological agent of murine typhus.
+- insights into rickettsial pathogenesis and immunity. Future Microbiol
+13.  Theunissen C, Cnops L, Van Esbroeck M, et al. Acute-phase diagnosis of murine and scrub typhus in Belgian travelers by polymerase chain
+- 779-82.
+- -
+- clinical and laboratory features from 41 cases in Crete, Greece. Clin
+- -
+

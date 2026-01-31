@@ -1,0 +1,227 @@
+============================================================
+CHUNK 0
+============================================================
+Key features
+- Cryptosporidiosis is an intestinal infection caused by intracellular protozoan Cryptosporidium species
+- Cryptosporidiosis is a cosmopolitan cause of acute and chronic diarrhea, clinically indistinguishable from many other enteric pathogens, and one of the leading causes of diarrhea globally
+- Speci.c diagnosis requires additional laboratory testing of stool specimens, such as acid-fast staining, compared with other parasites
+- Cryptosporidiosis is a common intestinal infection in AIDS patients causing malabsorption and chronic diarrhea; it can infect the biliary system and respiratory tract. Resolution of the infection requires intact cell-mediated immunity, which in persons with HIV/AIDS often means that highly active anti-retroviral therapy (HAART) must be initiated
+- Cryptosporidiosis is a frequent cause of mortality in persons with AIDS and sometimes malnutrition or other forms of immunosuppression, with death from wasting or dehydration. Testing for this parasite should always be considered in immunocompromised people with diarrhea
+- Most human disease is caused by the human-adapted species Cryptosporidium hominis , but substantial disease is caused by zoonotic Cryptosporidium parvum (often found in young cattle and other herbivores) and occasionally parasite species adapted to other mammals and birds
+- No highly e/ective therapy exists and the form of the parasite involved in transmission is highly resistant to water chlorination. Nitazoxanide is modestly e/ective in immunocompetent persons. Thus, the prevention of infection is critical especially for persons with HIV/AIDS
+- Cryptosporidium can be killed by heating contaminated food or water. Filtration and ultraviolet light disinfection render drinking water safe for consumption
+
+============================================================
+CHUNK 1
+============================================================
+INTRODUCTION
+Human cryptosporidiosis was first  reported  in  1976.  It  is  a  classic diarrheal 'emerging disease' because it has a very low infectious dose, is most severe in immunocompromised populations, is highly resistant to anti-parasitic therapy, has human and nonhuman reservoirs, and can cause major epidemics when public health measures break down. Cryptosporidiosis is most common in developing countries,
+
+============================================================
+CHUNK 2
+============================================================
+Lihua Xiao, Je3rey K Gri2ths
+but  remains  a  significant  pathogen  of  children  and  the  elderly  in industrialized nations, with waterborne, foodborne, person-to-person and zoonotic transmission pathways [1, 2]. It is a common cause of wasting and lethal diarrhea in HIV-infected persons and  acute and persistent diarrhea in children.
+
+============================================================
+CHUNK 3
+============================================================
+EPIDEMIOLOGY
+Cryptosporidium spp. are amongst the most common diarrheal pathogens worldwide. In developing countries ~20% of diarrheic children have cryptosporidiosis [3, 4], contrasting with 1-5% in North America and  Europe.  Infection  usually  occurs  before  2  years  in  the  former [3-5]  and  before  5  years  in  the  latter  [6-8].  Prevalence  is  higher in  rural  areas  [4,  6]  and  during  rainy  seasons  [3-5];  seropositivity increases  with  age,  suggesting  continued  exposure.  Malnutrition [3,  5],  HIV/AIDS  [9]  and  other  immunocompromising  conditions significantly  increase  the  risk,  severity  and  persistence  of  cryptosporidiosis.  It  is  an  AIDS-defining  opportunistic  infection  and  frequently  afflicts  malnourished  children  with  persistent  diarrhea. Cryptosporidiosis-affected children  may  have  impaired growth and cognitive  function  [2],  and  have  multiple  symptomatic  episodes before they acquire partial protective immunity [10].
+Water,  residential  surfaces  and  food  may  be  contaminated  by Cryptosporidiumcontaining feces, and serve as sources of infection, as well as person-to-person transmission where hygienic standards are low [10, 1 1]. In industrialized countries transmission is less frequent, likely because of public health interventions relating to clean food, water treatment and sanitation. Transmission have also been linked to international travel, contact with animals or children with diarrhea, recreational water exposure and multiple sexual partners or anal intercourse [7, 9-12].
+
+============================================================
+CHUNK 4
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Replication of Cryptosporidium only occurs in the gastrointestinal tract of vertebrates. The incubation period ranges from 4 to 10 days after oocyst ingestion (Fig. 91.1) [2, 13]. Excretion of infectious oocysts in feces begins approximately when symptoms begin and may persist for months. The infectious dose is low (10-1000 oocysts); in animal models a single oocyst can cause infection. Unlike many other coccidian parasites, the oocysts of Cryptosporium spp. are immediately infectious  when  they  are  passed  in  stool.  Internal  autoinfection  is common and likely to be responsible for the chronic nature of the disease in immunocompromised people. Cryptosporidium hominis and C. parvum cause ~ 75% and 20% of human disease respectively [1 1, 14]. Cryptosporidium hominis is  more virulent in humans than other species  and  only  infects  humans,  whereas C.  parvum infects  many ruminants, such as cattle and sheep (Fig. 91.1) [14]. Cryptosporidium meleagridis, an avian species, is the third most commonly identified human pathogen.
+The natural history is quite variable (Table 9 1-1). Transient infection may be asymptomatic or symptomatic with diarrhea, which is most
+3
+Contamination of
+
+============================================================
+CHUNK 5
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+FIGURE 91.1 Life  cycle  of Cryptosporidium hominis (upper  panel)  and Cryptosporidium parvum (lower  panel).  Sporulated  oocysts  are  excreted  by  the infected  host  through  feces  (1). Transmission  of C.  parvum and C.  hominis occurs  mainly  through  contact  with  contaminated  water  (e.g.  drinking  or recreational water), food and infected persons (for C. hominis and C. parvum ) or animals (for C. parvum only). Zoonotic and anthroponotic transmission of C. parvum and anthroponotic transmission of C. hominis occur through exposure to infected individuals or water, food, and fomites contaminated by feces of infected animals/persons (2). Humans (for C. hominis and C. parvum ) and animals (for C. parvum ) become infected after ingestion (and possibly inhalation) of oocysts (3). Sporozoites released by oocysts go through several rounds of multiplications in the small intestine and colon and sporulated oocysts are generated and excreted by infected persons or animals. Oocysts are infective upon excretion, thus permitting direct and immediate fecal-oral transmission [reproduced with permission from Laboratory Identi(cation of Parasites of Public Health Concern (DPDx): http://www.dpd.cdc.gov/dpdx/].
+
+============================================================
+CHUNK 6
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Length and severity of illness, Immunocompetent persons in industrialized nations * = Self-limiting illness (mean 12-13 days, median 9-11 days). Length and severity of illness, Immunocompromised persons † = Severe, chronic or intractable illness with increased mortality. Length and severity of illness, Immunocompetent children in developing countries § = Asymptomatic (77%), acute (77% ill children with < 7 days of diarrhea; median 2 days) or chronic illness (9% ill children with > 14 days of diarrhea). Clinical features, Immunocompetent persons in industrialized nations * = Diarrhea (98-100%). Clinical features, Immunocompromised persons † = Diarrhea. Clinical features, Immunocompetent children in developing countries § = Diarrhea. Clinical features, Immunocompetent persons in industrialized nations * = Watery (81-93%) Median maximal No. of stool/day (5-12). Clinical features, Immunocompromised persons † = Chronic (36%) Cholera-like (33%) Transient (15%) Relapsing (15%). Clinical features, Immunocompetent children in developing countries § = Watery (91-96%). Clinical features, Immunocompetent persons in industrialized nations * = Abdominal pain (60-96%). Clinical features, Immunocompromised persons † = Abdominal pain (60-89%). Clinical features, Immunocompetent children in developing countries § = Vomiting (57-71%). Clinical features, Immunocompetent persons in industrialized nations * = Vomiting (48-65%). Clinical features, Immunocompromised persons † = Vomiting (21-37%). Clinical features, Immunocompetent children in developing countries § = Fever (6-37%). Clinical features, Immunocompetent persons in industrialized nations * = Nausea (35-70%). Clinical features, Immunocompromised persons † = Nausea (50-56%). Clinical features, Immunocompetent children in developing countries § = EMects on Ntness and nutrition. Clinical features, Immunocompetent persons in industrialized
+
+============================================================
+CHUNK 7
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+nations * = Fatigue (87%). Clinical features, Immunocompromised persons † = Weight loss (37-74%). Clinical features, Immunocompetent children in developing countries § = Malnutrition Weight loss Stunt growth Impaired cognitive function. Clinical features, Immunocompetent persons in industrialized nations * = Anorexia (51-81%). Clinical features, Immunocompromised persons † = Anorexia (55-74%). Clinical features, Immunocompetent children in developing countries § = . Clinical features, Immunocompetent persons in industrialized nations * = Fever (36-59%). Clinical features, Immunocompromised persons † = Fever (44-53%). Clinical features, Immunocompetent children in developing countries § = . Clinical features, Immunocompetent persons in industrialized nations * = Muscle or joint aches (53%). Clinical features, Immunocompromised persons † = Muscle or joint aches (56-66%). Clinical features, Immunocompetent children in developing countries § = . Clinical features, Immunocompetent persons in industrialized nations * = . Clinical features, Immunocompromised persons † = Biliary involvement (23-29%). Clinical features, Immunocompetent children in developing countries § = . Clinical features, Immunocompetent persons in industrialized nations * = . Clinical features, Immunocompromised persons † = Sclerosing cholangitis (26%). Clinical features, Immunocompetent children in developing countries § = . Clinical features, Immunocompetent persons in industrialized nations * = . Clinical features, Immunocompromised persons † = Pancreatitis (3-33%). Clinical features, Immunocompetent children in developing countries § = . Clinical features, Immunocompetent persons in industrialized nations * = . Clinical features, Immunocompromised persons † = Respiratory involvement. Clinical features, Immunocompetent children in developing countries § = . Clinical features, Immunocompetent persons in industrialized nations * = . Clinical features, Immunocompromised persons † = Cough (8-44%). Clinical features,
+
+============================================================
+CHUNK 8
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Immunocompetent children in developing countries § = 
+severe in young children. Asymptomatic infections are seen after prior symptomatic infections. Disease resolution depends upon intact cellmediated immunity and the antibody response appears to be nearly irrelevant  [15].  Persistent  infection  can  also  be  relatively  asymptomatic or quite severe with malabsorption and weight loss. A choleralike,  severely  dehydrating,  rapidly  fatal  syndrome  in  persons  with AIDS has been described. While persistent infection occurs in persons with  inflammatory  bowel  disease,  immunosuppression,  or  renal disease, the greatest burden is in pediatric persistent diarrhea and in persons with HIV/AIDS.
+Cryptosporidium parasites  infect  the  colonic  mucosa  and,  less  commonly, the small intestine and stomach. Replicating parasites may, however, infect the entire gut from oropharynx to anus. Histologically, mononuclear  cell  infiltration  in  the  lamina  propia,  mucosal  cell apoptosis and mucosal inflammation with villus blunting, and cryptitis are seen which can lead to a loss of barrier function and malabsorption  (Fig.  91.2).  Illness  severity  correlates  with  the  extent  of infection and host immunity. In persons with HIV, infection of the crypts suggests more severe disease, as does infection of the proximal small bowel with villus flattening [2, 16-18]. Diarrhea with chloride secretion and impaired glucose absorption is mediated by Substance P, a gastrointestinal tract neuropeptide [19].
+This parasite (Fig. 91.3) uniquely occupies an intracellular but extracytoplasmic  site.  This  may  account  for  its  resistance  to  therapeutic drugs which are effective against similar parasites (such as malaria,
+Toxoplasma or Babesia ) which are intracellular but intracytoplasmic. It has been theorized that drugs that enter the host cell cytoplasm may not be able to cross the membrane between the cytoplasm and the parasite.
+
+============================================================
+CHUNK 9
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Immune competence is an important determinant in the severity and duration of intestinal disease in humans. Cryptosporidiosis is a selflimiting  illness  of  7-14  days  duration  in  immunocompetent  individuals  but  it  can  be  a  life  threatening  illness  in  the  severely immunocompromised  (such  as  people  with  AIDS),  hypogammaglobulinemia or those receiving immunosuppressive drugs for cancer or to prevent rejection in transplantation.
+
+============================================================
+CHUNK 10
+============================================================
+CLINICAL FEATURES
+Enteric cryptosporidiosis has no unique clinical signs or symptoms and it resembles many other forms of diarrheal disease. First infections are usually symptomatic with watery diarrhea, vomiting, nausea, abdominal cramps and fatigue. Blood or leukocytes are rarely seen in stool specimens. Low grade fever and cough also occur. In developing countries  where  repeated exposure  is common, most infected children are asymptomatic. Those with symptoms are generally sick for less than seven days (median of two days). Weight loss and dehydration are common. Cryptosporidiosis is more common in malnourished children and those with persistent diarrhea. Both asymptomatic and  symptomatic  cryptosporidiosis  appear  to  cause  malnutrition,
+FIGURE 91.2 Normal (A) and experimentally-infected (B) piglet intestine demonstrating the blunted  villi  and  cryptitis  seen  with Cryptosporidium infection (courtesy of Dr Saul Tzipori).
+FIGURE  91.3 Electron  micrograph  of a  developing Cryptosporidium parasite. It is located on the apical surface of the intestinal cell; host cell membranes can be seen enveloping the globular parasite. At the base of the  parasite,  an  electron-thick  membrane  can  be  seen  separating  the intracellular parasite from the host cell cytoplasm (courtesy of Dr Saul Tzipori).
+stunted growth and impaired cognitive function [2]. Immunocompetent persons with cryptosporidiosis in industrialized nations usually have  clinical  symptoms  of  explosive,  watery  diarrhea  [12,  20,  21] which may last for a median of 9-1 1 days. Hospitalization may occur in 7-22% of patients [12, 21]. Because very few persons with mild diarrhea are tested for cryptosporidiosis, this apparent disease difference may be somewhat biased because the patients had especially severe disease or were part of an epidemic where diagnostic testing was done.
+Some patients have joint pain, eye pains, recurrent headache, dizziness and fatigue, which are more common with C. hominis than with C. parvum [20]. Cryptosporidium can trigger inflammatory bowel diseases and irritable bowel syndrome [2].
+
+============================================================
+CHUNK 11
+============================================================
+CLINICAL FEATURES
+Persistent infection in immunocompromised persons may progress from  asymptomatic  to  symptomatic  as  immune  status  declines. Biliary tract  involvement  may  lead  to  clinical  cholangitis  [16] and respiratory disease, to mild hypoxia and shortness of breath [13, 16]. Respiratory infection has been considered a rare HIV/AIDS complication, but recent data suggest it may be common in normal children with enteric infection, suggesting that respiratory transmission may  occur.  In  persons  with  HIV/AIDS,  cryptosporidiosis  causes increased mortality and shortened survival [22]. In people with the cholera-like form of the disease characterized by massive fluid loss, severe  abdominal  pain,  malabsorption,  anorexia  and  significant weight loss, survival may only be for days or several weeks. To summarize, variations in immune status and the extent and sites of infection contribute to differences in disease severity and survival [17, 18], as may the species of the parasite [1 1].
+
+============================================================
+CHUNK 12
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+The medical focus with mild diarrheal disease is generally on detecting  and  preventing  dehydration  rather  than  on  making  a  specific diagnosis. Cryptosporidiosis is usually mild and thus under-diagnosed as  with  most  cryptosporidiosis  no  diagnostic  testing  is  performed. Suspicion for Cryptosporidium is increased when the patient has persistent or chronic diarrhea, is malnourished, has an immunosuppressive condition or another risk factor (Box 91.1). One important clue is that the incubation period is longer (~1 week) than it is for viral or  bacterial  diseases  (1-3  days)  yet  shorter  than  for  giardiasis  (~2 weeks).  The  differential diagnoses  for routine  cryptosporidiosis includes many hundreds of viral and bacterial pathogens which have a similar presentation. Giardia, Isospora and Cyclospora infections may also mimic cryptosporidiosis.
+Because cryptosporidiosis is a frequent cause  of AIDS-related acute and chronic diarrhea, clinicians must have a low threshold for ordering these special tests in persons with known, or suspected, HIV. Many clinicians incorrectly believe that Cryptosporidium is detected via classical 'ova and parasites' testing. The differential diagnosis of diarrhea in persons with AIDS includes not only common bacterial pathogens, but also Cryptosporidium, species of microsporidia, Isospora belli, Mycobacterium avium complex and cytomegalovirus. In sub-Saharan Africa, the vast majority of chronic diarrhea in persons with HIV is caused by either Cryptosporidium or microsporidia [2]. Tests for Cryptosporidium should always be ordered when the cause for diarrhea is unclear.
+
+============================================================
+CHUNK 13
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Enteric cryptosporidiosis is diagnosed by examining stool specimens, or by biopsy and examination of histologic sections of infected intestine,  biliary  system  or  respiratory  tract. Cryptosporidium oocysts  are ~5 μ m  in  size.  Fecal  oocysts  are  detected  using  acid-fast  staining, antigen  detection  via  ELISA,  PCR;  or  a  direct  immunofluorescent antibody (DFA)  assay [23]. Oocysts can also be  detected via direct wet-mounted feces microscopy (see Fig. 91.4). Detection of oocysts is easier  if  the  number  being  excreted  is  high.  In  some  laboratories, oocysts are concentrated using the modified ethyl acetate concentration method with detection of stained fecal concentrates by microscopy.  Modified  acid-fast  staining  is  frequently  used  in  developing countries  because  of  its  low  cost,  ease  of  use,  the  ability  to  use  a
+standard microscope and simultaneous detection of other pathogens relevant to persons with HIV/AIDS, such as I sospora , Cyclospora and Mycobacteria species. In experienced hands, modified acid-fast staining and microscopy will detect ~85% of the cases of cryptosporidiosis detected  via  PCR.  In  industrialized  nations,  antigen  detection  and
+1.  Acid-fast  staining  (inexpensive,  high  sensitivity  for  most clinical cases, especially with experienced microscopists)
+2.  PCR (expensive research  tool, but detects cased with low levels of parasite excretion and allows genetic characterization)
+3.  Anitgen-detection  ELISA/ICT  kit  (used  in  some  industrialized country hospitals)
+4.  ImmunoGLYPH<c=2,font=/CIDFont+F13>uorescent antibody (highly sensitive research technique)
+DFA  are  increasingly  prevalent.  Oocysts  are  intermittently  shed  in stools. If Cryptosporidium infection is suspected and initial stool specimen is negative, multiple specimens at intervals of 2-3 days should be examined [23]. Yeasts are morphologically similar to Cryptosporidium spp. but do not stain or stain the same color as the counterstain. Many commercial or hospital laboratories do not routinely provide acid fast staining when physicians request ova and parasite examinations, Cryptosporidium testing is only done with a specific request.
+
+============================================================
+CHUNK 14
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+AIDS  patients  with Cryptosporidium sclerosing  cholangitis  usually have  elevated  serum  alkaline  phosphatase  levels  and  right  upper quadrant pain if there is also biliary involvement [16]. Diagnosis is by  endoscopic  retrograde  cholangiopancreatography  (ERCP)  and biopsy. Ultrasonography or  computed  tomography  may  reveal biliary involvement but do not provide an etiological diagnosis. Respiratory  involvement  is  characterized  by  hypoxia  and  the  presence of  diffuse  infiltrates  on  chest  radiography.  It  can  be  diagnosed  by detecting oocysts via acid-fast staining, DFA or PCR in sputa, or via biopsy.  Bronchoscopy  may  be  necessary  to  differentiate  it  from Pneumocystis pneumonia.
+
+============================================================
+CHUNK 15
+============================================================
+TREATMENT AND PREVENTION
+Oral or intravenous rehydration, antimotility agents and nutritional support are used for the symptomatic treatment of diarrhea (see Box 91.2) [24]. Almost no drugs have been shown to be even modestly effective in controlled clinical trials [10, 24-26]. Nitazoxanide (NTZ) is the only Food and Drugs Administration (FDA)-approved drug for cryptosporidiosis. NTZ can shorten clinical disease by a day or so on average and reduce parasite loads in immunocompetent patients [25]. Unfortunately, NTZ is not consistently effective for immunodeficient persons [16] (Table 91-2). An open-label study did find that a sustained positive clinical response was observed in 59% of 365 patients with HIV/AIDS who received high doses (500-1500 mg of NTZ twice daily) for prolonged periods (median of 62 days) [27], although it was unclear whether study  patients were on anti-retroviral  therapy. However, a recent controlled trial of high-dose, prolonged (28 days) NTZ therapy in HIV infected children found no significant benefit. Mortality did not differ between control and NTZ treatment arms and was 28% at 28 days. Our personal advice is that NTZ can be considered for mildly immunocompromised HIV/AIDS patients, for persons in whom cancer chemotherapy is being temporarily deferred because of cryptosporidiosis, or when trying to limit infection during HAART initiation [26]. Paromomycin and macrolides, such as azithromycin, have led to anecdotal success, though not in controlled trials [24, 26], and, when no other options exist, they could be tried in combination with NTZ as a salvage attempt. No studies of NTZ in combination
+FIGURE 91.4 Cryptosporidium oocysts as seen in direct wet-mount microscopy (left) and as stained with the modiNed acid-fast method. The Cryptosporidium oocysts are marked with pink arrows in the image on the left and a budding yeast is marked with the brown arrow. In the image on the right, sporozoites can be seen within the two stained oocysts on the right (courtesy of the Centers for Diseases Control Public Health Image Library).
+
+============================================================
+CHUNK 16
+============================================================
+TREATMENT AND PREVENTION
+with other agents have been published, and thus we emphasize that HAART is the critical therapy for persons with HIV/AIDS.
+The  most  effective Cryptosporidium treatment  and  prophylaxis  for AIDS patients is HAART to restore cell-mediated immunity [24, 25, 28]. It is believed that this is related to CD4 + cell  replenishment in treated  persons  and  perhaps  the  anti-parasitic  activities  of  HAART protease  inhibitors  [25,  28].  Some  protease  inhibitors  (indinavir, nelfinavir  and  ritonavir)  demonstrate  anti-cryptosporidial  activity [24]. Relapse of cryptosporidiosis is common in AIDS patients who have stopped taking HAART [10]. Because malnutrition may occur because  of  cryptosporidiosis,  or  contribute  to  its  persistence,  most experienced  clinicians  aggressively  treat  malnutrition.  Nutritional support may help restore cellular immunity in the severely malnourished and, in persons with HIV/AIDS, allow survival when HAART is being initiated.
+Cholecystectomy  may  be  used  in  the  treatment  of  cryptosporidial acalculous cholecystitis and ERCP with sphincterotomy and/or stent placement can ameliorate sclerosing cholangitis [24]. The therapy of respiratory cryptosporidiosis has not been systematically explored. In our opinion, both biliary and respiratory disease in the immunocompromised is best treated by HAART or temporarily stopping the use of chemotherapy if the person has cancer.
+
+============================================================
+CHUNK 17
+============================================================
+PREVENTION
+To prevent fecal-oral transmission, strict attention to personal hygiene, especially hand-washing, is emphasized. Cooking kills Cryptosporidium in food. Oocysts are killed by pasteurization (72°C for 5 seconds), heating to 60°C for 30 minutes, or freezing at -7°C for 1 hour. No safe and effective disinfectant has been identified for decontaminating produce.
+Preventing Cryptosporidum contamination of drinking water requires modern water filtration and purification systems that are not available in  lower  income  countries.  Concentrations  of  chlorine  (1-2 mg/l) used to disinfect drinking water are not effective against
+
+TABLE 91-2 EOcacy of Nitazoxanide in Double-Blind Placebo-Controlled Studies
+
+============================================================
+CHUNK 18
+============================================================
+PREVENTION
+HIV + persons, Study location.Study location = . HIV + persons, Dose.Dose = . HIV + persons, Oocyst clearance.Placebo = . HIV + persons, Oocyst clearance.Treatment = . HIV + persons, Resolution of diarrhea.Placebo = . HIV + persons, Resolution of diarrhea.Treatment = . HIV + persons, Reference.Reference = . Adults, Study location.Study location = Mexico. Adults, Dose.Dose = 500 or 1000 mg twice daily for 14 days. Adults, Oocyst clearance.Placebo = 5/21 (24%). Adults, Oocyst clearance.Treatment = 22/49 (45%). Adults, Resolution of diarrhea.Placebo = 10/20 (50%). Adults, Resolution of diarrhea.Treatment = 21/34 (62%). Adults, Reference.Reference = [37]. Malnourished children, Study location.Study location = Zambia. Malnourished children, Dose.Dose = 100 mg twice daily for 3 days. Malnourished children, Oocyst clearance.Placebo = 5/24 (21%). Malnourished children, Oocyst clearance.Treatment = 5/25 (20%). Malnourished children, Resolution of diarrhea.Placebo = 6/24 (25%). Malnourished children, Resolution of diarrhea.Treatment = 2/25 (8%). Malnourished children, Reference.Reference = [38]. Adults with CD4 + < 50, Study location.Study location = Thailand. Adults with CD4 + < 50, Dose.Dose = 100 mg twice daily for 8 weeks. Adults with CD4 + < 50, Oocyst clearance.Placebo = 0/20 (0%)*. Adults with CD4 + < 50, Oocyst clearance.Treatment = 2/22 (9%)*. Adults with CD4 + < 50, Resolution of diarrhea.Placebo = 1/20 (5%)*. Adults with CD4 + < 50, Resolution of diarrhea.Treatment = 7/22 (32%)*. Adults with CD4 + < 50, Reference.Reference = [25]. Children aged 1-11 years old, Study location.Study location = Zambia. Children aged 1-11 years old, Dose.Dose = 200 mg (if 1-3 years
+
+============================================================
+CHUNK 19
+============================================================
+PREVENTION
+old) or 400 mg twice daily (4-11 years) for 28 days. Children aged 1-11 years old, Oocyst clearance.Placebo = 9/26 (35%). Children aged 1-11 years old, Oocyst clearance.Treatment = 7/26 (27%). Children aged 1-11 years old, Resolution of diarrhea.Placebo = 8/26 (35%) in 'well' group. Children aged 1-11 years old, Resolution of diarrhea.Treatment = 11/26 (42%) in 'well'group. Children aged 1-11 years old, Reference.Reference = [39]. HIV- persons, Study location.Study location = . HIV- persons, Dose.Dose = . HIV- persons, Oocyst clearance.Placebo = . HIV- persons, Oocyst clearance.Treatment = . HIV- persons, Resolution of diarrhea.Placebo = . HIV- persons, Resolution of diarrhea.Treatment = . HIV- persons, Reference.Reference = . Malnourished children, Study location.Study location = Zambia. Malnourished children, Dose.Dose = 100 mg twice daily for 3 days. Malnourished children, Oocyst clearance.Placebo = 3/22 (14%). Malnourished children, Oocyst clearance.Treatment = 13/25 (52%). Malnourished children, Resolution of diarrhea.Placebo = 5/22 (23%). Malnourished children, Resolution of diarrhea.Treatment = 14/25 (56%). Malnourished children, Reference.Reference = [38]. Adults and children, Study location.Study location = Egypt. Adults and children, Dose.Dose = 100 (1-3-year-old), 200 (4-11- year-old) or 500 mg ( > 11-year- old) twice daily for 3 days. Adults and children, Oocyst clearance.Placebo = 11/50 (22%). Adults and children, Oocyst clearance.Treatment = 39/49 (67%). Adults and children, Resolution of diarrhea.Placebo = 20/49 (41%). Adults and children, Resolution of diarrhea.Treatment = 39/49 (80%). Adults and children, Reference.Reference = [40]. Adults and children, Study
+
+============================================================
+CHUNK 20
+============================================================
+PREVENTION
+location.Study location = Egypt. Adults and children, Dose.Dose = 500 mg twice daily for 3 days. Adults and children, Oocyst clearance.Placebo = 10/27 (37%). Adults and children, Oocyst clearance.Treatment = 26/28 (93%) for tablets; 28/31 (90%) for suspension. Adults and children, Resolution of diarrhea.Placebo = 11/27 (41%). Adults and children, Resolution of diarrhea.Treatment = 27/28 (96%) for tablets; 27/31 (87%) for suspension. Adults and children, Reference.Reference = [41]
+*Based on partial data presented in Pantenburg B, Cabada MM, White AC, Jr. Treatment of cryptosporidiosis. Expert Rev Anti Infect Ther 2009;7:385-91.
+Cryptosporidium . Oocycts exposed to full strength bleach can still infect mice. Personal use filters that have an absolute pore size of 1 micron or smaller are effective.
+Cryptosporidiosis  can  be  avoided  in  the  highly  immunocompromised by education and careful avoidance behaviors to include drinking only filtered or boiled water, ingesting only cooked food, thorough hand-washing, avoiding bathing or swimming in water used by other people or animals and avoiding contact with people or animals (especially  calves  and  lambs)  with  diarrhea.  Companion  dogs  and  cats should be examined and cleared of infection by a veterinarian.
+
+============================================================
+CHUNK 21
+============================================================
+REFERENCES
+1. Mor SM, DeMaria A Jr, Griffiths JK, Naumova EN. Cryptosporidiosis in the elderly population of the United States. Clin Infect Dis 2009;48:698-705.
+2. Chalmers RM, Davies AP. Minireview: Clinical cryptosporidiosis. Exp Parasitol 2009;124:138-46.
+3. Mor SM,  Tzipori  S.  Cryptosporidiosis  in  children  in  sub-saharan  Africa:  a lingering challenge. Clin Infect Dis 2008;47:915-21.
+4. Snelling WJ, Xiao L, Ortega-Pierres G, et al. Cryptosporidiosis in developing countries. J Infect Dev Ctries 2007;1:242-56.
+5. Bhattacharya MK, Teka T, Faruque AS, Fuchs GJ. Cryptosporidium infection in children in urban Bangladesh. J Trop Pediatr 1997;43:282-6.
+6. Snel  SJ,  Baker MG, Venugopal K. The epidemiology of cryptosporidiosis in New Zealand, 1997-2006. N Z Med J 2009;122:47-61.
+7. Nichols GL, Chalmers RM, Sopwith W, et al. Cryptosporidiosis: A report on the surveillance and epidemiology of Cryptosporidium infection in England and  Wales.  Drinking  Water  Directorate  Contract  Number  DWI  70/2/201. Drinking Water Inspectorate, UK. 2006;142.
+8. Yoder  JS,  Beach  MJ.  Cryptosporidiosis  surveillance-United  States,  20032005, MMWR Surveill Summ 2007;56:1-10.
+9. Hunter PR, Nichols G. Epidemiology and clinical features of cryptosporidium infection  in  immunocompromised  patients.  Clin  Microbiol  Rev  2002;15: 145-54.
+10.  Cama  VA,  Bern  C,  Roberts  J,  et  al.  Cryptosporidium  species  and  subtypes and  clinical  manifestations  in  children,  Peru.  Emerg  Infect  Dis  2008;14: 1567-74.
+
+============================================================
+CHUNK 22
+============================================================
+REFERENCES
+11.  Cama VA, Ross JM, Crawford S, et al. Differences in clinical manifestations among  Cryptosporidium  species  and  subtypes  in  HIV-infected  persons. J Infect Dis 2007;196:684-91.
+12.  Robertson B, Sinclair MI, Forbes AB, et al. Case-control studies of sporadic cryptosporidiosis  in  Melbourne  and  Adelaide,  Australia.  Epidemiol  Infect 2002;128:419-31.
+13.  Greenberg  PD,  Koch  J,  Cello  JP.  Diagnosis  of Cryptosporidium  parvum in patients with severe diarrhea and AIDS. Digestive Dis Sci 1996;41:2286-90.
+14.  Xiao L. Molecular epidemiology of cryptosporidiosis: An update. Exp Parasitol 2010;124:80-9.
+15.  Pantenburg  B,  Dann  SM,  Wang  HC,  et  al.  Intestinal  immune  response  to human Cryptosporidium sp. infection. Infect Immun 2008;76:23-9.
+16.  De  Angelis  C,  Mangone  M,  Bianchi  M,  et  al.  An  update  on  AIDS-related cholangiopathy. Minerva Gastroenterol Dietol 2009;55:79-82.
+17.  Clayton F, Heller T, Kotler DP. Variation in the enteric distribution of cryptosporidia in acquired immunodeficiency syndrome. Am J Clin Pathol 1994; 102:420-5.
+18.  Lumadue JA, Manabe YC, Moore RD, et al. A clinicopathologic analysis of AIDS-related cryptosporidiosis. AIDS 1998;12:2459-66.
+19.  Hernandez  J,  Lackner  A,  Aye  P,  et  al.  Substance  P  is  responsible  for  physiologic  alternations  such  as  increased  chloride  ion  secretion  and  glucosemalabsorption in Cryptosporidiosis. Immunol Infect 2007;75:11137-423.
+20.  Hunter PR, Hughes S, Woodhouse S, et al. Health sequelae of human cryptosporidiosis  in  immunocompetent  patients.  Clin  Infect  Dis  2004;39: 504-10.
+
+============================================================
+CHUNK 23
+============================================================
+REFERENCES
+21.  Goh  S,  Reacher  M,  Casemore  DP,  et  al.  Sporadic  cryptosporidiosis,  North Cumbria, England, 1996-2000. Emerg Infect Dis 2004;10:1007-15.
+22.  Manabe YC, Clark DP, Moore RD, et al. Cryptosporidiosis in patients with AIDS - correlates of disease and survival. Clin Infect Dis 1998;27:536-42.
+23.  Smith HV. Diagnostics. In: Fayer R, Xiao L, eds. Cryptosporidium and Cryptosporidiosis, 2nd edn. Boca Raton: CRC Press; 2008:173.
+24.  Rossignol JF. Cryptosporidium and Giardia: Treatment options and prospects for new drugs. Exp Parasitol 2010;124:45-3.
+25.  Pantenburg  B,  Cabada  MM,  White  AC,  Jr.  Treatment  of  cryptosporidiosis. Expert Rev Anti Infect Ther 2009;7:385-91.
+26.  Abubakar I, Aliyu SH, Arumugam C. et al. Treatment of cryptosporidiosis in immunocompromised individuals: systematic review and meta-analysis. Br J Clin Pharmacol 2007;63:387-93.
+27.  Rossignol JF. Nitazoxanide in the treatment of acquired immune deficiency syndrome-related cryptosporidiosis: results of the United States compassionate use program in 365 patients. Aliment Pharmacol Ther 2006;24:887-94.
+28.  Bachur TP, Vale JM, Coelho IC, et al. Enteric parasitic infections in HIV/AIDS patients before and after the highly active antiretroviral therapy. Braz J Infect Dis 2008;12:115-22.
+29.  Anon. Cryptosporidiosis in England and Wales: prevalence and clinical and epidemiological features. Public Health Laboratory Service Study Group. BMJ 1990;300:774-7.
+30.  MacKenzie WR, Hoxie NJ, Proctor ME, et al. A massive outbreak in Milwaukee of  cryptosporidium  infection  transmitted  through  the  public  water  supply. N Engl J Med 1994;331:161-7.
+
+============================================================
+CHUNK 24
+============================================================
+REFERENCES
+31.  Frisby HR, Addiss DG, Reiser WJ, et al. Clinical and epidemiologic features of a massive waterborne outbreak of cryptosporidiosis in persons with HIV infection. JAIDS 1997;16:367-73.
+32.  McGowan I,  Hawkins  AS,  Weller  IV.  The  natural history  of  cryptosporidial diarrhoea in HIV-infected patients. AIDS 1993;7:349-54.
+33.  Hashmey R, Smith NH, Cron S, et al. Cryptosporidiosis in Houston, Texas. A report of 95 cases. Medicine 1997;76:118-39.
+34.  Vakil  NB,  Schwartz  SM,  Buggy  BP,  et  al.  Biliary  cryptosporidiosis  in  HIVinfected people after the waterborne outbreak of cryptosporidiosis in Milwaukee. N Engl J Med 1996;334:19-23.
+35.  Khan WA, Rogers KA, Karim MM, et al. Cryptosporidiosis among Bangladeshi children with diarrhea: a prospective, matched, case-control study of clinical features, epidemiology and systemic antibody responses. Am J Trop Med Hyg 2004;71:412-9.
+36.  Guerrant  DI,  Moore  SR,  Lima  AA,  et  al.  Association  of  early  childhood diarrhea and cryptosporidiosis with impaired physical fitness and cognitive function four-seven years later in a poor urban community in northeast Brazil. Am J Trop Med Hyg 1999;61:707-13.
+37.  Rossignol  JF,  Hidalgo  H,  Feregrino  M,  et  al.  A  double-'blind'  placebocontrolled study of nitazoxanide in the treatment of cryptosporidial diarrhoea in AIDS patients in Mexico. Trans R Soc Trop Med Hyg 1998;92:663-6.
+38.  Amadi B, Mwiya M, Musuku J, et al. Effect of nitazoxanide on morbidity and mortality in Zambian children with cryptosporidiosis: a randomised controlled trial. Lancet 2002;360:1375-80.
+
+============================================================
+CHUNK 25
+============================================================
+REFERENCES
+39.  Amadi B, Mwiya M, Sianongo S, et al. High dose prolonged treatment with nitazoxanide is not effective for cryptosporidiosis in HIV positive Zambian children: a randomised controlled trial. BMC Infect Dis 2009;9:195.
+40.  Rossignol  JF,  Ayoub  A,  Ayers  MS.  Treatment  of  diarrhea  caused  by  Cryptosporidium  parvum:  a  prospective  randomized,  double-blind,  placebocontrolled study of Nitazoxanide. J Infect Dis 2001;184:103-6.
+41.  Rossignol  JF,  Kabil  SM,  el-Gohary  Y,  Younis  AM.  Effect  of  nitazoxanide  in diarrhea and enteritis caused by Cryptosporidium species. Clin Gastroenterol Hepatol 2006;4:320-4.
+

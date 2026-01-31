@@ -1,0 +1,787 @@
+============================================================
+CHUNK 0
+============================================================
+Neurologic Diseases 10
+Tom Solomon, Hadi Manji
+
+============================================================
+CHUNK 1
+============================================================
+KEY SYNDROMES AND CLINICAL APPROACH
+Meningism is the clinical syndrome of headache, neck stiffness and photophobia, often with nausea and vomiting. It is most often caused by  inflammation  of  the  meninges  (see  below),  but  other  causes include raised intracranial  pressure.  Kernig's  sign  is  present if, with the patient supine and the hip and knee flexed, extension of the knee causes pain in the back and neck.
+Brudzinski's sign is positive if passive flexion of the neck causes knee and hip flexion. Both signs have low sensitivity but high specificity for meningitis.
+Meningitis is  inflammation  of  the  meninges.  Bacterial,  viral,  and fungal  infections are the most common causes, but meningitis can also  be  caused  by  carcinoma  and  drugs.  Fever,  neck  stiffness  and altered consciousness are described as the 'classic triad', but they are only found in about half of adults with acute bacterial meningitis [1]. The term 'meningoencephalitis' is used by some clinicians to describe patients with meningitis and altered consciousness, but by other clinicians to describe patients with meningitis or encephalitis. Therefore, it is probably best avoided!
+In the history and examination pay particular attention to the presence of rash (meningococcus), macules or vesicles on the hands and feet  and  mouth  ulcers  (enterovirus  causing  hand,  foot  and  mouth disease),  buccal lesions  (enterovirus)  and  otitis  (pneumococcal
+
+============================================================
+CHUNK 2
+============================================================
+Key features
+Neurologic diseases present di*erent challenges in the tropics:
+- Increased incidence from infectious causes, particularly those that relate to sanitation (e.g. typhoid) or arthropods (e.g. cerebral malaria)
+- Toxic and nutritional causes, e.g. peripheral neuropathies
+- Rapid adoption of Western lifestyles and the associated chronic diseases (hypertension, obesity, diabetes) without the necessary public health campaigns and measures to limit them
+- Increased incidence of vaccine-preventable diseases (polio, diphtheria, tetanus)
+- Greater role of non-conventional medical practicestraditional medicines, and healers and psychiatric diagnoses as witch-craft
+- Greater incidence of HIV and poorer access to drugs
+The number of infectious and non-infectious causes of neurologic presentation is large (Table 10-1). In this chapter, for each of the key  presenting  neurologic  syndromes,  the  clinical  approach, investigation, diagnosis and management is considered.
+TABLE 10-1, 1 = Causes of Neurologic Disease (VIMTO). TABLE 10-1, 2 = . Vascular, 1 = Vascular. Vascular, 2 = Vascular. , 1 = Ischemia/infarct. , 2 = . , 1 = Subarachnoid/subdural/extradural/intracerebral hemorrhage. , 2 = . , 1 = Hypertension/hypotension. , 2 = . Infectious, 1 = Infectious. Infectious, 2 = Infectious. , 1 = Bacteria. , 2 = . , 1 = Direct eAect Meningococcus, Streptococcus, Haemophylus in@uenzae. , 2 = . , 1 = on CNS. , 2 = . , 1 = Viruses. , 2 = . , 1 = Arboviruses, herpes viruses, enteroviruses, rabies. , 2 = 
+
+============================================================
+CHUNK 3
+============================================================
+Key features
+, Disease (VIMTO)-cont'd.Parasites Protozoans = . ,  = Malaria (Plasmodium falcipaurm). ,  = African trypanosomiasis ( Trypanosoma brucei gambiense and rhodesiense). , Disease (VIMTO)-cont'd.Parasites Protozoans = . ,  = Toxoplasmosis ( Toxoplasma gondii ). ,  = Amoebiasis ( Entaboema histolytica ). , Disease (VIMTO)-cont'd.Parasites Protozoans = . ,  = Trematodes (Flukes). ,  = . , Disease (VIMTO)-cont'd.Parasites Protozoans = . ,  = Paragonimiasis, schistosomiasis (esp.. ,  = Schistosoma japonicum ). , Disease (VIMTO)-cont'd.Parasites Protozoans = . ,  = Cestodes (tapeworms). ,  = . , Disease (VIMTO)-cont'd.Parasites Protozoans = . ,  = Cysticercosis ( Taenia solium ), hydatidosis (. ,  = Echinococcus granulosa ). , Disease (VIMTO)-cont'd.Parasites Protozoans = . ,  = Nemotodes (round worms). ,  = . , Disease (VIMTO)-cont'd.Parasites Protozoans = . ,  = Ascariasis ( Ascaris lumbricoides ). ,  = Parastronglyliasis ( Parastrongylus cantonensis ). , Disease (VIMTO)-cont'd.Parasites Protozoans = . ,  = Gnathostomiasis. ,  = Trichinosis ( Trichonella spiralis ). , Disease (VIMTO)-cont'd.Parasites Protozoans = Spirochetes. ,  = . ,  = . , Disease (VIMTO)-cont'd.Parasites Protozoans = . ,  = Neurosyphilis (Treponema pallidum). ,  = Lyme disease ( Borrelia burgdorferi ). , Disease (VIMTO)-cont'd.Parasites Protozoans = . ,
+
+============================================================
+CHUNK 4
+============================================================
+Key features
+= Leptospirosis (Leptospira species). ,  = Louse-borne/epidemic relapsing fever ( B. recurrentis ). , Disease (VIMTO)-cont'd.Parasites Protozoans = . ,  = Tick-borne/endemic- relapsing fever ( B. duttoni ). ,  = Tick-borne/endemic- relapsing fever ( B. duttoni ). , Disease (VIMTO)-cont'd.Parasites Protozoans = Rickettsiae. ,  = . ,  = . , Disease (VIMTO)-cont'd.Parasites Protozoans = . ,  = Epidemic/louse-borne typhus ( Rickettsia prowazekii ). ,  = Endemic/murine/Uea-borne typhus ( R. typhi/ mooseri ). , Disease (VIMTO)-cont'd.Parasites Protozoans = . ,  = Scrub typhus ( R. tsutsugamushi ). ,  = Rocky Mountain spotted fever ( R. rickettsii ). , Disease (VIMTO)-cont'd.Parasites Protozoans = Fungi. ,  = . ,  = . , Disease (VIMTO)-cont'd.Parasites Protozoans = . ,  = Cryptococcosis Histoplasmosis. ,  = . , Disease (VIMTO)-cont'd.Parasites Protozoans = . ,  = Aspergillosis Coccidiomycosis. ,  = . , Disease (VIMTO)-cont'd.Parasites Protozoans = . ,  = Candidiasis Paracoccidiomycosis. ,  = . , Disease (VIMTO)-cont'd.Parasites Protozoans = . ,  = Blastomycosis Nocardia*. ,  = . Indirect eAect, Disease (VIMTO)-cont'd.Parasites Protozoans = Toxin-mediated infectious diseases (tetanus, diphtheria, shigella). Indirect eAect,  = Toxin-mediated infectious diseases (tetanus, diphtheria, shigella). Indirect eAect,
+
+============================================================
+CHUNK 5
+============================================================
+Key features
+= Toxin-mediated infectious diseases (tetanus, diphtheria, shigella). of infection, Disease (VIMTO)-cont'd.Parasites Protozoans = Immune-mediated, post-infectious inUammatory (GBS, acute disseminated encephalomyelitis). of infection,  = Immune-mediated, post-infectious inUammatory (GBS, acute disseminated encephalomyelitis). of infection,  = Immune-mediated, post-infectious inUammatory (GBS, acute disseminated encephalomyelitis). Hypoglycemia, diabetic ketoacidosis, hepatic encephalopathy, uremia, hyponatremia, hypo-/hyperthyroidism, Addison's disease, Disease (VIMTO)-cont'd.Parasites Protozoans = Hypoglycemia, diabetic ketoacidosis, hepatic encephalopathy, uremia, hyponatremia, hypo-/hyperthyroidism, Addison's disease. Hypoglycemia, diabetic ketoacidosis, hepatic encephalopathy, uremia, hyponatremia, hypo-/hyperthyroidism, Addison's disease,  = Hypoglycemia, diabetic ketoacidosis, hepatic encephalopathy, uremia, hyponatremia, hypo-/hyperthyroidism, Addison's disease. Hypoglycemia, diabetic ketoacidosis, hepatic encephalopathy, uremia, hyponatremia, hypo-/hyperthyroidism, Addison's disease,  = Hypoglycemia, diabetic ketoacidosis, hepatic encephalopathy, uremia, hyponatremia, hypo-/hyperthyroidism, Addison's disease. Tumors/trauma/ toxins, Disease (VIMTO)-cont'd.Parasites Protozoans = . Tumors/trauma/ toxins,  = . Tumors/trauma/ toxins,
+
+============================================================
+CHUNK 6
+============================================================
+Key features
+= . , Disease (VIMTO)-cont'd.Parasites Protozoans = Alcohol, drugs (medical,. ,  = recreational, traditional), pesticides, poisons. ,  = . Hydrocephalus, Disease (VIMTO)-cont'd.Parasites Protozoans = . Hydrocephalus,  = . Hydrocephalus,  = . , Disease (VIMTO)-cont'd.Parasites Protozoans = Epilepsy. ,  = . ,  = . , Disease (VIMTO)-cont'd.Parasites Protozoans = Psychiatric disease-hysteria. ,  = . ,  = . an actinomycetes nervous system; GBS,, Disease (VIMTO)-cont'd.Parasites Protozoans = that is grouped with fungi because of Guillain-Barré syndrome.. an actinomycetes nervous system; GBS,,  = its morphology and behavior.. an actinomycetes nervous system; GBS,,  = 
+meningitis). Ask about possible contact with tuberculosis, or whether there  is  an  outbreak  of  mumps  in  the  community,  for  example. Is  there a  history of  eating raw snails in Asia ( Angiostrongyloides )  or ingestion of unpasteurized milk or dairy products ( Brucella, Listeria )? Look for needle injection marks and pointers to HIV infection (see Box 10.1).
+
+============================================================
+CHUNK 7
+============================================================
+APPROACHES TO INVESTIGATION, DIAGNOSIS AND MANAGEMENT
+The cardinal investigation in diagnosing meningitis and determining its underlying cause is the lumbar puncture (LP). Although there is some controversy about which patients should receive LP (see Box
+
+============================================================
+CHUNK 8
+============================================================
+History
+Risk factors for HIV-multiple sexual partners, male sex with males, sex workers, intravenous drug abuse, blood products
+For children, death of mother and father
+Weight loss; unexplained pyrexi
+Persistent diarrhea
+
+============================================================
+CHUNK 9
+============================================================
+Clinical Signs
+Wasting
+Lymphadenopathy
+Hairy leukoplaqia, oral candida on oral examination
+Seborrhoebic  dermatitis,  Kaposi's  sarcoma,  molluscan  contageosum, zoster, herpes simplex
+Intravenous drug injection sites
+Retinitis (cytomegalovirus, toxoplasma, syphilis), papilloedema, uveitis, iritis on ocular examination
+
+============================================================
+CHUNK 10
+============================================================
+Investigations
+Low platelet count and white cell count
+High erythrocyte sedimentation rate (ESR)
+10.2) and whether computed tomography (CT) scanning is indicated, LP is used more readily in the tropics than in Western industrialized nations. If all the equipment is not available, it can be fashioned out of readily available items (Box 10.3).
+After LP, most patients will be classified as having normal cerebrospinal fluid (CSF), consistent with viral meningitis, bacterial meningitis or tuberculous meningitis (Box 10.4); in some patients a microorganism will have been seen on CSF microscopy, thus guiding treatment. If  CSF  is  consistent  with  acute  bacterial  meningitis,  empirical  antibiotics (usually a third-generation cephalosporin) are started. If the initial CSF findings suggest tuberculosis meningitis (TBM), microbiologic  confirmation  requires  large  volumes  of  CSF  (e.g.  6-10 ml). Therefore,  unless  the  patient  is  very  unwell,  it  is  worth  waiting  24 hours to repeat LP removing large CSF volumes. It is important to remember  that  the  differential  diagnosis  of  aseptic  meningitis  is broad (see Table 10-2).
+There has, for many years, been controversy over the role of corticosteroids in treating acute bacterial meningitis. A recent meta-analysis of data from five studies, including two from Malawi and one from Vietnam, showed that dexamethasone did not reduce deaths or neurologic sequelae; a sub-group analysis showed it did reduce death and the  composite  analysis  of  death,  neurologic  sequelae  and  severe hearing loss in patients over 55 years old [2]. This is in contrast to TBM, where corticosteroids are thought to be of benefit [3].
+The  investigation  and  management  of  the  common  diagnoses  are covered in individual chapters:
+Bacterial Meningitis (Chapter 54). Tuberculous Meningitis (Chapter 39). Angiostrongyloides (Chapter 1 18). Cryptococcus (Chapter 84).
+
+============================================================
+CHUNK 11
+============================================================
+BOX 10.2  Lumbar Puncture Guidelines
+All  patients  with  a  suspected  CNS  infection  should  have  a lumbar puncture (LP) as soon as possible, unless there are contraindications. In Western industrialized settings, LP use declined  somewhat  in  the  1990s,  following  concerns  that  it might  precipitate  brain  shift  and  herniation  syndromes  in patients  with  incipient  herniation.  In  the  West,  a  CT  scan  is therefore recommended before LP in patients with clinical features  suggestive  of  incipient  herniation;  whilst  this  is  performed, appropriate antimicrobial therapy is started and a LP is performed as soon as it is deemed safe.
+In the tropics, where CT is less readily available and infections are  more  common,  the  beneVts  of  accurate  diagnosis  and appropriate treatment are often felt to outweigh the theoretical risk of herniation, and even patients with a relative contraindication often undergo a LP with no apparent harm.
+Imaging preferred before  lumbar puncture, if possible to exclude brain shift, swelling, or space-occupying lesion.
+Antimicrobial  treatment  should  be  started  whilst  awaiting imaging.
+If  imaging  shows  no  signiVcant  brain  shift,  lumbar  puncture should be performed.
+- Focal neurologic signs, other than cranial neuropathies
+- Papilloedema
+- Recent-onset seizures
+- Moderate-to-severe impairment of consciousness, or rapidly falling level of consciousness
+- Hypertension with bradycardia
+- Immunocompromise (some patients)
+Other contraindications to immediate LP:
+- Bleeding disorder
+- Anticoagulant treatment
+- Sepsis over the spine
+
+============================================================
+CHUNK 12
+============================================================
+Notes
+- In settings where CT is not readily available, the beneVts of rapid  accurate  diagnosis  from  LP  and  appropriate  treatment are often felt to outweigh the theoretical risk of herniation, and even patients with a relative contraindication often undergo a lumbar puncture with no apparent harm.
+- There is no agreement on the depth of coma that necessitates imaging before LP; some argue Glasgow Coma Score < 12, others say < 10 or < 8.
+- Imaging is preferable in patients with known severe immunocompromise (e.g. advanced AIDS).
+ModiVed from Solomon T. Meningitis. Brain's Diseases of the Nervous System. Oxford: Oxford University Press; 2009:1327-54.
+
+============================================================
+CHUNK 13
+============================================================
+KEY SYNDROMES AND CLINICAL APPROACH
+Encephalopathy is the syndrome of reduced or altered level of consciousness, ranging from the obvious (coma), to the subtle (changed
+
+============================================================
+CHUNK 14
+============================================================
+BOX 10.3  Lumbar Puncture Technique
+- Time spent positioning the patient is time well spent. Insist on good lighting and help from nursing colleagues to keep the patient still.
+- Use  pillows  (or  equivalent)  under  the  patient's  head  and between their legs to ensure the entire cranio-spinal axis is parallel to the bed.
+- Take blood for plasma glucose just before performing the lumbar puncture (LP).
+- Although a proper lumbar puncture needle with a stylet is preferred, in the tropics, standard 20 or 22 gauge needles are sometimes used if nothing else is available, especially in children.
+- Measure the cerebrospinal Uuid (CSF) opening pressure; an improvised  manometer  can  be  made  by  connecting  any sterile tubing (e.g. from a drip) to a LP needle (using a threeway tap) and measuring CSF height against a ruler.
+- If unable to obtain CSF, sit the patient on a chair facing the wrong way, and ask them to lean over the back of it; this opens  up  the  inter-vertebral  space  and  makes  LP  easier (however, do not measure the CSF opening pressure with the patient upright-it will be falsely elevated).
+- If  there  is  no  formal  biochemistry  laboratory  to  measure CSF protein and glucose, and approximation can be made using a urine dipstick [8].
+
+TABLE 10-2 Causes of Aseptic Meningitis
+
+============================================================
+CHUNK 15
+============================================================
+BOX 10.3  Lumbar Puncture Technique
+Common, Viruses = Enteroviruses. Common, Bacteria = Partially treated bacterial meningitis. Common, Other infections = Cryptococcus spp.. Common, Non-infectious causes = Drugs (non-steroidal anti-inUammatory drugs, antibiotics, others). , Viruses = Herpes simplex virus type 2. , Bacteria = Parameningeal bacterial infections. , Other infections = Toxoplasma gondii. , Non-infectious causes = . , Viruses = Arboviruses*. , Bacteria = Listeria monocytogenes. , Other infections = . , Non-infectious causes = . , Viruses = HIV (seroconversion illness). , Bacteria = Tuberculous meningitis. , Other infections = . , Non-infectious causes = . , Viruses = Mumps. , Bacteria = Treponema pallidum (syphillis). , Other infections = . , Non-infectious causes = . Less common, Viruses = Other human herpes viruses (HSV 1, VZV, EBV, CMV, HHV-6, HHV-7). Less common, Bacteria = Mycoplasma pneumoniae. Less common, Other infections = Other fungi, (e.g. Candida spp., Aspergillus spp.). Less common, Non-infectious causes = Autoimmune disorders, vasculitis. , Viruses = Other viruses (inUuenza A & B, measles, parvovoris B19, LVMC, rotavirus). , Bacteria = Borrelia burgdorferi (Lyme disease). , Other infections = Parasites (e.g. Angiostrongylus cantonensis, Naegleria fowleri, Acanthamoeba spp.). , Non-infectious causes = Sarcoid. , Viruses = . , Bacteria = Leptospira spp.. , Other infections = . , Non-infectious causes = Malignancy. , Viruses = . , Bacteria = Brucella spp.. , Other infections = . , Non-infectious causes = Behçets disease. , Viruses = . , Bacteria = Rickettsia rickettsii. , Other infections = . , Non-infectious causes = . , Viruses = . , Bacteria = Erlichia spp.. , Other infections = . , Non-infectious causes = . Other,
+
+============================================================
+CHUNK 16
+============================================================
+BOX 10.3  Lumbar Puncture Technique
+Viruses = . Other, Bacteria = Nocardia spp.. Other, Other infections = . Other, Non-infectious causes = 
+*Varies greatly depending on geographical location
+CMV, cytomegalovirus; EBV, Epstein-Barr virus; HHV-6, human herpes virus 6; HHV-7, human herpes virus 7; HSV 1, herpes simplex virus 1; VZV, varicella zoster virus. ModiBed from From Solomon T. Meningitis. Brain's Diseases of the Nervous System. Oxford: Oxford University Press; 2009:1327-54.
+behavior or personality, which can be mistaken for psychiatric illness or  witch-craft).  The  differential  is  very  broad,  including  metabolic, toxic and infectious causes.
+Encephalitis is inflammation of the brain parenchyma, often owing to infection; strictly speaking, this can only be diagnosed pathologically, with biopsy or autopsy. Because of the practical limitations of this, surrogate markers are used, such as CSF, pleocytosis or inflammatory change on imaging. Infectious causes of encephalitis include viruses  and  some  bacteria,  particularly  small,  intracellular  bacteria. Acute  disseminated  encephalomyelitis  (ADEM)  is  often  a  post-  or para-infectious inflammation. Rarer causes include limbic encephalitis associated with systemic neoplasms. Clinically, encephalitis usually presents  with  a  history  of  flu-like  illness  followed  by  altered  consciousness and severe headache; in children there are often seizures and depending on the type and cause of encephalitis, there may be focal signs. Japanese encephalitis is often associated with tremors and other  signs  of  Parkinsonism.  Herpes  simplex  encephalitis  may  be associated with olfactory hallucinations.
+The  term  'Acute  Encephalitis  Syndrome'  is  used  in  World  Health Organization  (WHO)  surveillance  guidelines  in  Asia  to  describe patients with a febrile illness and altered consciousness or seizures in whom  encephalitis  is  suspected.  Acute  encephalopathy  syndrome may be a more accurate term, as many of these patients turn out to have an encephalopathy rather than encephalitis.
+
+============================================================
+CHUNK 17
+============================================================
+The Patient in Coma
+Before  the  history  and  detailed  examination  can  be  considered, patients  in  coma  require  emergency  assessment,  stabilization  and treatment  of  any immediately  life-threatening  conditions  ( Box 10.5).
+
+============================================================
+CHUNK 18
+============================================================
+BOX 10.4  Cerebrospinal Fluid (CSF) Interpretation-Typical CSF Findings in Central Nervous System Infections (CNS)
+Opening pressure, Viral meningitis or encephalitis = Normal/high. Opening pressure, Acute bacterial meningitis = High. Opening pressure, Tuberculous meningitis = High. Opening pressure, Fungal meningitis = High-very high. Opening pressure, Normal * = 10-20 cm. Color, Viral meningitis or encephalitis = 'Gin' clear. Color, Acute bacterial meningitis = Cloudy. Color, Tuberculous meningitis = Cloudy/yellow. Color, Fungal meningitis = Clear/cloudy. Color, Normal * = Clear. Cells/mm 3, Viral meningitis or encephalitis = Normal-high. Cells/mm 3, Acute bacterial meningitis = High-very high. Cells/mm 3, Tuberculous meningitis = Sl. increased. Cells/mm 3, Fungal meningitis = Normal-high. Cells/mm 3, Normal * = . , Viral meningitis or encephalitis = 0-1000. , Acute bacterial meningitis = 1000-50,000. , Tuberculous meningitis = 25-500. , Fungal meningitis = 0-1000. , Normal * = < 5. DiWerential, Viral meningitis or encephalitis = Lymphocytes. DiWerential, Acute bacterial meningitis = Neutrophils. DiWerential, Tuberculous meningitis = Lymphocytes. DiWerential, Fungal meningitis = Lymphocytes. DiWerential, Normal * = Lymphocytes. CSF/plasma, Viral meningitis or encephalitis = Normal. CSF/plasma, Acute bacterial meningitis = Low. CSF/plasma, Tuberculous meningitis = Low-very low. CSF/plasma, Fungal meningitis = Normal-low. CSF/plasma, Normal * = 66%. Glucose ratio, Viral meningitis or encephalitis = . Glucose ratio, Acute bacterial meningitis = . Glucose ratio, Tuberculous meningitis = (e.g. < 30%). Glucose ratio, Fungal meningitis = . Glucose ratio, Normal * = . Protein (g/L), Viral meningitis or
+
+============================================================
+CHUNK 19
+============================================================
+BOX 10.4  Cerebrospinal Fluid (CSF) Interpretation-Typical CSF Findings in Central Nervous System Infections (CNS)
+encephalitis = Normal-high. Protein (g/L), Acute bacterial meningitis = High. Protein (g/L), Tuberculous meningitis = High-very high. Protein (g/L), Fungal meningitis = Normal-high. Protein (g/L), Normal * = < 0.5. , Viral meningitis or encephalitis = 0.5-1. , Acute bacterial meningitis = > 1. , Tuberculous meningitis = 1-5. , Fungal meningitis = 0.2-5.0. , Normal * = 
+*Normal values:
+Normal CSF opening pressure is < 20 cm for adults, < 10 cm for children below the age of eight years old.
+Although 66% is quoted as the normal glucose ratio, only values below 50% are taken as being signiVcant in many settings.
+A bloody tap will falsely elevate the CSF white cell count and protein. To correct for a bloody tap, subtract 1 white cell for every 700 red blood cells/mm 3 in the CSF and 0.1 g/dL of protein for every 1000 red blood cells.
+Some important exceptions:
+In viral CNS infections, an early lumbar puncture (LP) may give predominantly neutrophils, or there may be no cells in early or late LPs.
+In patients with acute bacterial meningitis that has been partially pretreated with antibiotics (or patients younger than one year old), the CSF cell count may not be very high and may be mostly lymphocytes.
+Tuberculous meningitis (TBM) may have predominant CSF polymorphs early on.
+Listeria can give a similar CSF picture to TBM, but the history is shorter.
+CSF Vndings in bacterial abscesses range from near normal to purulent, depending on location of the abscess and whether there is associated meningitis or rupture. A cryptococcal antigen test (CRAG) and India ink stain should be performed on the CSF of all patients in whom Cryptococcus is possible.
+
+============================================================
+CHUNK 20
+============================================================
+BOX 10.4  Cerebrospinal Fluid (CSF) Interpretation-Typical CSF Findings in Central Nervous System Infections (CNS)
+For assessing depth of coma in adults and children over the age of five, the Glasgow Coma score is used (Box 10.6); in children under the age of five, a range of scores are used, including the Alert, Voice, Pain,  Unresponsive  (AVPU)  score  (see  Box  10.5)  and  the  Blantyre Coma score (Box 10.7).
+A careful history and examination greatly assist the classification of patients presenting with altered consciousness. Consider evidence for HIV infection or other immunocompromise (Box 10.1).
+
+============================================================
+CHUNK 21
+============================================================
+In the history pay attention to:
+- Duration of onset of coma:
+- rapid  (minutes-hours)  suggests  vascular  cause,  especially brainstem cerebrovascular accidents or subarachnoid hemorrhage;  if  preceded  by  hemispheric  signs,  then  intracerebral hemorrhage;
+- coma caused by some infections (e.g. malaria, encephalitis) can  also  develop  rapidly,  especially  when  precipitated  by convulsions;
+- intermediate  (hours-days)  suggests  diffuse  encephalopathy (metabolic or, if febrile, infectious);
+- prolonged  (days-weeks)  suggests  tumors,  abscess,  chronic subdural hematoma.
+- Any drugs?
+- Any trauma?
+- Important past medical history (e.g. hypertension)?
+- Family history (e.g. tuberculosis)?
+- Known epidemic area (e.g. viral encephalitis)?
+- Exposure to insects-mosquitoes (malaria, flaviviruses), ticks (flaviviruses, borrelia).
+- Exposure to sick animals-dogs, cats (rabies).
+- Ingestion of contaminated food-snails (Angiostrongylus), unpasteurized milk/dairy products (brucella, listeria), fresh produce/water (cysticercosis, typhoid).
+- Exposure to contaminated water (leptospirosis, schistosomiasis).
+- Illness in the community (measles, mumps).
+- Generalized illness (infectious mononucleosis).
+- Time of year.
+- Geographical location in the tropics.
+The general medical examination can provide essential clues:
+
+============================================================
+CHUNK 22
+============================================================
+In the history pay attention to:
+- Examine for signs of trauma (check ears and nose for blood or CSF leak).
+- Smell breath for alcohol and ketoacidosis.
+- Examine skin for:
+- rash (meningococcal rash, dengue or other hemorrhagic fever, typhus, relapsing fever);
+- needle marks of drug abuse;
+- recent tick-bite or eschar (tick-borne encephalitis, tick paralysis, tick-borne typhus or relapsing fever);
+- chancre,  with  or  without  circinate  rash  (trypanosomiasis, especially rhodesiense);
+- healed dog-bite (rabies);
+- snake bite.
+- Check the fundi for papilloedema (longstanding raised intracranial pressure) or signs of hypertension.
+- Lymphadenopathy (HIV, tuberculosis), hepatosplenomegaly.
+A focused neurologic examination includes assessment of level of consciousness ( Boxes 10.6 and 10.7 ), then examination of pupils, eye movements, breathing patterns and response to pain to help determine whether a patient has:
+- a diffuse encephalopathy (usually metabolic or infectious);
+- supratentorial focal damage (i.e. above the cerebellar tentorium), which usually manifests as hemispheric signs;
+- damage  in  the  diencephalon  or  brainstem  (midbrain,  pons  or medulla), which may indicate a syndrome of cerebral herniation
+
+============================================================
+CHUNK 23
+============================================================
+BOX 10.5  Rapid Assessment of Patient with Coma in the Tropics
+- Airways
+- Breathing-give  oxygen;  intubate  if  breathing  is  inadequate or gag reUex impaired
+- Circulation-establish venous access
+- obtain blood for immediate bedside blood glucose test (hypoglycemia)
+- malaria Vlm (look for parasites and pigment of partially treated malaria)
+- full  blood  count,  electrolytes,  blood  cultures,  arterial blood gases
+- Disability
+- Start  IV:  10%  dextrose (50 ml  in adults,  5 ml/kg  in children) irrespective of blood glucose
+- Give adults 100 mg thiamine intravenously (especially if alcohol abuse suspected)
+- Immobilize cervical spinal cord if neck trauma suspected
+- Determine  whether  Alert,  responds  to  Voice,  to  Pain,  or Unresponsive (the AVPU scale)
+- If  responds  to  pain  or  is  unresponsive,  examine  the pupils,  eye  movements,  respiratory  pattern,  tone  and posture for signs of brain shift (herniation-see below)
+- If herniation suspected, start treatment for this
+- If  purpuric  rash  present,  give  cefotaxime  for  presumed meningococcal meningitis (after blood cultures)
+- Look for, and treat, generalized seizures, focal seizures and subtle motor seizures (mouth or Vnger twitching, or tonic eye deviation)
+
+============================================================
+CHUNK 24
+============================================================
+BOX 10.6  ModiAed Glasgow Coma Scale for Adults and Children > 5 Years Old
+Best motor response
+- 6 Obeys command
+- 5 Localizes supraorbital pain
+- 4 Withdraws from pain on nail bed
+- 3 Abnormal Uexion response
+- 2 Abnormal extension response
+- 1 None
+
+============================================================
+CHUNK 25
+============================================================
+Best verbal response
+- 5 Oriented
+- 4 Confused
+- 3 Inappropriate words
+- 2 Incomprehensible sounds
+- 1 None
+
+============================================================
+CHUNK 26
+============================================================
+Eye opening
+- 4 Spontaneous
+- 3 To Voice
+- 2 Pain
+- 1 None
+Total score ranges from 15 to 3; the term 'unrousable coma' is sometimes used to reUect a score < 9
+
+============================================================
+CHUNK 27
+============================================================
+BOX 10.7  Blantyre Coma Scale for Children < 5 Years Old
+Best motor response
+- 2 Localizes painful stimulus
+- 1 Withdraws limb from pain
+- 0 NonspeciVc or absent response
+
+============================================================
+CHUNK 28
+============================================================
+Best verbal response
+- 2 Appropriate cry
+- 1 Moan or inappropriate cry
+- 0 None
+
+============================================================
+CHUNK 29
+============================================================
+Eye movements
+- 1 Directed (e.g. follows mother's face)
+- 0 Not directed
+Total score ranges from 5 to 0; the term 'unrousable coma' is sometimes used to reUect a score < 2
+through the tentorial hiatus or the foramen magnum (Box 10.8, Fig. 10.1).
+Determining  whether  there  are  brainstem  signs  can  be  helpful prognostically.
+Based on the history, general examination and neurological examination, patients  will usually  fall  into  one of the  following  categories, with differentials as shown.
+
+============================================================
+CHUNK 30
+============================================================
+Classi$cation into Syndromes
+Encephalopathy only (no brainstem or hemispheric signs; if moderate  encephalopathy-just  behavioral  changes/confusion;  if  more severe-coma).
+- If patient is febrile*, suspect central nervous system (CNS) infection, e.g. cerebral malaria, typhoid, dengue, or
+- metabolic cause with secondary aspiration pneumonia.
+- If no history of fever, coma is likely to be:
+- metabolic, (hypoglycemia, drugs, alcohol, diabetic ketoacidosis, toxins);
+- psychogenic;
+- subarachnoid hemorrhage (or other cerebrovascular accident).
+Coma with focal signs ( + /- meningism).
+Decide if the signs are 'hemispheric signs', 'brainstem signs' or both.
+- Hemispheric signs only:
+- if febrile, consider CNS infection, especially encephalitis, bacterial meningitis with empyema, abscess (tuberculoma);
+- if  afebrile,  consider  space-occupying  lesion,  cerebrovascular accident, trauma.
+- Brainstem signs only may be caused by either:
+- focal pathology within the brainstem, e.g. encephalitis (especially if markedly asymmetrical signs);
+- herniation of the brainstem (through the foramen magnum), secondary  to  a  diffuse  process  (e.g.  diabetic  ketoacidosis or late bacterial meningitis) causing raised intracranial pressure.
+*Note: patients with a history of fever are classified 'febrile' even if not febrile when first examined.
+
+============================================================
+CHUNK 31
+============================================================
+Examine pupil size, and reaction to light
+- Normal reaction (i.e. constriction)-diWuse  encephalopathy.
+- Unilateral  large  pupil-herniation  of  the  temporal  lobe uncus.
+- Small or mid-sized but reactive pupil-diencephalic syndrome.
+- Unreactive midsized pupils-midbrain or pontine lesions.
+- Unreactive large pupils in medullary lesions.
+Note:  pinpoint  pupils  occur  following  opiate  or  organophosphate overdose, or in isolated pontine lesion; other drugs can cause large unreactive pupils.
+
+============================================================
+CHUNK 32
+============================================================
+Assess eye movements (holding eyelids open if necessary)
+- Spontaneous eye movements (brainstem is intact).
+- Oculocephalic (doll's eye) reUex (rotate the head, the eyes normally deviate away from the direction of rotation):
+- Normal indicates brainstem is intact (i.e. diWuse encephalopathy);
+- Reduced  or  absent  responses  occur  in  uncal  herniation and  in  brainstem  damage  (or,  rarely,  in  deep metabolic coma).
+
+============================================================
+CHUNK 33
+============================================================
+Assess breathing pattern
+A normal pattern occurs in a diWuse encephalopathy.
+Cheyne-Stokes breathing and hyperventilation occur in reversible herniation syndromes.
+Shallow,  ataxic  or  apneic  respiration  occurs  in  more  severe brainstem syndromes (Figure 10.1).
+
+============================================================
+CHUNK 34
+============================================================
+Other causes of hyperventilation include:
+- acidosis;
+- aspiration pneumonia;
+- Uaccid paralysis of respiratory musculature.
+
+============================================================
+CHUNK 35
+============================================================
+Assess response to pain (to supraorbital ridge and nailbed of each limb)
+- Hemiparesis  most  often  indicates  supratentorial  hemispheric  focal  pathology  (other  signs  include  asymmetry of tone  and  focal  seizures),  but  also  occurs  in  uncal herniation.
+- Flexor 'decorticate' posturing (Uexion of arms with extension of legs) damage in the diencephalon.
+- Extensor 'decerebrate'  posturing  (extension  of  arms  and legs-midbrain/upper  pontine  damage)  is  prognostically worse.
+- No response, or leg Uexion only, is more severe.
+Metabolic encephalopathies : symmetrical posturing (decorticate  or  decerebrate)  and  hemiparetic  focal  signs  are  also occasionally seen in metabolic encephalopathies (e.g. hypoglycemia; hepatic, uremic, or anoxic coma; sedative drugs), cerebal malaria and intra- or post-ictally. Other pointers to metabolic disease include asterixis, tremor and myoclonus preceding the onset of coma.
+FIGURE 10.1 Peripheral nervous system (PNS). The PNS consists of all of the neural elements outside of the central nervous system (CNS; brain and spinal cord) and provides the connections between the CNS and all other body  organ  systems.  The PNS  consists  of  somatic  and  autonomic components. The somatic component innervates skeletal muscle and skin and is shown here (see Figure 2.15 for the autonomic nervous system). The somatic  component  of  the  peripheral  nerves  contains  both  motor  and sensory axons. Cell bodies of the motor neurons are found in the anterior horn gray matter, whereas the cell bodies of sensory neurons are located in the dorsal root ganglia.
+- Hemispheric and brainstem signs may be caused by either:
+- supratentorial lesion causing hemispheric signs and sufficient swelling  to  precipitate  brainstem  herniation  (e.g.  cerebral bleed, abscess);
+- patchy focal pathology  in  hemispheres  and  brainstem  (e.g. toxoplasma, viral encephalitis).
+
+============================================================
+CHUNK 36
+============================================================
+APPROACHES TO INVESTIGATION, DIAGNOSIS AND MANAGEMENT OF ENCEPHALOPATHY
+Essential blood tests in encephalopathic patients include blood sugar (hypoglycemia), a peripheral blood smear ( Plasmodium falciparum ), full  blood count (leukocytosis in bacterial infection, leukopenia in some viral infections).
+CSF examination is extremely helpful. If patients are mildly encephalopathic  with  only  a  moderate  reduction  in  coma  score,  LP  can proceed without imaging (see Box 10.2). If patients have brainstem signs, hemispheric signs or deep coma, imaging before LP is preferred where  possible.  A  CT  scan  may  reveal  the  cause  in  patients  with supratentorial or hemispheric signs; it is less helpful  in  those with posterior  fossa  (cerebellar)  or  brainstem  signs,  in  whom  magnetic resonance imaging (MRI) is more useful.
+In  viral  encephalitis,  the  CSF  is  usually  lymphocytic,  with  some important exceptions (Box 10.4).
+If enterovirus infection is suspected, swabs should be taken from the throat and any skin vesicles for enterovirus PCR and culture. In addition, rectal swabs or stool samples should be sent.
+
+============================================================
+CHUNK 37
+============================================================
+Neurophysiologic Investigations
+An electroencephalogram (EEG) can be useful in helping determine whether a  patient  with  abnormal behavior  has  an  encephalopathy (with slow waves on the EEG) or has psychiatric illness (EEG normal). Its  other  role  is  in  determining  whether  a  patient  with  abnormal movements is in subtle motor status epilepticus. EEGs can also help characterize the nature of a patient's epilepsy. In many tropical settings, the equipment is found in psychiatric, rather than neurologic, departments.
+
+============================================================
+CHUNK 38
+============================================================
+Management of Patients with Encephalopathy and Encephalitis
+Management of specific causes of encephalopathy and encephalitis is covered in the relevant chapters:
+Bacterial Meningitis Causing Encephalopathy (Chapter 54); Viral Encephalitis (Chapter 34); TB Meningitis (Chapter 39); Cryptococcus (Chapter 84).
+Here, management of some of the common complications is considered.  Regardless  of  the  underlying  etiology,  common  problems include  seizures  (Box  10.9)  and  raised  intracranial  pressure  (Box 10.10).
+Fluid  management  is  also  an  issue  in  many  patients  with  altered consciousness.  Ask  about  how  much  fluid  a  patient  has  had  in recent days and look for reduced skin turgor and sunken eyes indicative of dehydration. Although, in theory, one wants to avoid fluid overload in patients that may have cerebral edema, in practice most patients  are  dehydrated  by  the  time  they  get  admitted  to  hospital and  fluid  restriction  may  make  things  worse.  Such  patients  need careful  rehydration;  the  ability  to  measure  central  venous  pressure can  be  helpful.  If  there  is  papilloedema  or  clinical  signs  of  raised intracranial pressure  and  brain  shift, mannitol or hypertonic saline are often given. Although there is little evidence for or against many conditions,  data  from  children  with  cerebral  malaria  suggest  that mannitol  gives  a  transient  reduction  in  pressure,  but  overuse  can ultimately result in raised pressure [4]. A recent, multi-center study in Africa showed that bolus administration of fluid in children with a febrile illness and impaired perfusion (including those with coma) increased mortality [5].
+
+============================================================
+CHUNK 39
+============================================================
+EPILEPSY
+Epilepsy  is  a  major  cause  of  neurodiability  in  the  tropics.  The incidence is increased as a result of infectious causes, such as cysticercosis,  and  head  trauma  and  cerebral  palsy.  Common  syndromes include:
+- in adults: complex partial seizures with secondary generalizations;
+- in children: primary, generalized epilepsies associated with cerebral palsy or developmental delay.
+With  a  targeted  history,  resources  such  as  brain  imaging  and  EEG can  be  focused  on  those  who  will  really  benefit  from  them.  In many settings, the only drugs available are phenytoin, phenobarbitone,  sodium  valproate  and  carbamazepine.  Management  is  often complicated by local superstition about what causes epilepsy (curses, witchcraft, etc.), and poor access to health care. Severe burns, secondary to falling into an open fire, are a common complication of epilepsy in many parts of the tropics.
+The management of status epilepticus is covered above (Box 10.1 1A) [6].
+
+============================================================
+CHUNK 40
+============================================================
+DEMENTIA AND COGNITIVE IMPAIRMENT
+In the tropics, cognitive impairment secondary to chronic infection is more common than in the West.
+Infectious disease causes of dementia include: bacteria, such as tuberculosis  and  syphilis;  viruses,  such  as  HIV  and  subacute  sclerosing panencephalitis (SSPE) secondary to measles; cryptococcus and other fungi; and sleeping sickness.
+Examination should include looking for posterior cervical lymphadenopathy (Winterbottom's sign in African trypanosomiasis), clues to HIV (Box 10.1 1A). In SSPE, there is a characteristic myoclonic jerking of the limbs with associated EEG abnormality; CSF protein is usually elevated and the diagnosis is confirmed by high titers of anti-measles antibodies in the serum and CSF.
+
+============================================================
+CHUNK 41
+============================================================
+HEMIPARESIS
+As the populations in tropical countries rapidly adopt the unhealthy lifestyle of Western industrialized nations, including smoking and a diet high in saturated fats, they are developing the associated diseases, including hypertension and diabetes, leading to an increased risk of stroke. In addition, stroke in younger people is especially common, possibly because of the increased incidence of HIV.
+Infectious space-occupying lesions may cause hemiparesis, altered consciousness, dementia or meningism depending on their etiology, location, speed of onset and the host response (Box 10.1 1B). They are especially important in the immunocompromised. Brain imaging is an essential investigation in such patients.
+
+============================================================
+CHUNK 42
+============================================================
+KEY SYNDROMES AND CLINICAL APPROACH
+Peripheral nerve syndromes are the most frequent of the neuromuscular disorders encountered. The most common causes are diabetes, HIV, leprosy, drugs, toxins and nutritional deficiencies [although the complete list is much longer (Box 10.12)]. Identifying drug, toxin and nutritional causes rapidly is important as it will obviate the need for extensive investigations, and removal of the offending drug or toxin will stop progression and result in recovery if identified early enough. Similarly, treatment with the appropriate vitamins and nutrients will stop progression and help with recovery, although this may not be complete. Nowadays, and especially in the tropics, HIV, which can affect all areas of the neuro-axis, including nerve and muscle, features high on every list of differential diagnosis. Furthermore, as much of the  developing  world  has  a  growing  middle  class  who  are  rapidly adopting Western lifestyles and diets with fast foods and less exercise, diabetes and obesity are an increasing problem with the well-known consequences.
+The prevalence of relatively common neuromuscular conditions such as Guillain-Barré  syndrome (GBS), chronic inflammatory demyelinating  polyneuropathy  (CIDP),  polymyositis  and  myasthenia  gravis (MG) is  unknown  in  the  'tropics' .  For  the  most  part,  there  is  no reason why they should be more or less prevalent; however, the acute motor axonal neuropathy (AMAN) form of GBS, which is often associated with Campylobacter jejuni infection, was, at one time, especially common in China, probably because of the way domestic chickens were housed.
+Neuro-anatomically, lesions may involve anterior horn cell (causing a  motor  neuronopathy),  nerve  root  (radiculopathy),  dorsal  root ganglion  (sensory neuronopathy), brachial or  lumbo-sacral plexus, sensory  and  motor  nerve,  motor  nerve  only,  sensory  nerve  only (large  and/or  small  fibers),  neuromuscular  junction  and  muscle (Fig. 10.2).
+
+============================================================
+CHUNK 43
+============================================================
+BOX 10.9  Recognition and Management of Acute Symptomatic Seizures in Patients with Central Nervous System (CNS) Infection
+- In some severe brain infections (cerebral malaria, viral encephalitis), children in status epilepticus may have subtle motor seizures, rather than generalized tonic clonic seizures. Usually, this is  in  children  who  had  multiple  tonic  clonic  seizures  before hospitalization.  Clinical  manifestations  include  twitching  of digit, mouth or eyelid, tonic deviation of the eyes, excess salivation and an abnormal respiratory pattern.
+- A  World  Health  Organization  (WHO)  algorithm  for  management of status epilepticus in children is shown below (taken from [6]). In many settings, facilities for intubation and ventilation are very limited and diXcult decisions have to be made about which patients are likely to beneVt. Bag and mask ventilation  by  family members is often employed  for hours, and even days, through lack of facilities.
+Paraldehyde: 0.3-0.4 ml/kg/dose PR diluted 1:1 in corn or olive all or saline (Maximum dose 8 ml)
+IV access necessary
+- A. Phenytoin: 15-20 mg/kg IV administered glowly at <1 mg/kg/minute (administer in 0.9% Nacl). Measure plasma level in 90-120 minutes. Maintenance:
+Phenytoin: 8-10 mg/kg/day in two or three divided doses dally IV/PO (or if already on Phenytoin)
+- B. Phenobarbital: 15-20 mg/kg IV at rate <1 mg/kg/minute
+Convulsion persists
+
+============================================================
+CHUNK 44
+============================================================
+Controlled intubation and cedation
+- A. Midazolam: 0.2 mg/kg loading dose, then 1-10 micrograms/kg/min or
+- B. Pentobarbital 5-16 mg/kg loading dose, followed by 0.5-5 mg/kg/hour to produce a burst-suppression EEG pattern. or
+- C. Thiopentone Godlum 4-8 mg/kg loading dose over 30 min., followed by maintenance infusion of 1 mg/kg/hour (maximum maintenance 5 mg/kg/hr). Repeat loading dose 5 mg/kg with each increase in maintenance of 1 mg/kg/h.
+Reproduced with permission from Solomon (Chair), T. and Japanese Encephalitis Working Group. World Health Organization: Japanese encephalitis Clinical Care Guidelines. Geneva: World Health Organization; 2005.
+
+============================================================
+CHUNK 45
+============================================================
+BOX 10.10  Management of Raised Intracranial Pressure in Central Nervous System (CNS) Infections
+- Manage the patient with the bed raised at 30°, use pillows to keep the head in the midline position (a bent neck can impair jugular venous outUow thus increasing intracranial pressure).
+- Mannitol  is  often  given,  but  recent  studies  in  cerebral malaria  show  that  after  an  initial  reduction  in  pressure, repeated mannitol ultimately leads to increased pressure.
+- Steroids are often given; their beneVt has been shown in tuberculous  meningitis (TBM), but the evidence suggests they are probably not beneVcial in acute bacterial meningitis or in Japanese encephalitis.
+- Raised pressure caused by over-production/impaired absorption  of  cerebrospinal  Uuid  (CSF;  as  in  cryptococcal meningitis)  is  treated  by  shunt  insertion  and  ventriculoperitoneal shunt.
+
+============================================================
+CHUNK 46
+============================================================
+Infectious
+Sleeping sickness (esp. Trypanosoma brucei gambiense)
+Tuberculous meningitis
+HIV encephalopathy
+Toxoplasma gondii and other parasitic space-occupying lesions Bacterial abscesses
+Partially-treated bacterial meningitis
+Neurosyphilis
+Cryptococcal meningitis and other fungi
+Subacute sclerosing pan-encephalitis
+Progressive multifocal leukoencephalopathy
+
+============================================================
+CHUNK 47
+============================================================
+Other
+Tumors
+Chronic subdural hemorrhages
+Lead and other heavy metal poisoning
+Dementia
+Vitamin deVciencies
+Drugs
+Toxins
+
+============================================================
+CHUNK 48
+============================================================
+PERIPHERAL NEUROPATHIC SYNDROMES
+Sensory  symptoms  include  positive  symptoms,  such  as  pins  and needles (paraesthesiae), burning, sharp shooting or stabbing pains, or a band-like, tight sensation. These co-exist with negative symptoms of numbness (lack of feeling). Patients may also complain of allodynia (pain resulting from non-painful stimulus, such as light touch). Unsteadiness when walking and falling over in the dark or with the eyes closed (rhombergism) suggests significant large fiber or dorsal column involvement. Severe pain and localized edema may suggest a vasculitis process.
+
+============================================================
+CHUNK 49
+============================================================
+Infectious
+Bacterial abscesses
+Tuberculomas
+Parasites:
+Protozoa-toxoplasmosis, amoebiasis
+Tremotodes-paragonimiasis, schistosomiasis
+Cestodes-cysticercosis, hydatidosis
+Nemotodes-Ascariasis
+Fungi:
+Aspergillosis, blastomycosis, nocardia
+
+============================================================
+CHUNK 50
+============================================================
+Non-infectious
+Tumors and metastases Hemorrhage
+
+============================================================
+CHUNK 51
+============================================================
+BOX 10.12  Etiology of Peripheral Nerve Disorders
+Metabolic: diabetes
+Infectious:
+Viral-HIV, polio, HTLV-1, Hepatitis B and C BacterialMycobacterium  leprae,  Corynebacterium  diptheriae, Clostridium botulinum (strictly causes neuromuscular blockade), Borrelia and brucellosis (cause a radiculopathy)
+Parasitic: Trypanosoma cruzi (mainly autonomic dysfunction)
+Post-infectious [typically Guillain-Barré syndrome (GBS)]: Campylobacter jejuni ,  Epstein-Barr  virus,  cytomegalovirus, HIV, malaria
+
+============================================================
+CHUNK 52
+============================================================
+Toxic:
+Drugs-anti-retrovirals (ddI, ddC, D4T), isoniazid, metronidazole, nitrofurantoin, chemotherapy (vinca  alkaloids, cis-platin, thalidomide)
+Pesticides-organophosphates
+Heavy metals-arsenic, mercury, thallium, lead
+Organic solvents-acrylamide, carbon disulVde, n-hexane
+Alcohol-direct toxicity + thiamine deVciency
+Biological toxins-ciguatera toxin, brevetoxin B, tetrodoxtoxin
+
+============================================================
+CHUNK 53
+============================================================
+Nutritional:
+Strachan's syndrome (optic + peripheral neuropathy due to multifactorial deVciencies)
+DeVciencies-B1 (thiamine), beri-beri, B3 (niacin), pellagra, B6(pyridoxine), B12 (cyanocobalamin), subacute combined  degeneration  of  the  cord,  folate,  hypophosphatemia, vitamin E, copper
+Note: Excess B6 causes a dorsal root ganglionopathy Neoplastic:  (inVltration  of  root,  plexus,  nerve),  paraneoplastic
+(anti-hu antibody)
+Genetic: Charcot-Marie-Tooth (CMT1 = demyelinating, CMT2 = axonal)
+
+============================================================
+CHUNK 54
+============================================================
+Herniation syndromes - key abnormal findings
+FIGURE 10.2 Sagittal section of brain showing anatomy and key abnormal Vndings of midline herniation syndromes, and (above) coronal section showing herniation of the uncus of the temporal lobe-this compresses the ipsilateral third nerve (to cause a palsy of CNIII) and the contralateral cerebral peduncle (to cause an ipsilateral hemiparesis). OCR, occulocephalic (doll's eye reUex); OVR, oculovestibular (caloric) reUex.
+
+============================================================
+CHUNK 55
+============================================================
+BOX 10.13  Patterns of Peripheral Nerve Syndromes
+1. Symmetrical proximal and  distal  weakness  and sensory  loss, e.g. Guillain-Barré  syndrome (GBS),  chronic  inUammatory demyelinating polyneuropathy (CIDP), vasculitis.
+2. Symmetrical distal  weakness  and  sensory  loss,  e.g.  diabetes, leprosy,  toxic  neuropathies  (arsenic),  nutritional  deVciency (thiamine).
+3. Asymmetric distal weakness with sensory loss: multiple nerve involvement (mononeuritis multiplex), e.g. vasculitis, leprosy, HIV, inVltration (lymphoma, carcinoma, sarcoidosis); single nerve involvement, e.g. compression, but may be initial presentation of mononeuritis.
+4. Asymmetic distal or proximal weakness without sensory loss, e.g.  motor  neuron  disease  (MND),  polio,  lead  toxicity,  postinfectious neuralgic amyotrophy, multifocal motor neuropathy with block (MMN).
+5. Asymmetric proximal  and  distal  weakness  with  sensory  loss, e.g. GBS, CIDP , plexopathy due to diabetes or malignant inVltration, radiculopathies (e.g. tuberculosis, brucellosis).
+Common motor symptoms include tripping because of weakness of ankle  dorsiflexors  (foot  drop),  unable  to  turn  keys  or  open  jars because of weakness of small hand muscles. Note: in GBS, bulbar and respiratory muscle weakness may be life-threatening.
+Examination of patients with  peripheral  nerve  disorders  or  radiculopathies may reveal evidence of a 'lower motor neuron syndrome' with  wasting ± fasciculation ± weakness  in  the  distribution  of  a root(s), peripheral nerve(s) or plexus(i) ± depressed or absent reflexes ± sensory loss in the appropriate dermatomes. Note: in small fiber
+
+============================================================
+CHUNK 56
+============================================================
+BOX 10.13  Patterns of Peripheral Nerve Syndromes
+6. Symmetric sensory loss without weakness-mainly small Vber involvement  (pain  and  temperature  loss),  e.g.  diabetes,  HIV, nutritional deVciencies (thiamine, pyridoxine), toxins (ciguatera).
+7. Symmetric sensory loss without weakness-large Vber (joint position and vibration sensory loss) and small Vber, e.g. diabetes, HIV, drugs, nutritional deVciencies, toxins (mercury, thallium).
+8. Marked  proprioceptive  sensory  loss,  e.g.  sensory  ganglionopathies owing to Sjogrens, paraneoplastic, B6 toxicity, HIV.
+9. Neuropathy  with  autonomic  neuropathy,  e.g.  diabetes,  GBS, Trypanosoma cruzi (Chagas'disease), amyloidosis.
+10.  Neuropathy with cranial nerve involvement, e.g. GBS, diphtheria, Lyme disease, HIV, malignant inVltration, sarcoidosis. (Note: Miller Fisher variant of GBS-ophthalmoplegia, ataxia, areUexia.)
+neuropathies, e.g. diabetes, HIV, and sometimes leprosy in the early stages, reflexes may remain present.
+In  order  to  reach  a  diagnosis  for  peripheral  nerve  syndromes,  the following questions need to answered after the history and examination:
+1. Temporal evolution?
+- acute  (days  up  to  4  weeks),  e.g.  GBS,  vasculitis,  toxic (drugs such as anti-retrovirals), nutritional deficiency;
+- subacute (4-8 weeks), e.g. subacute inflammatory demyelinating polyneuropathy (SIDP), vasculitis, toxins, nutritional deficiency;
+- chronic (longer  than  8  weeks),  e.g.  CIDP,  toxins,  infections (HIV, leprosy), nutritional deficiency.
+2. Which parts or combinations of the peripheral nerve system are involved?
+- motor nerves;
+- sensory nerves;
+- autonomic nerves;
+- cranial nerves.
+The pattern of nerve involvement (Box 10.13) gives a clue to the etiology.
+
+============================================================
+CHUNK 57
+============================================================
+BOX 10.13  Patterns of Peripheral Nerve Syndromes
+3. Clues to genetic neuropathy-family history, onset in childhood with delayed motor milestones. Examination for pes cavus (high arched feet), pes planus (flat feet), clawed toes, scoliosis. Commonest: Charcot-Marie-Tooth (CMT).
+
+============================================================
+CHUNK 58
+============================================================
+MYOPATHIC SYNDROMES
+There  are  a  more  limited  number  of  myopathic  syndromes.  The important ones to consider in the tropics include HIV and drugs used to treat it, such as azidothymidine (AZT) (Box 10.14).
+
+============================================================
+CHUNK 59
+============================================================
+Peripheral nerve disorders
+Basic facilities:
+full blood count, erythrocyte sedimentation rate;
+renal and liver function;
+fasting glucose;
+HIV;
+veneral  disease  research  laboratory  (VDRL)  test, Treponema pallidum hemagglutination test (TPHA).
+High-level facilities:
+HbA1c;
+glucose tolerance test (GTT);
+B12, folate, B1, B6;
+immunoglobulins and protein electrophoresis;
+ANA (antinuclear antibody), dsDNA, ENA (extractable nuclear antibody), ANCA (antineutrophil cytoplasmic antibody);
+anti-neuronal antibodies (paraneoplastic syndromes);
+
+============================================================
+CHUNK 60
+============================================================
+cryoglobulins;
+- CSF examination [in  Guillain-Barré  syndrome  (GBS),  elevated protein  level with  normal cell count ( < 5  cells)];  elevated CSF cell count-consider infections such as HIV seroconversion, Borrelia, lymphoma;
+Chest x-ray;
+Nerve conduction studies (NCT) and electromyography (EMG) -useful  for  categorizing  demyelinating  [GBS,  chronic inUammatory demyelinating polyneuropathy (CIDP), diphtheria] and axonal neuropathies;
+Nerve  biopsy-only  sensory  nerve  (sural  nerve,  superVcial peroneal nerve or dorsal ulnar nerve)-looking for vasculitis, demyelinating neuropathy (CIDP), amyloid, malignant inVltration  or  possible  genetic  neuropathy  if  no  family history (note: diagnostic yield for biopsy is low in chronic axonal neuropathy and if nerve is normal on neurophysiologic tests);
+genetic tests-PMP 22 duplication for CMT 1a;
+SpeciVc  antibody  tests-GQ1b  (Miller  Fisher  variant  of  GBS) anti-MAG (myelin-associated glycoprotein) antibody;
+MRI brachial and lumbosacral plexus-thickened in inUammation and inVltration.
+
+============================================================
+CHUNK 61
+============================================================
+Muscle disorders
+Basic facilities:
+creatinine phosphokinase (CPK);
+HIV.
+High-level facilities:
+NCT and EMG;
+muscle biopsy;
+MRI muscles-deVnes aWected muscles and helps localize best muscle for biopsy;
+genetic  tests,  e.g.  Duchenne  muscular  dystrophy,  myotonic dystrophy.
+
+============================================================
+CHUNK 62
+============================================================
+Myasthenic disorders
+Basic facilities:
+CXR  [malignancy  in  Lambert-Eaton  myasthenic  syndrome (LEMS)].
+High-level facilities:
+acetylcholine receptor antibodies (present in 85% generalized MG,  50%  ocular  MG).  If  negative,  muscle-speciVc  kinase (MuSK) antibodies;
+voltage-gated  calcium  channels  for  LEMS  (paraneoplastic  or autoimmune);
+NCT and EMG-repetitive nerve stimulation and single Vber studies will discriminate between MG and LEMS;
+tensilon (edrophonium test)-rapid-onset, short-acting cholinesterase  inhibitor  drug  given  intravenously.  Potential cardiac side eWects (bradycardia). Require physical sign such as ptosis or ocular paresis or limb weakness that can be objectively tested before and after (note: botulism may give a false-positive result);
+- CT chest (thymoma) in patients with MG;
+positron emission tomography (PET) scan in patients with LES (Lambert Eaton syndrome) (malignancy usually small cell lung cancer).
+
+============================================================
+CHUNK 63
+============================================================
+BOX 10.14  Etiology of Myopathic Syndromes
+In@ammatory: polymyositis,  dermatomyositis,  inclusion  body myositis.
+Infectious: HIV, HTLV1, coxsackie, inUuenza.
+Drug-induced: azidothymidine ( AZT),  statins,  corticosteroids, colchicines, chloroquine.
+Endocrine: hypothyroidism, Cushing's syndrome.
+Genetic: muscular dystrophies, myotonic dystrophy, mitochondrial myopathies.
+Toxic: mushrooms  ( Tricholoma  equestre ),  red  yeast  ( Monascus purpureus ),  alcohol,  snake  venoms  (e.g.  taipan),  spider venom (e.g. redback spider), toluene, organophosphates.
+Symptoms: muscle  pain  (myalgia)  and  tenderness,  dysphagia,  dark urine  (myoglobinuria).  Weakness  suggestive  of  proximal  weakness (difficulty  rising  from  the  floor  or  chair,  climbing  stairs,  reaching above the head). Exercise-induced muscle pains and cramps.
+Examination: weakness  of  neck  flexion  (sternomastoid  muscles), muscles  around  the  shoulder  girdle  [shoulder  abductors  (deltoid muscle)], pelvic girdle [hip flexors and extensors (iliopsoas and glutei muscles)]. Reflexes are usually intact except in profoundly weak and wasted muscles, such as quadriceps (knee jerk, L3, L4).
+Note:  in  inclusion  body  myositis  (IBM,  the  commonest  cause  of inflammatory  myopathy  in  patients  over  the  age  of  50  years),  the forearm flexors and quadriceps muscles are selectively affected.
+
+============================================================
+CHUNK 64
+============================================================
+MYASTHENIC SYNDROMES
+Symptoms: Painless,  fluctuating  weakness  may  affect  ocular  muscles [with drooping eyelids (ptosis) and double vision (diploplia)], bulbar and  respiratory  muscles  (maybe  life-threatening),  as  well  as  limb muscles.
+Examination: in MG, fatiguability (increasing weakness with exertion, e.g. test shoulder abduction before and after 20 repetitive abduction, adduction movements at the shoulders) is pathognomonic, but in Lambert-Eaton syndrome (LEMS), the opposite occurs. In botulism, there  is  progressive  weakness,  starting  with  ocular  muscles  with pupillary  involvement (fixed pupils),  followed by  bulbar and  limb muscle  weakness  with  autonomic  dysfunction  as  the  toxin  binds irreversibly with post-synaptic receptors at the cholinergic neuromuscular junction.
+Drugs such as penicillamine can rarely cause a myasthenic syndrome. Rare  congenital  syndromes  are  also  described.  Organophosphates, used as pesticides and in chemical warfare, may also be ingested with suicidal intent. This causes an acute cholinergic crisis as a result of acetylcholinesterase inhibition with ocular, bulbar, limb and respiratory weakness.
+
+============================================================
+CHUNK 65
+============================================================
+BOX 10.16  Management of Peripheral Nerve Syndromes
+1. Guillain-Barré syndrome (GBS):
+- intravenous  immunoglobulin  (i.v.  IG)  (0.4g/kg/day)  is  the treatment  of  choice,  but  has  similar  eXcacy  to  plasma exchange. Applies to HIV-associated GBS;
+- corticosteroids have no beneVt;
+- general supportive measures essential. In the best centers, mortality is 5%. At one year, 15% unable to walk unaided. Poor outcome associated with older age, preceeding diarrheal illness, severity and rapid rate of decline to ventilation, and severe muscle wasting;
+- respiratory failure: inabilty to recognize this insidious complication is a common cause of mortality. Regular monitoring of vital capacity (VC), not peak Uow (PEF), is essential. If ≤ 20 ml/kg (1.5 L for average adult), consider ITU (intensive treatment/care unit) transfer and ventilation. Decreased O 2 saturation is a very late sign;
+- swallowing: requires speech and language therapy assessment (SALT). If compromised,  consider  nasogastric  tube;
+- cardiac: brady and tachy arrhythmias and labile blood pressure  owing  to  autonomic  involvement.  ECG  monitoring necessary;
+- thromboembolic: deep vein thrombosis (DVT) prophylaxis;
+- neuropathic pain is common: gabapentin. Avoid amitryptyline in early stages because of autonomic complications;
+- mood: depression common;
+- physiotherapy.
+2. Chronic inUammatory demyelinating polyneuropathy (CIDP):
+- Corticosteroids,  IV  IG,  plama  exchange  all  eXcacious  with 80% response rate.
+- Corticosteroids start with 60 mg/day for 2 weeks, gradually  tailing  oW.  If  steroid  responsive  add  azathioprine (2 mg/kg)  or  methotrexate  initially  7.5 mg/week + folic acid up to 15 mg/week as steroid-sparing agents.
+- After initial course of IV IG (2 g/kg), subsequent doses and timing depends on patient response.
+3. Vasculitic neuropathy:
+
+============================================================
+CHUNK 66
+============================================================
+BOX 10.16  Management of Peripheral Nerve Syndromes
+- In  nerve-speciVc vasculitis, i.e. no evidence of other organ involvement corticosteroids starting at 60 mg/day gradually tapering dose. If part of a generalized vasculitis add cyclophosphamide. Treat associated infectious etiology such as HIV  appropriately.  In  hepatitis  C,  high-dose  steroids  can cause liver decompensation. Liaise with hepatologists.
+4. Neuropathic pain:
+- Common problem in diabetes and HIV neuropathies.
+- Drugs to consider:
+- Amitryptyline or nortriptyline. Start dose 10 mg nocte, up to 100-150 mg nocte.
+- Gabapentin. Start dose 100 mg tds, up to 900 TDS.
+- Pregabilin. Start dose 25 mg bd, up to 300 mg bd.
+- bowel function needs regulation with laxatives;
+
+============================================================
+CHUNK 67
+============================================================
+BOX 10.17  Management of InBammatory Myopathic Syndromes
+1. Polymyositis and dermatomyositis
+- Unless indolent: methylprednisolone 500 mg IV for 5 days.
+- Followed by oral prednisolone 1 mg/kg/day (up to 100 mg) single oral dose until creatinine phosphokinase (CPK) reverts to normal and patient improving. Gradual taper with clinical and CPK monitoring. Prescribe treatment for steroid induced osteoporosis.
+- Usually also start immunosuppressants (azathioprine 25 mg/day  up to  2.5 mg/kg/day over 6-8  weeks  or methotrexate  initially  7.5 mg  per  week  with  folic  acid,  as  these may take months to become eWective).
+2. Inclusion body myositis
+- Unless biopsy shows a marked inUammatory inVltrate when a  trial  of  steroids  is  indicated,  at  present  no  treatment  of proven signiVcant beneVt.
+
+============================================================
+CHUNK 68
+============================================================
+BOX 10.18  Management of Myasthenic Syndromes
+1. Myasthenia gravis
+- pyridostigmine:
+- 30mg  bd,  gradually  up  to  60 mg  x5  daily.  Doses > 300 mg rarely required and could cause a cholinergic crisis. Side eWects of muscarinic  smooth  muscle abdominal pain and diarrea respond to propantheline 15-30 mg PRN.
+- corticosteroids:
+- initial starting dose 10 mg alternate days. Note risk of deterioration on starting steroids. Warn patient or, if possible, admit to hospital initially. Aim for 120 mg on alternate  days. When  in  remission,  gradually  tail  oW. Prescribe treatment for steroid-induced osteoporosis.
+- steroid-sparing drugs:
+- Azathioprine. Therapeutic eWect may not be apparent for 6-12 months. Check thiopurine methyltransferase (TPMT) levels as indicator of risk of hematological side eWects.  Azathioprine  starting  at  25 mg/day,  increase weekly  to  2.5 mg/day.  Regular  blood  tests  required every week for 2 months then 3-monthly.
+- Plasma exchange and IV Ig:
+- Used in myasthenic crises or if signiVcant bulbar and respiratory symptoms before starting pyridostigmine and steroids.
+- thymectomy
+- indicated if thymoma present as it is locally invasive. Consensus  of  beneVt  in  those < 45  years  age  but  is controversial in those older than 45 years.
+
+============================================================
+CHUNK 69
+============================================================
+APPROACHES TO INVESTIGATION, DIAGNOSIS AND MANAGEMENT
+The  approach  to  investigation  and  diagnosis  of  peripheral  nerve, muscle and myasthenic disorders depends on whether only basic or more advanced facilities are available (Box 10.15).
+The  management  of  peripheral  nerve  syndromes  depends  on  the diagnosis. Approaches to managing GBS, CIDP, vasculitis and neuropathic  pain  are  shown  in  Box  10.16.  The  approach  to  managing myopathic syndromes is given in Box 10.17, whilst in Box 10.18 an overview of the approach to MG is shown. Some clinical pearls in approaching patients with peripheral nerve and muscle syndromes are given in Box 10.19.
+
+============================================================
+CHUNK 70
+============================================================
+REFERENCES
+1. van de Beek D, de Gans, J, Spanjaard L, et al. Clinical features and prognostic factors in adults  with bacterial meningitis. N  Engl J  Med  2004;351: 1849-59.
+
+============================================================
+CHUNK 71
+============================================================
+BOX 10.19  Some Clinical Pearls in Approaching Patients with Peripheral Nerve and Muscle Syndromes
+- Palpate nerves (ulnar, superVcial radial, dorsal ulnar, common peroneal ). Causes of thickened nerves: leprosy, chronic inUammatory demyelinating polyneuropathy (CIDP), Charcot-Marie-Tooth (CMT), malignant inVltration.
+- Neck Uexion weakness is a useful sign. Causes: myopathies, myasthenia gravis, motor neuron disease, myotonic dystrophy, Guillain-Barré syndrome (GBS).
+- Demyelinating  neuropathy  clues:  postural  tremor,  weakness but no wasting, thickened nerves, generalized areUexia.
+- Coasting-drug  and  toxic  neuropathies  may  continue deteriorating  for  a  period  despite  stopping  the  oWending  drug.
+- HIV  causes  a  spectrum  of  neuropathies:  distal  sensory peripheral neuropathy (DSPN), demyelinating neuropathy (GBS, especially at seroconversion and CIDP), vasculitic neuropathy,  dorsal  root  ganglionopathy  and  motor  neuron syndrome.  It  is  also  associated  with  polymyositis.  Drugs used  in  HIV  may  cause  neuropathy  (ddI,  ddC,  D4T)  and myopathy [azidothymidine (AZT)].
+- Always  enquire  about  homeopathic,  traditional  medications and over-the-counter supplements, such as vitamins as these may contain lead, mercury and/or arsenic.
+2. van de Beek D, Farrar JJ, de Gans J, et al. Adjunctive dexamethasone in bacterial  meningitis:  a  meta-analysis  of  individual  patient  data.  Lancet  Neurol 2010;9:254-63.
+3. Thwaites GE, Nguyen DB, Dung NH, et al. Dexamethasone for the treatment of  tuberculous  meningitis  in  adolescents  and  adults.  N  Engl  J  Med  2004; 351:1741-51.
+4. Newton  CRJC,  Crawley  J,  Sowumni  A,  et  al.  Intracranial  hypertension  in Africans with cerebral malaria. Arch Dis Child 1997;76:219-26.
+
+============================================================
+CHUNK 72
+============================================================
+BOX 10.19  Some Clinical Pearls in Approaching Patients with Peripheral Nerve and Muscle Syndromes
+5. Maitland K, Kiguli S, Opoka RO, et al. for the FEAST Trial Group. Mortality after  fluid  bolus  in  African  children  with  severe  infection.  N  Engl  J  Med 2011;364:2483-95.
+6. Solomon (Chair), T. and Japanese Encephalitis Working Group. World Health Organization: Japanese encephalitis Clinical Care Guidelines. Geneva: World Health Organization; 2005.
+7. Solomon  T.  Meningitis.  Brain's  Diseases  of  the  Nervous  System.  Oxford: Oxford University Press; 2009:1327-54.
+8. Molyneux EM, Walsh AL, Phiri D, et al. Does the use of urinary reagent strip tests improve the bedside diagnosis of meningitis? Trans R Soc Trop Med Hyg 1999;93:409-10.
+

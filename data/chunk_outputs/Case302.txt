@@ -1,0 +1,145 @@
+============================================================
+CHUNK 0
+============================================================
+68
+
+============================================================
+CHUNK 1
+============================================================
+KEY FEATURES
+- undifferentiated fever in Asia and Australia caused by Orientia tsutsugamushi, with some 1 billion people at risk. Recently locally acquired scrub typhus has been described in Chile in South America, and there is mounting evidence that Orientia is also present in Africa.
+- meningoencephalitis, pneumonitis, jaundice, hypotensive shock, and death.
+- (chiggers) in a wider diversity of habitats than 'scrub' suggests.
+- are inadequate.
+- chloramphenicol-resistant O. tsutsugamushi exist in northern Thailand. Elsewhere, tetracyclines, chloramphenicol, and rifampicin appear ef{cacious.
+- rickettsiosis.
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+Scrub  typhus  was  described  in  Japan  in  the  1800s  and  then  in Malaysia in the 1920s, where it was distinguished from murine typhus. It was a major clinical problem in many Asian theaters of the Second World War and the Indochina Wars. 1 Management was  transformed  by  chloramphenicol  and  the  tetracyclines.  It remains a major, under-appreciated cause of undifferentiated fever in Asia. Diagnosis is greatly hampered by the lack of accurate and accessible  laboratory  diagnosis.  Given  the  large  populations  of India and China, the numbers potentially exposed are enormous. With the growth of eco-tourism in Asia, more travelers are returning to non-endemic areas with this disease.
+
+============================================================
+CHUNK 3
+============================================================
+EPIDEMIOLOGY
+Scrub  typhus  occurs  in  the  most  populous  rural  areas  of  the world-across 13,000,000 km 2 from the Paci{c Rim,  Southeast Asia, northern  Australia, and northeast  Asia across South and Central Asia as far west as Uzbekistan and including the Maldives (Fig. 68.1). 1 This has been conventionally called the scrub typhus triangle, but it is more of a rhomboid than a triangle. There is increasing evidence that scrub typhus may be contracted outside this area, with autochthonous scrub typhus cases described in the Chiloé islands off the coast of Chile and serologic evidence that Orientia tsutsugamushi or a related species causes febrile illness in Kenyan children. 2,3 Recent evidence suggests that the large epidemics of acute encephalitis attributed to the Japanese encephalitis virus in northern India may be caused, at least in part, by scrub typhus. 4
+There are no reliable estimates of community incidence and most are hospital derived, such as data showing that 3% of patients in Nepal and 15% of adult patients in Laos admitted with undifferentiated  fever  had  scrub  typhus. 5,6 It  predominantly  af|icts
+
+============================================================
+CHUNK 4
+============================================================
+Scrub Typhus
+Paul N. Newton, Nicholas P. J. Day farmers, including their children, but may also affect urban populations  through  exposure  in gardens or visits  to  the  countryside. There are no known genetic predispositions. The name scrub typhus is  misleading,  as  the  disease  can  be  contracted  in  many  other habitats, including primary forest, beaches, gardens, and plantations. Indian patients with scrub typhus are more likely to have lived close to bushes and wood piles, to have worked on farms, to have seen rodents, and to have reared domestic animals, but are less likely to wash or change clothes after work. For Koreans, wearing a  long-sleeved  shirt  while  working,  keeping  work  clothes  off the  grass,  and  always  using  a  mat  to  rest  on  outdoors  were protective. 7
+The most commonly reported serotypes are Karp, Kato, Gilliam, and Boryong, but the wide phenotypic and genotypic diversity of O. tsutsugamushi has major implications for the design of diagnostic tests and vaccines. 1
+
+============================================================
+CHUNK 5
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Scrub typhus is transmitted by chiggers-the third-stage larvae of Leptotrombidium mites (Fig. 68.2), which feed on the extracellular |uid of vertebrates such as rodents and humans. Mites are the main reservoir of O. tsutsugamushi, with the organisms maintained in  the  population  by  vertical  transovarial  transmission.  Blood transfusion and needlestick injury have been recorded as transmitting scrub typhus.
+The  genome  of O.  tsutsugamushi ( ≈ 2  million  bp)  is  much larger  than  that  of  other  members  of  Rickettsiaceae  and is  the most highly repeated bacterial genome sequenced. 1 The median O. tsutsugamushi DNA load in blood is low ( ≈ 13 [0-310,253] copies/ mL); approximately half of patients have bacterial loads undetectable by current techniques. 8 Post-mortem examination has demonstrated O. tsutsugamushi in endothelial cells of major organs. Signi{cantly higher  concentrations  of  gamma  interferon  and  interleukin-10 occur during the acute than the convalescent phase. Comparison of patterns of endothelial and leukocyte activation in a range of 'typhus-like' illnesses suggest mononuclear cell activation in scrub typhus.  Evidence is accumulating that O.  tsutsugamushi exhibits tropism  for  mononuclear  cells  rather  than  endothelial  cells,  at least  in  early  infection. 9 Intriguingly,  evidence  from  Thailand suggests that HIV-1-suppressive factors are produced during some scrub typhus infections. There is increasing evidence that a second Orientia species, O. chuto , is a cause of human disease in the Middle East and possibly Africa. 10
+
+============================================================
+CHUNK 6
+============================================================
+CLINICAL FEATURES
+The incubation period is approximately 6 to 14 days. T en to {fty percent of patients may have an eschar-this variability probably re|ects, at least in part, the extent to which patients are examined. Eschars, which are usually single and in secluded areas such as the axilla and groin, are painless, erythematous papules that develop a central black scab, resembling a cigarette burn (Fig. 68.3). They are not pathognomonic for scrub typhus, as similar lesions may be produced by spotted fever-group rickettsioses. Chiggers are minute and, unlike ticks, are not normally noticed. Patients may scratch off the characteristic black scab. Lymphadenopathy is more frequent than in sympatric murine typhus. 5 Headache, myalgia, and dry cough frequently occur; a maculopapular erythematous
+Fig. 68.1 Map of the distribution of scrub typhus. Please note that this map disguises considerable heterogeneity between and within countries. A '?' represents an area where the presence of scrub typhus is suspected but not confirmed.
+
+============================================================
+CHUNK 7
+============================================================
+CLINICAL FEATURES
+rash  occurs  in  a  minority  of  patients. 1,5 Deafness,  tinnitus,  and conjunctival  suffusion  occur.  Severe  disease  can  manifest  as pneumonitis, acute respiratory distress syndrome, jaundice with mildly raised transaminases, meningoencephalitis, coagulopathy, multi-organ failure, acute renal failure, acute transverse myelitis, myocarditis, and Guillain-Barré syndrome. Why some and not others  develop  severe  disease  is  not  understood.  Mortality  is positively correlated with blood bacterial load. 8 O. tsutsugamushi DNA has been demonstrated in cerebrospinal |uid (CSF), with normal  glucose,  a  mild  increase  in  white  cell  density  (ranging from 11%-88% lymphocytes) and raised protein. 11 Scrub typhus appears  to  be  less  severe  in  children,  but  there  have  been  no prospective comparisons between children and adults from the same population. Scrub typhus can cause serious adverse effects for mother and baby in pregnancy. 12 Although homologous strain immunity persists for at least 1 to 3 years, immunity to heterologous Orientia strains is as short as 1 month. There are few data on the dynamics of IgM/IgG responses-the annual reversion of scrub typhus patients sera back to a titer of < 13
+
+============================================================
+CHUNK 8
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+The majority of scrub typhus patients are not diagnosed or treated. A patient with fever, headache, and myalgia with an eschar in an endemic  area  is  likely  to  have  scrub  typhus.  The  differential diagnosis would include spotted fever-group rickettsiosis, which would also be expected to respond to tetracyclines. Scrub typhus eschars could be confused with the lesions of anthrax, tularemia, chancroid, lymphogranuloma venereum, and injury. In the absence of  an  eschar,  few  clinical  features  are  helpful.  Murine  typhus, leptospirosis,  Q  fever,  dengue,  hemorrhagic  fever  with  renal syndrome (HFRS), infectious mononucleosis, HIV seroconversion, septicemia  (especially  typhoid),  and  malaria  are  important  differential  diagnoses.  In  comparison  with  those  with  Q  fever, Taiwanese patients with scrub typhus had a higher frequency of residence  or  travel  in  a  mountainous  region  or  offshore  island and skin rash. In comparison to HFRS in China, eschar, regional lymphadenopathy, and maculopapular rash were more commonly found  in  patients  with  scrub  typhus.  In  Laos,  the  presence  of peripheral lymphadenopathy, chest signs, and eschars are clinically useful signs that suggest scrub, rather than murine, typhus. 5
+
+============================================================
+CHUNK 9
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Laboratory  diagnosis  of  scrub  typhus  is  dif{cult.  Culture (requiring BSL3 facilities) is 100% speci{c but has low sensitivity. Immuno|uorescence (IFA) and immunoperoxidase IgM and IgG antibody tests have been commonly used, but these are expensive, are rarely accessible, and are bedeviled by subjectivity of interpretation and uncertainty as to the most appropriate cut-off titers in different  communities. 14 Ideally,  they  should  be  interpreted  by comparing titers between paired acute and convalescent samples. Karp, Gilliam, and Kato prototypic antigens are usually used in IFAs  and  therefore  may  not  detect  antibodies  to  other  strains. The Weil-Felix (WF) OXK test is still commonly used in Asia but has low sensitivity. Recently developed enzyme-linked immunosorbent assays (ELISAs) and serologically based rapid diagnostic tests have good sensitivity and speci{city and, when available, are replacing both the IFA and WF tests. Conventional and quantitative real-time polymerase chain reaction (PCR) assays for the detection of O.  tsutsugamushi in  blood,  eschar  tissue,  and CSF have  been developed. 15,16 However, there remain great dif{culties in diagnosing scrub typhus in rural endemic areas. Mixed infections may occur with,  for  example,  leptospirosis,  but  given  the  persistence  of antibodies,  distinguishing  these  from  serial  infections  without culture or PCR techniques is dif{cult.
+
+============================================================
+CHUNK 10
+============================================================
+TREATMENT
+Given the dif{culties of making a timely laboratory diagnosis and the  signi{cant  minority  who  develop  severe  disease,  empirical treatment should be considered for all patients with scrub typhus in  the  differential  diagnosis.  The  diversity  of O.  tsutsugamushi suggests it is unlikely that one treatment regimen will be appropriate across the wide distribution of this organism. Chloramphenicol- and doxycycline-resistant scrub typhus have been described in northern Thailand, 17 but there are no subsequent published data on this clinical problem.
+Interpretation of data informing treatment decisions is dif{cult, as studies are few, often of small sample size, and 'relapses' were usually  not  proven  to  be  relapses  of  scrub  typhus  rather  than another  cause  of  fever  (T able  68.1).  Current  data  suggest  that
+cm
+Fig. 68.2 The life cycle of O. tsutsugamushi. (Adapted with permission from Audy JR. Red mites and typhus . London: The Athlone Press, University of London; 1968.)
+Fig. 68.3 An eschar on a Lao patient with scrub typhus. (Taken by Dr Rattanaphone Phetsouvanh.)
+|uoroquinolones are inferior to doxycycline as therapy for scrub typhus. For uncomplicated disease, the data available do not allow generalizable conclusions of the duration of doxycycline therapy or whether a loading dose is required. In Laos and Thailand, a 7-day  treatment  course  of  2 mg/kg  twice  daily  after  a  loading dose of 4 mg/kg is administered. There is evidence from Malaysia that shorter courses may be ef{cacious. 18 Upper gastrointestinal side  effects  are  common;  patients  should  be  counseled  to  take doxycycline with plenty of |uid, during meals, and while sitting or  standing.  Chloramphenicol,  telithromycin,  rifampicin,  and azithromycin are potential alternatives. 19-24
+
+============================================================
+CHUNK 11
+============================================================
+TREATMENT
+There are few data to guide the antibiotic treatment of severe disease-parenteral or nasogastric doxycycline, azithromycin, and chloramphenicol  are  potential  options.  Appropriate  supportive care is essential. The treatment of scrub typhus in pregnancy is problematic-chloramphenicol (although contraindicated in the last trimester), azithromycin, and rifampicin have been used. In children, the risks of short-course doxycycline are almost certainly exceeded by the bene{t of effective cure. In a retrospective analysis of children with scrub typhus, no signi{cant differences in fever clearance times were found between doxycycline, chloramphenicol, and roxithromycin therapy. 25
+Mortality is very variable, ranging from 0% to 70% in untreated patients  (median  6%),  for  reasons  that  are  unclear. 26 Delayed administration of doxycycline has been associated with major organ dysfunction and  prolonged  hospitalization,  emphasizing  the importance of early empirical doxycycline therapy. Relapse was described during volunteer experiments in Malaysia, but whether this is an important phenomenon in clinical practice is uncertain. Insecticides have been used to control chiggers, both in high-risk habitats  and  on  blankets  and  clothes,  but  neither  is  currently practical in rural Asia for farmers (who are at most risk of scrub typhus). For short-term adult visitors, weekly 200 mg doxycycline
+
+TABLE 68.1 Summary of Clinical Trial and Clinical Case Series Evidence for Antibiotic Therapy for Scrub Typhus 20
+
+============================================================
+CHUNK 12
+============================================================
+TREATMENT
+Chloramphenicol 3 g every 24 h for 3 days vs. tetracycline 2 g every 24 h for 3 days, Location and Sample Size = Vietnam (60). Chloramphenicol 3 g every 24 h for 3 days vs. tetracycline 2 g every 24 h for 3 days, Outcome = Similar fever clearance times. Chloramphenicol 3 g every 24 h for 3 days vs. tetracycline 2 g every 24 h for 3 days, Category = 3. Chloramphenicol 3 g every 24 h for 3 days vs. tetracycline 2 g every 24 h for 3 days, Ref. = [22]. Doxycycline 200 mg stat vs. tetracycline 500 mg every 6 h for 7 days, Location and Sample Size = Malaysia (55). Doxycycline 200 mg stat vs. tetracycline 500 mg every 6 h for 7 days, Outcome = Similar fever clearance times. Doxycycline 200 mg stat vs. tetracycline 500 mg every 6 h for 7 days, Category = 3. Doxycycline 200 mg stat vs. tetracycline 500 mg every 6 h for 7 days, Ref. = [18]. Doxycycline 100 mg every 12 h for 3 days vs. tetracycline 500 mg every 6 h for 7 days, Location and Sample Size = South Korea (116). Doxycycline 100 mg every 12 h for 3 days vs. tetracycline 500 mg every 6 h for 7 days, Outcome = Similar fever clearance times. Doxycycline 100 mg every 12 h for 3 days vs. tetracycline 500 mg every 6 h for 7 days, Category = 3. Doxycycline 100 mg every 12 h for 3 days vs. tetracycline 500 mg every 6 h for 7 days, Ref. = [23]. Doxycycline 200 mg followed by 100 mg every 12 h for 7 days vs. rifampicin 300 mg every 12 h for 7 days vs. rifampicin and doxycycline combined in doses as noted earlier, Location and Sample Size = Northern Thailand (126). Doxycycline 200 mg followed by 100 mg every 12 h for 7 days vs. rifampicin 300 mg every 12 h for 7
+
+============================================================
+CHUNK 13
+============================================================
+TREATMENT
+days vs. rifampicin and doxycycline combined in doses as noted earlier, Outcome = Rifampicin and doxycycline combined inferior to the other two single-agent groups. Fewer patients febrile at 48 h in the rifampicin group compared with the doxycycline group (RR 0.41, 95% CI, 0.22-0.77). Doxycycline 200 mg followed by 100 mg every 12 h for 7 days vs. rifampicin 300 mg every 12 h for 7 days vs. rifampicin and doxycycline combined in doses as noted earlier, Category = 3. Doxycycline 200 mg followed by 100 mg every 12 h for 7 days vs. rifampicin 300 mg every 12 h for 7 days vs. rifampicin and doxycycline combined in doses as noted earlier, Ref. = [24]. Doxycycline 2.5 mg/kg every 12 h, chloramphenicol 50 mg/kg/d in 3-4 doses, or roxithromycin 5 mg/kg every 12 h, Location and Sample Size = South Korea (39 children). Doxycycline 2.5 mg/kg every 12 h, chloramphenicol 50 mg/kg/d in 3-4 doses, or roxithromycin 5 mg/kg every 12 h, Outcome = Fever clearance times not significantly different. Doxycycline 2.5 mg/kg every 12 h, chloramphenicol 50 mg/kg/d in 3-4 doses, or roxithromycin 5 mg/kg every 12 h, Category = 4. Doxycycline 2.5 mg/kg every 12 h, chloramphenicol 50 mg/kg/d in 3-4 doses, or roxithromycin 5 mg/kg every 12 h, Ref. = [25]. Azithromycin single 500 mg dose vs. 200 mg doxycycline every 24 h for 7 days, Location and Sample Size = South Korea (93). Azithromycin single 500 mg dose vs. 200 mg doxycycline every 24 h for 7 days, Outcome = Fever clearance and cure rates not significantly different. Azithromycin single 500 mg dose vs.
+
+============================================================
+CHUNK 14
+============================================================
+TREATMENT
+200 mg doxycycline every 24 h for 7 days, Category = 3. Azithromycin single 500 mg dose vs. 200 mg doxycycline every 24 h for 7 days, Ref. = [19]. Telithromycin 800 mg every 24 h for 5 days vs. doxycycline 100 mg every 12 h for 5 days, Location and Sample Size = South Korea (92). Telithromycin 800 mg every 24 h for 5 days vs. doxycycline 100 mg every 12 h for 5 days, Outcome = Fever clearance and cure rates not significantly different. Telithromycin 800 mg every 24 h for 5 days vs. doxycycline 100 mg every 12 h for 5 days, Category = 3. Telithromycin 800 mg every 24 h for 5 days vs. doxycycline 100 mg every 12 h for 5 days, Ref. = [20]. Azithromycin single 1000 mg dose followed by 500 mg every 24 h for 2 days vs. 200 mg doxycycline followed by 100 mg every 12 h for 7 days, Location and Sample Size = Thailand (57). Azithromycin single 1000 mg dose followed by 500 mg every 24 h for 2 days vs. 200 mg doxycycline followed by 100 mg every 12 h for 7 days, Outcome = At 48 h after initiation of treatment, a significantly higher proportion of the doxycycline-treated group were afebrile than with azithromycin-treated group ( P = 0.03). Azithromycin single 1000 mg dose followed by 500 mg every 24 h for 2 days vs. 200 mg doxycycline followed by 100 mg every 12 h for 7 days, Category = 3. Azithromycin single 1000 mg dose followed by 500 mg every 24 h for 2 days vs. 200 mg doxycycline followed by 100 mg every 12 h for 7 days, Ref. = [6]
+Category 1, double blind study; 2, clinical trial < 20 subjects; 3, clinical trial > 20 subjects; 4, series; 5, anecdotal case reports.
+CI , Confidence interval; RR , relative risk.
+All clinical trials involved random allocation of treatment.
+reduces the risk of contracting scrub typhus. There is currently no safe and effective vaccine available.
+
+============================================================
+CHUNK 15
+============================================================
+REFERENCES
+- geographic distribution of phenotypic and genotypic variants of Orientia tsutsugamushi
+2.  Weitzel T, Dittrich S, López J, et al. Endemic scrub typhus in South
+3.  Maina AN, Farris CM, Odhiambo A, et al. Q fever, scrub typhus, and rickettsial diseases in children, Kenya, 2011-2012. Emerg Infect Dis
+4.  Murhekar MV. Acute encephalitis syndrome and scrub typhus in India.
+5.  Phongmany S, Rolain JM, Phetsouvanh R, et al. Rickettsial infections
+6.  Phimda  K,  Hoontrakul  S,  Suttinont  C,  et al.  Doxycycline  versus azithromycin for treatment of leptospirosis and scrub typhus. Antimicrob
+7.  Kweon SS, Choi JS, Lim HS, et al. A community-based case-control study of behavioral factors associated with scrub typhus during the autumn  epidemic  season  in  South  Korea.  Am  J  Trop  Med  Hyg
+8.  Sonthayanon P, Chierakul W, Wuthiekanun V, et al. Association of high Orientia tsutsugamushi DNA loads with disease of greater severity
+9.  Paris  DH, Jenjaroen K,  Blacksell SD, et al. Differential patterns of endothelial and leucocyte activation in 'typhus-like' illnesses in Laos
+10.  Masakhwe C, Linsuwanon P , Kimita G, et al. Identi{cation and characterization of Orientia chuto in trombiculid chigger mites collected from
+11.  Dittrich S, Rattanavong S, Lee SJ, et al. Rickettsia and leptospira as neglected  but  treatable  causes  of  central  nervous  system  infection.
+13.  Saunders  JP ,  Brown  GW,  Shirai A,  Huxsoll  DL. The  longevity  of antibody to Rickettsia tsutsugamushi in patients with con{rmed scrub
+14.  Blacksell SD, Bryant NJ, Paris DH, et al. Scrub typhus serologic testing with the indirect immuno|uorescence method as a diagnostic gold
+
+============================================================
+CHUNK 16
+============================================================
+REFERENCES
+15.  Paris DH, Aukkanit N, Jenjaroen K, et al. A highly sensitive quantitative real-time PCR assay based on the groEL gene of contemporary Thai strains of Orientia tsutsugamushi
+16.  Paris  DH,  Blacksell  SD,  Newton  PN,  Day  NP .  Simple,  rapid  and sensitive detection of Orientia tsutsugamushi by loop-isothermal DNA
+17.  Watt  G,  Chouriyagune  C,  Ruangweerayud  R,  et al.  Scrub  typhus infections  poorly  responsive  to  antibiotics  in  northern  Thailand.
+18.  Brown GW, Saunders JP, Singh SL, et al.  Single  dose  doxycycline
+19.  Kim YS, Yun HJ, Shim SK, et al. A comparative trial of a single dose of  azithromycin versus doxycycline for the treatment of mild scrub
+20.  Kim DM, Yu KD, Lee JH, et al. Controlled trial of a 5-day course of telithromycin versus doxycycline for treatment of mild to moderate
+- review and meta-analysis of controlled clinical trials. T rans R Soc T rop
+- chloramphenical and tetracycline in its treatment. Arch Intern Med
+23.  Song JH, Lee C, Chang LW, et al. Short course doxycycline treatment
+24.  Watt G, Kantipong P , Jongsakul K, et al. Doxycycline and rifampicin
+25.  Lee KY, Lee HS, Hong JH, et al. Roxithromycin treatment of scrub typhus  (tsutsugamushi  disease)  in  children.  Pediatr  Infect  Dis  J
+26.  T aylor AJ, Paris DH, Newton PN. A systematic review of mortality from untreated scrub typhus ( Orientia tsutsugamushi ). PLoS Negl T rop
+

@@ -1,0 +1,380 @@
+## 3 Gastrointestinal Diseases
+
+## Ramnik J Xavier, Harry J Thomas
+
+<!-- image -->
+
+## PRESENTATIONS
+
+Gastrointestinal  diseases  are  among  the  most  common  problems encountered  in  the  tropics.  The  principal  syndromes  are  diarrhea, abdominal  pain,  abdominal  distension,  intestinal  obstruction  and gastrointestinal bleeding.
+
+## DIARRHEA
+
+Diarrheal diseases are a major cause of morbidity and mortality in the  tropics  and  subtropics  [1].  Children  are  most  often  and  most seriously  affected,  with  1.8  million  children  under  the  age  of  five dying each year due to diarrhea. Dehydration is the main cause of death, whereas malnutrition is the main cause of morbidity.
+
+## Etiology and Distribution
+
+Rotavirus is the most common cause of severe diarrhea in infants and young children worldwide. The second most common cause of viral gastroenteritis  is  norovirus. Among the  bacterial agents, enterotoxigenic Escherichia coli (ETEC) is the most common pathogen affecting both native residents of and visitors to developing countries. Salmonella is a common cause of food poisoning in developed countries;
+
+varying incidences have been reported from countries in the tropics. Campylobacter and Shigella spp. have a worldwide distribution and are relatively  common  causes  of  infectious  diarrheal  disease  in  all  age groups. E. coli O157 causes a dysenteric illness very similar to shigellosis.  Cholera  remains  endemic  in  many  parts  of  Africa,  Asia,  and Central and South America.
+
+## Transmission and Epidemiology
+
+Infection  occurs  by  the  ingestion  of  organisms  in  food  and  water contaminated by feces from a human or animal excreting the organism. This contamination is associated with inadequate public sanitation and low standards of personal hygiene. Defecation near pools and streams that are sources of water for domestic use is common, and  simple  sewage  disposal  systems  often  empty  feces  into  the domestic water supply of the community. Person-to-person spread of infection also occurs. Seafoods such as shellfish, mussels and crabs transmit  viruses  causing  gastroenteritis, Vibrio  cholerae and V.  parahaemolyticus . Flies carry bacteria from feces to food, on their mouthparts and legs. Low standards of kitchen hygiene in homes and public eating places also encourage transmission of intestinal infection. Precooked food kept warm for long periods may transmit a number of gut  pathogens  and  contain  enterotoxin  formed  by  staphylococci growing in warmed food. Poultry and eggs are important sources of nontyphoidal  salmonellae  and  campylobacter.  An  important  and avoidable source of intestinal infection in infants results from bottlefeeding  with  powdered  milk  solution  instead  of  breastfeeding. Unsterile bottles and nipples and contaminated water all contribute to the considerable risk of gut infection.
+
+## Pathogenesis
+
+Diarrhea can be defined as an increase in the water content of stools. Physiologically, the cause may be that: (1) the small intestine secretes more fluid than it reabsorbs; (2) solute absorption in the small intestine  is  impaired  so  that  the  osmotic  load  retains  fluid  in  the  gut lumen; (3) the volume of fluid entering the colon exceeds its capacity for water absorption; (4) the water- and electrolyte-reabsorbing capacity of the colon is reduced as a result of enterotoxigenic infection such as cholera; or (5) the water-reabsorbing capacity and motility of the colon are altered by localized or generalized colonic inflammation and ulceration. Infectious agents produce diarrhea by causing one or more of these effects. Enterotoxin-producing bacteria include V. cholerae ,  enterotoxigenic E.  coli , Staphylococcus  aureus ,  and Shigella and Salmonella spp.  Enteroinvasive  bacteria  include Shigella , Salmonella and Campylobacter spp.
+
+## Clinical Manifestations
+
+The onset of symptoms can vary from a few hours after ingesting food containing preformed toxins, to several days after ingesting bacterial pathogens, to two or more weeks in parasitic infections. Acute infectious  diarrhea  can  be  classified  into  watery  diarrhea  and  bloody diarrhea (dysentery) (Box 3.1). Noninfectious causes of acute diarrhea are less significant in the tropics, but causes that should be considered include toxin-induced (e.g. organophosphate poisoning), medicationrelated and ischemic colitis. The most important physical signs to be
+
+## BOX 3.1  Causes of Acute Infectious Diarrhea
+
+- Intoxication
+- Staphylococcus aureus
+- Clostridium perfringens
+- Bacillus cereus
+- Botulism (uncommon)
+- Infection
+- Viruses
+-  Rotaviruses
+-  Noroviruses
+-  Enteric adenoviruses
+-  Coronaviruses
+- Bacteria
+- -Escherichia  coli (enterotoxigenic,  enteropathogenic, enteroadherent, enterohemorrhagic, enteroinvasive)
+- -Campylobacter spp.
+- -Salmonella spp.
+- -Shigella spp.
+- -Vibrio cholerae , V. parahaemolyticus
+- -Yersinia enterocolitica , Y. pseudotuberculosis
+- -Clostridium di+cile
+- -Aeromonas spp.
+- -Plesiomonas spp.
+- Protozoa
+- -Cryptosporidium hominis/parvum
+- -Giardia lamblia
+- -Entamoeba histolytica
+- -Cyclospora cayetanensis
+
+## BOX 3.2  Dehydration Assessment
+
+## Mild dehydration
+
+- Decreased urine output
+
+## Moderate dehydration ( ≥ 5% volume loss)
+
+- Irritability
+- Delayed capillary re6ll time
+- Tachycardia
+- Orthostatic hypotension
+- Deep respirations
+- Decreased skin turgor
+- Dry mucous membranes
+- Sunken eyes
+- Sunken fontanelle (infants)
+
+## Severe dehydration ( ≥ 10% volume loss)
+
+- Decreased consciousness
+- Hypotension
+- Deep respirations with an increase in respiratory rate
+- Cool extremities
+- Peripheral cyanosis
+
+elicited  concern the  assessment of hydration (Box 3.2); the patient should be weighed at first presentation, as weight gain or loss can be a valuable guide to the effectiveness of rehydration.
+
+The rapid onset of nausea, vomiting and diarrhea after food consumption is most often due to the ingestion of a preformed toxin produced by Staphylococcus aureus , Bacillus cereus or Clostridium perfringens .
+
+Large-volume watery diarrhea indicates a small bowel etiology, e.g. due  to V.  cholerae ,  enterotoxigenic E.  coli and  rotavirus  infections. Toxin-induced  secretory  diarrhea  continues  independent  of  food intake. Malabsorption of carbohydrate in the small intestine leads to fermentation of unabsorbed substrates by colonic bacteria; this may cause bloating, the passage of much rectal gas and frothy stools, which are all characteristic of giardiasis. Cryptosporidiosis can involve both small and large bowel, causing short-lived and self-limiting diarrhea; however, the infection can be prolonged in patients with impaired immune responses. Cyclospora cayetanensis can also cause  acute and more chronic diarrhea with abnormalities of intestinal absorption.
+
+Frequent  bowel  movements  with  small  volumes  of  stool  and  the passage  of  blood  and  mucus  suggest  colonic  infection.  Causes  of bloody diarrhea (dysentery) include invasive bacteria such as Campylobacter spp., enterohemorrhagic E. coli , and Salmonella, Shigella and Yersinia spp.; nonbacterial causes include Entamoeba histolytica (amebic dysentery) and Balantidium coli , which is spread by close contact with pigs. Colicky abdominal pain is common in many gut infections and is especially severe in campylobacteriosis and yersiniosis, mimicking acute appendicitis. Fever, chills and generalized myalgia are usually associated with infection by invasive organisms; these patients appear ill and have generalized abdominal tenderness.
+
+## Antibiotic-Associated Colitis
+
+Antibiotics may cause diarrhea through a number of mechanisms, a common cause  being  pseudomembranous  colitis  due  to  infection with cytotoxigenic Clostridium difficile . Originally described in patients who had received clindamycin, C.  difficile infection  has  since  been found to complicate treatment with a number of antibiotic classes, especially  fluoroquinolones.  The  burden  of C.  difficile infection  in North America and Europe has greatly increased since the emergence of a hypervirulent strain in 2003; the incidence in other parts of the world is not yet fully known, but appears to be increasing. Patients develop  fever,  diarrhea  and  marked  leukocytosis.  Sigmoidoscopy reveals an inflamed mucosa with pseudomembranous plaques adhering to the mucosa. Management consists of discontinuing unnecessary antibiotics, treating with metronidazole or oral vancomycin, and, for life-threatening cases, colectomy.
+
+Antibiotic-associated hemorrhagic colitis, a form  of antibioticassociated  colitis  in  which C.  difficile is  absent,  is  associated  with penicillin treatment  and  has been  found to be caused by Klebsiella oxytoca [2].
+
+## Chronic Diarrhea
+
+Most acute infections of the gut have resolved or are resolving within 2 weeks. The most common causes of chronic diarrhea are repeated infection and persistent infection. Persistent infection is commonly due to parasitic infections, including those caused by protozoa ( Giardia lamblia , Entamoeba  histolytica , Isospora  belli , Cyclospora  cayetanensis, Cryptosporidium hominis/parvum , microsporidia) and helminths (Strongyloides stercoralis , Capillaria philippinensis ) (Box 3.3) [3]. Patients have frequent, pale, offensive stools, which are characteristic of malabsorption [4]. Noninfectious causes of mucosal malabsorption include celiac disease, tropical sprue, Crohn's disease, and neoplasms of the small bowel. Malabsorption may also be caused by intraluminal maldigestion, which occurs in pancreatic exocrine insufficiency and bacterial overgrowth of the small intestine. Other causes of chronic diarrhea include medication effects, endocrinopathies (particularly hyperthyroidism and diabetes mellitus) and hormone-producing neoplasms.
+
+## Complications
+
+The leading cause of death in patients with acute diarrhea is dehydration, which requires prompt fluid and electrolyte replacement. The nutritional state of children  often  deteriorates  because of anorexia, nutrient malabsorption, and the practice of not feeding children who have diarrhea. Hypolactasia is a sequela of many gut infections and may cause persistent diarrhea. Dysentery can be associated with severe local complications such as hemorrhage, toxic megacolon and bowel
+
+<!-- image -->
+
+perforation.  In  addition,  invasive  organisms  can  result  in  systemic manifestations  including  hemolytic  uremic  syndrome  (which  can complicate Shigella dysenteriae and E.  coli O157 infections), reactive arthritis  (following  shigellosis,  salmonellosis,  campylobacteriosis, yersiniosis, and Clostridium difficile infection) and Guillain-Barré syndrome (campylobacteriosis).
+
+## Diagnosis
+
+The range of laboratory tests and expertise needed to make a specific microbiologic diagnosis in most patients with diarrhea requires facilities not often available in the tropics. Some simple tests can be useful in most circumstances. It is important to examine the stool sample for blood. A smear of fluid stools should always be examined by direct microscopy for trophozoites of Entamoeba histolytica and trophozoites and cysts of Giardia lamblia . The presence of any cellular exudate in the smear should also be noted: the presence of polymorphonuclear leukocytes suggests infection with enteroinvasive bacteria, whereas a predominance of red cells may suggest amebic dysentery. Culture of stool  samples  or  rectal  swabs  gives  the  bacteriologic  diagnosis.  A proctosigmoidoscopy should be considered in patients with persistent dysentery: diffuse inflammation, ulceration and bleeding of the rectal mucosa are the usual appearances; ulcerated or bleeding areas of mucosa should be scraped and the material examined immediately for amebic trophozoites.
+
+## Treatment and Prognosis
+
+The  mortality  from  dehydrating  diarrheal  diseases  will  decline  if measures  to  correct  and  maintain  hydration  are  started  as  early  as possible.
+
+## Treatment of Dehydration
+
+After assessing the severity of dehydration, the first goal of therapy is to  replace  water  and  electrolyte  deficits.  If  dehydration  is  severe, patients should receive an intravenous bolus of isotonic fluid (either saline or lactated Ringers) in order to prevent progression to hypovolemic shock. Oral rehydration therapy has markedly reduced mortality from dehydrating diarrheal diseases and is the treatment of choice in children with mild to moderate dehydration. Community health providers can distribute oral rehydration salts (ORS) and teach others how to make and give the solution. The formulation recommended by the World Health Organization (WHO) contains the following: a sugar such as glucose, which facilitates the absorption of sodium and water in the small intestine; sodium and potassium, to replace gastrointestinal  losses  of  these  electrolytes;  and  citrate  or  bicarbonate, which helps correct the acidosis that develops as a result of diarrhea. ORS solution is absorbed in the small bowel even in the presence of severe diarrhea. Use of a new reduced osmolarity formulation (containing 75 mEq/L of glucose and 75 mEq/L of sodium) is currently recommended.
+
+## Antimicrobial Agents
+
+Antimicrobials usually have a limited or secondary role in the treatment of patients with secretory acute watery diarrhea. Empiric treatment, taking into account WHO protocols and local antimicrobial resistance patterns, should be given to patients who have symptoms and signs of infection with enteroinvasive organisms - fever, abdominal  pain,  toxicity,  tenesmus,  and  frequent  stools  containing  mucus and blood. Fluoroquinolones are effective against the enteroinvasive bacteria,  including Salmonella and Shigella spp.,  though  increasing resistance has been observed. Macrolides are the drug of choice for Campylobacter spp.  infection.  Giardiasis  and  amebiasis  will  require specific treatment with metronidazole or tinidazole.
+
+## Additional Therapy
+
+Zinc supplementation reduces the duration and severity of diarrhea and mortality in children with intestinal infection [5]; a similar effect of vitamin A has not been shown. The adverse effects of diarrhea on nutrition can be lessened by continuing feeding and increasing breastfeeding in infants. Patients should be fed as soon as they want to eat, with  energy-rich,  low-osmolality  foods  given  in  frequent,  smallvolume  meals,  and  there  should  be  increased  feeding  after  the diarrheal  episode.  Intestinal  sedatives  should  be  avoided,  as  the reduced  frequency  of  bowel  movements  causes  fluid  stagnation  in the gut lumen, encouraging proliferation of organisms and keeping organisms and their toxins in contact with the mucosa.
+
+## Prevention and Control
+
+Providing clean drinking water and proper sewage disposal reduces the incidence of gut infections. Tube wells are one means of providing clean water. The construction of acceptable latrines will help to break the cycle of fecal-oral transmission of gut pathogens. Health education regarding the importance of good sanitary practices and breastfeeding  should  be  given  by  trained  members  of  the  community. Although such measures will be effective in the long term, a shortterm  decrease  in  the  incidence  of  diarrheal  diseases  requires  more immediate measures such as vaccination. Rotavirus vaccination has been shown to be effective in children in both developed and developing countries. An oral cholera vaccine was effective in preventing cases during an outbreak in Mozambique in 2004 [6]. However, it has not been widely implemented, owing in part to its short duration of protection and issues of availability.
+
+Control of epidemics of gastrointestinal infection includes finding the source(s) of infection, detection of cases, and treatment, as necessary, to prevent transmission of the disease. Handwashing prevents transmission of enteric infection, as does fly control.
+
+## Traveler's Diarrhea
+
+People from developed countries who visit the tropics are at risk for developing  traveler's  diarrhea  [7].  The  risk  appears  to  be  increased in  younger  individuals,  those  taking  proton  pump  inhibitors,  and people who fail to adhere to personal hygiene precautions. The most common pathogens are enterotoxigenic E. coli and enteroaggregative E. coli ; other identified bacteria include Campylobacter, Shigella, Salmonella,  Aeromonas,  Plesiomonas and Vibrio spp. [8,9]. Noroviruses and rotaviruses are the most common viral agents of traveler's diarrhea, and Giardia lamblia , Entamoeba histolytica and Cryptosporidium hominis/ parvum the most common protozoan pathogens.
+
+Typhoid and hepatitis A vaccines should be offered to people traveling to endemic areas. The risk of traveler's diarrhea may be lessened by the administration of bismuth subsalicylate or probiotics. Antibiotic prophylaxis has been shown to be effective in the prevention of traveler's diarrhea, but is not advised for the general population due to the
+
+potential  adverse  effects  of  antibiotics  and  the  risk  of  antibiotic resistance.
+
+In people who develop traveler's diarrhea, antibiotic therapy reduces the duration of symptoms, even in those in whom a pathogen cannot be identified. As the prevalence of fluoroquinolone-resistant Campylobacter spp.  is  increasing,  azithromycin  is  emerging  as  an  effective alternative in the treatment of traveler's diarrhea. Rifaximin is another option,  though  it  is  not  recommended  in  patients  with  invasive disease. In addition to a short course of antibiotic therapy, patients should be advised regarding hydration and diet, and those without evidence of invasive disease may benefit from an antimotility agent.
+
+## ABDOMINAL PAIN
+
+Upper abdominal pain is commonly due to peptic ulcer disease, and worsening of the symptoms may herald a complication such as perforation or penetration. The differential diagnosis of upper abdominal symptoms with ulceration in the stomach or duodenum includes infections (e.g. tuberculosis, Mycobacterium avium intracellulare , cytomegalovirus,  herpes  simplex  virus),  neoplasms  (either  primary tumor or metastatic disease) and infiltrative diseases. Acute pancreatitis is another cause of acute upper abdominal pain; gallstones and alcohol are the most common causes worldwide, though infectious etiologies are important in the immunocompromised. Chronic pancreatitis is characterized by abdominal pain, steatorrhea and diabetes mellitus. Alcohol abuse accounts for the majority of cases worldwide; however, in several parts of the tropics, the most common cause of chronic  pancreatitis  is  tropical  calcific  pancreatitis,  a  condition  of unknown etiology that commonly affects children. Pancreatic calcifications may be seen on plain film of the abdomen, and ductal dilatation may be evident on ultrasonography or computed tomography.
+
+Right upper quadrant pain may be seen in biliary colic, acute cholecystitis, acute cholangitis, acute hepatitis, and liver abscess (see hepatobiliary  chapter).  Left  upper  quadrant  pain  may  be  caused  by disorders of the spleen such as splenomegaly or splenic abscess or infarction. In evaluating the patient with upper abdominal pain, it is important to consider supradiaphragmatic causes such as pneumonia and myocardial infarction.
+
+A number of parasitic worms may cause nonspecific gastrointestinal symptoms including epigastric pain. In addition, parasitic infections of the biliary tract may lead to acute pancreatitis, as exemplified by adult Ascaris lumbricoides worms, which can migrate from the jejunum and invade the papilla, obstructing the pancreatic and bile ducts.
+
+Right  lower quadrant pain is commonly due to acute appendicitis; not uncommonly, however, infection with Yersinia or Campylobacter can cause severe pain that is misdiagnosed as appendicitis. In females with acute lower abdominal pain, it is important to consider ectopic pregnancy, pelvic inflammatory disease, and adnexal pathologies.
+
+Colicky  abdominal  pain  is  one  of  the  cardinal  features  of  bowel obstruction. It may also be seen in intussusception in children. Generalized abdominal pain and tenderness may be caused by peritonitis, which can occur as a result of perforated peptic ulcer, ileal perforation in typhoid fever, colonic perforation in amebic colitis, or rupture of a hydatid cyst. Severe abdominal pain with minimal or no tenderness is seen in acute mesenteric ischemia. In addition to considering such surgical emergencies, it is important to consider 'medical' causes of abdominal  pain.  Patients  with  sickle  cell  disease  may  have  acute painful episodes due to vaso-occlusion that is difficult to distinguish from other causes of an acute abdomen. Abdominal pain is a common symptom in several infectious diseases, most notably malaria.
+
+## ABDOMINAL DISTENSION
+
+Patients with ascites may complain of abdominal pain, early satiety or dyspnea due to splinting of the diaphragm. Analysis of ascitic fluid is  helpful  in  determining  the  cause  of  ascites:  (1)  to  determine whether  the  fluid  is  infected  (spontaneous  bacterial  peritonitis  is defined as a polymorphonuclear leukocyte count over 250 cells/mL with a positive bacterial culture); and (2) to determine whether there is  underlying  portal  hypertension  (indicated  by  a  serum-ascites albumin gradient of 1.1 g/dL or greater). Cirrhosis and tuberculous peritonitis  are  among  the  most  common  causes.  Chronic  hepatic schistosomiasis is a common cause of ascites in endemic areas. Malignancy  can  cause  ascites  through  a  number  of  mechanisms;  while ascitic fluid cytology may be positive in peritoneal carcinomatosis, it will  be  negative  if  the  ascites  is  due  to  portal  hypertension  from massive liver metastases. In chylous ascites, the ascitic fluid appears cloudy  due  to  the  high  levels  of  triglycerides;  the  most  common causes  in  developing  countries  are  infections  leading  to  lymphatic obstruction, such as tuberculosis and filariasis. Cardiac ascites may result  from  tricuspid  regurgitation,  constrictive  pericarditis,  or  any cause  of  right-sided  heart  failure.  Spontaneous  bacterial  peritonitis may complicate ascites  due  to  cirrhosis;  however,  it  is  very  rare  in non-cirrhotic ascites, as these patients have a higher concentration of ascitic  fluid  opsonins.  The  classic  presentation  is  with  fever  and abdominal  pain  and  tenderness,  but  it  may  be  asymptomatic  or present with encephalopathy or renal failure.
+
+A massive ovarian cyst can present with abdominal distension, but the  central  location  of  the  swelling,  presence  of  a  fluid  thrill,  and absence of shifting dullness help to distinguish this from ascites.
+
+Abdominal distension may be due to gas, either within or outside the  bowel  lumen.  Extraluminal  gas  is  seen  in  bowel  perforation, which is a surgical emergency. Gaseous distension of the bowel may be due to mechanical obstruction or motility disorder. Bloating is a common symptom in lactose malabsorption, which is commonplace among Africans and Asians after childhood, and in irritable bowel syndrome.
+
+## INTESTINAL OBSTRUCTION
+
+The cardinal features are colicky abdominal pain, vomiting, constipation and abdominal distension. A bolus of worms can cause intraluminal  obstruction  in  children  with  heavy Ascaris lumbricoides infestation; it may also serve as a lead point for intussusception and volvulus.  Colorectal  carcinoma  is  increasingly  recognized  in  the tropics, but may not be evident until presentation with obstruction of the large bowel. The differential diagnosis includes inflammatory masses  that  can  lead  to  intramural  obstruction,  such  as:  ileocecal tuberculosis, histoplasmosis, actinomycosis, amebiasis, schistosomiasis and angiostrongyliasis. Extramural obstruction is most commonly due to incarcerated hernia. Umbilical hernias are more common in African children, but usually the defects close spontaneously. Symptoms and signs of small bowel obstruction may also be seen in paralytic  ileus,  in  which  there  is  bowel  dilatation  without  mechanical obstruction. This is a common complication of abdominal surgery, but may also occur in peritonitis or after trauma. Plain film or computed tomography of the abdomen in paralytic ileus shows gas in the colon  and  rectum,  helping  to  differentiate  it  from  small  bowel obstruction  in which the colon is decompressed. Treatment is supportive,  consisting  of  fluid  resuscitation,  correction  of  electrolyte abnormalities (especially hypokalemia) and discontinuation of antikinetic drugs. Another motility disorder that may be misdiagnosed as mechanical  obstruction  is  chronic  intestinal  pseudo-obstruction, which may occur in Chagas disease [10]. Here, gross dilation of the colon (megacolon), most commonly involving the sigmoid colon, causes  constipation;  it  may  be  complicated  by  toxic  megacolon  or volvulus.
+
+## GASTROINTESTINAL BLEEDING
+
+Upper gastrointestinal bleeding, defined as bleeding emanating from a source proximal to the ligament of Treitz, presents with hematemesis and/or melena. It is most commonly due to bleeding peptic ulcer. In areas with a high prevalence of cirrhosis, bleeding from esophageal and gastric varices is common. Mallory-Weiss tears are mucosal lacerations  at  the  gastroesophageal  junction  that  are  most  commonly associated with repeated retching. Gastric and duodenal neoplasms can present with overt gastrointestinal bleeding, though occult blood loss is more common. Unusual causes of upper gastrointestinal bleeding include vascular abnormalities.
+
+Hematochezia is most often due to colorectal sources but may be the first sign of a brisk upper gastrointestinal hemorrhage. Patients with infectious colitis present with bleeding in association with diarrhea, abdominal pain  and  systemic  upset.  Gastrointestinal  bleeding  is  a common complication of typhoid fever. Many causes of lower gastrointestinal bleeding that are common in the West - colonic diverticular bleeding, ischemic colitis, colorectal cancer and hemorrhoids - are unusual in the tropics due to epidemiologic differences. Lymphoma and Kaposi sarcoma may affect any part of the gastrointestinal tract and are common causes of gastrointestinal bleeding in patients with AIDS.
+
+The initial management of patients with acute gastrointestinal bleeding consists of fluid resuscitation and, if coagulopathy or thrombocytopenia is present, transfusion of blood products. Once patients are stabilized, endoscopy should be performed in order to diagnose and treat the source of bleeding. Cirrhotic patients with upper gastrointestinal bleeding are at risk for bacterial infections including spontaneous  bacterial  peritonitis;  broad-spectrum  antibiotics  may  reduce this risk.
+
+## ANATOMIC DIFFERENTIALS
+
+## MOUTH
+
+## Dental Caries
+
+Dental caries is a chronic disease in which the composition of the oral flora is altered as a result of chronic consumption of high-sugar substances. This leads to demineralization of the enamel, eventually causing a dental cavity. Dental caries is a major oral health problem worldwide, and the incidence is increasing in developing countries as people  engage  in  Western  dietary  practices  [1 1].  Three  factors  are important in the prevention of caries: dietary counseling, oral hygiene, and fluoride supplementation.
+
+## Oral Cancer
+
+Oral  cancer should  be suspected in any patient  with a  nonhealing ulcer or mass in the mouth. As with all squamous cell carcinomas of the head and neck, the major risk factors are tobacco and alcohol use. Additional  risk  factors  include  viral  infection  (Epstein-Barr  virus, which is strongly associated with nasopharyngeal carcinoma, human papillomavirus and HIV) and betel-nut chewing, which is widespread in South and Southeast Asia.
+
+## Candidiasis
+
+Oral  infection  with Candida ('thrush')  is  usually  characterized  by white plaques on the oral mucosa, though there is also an atrophic form  that  presents  as  erythema  without  plaques.  It  is  a  common finding in patients with HIV infection; other risk factors include treatment with antibiotics or steroids (both oral and inhaled). Treatment consists of a topical antifungal agent or, in patients with more severe disease, systemic therapy.
+
+## Herpes Simplex Virus Infection
+
+Primary infection of the oral cavity with herpes simplex virus causes gingivostomatitis  and  pharyngitis.  The  lesions  can  be  vesicular  or ulcerative and may be associated with fever and cervical lymphadenopathy. Reactivation of the virus leads to vesicular lesions of the oral mucosa ('cold sores'). Treatment should be directed toward providing symptomatic relief; antiviral therapy may be helpful if  primary infection is detected early or for patients with recurrent infection who can identify a characteristic precipitating factor or prodrome.
+
+## Cancrum Oris (Noma)
+
+This is a gangrenous, polymicrobial infection affecting the orofacial tissues [12]. It starts as a gingival ulceration, which, if left untreated, spreads rapidly through the soft and hard tissues of the mouth and face,  breaching  normal  anatomic  barriers  and  resulting  in  gross deformity. It is thought to occur after fecal-oral transmission in young children who are at risk due to a complex interplay between infection, malnutrition  and  immunocompromise  -  a  combination  that  is common in impoverished areas of Africa, Asia and Latin America. The acute stage may present with unilateral facial pain and swelling, halitosis,  oral  discharge  and  systemic  upset;  management  consists  of broad-spectrum antibiotics and local wound care together with treatment  of  associated  diseases  and  nutritional  deficiencies.  However, most patients are not brought to medical attention until the infection is  well established - characterized by a necrotic center with a welldemarcated  perimeter  -  at  which  time  reconstructive  surgery  is required.
+
+## ESOPHAGUS
+
+## Esophagitis
+
+The main presenting features are odynophagia, dysphagia and retrosternal  chest  pain.  While  noninfectious  conditions  such  as  gastroesophageal reflux disease and pill esophagitis are the most common causes in immunocompetent hosts, infections of the esophagus are common in the immunocompromised. In patients with HIV infection, the most common cause is esophageal candidiasis. While the presence of  oropharyngeal candidiasis can be a clue to esophageal infection, its absence does not rule it out. Diagnosis can be made by endoscopy, which reveals white plaques on the esophageal mucosa; biopsy reveals the presence of budding yeasts. An alternative strategy is to undertake a therapeutic trial of a systemic antifungal agent; if the symptoms do not resolve within days, then further investigation is warranted. Cytomegalovirus esophagitis causes similar symptoms, but endoscopy reveals ulcerative lesions. Ulcers are also  seen in herpes simplex virus esophagitis, but they tend to have heaped-up borders as opposed to the more shallow lesions of cytomegalovirus; there may or may not be associated oropharyngeal lesions. It is important to note that a number of patients with HIV infection presenting with esophagitis  may  have  simultaneous  infection  with  more  than  one  agent, whereas others will have no infection identified. The latter condition, named idiopathic esophageal ulcer, may respond to steroids.
+
+## Caustic Esophageal Injury
+
+Caustic injuries to the esophagus may result from ingestion of acid or  alkali.  The  main  complaint  is  pain,  and  there  may  be  signs  of complications such as perforation, mediastinitis or peritonitis. Attempts at inducing emesis or neutralizing the ingested substance must be avoided, lest the  injury  be  aggravated. Endoscopy  may be helpful for risk stratification and guiding further management. Late complications include esophageal strictures, which cause dysphagia and necessitate dilation, and squamous cell carcinoma.
+
+## Esophageal Varices
+
+Esophageal varices are relatively common in the tropics. The causes of portal hypertension can be classified as pre-hepatic, hepatic and post-hepatic.  Pre-hepatic  causes  include  the  tropical  splenomegaly syndrome  and  portal  or  splenic  vein  thrombosis.  Hepatic  causes may be classified as pre-sinusoidal, sinusoidal and  post-sinusoidal, exemplified by schistosomiasis, cirrhosis and veno-occlusive disease, respectively.  Budd-Chiari  syndrome  and  cardiac  causes  (restrictive cardiomyopathy,  congestive  heart  failure)  are  post-hepatic  causes. Variceal bleeding carries a high mortality rate worldwide. Initial management consists of restoration of the circulating volume, with caution to avoid over-transfusion, the use of agents to reduce portal pressure (e.g. terlipressin or octreotide), and antibiotic prophylaxis. After stabilization,  endoscopic  variceal  ligation  is  the  ideal  approach.  For patients with refractory bleeding, balloon tamponade can be a temporizing measure while awaiting portosystemic shunting.
+
+## Megaesophagus
+
+Marked dilation of the esophagus is the most common gastrointestinal manifestation of chronic Chagas disease and occurs due to a loss of  neurons  in  the  enteric  nervous  system.  Dysphagia  is  the  most
+
+prominent symptom, but patients may also complain of odynophagia and regurgitation; aspiration is a common complication. The condition cannot be reversed by antitrypanosomal agents, but symptomatic relief can be achieved through balloon dilations of the lower esophageal sphincter or through surgery.
+
+## Esophageal Cancer
+
+Squamous cell  carcinoma  usually arises  in  the  mid  portion  of  the esophagus in patients with a history of tobacco and alcohol use or preexisting esophageal diseases. In contrast, adenocarcinoma affects the lower third of the esophagus in patients with Barrett's esophagus. Both types of cancer have a similar clinical presentation, with  dysphagia and weight loss being the most common symptoms. Diagnosis is  made at endoscopy with biopsy. Over half of patients present with incurable disease.
+
+## STOMACH
+
+A variety of gastroduodenal pathologies are related to infection with Helicobacter pylori . This Gram-negative, spiral-shaped bacterium adheres to the gastric epithelium and is able to survive in the acidic environment of the stomach due to a urease that converts urea into ammonia,  which  increases  the  pH  of  the  immediate  vicinity.  It  is spread  by  person-to-person  (likely  fecal-oral)  transmission  and  is usually  acquired  at  an  earlier  age  in  developing  countries  than  in developed countries. It is found worldwide, though the prevalence is decreasing  with  improved  sanitation  and  hygiene.  Infection  causes acute gastritis, which leads to chronic gastritis. Peptic ulcer disease is a common complication, while a small minority of patients with H. pylori infection  go  on  to  develop  gastric  adenocarcinoma  or  MALT (mucosa-associated lymphoid tissue) lymphoma.
+
+## Gastritis
+
+Both  inflammation  of  the  stomach  (gastritis)  and  damage  to  the gastric  epithelium with minimal or no inflammation (gastropathy) may cause epigastric pain and nausea and vomiting, but they may be asymptomatic. The most common infectious cause of gastritis is H. pylori infection. A number of agents cause gastropathy, the most common  being  nonsteroidal  anti-inflammatory  drugs  (NSAIDs), alcohol, and bile reflux.
+
+## Peptic Ulcer Disease
+
+Population-based  endoscopy  studies  have  shown  that  the  prevalence of peptic ulcer disease is almost 10% in the East, twice as high as  in  Western  countries  [13].  Historically,  duodenal  ulcers  were more common than gastric ulcers in the tropics - due to the higher prevalence of H. pylori and lower usage of NSAIDs - but this ratio is changing  with  time.  While  patients  with  peptic  ulcer  may  be asymptomatic, the usual symptom is epigastric discomfort or pain, which  may  radiate  to  the  back.  The  four  major  complications  are hemorrhage,  penetration,  perforation,  and  gastric  outlet  obstruction.  Bleeding  peptic  ulcer is  a  common  cause  of  acute upper  gastrointestinal  hemorrhage;  management  consists  of  hemodynamic resuscitation,  endoscopic  therapy,  and,  for  refractory  cases,  surgery. Treatment  with  a  proton  pump  inhibitor  reduces the risk of rebleeding  after  endoscopic  hemostasis.  Penetration  of  the  ulcer through the bowel wall causes intense pain; further erosion results in  bowel  perforation,  causing  peritonitis  and  necessitating  emergency laparotomy. Gastric outlet obstruction is usually  a complication  of  a  longstanding  ulcer,  due  to  chronic  inflammation  and fibrosis. A test for H. pylori should be performed in all patients with peptic  ulceration;  this  may  be  performed  either  at  endoscopy  or noninvasively. If positive, eradication of H.  pylori should be undertaken; this should consist of a proton pump inhibitor and two antibiotics, taking into account local resistance patterns. Unlike duodenal ulcers, which are very rarely neoplastic, gastric ulcers may be  malignant  in  etiology,  so  follow-up  endoscopy  is  necessary  to ensure resolution.
+
+## Gastric Neoplasms
+
+Gastric cancer is the second most common cause of death from cancer worldwide.  Uncommon  in  developed  countries,  the  incidence  is highest in East Asia and parts of South America. Part of the geographic variation may be due to dietary factors and prevalence of H. pylori . The most common presenting symptoms are weight loss and abdominal  pain;  other  features  include  dysphagia,  early  satiety,  and  iron deficiency anemia due to chronic blood loss. The majority of patients have metastatic disease at the time of presentation, precluding curative resection.
+
+Over 90% of gastric cancers are adenocarcinomas; gastric MALT lymphomas make up a minority, but are important, as early lesions are curable  with H.  pylori eradication  therapy  alone.  Nonresponsive or recurrent disease requires chemotherapy.
+
+## SMALL BOWEL
+
+A  wide  variety  of  disease  processes  give  rise  to  similar  histologic abnormalities in the mucosa of the small intestine, resulting in predictable  clinical  manifestations.  The  first  event  is  infiltration  of lymphocytes into the epithelium, resulting in an intraepithelial lymphocytosis. Next, there is increased crypt cell proliferation, resulting in  crypt  hyperplasia.  Then,  loss  of  villous  cells  leads  to  increasing degrees of villous atrophy, eventually leading to a flat mucosa. As a consequence of  mucosal malabsorption, patients present with diarrhea,  steatorrhea  and  weight  loss.  Laboratory  studies  may  be helpful in defining the extent of the malabsorption syndrome. Anemia may result from deficiencies of iron, folate and/or vitamin B12 - the latter implying that the mucosal damage extends to involve the terminal ileum. Prolongation of the prothrombin time may be due to a deficiency of vitamin K (one of the fat-soluble vitamins, along with A, D and E), which occurs in fat malabsorption. Hypophosphatemia, hypocalcemia  and  an  elevated  alkaline  phosphatase  are  seen  in vitamin D deficiency, which may cause osteomalacia or osteoporosis. Conditions that cause these histologic abnormalities and present with these  clinical  and  laboratory  features  include  parasitic  infections, celiac disease, tropical sprue, bacterial overgrowth and Crohn's disease (Box 3.4). Similar clinical manifestations may be seen in other disorders with specific pathologic findings, such as intestinal lymphoma and amyloidosis. The general principles of treating disorders of the small intestinal mucosa include treating the underlying disease and correcting any nutrient deficiencies that may be present. In addition, a lactose-free, low-fat diet may be beneficial.
+
+## Tropical Sprue
+
+Abnormalities of the small intestinal mucosa, resulting in increased intestinal permeability and decreased absorption, have been described in both residents of and visitors to certain tropical and subtropical
+
+<!-- image -->
+
+countries. Variously referred to as tropical sprue or tropical enteropathy,  the  disorder  is  characterized  by  a  chronic  malabsorption  syndrome, either following  an  episode  of  acute  infectious  diarrhea  or developing more insidiously; it has even been reported to  develop years  after  leaving  an  endemic  area.  Its  incidence  appears  to  be decreasing, mainly as a result of the increasing recognition of nontropical sprue, or celiac disease, and perhaps also due to the increasing use of antibiotics for patients with acute diarrheal diseases. It occurs in  the  Indian  subcontinent,  Southeast  Asia  and  some  parts  of  the Caribbean;  however,  it  is  not  endemic  in  all  tropical  areas,  being notably rare or absent in Africa and other parts of the Caribbean such as Jamaica. There is considerable heterogeneity in disease presentation among these areas, suggesting that tropical sprue may represent a spectrum of related disorders. The etiology is unknown, but infectious etiologies are considered likely given the epidemiology of the disease and its response to antibiotics; although a number of infectious agents have been implicated, there has been little consistency between studies. In addition, folate deficiency has been implicated in the etiology of tropical sprue, given the prevalence of folate deficiency in these patients and the histologic improvement observed upon folic acid  repletion;  this  and  other  theories  -  for  example,  implicating malnutrition or excess T-cell activity - are flawed due to the inability to separate cause from effect. The clinical, laboratory and endoscopic features of tropical sprue are largely similar to those of celiac disease. While  the  mucosal  lesion  can  be  patchy  in  both  conditions,  the villous atrophy in tropical sprue tends to be less severe - with a flat mucosa being uncommon - but more diffuse throughout the small intestine.  The  key  factors  distinguishing  tropical  sprue  from  celiac disease are the absence of celiac disease-specific autoantibodies and the absence of clinical and histologic improvement on a gluten-free diet.  Thus,  tropical  sprue  is  a  diagnosis  of  exclusion,  suggested  by villous atrophy in a patient with malabsorption who is living or has lived in an endemic area. The disease can be cured with antibiotics, usually  tetracycline  for  up  to  6  months,  in  combination  with folic acid.
+
+## Celiac Disease
+
+Variously  referred  to  as  nontropical  sprue  or gluten-sensitive enteropathy, celiac disease is a chronic inflammatory disorder of the small bowel in which genetically susceptible individuals show an inappropriate  immune  response  to  wheat  gluten  and  related  proteins  in barley and rye. Previously thought to be uncommon in the tropics, the  discovery  of  specific  and  sensitive  serologic  tests  has  led  to increased  recognition  of  the  condition,  including  among  South Asians and Arabs of North Africa and the Middle East [14]. People from  these  areas  with  malabsorption  and  small  intestinal  villous atrophy,  with  no  evidence  of  parasitic  infection  or  bacterial  overgrowth,  were  almost  certainly  misdiagnosed  in  the  past  as  having tropical sprue. The prevalence of celiac disease in what was considered a  low-risk  group  is  evidenced  by  a  study  of  259  Indian  children attending a pediatric gastroenterology clinic in New Delhi, in which over 40% were diagnosed with celiac disease. The condition classically presents after the introduction of gluten into the diet of infants, but adult-onset celiac disease is well recognized, and it can also present in the elderly; the prevalence is higher in females than males. Together with  the  increased  recognition  of  celiac  disease,  there  has  been  a greater  appreciation  of  its  protean  manifestations:  while  classic disease  presents  with  chronic  diarrhea,  abdominal  distension,  and failure to thrive or weight loss, a substantial proportion of patients present with atypical disease in which extraintestinal manifestations - for example, delayed menarche in girls, neuropsychiatric symptoms or  osteomalacia  -  are  more  prominent;  still  others  have  silent  or subclinical  disease,  with  positive  results  on  serologic  testing  and biopsy but no symptoms. Serologic tests are helpful in the diagnosis of celiac disease: the sensitivity and specificity of both of the currently used tests, IgA endomysial antibodies and IgA tissue transglutaminase antibodies, exceed 85% and 95%, respectively. However, small bowel biopsy  remains  the  gold  standard  for  the  following  reasons:  in patients  with  positive  serologic  tests,  biopsy  helps  to  confirm  the diagnosis  and  exclude  complications  such  as  lymphoma;  and  in patients with suggestive clinical features but negative serologic tests, it  is important to continue the investigation, as approximately 10% of IgA-competent celiac disease patients  are  seronegative.  Although the  diagnosis  was  previously  restricted  to  those  individuals  with villous  atrophy  on  biopsy,  it  is  now  recognized  that  patients  with lesser  degrees  of  mucosal  damage  -  that  is,  crypt  hyperplasia  or intraepithelial lymphocytosis alone - have a mortality rate that is at least as high as those with frank villous atrophy [15]. Thus, current diagnosis of celiac disease is based on a positive small bowel biopsy (defined as intraepithelial lymphocytosis with or without crypt hyperplasia and villous atrophy) with clinical and/or histologic improvement upon removal of gluten from the diet. Serologic tests, though not necessary for the diagnosis, are also helpful in the management of celiac disease - as a positive test will turn negative once the patient is on a strict gluten-free diet. Nonresponsive celiac disease is usually due to intentional or inadvertent ingestion of gluten; if these are ruled out, it may be due to coexistent diseases such as microscopic colitis (which is associated with celiac disease), refractory celiac disease, or enteropathy-associated T-cell lymphoma. Epidemiologic studies have shown that patients with celiac disease have an increased risk of both gastrointestinal and non-gastrointestinal malignancies.
+
+## Protein-Losing Enteropathy
+
+Loss of protein into the gastrointestinal tract may occur as a result of: (1) erosive mucosal disease, in which protein leaks across damaged membranes; (2) non-erosive mucosal disease, in which protein loss is due to altered epithelial permeability; and/or (3) lymphatic disease, in which lymph leaks into the lumen. The most common cause of non-erosive  mucosal  disease  is  intestinal  infection.  Lymphatic  dysfunction may be due to obstruction, as in mesenteric tuberculosis, or impaired  drainage,  as  occurs  in  portal  hypertension  or  right-sided heart failure. The diagnosis is suggested by the presence of hypoalbuminemia without protein malnutrition, proteinuria or liver disease. In addition to correcting the underlying disorder, treatment consists of providing medium-chain triglycerides for nutritional support.
+
+## Immunoproliferative Small Intestinal Disease
+
+Also  known  as  alpha  heavy  chain  disease  or  Mediterranean  lymphoma,  immunoproliferative  small  intestinal  disease  (IPSID)  is  a form  of  MALT  lymphoma,  characterized  by  secretion  of  truncated immunoglobulin  alpha  heavy  chains  without  an  associated  light chain by plasma cells infiltrating the bowel wall [16]. Owing to its unique epidemiology - only being found in the Mediterranean, the Middle East and Africa - the association with poor sanitation, and response  to  antibiotic  therapy,  it  is  thought  that  environmental factors,  including  one  or  more  infectious  agents,  are  critical  in  the etiology of IPSID. Given the association between H. pylori and gastric MALT lymphomas, investigators have sought to associate this pathogen with IPSID. Although one case report has been published of an association,  a  subsequent  case  series  has  failed  to  replicate  this finding. Following the detection of Campylobacter jejuni in an index patient with IPSID, investigators examined six additional patients and found evidence of C. jejuni in four of them, suggesting that this bacterium might be responsible, at least in part, for driving the antigenic response in IPSID [17].
+
+## Pathology
+
+The second, third and fourth parts of the duodenum and the proximal jejunum are areas of  maximal  involvement, although ileal or total small  bowel  involvement  has  been  reported.  Gastric  and  colonic involvement is even more rare. The mucosa is grossly thickened with infiltrations producing a cobblestone appearance, localized nodules or polypoid tumors. The normal villous pattern of the gut is totally effaced by the massive infiltration of plasma cells. Villi are shortened but crypts remain small and are rather buried in the infiltrate.
+
+## Clinical Manifestations and Diagnosis
+
+The  disease  is  characterized  clinically  by  a  severe  malabsorption syndrome with diarrhea, abdominal pain and weight loss. An abdominal mass may be palpable, while hepatosplenomegaly is a sign of
+
+advanced disease. Laboratory findings are notable for hypoalbuminemia  and  hypogammaglobulinemia  (from  protein-losing  enteropathy). The finding of alpha heavy chains in the serum is diagnostic, but this may be absent in a minority of patients; in the remainder, immunohistochemical staining of biopsy specimens is positive.
+
+## Treatment and Prognosis
+
+Early-stage IPSID can be cured with antibiotic therapy, which historically  has  involved  tetracycline  with  or  without  metronidazole  (for associated  parasitic  infections)  although  newer  agents  may  also  be effective.  In  advanced  disease,  chemotherapy  may  be  required.  In unresponsive  cases,  surgery  may  be  required  for  bulky  abdominal disease causing obstruction.
+
+## Enteritis Necroticans (Pigbel)
+
+This is a necrotizing infection affecting either the small or large intestine that occurs after ingestion of food containing the beta toxin of Clostridium  perfringens type  C.  It  classically  affects  chronically  malnourished people who ingest a high-protein meal; it was first recognized in children and adults in Papua New Guinea after eating a pork feast, but has since been described in people from other parts of Asia and Africa. A cofactor for the infection is decreased trypsin activity, which is seen in protein malnutrition and in people ingesting foods with antitrypsin properties, such as sweet potatoes. The toxin causes tissue necrosis, usually affecting the small intestine but occasionally extending to involve the colon. Histologic examination reveals extensive  inflammation  and  necrosis  of  the  mucosa  together  with  large numbers  of  bacteria  on  the  affected  surface.  Patients  present  with abdominal pain and distension, bloody diarrhea, and shock. Surgical resection of  the  affected  section  of  bowel  may  be  curative,  but  the disease is often fatal.
+
+## Intussusception
+
+Intussusception  is  defined  as  the  telescoping  of  one  part  of  the bowel into another. Ninety-five percent of cases occur in children, in whom the classic features are sudden onset of colicky abdominal pain and vomiting, a right-sided abdominal mass (as the ileocecal junction is the most common site), and currant-jelly stool (due to the mixture of  blood  and  mucus).  Most  cases  can  be  treated  non-operatively using air, saline, or barium enemas. The majority of cases are idiopathic; in the remainder, a variety of lesions in the intestine can act as a lead point for intussusception - for example, Meckel's diverticulum, polyp or vascular malformation. The opposite is true in adults with  intussusception,  in  whom  an  underlying  disorder  is  almost always found; in addition to benign and malignant neoplasms, amebomas and schistosomal granulomas have been found to act as the lead point. Owing to the risk of underlying malignancies in adults with intussusception, surgical resection is favored over non-operative reduction.
+
+## COLON
+
+## Appendicitis
+
+Acute appendicitis is one of the most common causes of the acute abdomen, occurring at all ages. Inflammation of the appendiceal wall leads  to  ischemia,  necrosis, and  eventually perforation, which may result  in  a  localized  abscess  or  generalized  peritonitis.  The  inciting event is obstruction of the appendix, which is commonly due to fecaliths  or  calculi.  However,  the  cause  of  the  appendiceal  obstruction varies by age, with lymphoid hyperplasia being common in children and  tumors  occasionally  found  in  adults.  In  areas  where  schistosomiasis is endemic, schistosome ova have been found in the appendiceal  wall  in  patients  undergoing  appendectomy,  suggesting  a potential causative role for certain parasitic infestations in the pathogenesis of acute appendicitis. Regardless of the etiology, the clinical features of acute appendicitis are similar: the classic symptoms include pain that migrates from the periumbilical area to the right iliac fossa, fever,  anorexia  and  vomiting,  though  the  diagnosis  may  be  more challenging in children and the elderly who present with less specific features. Laboratory findings are nonspecific, though a leukocytosis is usually  present.  In  areas  with  access  to  radiographic  studies,  ultrasonography or computed tomography may establish the diagnosis, though imaging should not delay surgical exploration in cases where the diagnosis of acute appendicitis is very likely based on the clinical assessment. For patients presenting soon after the onset of symptoms, the treatment of choice is immediate appendectomy, with the addition of  broad-spectrum antibiotics in those with frank perforation; patients with a longer duration of symptoms may be managed nonoperatively with antibiotics. The differential diagnosis of acute appendicitis  includes  acute  gastroenteritis,  in  which  diarrhea  is  usually  a prominent symptom and abdominal pain is more diffuse. In contrast, gastroenteritis due to Yersinia infection may present with little diarrhea and right lower quadrant abdominal pain, causing it to be misdiagnosed as appendicitis.
+
+## Intestinal Tuberculosis
+
+This can affect any part of the gastrointestinal tract, but the ileocecal region is an area of predilection. In addition to the classic constitutional symptoms of fever, night sweats and weight loss, abdominal involvement may be manifested by distension due to ascites, diarrhea due to malabsorption, obstruction due to stenosing disease, or the presence of an abdominal mass. Less than half of patients with intestinal  tuberculosis  have  open  pulmonary  disease.  Laboratory  tests usually reveal anemia and raised inflammatory markers, though these are  nonspecific.  Tuberculin  tests  are  usually  strongly  positive  in patients who are adequately nourished but are frequently negative in those with malnutrition or HIV infection. Sputum and gastric washings should be examined for tubercle bacilli. Radiographic contrast studies of the gut show a range of changes, including mucosal ulceration, stricture formation, segmental narrowing, and fistula formation. Colonoscopy  may establish  the  diagnosis  when  acid-fast  bacilli  or caseating granulomas are found on biopsy; however, these findings are not always present, and other endoscopic findings can be difficult to distinguish from other diseases of the colon, most notably Crohn's disease.  Laparoscopy  or  laparotomy  with  microscopic  examination and culture of biopsies may be the only means of establishing the diagnosis  in  some  patients.  If  facilities  for  investigation  are  inadequate, it may be necessary to treat the patient with antituberculous drugs on the basis of a clinical diagnosis.
+
+## In@ammatory Bowel Disease
+
+The  inflammatory  bowel  diseases,  Crohn's  disease  and  ulcerative colitis,  are  chronic  inflammatory  disorders  of  the  bowel  that  are thought to occur as a result of the interplay between genetic factors, environmental  factors  and  the  host  immune  response.  Classically considered diseases of the West, it is now appreciated that the incidence  is  increasing  in  many  developing  countries.  Although  the hygiene  hypothesis  is  almost  certainly  an  oversimplification  of  the etiology of these diseases, the altered Th1/Th2 balance as a result of decreased exposure to helminths in childhood may be partly responsible for the increasing incidence in tropical countries that are undergoing  demographic  transition  [18].  In  addition,  it  is  likely  that  a substantial proportion of true cases were misdiagnosed in the past as infectious colitis.
+
+Crohn's disease can involve any part of the gastrointestinal tract, but has a predilection for the terminal ileum and cecum. Inflammatory lesions  cause  right  lower  quadrant  abdominal  pain,  diarrhea  and weight  loss.  The  differential  diagnosis  of  ileocecal  inflammatory lesions includes: bacterial infections such as yersiniosis or actinomycosis; tuberculosis; histoplasmosis; parasitic infections such as amebiasis; and helminthic infections such as strongyloidiasis. Microscopic examination of biopsy specimens is notable for transmural inflammation, lymphoid aggregates, and noncaseating granulomas. It can be challenging to differentiate Crohn's disease from intestinal tuberculosis on the basis of clinical, endoscopic and histologic features; in areas where tuberculosis is endemic, an empiric trial of antituberculous  drugs  is  undertaken  [19].  Management  of  Crohn's  disease involves  both  medical  and  surgical  approaches:  medical  therapies
+
+include broad-spectrum antibiotics and immunosuppressive agents; surgical  management  is  necessary  if  the  disease  is  complicated  by strictures, fistulizing disease or abscesses.
+
+In ulcerative colitis, the inflammation starts at the rectum and spreads proximally;  the  mucosa  appears  red  and  raw  on  proctosigmoidoscopy. Histologic examination reveals that the inflammation is limited to the submucosa. In addition, there is an inflammatory cell infiltrate in  the  lamina  propria,  neutrophil  accumulation in crypt abscesses, and depletion of goblet  cells  from  the  epithelium; granulomas are absent. Unlike Crohn's disease, in which lesions may occur throughout the bowel, ulcerative colitis is limited to the colon and rectum; thus, if the disease is not responsive to medical therapy, total colectomy is curative.
+
+## Megacolon
+
+Patients with large bowel dilatation may be ill-appearing with abdominal pain, distension and tenderness. Toxic megacolon can complicate any of the infectious colitides, e.g. it is a relatively common complication of C. difficile infection; it is also seen in fulminant colitis from the  inflammatory  bowel  diseases;  rarely,  it  is  due  to  drug-induced intestinal hypomotility. Abdominal examination is remarkable for a distended abdomen with absence of bowel sounds. Plain film of the abdomen shows a markedly distended colon. Stool should be sent for bacterial culture, C. difficile toxin, and examination for ova and parasites. However, regardless of the etiology, the treatment is colectomy; without surgical treatment, the risk of bowel perforation and peritonitis is unacceptably high.
+
+In contrast, some patients may have large bowel dilatation without systemic toxicity. This results in constipation due to chronic intestinal pseudo-obstruction. It may be due to acquired absence of the ganglions in the enteric nervous plexus, as in Chagas disease.
+
+## Stenosing Lesions of the Colon and Rectum
+
+Stenosing  lesions  of  the  bowel  can  be  caused  by  amebiasis,  schistosomiasis,  tuberculosis  and  lymphogranuloma  venereum,  which involves the rectum. Strictures can also be inflammatory, occurring in Crohn's disease or after an episode of diverticulitis, or neoplastic.
+
+The cecum is the most common site for ameboma formation, but any part of the colon may be affected. Occasionally, multiple amebomas occur in the same patient. Persisting diarrhea with blood in the stools and localized abdominal pain are the usual features, and one or more tender  masses  may  be  palpable  in  the  abdomen.  The  lesion  itself consists  of  granulation  tissue  with  areas  of  necrosis  and  fibroblast proliferation. Amebas are often difficult to find, but serologic tests are positive in over 90% of cases. Rapid resolution follows specific treatment, and surgical excision is not required.
+
+Granulomatous lesions of the colon due to schistosomiasis can cause narrowing of the bowel. Early lesions are reversible with antischistosomal treatment. The  rare  fibrotic  strictures  that  form  may  require surgical removal.
+
+## RECTUM AND ANUS
+
+## Proctitis
+
+Inflammation  of  the  rectum  causes  rectal  pain,  tenesmus  and  a mucopurulent rectal discharge. While any of the infectious causes of colitis may involve the rectum, isolated proctitis is more commonly a sexually transmitted infection (STI), usually seen in men who have sex  with  men  who  engage  in  unprotected  anal  intercourse  [20]. Common causes are gonorrhea, herpes simplex, lymphogranuloma venereum secondary to chlamydia (which is endemic in Africa, South and Southeast Asia, and Central and South America), and syphilis. Noninfectious  causes  of  proctitis  include  the  inflammatory  bowel diseases, radiation, ischemia and neoplasia. Infectious workup should include rectal swab cultures for  gonorrhea,  lymphogranuloma venereum and herpes simplex virus, and blood for syphilis serologic testing. STI testing should be performed prior to rectal examination, as some lubricants are bacteriostatic. Anoscopy may not be possible due to pain; if performed, the mucosa is seen to be edematous, erythematous and friable with exudates or ulceration. If the proctitis is likely  due  to  an  STI  but  the  causative  agent  is  unknown,  empiric antimicrobial therapy should be started; the combination of ceftriaxone,  doxycycline  and  valacyclovir is  effective against  the  four main causes. Sexual partners should be identified and treated; counseling regarding barrier protection is important, as proctitis increases the risk of HIV transmission.
+
+## Rectal Prolapse
+
+Either  the  mucosa  or  all  layers  of  the  rectal  wall  may  prolapse through the anus. This is almost always secondary to an underlying disorder.  Common  causes  in  children  in  the  tropics  are  diarrheal diseases,  especially  shigellosis,  parasitic  infestations  (e.g.  with Trichuris  trichiura ),  and  malnutrition. Among adults,  rectal prolapse is more common in elderly women due to pelvic floor weakness as a result  of  vaginal  delivery.  Treatment  is  focused  on  correcting  the underlying  disorder  and,  if  repeated  manual  reductions  are  necessary, surgical repair.
+
+## Anal Lesions
+
+Common benign lesions that occur around the anus include ulcers and warts.  Both  may  cause  pruritus, bleeding  and  pain.  Ulcers  are usually caused by herpes simplex virus, syphilis or chancroid; in addition, patients with HIV are susceptible to ulcers caused by cytomegalovirus,  tuberculosis and fungal infection.  A proportion  of patients with  HIV  have  ulcers  without  evidence  of  any  of  these  infectious agents,  so-called  idiopathic  anal  ulcers.  Condylomata  acuminata (anal warts) are caused by human papillomavirus infection, which is related to sexual activity. These exophytic, flesh-colored lesions should be  distinguished  from  the  flat  lesions  of  condyloma  lata,  seen  in secondary syphilis.
+
+## Anal Cancer
+
+Cancer of the anal canal, usually squamous cell carcinoma, makes up only a small proportion of gastrointestinal  malignancies. However, the incidence is increasing worldwide, likely due to the widespread prevalence  of  human  papillomavirus  infection.  The  risk  may  be increased  further  in  patients  co-infected  with  HIV.  Patients  present with rectal bleeding or a mass at the anal verge. The treatment options are chemoradiotherapy or surgery.
+
+## GASTROINTESTINAL DISEASES IN PATIENTS WITH HIV/AIDS
+
+Acute HIV-1 infection presents with a mononucleosis-like illness in which gastrointestinal symptoms are not usually prominent but may include nausea and vomiting and diarrhea. Rarely, patients may have pancreatitis  or  hepatitis.  In  contrast,  advanced  HIV  infection  commonly involves the gastrointestinal tract, with the main syndromes being esophageal disease and chronic diarrhea (Box 3.5). The causes of organ-specific disease in HIV-infected patients can usually be attributed to one of three causes: due to HIV infection itself; due to opportunistic  infection;  or  due  to  the  medications  used  to  treat  HIV  or prevent its complications [21]. The etiologies vary depending on the degree of immunosuppression.
+
+Chronic  diarrhea  is  a  common  problem  in  patients  with  AIDS, causing significant morbidity and mortality. While the CD4 cell count is preserved, the causes are similar to those in patients without HIV. As the infection becomes more advanced, parasitic, fungal and viral infections become more prevalent. Many of these pathogens can also be identified in AIDS patients without diarrhea, showing that asymptomatic  infection  is  common.  Workup  should  include  stool  specimens for bacterial culture and ova and parasite examinations. If these
+
+<!-- image -->
+
+are unrevealing, flexible sigmoidoscopy with biopsy may be helpful in the diagnosis, especially in  the identification of cytomegalovirus infection. Treatment should be directed at the specific enteric pathogen identified and antiretroviral therapy, which is the only treatment for some infections such as cryptosporidiosis and microsporidiosis, should be initiated.
+
+In a substantial proportion of AIDS patients with diarrhea, no enteric pathogens are isolated. Small intestinal biopsy specimens from these patients are notable for villous atrophy and lymphocytic infiltration into  the  lamina  propria.  This  idiopathic  condition  is  named  AIDS enteropathy,  and  may  represent  the  mucosal  response  to  atypical pathogens, including HIV.
+
+## REFERENCES
+
+1. Kosek M, Bern C, Guerrant RL. The global burden of diarrhoeal disease, as estimated from studies published between 1992 and 2000. Bull World Health Organ 2003;81:197-204.
+2. Hogenauer  C,  Langner  C,  Beubler  E,  et  al. Klebsiella  oxytoca as  a  causative organism of antibiotic-associated  hemorrhagic  colitis.  N  Engl  J  Med  2006; 355:2418-26.
+3. Pawlowski SW, Warren CA, Guerrant R. Diagnosis and treatment of acute or persistent diarrhea. Gastroenterology 2009;136:1874-86.
+4. Ramakrishna BS, Venkataraman S, Mukhopadhya A. Tropical malabsorption. Postgrad Med J 2006;82:779-87.
+5. Roy SK, Hossain MJ, Khatun W, et al. Zinc supplementation in children with cholera in Bangladesh: randomised controlled trial. BMJ 2008;336:266-8.
+6. Lucas MES, Deen JL, von Seidlein L, et al. Effectiveness of mass oral cholera vaccination in Beira, Mozambique. N Engl J Med 2005;352:757-67.
+7. Hill DR, Ryan ET. Management of travellers' diarrhoea. BMJ 2008;337:a1746.
+8. Steffen R. Epidemiology of traveler's diarrhea. Clin Infect Dis 2005;41(Suppl 8):S536-40.
+9. Shah N, DuPont HL, Ramsey DJ. Global etiology of travelers' diarrhea: systematic review from 1973 to the present. Am J Trop Med Hyg 2009;80:609-14.
+10.  Teixeira  AR,  Nitz  N,  Guimaro  MC,  et  al.  Chagas  disease.  Postgrad  Med  J 2006;82:788-98.
+11.  Section on Pediatric Dentistry and Oral Health. Preventive oral health intervention for pediatricians. Pediatrics 2008;122:1387-94.
+12.  Enwonwu  CO,  Falkler  WA  Jr,  Phillips  RS.  Noma  (cancrum  oris).  Lancet 2006;368:147-56.
+13.  Leong RW. Differences in peptic ulcer between the East and the West. Gastroenterol Clin North Am 2009;38:363-79.
+14.  Bhatnagar S, Gupta SD, Mathur M, et al. Celiac disease with mild to moderate histologic changes is a common cause of chronic diarrhea in Indian children. J Pediatr Gastroenterol Nutr 2005;41:204-9.
+15.  Ludvigsson JF, Montgomery SM, Ekbom A, et al. Small-intestinal histopathology and mortality risk in celiac disease. JAMA 2009;302:1 171-8.
+16.  Al-Saleem  T,  Al-Mondhiry  H.  Immunoproliferative  small  intestinal  disease (IPSID): a model for mature B-cell neoplasms. Blood 2005;105:2274-80.
+17.  Lecuit  M,  Abachin  E, Martin  A,  et  al.  Immunoproliferative  small  intestinal disease  associated  with Campylobacter jejuni .  N  Engl  J  Med  2004;350: 239-48.
+18.  de Silva HJ, de Silva NR, de Silva AP, et al. Emergence of inflammatory bowel disease 'beyond the West': do prosperity and improved hygiene have a role? Trans R Soc Trop Med Hyg 2008;102:857-60.
+19.  Almadi MA, Ghosh S, Aljebreen AM. Differentiating intestinal tuberculosis from Crohn's disease: a diagnostic challenge. Am J Gastroenterol 2009;104: 1003-12.
+20.  Davis TW, Goldstone SE. Sexually transmitted infections as a cause of proctitis in men who have sex with men. Dis Colon Rectum 2009;52:507-12.
+21.  Cello JP, Day LW. Idiopathic AIDS enteropathy and treatment of gastrointestinal opportunistic pathogens. Gastroenterology 2009;136:1952-65.

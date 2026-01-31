@@ -1,0 +1,130 @@
+============================================================
+CHUNK 0
+============================================================
+32.3
+
+============================================================
+CHUNK 1
+============================================================
+Nonpolio Enterovirus Mucocutaneous Infections
+Catherine G. Sutcliffe, William J. Moss
+
+============================================================
+CHUNK 2
+============================================================
+KEY FEATURES
+- or other mucosal surfaces.
+- enterovirus 70 and a variant of coxsackievirus A24.
+- explosive, with up to 100% of household members and 15% of the population ultimately infected.
+- by coxsackievirus A16 and enterovirus 71.
+- enterovirus 71 may be associated with severe neurologic complications (see Chapter 38.2).
+- America in 2014 caused respiratory illness that was particularly severe in children with asthma and was associated with acute |accid paralysis.
+
+============================================================
+CHUNK 3
+============================================================
+INTRODUCTION
+Enteroviruses are members of the Picornaviridae family and are non-enveloped viruses with a single-stranded RNA genome that replicate within the gastrointestinal tract or other mucosal surfaces. More than  90  sub-types  of  enteroviruses  have  been  identi{ed. Human enteroviruses were formally divided into {ve sub-groups: polioviruses, group A and B coxsackieviruses, echoviruses, and the numbered human enteroviruses. In 2000 the International Committee on Taxonomy of Viruses reclassi{ed human enteroviruses into four species consisting of human enteroviruses A, B, C (containing the polioviruses), and D (T able 32.3.1). 1 In addition to the four human enterovirus species A-D, other enteroviral species include human rhinoviruses (A-C) and porcine, bovine, and simian enteroviruses. Echoviruses  22  and  23  were  reclassi{ed  as  a  new  genus  called parechoviruses (human parechoviruses 1 and 2).
+Enteroviruses are ubiquitous, and most infections are asymptomatic, but this large group of viruses is increasingly seen
+TABLE 32.3.1 Enteroviral Species and Types Currently Recognized
+
+Human enterovirus A, Types = Human coxsackievirus A2-8, 10, 12, 14, 16 Human enterovirus 71, 76, 89-92. Human enterovirus B, Types = Human coxsackievirus A9, B1-6 Human echovirus 1-9, 11-21, 24-27, 29-33 Human enterovirus 69, 73-75, 77-88, 93, 97, 98, 101, 106, 107. Human enterovirus C, Types = Human poliovirus 1-3 Human coxsackievirus A1, 11, 13, 15, 17-22, 24 Human enterovirus 95, 96, 99, 102, 104, 105, 109. Human enterovirus D, Types = Human enterovirus 68, 70, 94
+Modified from Wong SS, Yip CC, Lau SK, Yuen KY. Human enterovirus 71 and hand, foot and mouth disease. Epidemiol Infect 2010;138:1071-1089.
+
+============================================================
+CHUNK 4
+============================================================
+INTRODUCTION
+as important human pathogens. 2,3 Some enteroviruses, best known for mucocutaneous disease, are discussed in this chapter. Enteroviruses that are best known for causing neurologic disease, including polioviruses  and  enterovirus 71, are discussed  in  Chapter 38.2. Several enteroviruses have emerged that have pandemic potential, including those causing acute hemorrhagic conjunctivitis, handfoot-and-mouth disease (HFMD), and respiratory illness (enterovirus D68).
+
+============================================================
+CHUNK 5
+============================================================
+EPIDEMIOLOGY
+Acute hemorrhagic conjunctivitis is primarily caused by enterovirus 70 and a variant of coxsackievirus A24; however, other enteroviruses, including echoviruses 7 and 11, coxsackieviruses B1 and B2, and several adenoviruses, can also cause acute hemorrhagic conjunctivitis, sporadic conjunctivitis, and keratoconjunctivitis. The {rst pandemic of hemorrhagic conjunctivitis was identi{ed in Ghana in 1969 with subsequent spread to other countries in Africa and Southeast Asia, India, Japan, and England between 1969 and 1971, affecting  millions  of  people. 4 Enteroviruses  capable  of  causing hemorrhagic conjunctivitis are highly transmissible, particularly in densely populated areas in the tropics, where good hygiene is not easy, and are spread either directly through ocular and respiratory secretions or indirectly  through  contaminated  fomites (inanimate  objects  such  as  toys).  Epidemics  of  hemorrhagic conjunctivitis  can  be  explosive,  with  up  to  100%  of  household can be seasonal, particularly in the Western Hemisphere. Individuals of both sexes and all ages are susceptible, although adolescents and young adults are most commonly infected. 5
+HFMD is most commonly caused by coxsackievirus A16 and enterovirus 71. Coxsackievirus A6 and coxsackievirus A10 have recently caused sporadic cases and outbreaks of HFMD, particularly in  Southeast Asia  and  Europe. 2 with HFMD include coxsackieviruses A4-A7, A9, A24, and B2-B5; echoviruses 1, 4, 11, and 18; and enterovirus 18. HFMD was {rst described during an outbreak in 1958 1 and has been reported in North and South America, Europe, and Asia. However, since the 1990s, enterovirus 71-associated outbreaks have occurred most frequently in T aiwan, Singapore, Malaysia, China, Vietnam, and Australia 6 (see Chapter 38.2).
+
+============================================================
+CHUNK 6
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Direct transmission of enterovirus 70 or coxsackievirus A24 from infected hands or fomites to the eye permits viral replication in the palpebral and bulbar conjunctivae and corneal epithelial cells. Both viruses bind to sialic acid on ocular epithelium, but coxsackievirus A24 can also bind to cells expressing sialic acid in the respiratory tract-accounting  for  concurrent  respiratory  symptoms. 7 Viral replication in the conjunctivae and cornea leads to the destruction of cells and resulting hemorrhagic conjunctivitis. The incubation period from the time of exposure to conjunctivitis is typically 24 to 72 hours. Disease severity is variable and depends on the number of infected cells and extent of in|ammation. Protective immune responses are elicited after enterovirus 70 and coxsackievirus A24 infections; however, immunity to enterovirus 70 wanes within 7 years, leaving individuals susceptible to re-infection. 8
+The pathogenesis of HFMD remains unclear, but fecal-oral transmission likely leads to virus replication in the lower gastrointestinal tract, followed by viremia and further replication in the oropharynx (see Chapter 38.2).
+B
+
+============================================================
+CHUNK 7
+============================================================
+CLINICAL FEATURES
+Most enteroviral infections are asymptomatic or associated with a non-speci{c febrile illness. Signs and symptoms of respiratory tract infection (coryza, pharyngitis, and pneumonia) and herpangina (multiple oral ulcers at the back of the oral cavity) may occur, but it remains unclear if enteroviruses are a signi{cant cause of vomiting, diarrhea, or abdominal pain. Rare, serious clinical manifestations include neonatal sepsis, meningoencephalitis, and myopericarditis. Infection with enterovirus 71 can result  in pulmonary edema, pulmonary hemorrhage, and cardiopulmonary failure. Chronic enterovirus infection can  occur  in  persons  with  defective  B-lymphocyte function, including those with X-linked agammaglobulinemia, severe combined immunode{ciency, or common variable immunode{ciency.
+Individuals with acute hemorrhagic conjunctivitis have abrupt onset of eye pain, photophobia, and swelling of the eyelids. Fever, headache, and pre-auricular lymphadenopathy may occur. Subconjunctival hemorrhage is the characteristic clinical manifestation and occurs in most ocular infections caused by enterovirus 70 but is  less  common with coxsackievirus A24 ocular infection. Signs and  symptoms  typically  peak  on  the  {rst  day  of  infection  and resolve within several days without complications.
+
+============================================================
+CHUNK 8
+============================================================
+CLINICAL FEATURES
+Children with HFMD usually present with fever, sore throat, and refusal to eat. Physical examination reveals vesicles and ulcers on the buccal mucosa and tongue, and papules and vesicles with surrounding erythema on the hands, feet, wrists, ankles, buttocks, and genitalia. HFMD caused by enterovirus 71 and coxsackievirus A16 is usually indistinguishable, although some observers state that the skin lesions associated with coxsackievirus A16 infection are larger and the lesions of  enterovirus 71 infection are more commonly papular and petechial. 9 Rarely, HFMD caused by enterovirus 71 may be associated with severe neurologic complications, including aseptic meningitis, brainstem or cerebellar encephalitis, and acute |accid paralysis (see Chapter 38.2). Permanent paralysis or death can result, with an estimated case-fatality ratio of 1.7%. 10
+include acute respiratory disease, particularly with coxsackie A21 and  A24,  echovirus  11,  and  more  recently  enterovirus  D68 11 ; epidemic pleurodynia, characterized by chest pains, and caused by  coxsackie  B  viruses;  myocarditis  and  pericarditis,  caused  by coxsackie B viruses; and neonatal enterovirus infections, caused, in particular, by echovirus 11 and coxsackievirus B.
+
+============================================================
+CHUNK 9
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Enterovirus infection should be suspected in persons with hemorrhagic conjunctivitis and those with vesicles and papules on the hands and feet and in the oropharynx (Fig. 32.3.1). The diagnosis is usually {rst made on clinical grounds, but enterovirus infection
+
+TABLE 32.3.2 Comparison of Acute Hemorrhagic Conjunctivitis and Other Common Types of Conjunctivitis
+
+============================================================
+CHUNK 10
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Age group, Acute Hemorrhagic Conjunctivitis = All ages. Age group, Adenoviral Conjunctivitis = All ages. Age group, Epidemic Keratoconjunctivitis = All ages. Age group, Pharyngoconjunctival Fever = Mostly children. Age group, Primary Herpes Simplex = Young children. Etiologic agent, Acute Hemorrhagic Conjunctivitis = Enterovirus 70, coxsackievirus A24. Etiologic agent, Adenoviral Conjunctivitis = Adenovirus. Etiologic agent, Epidemic Keratoconjunctivitis = Adenovirus types 8, 19. Etiologic agent, Pharyngoconjunctival Fever = Adenovirus types 1, 2, 3. Etiologic agent, Primary Herpes Simplex = Herpes simplex virus. Duration, Acute Hemorrhagic Conjunctivitis = 5-10 days. Duration, Adenoviral Conjunctivitis = 1-2 weeks. Duration, Epidemic Keratoconjunctivitis = 2-4 weeks. Duration, Pharyngoconjunctival Fever = 3 weeks. Duration, Primary Herpes Simplex = 2-3 weeks. Physical findings, Acute Hemorrhagic Conjunctivitis = . Physical findings, Adenoviral Conjunctivitis = . Physical findings, Epidemic Keratoconjunctivitis = . Physical findings, Pharyngoconjunctival Fever = . Physical findings, Primary Herpes Simplex = . Bilateral involvement Subconjunctival, Acute Hemorrhagic Conjunctivitis = 80% Frequent. Bilateral involvement Subconjunctival, Adenoviral Conjunctivitis = Frequent Rare. Bilateral involvement Subconjunctival, Epidemic Keratoconjunctivitis = Usually Occasional. Bilateral involvement Subconjunctival, Pharyngoconjunctival Fever = Often unilateral Rare. Bilateral involvement Subconjunctival, Primary Herpes Simplex = Rare Rare. Keratitis Subepithelial opacities, Acute Hemorrhagic Conjunctivitis = Frequent Occasional. Keratitis Subepithelial opacities, Adenoviral Conjunctivitis
+
+============================================================
+CHUNK 11
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+= Occasional Occasional. Keratitis Subepithelial opacities, Epidemic Keratoconjunctivitis = Marked but rare early Frequent. Keratitis Subepithelial opacities, Pharyngoconjunctival Fever = Occasional Occasional. Keratitis Subepithelial opacities, Primary Herpes Simplex = Occasional Rare. Pseudomembrane Follicles, Acute Hemorrhagic Conjunctivitis = No Slight. Pseudomembrane Follicles, Adenoviral Conjunctivitis = Occasional Marked. Pseudomembrane Follicles, Epidemic Keratoconjunctivitis = Occasional Marked. Pseudomembrane Follicles, Pharyngoconjunctival Fever = No Marked. Pseudomembrane Follicles, Primary Herpes Simplex = Occasional Moderate. Other symptoms, Acute Hemorrhagic Conjunctivitis = Upper respiratory tract infection common in coxsackievirus A24. Other symptoms, Adenoviral Conjunctivitis = Respiratory symptoms common. Other symptoms, Epidemic Keratoconjunctivitis = Upper respiratory tract infection, diarrhea common in children. Other symptoms, Pharyngoconjunctival Fever = Triad of fever, pharyngitis, and conjunctivitis. Other symptoms, Primary Herpes Simplex = Dendritic keratitis rare with primary conjunctivitis
+Reproduced with permission from Wright PW, Strauss GH, Langford MP. Acute hemorrhagic conjunctivitis. Am Fam Physician 1992;45:173-178.
+
+============================================================
+CHUNK 12
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+can be con{rmed by cell culture or identi{cation of viral RNA by reverse-transcriptase polymerase chain reaction. The generalized rash associated  with  enterovirus  infection  can  resemble that  of measles, rubella, or roseola. Acute hemorrhagic conjunctivitis can be caused by enteroviruses other than enterovirus 70 and coxsackievirus A24, as well as adenoviruses (particularly type 11). However, these viral causes cannot be clinically distinguished. The skin lesions of HFMD may resemble those of herpes simplex virus or varicellazoster virus infections (T able 32.3.2), 3 and the acute |accid paralysis can be confused with paralytic poliomyelitis. Surveillance for acute |accid paralysis as part of the Global Polio Eradication Initiative most commonly detects non-polio enteroviruses. 12
+
+============================================================
+CHUNK 13
+============================================================
+PREVENTION AND TREATMENT
+Good hygiene, particularly handwashing, limits fecal-oral or ocular transmission and is the primary method of preventing enterovirus infection. Social distancing measures, such as closing schools, are also used. 13 In December 2015, China's Food and Drug Administration approved two inactivated enterovirus 71 whole-virus vaccines for the prevention of severe HFMD. 14,15 Vaccine ef{cacy after two doses  of  inactivated  enterovirus  71  was  approximately  95%  or higher in  clinical  trials. 16,17 No  speci{c  therapy  for  enterovirus infection is recommended, although several drugs are in development. 18 Pleconaril showed promise in improving survival in neonates with enterovirus sepsis. 19 Intravenous immune globulin has been used to treat severe enteroviral infections, including overwhelming infection in neonates, myocarditis, and meningoencephalitis, but data from controlled clinical trials are not available.
+
+============================================================
+CHUNK 14
+============================================================
+REFERENCES
+1.  Wong SS, Yip  CC, Lau  SK, Yuen KY.  Human enterovirus 71 and hand, foot and mouth disease. Epidemiol Infect 2010;138:1071-89.
+2.  Aswathyraj S, Arunkumar G, Alidjinou EK, Hober D. Hand, foot and mouth disease (HFMD): emerging epidemiology and the need for a vaccine strategy. Med Microbiol Immunol 2016;205:397-407.
+3.  Lugo  D,  Krogstad  P.  Enteroviruses  in  the  early  21st  century:  new
+4.  Mirkovic RR, Kono R, Yin-Murphy M, et al. Enterovirus type 70: the etiologic agent of pandemic acute haemorrhagic conjunctivitis. Bull
+5.  Wright PW, Strauss GH, Langford MP. Acute hemorrhagic conjunctivitis. Am Fam Physician 1992;45:173-8.
+6. and management of enterovirus 71. Lancet Neurol 2010;9:1097-105.
+7.  Nilsson EC, Jamshidi F, Johansson SM, et al. Sialic acid is a cellular receptor  for  coxsackievirus  A24  variant,  an  emerging  virus  with pandemic potential. J Virol 2008;82:3061-8.
+8.  Aoki K, Sawada H. Long-term observation of neutralization antibody
+9.  Lee TC, Guo HR, Su HJ, et al. Diseases caused by enterovirus 71 infection. Pediatr Infect Dis J 2009;28:904-10.
+10. mouth disease associated with EV71: a systematic review and metaanalysis. Epidemiol Infect 2015;143:3094-102.
+11.  Holm-Hansen CC, Midgley SE, Fischer TK. Global emergence of enterovirus D68: a systematic review. Lancet Infect Dis 2016;16:e64-75.
+12.  Suresh S, Forgie S, Robinson J. Non-polio enterovirus detection with acute |accid paralysis: A systematic review. J Med Virol 2018;90:3-7.
+
+============================================================
+CHUNK 15
+============================================================
+REFERENCES
+13.  Solomon T, Lewthwaite P, Perera D, et al. Virology, epidemiology, pathogenesis,  and  control  of  enterovirus  71.  Lancet  Infect  Dis 2010;10:778-90.
+14.  Mao QY, Wang Y, Bian L, et al. EV71 vaccine, a new tool to control outbreaks  of  hand,  foot  and  mouth  disease  (HFMD).  Expert  Rev Vaccines 2016;15:599-606.
+15.  Chong P , Liu CC, Chow YH, et al. Review of enterovirus 71 vaccines. Clin Infect Dis 2015;60:797-803.
+16. healthy children. N Engl J Med 2014;370:829-37.
+17. enterovirus 71 vaccine in China. N Engl J Med 2014;370:818-28.
+18.  Bauer L, Lyoo H, van der Schaar HM, et al. Direct-acting antivirals and host-targeting strategies to combat enterovirus infections. Curr
+19.  Abzug MJ, Michaels MG, Wald E, et al. National Institute of Allergy and  Infectious  Diseases  Collaborative  Antiviral  Study  Group.  A randomized, double-blind, placebo-controlled trial of pleconaril for the treatment of neonates with enterovirus sepsis. J Pediatric Infect Dis Soc 2016;5:53-62.
+

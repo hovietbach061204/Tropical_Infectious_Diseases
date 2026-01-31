@@ -1,0 +1,158 @@
+============================================================
+CHUNK 0
+============================================================
+21.  Fisher-Hoch  SP ,  Mitchell  SW,  Sasso  DR,  et al.  Physiological  and immunologic disturbances associated with shock in a primate model of Lassa fever. J Infect Dis 1987;155(3):465-74.
+22.  Cummins  D,  Bennett  D,  Fisher-Hoch  SP,  et al.  Electrocardiographic abnormalities in patients with Lassa fever. J Trop Med Hyg 1989;92(5):350-5.
+23.  Cummins D, Bennett D, Fisher-Hoch SP, et al. Lassa fever encephalopathy:  clinical  and  laboratory  {ndings.  J Trop  Med  Hyg 1992;95(3):197-201.
+24.  Johnson KM, McCormick JB, Webb PA, et al. Clinical virology of Lassa fever in hospitalized patients. J Infect Dis 1987;155(3):456-64.
+25.  Cummins D, Fisher-Hoch SP, Walshe KJ, et al. A plasma inhibitor of  platelet  aggregation in  patients with  Lassa  fever.  Br J Haematol 1989;72(4):543-8.
+26.  Roberts  PJ,  Cummins  D,  Bainton AL,  et al.  Plasma  from  patients with severe Lassa fever profoundly modulates f-met-leu-phe induced superoxide generation in neutrophils. Br J Haematol 1989;73(2):152-7.
+27.  Branco LM, Boisen ML, Andersen KG, et al. Lassa hemorrhagic fever in a late term pregnancy from northern Sierra Leone with a positive maternal outcome: case report. Virol J 2011;8:404.
+28.  Price ME, Fisher-Hoch SP , Craven RB, McCormick JB. A prospective study of maternal and fetal outcome in acute Lassa  fever infection during pregnancy. BMJ 1988;297(6648):584-7.
+29.  Mateer  EJ,  Huang  C,  Shehu  NY,  Paessler  S.  Lassa  fever-induced sensorineural hearing loss: a neglected public health and social burden. PLoS Negl Trop Dis 2018;12(2):e0006187.
+
+============================================================
+CHUNK 1
+============================================================
+30.  Cummins D, McCormick JB, Bennett D, et al. Acute sensorineural deafness in Lassa fever. JAMA 1990;264(16):2093-6.
+31.  Akhuemokhan OC, Ewah-Odiase RO, Akpede N, et al. Prevalence of  Lassa  Virus  Disease  (LVD)  in  Nigerian  children  with  fever  or fever  and  convulsions  in  an  endemic  area.  PLoS  Negl  Trop  Dis 2017;11(7):e0005711.
+32.  Webb PA, McCormick JB, King IJ, et al. Lassa fever in children in Sierra Leone, West Africa. T rans R Soc T rop Med Hyg 1986;80(4):577-82.
+33.  Boisen ML, Hartnett JN, Shaffer JG, et al. Field validation of recombinant  antigen immunoassays for diagnosis of Lassa  fever.  Sci Rep 2018;8(1):5939.
+34.  Emmerich P, Thome-Bolduan C, Drosten C, et al. Reverse ELISA for IgG and IgM antibodies to detect Lassa virus infections in Africa. J Clin Virol 2006;37(4):277-81.
+35.  Gabriel M, Adomeh DI, Ehimuan J, et al. Development and evaluation of antibody-capture immunoassays for detection of Lassa virus nucleoprotein-speci{c immunoglobulin M and G. PLoS Negl Trop Dis 2018;12(3):e0006361.
+36.  T rappier SG, Conaty AL, Farrar BB, et al. Evaluation of the polymerase chain reaction for diagnosis of Lassa virus infection. Am J T rop Med Hyg 1993;49(2):214-21.
+38.  Olschlager  S,  Lelke  M,  Emmerich  P ,  et al.  Improved  detection  of Lassa virus by reverse transcription-PCR targeting the 5' region of S RNA. J Clin Microbiol 2010;48(6):2009-13.
+
+============================================================
+CHUNK 2
+============================================================
+39.  Elliott  LH,  McCormick  JB,  Johnson  KM.  Inactivation  of  Lassa, Marburg, and Ebola viruses by gamma irradiation. J Clin Microbiol 1982;16(4):704-8.
+40.  Raabe VN, Kann G, Ribner BS, et al. Favipiravir and Ribavirin treatment of epidemiologically linked cases of Lassa fever. Clin Infect Dis 2017;65(5):855-9.
+41.  Oestereich L, Rieger T, Ludtke A, et al. Ef{cacy of Favipiravir alone and  in  combination  with  Ribavirin  in  a  lethal,  immunocompetent mouse model of Lassa fever. J Infect Dis 2016;213(6):934-8.
+42.  Hadi CM, Goba A, Khan SH, et al. Ribavirin for Lassa fever postexposure prophylaxis. Emerg Infect Dis 2010;16(12):2009-11.
+43.  McCormick JB, King IJ, Webb PA, et al. Lassa fever. Effective therapy with ribavirin. N Engl J Med 1986;314(1):20-6.
+44.  Hallam HJ, Hallam S, Rodriguez SE, et al. Baseline mapping of Lassa fever virology, epidemiology and vaccine research and development. NPJ Vaccines 2018;3:11.
+45.  Fisher-Hoch  SP,  McCormick  JB.  Lassa  fever  vaccine.  Expert  Rev Vaccines 2004;3(2):189-97.
+46.  Fisher-Hoch SP , McCormick JB. T owards a human Lassa fever vaccine. Rev Med Virol 2001;11(5):331-41.
+47.  Fisher-Hoch SP, Hutwagner L, Brown B, McCormick JB. Effective vaccine for Lassa fever. J Virol 2000;74(15):6777-83.
+48.  McCormick JB, Mitchell SW, Kiley MP, et al. Inactivated Lassa virus elicits a non protective immune response in rhesus monkeys. J Med Virol 1992;37(1):1-7.
+
+============================================================
+CHUNK 3
+============================================================
+49.  Fisher-Hoch SP , McCormick JB, Auperin D, et al. Protection of rhesus monkeys from fatal Lassa fever by vaccination with a recombinant vaccinia virus containing the Lassa virus glycoprotein gene. Proc Natl Acad Sci USA 1989;86(1):317-21.
+50.  McCormick  JB.  Lassa  fever:  epidemiology,  therapy  and  vaccine development. Kansenshogaku Zasshi 1988;62(Suppl.):353-66.
+51.  Auperin DD, Esposito JJ, Lange JV , et al. Construction of a recombinant vaccinia virus expressing the Lassa virus glycoprotein gene and protection of guinea pigs from a lethal Lassa virus infection. Virus Res 1988;9(2-3):233-48.
+52.  Lukashevich IS, Pushko P . Vaccine platforms to control Lassa fever. Expert Rev Vaccines 2016;15(9):1135-50.
+53.  Lukashevich IS. Advanced vaccine candidates for Lassa fever. Viruses 2012;4(11):2514-57.
+54.  Lukashevich IS, Patterson J, Carrion R, et al. A live attenuated vaccine for Lassa fever made by reassortment of Lassa and Mopeia viruses. J Virol 2005;79(22):13934-42.
+55.  Geisbert TW, Jones S, Fritz EA, et al. Development of a new vaccine for the prevention of Lassa fever. PLoS Med 2005;2(6):e183.
+37.  Raabe V , Koehler J. Laboratory diagnosis of Lassa fever. J Clin Microbiol 2017;55(6):1629-37.
+
+============================================================
+CHUNK 4
+============================================================
+37.3 South American Hemorrhagic Fevers
+Slobodan Paessler
+
+============================================================
+CHUNK 5
+============================================================
+KEY FEATURES
+- geographically restricted hemorrhagic fever syndromes caused by several related 'Old World' arenaviruses: Junin virus causes Argentine hemorrhagic fever, Machupo virus causes Bolivian hemorrhagic fever, Guanarito virus causes Venezuelan hemorrhagic fever, and Sabia virus causes Brazilian hemorrhagic fever.
+- prodromic phase, and 8 to 12 days after onset about 20% to 30% of patients advance to the neurologic and hemorrhagic phase.
+- bleeding from body ori{ces.
+- months' duration.
+- fevers have a signi{cant impact on public health within their endemic regions, with case fatality rates of 10% to 30%.
+
+============================================================
+CHUNK 6
+============================================================
+INTRODUCTION
+South American arenaviruses cause chronic infections of rodents and severe disease in humans. Junin virus (JUNV), for example, causes  Argentine  hemorrhagic  fever,  a  disease  mostly  endemic to the pampas region of Argentina, with about 5 million people at  risk.  In  addition,  increased  traveling  to  and  from  endemic regions may lead to the importation of hemorrhagic fever into non-endemic metropolitan areas of various countries. In addition to its impact on public health, some of the viruses such as JUNV and Machupo virus (MACV) possess features  that might make them  potential  biologic  weapons;  JUNV  is  very  stable,  highly infectious, and exhibits high morbidity and signi{cant mortality at low doses.
+Argentine hemorrhagic fever was {rst described in 1953, and the  virus  was  isolated  several  years  later.  A  similar  disease  was reported in Bolivia in 1959, and the causative agent, MACV, was {rst isolated in 1965. In 1989 an outbreak of Venezuelan hemorrhagic fever occurred among a rural population; the isolated virus was  named Guanarito  virus. The  most  recent  isolate  of  South American hemorrhagic fever viruses occurred in Brazil in 1990 where  Sabia  virus  (a  causative  agent  of  Brazilian  hemorrhagic fever)  was  isolated.  All  of  these  viruses  belong  to  the  family Arenaviridae .
+
+============================================================
+CHUNK 7
+============================================================
+EPIDEMIOLOGY
+South American hemorrhagic fever viruses cause chronic infections of  rodents,  with  a  wide  regional  distribution.  Infected  rodents move freely in their natural habitat and may invade human dwellings. Humans are infected through mucosal exposure to aerosols or by direct contact of abraded skin with infectious material of rodent origin. Person-to-person transmission is very rare and may occur  via  direct  contact  with  infected  body  |uids  (e.g.,  sexual transmission) of a viremic patient; nosocomial infections have also been reported. Nevertheless, agricultural workers (mostly male adults) have historically been at the highest risk for infection while working around potentially infected rodents in {elds.
+
+============================================================
+CHUNK 8
+============================================================
+Argentine Hemorrhagic Fever
+Epidemics  predominantly  occur  during  the  major  sugar  cane harvesting season in Argentina, with a peak incidence in the month of May, at the end of the Argentine summer. The disease is four times as prevalent in males as in females, and is more prevalent among  rural  workers  than  in  urban  populations. 1 The  annual incidence of Argentine hemorrhagic fever is positively correlated with  local  population  densities  of  the  rodent  reservoir.  This epidemiologic pattern is being further modi{ed through vaccination of high-risk populations in endemic regions. 2
+
+============================================================
+CHUNK 9
+============================================================
+Bolivian Hemorrhagic Fever
+The reservoir for MCV is a species of the genus Calomys. The host species resides in habitats where grassland intergrades into forest and, unlike C. musculinus, thrives in villages and near human habitations.  Bolivian  hemorrhagic  fever  tends  to  be  a  seasonal disease, with more cases occurring in the dry season, at the peak of  agricultural  activity.  Epidemics  in  towns  may  occur  during epizootic conditions when rodent densities reach unusually high levels and rodents invade towns or villages. In 1963 to 1964, a Bolivian hemorrhagic fever epidemic occurred in the village of San  Joaquin  resulting  in  637  cases  and  113  deaths  among  the town's 3000 residents. 3 Under these conditions, transmission to humans is likely from the inhalation of infectious aerosols; however, direct contact of broken skin or mucous membranes with rodent excreta  or  contaminated  fomites,  such  as  food,  should  also  be considered. Person-to-person transmission, likely via direct contact with infectious body |uids, may occur in familial or nosocomial settings. T ransmission by intimate contact during convalescence is also possible. 4
+
+============================================================
+CHUNK 10
+============================================================
+Venezuelan Hemorrhagic Fever
+In  1989,  a  severe  hemorrhagic  fever  was  recognized  in  the municipality  of  Guanarito,  Guanarito  State,  Venezuela.  The causative agent was soon isolated and shown to be an arenavirus (Guanarito).  Guanarito  virus  is  speci{cally  associated  with  the short-tailed cane mouse, Zygodontomys brevicauda, whereas a second arenavirus, Pirital virus, is associated with the cotton rat, Sigmodon alstoni. Although cases have been observed throughout the year, epidemics  appear  to  have  a  seasonal  peak  from  November  to January,  coinciding  with  maximum  agricultural  activity  in  the endemic region. As for Argentine hemorrhagic fever, the highest risk is among adult male agricultural workers. Thus transmission to humans likely occurs outside the home and is potentially related to agricultural activities. 5 Person-to-person transmission or nosocomial infection has not been observed in Venezuelan hemorrhagic fever patients.
+
+============================================================
+CHUNK 11
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Usually, hemorrhage is present in many organs, and effusions can be found in serous cavities. There is widespread necrosis, which may be present in any organ system, varying from modest and focal to massive in extent. Liver and lymphoid systems are usually extensively involved, and the lung regularly has varying degrees of interstitial pneumonitis, diffuse alveolar damage, and hemorrhage. The in|ammatory response is usually minimal. Argentine hemorrhagic fever during pregnancy is rare; however, congenital malformations, fetal death, and death of neonates have been reported. 6 Children tend to have a milder clinical course, but severe, and even fatal, disease has been seen.
+
+============================================================
+CHUNK 12
+============================================================
+Patient Evaluation, Diagnosis, and Differential Diagnosis
+South American hemorrhagic fevers resemble one another, but Argentine hemorrhagic fever is the best described. The onset of clinical disease is insidious, with malaise, anorexia, chills, headache, myalgias, and fever (38°C-39°C). A few days later, patients develop constitutional, gastrointestinal, neurologic, and cardiovascular signs and symptoms. Low backache, retro-orbital pain, nausea or vomiting, epigastric pain, photophobia, dizziness, and constipation or mild diarrhea might be present in patients. Common absence of productive cough or nasal congestion is helpful in distinguishing the initial symptoms of Argentine hemorrhagic fever from those of in|uenza or other acute respiratory infections.
+As with many other infectious diseases, the {rst clinical manifestations of South American hemorrhagic fevers are non-speci{c and can be confused with several acute febrile conditions; therefore the history of potential exposure to infected rodents is critical in the  case  of  South  American  hemorrhagic  fevers.  Among  the infectious diseases, the differential diagnosis includes typhoid fever, hepatitis, infectious mononucleosis, leptospirosis, hantavirus pulmonary  syndrome,  dengue,  dengue  hemorrhagic  fever,  and rickettsioses. Malaria should also be considered in endemic areas. Diseases presenting with hematologic or neurologic alterations, such as  intoxications,  rheumatic  diseases,  and  blood  dyscrasias, may  also  be  mistaken  for  hemorrhagic  fever.  In  the  respective endemic areas, or in patients with a history of travel to the speci{c geographic regions, a febrile syndrome with proteinuria, leukopenia,
+and thrombocytopenia is suspicious of one of the South American hemorrhagic fevers. 7,8
+
+============================================================
+CHUNK 13
+============================================================
+Laboratory Diagnosis
+Final diagnosis depends on demonstration of the infecting virus, or one of its products, in acute serum samples. Reverse transcription polymerase chain reaction (RT-PCR) is usually the most sensitive and produces DNA amplicons that can be sequenced for genetic analysis of the pathogen. In general, viremia and antigenemia are readily detected during the acute phase and disappear as the patient recovers. The presence of viral nucleic acid can be detected during the same period and perhaps 1 or 2 days afterward. Seroconversion, mainly IgM antibodies, may be detectable during illness and usually appears early in convalescence. Diagnosis of initial patients in any outbreak, particularly if there are unusual features, bene{ts from the study of virus isolates and classic serology. Most of the hemorrhagic fever viruses are hazardous and should only be isolated or studied under Biosafety Level 4 (BSL4) containment. Ideally, blood samples from patients should be collected early in the course of illness, and both serum and blood clot should be frozen as soon as possible. A second sample should be obtained before discharge for comparative serology. In fatal cases, a full autopsy should be performed, if possible, with a complete set of organ biopsy material collected in formalin for diagnostic studies: spleen, liver, and lymph nodes should be collected frozen for virus isolation. Classic histopathology is  often useful if yellow fever,  Rift Valley  fever,  or {lovirus infection is suspected, as it can distinguish between them; it is also helpful in diagnosing some of the confounding diseases. Immunohistochemistry on {xed tissues can usually make a de{nitive diagnosis possible.
+Precautions appropriate to each virus should be taken to prevent infection  while  processing  samples  or  performing  a  necropsy. Frozen samples should be appropriately packed and, whenever possible, shipped on dry ice, although diagnoses can sometimes be made on mishandled specimens. The receiving laboratory should be advised of the shipment, its estimated time of arrival, and the waybill  number  to  allow  for  tracing  the  materials  if,  as  often happens, there is a delay en route.
+
+============================================================
+CHUNK 14
+============================================================
+TREATMENT
+Argentine  hemorrhagic  fever  has  a  6-  to  14-day  prodromic phase,  and  8  to  12  days  after  its  onset,  about  20%  to  30%  of patients  advance  to  the  neurologic  and  hemorrhagic  phase, which involves symptoms such as confusion, convulsions, coma, and bleeding from body ori{ces. 7,8 At this point, the case fatality rate  can  be  variable,  but  overall  it  is  10%  to  30%,  and  survivors  of  this  phase  enter  a  long  convalescence  period  of  1  to  3 months' duration. 7,8 Current recommended therapy of Argentine hemorrhagic fever involves treatment with immune plasma from convalescent patients; this is very effective if started in the {rst week of disease.
+
+============================================================
+CHUNK 15
+============================================================
+Supportive Treatment
+Supportive treatment consists of adequate hydration, symptomatic measures, and proper management of the neurologic alterations, blood loss, shock, and additional superimposed infections. Intramuscular and subcutaneous injections are contraindicated because of the risk of hematomas.
+In  the  Argentine  hemorrhagic  fever-endemic  area,  several observations have been made. Pneumonia is the most common secondary bacterial infection and is often accompanied by radiographic changes and an increase in fever but not by leukocytosis; it  usually  responds  to  antibiotics. T ransfusions  are  occasionally required, but most of the severe forms are neurologic. It is useful to sedate agitated patients with diphenhydramine or diazepam;
+diazepam also gives some protection  against seizures.  Cerebral edema may require both steroids and mannitol.
+
+============================================================
+CHUNK 16
+============================================================
+Anti-Viral Therapy
+Immune  plasma  therapy  can  ameliorate  the  immediate  disease symptoms  and  reduce  mortality  if  administered  during  the prodromic phase, but in about 10% of cases it results in a late neurologic syndrome caused by unknown mechanisms. 7,8 Further limitations to the current use  of this  treatment  are dictated by a short supply of plasma. Both in vitro and in vivo studies have documented the prophylactic and therapeutic value of the nucleoside analog ribavirin against several arenaviruses, including JUNV. 9,10 Importantly, ribavirin reduced both morbidity and mortality in humans  associated  with  JUNV  infections  if  given  early  in  the course of clinical disease. 11 The mechanisms by which ribavirin exerts  its  anti-arenaviral  action  remain  poorly  understood  but likely involve targeting different steps of the virus life cycle. Some limitations of the use of ribavirin are (1) its often, and signi{cant, side effects, including anemia and congenital disorders; and (2) the  need  for  intravenous  administration  for  optimal  ef{cacy. Several inhibitors of inosine monophosphate dehydrogenase, the S-adenosylhomocysteine hydrolase, a variety of sulfated polysaccharides, phenothiazine compounds, brassinosteroids, and myristic acid have been reported to have anti-arenaviral activity. However, these  compounds  display  only  modest  and  rather  non-speci{c effects associated with signi{cant toxicity.
+
+============================================================
+CHUNK 17
+============================================================
+Preventive Medicine
+The observation that the prototype XJ strain of JUNV lost virulence for guinea pigs after serial passages in newborn mice led to efforts aimed at developing a live-attenuated vaccine against Argentine hemorrhagic fever. This resulted in the generation of Candid1, which  was  derived  from  the  44th  mouse  brain  passage  of  the XJ strain of  JUNV and found to be attenuated in guinea pigs. Preclinical studies at the United States Army Medical Research Institute  for  Infectious  Diseases  (USAMRIID)  supported  the safety,  immunogenicity,  and  protective  ef{cacy  of  Candid1  in both guinea pigs and rhesus macaques, showing median protective  doses  of  34  and < 16  plaque-forming  units  (pfu)  in  guinea pigs and  rhesus macaques,  respectively. Subsequent  clinical studies  involving  agricultural  workers  in  the  JUNV-endemic area have shown Candid1 to be an effective and safe vaccine in humans. 12 In  2006  the  regulatory  agency  of Argentina  granted this  Candid1  vaccine  approval  for  human  use  exclusively  in Argentina.
+Studies addressing long-term immunity and safety have not been conducted in the United States. Experimental data also exist that  would support the cross-protection of this  vaccine against MACV; however, no clinical studies were performed.
+
+============================================================
+CHUNK 18
+============================================================
+REFERENCES
+1.  Mills  JN,  Ellis  BA,  Childs  JE,  et al.  Prevalence  of  infection  with Junin virus in rodent populations in the epidemic area of Argentine hemorrhagic fever. Am J Trop Med Hyg 1994;51:554-62.
+2.  Ambrosio A, Saavedra M, Mariani M, et al. Argentine hemorrhagic fever vaccines. Hum Vaccin 2011;7(6):694-700.
+3.  Johnson KM, Halstead SB, Cohen SN. Hemorrhagic fevers of Southeast Asia  and  South America:  a  comparative  appraisal.  Prog  Med  Virol 1967;9:105-58.
+4.  Douglas R, Wiebenga N, Couch R. Bolivian hemorrhagic fever probably transmitted by personal contact. Am J Epidemiol 1965;82:8591.
+5.  Salas R, Pacheco ME, Ramos B, et al. Venezuelan haemorrhagic fever. Lancet 1991;338:1033-6.
+6.  Briggiler A, Levis S, Enria DA, Maiztegui JI. Argentine hemorrhagic fever in pregnant women. Medicina (Buenos Aires) 1990;50:443.
+7.  Enria DA, Barrera Oro JG. Junin virus vaccines. Curr T op Microbiol Immunol 2002;263:239-61.
+

@@ -1,0 +1,418 @@
+============================================================
+CHUNK 0
+============================================================
+KEY FEATURES
+- around a quarter of the world's population. The highest prevalence of anemia is in Africa and Southeast Asia, and it particularly affects pregnant women and young children.
+- excessive loss of red cells or excessive red cell destruction (i.e. hemolysis). At least 50% of anemia is estimated to be due to iron de{ciency. Congenital defects of red cells, such as sickle cell trait and glucose6-phosphate dehydrogenase de{ciency, provide some protection against severe malaria.
+- based on molecular, immunological and other features. Accurate classi{cation is important as it affects the prognosis and treatment, so diagnosis and management at a specialist center is recommended.
+- and may be associated with an increased risk of either clotting or bleeding. Common acquired reasons for excessive bleeding include vitamin K de{ciency, obstetric complications, and platelet disorders such as immune thrombocytopenic purpura. The most common congenital causes of hemostatic problems include de{ciencies of clotting factors and von Willebrand's disease.
+- tendency) may be congenital or acquired and it is often complicated to diagnose and manage. Such patients should therefore be referred to a specialist center.
+
+============================================================
+CHUNK 1
+============================================================
+Epidemiology
+Anemia is a major global health problem that affects health and intellectual capacity and consequently can have a measurable effect on economic development. Around 1.62 billion people are anemic worldwide-24%  of  the  global  population-with  the  highest prevalence in Africa and Southeast Asia 1 (T able 5.1). According the World Health Organization (WHO), at least 50% of global anemia is attributable to iron de{ciency. Health consequences of anemia include reduced adult work productivity, a negative effect on child development and cognition, increased risk of maternal/ child mortality, and increased post-operative mortality.
+
+============================================================
+CHUNK 2
+============================================================
+Anemia Reference Ranges
+Hemoglobin (Hb) is highest at birth, decreasing to a minimum by about 2  months of age before increasing gradually through childhood to reach adult levels by puberty (T able 5.2). The lower normal limits for Hb are  13 for men and 12 g/dL for women. Ethnic differences have been described in Hb estimations; they may be 0.5 to 1 g/dL lower in black Americans than in socially comparable white counterparts. 2 Normal Hb concentration varies with age, sex, and pregnancy status and is also in|uenced by genetic
+
+============================================================
+CHUNK 3
+============================================================
+Hematologic Diseases
+Stephen McKew, Imelda Bates, Edeghonghon Olayemi and environmental factors. Children and women of reproductive age have the highest prevalence of anemia (Fig. 5.1). In normal pregnancy an increase in plasma volume results in a progressive decrease in Hb, which returns to normal about a week after delivery. Altitude can increase Hb by approximately 0.25 g/dL per 1000 m above sea level.
+Anemia can be caused by reduced production, excessive loss, or destruction of red cells. In this chapter, only causes of anemia with  particular  relevance  for  low-resourced  countries  will  be discussed.
+
+============================================================
+CHUNK 4
+============================================================
+Clinical Features
+Anemia results in a reduction in oxygen delivered to tissues. Clinical manifestations  depend  on  the  rate  of  development  of  anemia, co-existent medical conditions, and the age of the patient. If the onset of anemia is insidious and there is no cardiorespiratory disease ( compensated anemia ),  the Hb can fall below 8 g/dL before symptoms become apparent, especially in children, who can tolerate severe anemia better than adults. In compensated anemia there are few symptoms at rest, although there may be pallor and breathlessness on exertion.  Cardiac  output  is  increased,  and  there  is  a  rise  in erythrocyte 2,3-diphosphoglycerate levels, which improves tissue oxygen delivery.  A severe reduction in Hb, particularly if this occurred acutely, can  be  associated  with  breathlessness  at  rest,  increased heart rate and cardiac output, and eventually heart failure ( decompensated anemia ). There may be severe breathlessness, angina, and claudication with pulmonary and peripheral edema, ascites, and hypotension. Mortality is high once heart failure occurs.
+
+============================================================
+CHUNK 5
+============================================================
+Diagnosis
+The accurate diagnosis of anemia in a resource-poor setting is challenging if there is insuf{cient or unreliable laboratory support. Health care workers may use physical signs such as conjunctival and palmar pallor to diagnose anemia. 3 In patients with severe anemia, de{ned as an Hb < 7 g/dL, these signs can predict severe anemia with reasonable accuracy. However, they are not reliable in diagnosing mild and moderate anemia. Several portable technologies are available to aid in the diagnosis of anemia. The Hb color scale (HCS) is a rapid, cheap, and simple method of estimating Hb levels using a blood spot obtained from a {nger prick. It requires no laboratory support and can estimate the Hb concentration to within 1 gd/L. A meta-analysis has shown that the HCS can signi{cantly reduce the misdiagnosis of anemia compared with clinical assessment alone. 4 There are also point-of-care direct read-out tests that provide an accurate and rapid Hb measurement (e.g., HemoCue, Aptus) and are suitable for use where there is no laboratory.
+
+============================================================
+CHUNK 6
+============================================================
+Management of Different Types of Anemia
+The cause of the anemia should be identi{ed and treated. Although transfusion usually rapidly corrects the anemia, it may exacerbate cardiac  failure  and  carries  signi{cant  infection  risks,  especially in  countries  with  weak  health  systems  and  high  prevalence  of transfusion-transmitted infections. In low-resource settings, anemia is often caused by several factors acting simultaneously, for example, malnutrition, hemoglobinopathies, and infections. 5,6 Some of these factors have a degree of interdependency, such as iron de{ciency and infection, which may explain why traditional single-treatment approaches  (e.g.,  iron  supplementation)  have  failed  to  make  a
+
+TABLE 5.1 Anemia Prevalence by WHO Region
+
+============================================================
+CHUNK 7
+============================================================
+Management of Different Types of Anemia
+Africa, Children (6-59 Months).Prevalence (%) = 62.3. Africa, Children (6-59 Months).# Affected (Millions) = 84.5. Africa, Pregnant Women (15-49 Years).Prevalence (%) = 46.3. Africa, Pregnant Women (15-49 Years).# Affected (Millions) = 9.2. Africa, Non-Pregnant Women (15-49 Years).Prevalence (%) = 37.8. Africa, Non-Pregnant Women (15-49 Years).# Affected (Millions) = 69.9. Americas, Children (6-59 Months).Prevalence (%) = 22.3. Americas, Children (6-59 Months).# Affected (Millions) = 17.1. Americas, Pregnant Women (15-49 Years).Prevalence (%) = 24.9. Americas, Pregnant Women (15-49 Years).# Affected (Millions) = 2.4. Americas, Non-Pregnant Women (15-49 Years).Prevalence (%) = 16.5. Americas, Non-Pregnant Women (15-49 Years).# Affected (Millions) = 38.1. Southeast Asia, Children (6-59 Months).Prevalence (%) = 53.8. Southeast Asia, Children (6-59 Months).# Affected (Millions) = 96.7. Southeast Asia, Pregnant Women (15-49 Years).Prevalence (%) = 48.7. Southeast Asia, Pregnant Women (15-49 Years).# Affected (Millions) = 11.5. Southeast Asia, Non-Pregnant Women (15-49 Years).Prevalence (%) = 41.5. Southeast Asia, Non-Pregnant Women (15-49 Years).# Affected (Millions) = 190.6. Europe, Children (6-59 Months).Prevalence (%) = 22.9. Europe, Children (6-59 Months).# Affected (Millions) = 12.7. Europe, Pregnant Women (15-49 Years).Prevalence (%) = 25.8. Europe, Pregnant Women (15-49 Years).# Affected (Millions) = 1.8. Europe, Non-Pregnant Women (15-49 Years).Prevalence (%) = 22.5. Europe, Non-Pregnant Women (15-49 Years).# Affected (Millions) =
+
+============================================================
+CHUNK 8
+============================================================
+Management of Different Types of Anemia
+48.4. Eastern Mediterranean, Children (6-59 Months).Prevalence (%) = 48.6. Eastern Mediterranean, Children (6-59 Months).# Affected (Millions) = 35.8. Eastern Mediterranean, Pregnant Women (15-49 Years).Prevalence (%) = 38.9. Eastern Mediterranean, Pregnant Women (15-49 Years).# Affected (Millions) = 3.9. Eastern Mediterranean, Non-Pregnant Women (15-49 Years).Prevalence (%) = 37.7. Eastern Mediterranean, Non-Pregnant Women (15-49 Years).# Affected (Millions) = 55.2. Western Pacific, Children (6-59 Months).Prevalence (%) = 21.9. Western Pacific, Children (6-59 Months).# Affected (Millions) = 25.7. Western Pacific, Pregnant Women (15-49 Years).Prevalence (%) = 24.3. Western Pacific, Pregnant Women (15-49 Years).# Affected (Millions) = 3.6. Western Pacific, Non-Pregnant Women (15-49 Years).Prevalence (%) = 19.8. Western Pacific, Non-Pregnant Women (15-49 Years).# Affected (Millions) = 92.6. Global, Children (6-59 Months).Prevalence (%) = 42.6. Global, Children (6-59 Months).# Affected (Millions) = 273.2. Global, Pregnant Women (15-49 Years).Prevalence (%) = 38.2. Global, Pregnant Women (15-49 Years).# Affected (Millions) = 32.4. Global, Non-Pregnant Women (15-49 Years).Prevalence (%) = 29. Global, Non-Pregnant Women (15-49 Years).# Affected (Millions) = 496.3
+Adapted from World Health Organization. The Global Prevalence of Anaemia in 2011. Geneva, 2015, WHO.
+
+============================================================
+CHUNK 9
+============================================================
+Management of Different Types of Anemia
+Birth, TABLE 5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD (95% Range).Hb (g/L) = 180 ± 40. Birth, TABLE 5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD (95% Range).RBC ( × 10 12 ) = 6.0 ± 1.0. Birth, TABLE 5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD (95% Range).PCV (L/L) = 0.6 ± 0.15. Birth, TABLE 5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD (95% Range).MCV (fL) = 110 ± 10. Birth, TABLE 5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD (95% Range).MCH (pg) = 34 ± 3. Birth, TABLE 5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD (95% Range).MCHC (g/dL) = 33 ± 3. 1 month, TABLE 5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD (95% Range).Hb (g/L) = 140 ± 25. 1 month, TABLE 5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD (95% Range).RBC ( × 10 12 ) = 4.2 ± 2.5. 1 month, TABLE 5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD (95% Range).PCV (L/L) = 0.43 ± 0.1. 1 month, TABLE 5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD (95% Range).MCV (fL) = 104 ± 12. 1 month, TABLE 5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD (95% Range).MCH (pg) = 33 ± 3. 1 month, TABLE 5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD (95% Range).MCHC (g/dL) = 33 ± 4. 1 year old, TABLE 5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD (95% Range).Hb (g/L) = 126 ± 15. 1 year old, TABLE 5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD (95% Range).RBC ( × 10 12 ) = 4.5 ± 0.6. 1 year old, TABLE
+
+============================================================
+CHUNK 10
+============================================================
+Management of Different Types of Anemia
+5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD (95% Range).PCV (L/L) = 0.34 ± 0.04. 1 year old, TABLE 5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD (95% Range).MCV (fL) = 78 ± 6. 1 year old, TABLE 5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD (95% Range).MCH (pg) = 27 ± 2. 1 year old, TABLE 5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD (95% Range).MCHC (g/dL) = 34 ± 2. 2-6 years, TABLE 5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD (95% Range).Hb (g/L) = 125 ± 15. 2-6 years, TABLE 5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD (95% Range).RBC ( × 10 12 ) = 4.6 ± 0.6. 2-6 years, TABLE 5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD (95% Range).PCV (L/L) = 0.37 ± 0.03. 2-6 years, TABLE 5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD (95% Range).MCV (fL) = 81 ± 6. 2-6 years, TABLE 5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD (95% Range).MCH (pg) = 27 ± 3. 2-6 years, TABLE 5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD (95% Range).MCHC (g/dL) = 34 ± 3. 6-12 years, TABLE 5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD (95% Range).Hb (g/L) = 135 ± 20. 6-12 years, TABLE 5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD (95% Range).RBC ( × 10 12 ) = 4.6 ± 0.6. 6-12 years, TABLE 5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD (95% Range).PCV (L/L) = 0.4 ± 0.05. 6-12 years, TABLE 5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD
+
+============================================================
+CHUNK 11
+============================================================
+Management of Different Types of Anemia
+(95% Range).MCV (fL) = 86 ± 9. 6-12 years, TABLE 5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD (95% Range).MCH (pg) = 29 ± 4. 6-12 years, TABLE 5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD (95% Range).MCHC (g/dL) = 34 ± 3. Men, TABLE 5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD (95% Range).Hb (g/L) = 150 ± 20. Men, TABLE 5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD (95% Range).RBC ( × 10 12 ) = 5.0 ± 0.5. Men, TABLE 5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD (95% Range).PCV (L/L) = 0.45 ± 0.05. Men, TABLE 5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD (95% Range).MCV (fL) = 92 ± 9. Men, TABLE 5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD (95% Range).MCH (pg) = 29.5 ± 2.5. Men, TABLE 5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD (95% Range).MCHC (g/dL) = 33 ± 1.5. Women, TABLE 5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD (95% Range).Hb (g/L) = 135 ± 15. Women, TABLE 5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD (95% Range).RBC ( × 10 12 ) = 4.3 ± 0.5. Women, TABLE 5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD (95% Range).PCV (L/L) = 0.41 ± 0.05. Women, TABLE 5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD (95% Range).MCV (fL) = 92 ± 9. Women, TABLE 5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD (95% Range).MCH (pg) = 29.5 ± 2.5. Women, TABLE 5.2 Normal Red Cell Indices Expressed as Mean ± 2 SD (95% Range).MCHC
+
+============================================================
+CHUNK 12
+============================================================
+Management of Different Types of Anemia
+(g/dL) = 33 ± 1.5
+From Bain BJ, Bates I, Laffan M. Dacie and Lewis Practical Haematology , 12th ed. 2016, Elsevier.
+signi{cant  impact  on  the  huge  global  public  health  burden  of anemia. Because more than one cause of anemia may be present in an individual, the anemia will not completely resolve unless all contributory causes have been addressed.
+
+============================================================
+CHUNK 13
+============================================================
+Anemia Caused by Reduced Red Cell Production
+Underproduction anemia can be caused by a lack of hematinics (such as iron, folate, vitamin B 12 , vitamin A, and ribo|avin) and/ or reduced bone marrow activity and is characterized by anemia with an inappropriately low reticulocyte count. Hematinic de{ciencies usually result from poor nutrition and, because the de{ciency develops gradually, quite severe degrees of anemia can be tolerated before signi{cant symptoms develop.
+Iron De=ciency. Iron de{ciency is the result of many causes (T able 5.3)  and  may present  with  loss of melanin skin  pigmentation, angular stomatitis, glossitis, and koilonychia in very severe cases. The mean corpuscular volume (MCV) and mean corpuscular Hb (MCH) are reduced, and hypochromia, microcytosis, and characteristic  'pencil cells' are evident on the blood {lm. Serum ferritin may be low, but as it is an acute-phase protein, the lower cut-off level may need to be raised in populations where infections are common. 7 Treatment is ferrous sulfate (200 mg, two to three times a day), and absorption can be improved by combining it with vitamin C. Ferrous sulfate given at lower doses or less frequently may reduce troublesome side effects such as constipation and nausea and therefore improve adherence. Treatment should be continued for 6 to 12 weeks once a normal Hb is achieved to replenish body stores. If oral iron cannot be tolerated, parenteral iron should be used rather than blood transfusion.  The underlying cause of the iron de{ciency should also be addressed.
+Folate De=ciency. Although folate is found in many foods (e.g., liver,  green  vegetables,  tubers,  bananas),  de{ciency  is  relatively
+TABLE 5.3 Common Causes of Iron-Deficiency Anemia
+
+Decreased iron intake, 1 = Inadequate diet Impaired absorption Celiac disease Tannins, phytates (e.g., in grains and beans). Increased loss, 1 = Gastrointestinal bleeding Hookworm Schistosomiasis Trichuriasis Gastroesophageal ulceration Malignancy NSAID use Menstrual loss Bladder neoplasm. Increased requirements, 1 = Infancy Pregnancy Lactation
+
+============================================================
+CHUNK 14
+============================================================
+Anemia Caused by Reduced Red Cell Production
+NSAID , Non-steroidal anti-inflammatory drug.
+common because it is destroyed by overcooking. Severe de{ciency is associated with neutropenia and thrombocytopenia, and de{ciency in pregnancy can cause neural tube defects and intrauterine growth retardation.  Both  folate  de{ciency  and  B 12 de{ciency  cause hyperpigmentation of the skin, as well as an increase in MCV and neutrophil hypersegmentation on the blood {lm. Serum folate and serum vitamin B12 levels need to be measured to differentiate between these two de{ciencies. If these tests are not available, a trial  of  oral  folic  acid  5 mg/day  could  be  tried.  However,  B 12 de{ciency  should  be  treated  before  giving  folic  acid  to  avoid precipitating  any  neurological  complications.  Three  weeks  of treatment with folic acid is usually adequate to replenish stores.
+Vitamin B12 De=ciency. Vitamin B12 is  synthesized by microorganisms and is found in animal products but not in vegetables. The
+
+============================================================
+CHUNK 15
+============================================================
+Global estimates of the prevalence of anemia in infants and children aged 6-59 months, 2011
+Global estimates of the prevalence of anemia, all women of reproductive age, 15-49 years, 2011
+Fig. 5.1 Anemia estimates in preschool and reproductive-age women globally. World Health Organization 2015.
+daily requirement is extremely small, and so de{ciency generally develops over many years. The clinical and hematologic picture of B12 de{ciency is similar to that of folate de{ciency but is associated with additional complications such as peripheral neuropathy, optic atrophy, psychiatric disturbance, and sub-acute combined degeneration of  the  cord.  Hyperpigmentation of  the  skin may  be  more pronounced than in folate de{ciency. Antibodies to intrinsic factor antibodies and gastric parietal cells may indicate pernicious anemia as the cause of B 12 de{ciency. The treatment of B12 de{ciency is usually with intramuscular injection of cyanocobalamin using a loading dose and then a maintenance dose of 1 mg every month. Oral cyanocobalamin 50-150 micrograms daily can be used but may not produce an adequate response.
+
+============================================================
+CHUNK 16
+============================================================
+Anemia Caused by Excessive Loss of Red Cells
+In addition to causes of blood loss that occur commonly worldwide (e.g., peptic ulceration, bowel polyps, or cancer) there are infections such  as  hookworm,  trichuriasis,  and  schistosomiasis  that  occur predominantly in low-resource countries. These infections cause chronic blood loss from the bowel or urinary tract leading to ironde{ciency anemia. They may also exacerbate anemia by interfering with intestinal absorption (e.g., Strongyloides, Ascaris ) or by causing hypersplenism (e.g., intestinal schistosomiasis). Management consists of treating the underlying infection and replenishing iron stores. Blood transfusion should be avoided, as it may precipitate cardiac failure in the presence of long-standing chronic anemia.
+Chronic diseases, Inflammation.Pulmonary infections (TB, abscesses, emphysema) HIV Osteomyelitis = Rheumatoid arthritis Rheumatic fever SLE Vasculitis. Malignancy, Inflammation.Pulmonary infections (TB, abscesses, emphysema) HIV Osteomyelitis = Any. Miscellaneous, Inflammation.Pulmonary infections (TB, abscesses, emphysema) HIV Osteomyelitis = Alcoholic liver disease Congestive cardiac failure Diabetes mellitus
+
+============================================================
+CHUNK 17
+============================================================
+Anemia Caused by Reduced Bone Marrow Activity
+Bone marrow activity can be reduced directly (e.g., by in{ltration with  malignant  cells)  or  indirectly  (e.g.,  infections,  cytokines). Transient pancytopenia and myelodysplasia may occur in a variety of severe infections.
+
+============================================================
+CHUNK 18
+============================================================
+Anemia of Inflammation
+Anemia of in|ammation (also called anemia of chronic disease )  is associated with a wide range of infections, malignancies, or chronic in|ammatory  conditions  (T able  5.4).  The  anemia  is  related  to cytokine production. It is characterized by low ferritin levels but ample reticuloendothelial iron  stored  in  the  bone  marrow  and other  tissues  and  reduced  erythropoiesis  in  the  bone  marrow. 8 The  blood  {lm  is  usually  normal  but  may  be  microcytic  and hypochromic in up to 25% of cases. Treatment should be targeted at the underlying condition.
+
+============================================================
+CHUNK 19
+============================================================
+Anemia and HIV
+Anemia is the most common hematologic consequence of infection with  HIV  and  is  an  independent  predictor  of  poor  outcome (mortality). The cause of anemia is often multifactorial, including medication (e.g., zidovudine), poor nutrition, anemia of in|ammation,  opportunistic  infections,  autoimmune  hemolysis,  and malignancies. Management is by treating the HIV infection itself and addressing speci{c complications. 9,10
+
+============================================================
+CHUNK 20
+============================================================
+Anemia and Parvovirus B19
+In low-resource countries most children are exposed to parvovirus before the age of 2 years, and protective antibodies are found in > 90% of adults. The virus inhibits red cell production in the bone marrow, and clinically signi{cant anemia (transient aplastic crisis) can  occur  in  immunocompromised  individuals  or  those  with shortened red cell survival (e.g., sickle cell disease). T reatment is with  blood  transfusion,  although  intravenous  immunoglobulin may  be  needed  in  those  with  immune  de{ciency  and  chronic parvovirus infection.
+
+============================================================
+CHUNK 21
+============================================================
+Anemia Caused by Excessive Red Cell Destruction (Hemolytic Anemias)
+Red cells can be destroyed by abnormalities within the red cell (e.g., hemoglobinopathies, enzymopathies), abnormalities of the membrane (e.g., spherocytosis, elliptocytosis), or factors external to the red cell (e.g., drugs, antibodies, mechanical heart valves). Hemolytic anemias are characterized by anemia, jaundice, splenomegaly,  and  gallstones,  with  increased  reticulocyte  count, unconjugated bilirubin and lactate dehydrogenase, and reduced haptoglobin. A direct Coombs test may be helpful in diagnosis, and treatment should be aimed at removing the underlying cause.
+
+============================================================
+CHUNK 22
+============================================================
+Malaria
+Anemia  can  occur  with  all  species  of  malaria  but  is  especially common with Plasmodium falciparum infection. The cause of the anemia is multifactorial and includes intracellular parasites, hypersplenism, and dyserythropoiesis caused by cytokine imbalance. 11 In malaria-endemic areas, anemia is most common in those with the highest prevalence of infection, such as young children and pregnant women. Anemia caused by malaria generally responds to anti-malarial treatment, but children need careful follow-up, as anemia may recur or only improve slowly. Blood transfusion should be limited to those who have signs of life-threatening complications of anemia, such as cardiac failure and severe tissue under-perfusion, and are unresponsive to other resuscitation measures.
+Hyper-reactive malarial splenomegaly occurs in malaria-endemic areas, has a familial tendency, and affects women more than men. It is characterized by massive splenomegaly ( ≥ 10 cm) with hypersplenism and consequent pancytopenia, hepatomegaly, and raised immunoglobulin  M  levels. 12 T reatment  is  malarial  prophylaxis (usually proguanil hydrochloride 100 mg/day) though other antimalarials appropriate for long-term administration can be tried. The  presence  of  a  lymphocytosis  may  suggest  an  underlying lymphoma and should prompt referral to a specialist.
+
+============================================================
+CHUNK 23
+============================================================
+Visceral Leishmaniasis
+Visceral leishmaniasis is associated with insidious onset of anemia and, eventually, pancytopenia primarily caused by hypersplenism. The diagnosis can be made by {nding macrophages containing marrow. The detection rate for parasites is higher in splenic aspirates ( > 95% positive compared with > 85% for bone marrow), but the splenic aspiration procedure is associated with a risk of death of ≈ 1%, making it less favored. T reatment should resolve the splenomegaly and hematologic abnormalities after several months.
+
+============================================================
+CHUNK 24
+============================================================
+Thalassemias
+These are hereditary hemolytic anemias characterized by a genetic defect affecting the synthesis of one or more of the globin sub-units of the Hb molecule, most commonly the α or β globin chains ( α - and β - thalassemias). This leads to imbalanced globin chain production,  ineffective  erythropoiesis,  and  anemia  caused  by destruction of the abnormal red cells.
+
+============================================================
+CHUNK 25
+============================================================
+β -Thalassemia
+Approximately 3% of the world's population (150 million people) carry a β -thalassemia gene mutation (Fig. 5.2). β -Thalassemia is most common (2%-30% of the population) in the belt between the Mediterranean and Indonesia, but sporadic mutations occur in all populations. β -Thalassemia mutations can result in either a  complete  absence of the β globin chain ( β 0 thalassemia)  or  a variable reduction in production of the β globin chain ( β + thalassemia).  Thalassemia  is  classi{ed  by  the  clinical  severity  of  the disease. β -Thalassemia  major  is  the  most  severe  form  and  is characterized  by  transfusion-dependent  anemia.  In  thalassemia intermedia, there is moderate anemia but regular transfusion is not required; thalassemia minor is generally asymptomatic.
+β -Thalassemia Major. Pallor, failure to thrive, fever, and splenomegaly become evident within the {rst 6 months of life. Without adequate blood transfusions, bone marrow hypertrophy leads to
+• 219 98 5764 gR.
+Fig. 5.2 Global distribution of (A) α and β thalassemia and (B) hemoglobins S and E. (Reproduced with permission from Weatherall DJ, Clegg JB. Inherited hemoglobin disorders: an increasing global health problems. Bulletin of the WHO 2001;79:704-11, Figs. 2 and 3, p. 77).
+Fig. 5.3 X-ray of skull in thalassemia. Thalassemia disease produces this typical 'hair-on-end' appearance of the skull in x-rays. (Reproduced with permission from Peter W, Pasvol G. Atlas of tropical medicine and parasitology , 6th ed. Elsevier. Fig. 1212).
+skeletal abnormalities, such as skull bossing (Fig. 5.3), prominent zygomatic bones, and maxillary overgrowth with malocclusion. Ineffective erythropoiesis leads to progressive hepatosplenomegaly, gallstone  formation,  and  a  hypermetabolic  state  with  growth retardation and increased thrombosis risk.
+
+============================================================
+CHUNK 26
+============================================================
+β -Thalassemia
+Diagnosis. In non-transfused children, the Hb is 3 to 6 g/dL with a low MCV (50-60 |) and MCH (12-18 pg). The peripheral blood  {lm  shows  marked  variation  in  red  cell  size  with  target cells,  teardrop  cells,  and  red  cell  fragments.  The  red  cells  are extremely  hypochromic  with  basophilic  stippling  and  red  cell inclusions  (Pappenheimer  bodies-precipitated α chains),  and there are many nucleated red cells. Hb electrophoresis or highperformance liquid chromatography (HPLC) show increased levels of hemoglobin F (HbF) and hemoglobin α 2 (HbA2) with absent ( β 0 -thalassemia)  or  reduced  normal  hemoglobin α (HbA)  Hb ( β + -thalassemia).
+Management and Outcome. The management of β -thalassemia major is complex and requires input from many specialties to deal with the complications and to provide psychological and social support  for  patients  and  their  families.  A  red  cell  transfusion every 2 to 4 weeks is the mainstay of management, aiming for an Hb of 9.5 to 10 g/dL. Although blood transfusions can slow the development of complications, iron overload is an inevitable consequence,  causing  endocrine  failure,  liver  {brosis,  cardiac dysfunction,  and  diabetes  mellitus.  Blood  transfusions  should therefore be utilized in conjunction with iron chelation if available (e.g.,  desferrioxamine (deferoxamine), deferiprone, deferasirox). Without transfusion, children may not survive beyond the age of 2 years, whereas those who receive intermittent transfusions may survive to early teenage years.
+
+============================================================
+CHUNK 27
+============================================================
+β -Thalassemia
+Splenectomy may be helpful in patients with hypersplenism and  worsening  anemia.  Because  of  the  risk  of  infection  with encapsulated organisms, it is advisable to delay splenectomy until the child is 4 to 5 years old. They should have the relevant vaccinations at least 2 weeks before elective splenectomy and started on lifelong penicillin prophylaxis in accordance with local guidelines for asplenic patients. Stem cell transplantation from a well-matched sibling  donor  has  a  high  success  rate  and,  in  the  long  term,  a closely matched transplant is probably more cost-effective than a transfusion-chelation regimen.
+β -Thalassemia Intermedia. β -Thalassemia intermedia produces non-transfusion-dependent anemia with Hb levels of 5 to 9 g/dL. Patients  present  later  than  those  with β -thalassemia  major  and have  similar,  but  less  severe,  complications  and  hematologic abnormalities. The need for regular blood transfusions is guided by the clinical condition of the patient, so growth, skeletal abnormalities, and spleen size should be monitored. Transfusion may be required intermittently during periods of stress (e.g., infections, rapid growth, and pregnancy) or during aplastic crises.
+β -Thalassemia Trait. β -Thalassemia trait is usually asymptomatic with no or only very mild anemia. The MCV and MCH are markedly reduced, and the blood {lm is hypochromic and microcytic.
+
+============================================================
+CHUNK 28
+============================================================
+α -Thalassemia
+The α -thalassemias are common throughout the Mediterranean, sub-Saharan Africa, the Middle East, India, southern China, and Indonesia, but sporadic mutations occur in all populations (see Fig. 5.2). As α genes are duplicated, there are four genes ( αα / αα ) responsible for production of the α
+α genes  ( -α )  results  in α + -thalassemia,  with  reduced α chain production,  whereas  deletion  of  both  genes  (-  -)  results  in α 0 -thalassemia, with absent α chain production. The excess γ and β chains form γ tetramers in fetal life (Hb Bart's) and β tetramers in adult life (HbH), respectively, which damage red cells leading to hemolysis and reduced erythropoiesis.
+The α gene mutations result in four clinical conditions across a  spectrum  of  severity:  silent  carrier, α -thalassemia  trait,  HbH disease, and Hb Bart's hydrops fetalis.
+Silent Carrier (α / αα ). This is usually associated with a completely normal blood count and blood {lm or a trivial microcytic anemia.
+α -Thalassemia Trait (α /-α or  -/ αα ). This is usually asymptomatic, but there may be mild microcytic anemia.
+Hemoglobin H Disease (-/α ). HbH is common in Southeast Asia and around the Mediterranean but occurs rarely in those of African  descent.  Most  patients  have  Hb  7  to  10 g/L  with  few symptoms  and  mild  hepatosplenomegaly.  They  may  require occasional transfusions during pregnancy or episodes of infection. The blood {lm (Fig. 5.4) shows extreme variation in red cell size and shape, as well as hypochromia, microcytosis, polychromasia, and basophilic stippling. Staining with brilliant cresyl blue demonstrates the characteristic 'golf-ball' HbH inclusions in up to 90% of red cells. Hemoglobin electrophoresis and HPLC show increased HbH ( < 40%) with reduced HbA2.
+
+============================================================
+CHUNK 29
+============================================================
+α -Thalassemia
+Hemoglobin Bart's Hydrops Fetalis. There is complete failure of HbF and HbA production, and the condition is not compatible with post-natal life. Newborns have marked hepatosplenomegaly and generalized edema and are stillborn or die shortly after birth. Globally, non-immune hydrops fetalis occurs in 1/1500 to 1/3800 births. It is a common reason for fetal loss in Southeast Asia, but is less common in the Mediterranean region and rare in infants of African descent.
+
+============================================================
+CHUNK 30
+============================================================
+Sickle Cell Hemoglobinopathies
+Sickle hemoglobin (HbS) is caused by a mutation in the β globin gene,  which  affects  the  stability  and  solubility  of  the β chain. When HbS is deoxygenated (e.g., during in|ammation, infection, dehydration, or hypoxia) it polymerizes and distorts the red cell, eventually resulting in the characteristic sickle shape. The red cell
+Fig. 5.4 HbH disease. Almost every erythrocyte is affected. (Reproduced with permission from Bain BJ, Bates I, Laffan M. Dacie and Lewis Practical Haematology , 12th ed. 2016, Elsevier. p. 309, Fig. 14.14).
+damage leads to hemolysis and vascular occlusion, which is the basis for the clinical symptoms.
+HbS is  found  in  high  frequency  in Africa  and  areas  in  the Middle East, where the prevalence can reach > 30%. HbS occurs in parts of the world where P. falciparum malaria is endemic, and it  now  has  a  global  distribution  contributed  to  initially  by  the trans-Atlantic slave trade and now by modern travel and migration. Individuals with sickle cell trait (HbAS) have 10-fold protection against severe malaria compared with individuals with normal Hb. The mechanism of protection probably involves both innate and immune-mediated mechanisms.
+
+============================================================
+CHUNK 31
+============================================================
+Sickle Cell Disease
+13 refers to any of the syndromes in which the  sickle  mutation  is  co-inherited  with  another  beta  globulin mutation. The high prevalence of HbS in sub-Saharan Africa means year.  These  are  mostly  sickle  cell  anemia  (HbSS),  but  include hemoglobin  SC  disease  (HbSC)  and  sickle  beta  thalassemia (HbS/ β + ). In these infants, symptoms such as hemolytic anemia, splenomegaly, and vaso-occlusive episodes become apparent after the {rst 6 months of life as the protective effect of HbF is lost. The age of onset of symptoms is variable, but most children will experience  problems by the age  of 6 years. Without treatment children with HbSS are stunted, with bossing of the bones of the skull similar to that seen in β -thalassemia (Fig. 5.5). Both conditions cause expansion of the bone marrow, which is the cause of the bossing and other abnormalities of development of the facial bones. When HbS is  co-inherited  with  other  Hb  abnormalities  (e.g., HbSC and HbS/ β + Cells containing HbSS form sickle-shaped cells in tissues where there  is  low  oxygen  tension.  This  triggers  a  complex  process involving activation of adhesion, in|ammation, and coagulation, which ultimately results in microthrombi and the pain crises so
+Fig. 5.5 African child with HbSS showing prominent frontal bossing and splenomegaly.
+Diagnosis. The blood count is normal at birth but Hb falls during the {rst year of life. The adult Hb is 6 to 10 g/L but can drop to less  than 2 g/L during a crisis.  Blood  {lms (Fig. 5.6) show the typical  sickle  cells,  as  well  as  target  cells,  polychromasia,  and nucleated red cells. After the age of 3 years, features of hyposplenism (e.g.,  Howell-Jolly bodies) become apparent. Reticulocytes and by Hb electrophoresis or HPLC. A useful screening test for the presence of HbS is the sickle solubility test.
+
+============================================================
+CHUNK 32
+============================================================
+Sickle Cell Disease
+The sickle solubility test is based on the principle that HbS has  reduced  solubility  at  low  oxygen  tensions.  A  positive  test indicates the presence of Hb S but does not differentiate between sickle cell trait). A blood {lm is not a reliable way to differentiate be very few sickled cells. False-negative sickle screening tests can occur  if  the  patient  is  very  anemic  (ideally  use  packed  cells  to avoid this), if the reagents are out of date, if the infant is less than 6 months old, or if the patient has had a recent transfusion. Falsepositive sickle screening results are associated with very high white cell counts and high protein levels in the sample; false-positives can be minimized by using packed cells.
+Management and Outcome. -ing  a  multidisciplinary,  long-term  approach  to  the  education and  management  of  the  patient  and  family.  Early  diagnosis  is facilitated  by  antenatal  screening;  routine  folic  acid,  penicillin pro  phylaxis,  and  vaccinations  to  prevent  infections  are  impor(Tables 5.5 and 5.6).
+-carbamide (hydroxyurea), which increase HbF levels, have been crises,  acute  chest  syndrome,  and  anemia.  Hydroxycarbamide/ hydroxyurea  is  generally  well  tolerated  and  associated  with prolonged survival.  It  should  be  started  at  15 mg/kg  increased every 12 weeks to a maximum of 35 mg/kg daily. The neutrophil count  should  be  monitored  regularly  and  the  dose  reduced  if the neutrophil count falls. The need for regular monitoring of the blood count means that in some resource-limited countries there has been a poor uptake of hydroxycarbamide so trials are ongoing to assess  the  effect  of low-dose hydroxycarbamide. As in β -thalassemia major, a well-matched bone marrow transplant, even from a sibling with HbAS, may be the most cost-effective management strategy.
+Life expectancy depends largely on the availability of multidisciplinary health care. With high-quality health care, survival into  middle  age  is  common,  but  where  health  systems  are
+
+============================================================
+CHUNK 33
+============================================================
+Sickle Cell Disease
+Fig. 5.6 Photomicrograph of a blood film. Sickle cell anemia (homozygosity for hemoglobin S). Shows elliptical sickle cells, target cells, and Pappenheimer's bodies. (Reproduced with permission from Bain BJ, Bates I, Laffan M. Dacie and Lewis Practical Haematology , 12th ed. 2016, Elsevier. p. 77, Fig. 5.55).
+
+============================================================
+CHUNK 34
+============================================================
+TABLE 5.5 Acute Problems in Sickle Cell Disease
+Dactylitis. Typically the bones of the hands and feet are affected with fever and leukocytosis. It is often the first event in young children and can occur multiple times until the age of 3 years.
+Painful crises. Typically occurs after the first few years in bones or occasionally abdominal viscera. Pain is due to ischemia and can be very severe. Crises are associated with low-grade fever and mild leukocytosis compared with osteomyelitis, where fever and leukocytosis are more pronounced. Pain relief with paracetamol, non-steroidal anti-inflammatory drugs, or opioids, as appropriate, should be instigated immediately. Supportive measures such as hydration, intravenously if necessary, and oxygen also help to reduce the duration of the pain crisis. Any precipitating cause such as infection should be treated.
+Central nervous system events. Strokes occur in up to 17% of children and young adults. The pathogenesis is unclear, but angiography often shows occlusions or stenosis. Recurrence is likely unless a long-term transfusion program is initiated.
+Acute chest syndrome. This is a common cause of death presenting with fever, tachypnea, chest pain, and leukocytosis, often with a sudden drop in hemoglobin. It can be difficult to differentiate from infection, infarction, and embolism. Common precipitating causes are pulmonary fat embolism and infections. Treatment is with transfusion (simple or exchange), antibiotics, and aggressive treatment of hypoxia.
+Splenic sequestration. This occurs in children between 6 months and 2 years. It is caused by sudden trapping of red cells within the spleen producing a sudden drop in hemoglobin and rapidly enlarging spleen, eventually leading to hypovolemic shock and death. Management includes early detection of the rapidly enlarging spleen and blood transfusion.
+Priapism. Engorgement of the penis can be short-lived and selfterminating or can last in excess of 24 hours and may lead to impotence. Initial management is with fluids and analgesia, but persistent priapism ( > 12 hours) may need partial exchange transfusion and corporal aspiration.
+
+============================================================
+CHUNK 35
+============================================================
+TABLE 5.5 Acute Problems in Sickle Cell Disease
+Infections. Overwhelming infection with Streptococcus pneumoniae is the most common cause of death in children. Other common causes of infections in sickle cell disease include Haemophilus influenzae and Salmonella. A significant reduction in the number of deaths from sepsis has resulted from the routine use of vaccinations against these organisms and antibiotic prophylaxis. Malaria prophylaxis should be considered in endemic areas.
+TABLE 5.6 Chronic Problems in Sickle Cell Disease
+SC , Sickle cell.
+Growth and development, 1 = Reduced height and weight Pubertal delay Cognitive impairment (recurrent small strokes). Locomotor, 1 = Osteonecrosis of humeral and femoral heads Chronic leg ulcers. Cardiovascular, 1 = Myocardial infarction Left and right ventricular dilatation. Pulmonary, 1 = Pulmonary fibrosis Pulmonary hypertension Cor pulmonale. Genitourinary, 1 = Renal papillary necrosis-hematuria and tubular defects Chronic renal failure Frequent urinary tract infections in women Impotence (secondary to priapism). Ocular, 1 = Proliferative retinopathy (30% of patients) Blindness (especially in SC disease) Retinal detachment
+less  robust,  less  than  2%  of  children  born  with  HbSS  survive beyond 5 years.
+
+============================================================
+CHUNK 36
+============================================================
+Sickle Cell Trait
+Individuals with sickle cell trait (HbAS) are generally asymptomatic with  a  normal  Hb  and  normal  life  expectancy.  Complications are very uncommon but can include poor perfusion of the renal papillae and increased bacteriuria. 14 The blood {lm is either normal electrophoresis or HPLC. The sickle solubility test is positive.
+Hemoglobin Sickle Cell Disease. Hemoglobin sickle cell (SC) disease results from the inheritance of HbS from one parent and HbC from the other. The highest prevalence is in West Africa. The clinical  features  are  similar  to  those  of  HbSS  anemia  but slightly less severe. Splenic perfusion remains intact into adulthood, and so splenomegaly, splenic infarcts, and splenic sequestration can present in adulthood. Regular ophthalmic review should be undertaken, as proliferative retinopathy may start in the second decade of life.
+Anemia is less marked in HbSC than in HbSS (80-140 g/L). The blood {lm in HbSC differs from that in HbSS, as there are fewer sickle cells and more target cells, and rhomboid HbC crystals may be seen within ghost cells. The sickle solubility test is positive due to the presence of HbS, and diagnosis can be con{rmed by Hb electrophoresis or HPLC.
+Hemoglobin  S β -Thalassemia. The  severity  of  the  clinical condition resulting from double heterozygous inheritance of HbS and β -thalassemia  depends  on  the  amount  of β globin  chain production. If there is no or minimal production (S β 0 ), the clinical picture is similar to HbSS.
+
+============================================================
+CHUNK 37
+============================================================
+Enzymopathies
+The most common enzymopathy is glucose-6-phosphate dehy--malaria so it tends to be more common in malaria-endemic areas. undergo premature destruction, and their half-life is directly related
+
+============================================================
+CHUNK 38
+============================================================
+Glucose-6-Phosphate Dehydrogenase Deficiency
+cells, affecting over 400 million people worldwide. 15,16 The gene is X-linked so de{ciency is more common in boys, though it can also occur in girls. The clinical features vary depending on the levels  of  enzyme  activity.  Once  a red cell  loses  its  nucleus  it  is not able to make any new enzyme, so as each cell matures and > 60%  of  normal  are  generally  not  associated  with  hemolysis. Lower levels cause varying degrees of intermittent hemolysis, and than  those  found  in  the  Mediterranean  region  and  Southeast are  neonatal  jaundice  and  acute  and,  less  commonly,  chronic hemolysis.
+It is essential to treat high levels of unconjugated bilirubin with phototherapy and, in the most severe cases, with exchange transfusions to prevent kernicterus.
+Infections (e.g., Salmonella, Escherichia coli, β -hemolytic streptococci, malaria, pneumococcal pneumonia, viruses) are the most common triggers for hemolysis, but it can also be caused by drugs (e.g., primaquine, sulfapyridine, dapsone, nitrofurantoin) and certain these triggers may result in a fall in Hb of 2 to 4 g/dL, resulting in mild jaundice. Usually, this does not require any speci{c treatment have hemolyzed. In contrast, in the more severe types of de{ciencies a life-threatening precipitous fall in Hb can occur, occasionally causing acute renal failure. It is important to try to prevent further episodes of hemolysis by avoiding precipitating factors.
+A small number of individuals have a very severe de{ciency of They have mild to moderate anemia (Hb 8-10 g/dL) and reticulocytosis of 10% to 15%.
+
+============================================================
+CHUNK 39
+============================================================
+Glucose-6-Phosphate Dehydrogenase Deficiency
+Diagnosis. In the steady state, the Hb and blood {lm are normal a  hemolytic episode,  the  blood  {lm  shows  very characteristic morphologic  abnormalities  with  irregularly  contracted  cells, some with small inclusions (Heinz bodies), and 'bite cells' where the  Hb  appears  to  have  retracted  within  the  cell.  There  are detecting nicotinamide adenine dinucleotide phosphate production. It is important to test individuals 6 weeks after the hemolytic episode, as a false-negative result can occur if testing is done during an acute attack because of the high numbers of young spectrophotometry.
+
+============================================================
+CHUNK 40
+============================================================
+Red Cell Membrane Defects
+The structure of the red cell membrane determines the shape, strength, |exibility, and survival of the red cell. There are many hereditary  and  acquired  defects  of  the  red  cell  membrane  that can alter these properties. These conditions often occur in malariaendemic  areas  because  they  provide  some  protection  against malaria.  Examples  include  Southeast  Asian  ovalocytosis  and elliptocytosis in Africa, both of which have autosomal-dominant inheritance.  Most  of  the  hereditary  red  cell  membrane  defects are not associated with any clinical problems apart from occasional, mild  hemolysis  with  consequent  gallstones.  The  blood  {lm  is usually diagnostic.
+
+============================================================
+CHUNK 41
+============================================================
+WHITE CELL DISORDERS
+Many medical conditions can cause alterations in various components of the white cell count. In individuals of African ancestry the neutrophil:lymphocyte ratio may be reversed primarily due to a benign reduction in neutrophil count (which in 5% of individuals can be less than 1.5 × 10 9 /L). Pancytopenia is a reduction in more than one type of blood cell and should raise the suspicion of vitamin B12 or folate de{ciency, leukemia, aplastic anemia, or infections. Organisms  associated with pancytopenia  include intracellular pathogens such as Leishmania, Mycobacteria , Histoplasma, Salmonella, Brucella spp., HIV, Epstein-Barr virus (EBV), hepatitis C, and cytomegalovirus (CMV).
+
+============================================================
+CHUNK 42
+============================================================
+Leukemia
+The acute and chronic leukemias are a heterogeneous group of malignancies that arise from immature hematopoietic stem cells. They are classi{ed as myeloid or lymphoid and further subclassi{ed on the basis of morphology, cytochemistry, immunophenotype, and genetics.
+
+============================================================
+CHUNK 43
+============================================================
+Acute Leukemias
+Acute  lymphoblastic  leukemia  (ALL)  and  acute  myeloblastic leukemia (AML) have different epidemiologic patterns in lower- and
+high-resourced countries. ALL occurs most commonly in childhood and  accounts  for ≈ 80% of  leukemias  in  children  aged  0  to  14 years. The peak incidence is 5 to 14 years of age in sub-Saharan Africa-a later onset compared with high-resourced countries due to delayed exposure to infection and possibly less breastfeeding. The incidence of AML is stable worldwide at 1 to 5 cases per 100,000 per year. 17 Risk  factors  for AML include smoking and exposure  to  chemicals  and  alkylating  agents.  Note  that  severe vitamin B12 de{ciency may mimic AML.
+Diagnosis. In both ALL and AML the white cell count is usually raised  because  of  the  presence  of  blast  cells,  though  occasionally it can be reduced, and the Hb and platelet count are often reduced. A blood {lm will usually show blast cells, but occasionally they may be absent or very infrequent. In children the clinical features and blood {lm of acute viral infection may mimic ALL, and a leukemoid reaction mimicking AML may occur in severe tuberculosis. Cytochemical stains of peripheral blood with Sudan black,  myeloperoxidase,  and  non-speci{c  esterase  can  help  differentiate  between  ALL  and  myelomonocytic  and  monocytic AML.  Flow  cytometry  and  cytogenetic  analysis  undertaken  at a  specialist  center  can  provide  information  to  guide  treatment strategies and to indicate prognosis.
+
+============================================================
+CHUNK 44
+============================================================
+Chronic Myeloid Leukemia
+Chronic myeloid leukemia (CML) is commonly associated with the Philadelphia chromosome t(9;22). This translocation results in the production of an abnormal tyrosine kinase-like protein that alters cell proliferation, differentiation, and survival in several cell lines.  CML appears to  occur uniformly throughout the  world; incidence increases from late childhood. In poorer countries where populations are younger compared with more wealthy countries, CML is more commonly seen in those under 40. The clinical onset is insidious, with symptoms caused by anemia and hypercatabolic effects  such  as  progressive  fatigue  and  weight  loss.  Abdominal discomfort caused by splenomegaly and hepatomegaly is common.
+Diagnosis. An increase in white cells, predominantly mature and immature neutrophils, of up to 500 × 10 9 /L can occur, accompanied by anemia and occasionally increased platelets. A de{nitive diagnosis depends  on  a  specialist  laboratory  demonstrating  the 9;22 (Philadelphia) translocation by cytogenetics or in situ hybridization. Many in|ammatory and infectious conditions can cause a reactive increased neutrophil count with immature forms, which can mimic CML. The  absence  of  a  basophilia  and  the  presence  of  toxic granulation  of  the  neutrophils  in  these  reactive  conditions  can help to differentiate them from CML.
+
+============================================================
+CHUNK 45
+============================================================
+Chronic Lymphocytic Leukemia
+Chronic  lymphocytic  leukemia  (CLL)  usually  originates  from mature B lymphocytes. Incidence increases with age, and there is a male predominance of 2 : 1. The onset of disease is gradual, and it  is  often  diagnosed  incidentally.  Symptoms  include  fever  and weight  loss  with  lymphadenopathy,  splenomegaly,  and  anemia, and there is an increased risk of infections.
+Investigations. In  CLL  there  is  usually  a  lymphocytosis  of > 5 × 10 9 /L,  which occasionally can  be  as high as  400 × 10 9 /L. Autoimmune anemia and thrombocytopenia can occur. The blood {lm  shows  excessive  numbers  of  mature  lymphocytes.  These cells  are  fragile  and  appear  smeared  (i.e., 'smear'  cells)  on  the blood {lm. The diagnosis is con{rmed by immunophenotyping, which  differentiates  CLL  from  other  causes  of  lymphocytosis. 'African CLL,' which is associated with lymphocytosis and occurs predominantly in young women in Africa, is now thought to be a type of splenic lymphoma possibly related to chronic immune stimulation by malaria.
+
+============================================================
+CHUNK 46
+============================================================
+Lymphomas
+Lymphomas are a heterogeneous group of malignancies broadly (NHL) (see also Chapter 23). Low-grade lymphomas tend to be indolent  but  incurable,  whereas  long-term  cure  is  possible  for high-grade tumors. The clinical presentation of NHL is variable, with more patients presenting with extranodal disease compared in Africa accounting for about a third of pediatric malignancies. The  incidence  of  various  types  of  NHL  (including  Burkitt's lymphoma) has been rising due to their association with HIV/ worldwide. Many lymphomas can progress rapidly, so ensuring timely and accurate diagnosis and {nancing full treatment regimens are signi{cant challenges where health systems are weak. Because some lymphomas are readily curable, referral to an appropriate center should be made swiftly.
+
+============================================================
+CHUNK 47
+============================================================
+DISORDERS OF HEMOSTASIS
+of either bleeding or clotting and can be acquired or congenital (Table 5.7).
+
+============================================================
+CHUNK 48
+============================================================
+Vitamin K Deficiency
+Clotting factors (II, VII, IX, and X) are dependent on vitamin K, which  is  a  fat-soluble  vitamin.  Vitamin  K  de{ciency  therefore causes prolongation of the prothrombin time (PT) and activated to malabsorption syndromes, can be treated with oral vitamin K (menadiol sodium phosphate) at a dose of 10-40 mg daily. Lifethreatening bleeding due to vitamin K de{ciency should respond to slow intravenous injection of 10 mg phytomenadione (vitamin K1).  It  should  be  noted  that  the  PT  and  aPTT  are  not  good
+Acquired, Common Bleeding Disorders = Vitamin K deficiency Dietary deficiency or malabsorption Systemic illness (e.g., liver disease) Hemorrhagic disease of the newborn Disseminated intravascular coagulation (DIC) Viral and bacterial infections Obstetric disorders (e.g., septic abortion, placental abruption) Shock (e.g., trauma, surgical, burns) Envenomation Platelet disorders Infections (e.g., malaria, dengue) Hypersplenism DIC Immune (e.g., ITP, drugs, HIV) Others (e.g., cyclical, congenital, cytotoxic, or NSAIDs drugs). Congenital, Common Bleeding Disorders = Clotting factor deficiencies (e.g., Factor VIII-hemophilia A, Factor IX-hemophilia B) Von Willebrand's disease Platelet disorders (e.g., storage pool disorders, Bernard-Soulier's)
+HIV, Human immunodeficiency virus; ITP, immune thrombocytopenic purpura; NSAIDs , non-steroidal anti-inflammatory drugs.
+predictors  of  the  bleeding  risk  of  a  patient,  as  some  clotting disorders  associated  with  thrombosis  (e.g.,  anti-phospholipid antibodies) will cause a prolongation of the aPTT.
+Dietary and Absorption De=ciency. because of poor diet, small bowel disease, or bile |ow obstruction can develop within a few weeks.
+
+============================================================
+CHUNK 49
+============================================================
+Vitamin K Deficiency
+Hemorrhagic Disease of the Newborn. In a newborn infant, vitamin K-dependent clotting factors may drop to around 5% of normal values in 48 hours. The risk of hemorrhage is highest in premature infants or those who have been exclusively breastfed or  exposed  in  utero  to  drugs  for  tuberculosis,  convulsions,  or anti-coagulation. Newborns present in the {rst few days of life with bleeding into the skin and gut, bleeding from the umbilical stump, or bleeding at circumcision. Prevention is with 1 mg of oral or intramuscular vitamin K given at delivery. In some cases, hemorrhagic disease of the newborn may present at 1 to 6 months with  intracranial  hemorrhage.  Rapid  correction  of  the  clotting abnormality can be achieved with fresh frozen plasma (FFP).
+
+============================================================
+CHUNK 50
+============================================================
+Disseminated Intravascular Coagulation
+by  activation  of  hemostasis  with  widespread  {brin  formation, activation of {brinolysis, and consumption of platelets and clotting -tions, malignancies, infections) and is a life-threatening condition with a high mortality. Patients present with spontaneous bruising or  excessive  bleeding,  for  example,  from  venipuncture  sites  or surgical  incisions.  Complications  include  renal  failure,  acute respiratory  distress  syndrome,  and  microangiopathic  hemolytic anemia.
+The combination of depleted clotting factors, causing prolonged PT and aPTT, and a falling platelet count with red cell fragments or {brin degradation products and reduced {brinogen levels are characteristic.  Management  involves  treating  or  removing  the underlying cause, maintaining hemodynamic stability, and correcting the  hemostatic  abnormalities  with  combinations  of  platelets, cryoprecipitate, and FFP.
+
+============================================================
+CHUNK 51
+============================================================
+Immune Thrombocytopenic Purpura
+Immune thrombocytopenic purpura (ITP) is caused by immune destruction of platelets. Although it is usually primary, it can be associated  with  underlying  conditions  such  as  lymphomas  and infections  including  HIV.  It  may  present  incidentally  or  with bruising or bleeding. Petechiae or bleeding from the nose or gums is  more likely if the platelet count is < 30 × 10 9 /L. Spontaneous recovery occurs more often in children than in adults.
+There is no speci{c test for ITP , but increased  numbers of platelet  precursors  in  the  bone  marrow  support  a  diagnosis  of ITP. It is important to exclude other causes of thrombocytopenia, if  the  platelet  count  drops well below 30 × 10 9 /L or if there is bleeding.  T reatment  is  initially  with  corticosteroids  such  as prednisolone at doses of 0.25 to 0.5 mg/kg, which should be tapered off  over  several  weeks  once  the  platelet  count  has  improved. Second-line  treatment  includes  immunosuppressive  agents  and danazol. Splenectomy may result in a long-term improvement in platelet count, but the bene{ts need to be balanced against the risks of splenectomy, particularly in settings where infections are common.  Intravenous  immunoglobulin  (IVIG)  can  be  used  to increase  the  platelet  count  in  an  emergency  or  before  surgical procedures. For severe bleeding, combinations of platelet transfusion, IVIG, and high-dose steroids may be considered.
+
+============================================================
+CHUNK 52
+============================================================
+Congenital Bleeding Disorders
+The congenital bleeding disorders occur with the same frequency throughout the world. Hemophilia A has a prevalence of about 10/10,000, von Willebrand's de{ciency is > 10/10,000, and hemophilia B is < 0.1/10,000. Although the diagnosis may be suspected from the patient's personal and family history, diagnosis should be  con{rmed  by  a  specialist  center.  Treatment  should  also  be managed through a specialist center, and options include replacement of the missing coagulation factors and cryoprecipitate. Von Willebrand's disease may respond to desmopressin.
+
+============================================================
+CHUNK 53
+============================================================
+Thrombophilia
+Thrombophilia  (hypercoagulability) may  be inherited (e.g., de{ciencies  of  thrombin,  protein  S,  or  protein  C)  or  acquired (e.g., anti-phospholipid syndrome) and causes venous or arterial thromboembolism  and  recurrent  miscarriages.  The  patient's personal and family history and the results of clinical and imaging examinations may suggest the diagnosis. Several laboratory tests are  required  to  determine  the  cause  and  classify  the  type  of thrombophilia.  Interpretation  of  the  results,  understanding  the limitations of the tests, and explaining the implications to patients require considerable expertise and should be done by specialists.
+
+============================================================
+CHUNK 54
+============================================================
+REFERENCES
+1.  World Health Organization. The Global Prevalence of Anaemia in 2011.  Geneva  2015  http://apps.who.int/iris/bitstream/10665/17709 4/1/9789241564960_eng.pdf?ua = 1&ua = 1.
+2. and the risk of death in older adults: differences by race/ethnicity in the NHANES III follow-up. Br J Haematol 2009;145:514-23.
+3.  Stroback RS. The value of the physical examination in the diagnosis of anemia. Arch Intern Med 1988;148(4):831.
+4.  Marn  H,  Critchley  J.  Accuracy  of  the  WHO  haemoglobin  colour scale for the diagnosis of anaemia in primary health-care settings in low-income countries: a systematic review and meta-analysis. Lancet Glob Health 2016;4:e251-65.
+5.  Boele van Hensbroek M, Calis JC, Phiri KS, et al. Pathophysiological mechanisms  of  severe  anaemia  in  Malawian  children.  PLoS  ONE 2010;5:e12589.
+6.  Calis JC, Phiri KS, Vet RJ, et al. Erythropoiesis in HIV-infected and
+7.  Phiri KS, Calis JC, Siyasiya A, et al. New cut-off values for ferritin and soluble transferrin receptor for the assessment of iron de{ciency in children in a high infection pressure area. J Clin Pathol 2009;62:1103-6.
+8. current status. Br J Haematol 2011;54(3):289-300.
+9. clinical impact and evidence-based management strategies. Clin Infect
+10.  Calis  JC,  van  Hensbroek  MB,  de  Haan  RJ,  et al.  HIV-associated anemia in  children:  a  systematic  review  from  a  global  perspective.
+11. Med 2006;6:155-68.
+12.  Bedu-Addo G, Bates I. Causes of massive tropical splenomegaly in Ghana. Lancet 2002;360:449-54.
+13. 2010;376:2018-31.
+
+============================================================
+CHUNK 55
+============================================================
+REFERENCES
+14.  T saras  G,  Owusu-Ansah  A,  Boateng  FO,  Amoateng-Adjepong  Y. Complications associated with sickle cell trait: a brief narrative review. Am J Med 2009;122:507-12.
+15.  Nkhoma ET, Poole C, Vannappagari V, et al. The global prevalence of glucose-6-phosphate dehydrogenase de{ciency: a systematic review
+16. de{ciency. Lancet 2008;371:64-74.
+17. review  of  the  global  incidence  and  prevalence  of  myelodysplastic syndrome and acute myeloid leukemia. Blood 2016;128:5930. http:// www.bloodjournal.org/content/128/22/5930?sso-checked = true.
+

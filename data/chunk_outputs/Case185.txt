@@ -1,0 +1,94 @@
+============================================================
+CHUNK 0
+============================================================
+Key features
+- A cause of persistent diarrhea found in tropical areas in immunocompromised patients
+
+============================================================
+CHUNK 1
+============================================================
+Cystoisospora belli (syn. Isospora belli )
+93
+
+============================================================
+CHUNK 2
+============================================================
+Rebecca Dillingham, Eric R Houpt
+low-grade fever usually lasting less than 1 month. In immunocompromised patients, diarrhea may be prolonged and more severe. In one study of HIV-infected patients, the median duration of diarrhea was 5.8 months [4]. Rarely, dissemination of infection to mesenteric and tracheobronchial lymph nodes, liver, gallbladder or spleen has been reported [2, 8].
+- Treatable with trimethoprim-sulfamethoxazole (TMP-SMX)
+
+============================================================
+CHUNK 3
+============================================================
+INTRODUCTION
+Isospora belli was first identified in US troops abroad during World War I  but  was  not  studied further  until  1970 when Brandborg and colleagues identified it in tissue sections from patients with malabsorptive  enteritis  [1].  The  Centers  for  Disease  Control  and  Prevention (CDC) recently revised the genus to Cystoisospora  belli based  on  its morphologic and lifecycle characteristics. Isospora remains the designation for species infecting passerine birds [2]. Not all published work makes this distinction and, for now, Cystoisospora belli and Isospora belli can remain synonymous for the clinician.
+
+============================================================
+CHUNK 4
+============================================================
+EPIDEMIOLOGY
+Humans  are  the  only  known  hosts  for C.  belli ,  although  other Cystoisospora / Isospora species are found throughout the animal kingdom. Cystoisospora belli has been reported throughout the tropics and subtropics. Even in endemic areas, infection is most common in those  with  profound  immunocompromise. A hospital-based  study from Ethiopia evaluated causes of diarrhea and found infection only in  HIV-infected  persons  at  a  rate  of  7%  [3].  Outside  of  endemic areas, disease is occasionally seen in patients with a history of travel to these areas or immunocompromise, including instances after organ transplantation.
+
+============================================================
+CHUNK 5
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+Acquisition of Cystoisospora is  thought  to be caused by ingestion of food or water contaminated with mature oocysts from human feces. In studies of HIV-infected patients with diarrhea in Haiti, sub-Saharan Africa and south Asia, C. belli was identified in 3-26% of stool specimens  examined  [4,  5].  A  community-based  study  of  children  in Guinea-Bissau found a low incidence (1 1 cases/168.7 child years at risk) but a strong association with diarrhea-as strong as any enteropathogen studied  [6].  When observed histopathologically, C.  belli can be found invading beyond the epithelium into the lamina propria [1]. Infiltration of eosinophils into the lamina propria and peripheral eosinophilia can be seen [7].
+
+============================================================
+CHUNK 6
+============================================================
+CLINICAL FEATURES
+Cystoisospora belli generally produces an asymptomatic or self-limited diarrheal illness in otherwise healthy persons. Symptoms are nonspecific, with watery diarrhea and abdominal pain, cramps, nausea and
+
+============================================================
+CHUNK 7
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+Cystoisosporiasis should be considered in residents of, or travelers to, tropical areas who experience persistent diarrhea. There are no characteristic  physical  findings  or  laboratory  abnormalities,  although peripheral eosinophilia  is  sometimes noted, as  are  Charcot-Leyden crystals  in  the  stool  [7].  Fecal  leukocytes  usually  are  not  seen  [4]. Cystoisospora infection is confirmed by stool microscopy (Fig. 93.1). The oocysts can be seen with saline wet mount, but are commonly visualized after modified acid-fast staining and are clearly distinguishable  because  of  their  large  and  elliptical  size  (10-30 μ m).  Other techniques, including lactophenol cotton blue staining, the auraminerhodamine  technique,  Giemsa  staining  and  the  heated  safraninmethylene blue technique have also been used. Shedding of oocysts may  be  intermittent  and  detection  may  require  up  to  three  stool examinations [9]. No serologic tests for Cystoisospora are commercially available. PCR assays for use on stool samples have been developed in research labs [10].
+
+============================================================
+CHUNK 8
+============================================================
+TREATMENT
+Cystoisosporiasis  can  be  treated  successfully  in  patients  with  or without immunocompromise, though relapse or re-infection occurs in the latter. The regimen of choice for adults in both groups is one double-strength tablet of trimethoprim-sulfamethoxazole  (TMP/ SMX; 160 mg/800 mg) orally 2-4 times daily for 10 days (the higher
+FIGURE  93.1 Cystoisospora  belli in  iodine-stained  stool  specimen  from patient with diarrhea (image courtesy of Herman Zaiman collection).
+
+TABLE 93-1 Antimicrobial therapy for Cystoisospora belli infection
+
+============================================================
+CHUNK 9
+============================================================
+TREATMENT
+Treatment (recommended for immunocompetent and immunocompromised patients), Drug = Trimethoprim/sulfamethoxazole. Treatment (recommended for immunocompetent and immunocompromised patients), Adult dose = 160 mg/800 mg po bid × 7-10 d. Treatment (recommended for immunocompetent and immunocompromised patients), Reference = [11, 12]. Treatment (recommended for immunocompetent and immunocompromised patients), Drug = Cipro?oxacin. Treatment (recommended for immunocompetent and immunocompromised patients), Adult dose = 500 mg po bid × 7 d. Treatment (recommended for immunocompetent and immunocompromised patients), Reference = [11]. Treatment (recommended for immunocompetent and immunocompromised patients), Drug = Pyrimethamine. Treatment (recommended for immunocompetent and immunocompromised patients), Adult dose = 75 mg po qd × 3-4 w ( + leucovorin 5-25 mg/day). Treatment (recommended for immunocompetent and immunocompromised patients), Reference = [13]. Maintenance (recommended for immunocompromised patients), Drug = Trimethoprim/sulfamethoxazole. Maintenance (recommended for immunocompromised patients), Adult dose = 160 mg/800 mg po tiw. Maintenance (recommended for immunocompromised patients), Reference = [12]. Maintenance (recommended for immunocompromised patients), Drug = Sulfadoxine/pyrimethamine. Maintenance (recommended for immunocompromised patients), Adult dose = 500 mg/25 mg po weekly. Maintenance (recommended for immunocompromised patients), Reference = [12]. Maintenance (recommended for immunocompromised patients), Drug = Pyrimethamine. Maintenance (recommended for immunocompromised patients), Adult dose = 25 mg po qd ( + leucovorin 5-25 mg/day). Maintenance (recommended for immunocompromised patients), Reference = [13]
+
+============================================================
+CHUNK 10
+============================================================
+TREATMENT
+dose may be needed for immunocompromised patients). In Haiti, this  treatment  resulted  in  complete  symptomatic  relief  for  most patients within 2-3 days and for all patients within 7 days [4, 1 1]. In Haiti, 47% of HIV-infected individuals who did not receive prophylaxis  after  treatment  for  cystoisosporiasis  relapsed  [4];  therefore, maintenance  therapy  is  recommended  for  immunocompromised individuals with one of two regimens-one double-strength TMP-SMX tablet  three  times  a  week  or  one  Fansidar  tablet  (pyrimethamine 25 mg plus sulfadoxine 500 mg) once a week [12]. For treatment of patients who are intolerant of sulfonamide-containing medications, alternative regimens include: ciprofloxacin 500 mg twice daily for 7 days or oral pyrimethamine 50-75 mg/day in individual doses (plus leucovorin 10-25 mg/day) [11, 13]. In cases of severe extraintestinal disease  or  during  intestinal  malabsorption,  treatment  with  intravenous TMP/SMX has been used [14]. The presence of cystoisosporiasis should  not  delay  the  initiation  of  anti-retroviral  therapy  in  HIVinfected patients requiring therapy [6] (Table 93-1).
+
+============================================================
+CHUNK 11
+============================================================
+REFERENCES
+1. Brandborg LL, Goldberg SB, Breidenbach WC. Human coccidiosis-a possible cause of malabsorption. N Engl J Med 1970;283:1306-13.
+2. Restrepo C, Macher AM, Radany EH. Disseminated extraintestinal isosporiasis in a patient with acquired immune deficiency syndrome. Am J Clin Pathol 1987;87:536-42.
+3. Assefa S, Erko B, Medhin G, et al. Intestinal parasitic infections in relation to HIV/AIDS status, diarrhea and CD4 T-cell count. BMC Infect Dis 2009;9:155.
+4. DeHovitz JA, Pape JW, Boncy M, Johnson WD, Jr. Clinical manifestations and therapy of Isospora belli infection in patients with the acquired immunodeficiency syndrome. N Engl J Med 1986;315:87-90.
+5. Dwivedi KK, Prasad G, Saini S, et al. Enteric opportunistic parasites among HIV  infected  individuals:  associated  risk  factors  and  immune  status.  Jpn  J Infect Dis 2007;60:76-81.
+6. Dillingham RA, Pinkerton R, Leger P, et al. High early mortality in patients with chronic acquired immunodeficiency  syndrome  diarrhea  initiating antiretroviral  therapy  in  Haiti:  a  case-control  study.  Am  J  Trop  Med  Hyg 2009;80:1060-4.
+7. Lindsay DS, Dubey JP, Blagburn BL. Biology of Isospora spp. from humans, nonhuman  primates,  and  domestic  animals.  Clin  Microbiol  Rev  1997;10: 19-34.
+8. Benator DA, French AL, Beaudet LM,et al. Isospora belli infection associated with  acalculous  cholecystitis  in  a  patient  with  AIDS.  Ann  Intern  Med 1994;121:663-4.
+9. Valentiner-Branth P, Steinsland H, Fischer TK, et al. Cohort study of Guinean children: incidence, pathogenicity, conferred protection, and attributable risk for  enteropathogens during the first  2  years  of  life.  J  Clin  Microbiol  2003; 41:4238-45.
+
+============================================================
+CHUNK 12
+============================================================
+REFERENCES
+10.  ten Hove RJ, van Lieshout L, Brienen EA, et al. Real-time polymerase chain reaction for detection of Isospora belli in stool samples. Diagn Microbiol Infect Dis 2008;61:280-3.
+11.  Verdier RI, Fitzgerald DW,  Johnson  WD,  Jr,  Pape  JW.  Trimethoprimsulfamethoxazole compared with ciprofloxacin for treatment and prophylaxis of Isospora belli and Cyclospora cayetanensis infection in HIV-infected patients. A randomized, controlled trial. Ann Intern Med 2000;132:885-8.
+12.  Pape JW, Verdier RI, Johnson WD, Jr. Treatment and prophylaxis of Isospora bell i  infection  in  patients  with  the  acquired  immunodeficiency  syndrome. N Engl J Med 1989;320:1044-7.
+13.  Weiss  LM, Perlman DC, Sherman J, et al. Isospora  belli infection:  treatment with pyrimethamine. Ann Intern Med 1988;109:474-5.
+14.  Bialek R, Overkamp D, Rettig I, Knobloch J. Case report: Nitazoxanide treatment failure in chronic isosporiasis. Am J Trop Med Hyg 2001;65:94-5.
+

@@ -1,0 +1,229 @@
+============================================================
+CHUNK 0
+============================================================
+Diana NJ Lockwood, Saba Lambert
+Most cases occur in resource-poor  countries  and  leprosy  continues to be a significant public health problem and a stigmatizing disease (Fig. 57.1).
+- Leprosy, also known as Hansen's disease, is a chronic granulomatous bacterial infection principally a3ecting skin and peripheral nerves. It is caused by Mycobacterium leprae
+- Following contact with an infective dose of M. leprae, most people will develop adequate protective immunity. Only a small percentage of individuals will develop clinical disease. Patients can present with manifestations that represent a spectrum of disease and host-pathogen interactions, ranging from heavy and di3use organism loads and minimal host reactions, to pauci-bacillary disease and prominent host immune responses
+- A patient with Hansen's may present with a macular hypo-pigmented skin lesion, weakness or pain in the hand because of nerve involvement, facial palsy, acute foot drop, or a painless burn or ulcer in an anesthetic hand or foot. Patients may also present with painful eyes as a 5rst indication of lepromatous leprosy. The diagnosis of leprosy should be considered in anyone from an endemic area who presents with typical skin lesions, neuropathic ulcers, or a peripheral neuropathy (sensory loss and/or weakness)
+- Diagnosis is usually based on clinical recognition and/or detection of acid-fast bacilli (AFB) in skin smears/biopsies
+- Treatment is based on the World Health Organization (WHO) multidrug therapy regimens (MDT) and involves months of treatment
+- Leprosy may be complicated by immunologic phenomena called 'reactions'. These sudden episodes of acute in4ammation are a medical emergency and occur in approximately 30% of leprosy patients. The in4ammation is a result of immune reactions against M. leprae antigens. These immunologic reactions cause neurologic damage that leads to subsequent tissue damage and eventual deformity. Treatment often involves steroids
+- Physiotherpay, education, early wound care, and behavioral modi5cations to minimize risk of trauma are important components of the long-term care of individuals with complications of leprosy
+Leprosy, also known as Hansen's disease, is a chronic granulomatous bacterial infection principally affecting skin and peripheral nerves [1].
+
+============================================================
+CHUNK 1
+============================================================
+Diana NJ Lockwood, Saba Lambert
+In 2010, 228,474 new cases were registered worldwide and reported to the WHO. The top six endemic countries are: India, Brazil, Indonesia, Democratic Republic of Congo, Nigeria, and Bangladesh [2].
+
+============================================================
+CHUNK 2
+============================================================
+THE CAUSATIVE ORGANISM AND HOST RESPONSE
+Mycobacterium leprae is an acid-fast, rod-shaped, Gram-positive organism. It is an obligate intracellular pathogen and it has not been grown in axenic medium since being identified as the causative organism of leprosy by Armauer Hansen in 1874. It can be harvested after prolonged incubation in the mouse footpad and occurs by natural infection  in  the  nine-banded  armadillo,  which  is  a  reservoir  for  the organism in the states of Texas and Louisiana in the USA.
+In  2001,  the  genome  of M.  leprae was  sequenced.  The  organism appears to have undergone extensive reductive evolution with considerable downsizing of its genome compared with Mycobacterium tuberculosis . Almost half of the genome is occupied by pseudogenes [3].
+Transmission is thought to occur mainly through aerosolized nasal droplets, spread when coughing or sneezing takes place. Forty-eight percent  of  lepromatous  patients  compared  with  3%  of  borderline patients  have  nasal  discharge  containing M.  leprae .  The  number  of acid-fast bacilli in a single nasal blow averaged 1.1 × 10 8 in a study of 17  patients  [4].  Contacts  of  leprosy  patients  are  at  higher  risk  of developing the disease than the general population. There are case reports of leprosy occurring following presumed inoculation through the skin during surgical procedures, tattooing, or accidental trauma [5]. The organism can persist outside the body under various environmental conditions for up to 5 months [6].
+
+============================================================
+CHUNK 3
+============================================================
+THE CAUSATIVE ORGANISM AND HOST RESPONSE
+Following contact with an infective dose of M. leprae, most  people will develop adequate protective immunity (Fig. 57.2). Only a small percentage  of  individuals  will  develop  clinical  disease.  Infecting organisms are taken up by histiocytes in the skin and by Schwann cells  in  the  peripheral  nerves.  This  usually  elicits  an  inflammatory response of histiocytes and lymphocytes. The earliest clinical sign is a vague, small hypo-pigmented macule, described as indeterminate leprosy;  over  70%  of  these  heal  spontaneously.  If  bacillary  growth outstrips  the defense mechanism, then the condition progresses to one of the patterns that make up the spectrum of disease in leprosy. The incubation period can range between 2 and 12 years. Inflammation plays an important role in the neurologic damage that leads to subsequent tissue damage and eventual deformity.
+
+============================================================
+CHUNK 4
+============================================================
+DIAGNOSIS OF LEPROSY
+The basis of clinical diagnosis of leprosy is the presence of one of the three cardinal signs:
+- hypo-pigmented/reddish skin lesions with possible sensory loss;
+- thickened peripheral nerves;
+- acid-fast bacilli (AFB) seen in skin smears/biopsies.
+A patient  may present with a macular hypo-pigmented skin lesion (Fig. 57.3), weakness or pain in the hand owing to nerve involvement,
+FIGURE  57.1
+(2011).
+FIGURE 57.2 Relationshionship  between M. leprae Infection  and  clinical leprosy.
+facial palsy, acute foot drop, or a painless burn or ulcer in an anesthetic hand or foot. Patients may also present with painful eyes as a first  indication  of  lepromatous  leprosy.  The  diagnosis  of  leprosy should be considered in anyone from an endemic area who presents with typical skin lesions, neuropathic ulcers, or a peripheral neuropathy (sensory loss and/or weakness).
+
+============================================================
+CHUNK 5
+============================================================
+LABORATORY TESTS
+The presence of AFB in skin smear examination or biopsy material examination can provide supporting evidence for the diagnosis. The Bacterial Index gives a measure of bacterial density in the skin sample under examination on a logarithmic scale ranging from 0 to 6. Histopathologic  evaluation  is  essential  for  accurate  classification  of leprosy  lesions  and  is  the  best  diagnostic  test  in  a  well-resourced setting, both for confirming and excluding the diagnosis of leprosy.
+FIGURE  57.3 Young  patient  with  extensive  leprosy  patches  (BT)  that are  hypo-pigmented,  dry,  hairless  and  anesthetic.  There  are  several lesions  with  a  well-deFned,  but  irregular,  edge;  a  few  satellite  lesions are visible.
+Recent advances have been made in serologic diagnostic test. Antibodies  to  the M.  leprae -specific  antiphenolic  glycolipid  (PGL-1) are present in 90% of patients with untreated lepromatous disease, but only 40-50% of patients with paucibacillary disease and 1-5 % of healthy controls [7]. An easy to use immunohistochromatographic assay, the ML flow test, based on PGL-1 detection, is being assessed by  a  Brazilian  team  [8].  PCR  for  detection  of M.  leprae -encoding specific genes or repeat sequences is potentially highly sensitive and specific,  as  it  detects M.  leprae DNA  in  95%  of  multibacillary  and 55% of paucibacillary patients. PCR is currently not used in clinical practice [7].
+Leprosy  global  prevalence  map
+FIGURE 57.4 The  Ridley-Jopling  ClassiFcation  and  the  relationship  with host immunity.
+
+============================================================
+CHUNK 6
+============================================================
+CLASSIFICATION OF LEPROSY
+Leprosy  may  be  considered  an  immunologic  disease.  Immunity defines  susceptibility  to  leprosy,  type  of  clinical  leprosy,  pathology and  major  clinical  complications  of  leprosy.  Classification  of  the disease is important to determine prognosis, patients at higher risk of reactions and nerve damage, as well as select appropriate treatment. Leprosy  patients  can  be  classified  using  two  systems:  the  RidleyJopling system and the WHO system.
+The Ridley-Jopling system [9] (Fig. 57.4) uses clinical and histopathologic features and the Bacterial Index. Leprosy manifests in a spectrum of disease forms, ranging from the tuberculoid to the lepromatous. The clinical manifestations of  leprosy are determined by the host's response  to  the  leprosy  bacillus:  tuberculoid  (TT)  patients  have  a strong cell-mediated immune response manifesting as limited clinical disease, granuloma formation and no detectable mycobacteria; lepromatous (LL) patients have no cell-mediated immunity to M. leprae and have widespread disease and a high bacterial load. Between these two extremes there is a  range  of  variations  in  host  response;  these comprise borderline cases (BT, borderline tuberculoid; BB, borderline borderline;  BL,  borderline  lepromatous).  Immunologically,  borderline cases are unstable and polar tuberculoid and lepromatous cases are stable.  Patients can move along the spectrum in the absence or presence of treatment.
+The WHO classification is a simplified version that can be used in the field when slit skin smears are not available. Patients with fewer than six lesions are classified as paucibacillary and those with six or more lesions (Fig. 57.5) are classified as multi-bacillary. This is a quick and useful  tool  that  can  be  employed  by  a  wide  variety  of  healthcare workers  as  it  provides  a  low-cost  strategy  for  leprosy  diagnosis, without the need for skilled neurologic assessment and slit skin smear examination.
+
+============================================================
+CHUNK 7
+============================================================
+CLINICAL FEATURES
+The cardinal signs of leprosy are anesthetic skin lesions, numbness or weakness  as  a  result  of  damage  to  sensory  and  motor  nerves  and ulcers or burns in an anesthetic hand or foot. However, the clinical presentation ultimately depends on the host's immunity to M. leprae and clinical features can be divided into the disease spectrum classified according to Ridley-Jopling (Table 57-1).
+
+============================================================
+CHUNK 8
+============================================================
+TREATMENT
+The management of leprosy consists of treating the M. leprae infection with antibiotic chemotherapy, managing the immune-mediated reactions (discussed separately), preventing nerve damage and educating the patient.
+FIGURE  57.5 A  25-year-old  man  with  lepromatous  leprosy.  The  skin  is heavily  inFltrated  and  multiple  nodules  are  present,  giving  a  leonine appearance. Partial madurosis and nodules on the ears are present.
+Antibiotic  chemotherapy  is  based  on  the  WHO  multidrug  therapy regimens (MDT) (Table 57-2).
+Over the past 20 years, more than 14 million people have received MDT and have been cured of M. leprae infection. Relapse rates following treatment with MDT vary from 0-2.5% in paucibacillary disease. In multi-bacillary disease, the published rates of relapse are between 0 and 7.7% (www.clinical evidence.com). The study with the highest relapse  rate  in  multi-bacillary  patients  demonstrated  that  90%  of relapses occurred in patients who had an initial Bacterial Index of > 4 [10]. Leprosy can occur in children and the doses of medication will be lower. Consultation with a specialist is recommended.
+In  the  USA,  treatment  regimens  vary  from  the  WHO-MDT  (Table 57-3). The more common side effects of the WHO MDT drugs are summarized in Table 57.4.
+
+============================================================
+CHUNK 9
+============================================================
+ALTERNATIVE ANTI-MICROBIAL AGENTS
+Minocycline 100 mg daily can be used as a substitute for Dapsone in individuals who do not tolerate this drug. It can also be used instead of clofazimine, although currently there is no evidence that minocycline protects patients against developing erythema nodosum leprosum (ENL).
+Clarithromycin 500 mg daily is also effective against M. leprae ,  and can be used as a substitute for any of the other drugs in a multi-drug regimen.
+Ofloxacin 400 mg daily may also be used in place of clofazimine for adults.
+
+============================================================
+CHUNK 10
+============================================================
+REACTIONS
+Leprosy  is  complicated  by  immunologic  phenomena  called  'reactions' .  These sudden episodes of acute inflammation are a medical emergency and occur in approximately 30% of leprosy patients. The inflammation is caused by immune reactions against M. leprae antigens. Patients can present in reaction before MDT treatment, and a significant proportion of patients develop reactions within the first six months of treatment.  There is also an increase in  the  incidence  of reactions in post-partum patients. However, reactions can also occur after  successful  MDT  treatment  and  are  probably  caused  by  the persistence  of M.  leprae antigens.  Patients  may  experience  repeated
+
+TABLE 57-1 Major Clinical Features of the Disease Spectrum in Leprosy
+
+============================================================
+CHUNK 11
+============================================================
+REACTIONS
+Indeterminate, Classi:cation.WHO = PB. Indeterminate, Bacterial Index. = 0. Indeterminate, Skin lesions. = Solitary hypo-pigmented 2-5cm lesion. May become TT-like. Indeterminate, Nerve involvement. = None clinically detectable. Indeterminate, Systemic features. = Nil. Tuberculoid (TT), Classi:cation.WHO = PB/MB. Tuberculoid (TT), Bacterial Index. = 0-1. Tuberculoid (TT), Skin lesions. = Few, often one macule or plaque with well-deFned border and sensory loss. The patch is dry (loss of sweating) and hairless. Tuberculoid (TT), Nerve involvement. = May have one peripheral nerve enlarged. Occasionally presents as a mono-neuropathy. Tuberculoid (TT), Systemic features. = Nil. Borderline tuberculoid (BT), Classi:cation.WHO = MB. Borderline tuberculoid (BT), Bacterial Index. = 0-2. Borderline tuberculoid (BT), Skin lesions. = Several larger irregular plaques with partially raised edges. Satellite lesions at the edges. Borderline tuberculoid (BT), Nerve involvement. = Asymmetrical multiple nerve involvement. Borderline tuberculoid (BT), Systemic features. = Nil. Borderline (BB), Classi:cation.WHO = MB. Borderline (BB), Bacterial Index. = 2-3. Borderline (BB), Skin lesions. = Many macular lesions and inFltrated lesions with punched out centers. Borderline (BB), Nerve involvement. = Asymmetrical multiple nerve involvement. Borderline (BB), Systemic features. = . Borderline lepromatous (BL), Classi:cation.WHO = MB. Borderline lepromatous (BL), Bacterial Index. = 1-4. Borderline lepromatous (BL), Skin lesions. = Many small macular lesions and multiple nodules and papules. Borderline lepromatous (BL), Nerve involvement. = Widespread nerve thickening. Sensory and motor loss. Borderline lepromatous (BL), Systemic features. = . Lepromatous (LL),
+
+============================================================
+CHUNK 12
+============================================================
+REACTIONS
+Classi:cation.WHO = MB. Lepromatous (LL), Bacterial Index. = 4-6. Lepromatous (LL), Skin lesions. = Numerous nodular skin lesions in a symmetrical distribution, not dry or anesthetic. May present as many conGuent macular lesions. There are often thickened shiny earlobes, loss of eyebrows and diHuse skin thickening. Lepromatous (LL), Nerve involvement. = Widespread nerve enlargement. Glove and stocking anesthesia occurs late in disease. Lepromatous (LL), Systemic features. = Nasal stuIness, epistaxis. Testicular atrophy. Ocular involvement. Bones and internal organs can be aHected
+MB, multi-bacillary; PB, paucobacillary; TT, tuberculoid.
+Table 57-2 World Health Organization (WHO)Recommended Multidrug Therapy (MDT) Regimes for Adults
+
+Paucibacillary (TT and BT), Drug treatment.Monthly supervised = Rifampin 600 mg. Paucibacillary (TT and BT), Drug treatment.Daily, self- administered = Dapsone 100 mg. Paucibacillary (TT and BT), Duration of treatment.Duration of treatment = 6 months. Multibacillary (BB,BL and LL), Drug treatment.Monthly supervised = Rifampin 600 mg, clofazimine 300 mg. Multibacillary (BB,BL and LL), Drug treatment.Daily, self- administered = Clofazimine 50 mg Dapsone 100 mg. Multibacillary (BB,BL and LL), Duration of treatment.Duration of treatment = 12 months
+BT, borderline tuberculoid; BB, borderline borderline; BL, borderline lepromatous; LL, lepromatous; TT, tuberculoid.
+reactions after treatment, resulting in increased suffering and disability. These immunologic reactions and the influx of inflammatory cells cause  nerve  damage  through  demyelination.  It  is  this  neurologic damage that leads to subsequent tissue damage and eventual deformity (Fig. 57.6).
+
+============================================================
+CHUNK 13
+============================================================
+REACTIONS
+Nerve function impairment (NFI) is defined as clinically-detectable impairment of motor, sensory or autonomic nerve function [1 1]. NFI may occur in the absence of symptoms and may go unnoticed by the patient, i.e. 'silent  neuropathy' . NFI is detected clinically by testing the sensation in the patient's hands and feet with graded monofilaments and testing the small muscles' power.
+Patients seen with NFI of recent onset (less than 6 months) should be given a course of prednisolone therapy and physiotherapy. Some of these patients will recover function of the affected part.
+FIGURE 57.6 Median and ulnar nerve damage in leprosy: dry skin, muscle wasting,  mobile  clawing  of  fourth  and  Ffth  Fnger,  desensitization  and painless burn on the fourth Fnger.
+
+============================================================
+CHUNK 14
+============================================================
+MANAGEMENT OF TYPE 1 REACTIONS
+The clinical manifestations of these reactions are edema and erythema of skin lesions, and neuritis. Acute neuritis (defined as spontaneous nerve  pain,  paraesthesia  or  tenderness  with  new  sensory  or  motor impairment of recent onset) may also occur without evidence of skin inflammation (Fig. 57.7).
+Corticosteroids are used to treat moderate and severe reactions, where pain is severe and NFI is present. Prednisolone 40-60mg daily should be  started  and  tapered  down  after  clinical  improvement  to  the minimal effective dose until the reaction subsides. There is no clear consensus on the optimum dose of corticosteroids or the length of
+FIGURE 57.7 Female patient diagnosed with paucibacillary leprosy with single facial lesion showing Type 1 reaction. The lesion has become acutely inGamed, swollen and tender.
+TABLE 57-3 Centers for Disease Control and Prevention (CDC) Recommended Multidrug Therapy (MDT) Regimens for Adults in the USA
+
+Type of leprosy, 1 = Drug treatment Daily, self-administered. Type of leprosy, 2 = Duration of treatment. Paucibacillary (TT and BT), 1 = Rifampin 600 mg and dapsone 100 mg. Paucibacillary (TT and BT), 2 = 12 months. Multibacillary (BB,BL and LL), 1 = Rifampin 600 mg, dapsone 100 mg and clofazimine 50 mg. Multibacillary (BB,BL and LL), 2 = 24 months
+BT, borderline tuberculoid; BB, borderline borderline; BL, borderline lepromatous; LL; lepromatous; TT, tuberculoid.
+
+============================================================
+CHUNK 15
+============================================================
+TABLE 57-4 Side EHects of Multidrug Therapy (MDT) Drugs
+Dapsone, Side e;ect = Hemolytic anemia Exfoliative dermatitis Fixed drug eruption Psychosis. Clofazimine, Side e;ect = Severe dryness of skin Brownish or reddish discoloration of skin and patch Abdominal pain-sign of acute abdomen Pigmentation of conjunctiva. Rifampin, Side e;ect = Flu-like syndromes (dose-dependent hypersensitivity reaction) Liver dysfunction Abdominal pain Loss of appetite Red urine, stool, saliva
+TABLE 57-5 Comparison of Clinical Features of Type 1 and Type 2 Leprosy Reactions
+Patients at risk, Type 1 = BL, BB, BT. Patients at risk, Type 2 (ENL) = LL, BL. Onset of reaction, Type 1 = Gradual, over a few weeks. Onset of reaction, Type 2 (ENL) = Sudden,'overnight'. Cutaneous lesions, Type 1 = Increased erythema and induration of previously existing or new lesions. Cutaneous lesions, Type 2 (ENL) = Numerous erythematous, tender nodules on face, extremities, or trunk, without relationship to prior lesions. Neuritis, Type 1 = Frequent, often severe. Neuritis, Type 2 (ENL) = Frequent, often severe. Systemic symptoms, Type 1 = Afebrile, mild malaise. Systemic symptoms, Type 2 (ENL) = Fever, malaise, lymph node enlargement, arthritis, iritis, orchitis. Histopathologic features, Type 1 = CD4 cell ↑ , granuloma edema, ↑ giant cell size and numbers, dermal oedema and HLA-DR expression. Histopathologic features, Type 2 (ENL) = Polymorphonuclear cell inFltrates in lesions 24 h old,. Treatment, Type 1 = Corticosteroids. Treatment, Type 2 (ENL) = Corticosteroids, thalidomide. Recurrence, Type 1 = Approx. 30%. Recurrence, Type 2 (ENL) = Approx. 65%
+
+============================================================
+CHUNK 16
+============================================================
+TABLE 57-4 Side EHects of Multidrug Therapy (MDT) Drugs
+BT, borderline tuberculoid; BB, borderline borderline; BL, borderline lepromatous; ENL, erythema nodosum leprosum; HLA-DR, human leukocyte antigen-DR; LL; lepromatous; TT, tuberculoid.
+treatment although a recent study has shown that a longer period of treatment (5 months) was more beneficial that the 3 months often used [12] (Table 57-5).
+
+============================================================
+CHUNK 17
+============================================================
+MANAGEMENT OF ERYTHEMA NODOSUM LEPROSUM (ENL) REACTIONS
+Type  2  leprosy  reactions  (i.e.  ENL)  present  as  a  systemic  illness:  a patient with ENL may be very sick, with high temperatures, painful subcutaneous nodules, peripheral edema, and inflammation of the nerves, eyes, joints, muscles, bones, and testes. The onset of ENL is acute,  but  it  may  pass  into  a  chronic  phase  and  is  often  recurrent (Table 57-5).
+For mild ENL, aspirin may be used. Patients with severe ENL require hospitalization and treatment with high-dose prednisolone (starting at  60 mg). The efficacy is variable and some patients with chronic, or  recurrent,  ENL  may  need  to  take  prednisolone  for  several  years [13]. These  long, high doses of steroids are associated with steroid side effects, such as hypertension, diabetes, cataracts, and acne [14]. Thalidomide,  starting  at  a  dose  of  100-400 mg  daily  and  tapering down,  is  the  treatment  of  choice  for  severe  ENL.  It  controls  ENL symptoms rapidly and prevents recurrences but its  availability and teratogenicity limits its use. Clofazimine (up to 300 mg) is effective against ENL, although it takes 4-6 weeks of continuous use for the anti-inflammatory effect to manifest.
+Other alternatives to prednisolone, such as azathioprine and cyclosporine, are being studied.
+
+============================================================
+CHUNK 18
+============================================================
+ONGOING MANAGEMENT AND PREVENTION OF COMPLICATIONS
+Education  concerning  factual  information,  such  as  mode  of  transmission, infectivity, treatment, and complications, is essential for all
+patients and  health  providers. Patients  should  be taught selfexamination of the hands and feet with early medical review if signs of inflammation or trauma occur. Adequate footwear or other protective  devices  should  be  made  available  to  those  with  insensitive  or deformed feet. Ulcers in anesthetic feet are the most common cause of hospitalization. Ulcers are treated by rest and cleaning, although any signs  of  osteomyelitis  need  to  be  referred  for  surgical  debridement. Appropriate early physiotherapy must be instituted and patients must be referred to the appropriate specialist for evaluation and correction of deformity. Leprosy still elicits stigma in many communities and the patient will benefit from social and psychological support.
+
+============================================================
+CHUNK 19
+============================================================
+Chemoprophylaxis and Immunotherapy
+To date, no specific vaccine has been developed to prevent infection by M. leprae , although there is good evidence that Bacillus CalmetteGuérin (BCG) has protective efficacy. A meta-analysis of 26 studies demonstrated an overall protective effect between 26% and 61%. The age at vaccination did not predict the protective effect of BCG [15].
+A Bangladeshi study showed that the overall reduction in incidence of leprosy using a single dose of rifampin in the first 2 years was 57% [16]. However, the difference was no longer significant in the third and fourth years.
+
+============================================================
+CHUNK 20
+============================================================
+Leprosy and HIV
+There were concerns that an interaction between HIV and M. leprae infection  would  result  in  an  increased  incidence  of  leprosy  cases. However, studies in Uganda, Mali, Ethiopia, and  South India have not shown an increased prevalence of leprosy cases associated with HIV infection [17-19].
+An association has been found between HIV infection and complications of leprosy. In a case-controlled study in Uganda, HIV seropositivity was found to be a significant risk factor for developing reactions and neuritis; an unusual finding because reversal reactions are associated with an increase in CD4 cells. Similarly, Sampaio et al. found that HIV-infected patients with low CD4 counts had normal granuloma formation with numerous CD4 cells [20].
+Treatment of a leprosy patient with concurrent HIV infection does not differ from that of a seronegative leprosy patient and reactions should be managed with corticosteroids or thalidomide as appropriate.
+Since the introduction of highly active anti-retroviral therapy (HAART) in the management of HIV, leprosy is being increasingly reported as part  of  the  immune  reconstitution  inflammatory  syndrome  (IRIS) [21]. It is possible that the immune response to M. leprae in an HIVinfected person is suppressed before starting HAART and that leprosy manifests as IRIS with the sudden reversal of this suppression and the rise of CD4 [22]. Further studies are needed to understand the clinical and pathologic features in HIV and leprosy co-infection.
+
+============================================================
+CHUNK 21
+============================================================
+CONCLUSION
+Since the implementation of MDT in 1982 in endemic areas, more than  90%  of  registered  cases  have  received  treatment,  14  million patients  have  been  cured  and  global  prevalence  has  declined.  The continuation  of  surveillance and  leprosy control  programs  are essential.
+The current treatment for leprosy reactions is still not optimal, with a significant number of patients not responding to prednisolone and some ENL patients requiring chronic thalidomide therapy. Researchers  are  still  looking  for  different  immunosuppressant  drugs  with efficacy  in  the  treatment  of  reactions  (e.g.  azathioprine  [23]  and cyclosporine [24]).
+The stigma associated with the diagnosis of leprosy is still a very real problem and the management of someone with the disease should include discussion of their psychosocial status and education for the patient and their family.
+
+============================================================
+CHUNK 22
+============================================================
+REFERENCES
+1. Walker SL, Lockwood DN. Leprosy. Clin Dermatol 2007;25:165-72.
+2. World Health Organization. Leprosy Update 2011. Weekly Epidemiological Record No. 36 201 1;86:389-400.
+3. Cole ST, Eiglmeier K, Parkhill J, et al. Massive gene decay in the leprosy bacillus. Nature 2001; 409:1007-1 1.
+4. Davey TF, Rees RJW. The nasal discharge in leprosy: clinical and bacteriological aspects. Lepr Rev 1974;45:135-44.
+5. Brandsma JW, Yoder Land Macdonald M. Leprosy acquired by inoculation from a knee injury. Lepr Rev 2005;76:175-9.
+6. Desikan KV, Sreevatsa. Extended studies on the viability of M. leprae outside the human body. Lepr Rev 1995;66:287-95.
+7. Britton WJ, Lockwood DNJ. Leprosy. Lancet 2004;363:1209-19.
+8. Lyon S, Lyon AC, Castorina Da Silva R, et al. A comparison of ML Flow serology and slit skin test smears to assess the bacterial load in newly diagnosed leprosy patients in Brazil. Leprosy Review 2008;79:162-70.
+9. Ridley  DS,  Jopling  WH.  Classification  of  leprosy  according  to  immunity. A five-group system. Int J Lepr Other Mycobact Dis 1966;34:255-73.
+10.  Deshpande  J, Chougule SG, Thakar UH, Revankar CR. Rate of relapse and reactions in MB leprosy patients after 24 and 12 months of MDT in Maharashtra. Indian J Lepr 2004;76:229-30.
+11.  Van Brakel WH, Khawas IB. Nerve damage in leprosy: an epidemiological and clinical  study  of  396  patients  in  west  Nepal-Part  1.  Definitions,  methods and frequencies. Lepr Rev 1994;65:204-21.
+
+============================================================
+CHUNK 23
+============================================================
+REFERENCES
+12.  Sandor Rao PSS, Sugamaran DST, Richard J, Smith WCS. Multi-centre, double blind, randomized trial of three steroid regimens in the treatment of type-1 reactions in leprosy. Lepr Rev 2006;77:25-33.
+13.  Pocaterra  L,  Jain  S,  Reddy  R,  et  al.  Clinical  course  of  erythema  nodosum leprosum: an 1 1-year cohort study in Hyderabad, India. Am J Trop Med Hyg 2006;74:868-79.
+14.  Richardus JH, Withington SG, Anderson AM, et al. Adverse events of standardized regimens of corticosteroids for prophylaxis and treatment of nerve function impairment in leprosy: results from the 'TRIPOD' trials. Lepr Rev 2003; 74:319-27.
+15.  Setia MS, Steinmaus C, Ho CS, et al. The role of BCG in prevention of leprosy: a meta-analysis. Lancet Infect Dis 2006;6:162-70.
+16.  Moet  FJ,  Pahan  D,  Oskam  L,  Richardus  JH.  Effectiveness  of  single  dose rifampicin  in  preventing  leprosy  in  close  contacts  of  patients  with  newly diagnosed  leprosy:  cluster  randomised  controlled  trial.  BMJ  2008;336: 761-4.
+17.  Kawuma  HJS,  Bwire  R,  Adatu-Engwau  F.  Leprosy  and  infection  with  the human immunodeficency virus in Uganda.; a case-control study. Int J Lepr 1994;62:521-6.
+18.  Lienhardt  C, Kamate B, Jamet P et al. Effect of HIV infection on leprosy: a three  year  survey  in  Bamako,  Mali.  Int  J  Lepr  Other  Mycobact  Dis  1996; 64:383-91.
+19.  Sekar B, Jayasheela M, Chattopadhya D, et al. Prevalence of HIV Infection and high-risk characteristics among leprosy patients of South India; a case-control study. Int J Lepr 1994;62:527-31.
+
+============================================================
+CHUNK 24
+============================================================
+REFERENCES
+20.  Sampaio  EP,  Caneshi  JRT,  Nery  JAC,  et  al.  Cellular  immune  response  to Mycobacterium  leprae infection  in  human  immunodeficiency  virus  infected individuals. Infect Immun 1995;63:18848-54.
+21.  Deps PD, Lockwood DNJ. Leprosy occurring as immune reconstitution syndrome. Trans R Soc Trop Med Hyg 2008;102:966-8.
+22.  Ustianowski AP, Lawn SD, Lockwood DNJ. Interactions between HIV infection and leprosy: a paradox. Lancet Infect Dis 2006;6:350-60.
+23.  Marlowe SN, Hawksworth RA, Butlin CR, et al. Clinical outcomes in a randomized  controlled  study  comparing  azathioprine  and  prednisolone  versus prednisolone  alone  in  the  treatment  of  severe  leprosy  type  1  reactions  in Nepal. Trans R Soc Trop Med Hyg 2004;98:602-9.
+24.  Marlowe SN, Leekassa R, Bizuneh E, et al. Response to ciclosporin treatment in Ethiopian and Nepali patients with severe leprosy Type 1 reactions. Trans R Soc Trop Med Hyg 2007;101:1004-12.
+

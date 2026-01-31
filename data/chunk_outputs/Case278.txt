@@ -1,0 +1,257 @@
+============================================================
+CHUNK 0
+============================================================
+KEY FEATURES
+- children younger than 5 years of age.
+- Streptococcus pneumoniae, Haemophilus inRuenzae (including H. inRuenzae type b-Hib), Staphylococcus aureus, mycoplasma, chlamydia, and Mycobacterium tuberculosis, among others.
+- tachypnea and cough.
+- wall in-drawing, central cyanosis, inability to drink or feed (or vomiting anything ingested), lethargy, obtundation, and convulsions.
+- breathing or chest wall in-drawing pneumonia or severe pneumonia, based on updated criteria, and treatment targeted appropriately.
+- currently available Hib and pneumococcal protein-conjugate vaccines would decrease global mortality from pneumonia by 50%.
+
+============================================================
+CHUNK 1
+============================================================
+INTRODUCTION
+Pneumonia  is  a  syndrome  of  in|ammation,  congestion,  and compromise of gas exchange in the lungs that disproportionately affects  children  and  can  lead  to  severe  illness  and  death. 1 It  is usually caused by infection but may be caused by non-infectious exposures and aspiration. Bacteria are among the leading causes of  severe  pneumonia,  with  many  being  vaccine-preventable. Pneumonia is the leading cause of child death worldwide, 2 excluding neonatal deaths, with most deaths occurring in developing countries (Fig. 42.1). Once the leading cause of child death in children in high-income  countries  (HIC), 1 vaccines  and  improvements  in living standards substantially reduced pneumonia incidence and mortality rates. Similar reductions are possible in low- and middleincome countries (LMIC), although important knowledge gaps remain for optimal disease control.
+
+============================================================
+CHUNK 2
+============================================================
+EPIDEMIOLOGY
+A review of 35 studies published between 1990 and 2010 estimated a median pneumonia incidence in children < 5 years from LMIC at 0.22 (interquartile range [IQR] 0.11%-0.51%), which represents a 25% reduction over the last decade. 3 The incidence in HIC was 0.015 episodes/child year (IQR 0.012%-0.020%). The estimated proportion of severe pneumonia episodes in LMIC increased from 8.6% in 2000 to 11.5% in 2010 (IQR 8.0%-33.0%). The estimated proportion of severe pneumonia in HIC increased to 26.7% (IQR 20.0%-46.7%); however, much of this was based on hospital-based studies where a higher fraction of severe pneumonia is expected.
+W. Abdullah Brooks
+Secular trends among risk factors for pneumonia in LMIC saw declines between 2000 and 2010 in malnutrition prevalence from 26.9% to 21.9%, low birth weight from  15.9% to  8.8%, nonexclusive breastfeeding from 64.4% to 52.6%, and solid fuel use from 65.5% to 52.2%, all of which contributed to the 25% decrease in pneumonia incidence. 3
+Over 70% of deaths from clinical pneumonia occur in LMIC. 4 Pneumonia mortality is associated with several risk factors, with the  following  odds  ratios:  malnutrition  (1.8),  low  birth  weight (1.4),  non-exclusive  breastfeeding (1.3), solid  fuel use (1.8),  and crowding (2.0). 3 Lack of measles vaccination and indoor air pollution also remain important.
+
+============================================================
+CHUNK 3
+============================================================
+The Bacterial Etiology of Pneumonia
+The evidence  for bacterial  pneumonia agents  comes  from  two classes  of  studies,  each  with  important  limitations.  One  is  the prospective observational study (often simply surveillance). These are primarily hospital based and rely heavily on blood cultures. Thus  most  bacterial  pneumonia  pathogens  are  substantially underestimated. Another limitation is that most of these studies consist  of  hospitalized  children,  represent  more  severe  illness, and may not represent most pneumonia cases. The second type of  study  is  the  vaccine  trial,  including  vaccine  probe  studies, where  the  attributable  burden  from  a  speci{c  pathogen  is estimated from the proportion of pneumonia prevented by that vaccine.  There  are  two  important  caveats.  First,  bacteria  and viruses  may  interact, 5 for  example,  pneumococcal  vaccine  may reduce  in|uenza-positive  pneumonia 6 ;  thus  not  all  pneumonia prevented by a vaccine is directly pathogen speci{c. Second, vaccine ef{cacy is in|uenced by which pathogen strains are included in the vaccine and must be accounted for to adjust disease burden estimates. 7
+
+============================================================
+CHUNK 4
+============================================================
+The Bacterial Etiology of Pneumonia
+Two recent studies in Streptococcus pneumoniae (pneumococcus) and in Haemophilus inRuenzae type b (Hib) provide pathogen-speci{c pneumonia burden estimates, relying heavily upon vaccine ef{cacy trials. In 2000 there were 826,000 pneumococcal deaths, of which 90%  were  pneumonia. 8 The  global  pneumococcal  pneumonia incidence was 2228/100,000 child-years (13.8 million cases), or 8.6% of all clinical childhood pneumonia. The case fatality rate was 5%, or 36% of all pneumonia deaths. Southeast Asia had the highest number of pneumonia cases, whereas Africa had the highest pneumonia incidence. In that same period, there were 8.13 million illnesses caused by Hib. 9 The global incidence of Hib pneumonia was 1304/100,000 children < 5 years. Again, the highest number of cases was in Southeast Asia, followed by Africa, the Western Paci{c, and the Mediterranean. This study estimated Hib-related chest x-ray (CXR)-con{rmed pneumonia at 15% to 21%. T ogether, these analyses suggest that pneumococcus and Hib account for 30% to 50% of severe  pneumonia among children in  LMIC. 1 Other  bacteria  in  childhood  pneumonia  include Staphylococcus aureus,  Klebsiella  pneumoniae, non-typeable H. inRuenzae (Papua New Guinea and the Gambia), non-typhoid Salmonella spp. (subSaharan Africa), and Salmonella typhi (South Asia). T wo atypical bacteria, Mycobacterium tuberculosis (primarily from lung aspirates) and Mycoplasma pneumoniae, have been commonly reported. Recent multisite investigations have con{rmed many of these pathogens
+
+============================================================
+CHUNK 5
+============================================================
+Global distribution of deaths from pneumonia and other causes among children < 5 years
+Fig. 42.1 Global distribution of deaths from pneumonia and other causes among children < 5 years old. (Courtesy Igor Rudan; redrawn with permission from Rudan I, Boschi-Pinto C, Biloglav Z, et al. Epidemiology and etiology of childhood pneumonia. Bull World Health Organ 2008;86; 408-16.)
+in  severe  childhood  pneumonia, 10,11 with  additional  multi-site analyses pending publication. 12
+
+============================================================
+CHUNK 6
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Pathogen invasion and entry into the respiratory tract are poorly understood, although animal studies suggest that for pneumococcus, it  is  receptor  mediated. 13 During  pneumonia,  the  alveoli  and interstitium become in|amed, and |uid and cells {ll the alveolar air sacs. Surface tension of the |uid in the alveolar sacs draws the walls of the alveoli together, collapsing the alveoli. During inspiration, these alveolar air sacs are forcibly reopened against this surface tension, causing the crackling sound heard during inspiration by auscultation. This surface tension creates lower airway obstruction. Normally, the alveolar air sac is only one cell layer thick, allowing for easy gas exchange. Transudate |uid and debris in the alveolar sac compromise oxygenation (air entry into the lung) and respiration (gas exchange of CO2 for oxygen). The body's initial compensatory reaction is increased respiratory rate (tachypnea), perhaps the most sensitive indicator of lower airway obstruction. 14 As more alveoli become |uid {lled, obstruction increases, and effort shifts to keeping the alveoli open. Clinically, this is appreciated as the use of accessory muscles, initially the intercostal muscles (intercostal retractions), and as obstruction progresses the diaphragm contracts with greater force to overcome inertia, producing lower chest wall in-drawing (primarily  noted  in  children  less  than  3  years  old  whose  chest walls  are  relatively  soft  due  to  a  greater  cartilage/bone  ratio). Other compensatory mechanisms at this stage include grunting, a sound produced by exhaling against a partially closed glottis, or
+
+============================================================
+CHUNK 7
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+'laryngeal braking.' 15 This maintains positive pressure in the airway by  retaining  inspired  air  in  the  alveolar  sac  longer  to  prevent alveolar  collapse. 16 This  increases  lung  volume  and  functional residual capacity, which in turn increases alveolar ventilation (oxygen exchanged for CO2 per unit time), which increases arterial oxygen tension (PaO2) and decreases arterial carbon dioxide (PaCO2 ). The respiratory muscles in the young child, particularly the diaphragm, have little reserve and are prone to fatigue and respiratory failure. Laryngeal braking  (grunting)  decreases  diaphragmatic  work  by keeping more alveoli open at the end of expiration and improving gas exchange. Additional accessory muscles of the upper and lower thorax may be recruited in more advanced stages of lower airway obstruction, resulting in the clinical signs of 'head-bobbing' and chest-abdomen 'see-sawing,' seen clinically as 'respiratory distress.' Maladaptive compensatory responses to obstruction include cessation  of  feeding,  resulting  in  the  World  Health  Organization (WHO) danger sign of 'inability to feed or drink.' 17 As the child is {ghting to prevent alveolar collapse and maintain positive pressure at  the  end  of  the  respiratory  cycle,  it  opts  against  holding  its breath,  which is  necessary  for  swallowing  during feeding. This deprives  the  child's  respiratory  muscles  of  fuel,  thus  hastening respiratory failure, and is another 'danger sign.' If this continues, diaphragmatic and accessory muscle fatigue set in and respiratory rate and effort fall. This can be clinically misinterpreted as nonsevere  obstruction  rather  than  as  signs  of  decompensation  and impending respiratory failure. As PaCO2 rises, the child may become initially agitated and eventually convulse. As PaO 2 falls  and the child's brain is deprived of oxygen, the child will progress from being 'less active' to 'lethargic' to 'obtunded.' These are terminal signs before complete respiratory failure and death.
+
+============================================================
+CHUNK 8
+============================================================
+CLINICAL FEATURES
+The clinical features of pneumonia follow from the underlying pathophysiology  of  infection,  in|ammation,  and  congestion  in the lower airway. These signs vary with age. 14 The most consistent is tachypnea (fast breathing). This is age-related, and the WHO has established age-speci{c cutoffs accordingly (breaths/minute): age < 2 months ≥ 60/minute, age 2 to 11 months ≥ 50/min, children 12 to 59 months ≥ 40/min. 17 A history and presentation of cough are nearly universal. These two signs, fast breathing and cough, should place pneumonia at the top of the differential diagnosis until systematically proven otherwise. Other clinical features are discussed in the next section.
+
+============================================================
+CHUNK 9
+============================================================
+Clinical Examination Findings
+A thorough history should precede physical examination, emphasizing initial symptom onset, progression of other symptoms, and their duration  before seeking medical care. During the history, the clinician should observe the patient, speci{cally the rate and effort of breathing, cyanosis, level of alertness, and responsiveness to the caregiver. These should be evaluated in the context of the patient's age (the younger they are, the more vulnerable to respiratory failure) and nutritional status (if severe malnutrition is present, hospitalize even if pneumonia signs are not severe). The interview should solicit any history  of convulsions, feeding behavior, and responsiveness to the caregiver.
+A systematic clinical examination should emphasize key organ systems that may be compromised by the underlying pathophysiology. These include (1) the respiratory tract, speci{cally the effort of breathing, the quality of breath sounds, evidence of hypoxia, and the ability to drink or feed; (2) neurologic status, speci{cally level of alertness and responsiveness to external stimuli; and (3) supportive  {ndings  suggestive  of  bacterial  infection,  including temperature, perfusion, and the presence of toxic appearance.
+
+============================================================
+CHUNK 10
+============================================================
+Clinical Examination Findings
+Pneumonia classi{cation has been simpli{ed into two categories: pneumonia with fast breathing and/or chest in-drawing, which can be managed at home on oral amoxicillin, and severe pneumonia, which  includes  any  pneumonia with danger signs  and requires referral with parenteral therapy. 18 Importantly, even fast breathing pneumonia should be considered a serious illness, particularly in children younger than 6 months old and those with severe malnutrition or immune compromise. Pneumonia with fast breathing and/ or chest wall in-drawing is characterized by age-speci{c tachypnea and cough. The child may be irritable or less active than normal but should otherwise be alert and responsive. Auscultation may identify crepitations (short, {ne crackles on inspiration) or reduced breath sounds. The health care provider should time the breath sounds with inspiration to prevent confusion with other adventitious breath sounds, like wheezing (long, high-pitched whistling sounds primarily  on  expiration  originating  in  the  bronchioles).  Lower chest wall in-drawing (not to be confused with intercostal retractions) is the collapse of the lower chest wall during inspiration. This is caused by a sharp decrease in intrathoracic pressure as the child forcibly contracts the diaphragm to overcome lower airway obstruction.  The  external  atmospheric  pressure  subsequently collapses  the  chest  wall,  much  like  the  effect  on  a  paper  straw when one forcibly sucks against resistance. The chest wall of a young child younger than 3 years old is composed of more cartilage than that of an older child, and is thus softer and more collapsible. Chest wall in-drawing is less common in children aged 3 years and older. 19 Severe pneumonia is  characterized  by tachypnea and at least one of the following signs: nasal |aring, grunting (primarily young infants < 24 months), central cyanosis, inability to drink/ feed (or vomiting everything), lethargy or obtundation, convulsions, and other signs of severe respiratory distress such as head nodding and chest-abdominal see-sawing. Again, tachypnea  may  not be present  in  the  later  stages  of  severe  pneumonia  if  the  patient begins to decompensate; however, other danger signs should be present. Regarding auscultation, because of interobserver variation in breath sound interpretation, 20 studies are underway to develop and  standardize  electronic  stethoscopy,
+
+============================================================
+CHUNK 11
+============================================================
+Clinical Examination Findings
+which  may  improve  its sensitivity and speci{city. 21,22
+
+============================================================
+CHUNK 12
+============================================================
+Supportive Clinical Findings
+Hypoxia has prognostic signi{cance. Up to 59% of children admitted to hospital with pneumonia have oxygen saturation < 90% (moderate hypoxia), and severe hypoxia (SPO2) can be as prevalent as 70%. 1 The  risk  of  mortality  is  substantially  increased  (by  up  to  four times) among hypoxic children. Clinical signs for hypoxia are less reliable than pulse oximetry. Pulse oximetry can reduce mortality by up to  35%. Continuous oxygen therapy by nasal prongs or nasal cannula is recommended for all children with moderate or greater hypoxia, as well as those with cyanosis, inability to drink or feed, or respiratory rate > 60/minute.
+
+============================================================
+CHUNK 13
+============================================================
+Laboratory Investigations
+Blood cultures for bacteria are insensitive, typically less than 15%, 1 which is further reduced by prior antibiotic exposure. Recent data indicate  that  antibiotic  exposure  can  decrease  pneumococcal recovery from blood by 45% and induced sputum (IS) by 20%. 23 Nasopharyngeal  swabs  indicate  carriage  but  not  necessarily invasiveness. Outside of intensive care settings, lung aspirates are considered too invasive for routine diagnostics. Currently, there is no gold standard for etiologic diagnosis of bacterial pneumonia; however, a positive blood culture is generally considered diagnostic. Quantitative  reverse  transcriptase  polymerase  chain  reaction (RT-PCR)  has  been  used  to  measure  colonization  density  of nasopharyngeal swabs from the upper respiratory tract. In a recent study, pneumococcal colonization density of > 6.9 log 10 copies/mL was strongly associated with microbiologically con{rmed pneumococcal pneumonia with a 64.3% sensitivity, 92.2% speci{city, and  adjusted  odds  ratio  of  17.9  (95%  CI,  9.9-32.4). 24 Another study demonstrated that a 5.9 log 10 copies/mL density cutoff yielded a sensitivity of 86% and speci{city of 77% for microbiologically con{rmed H. inRuenzae; however, because the colonization densities between  cases  and  controls  overlapped,  the  positive  predictive value was poor ( < 3%). 25 No informative density cutoffs were found for S. aureus, Moraxella catarrhalis, or Pneumocystis jirovecii. Despite interest in IS, 26-28 a multi-site study of children hospitalized with severe pneumonia found it safe 29 but not useful as a routine etiologic diagnostic. 30,31
+
+============================================================
+CHUNK 14
+============================================================
+Chest Roentgenograms (Chest X-Rays)
+Abnormal chest roentgenograms (CXRs) show moderate sensitivity but poor speci{city for bacterial pneumonia. 32 Many children with pneumonia have normal chest radiographs, as CXR {ndings can lag behind clinical presentation. 33 Diagnostic emphasis remains on clinical rather than radiographic {ndings. 14
+
+============================================================
+CHUNK 15
+============================================================
+Miscellaneous Clinical Findings
+Staphylococcal pneumonia is associated with rapid illness progression despite treatment, occasionally with radiographic {ndings of a pneumatocoele, pneumothorax, or pleural effusion. Suggestive {ndings include empyema on CXR, pleural rub on auscultation, and skin pustules or soft tissue infection.
+Tuberculosis (TB) is often a diagnosis of exclusion in the absence of available laboratory support. If children have fever for > 14 days and clinical pneumonia, investigate for TB. If other causes of fever
+cannot be identi{ed, then anti-TB therapy should be considered. If either IS or gastric lavage (GL) samples are collected, a recent head-to-head comparison of single GL and IS showed that GL alone identi{ed a greater proportion of culture-con{rmed TB in children < 5 years presenting with features of severe pneumonia (54.5% for one GL and 58.2% for two GL) than did IS alone (27.3% for one and 16.7% for two samples), although the {ndings were not statistically signi{cant. 11 The authors concluded that a single IS sample underestimated the presence of TB in children hospitalized with severe pneumonia but was enhanced by combining two IS samples with gastric lavage.
+Children  with  HIV  and  pneumonia  have  a  high P.  jirovecii ( previously P. carinii) co-morbidity. This is suggested by hypoxia, respiratory distress, and interstitial in{ltrates on CXR.
+
+============================================================
+CHUNK 16
+============================================================
+Differential Diagnosis
+The signs and symptoms of clinical pneumonia are designed to be maximally sensitive (inclusion of most true pneumonia-positive cases), while sacri{cing speci{city (exclusion of false-positiveschildren without pneumonia) to ensure that most true pneumonia patients receive antimicrobial treatment. Despite regional differences in the prevalence of other diagnoses, common differential syndromes include:
+Reactive airways disease (RAD or asthma), that is, reversible lower airway obstruction, associated with history of cough (particularly at  night),  with  or  without  wheezing  on  auscultation  (long, musical, high-pitched whistling sound on expiration originating in the bronchioles) and can be differentiated from crepitations (short crackling sounds on inspiration associated with pneumonia)  in  the  alveoli.  RAD  may  follow  or  accompany  viral infection, but may be triggered by other causes (e.g., indoor air pollution). Fever is often absent. Cough, particularly nighttime coughing, may be the primary sign. This may be diagnosed by beta agonist challenge, such as a Ventolin nebulizer, followed by a decrease in respiratory rate (by ≥ 5 breaths/minute), effort, and improved oxygen saturation.
+
+============================================================
+CHUNK 17
+============================================================
+Differential Diagnosis
+- Bronchiolitis, usually viral in origin, is commonly caused by respiratory syncytial virus (RSV) but is associated with many respiratory viruses.  It is characterized by  cough, wheezing, and signs of viral infection, notably fever and rhinorrhea. Children tend to be < 2 years of age and may present with {rst-time wheezing. Children may not respond to beta agonist challenge, but young age, fever, and wheezing are strongly suggestive.
+- Tuberculosis (discussed earlier) should also be considered in children who have been successfully treated for pneumonia and then return with subsequent pneumonia diagnoses, as well as in children who do not respond completely to conventional antibiotic therapy, have weight loss, exhibit failure to thrive (failure to appropriately gain weight), or have a known exposure. Sputum for acid-fast bacilli (AFB) is dif{cult to obtain in children, but GL, IS, tuberculous skin testing (e.g., Mantoux), and CXR may all be considered.
+- Malaria may present with many of the same signs as severe pneumonia in high malaria-endemic areas. Pallor (signs of anemia) and hemorrhagic skin lesions favor malaria. 17 Blood smears will identify malaria parasites but may not always be diagnostic. Intervention in these cases should follow local or national guidelines.
+- Foreign body aspiration can  mimic infectious pneumonia and can be identi{ed by patient history if ingestion was observed or suspected by a missing object. Auscultation {ndings can include either crepitations and/or wheezing depending on the location of the foreign body. A CXR can be diagnostic but  does not rule it out, and it often requires bronchoscopic diagnosis.
+- Pertussis is a vaccine-preventable infection that may present with paroxysmal cough followed by a 'whoop' on inhalation. The infection is primarily in the bronchi. Fever may or may not be present.  Other suggestive indicators include  subconjunctival
+
+============================================================
+CHUNK 18
+============================================================
+Differential Diagnosis
+hemorrhages (from extreme Valsalva straining during paroxysms), apnea after the cough, and absence of DPT immunization. Diphtheria is a vaccine-preventable infection that is characterized by fever, a gray membrane in the posterior pharynx, and enlarged cervical lymph nodes-often resulting in a 'bull neck.'
+
+============================================================
+CHUNK 19
+============================================================
+TREATMENT
+Early intervention with appropriate antibiotics is associated with a  36% reduction in pneumonia mortality. 34 Although there  are general guidelines for treatment, 14,17 these should be adjusted to local  antimicrobial  resistance  data.  T reatment  guidelines  for pneumonia in children 2 to 59 months old have been adapted to the current classi{cation of pneumonia by the WHO. 18 These are organized into {ve recommendations and supplant earlier treatment recommendations (Fig. 42.2):
+Recommendation 1: Children with fast breathing pneumonia but no chest in-drawing or danger signs should receive oral amoxicillin at 40 mg/kg/dose twice daily (80 mg/kg/day) for 5 days. In low-HIV-prevalent locations, amoxicillin can be given for 3 days.  This  higher  dose  is  more  effective  than  the  previous lower dose for childhood pneumonia. 35
+
+============================================================
+CHUNK 20
+============================================================
+TREATMENT
+- Recommendation 2: Children with chest in-drawing but no danger signs should receive oral amoxicillin at 40 mg/kg twice daily for 5 days.
+- Recommendation 3: Children with severe pneumonia (pneumonia and  danger  signs)  should  receive  parenteral  ampicillin  or penicillin  and  gentamicin  as  {rst-line  therapy. Ampicillin  is dosed at 50 mg/kg IV every 6 hours for at least 5 days. Benzyl penicillin is dosed at 50,000 units/kg IM/IV every 6 hours for 5 days. Gentamicin is dosed at 7.5 mg/kg IM/IV once daily for 5 days. Ceftriaxone is used as a second-line treatment for children who fail {rst-line therapy (50-75 mg/kg/day IV/IM in a single dose or divided twice daily).
+- Recommendation 4: For HIV-infected or -exposed children with chest in-drawing pneumonia or severe pneumonia, ampicillin (or  penicillin  if  not  available)  plus  gentamicin  is  used  as  a {rst-line regimen. If {rst-line therapy fails or is not available, then administer ceftriaxone alone.
+- Recommendation  5:  For  HIV-infected  or  -exposed  children  2 months to 1 year of age suspected of infection with P. jirovecii pneumonia  (PCP),  empiric  cotrimoxazole  (trimethoprim/ sulfamethoxazole) is  recommended  as  additional  therapy (15-20 mg trimethoprim [TMP]/kg/day orally or IV divided every 6 to 8 hours, for 21 days). Cotrimoxazole is not recommended for PCP in HIV-infected or -exposed children older than 1 year old with chest in-drawing or severe pneumonia.
+- Table  42.1  provides  guidance  for  fast  breathing  and  chest in-drawing pneumonia by weight and age from WHO's revised pneumonia  classi{cation  and  treatment  guideline. 18 Fig.  42.2 contrasts the older and new classi{cation and treatment guidance recommendations for all types of pneumonia.
+
+============================================================
+CHUNK 21
+============================================================
+TREATMENT
+If  the  child  with  severe  pneumonia  does  not  improve  with standard recommended therapy, and staphylococcal pneumonia is suspected, then treat with cloxacillin 50 mg/kg IM/IV every 6 hours and gentamicin 7.5 mg/kg IM/IV once daily until the child improves. Once the child improves, switch to oral cloxacillin or dicloxacillin four times daily for a total course of 3 weeks. 17
+Patients  with  moderate  or  severe  hypoxia  ( ≤ 90%  SPO2  on room air) should be provided continuous supplemental oxygen. 36 Flow rates are  limited  to ≤ 2 L/min by nasal prongs. If  greater oxygenation  is  required,  consider  continuous  positive  airway pressure (CPAP) or intubation in very severe cases.
+Another important support is breastfeeding, which has a strong effect on both pneumonia prevention and case management, and
+- †  Not able to drink, persistent vomiting, convulsions, lethargic or unconscious, stridor in a calm child or severe malnutrition.
+Fig. 42.2 Comparison of previous vs. revised pneumonia classification and treatment of childhood pneumonia. (From WHO. Revised WHO classification and treatment of childhood pneumonia at health facilities: evidence summaries. Geneva: World Health Organization, 2014.)
+
+============================================================
+CHUNK 22
+============================================================
+TREATMENT
+TABLE 42.1 Doses of Amoxicillin for Children 2-59 Months of Age With Pneumonia
+
+iCCM tool for community health workers: no change, Category of Pneumonia = Fast breathing pneumonia. iCCM tool for community health workers: no change, Age/Weight of Child = 2 months up to 12 months (4- < 10 kg) 12 months up to 5 years (10-19 kg). iCCM tool for community health workers: no change, Dosage of Amoxicillin Dispersible Tablets (250 mg) = 1 tab twice a day × 5 days (10 tabs) 2 tabs twice a day × 5 days (20 tabs). IMCI tool for professional health workers at health facilities: revised, Category of Pneumonia = Fast breathing and chest in-drawing pneumonia. IMCI tool for professional health workers at health facilities: revised, Age/Weight of Child = 2 months up to 12 months (4- < 10 kg) 12 months up to 3 years (10- < 14 kg) 3 years up to 5 years (14-19 kg). IMCI tool for professional health workers at health facilities: revised, Dosage of Amoxicillin Dispersible Tablets (250 mg) = 1 tab twice a day × 5 days (10 tabs) 2 tabs twice a day × 5 days (20 tabs) 3 tabs twice a day × 5 days (30 tabs)
+(From WHO. Revised WHO classification and treatment of childhood pneumonia at health facilities: evidence summaries. Geneva: World Health Organization, 2014.)
+is encouraged as part of case management for children up to 12 months of age. 17
+Other supplemental support includes beta agonists for children who are wheezing and antipyretics for fever, although more data are needed for wheezing children who also have pneumonia, as many cases of either asthma or pneumonia may be misclassi{ed using standard WHO diagnostic criteria. 37 Hydration support is important, as both tachypnea and fever increase insensible water loss. 17 Consider  using  oral  rehydration  solution  as  a  hydration choice for children with pneumonia and diarrhea because of its ease of absorption. 38
+
+============================================================
+CHUNK 23
+============================================================
+GOOD CLINICAL PRACTICE
+Once the patient has begun treatment and is stabilized, review with the parent the signs and symptoms of pneumonia and the indications for future clinical referral by illustrating these in the child. Many parents in high-pneumonia-endemic areas are poor at recognizing these signs, 14 and presentation to a clinic provides a  'teachable  moment.' Where  possible,  children  younger  than 6 months of age can be followed up within 24 hours to ensure their condition is not worsening. Advise caregivers to return to the health facility if the child has not improved after 72 hours of therapy, or at any time if their condition worsens.
+
+============================================================
+CHUNK 24
+============================================================
+PREVENTION AND CONTROL
+Hib  vaccine  and  protein-conjugate  pneumococcal  vaccine  may prevent up to 50% of all pneumonia-related child mortality. 39 As of 2016, the Hib vaccine had been introduced into 191 countries. 40 Coverage with three doses worldwide was estimated at 70%, with substantial  variation  by  WHO  region.  Fig.  42.3  shows  which countries have introduced the Hib vaccine. As of December 2016, pneumococcal vaccine had been introduced into 134 countries, with global coverage estimated at 42%. 40 Fig. 42.4 shows global pneumococcal conjugate vaccine distribution.
+
+============================================================
+CHUNK 25
+============================================================
+Countries with Hib vaccine in the national immunization programme
+Fig. 42.3 Global distribution of Hib vaccine as planned for 2018. (Data from WHO/IVB Database, as of January 26, 2018. Map production Immunization Vaccines and Biologicals [IVB World Health Organization].)
+* Includes partial introduction
+Fig. 42.4 Global distribution of pneumococcal conjugate vaccine (PCV) as planned for 2018. (Data from WHO/IVB Database, as of January 26, 2018. Map production Immunization Vaccines and Biologicals [IVB World Health Organization].)
+Studies are underway to determine the ef{cacy and pneumonia disease burden impact of vaccines against RSV and in|uenza virus. Other interventions for which there is preventive evidence include zinc and handwashing. 1,14 Exclusive breastfeeding for the {rst 6 months  of  life  reduces  pneumonia  mortality  by  {vefold,  and continuation of breastfeeding for infants 6 months to 11 months further reduces pneumonia mortality and is encouraged. 14 Finally, although malnutrition has declined between 2000 and 2010 from 26.9% to 21.9% prevalence across all LMIC and has contributed to the decline in pneumonia mortality, 3 its continued substantial prevalence 2 requires  that  long-term  solutions  and  programs  to reduce  pneumonia mortality  should  include  ensuring  adequate nutrition.
+
+============================================================
+CHUNK 26
+============================================================
+REFERENCES
+1.  Scott  JA,  Brooks  WA,  Peiris  JS,  et al.  Pneumonia  research  to reduce  childhood  mortality  in  the  developing  world.  J  Clin  Invest 2008;118(4):1291-300.
+2.  Liu L, Johnson HL, Cousens S, et al. Global, regional, and national causes of child mortality: an updated systematic analysis for 2010 with time trends since 2000. Lancet 2012;379(9832):2151-61.
+3.  Rudan I, O'Brien KL, Nair H, et al. Epidemiology and etiology of childhood pneumonia in 2010: estimates of incidence, severe morbidity, mortality,  underlying  risk  factors  and  causative  pathogens  for  192 countries. J Glob Health 2013;3(1):010401.
+4.  Rudan I, Boschi-Pinto C, Biloglav Z, et al. Epidemiology and etiology of childhood pneumonia. Bull World Health Organ 2008;86(5): 408-16.
+5.  McCullers JA. Insights into the interaction between in|uenza virus and pneumococcus. Clin Microbiol Rev 2006;19(3):571-82.
+6.  Madhi SA, Klugman KP. A role for Streptococcus pneumoniae in virusassociated pneumonia. Nat Med 2004;10(8):811-13.
+7.  Theodoratou E, Johnson S, Jhass A, et al. The effect of Haemophilus inRuenzae type b and pneumococcal conjugate vaccines on childhood pneumonia incidence, severe morbidity and mortality. Int J Epidemiol 2010;39(Suppl. 1):i172-85.
+8.  O'Brien  KL, Wolfson  LJ, Watt  JP ,  et al.  Burden  of  disease  caused by Streptococcus pneumoniae in children younger than 5 years: global estimates. Lancet 2009;374(9693):893-902.
+9.  Watt JP , Wolfson LJ, O'Brien KL, et al. Burden of disease caused by Haemophilus inRuenzae type b in children younger than 5 years: global estimates. Lancet 2009;374(9693):903-11.
+
+============================================================
+CHUNK 27
+============================================================
+REFERENCES
+10.  Bénet T, Sánchez Picot V , Messaoudi M, et al. Microorganisms associated with pneumonia in children < 5 years of age in developing and emerging countries: the GABRIEL pneumonia multicenter, prospective, case-control study. Clin Infect Dis 2017;65(4):604-12.
+11.  Moore DP, Higdon MM, Hammitt LL, et al. The incremental value of  repeated  induced  sputum  and  gastric  aspirate  samples  for  the diagnosis  of  pulmonary  tuberculosis  in  young  children  with  acute community-acquired pneumonia.  Clin  Infect  Dis 2017;64(suppl_3) :S309-16.
+12.  Levine  OS,  O'Brien  KL,  Deloria-Knoll  M,  et al.  The  pneumonia etiology research for child health project: a 21st century childhood pneumonia etiology study. Clin Infect Dis 2012;54(Suppl. 2):S93-101.
+13.  McCullers JA, Bartmess KC. Role of neuraminidase in lethal synergism between in|uenza virus and Streptococcus pneumoniae. J Infect Dis 2003;187(6):1000-9.
+14.  UNICEF/WHO.  Pneumonia:  the  forgotten  killer  of  children.  In: Wardlaw T, Johansson EW, Hodge M, editors. The United Nations Children's  Fund  (UNICEF)/World  Health  Organization  (WHO). New York: Geneva; 2006. p. 1-44.
+15.  Davis GM, Bureau MA. Pulmonary and chest wall mechanics in the control of respiration in the newborn. Clin Perinatol 1987;14(3):551-79.
+16.  Knelson JH, Howatt WF, DeMuth GR. The physiologic signi{cance of grunting respiration. Pediatrics 1969;44(3):393-400.
+17.  World Health Organization/UNICEF. Management of the child with a serious infection or severe malnutrition: guidelines for care at the {rst-referral level in developing countries. Department of Child and Adolescent Health and Development, World Health Organization; 2000.
+
+============================================================
+CHUNK 28
+============================================================
+REFERENCES
+18.  WHO.  Revised  WHO  classi{cation  and  treatment  of  childhood pneumonia  at  health  facilities:  evidence  summaries.  World  Health Organization: Department of Maternal, Newborn, Child and Adolescent Health (MCA); Geneva; 2014.
+19.  Harari M, Shann F, Spooner V, et al. Clinical signs of pneumonia in children. Lancet 1991;338(8772):928-30.
+20.  Gjlrup T , Bugge PM, Jensen AM. Interobserver variation in assessment of respiratory signs. Physicians' guesses as to interobserver variation. Acta Med Scand 1984;216(1):61-6.
+21.  Grenier MC, Gagnon K, Genest J Jr, et al. Clinical comparison of acoustic and electronic stethoscopes and design of a new electronic stethoscope. Am J Cardiol 1998;81(5):653-6.
+22.  McCollum ED, Park DE, Watson NL, et al. Listening panel agreement and characteristics of lung sounds digitally recorded from children aged 1-59 months enrolled in the Pneumonia Etiology Research for Child Health (PERCH) case-control study. BMJ Open Respir Res 2017;4(1):e000193.
+23.  Driscoll AJ, Deloria Knoll M, Hammitt LL, et al. The effect of antibiotic exposure and specimen volume on the detection of bacterial pathogens in children with pneumonia. Clin Infect Dis 2017;64(suppl_3):S368-77.
+24.  Baggett HC, Watson NL, Deloria Knoll M, et al. Density of upper respiratory colonization with Streptococcus pneumoniae and its role in the diagnosis of pneumococcal pneumonia among children aged < 5 years in the PERCH study. Clin Infect Dis 2017;64(suppl_3):S317-27.
+25.  Park  DE,  Baggett  HC,  Howie  SRC, et al.  Colonization density  of the upper respiratory tract as a predictor of pneumoniaHaemophilus inRuenzae, Moraxella catarrhalis, Staphylococcus aureus, and Pneumocystis jirovecii . Clin Infect Dis 2017;64(suppl_3):S328-36.
+
+============================================================
+CHUNK 29
+============================================================
+REFERENCES
+26.  T waddell  SH,  Gibson  PG,  Carty  K,  et al.  Assessment  of  airway in|ammation in children with acute asthma using induced sputum. Eur Respir J 1996;9(10):2104-8.
+27.  Utsunomiya Y, Ahmed K, Rikitomi N, et al. Isolation of pathogenic bacteria  from  induced  sputum  from  hospitalized  children  with pneumonia in Bangladesh. J Trop Pediatr 1998;44(6):338-42.
+28.  Wilson NM, Bridge P , Spanevello A, et al. Induced sputum in children: feasibility,  repeatability, and relation of  {ndings  to  asthma  severity. Thorax 2000;55(9):768-74.
+29.  DeLuca AN, Hammitt LL, Kim J, et al. Safety of induced sputum collection in children hospitalized with severe or very severe pneumonia. Clin Infect Dis 2017;64(suppl_3):S301-8.
+30.  Murdoch DR, Morpeth SC, Hammitt LL, et al. The diagnostic utility of induced sputum microscopy and culture in childhood pneumonia. Clin Infect Dis 2017;64(suppl_3):S280-8.
+31.  Thea DM, Seidenberg P , Park DE, et al. Limited utility of polymerase chain reaction in induced sputum specimens for determining the causes of childhood pneumonia in resource-poor settings: {ndings from the Pneumonia Etiology Research for Child Health (PERCH) study. Clin Infect Dis 2017;64(suppl_3):S289-300.
+32.  Ferrero F, T orres F, Noguerol E, et al. Evaluation of two standardized  methods  for chest radiographs interpretation in children with pneumonia. Arch Argent Pediatr 2008;106(6):510-14.
+33.  Redd SC, Patrick E, Vreuls R, et al. Comparison of the clinical and radiographic diagnosis of paediatric pneumonia. Trans R Soc Trop Med Hyg 1994;88(3):307-10.
+
+============================================================
+CHUNK 30
+============================================================
+REFERENCES
+34.  Sazawal  S,  Black  RE.  Effect  of  pneumonia  case  management  on mortality in neonates, infants, and preschool children: a meta-analysis of community-based trials. Lancet Infect Dis 2003;3(9):547-56.
+35.  Lieberthal AS, Carroll AE, Chonmaitree T, et al. The diagnosis and management of acute otitis media. Pediatrics 2013;131(3):e964-99.
+36.  Subhi R, Adamson M, Campbell H, et al. The prevalence of hypoxaemia among ill children in developing countries: a systematic review. Lancet
+37. Infect Dis 2009;9(4):219-27.
+37.  Lanata CF , Rudan I, Boschi-Pinto C, et al. Methodological and quality issues in epidemiological studies of acute lower respiratory infections in children in developing countries. Int J Epidemiol 2004;33(6):1362-72.
+38.  UNICEF/WHO. WHO/UNICEF joint statement: clinical management of acute diarrhoea. The United Nations Childrens Fund/World Health Organization; 2004. p. 1-8.
+39.  Madhi SA, Levine OS, Hajjeh R, et al. Vaccines to prevent pneumonia and improve child survival. Bull World Health Organ 2008;86(5):365-72.
+40.  WHO. Immunisation coverage.  16 July  2018. http://www.who.int/ mediacentre/factsheets/fs378/en/.
+

@@ -1,0 +1,107 @@
+============================================================
+CHUNK 0
+============================================================
+Febrile Systemic Syndromes With or Without Lymphadenopathy SECTION G
+66
+
+============================================================
+CHUNK 1
+============================================================
+Epidemic Louse-Borne Typhus
+Pierre-Edouard Fournier, Didier Raoult
+
+============================================================
+CHUNK 2
+============================================================
+KEY FEATURES
+- Rickettsia prowazekii.
+- affects impoverished or displaced people in cold-weather conditions.
+- with headache and myalgia. Neurologic manifestations, rash, vasculitis, and gangrene of extremities can occur. In untreated cases, mortality is high.
+- especially in the right epidemiologic situation. Serology is available.
+- involves a single 200-mg dose or short course of doxycycline.
+- BrillZinsser disease.
+- exanthematic typhus, historical typhus, and jail fever.
+- individuals and populations and providing hygienic conditions.
+
+============================================================
+CHUNK 3
+============================================================
+INTRODUCTION
+Epidemic typhus is transmitted by human body lice from infected patients (during acute infection or relapse) to naïve people. It is one  of  the  major  threats  to  public  health  during  civil  unrest, displacement, and war. T yphus has probably caused more deaths than  wars  in  the  history  of  humanity;  it  remains  a  permanent public  health  problem,  as  poor  sanitary  conditions  can  lead  to epidemic outbreaks, such as in Burundi in 1997. 1
+Epidemic typhus may have been the cause of the Athens plague described by Thucydides, but it may also have been typhoid fever. The {rst account of typhus may have been recorded during the civil wars of Grenada from 1489 to 1490. In 1739 Huxham made the {rst distinction between typhus and typhoid; in 1760, Boissier de Sauvage quoted the name 'typhus,' which is Greek for 'smoky/ cloudy,' and refers to the mental status changes associated with typhus. 'T yphoid' was an illness that had many features of typhus, but was distinct. In 1909 Charles Nicolle showed the role of body lice in the transmission of epidemic typhus; in 1910, Brill described the recrudescent form; {nally, in 1916, da Rocha Lima described the bacterium and named it Rickettsia prowazekii in  honor  of  Ricketts and von Prowazek, two previous researchers who both died of typhus. 2
+
+============================================================
+CHUNK 4
+============================================================
+EPIDEMIOLOGY
+Epidemic typhus has been traditionally associated with wars and other catastrophic conditions that lead to poor sanitary conditions with  lice  infestation.  It  has  been  described  as  a  disease  of  the highlands,  cold  areas,  poverty,  imprisonment,  and  civil  unrest, when people are forced to repetitively wear the same clothing, often in crowded and unhygienic conditions; however, epidemic typhus  has  a  potentially  worldwide  distribution.  Incidence  of epidemic  typhus  is  highest  in  colder  months  (it  mainly  occurs during the winter and spring). Men and women are equally affected. 3 Brill-Zinsser disease (the relapsing form of the disease) can occur up to 40 years after primary infection under stress conditions or in immunocompromised hosts. Sylvatic forms associated with |ying squirrels and the presence of R. prowazekii in  ticks  suggest that reservoirs and transmission dynamics of R. prowazekii are  more complex than previously described. 4
+In 1997, a large outbreak of typhus was reported in Burundi during the civil war; 100,000 people were estimated to be infected, and the case fatality rate was 15%. 1 Small outbreaks and sporadic cases have also been reported in different regions of the world since 1997, including Russia, Peru, Northern Africa, the United States, and France (Fig. 66.1). This highlights the persistent threat of  epidemic typhus. Eradication of epidemic typhus appears to be dif{cult because of possible recrudescence of R. prowazekii in infested  people,  which  is  associated  with  Brill-Zinsser  disease, and the unknown contribution of non-human reservoirs.
+
+============================================================
+CHUNK 5
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+In  1909  Charles  Nicolle  observed  the  role  of  the  body  louse Pediculus humanus subsp. corporis (or P. humanus subsp. humanus ) in  the  transmission  of  epidemic  typhus.  Lice  become  infected when feeding on the blood of a bacteremic patient. Transmission between human hosts is associated with close  human  contacts; primary infection occurs when R. prowazekii is transmitted from the vector to the host, not by louse bites, but by contamination of bite sites, scratching lesions, conjunctivae, and mucous membranes (including the respiratory tract) with the infectious feces or crushed bodies of infected lice. These infested aerosols constitute a source of infection of typhus for clinicians in contact with liceinfested patients. In the case of Brill-Zinsser disease, recrudescent infection of the human host is associated with bacteremia; if louse infestation  of the  patient  occurs  at  the  same  time, lice become infected through host feeding, and if appropriate conditions exist, an outbreak can occur. 3
+It was previously thought that humans were the only reservoir of R. prowazekii and human body lice the only vectors. But since the  1950s,  speci{c  antibodies  have  been  detected  in,  and  the bacterium isolated from, several domestic and wild animals. Ticks might be a  reservoir  for R.  prowazekii, as Amblyomma spp.  and Hyalomma spp. were found to be infected in Mexico and Ethiopia, respectively. 3 Of  particular  interest  is  the  reservoir  formed  by |ying  squirrels  ( Glaucomys  volans ).  Reported  cases  of  epidemic typhus in the  United  States  have  been  associated  with  contact with |ying squirrels. 4 The role of animal reservoirs in the global burden of typhus is currently not well de{ned. After entering the body of an infected  human, the bacteria spread through blood and lymph, then they infect endothelial cells of the small capillaries. Rickettsial infection leads to endothelial damage, which is associated
+Fig. 66.1 Cases of epidemic typhus reported in the world since 1997.
+
+============================================================
+CHUNK 6
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+with widespread vasculitis; the clinical signs and symptoms relate to the affected organs. Endothelial injury can also lead to micro- and macroscopic foci of hemorrhages. Vasculitis can also be associated with  thrombi  in  small  vessels  and  surrounding  in|ammatory in{ltrates. These correspond to typhus nodules and may occur focally throughout the central nervous system (CNS); these lesions explain the neurologic features commonly associated with epidemic typhus. 3 The vasculitis of R. prowazekii infection  is  generalized, and thus any organ may be involved.
+
+============================================================
+CHUNK 7
+============================================================
+CLINICAL FEATURES
+Clinical features of epidemic typhus are non-speci{c and consequently not easy to differentiate from other infectious processes. The incubation period is usually 10 to  14  days, but may be  as short as 6 days. A prodromal malaise may pre-date the onset of fever by 1 to 3 days. Onset of typhus is usually abrupt and manifested by fever (which continues until death or recovery), severe headaches, severe myalgias, abdominal pain, arthralgias, malaise, anorexia, chills, photophobia, and non-productive cough. Facial |ushing  and  conjunctival  suffusion  can  occur,  as  can  nausea, Burundi, 1 a crouching attitude named sutama was reported, caused by myalgia and severe fatigue.
+In untreated cases, as the illness progresses, neurologic manifestations become more common. In up to 80% of untreated cases, CNS manifestations, such as delirium that interrupts stupor, coma, seizures, and hearing loss, can occur. Rash is often present, although dif{cult to discern in individuals with dark skin. The rash is initially non-con|uent, with erythematous and blanching areas; macules, petechiae, and purpura can occur. It begins on the trunk and the axilla and may spread centrifugally. It is not found on the face, palms,  or  soles,  except  in  severely ill  patients.  In  mild  cases,  it may fade in 1 or 2 days. Cough is reported in 38% to 70% of patients.  Primary pulmonary involvement, as well as secondary bacterial pneumonia, can occur during epidemic typhus. In severe cases,  symptoms  secondary  to  vasculitis  can  provoke  cerebral thrombosis, gangrene (which can require amputation), multiple organ dysfunction, shock, and death. 3
+Before the development of antimicrobial treatment, mortality could  reach  60%.  With  appropriate  antibiotics,  mortality  of approximately  4%  is  now  common. Severity is  associated  with malnutrition and advanced age.
+Brill-Zinsser  disease  usually  occurs  with  advancing  age  and waning  immunity.  Cases  are  sporadic  and  unrelated  to  recent louse  infestation.  Compared  with  acute  infection,  Brill-Zinsser disease  is  shorter  and  its  clinical  features  are  usually  mild, although  fatal  cases  can  occur.  Rashes  are  reported  to  be  less frequent.
+
+============================================================
+CHUNK 8
+============================================================
+CLINICAL FEATURES
+Cases of typhus related to |ying squirrels are sporadic. These cases may clinically present as meningitis. This form of typhus is poorly understood.
+
+============================================================
+CHUNK 9
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Clinical diagnosis of sporadic cases is dif{cult, although clinically diagnosing  a  compatible  case  during  a  known  epidemic  is  less uncertain. T aken in isolation, differentiating the clinical signs of typhus from those of other infections is not easy. This underscores the importance of obtaining a thorough history of animal and lice or arthropod contact in patients with acute febrile illness. However, a cluster of sudden onset of severe pyrexia among louse-infested people living in cold, crowded, and unhygienic conditions should immediately  alert  the  clinician  to  possible  typhus.  Any  severe outbreak of unexplained fever in unhygienic environments should also evoke consideration of epidemic typhus.
+The main differential diagnoses that should be ruled out when considering louse-borne typhus are typhoid (these diagnoses have been  clinically  confused  for  centuries),  murine  typhus,  other rickettsioses, malaria, and hemorrhagic fevers. Finally, lice transmit three diseases that must be suspected in case of fever in louseinfested patients as they can occur simultaneously 1 : relapsing fever, trench fever, and epidemic typhus. The fever pattern in epidemic typhus is daily or continuous, whereas in the other two entities it is often more cyclical.
+Laboratory {ndings during epidemic typhus include thrombocytopenia (40% of cases), increased hepatic transaminase activity (up to 60%, although jaundice is rare), hyperbilirubinemia (20%), and increased blood urea nitrogen concentrations (31%). Oliguria and proteinuria are common. In the early phase, leukopenia can be observed.
+
+============================================================
+CHUNK 10
+============================================================
+BOX 66.1 Pediatric Considerations
+The standard treatment regimen for children is a single 100-mg doxycycline dose. Any suspected case should be treated immediately. A single dose or short course of doxycycline in young children poses only a small risk of teeth staining, and that risk needs to be weighed against the high mortality associated with advanced disease. No particular clinical or epidemiologic feature distinguishes epidemic typhus in children from that in adults.
+The reference method for diagnosis is serologic testing using an  indirect  immuno|uorescence  assay.  Fresh  blood,  as  well  as blood  dried  on  blotting  paper,  can  be  used.  Both  acute-  and convalescent-phase serum should be assayed. However, there is cross-reactivity mainly with R. typhi. Western blotting with crossadsorption is required to differentiate between these typhus group Rickettsia and to diagnose epidemic typhus rather than endemic typhus. It is also dif{cult to differentiate between primary infection and Brill-Zinsser disease solely based on serologic results. Usually in  Brill-Zinsser disease, no speci{c IgM are recovered, but the diagnosis cannot solely be based on this feature. 3
+Cell culture can be used to isolate R. prowazekii from samples, but this approach is not clinically practical and requires Biosafety Level-3 laboratories with an experienced staff. Molecular detection of R. prowazekii has been developed and is becoming increasingly clinically useful. Real-time polymerase chain reaction assays are especially useful, because they are rapid, sensitive, and speci{c. 5 Molecular detection can be performed on several types of human samples (blood, skin biopsy, etc.) and also on lice (which can be sent dry or in alcohol). The latter approach can be particularly helpful in cases of possible typhus outbreaks because detection of R. prowazekii is pathogenic for lice and provokes rapid death of lice; an active and extensive outbreak).
+
+============================================================
+CHUNK 11
+============================================================
+TREATMENT
+The treatment of typhus is safe, easy, and inexpensive. A single dose of 200 mg of orally administered doxycycline will usually cure patients. 6 Early administration must be prescribed in any suspected case without waiting for laboratory con{rmation. The absence of clinical response within 2 to 3 days of treatment strongly argues against louse-borne typhus. A 5-day therapy or a therapy lasting for 2 to 4 days after defervescence is often administered to preclude relapses. For Brill-Zinsser disease, doxycycline is also the recommended treatment. A single dose or short course of doxycycline in young children poses only a small risk of teeth staining, but that risk needs to be weighed against high mortality associated with advanced  disease (Box 66.1). If an alternative is required, can be used intravenously or intramuscularly in case of clinical severity or if the oral course is impossible. Cipro|oxacin should be avoided; indeed a patient misdiagnosed as having typhoid died from typhus after this treatment, in spite of its in vitro ef{ciency.
+In association with antibiotic treatment, de-lousing is a critical control measure, but quarantine is not necessary. Eradication of lice can be performed with an insecticide (by washing clothing and bedding with soap containing 7% dichlorodiphenyltrichloro  ethane and then ironed; if the previous measures are not possible, clothes must be removed and left unworn for a week, as lice die 5 days after being deprived of blood. Effective prevention also requires the application of basic hygiene and sanitary conditions. Nevertheless, it must be highlighted that de-lousing is not suf{cient for eradication of epidemic typhus, because infected individuals retain R. prowazekii for the rest of their lives and can therefore initiate new outbreaks if a bacteremia concomitant to lice infestation occurs.
+
+============================================================
+CHUNK 12
+============================================================
+TREATMENT
+When dealing with control at a population level, a preferred method is the blowing of insecticidal powder between humans and  their  underclothes,  following  World  Health  Organization (WHO) recommendations. For example, talcum powder can be Application can be performed with any kind of dusting apparatus or by hand; 30 to 50 g of dust per person is usually needed and is blown through neck openings; up the sleeves; from all sides of the loosened waist; and into socks, headwear, and bedding. Usually one treatment is suf{cient, but re-treatment may be required if infestation persists. 7 -pected case.
+Vaccines against epidemic typhus have existed since 1920. The attenuated strain R. prowazekii Madrid E has been used as a vaccine; however,  the  limited  market  for  a  vaccine  and  the  ef{cacy  of antibiotic  treatment  and  other  control  strategies  have  limited vaccine development and usage. There is currently no commercially available vaccine for epidemic typhus.
+
+============================================================
+CHUNK 13
+============================================================
+REFERENCES
+- epidemic  typhus  associated  with  trench  fever  in  Burundi.  Lancet 1998;352:353-8.
+- Microbiol Spectrum 2016;4(4):PoH-0010-2015.
+- typhus fever with chloramphenicol, tetracycline or doxycycline. East
+- epidemic louse-borne typhus. https://ecdc.europa.eu/en/epidemic -louse-borne-typhus/facts.
+

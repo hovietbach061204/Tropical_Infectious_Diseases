@@ -1,0 +1,75 @@
+============================================================
+CHUNK 0
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+- Coenuriasis is a common zoonosis with rare human infections
+- In humans, infection is caused by the larval stage of the cestode Taenia ( Multiceps ) species
+- Generally a single space-occupying lesion is found subcutaneously, ocularly, or in the CNS
+- The coenurus is a thin-walled cyst #lled with clear $uid with small scoleces attached to the cyst wall
+- Treatment is usually surgical excision combined with antiparasitic medication
+
+============================================================
+CHUNK 1
+============================================================
+INTRODUCTION
+Coenuriasis is a zoonotic disease of humans caused by infection with the  larval  stage  of  the  cestode  parasite, Taenia ( Multiceps )  species, including T. multiceps , T. serialis , T. brauni , and T. glomerata .
+
+============================================================
+CHUNK 2
+============================================================
+EPIDEMIOLOGY
+Taenia ( Multiceps ) multiceps has a wide distribution in temperate areas, where it usually circulates in a cycle between dogs and herbivorous mammals, including sheep, goats, cattle, and horses. Coenuri infect the brain and spinal cord of the intermediate host and cause a disease of sheep known as gid or staggers . Human neurocoenuriasis is rare but has been reported from the US, England, France, Africa, the Middle East, and Brazil [1,2].
+Taenia ( Multiceps ) serialis is also a parasite of temperate areas with wide distribution. Coenuri are usually found in intermuscular connective tissue of lagomorphs and rodents, including the rabbit, squirrel, and nutria. T.  serialis is  rare  in humans and has been found in Canada, the US, France, the Middle East, and Africa.
+Taenia ( Multiceps ) brauni is a tropical tapeworm of eastern Africa with a sylvatic life cycle, including the dog, fox, jackal, and genet as definitive hosts and rodents such as the swamp rat, porcupine, and gerbil as intermediate hosts. The coenuri infect subcutaneous tissue of the intermediate hosts. There are fewer than 100 reports of T.  brauni in humans.
+Taenia ( Multiceps ) glomeratus has been found in subcutaneous tissue of humans in Nigeria.
+Adult tapeworms are found in the small intestines of canids, usually dogs. These definitive hosts pass gravid proglottids at defecation. The proglottids  eventually  disintegrate  to  free  the  eggs,  which  disperse throughout the environment. When ingested by intermediate hosts, susceptible herbivores or humans, the oncospheres penetrate the wall of  the  small  intestine  and  travel  through  the  bloodstream  to  solid organs. There they develop into coenuri in the subcutaneous tissues, muscles, and central nervous system [3].
+
+============================================================
+CHUNK 3
+============================================================
+EPIDEMIOLOGY
+The coenurus has a thin wall surrounding a single cavity that contains a clear fluid. Numerous scoleces 3 mm in diameter attach to the cyst wall, and unlike the unilocular hydatid cyst of E. granulosus , no brood capsules are found (Fig. 132.1). Each scolex has four circular suckers and two rows of  hooks  on  a  rostellum.  There  are  large  and  small hooks. The hook lengths for T. multiceps are 150 to 170 μ m and 90 to 130 μ m; those for T. serialis are 135 to 175 μ m and 68 to 120 μ m; those for T. brauni are 95 to 140 μ m and 70 to 90 μ m; and those for T. glomeratus are 90 to 100 μ m and 65 to 70 μ m (Fig. 132.2) [2].
+
+============================================================
+CHUNK 4
+============================================================
+CLINICAL FEATURES
+Patients  with  coenuriasis  usually  have  a  space-occupying  lesion caused by a single cyst 2 to 6 cm in diameter. However, cysts up to 10 cm in diameter have been reported [4]. Neural coenuri have been found in the cerebrum, leptomeninges, ventricles, posterior horn of the lateral ventricle, brainstem, and spinal cord and among the cranial nerves. The clinical manifestations of neurocoenuriasis are similar to those of neurocysticercosis. In cerebral cases these include headache, vomiting, papilledema, meningeal symptoms, and seizures, as well as focal neurologic deficits [1].
+Subcutaneous coenuri are found in the intercostal region and anterior abdominal wall. They have also been reported in the breast, axilla, lumbar spine, peritoneal cavity, and extremities. These cysts resemble a  lipoma,  ganglion,  or  neurofibroma.  Ocular  coenuri  have  been recorded in the vitreous, anterior chamber, and conjunctiva [5].
+
+============================================================
+CHUNK 5
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Space-occupying lesions in the deep organs are visualized with x-ray, radioisotopic scans, ultrasonography, or more commonly with computed  tomography  (CT)  scans  and  magnetic  resonance  imaging (MRI). On CT scans, cysts are seen as a lucent area surrounded by a contrast-enhancing rim (Fig. 132.3). Older, sterile lesions appear calcified on CT. On MRI, cyst fluid resembles cerebrospinal fluid, appearing dark in T1-weighted images and bright in T2-weighted images [3].
+Subcutaneous coenuri can be palpated,  and  ocular  coenuri can  be observed by ophthalmologic examination.
+FIGURE 132.1 Macroscopic view of the inner cyst. The arrows show the clusters  of  protoscolices  attached  to  the  inner  surface. Reproduced  with permission  from  Beni0a  M,  Barrelly  R,  Shelef  I,  et  al.  Huge  hemispheric  intraparenchymal  cystcaused by  Taenia  multiceps  in  a  child.  J  Neurosurg  2007;107: 511-14.
+neck
+FIGURE 132.2 Photomicrograph of a coenuris protoscolix. Main anatomical details  shown  and  labeled  are  the  neck,  hooklets,  and  two  of  the  four suction  cups. Reproduced with  permission  from  Beni0a  M,  Barrelly  R,  Shelef  I, et  al.  Huge  hemispheric  intraparenchymal  cystcaused  by  Taenia  multiceps in  a child. J Neurosurg 2007;107:511-14.
+FIGURE 132.3 CT scans of the head before (A) and after (B) contrast, showing a cyst in the right frontal lobe. Note enhanced cyst rim in post-contrast .gure. Reproduced with permission from Pau A, Turtas S, Brambilla M, et al. Computed tomography and magnetic resonance imaging of cerebral coenurosis. Surg Neurol 1987;27:548-52.
+
+============================================================
+CHUNK 6
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Definitive diagnosis generally rests on surgical excision followed by microscopic  identification,  as  described  in  the  pathology  section. Diagnosis has also been made after fine needle aspiration followed by microscopy. Serology has been used to rule out the more common, Taenia  solium and Echinococcus  granulosus infections;  however,  falsepositive results for T. solium or E. granulosus can occur. PCR has also been used in research settings to identify and differentiate between T. muliceps and T. serialis [1].
+
+============================================================
+CHUNK 7
+============================================================
+TREATMENT
+Surgical excision is the usual treatment, although both praziquantel and  albendazole  are  likely  to  be  effective,  as  in  the  treatment  of cysticercosis.  Patients  are  treated  with  a  combination  of  surgical intervention and antiparasitics [1, 4]. Praziquantel can lead to toxic endophthalmitis  and  loss  of  vision  in  intraocular  coenurosis  and inflammation in other parts of the body.
+The best treatment of an intravitreal cestode cystic larva is its removal through a closed vitrectomy [5].
+Preventive measures include hygienic practices to reduce contact with dogs and to break the transmission of eggs from dog feces to humans. Elimination of adult worms with praziquantel or niclosamide reduces environmental contamination with eggs. Experimental vaccination of sheep has proven successful and could lead to a halt in the life cycle of T. multiceps [6].
+
+============================================================
+CHUNK 8
+============================================================
+REFERENCES
+1.  Ing M, Schantz P, Turner J. Human coenurosis in North America: case reports and review. Clin Infect Dis 1998;27:519-23.
+2.  Templeton  AC.  Anatomical  and  geographical  location  of  human  coenurus infection. Trop Geogr Med 1971;23:105-8.
+3.  Pau A, Turtas S, Brambilla M, et al. Computed tomography and magnetic resonance imaging of cerebral coenurosis. Surg Neurol 1987;27:548-52.
+4.  Benifla M, Barrelly R, Shelef I, et al. Huge hemispheric intraparenchymal cyst caused by Taenia multiceps in a child. J Neurosurg 2007;107:511-14.
+5.  Ibechukwu BI, Onwukeme KB. Intraocular coenurosis: a case report. Br J Ophthalmol 1991;75:430-1.
+6.  Varcasia A, Tosciri G, Sanna Coccone GN, et al. Preliminary field trial of a vaccine against coenurosis caused by Taenia multiceps . Vet Parasit 2009;162:285-9.
+

@@ -1,0 +1,317 @@
+============================================================
+CHUNK 0
+============================================================
+89
+
+============================================================
+CHUNK 1
+============================================================
+Key features
+- Entamoeba histolytica , the cause of amebiasis, is microscopically indistinguishable from Entamoeba dispar and Entamoeba moshkovskii , which are non-pathogenic parasites. Di$erentiation requires stool antigen detection or PCR
+- Infections with E. histolytica may be asymptomatic or cause intestinal or extraintestinal amebiasis
+- Clinical suspicion of amebic liver abscess can be con%rmed by a positive amebic serologic test in conjunction with positive results of a sonographic or radiologic imaging procedure, followed by a response to speci%c therapy
+- Nitroimidazoles, in particular metronidazole or tinidazole, are the mainstay of therapy for invasive amebiasis
+- Nitroimidazole treatment should be followed with a luminal agent to cure intestinal infection
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+Entamoeba histolytica is a protozoan parasite that accounts for an estimated  100,000  annual  deaths  globally  [1].  Infection  ranges  from asymptomatic colonization of the large bowel to invasive intestinal and extra-intestinal disease, particularly liver abscess. Fedor Losch is first credited with identifying motile amebae in the stool of a patient with dysentery in 1875; however, an association between dysentery and liver disease goes back to Hippocrates. Diagnosis conventionally involves microscopic demonstration of the parasite; however, this is neither sensitive nor specific. Treatment is effective with metronidazole or tinidazole.
+
+============================================================
+CHUNK 3
+============================================================
+EPIDEMIOLOGY
+Entamoeba histolytica has a worldwide distribution but is more prevalent in tropical areas.  Early  microscopic  surveys  are confounded by the re-description of E. histolytica into two species: E. histolytica , which is  pathogenic, and Entamoeba dispar ,  which is not, but is ~10 times more common [1]. Further molecular studies have identified a third species, Entamoeba moshkovskii , which also tends to be non-pathogenic [2]. Microscopy cannot distinguish E. histolytica cysts or trophozoites from E. dispar or E. moshkovskii , thus previous studies on E. histolytica prevalence based on microscopy are likely flawed. Serologic studies are more reliable as E. histolytica generates a serum antibody response while E. dispar and E. moshkovskii do not. A large survey from Mexico showed that 8.4% of persons have been exposed [3]. In Dhaka, Bangladesh, an E. histolytica -specific fecal antigen assay revealed infection in  80%  of  preschool  children  over  the  course  of  4  years,  with  an
+
+============================================================
+CHUNK 4
+============================================================
+Eric Houpt, Chien-Ching Hung
+incidence of diarrhea and dysentery of 0.09 and 0.03 per child-year respectively [4]. There is little gender variation in amebiasis in children;  however,  in  the  adult  population,  invasive  disease  is  more common in males than females, particularly for liver abscess, but also for colitis, with an overall male-to-female ratio between 3 and 10  :  1 [5]. In central Vietnam, the incidence of amebic liver abscess peaks at 125/100,000 in 40-year-old adult males [6]. Epidemiology on incidence of amebiasis in Africa is particularly limited, but appears widespread [7].
+In developed countries, most cases are imported and high-risk populations  include  returned  travelers,  expatriates,  and  immigrants.  The GeoSentinel network revealed 120/1000 (2.5% of all reported acute diarrhea) returning travelers presenting with diarrhea had amebiasis [8]. Approximately 5% of immigrants to the USA from Africa may have E. histolytica/E. dispar/E. moshkovskii in their stools [9]. Studies in the 1980s revealed that men who have sex with men (MSM) were at high risk of intestinal infection with E. dispar [10]. However, recent studies from Taiwan,  Japan,  Korea, and Australia  have shown  high rates of invasive E. histolytica infection in HIV-infected MSM [1 1]. The reasons for this are unclear, as globally and in sub-Saharan Africa it has not been appreciated that HIV-positive persons are more susceptible to amebiasis.
+Although animal reservoirs of E.  histolytica and E.  dispar have  been described, they are not thought to play a major role in transmission. Human-to-human and fecal-oral transmission are the major sources of human infections. Persons of all ages are susceptible to infection. Females are as likely to be infected as males, but invasive disease is more common in males [5].
+
+============================================================
+CHUNK 5
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Motile  trophozoites  passed  with  diarrheal  or  dysenteric  stools  can survive  only  briefly  outside  the  body  and  are  destroyed  by  gastric secretions, and therefore have no role in transmission.
+Cysts  are  relatively  hardy  and  can  survive  outside  the  body  long enough to be ingested. They are sensitive to desiccation and to temperatures of > 40°C and < 5°C and are killed almost immediately by boiling. They are moderately resistant to chlorine, not being destroyed by  concentrations  usually  used  for  water  purification.  Cysts  may remain viable for 1 month at 4°C in both sewage and natural surface water. Cysts have survived for as long as 48 hours at room temperature on cheese, bread, green salads, and fruits.
+After ingestion of an E. histolytica cyst from fecally contaminated food or  water  or via oral-anal sexual practices, excystment occurs  in the small intestine. The resulting small metacystic trophozoites are carried into the cecum with the fecal stream where colonization and tissue invasion  occur  depending  on  the  virulence  of  the  infecting  strain. Approximately  90%  of  individuals  will  remain  asymptomatic  and most  will  eventually  clear.  Symptoms  develop  after  an  incubation period of 2-4 weeks. Diarrhea  is the most common manifestation of  disease,  followed  by  dysentery  and  then  extra-intestinal  abscess.
+FIGURE 89.1 Flask-shape ulcer.
+Prospective studies of asymptomatic carriers indicate a risk of ~9% of progressing to dysentery or liver abscess over the ensuing year [12]. This clinical variability, from asymptomatic carriage to dysentery, was captured in Walker and Sellards' human challenge studies of 1913 [13].
+Pathogenesis  follows  an  elaborate  series  of  events  beginning  with parasite  adherence  to  the  colonic  mucus  and  epithelium, host  cell damage and then development of a cell-mediated immune response that can either perpetuate or clear infection [14]. After invading the epithelial layer, there is neutrophil recruitment, tissue damage and a characteristic flask-shaped ulcer may develop (Fig. 89.1).
+
+============================================================
+CHUNK 6
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Amebiasis is seen most frequently in the cecum and ascending colon, although  the  sigmoid  colon,  rectum,  and  appendix  can  also  be involved.  In  a  minority  of  infections,  parasites  presumably  find submucosal blood vessels and embolize to produce liver abscesses. Most cases of extraintestinal abscess exist without evidence of coexisting intestinal infection, and most cases of colitis exist without extraintestinal abscess, such that stool studies are only 40% sensitive for detection of E. histolytica during liver abscess. Rarely, liver abscess can directly rupture into the pleura or pericardium; at other times, parasites can be carried hematogenously to distant sites such as the brain.
+
+============================================================
+CHUNK 7
+============================================================
+INTESTINAL AMEBIASIS
+Intestinal amebiasis includes asymptomatic colonization or infection and symptomatic intestinal disease and its complications to include amebic colitis, fulminate colitis (toxic megacolon), intestinal perforation  with  or  without  peritonitis,  intra-abdominal  abscess,  amebic appendicitis, hemorrhage, ameboma, amebic stricture and perianal (cutaneous) amebiasis.
+Asymptomatic intestinal infection with E. histolytica/E. dispar/ E. moshkovskii is diagnosed incidentally during stool examination for ova  and  parasites,  for  instance  during  post-travel  screening  or  in immigrants. Symptomatic disease is only associated with E. histolytica infection.
+Intestinal  amebiasis  presents  as  a  spectrum  of  disease  from  acute amebic dysenteric colitis to a more chronic nondysenteric colitis that presents  subacutely  with  a  nonspecific  watery  diarrhea.  Approximately 8% of E. histolytica -associated diarrhea cases will have visible blood (dysentery) [15]. Abdominal pain is seen in ~40%. Fever occurs in a minority of cases. Onset of symptoms is often gradual over several weeks and is often associated with weight loss.
+Patients with extensive transmural colonic involvement may present acutely  with  concomitant  bacterial  peritonitis  following  intestinal perforation.  These  patients  are  toxic,  febrile,  hypotensive  and  have profuse bloody diarrhea. Fulminant colitis or toxic  megacolon can occur, but is rare ( < 0.5% of cases), which is associated with a mortality of more than 40%; malnourished persons, pregnant women, corticosteroid users  and very young children may be at increased risk. Patients  typically  appear  very  ill  and  have  fever,  profuse  bloody mucoid diarrhea, diffuse abdominal pain, distended abdomen and are hypotensive with signs of peritoneal irritation. Intestinal perforation usually manifests as a slow leakage rather than an acute event. Surgical  intervention  is  indicated  for  bowel  perforation,  although attempts to suture such necrotic bowels are usually unsuccessful.
+
+============================================================
+CHUNK 8
+============================================================
+INTESTINAL AMEBIASIS
+Some report a chronic syndrome of intermittent diarrhea, abdominal pain, flatulence and weight loss for months in patients with amebas in the stool and positive anti-amebic serologic tests. Not all patients respond  to  anti-amebic  therapy  so  the  role  of E.  histolytica in  all instances is  unclear. However, a trial  of  therapy is  reasonable, as is ruling out inflammatory bowel disease, as amebiasis may worsen if corticosteroids are started.
+The  formation  of  annular  colonic  granulation  tissue  at  a  single  or multiple  sites  following  the  healing  of  amebic  ulcers  leads  to  an intestinal mass called an ameboma. It usually involves the cecum or ascending colon and may mimic carcinoma of the colon. The same fibrosis  may  also  lead  to  intestinal  stricture.  Amebic  appendicitis almost always occurs as a complication of transmural amebic colitis and should be considered in the presence of other signs of amebiasis. However, isolated amebic appendicitis has been described in a patient with a prior history of colitis [16].
+Perianal amebiasis may result from extension of severe bowel disease to  the  skin.  Lesions  can  be  ulcerative  or  condylomatous,  enlarge slowly over weeks to months, and result in pain and bleeding. The diagnosis of cutaneous amebiasis requires a high index of suspicion, especially primary disease not associated with intestinal symptoms. The characteristic cutaneous ulcer is well-demarcated, round or oval, with heaped-up borders and an erythematous halo. Motile trophozoites  can  be  visualized  in  a  fresh  smear  of  the  ulcer  exudate  or  a scraping of the ulcer edge.
+
+============================================================
+CHUNK 9
+============================================================
+EXTRAINTESTINAL AMEBIASIS
+Amebic liver abscess may occur in the presence or absence of intestinal symptoms. It often develops after a latent period following earlier diarrhea or other intestinal illness, particularly in those with a history of residence or prior travel to endemic areas. Amebic liver abscess is the most common extraintestinal manifestation of amebiasis and can present  in  a  variety  of  ways  (http://www.bhj.org/books/liver/).  The syndrome is most often seen in adult males, aged 20-40 years old. Approximately 80% of patients in endemic areas present within 2-4 weeks  [17];  however,  most  returning  travelers  present,  on  average, three months after leaving the endemic area. Onset can be insidious, subacute or acute. Symptoms include fever, a nonproductive cough and a constant, dull, aching pain in the right upper quadrant or epigastrium.  Pleuritic  pain  in  the  right  lower  anterior  chest  or  right hypochondrium  is  common.  In  a  minority  of  patients  a  subacute course may present with prominent weight loss with less fever and abdominal pain. Hepatomegaly with point tenderness over the liver below the ribs or in the intercostal spaces is a typical finding. Right lobe  lesions  are  usually  single  lesions  and  about  five  times  more common than left lobe lesions. Right-sided pleural pain or referred shoulder pain occurs when the diaphragmatic surface of the liver is involved. Associated gastrointestinal symptoms occur in a minority of patients (10-35%) with a liver abscess. Leukocytosis in the range of 12,000-20,000/mm 3 is seen in most cases, with mild normochromic normocytic anemia in more than half. Peripheral eosinophilia is not seen in either hepatic or intestinal amebiasis. Patients with acute amebic liver abscess tend to have a normal alkaline phosphatase level and elevated transaminases [18]; the opposite is true for those with more chronic disease. Ultrasonography, abdominal computed tomography (CT) and magnetic resonance imaging (MRI) are all excellent for detecting liver abscesses.
+FIGURE 89.2 Amebic liver abscess. Chest x-ray shows reactive right lower lobe atelectasis and pleural eCusion.
+
+============================================================
+CHUNK 10
+============================================================
+EXTRAINTESTINAL AMEBIASIS
+Pleuropulmonary  amebiasis  is  the  most  common  complication  of amebic  liver  abscess  and  can  take  the  form  of  pneumonitis,  lung abscess or bronchohepatic fistula [19]. It generally occurs as a result of the rupture of a superior right lobe abscess with erosion through the  diaphragm  to  involve  the  pleural  space,  lung  parenchyma  or bronchus.  In  contrast,  serous  pleural  effusion  and  atelectasis  are common  findings  and  do  not  indicate  extension  of  disease  (Fig. 89.2). Intraperitoneal rupture occurs rarely but is associated with a high  mortality.  Left  lobe  abscesses  are  more  likely  to  progress  to rupture because of late clinical presentation. Pericardial amebiasis, a rare complication, usually presents with fever and abdominal pain with progression to chest pain. Signs are typical of pericarditis, including a friction rub.
+Cerebral  amebiasis  has  an  abrupt  onset,  and  progresses  rapidly to  death  over  12-72  hours  without  adequate  therapy  [20].  Thus, when patients with known amebiasis have alteration of mental states or focal signs, amebic brain abscess or encephalitis should be considered and CT or MRI of the brain should be performed if available. Genitourinary amebiasis is rare and includes rectovaginal fistulas and vulvar lesions in women and penile amebiasis, in homosexual men in particular [21].
+
+============================================================
+CHUNK 11
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+The differential diagnosis of nonspecific diarrhea involves a long list of  bacterial,  toxin,  viral  and  parasitic  causes  which  clinical  features cannot distinguish. Consideration for amebiasis should occur when a patient has diarrhea that is not improving with conservative management. In many countries, metronidazole is used abundantly for empiric management of diarrhea, such that many cases of amebiasis are probably treated.
+There are multiple ways to evaluate patients with suspected amebiasis, including  microscopy,  antigen  detection,  molecular  diagnosis  with PCR  techniques, serology,  endoscopic  procedures  and  imaging modalities.
+
+============================================================
+CHUNK 12
+============================================================
+MICROSCOPY
+Globally, the most commonly available laboratory technique is stool microscopy; typically only a saline wet mount is performed, which is only useful for visualization of motile trophozoites. Additionally, a stained slide will allow visualization of morphologic features including  10-15 μ m quadrinucleate cysts and trophozoites with ingested
+FIGURE 89.3 Entamobea histolytica trophozoite in stool sample showing ingested red blood cells. Image courtesy of the Herman Zaiman collection.
+red blood cells (Fig. 89.3), which is more compatible with E. histolytica than E. dispar or E. moshkovskii . Amebic cysts and trophozoites are  passed  intermittently  in  the  stool  and,  therefore,  three  stools should ideally be submitted, as this has increased the sensitivity of detection by 23% [22]. In some series, 18% of stools with E. histolytica diarrhea will be hemoccult-positive. Fecal leukocytes are variable and Charcot-Leyden crystals have been reported. In general, microscopy is neither sensitive nor specific.
+
+============================================================
+CHUNK 13
+============================================================
+ANTIGEN DETECTION
+Current antigen detection tests are a great advance over microscopy; however, they are expensive and poorly available in resource-limited settings.  Presently,  there  are  several  commercially-available  antigen kits for detecting Entamoeba (TechLab E. histolytica II, Blacksburg, VA, USA; Ridascreen Entamoeba ,  R-Biopharm, Darmstadt, Germany; Triage Micro Parasite Panel, Biosite Diagnostics, Inc., San Diego, CA, USA; ProSpecT E. histolytica, Remel Inc., Lenexa, KS; CELISA Path, Cellabs, Brookvale,  Australia).  Unfortunately,  these  tests  require  fresh,  not fixative-preserved,  stool  for  analysis.  The  TechLab  and  Cellabs  kits report  being  specific  for E.  histolytica and  thus  offer  the  benefit  of excluding E. dispar and E. moshkovskii .
+
+============================================================
+CHUNK 14
+============================================================
+PCR
+Research laboratories can perform PCR on stool or liver abscess pus, as  well  as  isoenzyme  analysis  on  cultured  trophozoites  to  confirm E. histolytica .
+
+============================================================
+CHUNK 15
+============================================================
+SEROLOGY
+Serum  antibodies  should  be  detectable  in > 70%  of  patients  with amebic  colitis  and > 90%  of  patients  with  liver  abscess  and  thus should be obtained on all patients when the diagnosis is being considered. Depending on the method used, the serologic response can remain positive for 5 years; thus, in an individual from an endemic area,  a  positive  result  does  not  ensure  the  diagnosis  of  amebiasis. However, a negative result has a strong negative predictive value. The indirect hemagglutination assay is reported to be the most sensitive; however, the ELISA is most commonly available.
+
+============================================================
+CHUNK 16
+============================================================
+ENDOSCOPIC PROCEDURES
+Colonoscopy is preferred over flexible sigmoidoscopy because disease may  be  limited  to  the  right  side  (ascending)  of  the  colon  or  the cecum. Bowel cleansing with cathartics or enemas should not be done so as to optimize identification of parasites. The endoscopist should aspirate  material  from  the  ulcer  base  and  ulcer  margin.  The  gross appearance  of  the  intestinal  mucosa  in  amebic  colitis  is  granular,
+CICiIDE 90 A Colonacconu nfa
+M 28
+FIGURE 89.7 Computed tomography of a patient with amebic liver abscess who presented with fever, right upper quadrant pain and pleuritic pain.
+tenderness, are distinguishable from amebic and pyogenic abscesses
+FIGURE 89.4 Colonoscopy of a 54-year-old male who presented with lower gastrointestinal bleeding caused by E. histolytica colitis.
+FIGURE 89.6 MRI of amebic liver abscess.
+FIGURE 89.5 Numerous trophozoites shown by periodic acid-SchiC (PAS) stain of the colon biopsy (arrow).
+friable and diffusely ulcerated and may be indistinguishable from that seen in IBD (Figs 89.4 and 89.5).
+
+============================================================
+CHUNK 17
+============================================================
+IMAGING PROCEDURES
+Imaging of the liver can be made by ultrasonography, CT or MRI (Fig. 89.6). Ultrasonography reveals abscesses as hypoechoic lesions. CT with  administration  of  contrast  material  shows  the  abscess  center as  non-enhancing,  surrounded  by  an  irregular,  or  rim-like,  area  of inflammation that shows increased enhancement (Fig. 89.7). Echinococcal  cysts  of  the  liver,  which  typically  do  not  cause  fever  or
+FIGURE 89.7 Computed tomography of a patient with amebic liver abscess who presented with fever, right upper quadrant pain and pleuritic pain.
+tenderness, are distinguishable from amebic and pyogenic abscesses by  CT  (multiple  clustered  fluid  collections  without  surrounding stranding or enhancement).
+Thus,  the  primary  consideration  in  the  differential  diagnosis  of amebic liver abscess is the distinction between pyogenic abscess and amebic abscess. The two cannot be distinguished clinically. Amebic liver  abscesses  are  often  large,  single  abscesses  of  the  right  lobe, whereas pyogenic abscesses more often multiple, but the overlap is significant [23]. Pyogenic liver abscess is much more common than amebic liver abscess in developed countries, has positive blood cultures in half the patients and patients tend to be older than 50 years, present with jaundice and abnormalities of the gallbladder and interhepatic ducts on imaging. Empiric antibiotics can be tried, but if the patient  is  progressing  and  the  diagnosis  is  unclear  despite  blood cultures, serology and stool studies, many patients undergo aspiration
+664
+for  diagnosis.  Upon  aspiration,  amebic  abscesses  are  described  as 'anchovy paste', chocolate-colored fluid consisting predominantly of necrotic  hepatocytes.  Gram  stain  is  negative,  unlike  most  cases  of pyogenic liver abscess. Trophozoites are rarely seen from aspirates, as these are usually found at the junction of the abscess and viable liver, which usually requires an open drainage procedure [24, 25].
+
+============================================================
+CHUNK 18
+============================================================
+IMAGING PROCEDURES
+The  differential  diagnosis  of  amebic  dysentery  includes  any  other dysenteric  infection,  thus  bacterial  stool  culture  should  be  performed to identify Shigella , Campylobacter , Salmonella , enteroinvasive Escherichia coli , and enterohemorrhagic E. coli . Non-infectious causes of  abdominal  pain  and  bloody  diarrhea  include  IBD,  ischemic colitis, diverticulitis, and arterio-venous malformation. Occasionally, patients  with  ongoing  intestinal  symptoms  undergo  colonoscopy with  biopsy  and  the  diagnosis  is  made  by  the  pathologist,  where clues  include  patchy  areas  of  ulceration  and  periodic  acid-Schiff staining trophozoites (not to  be confused with macrophages). IBD has  been  confused  pathologically  with  amebic  colitis;  thus,  in  a patient with possible exposure to E. histolytica , the diagnosis of IBD should  be  confirmed  with  the  pathologist,  as  steroids  can  worsen amebiasis.
+
+============================================================
+CHUNK 19
+============================================================
+AMEBIC COLITIS
+Since the 1960s, the mainstay of therapy for amebic colitis has been the  nitroimidazoles,  in  particular  metronidazole  and  tinidazole. Powell and coworkers performed the first clinical trial of metronidazole in patients with acute amebic dysentery which demonstrated the superiority of 800 mg tid given for 10 days [26]. Lower doses were less  effective,  but  subsequent  studies  have  demonstrated  that  the 800 mg po tid regimen can be shortened to 5 days [27, 28]. Newer studies have successfully used nitroimidazoles with longer half-lives including tinidazole [29], secnidazole [30] and ornidazole for even shorter durations. Tinidazole has had the most experience, is better tolerated than metronidazole and can be administered for only 3 days [31, 32]. The common side effects of metronidazole include nausea, headache, anorexia and a metallic taste; less common ones include a disulfuram-like  reaction  to  alcohol,  vomiting  and  peripheral  neuropathy. The nitroimidazoles are rapidly absorbed after oral administration  and  are  not  effective  against  luminal  trophozoites  and exhibit  a  40-60%  rate  of  parasite  persistence  in  the  intestine  after therapy with these agents [12, 33]. Therefore, a course of treatment should be followed with a course of a luminal agent. A potential new agent for intestinal amebiasis is nitazoxanide. This drug, administered at  500 mg po bid for three days, was associated with resolution of E. histolytica / E. dispar -associated diarrhea in 80-90% of patients (vs. 40-50%  in  patients  receiving  placebo)  along  with  microscopic improvement [34]. The tetracyclines have also been used but they are not as effective as metronidazole [35].
+
+============================================================
+CHUNK 20
+============================================================
+AMEBIC LIVER ABSCESS
+The  initial  amebic  colitis  trials  with  metronidazole  also  included groups of 'not severely ill patients' with amebic liver abscess. Liver abscess was found to be, in general, more responsive than colitis. We recommend the standard high dose of metronidazole for 10 days or tinidazole for 5 days [36] as the lower-dose or single-dose groups had slower recoveries or more failures [37].
+
+============================================================
+CHUNK 21
+============================================================
+SEVERE DISEASE
+The metronidazole trials to date have been in 'not severely ill patients' . In a  severely ill  patient  who cannot  take  oral medications,  such as those with fulminant amebic colitis, it is logical to assume that intravenous metronidazole would be effective in these patients; however, data is limited to a case series from Japan that showed promise [38].
+In patients  with either colitis  or  liver abscess  failing or  progressing on  metronidazole,  a  potential  alternative  or  additional  therapy  is emetine . It is derived from ipecac, has been used since the 1920s and is as potent as the nitroimidazoles in vitro . The drug is cardiotoxic and congestive failure and deaths have been reported. Electrocardiogram monitoring  is  recommended.  The  drug  is  given  intramuscularly. The  synthetic  derivative  dehydroemetine  is  less  cardiotoxic  and  is recommended over emetine if available. Procurement is difficult. In the  USA,  it  is  available  from  the  Centers  for  Disease  Control  and Prevention (CDC) Drug Service for metronidazole-refractory amebiasis (1600 Clifton Road, MS/D09 Atlanta, GA 30333; Tel: (404) 6393670; Fax: (404) 639-3717).
+When patients fail medical treatment and undergo open surgery for acute  abdomen,  gastrointestinal  bleeding  or  toxic  megacolon  [39], mortality is extremely high and broad-spectrum antibiotics should be added for bacterial spillage into the peritoneum.
+Chloroquine  has  also  been  used  for  amebic  liver  abscess  and  has shown similar cure rates to metronidazole,  although  improvement was slower [40]. It is reported to have little effect on intestinal disease and little in  vitro activity  [41].  Extended  courses  have  been  recommended  for  liver  abscess  because  relapses  have  historically  been common, but these probably reflect the drug's ineffectiveness against intestinal  parasites;  20  days  should  be  adequate  if  followed  by  a course  of  a  luminal  agent.  For  severe  liver  abscess  progressing  on metronidazole/tinidazole beyond 72 hours, switching to chloroquine and dehydroemetine can be considered [42]; however, procurement of the dehydroemetine is difficult and should not delay consideration of drainage.
+
+============================================================
+CHUNK 22
+============================================================
+DRAINAGE
+The role for liver abscess drainage is when antibiotics are failing in order  to  prevent  impending  rupture.  Any  liver  abscess  rupture  is  a high-mortality  event  (6-30%),  particularly  if  into  the  pericardium [43], and requires open surgery. Given the high mortality, the question of when to prophylactically drain an abscess arises. Criteria that would prompt consideration of drainage include an abscess > 10 cm in  diameter,  a  left  lobe  abscess  to  prevent  rupture  into  the  pericardium or any abscess close to a serosal surface (Fig. 89.8). Aspiration is also indicated for abscesses that are not promptly responding to drugs alone and for abscesses of uncertain cause. The majority of amebic  liver  abscesses  that  are  relatively  small  ( < 10 cm)  usually respond  to  drug  therapy  alone.  Many  studies  indicate  that  routine drainage of amebic liver abscess confers no clinical benefit over antibiotics alone [44] and a meta-analysis concluded therapeutic aspiration could not be supported or refuted because of lack of evidence [45]. One study showed that failure to respond by 72 hours in terms of prolonged fever, leukocytosis and hepatomegaly identified a group at high risk for abscess rupture [46]. We therefore feel that ongoing pain while on appropriate therapy for 72 h is a reasonable criteria for drainage, especially with large left lobe abscesses, as these are associated  with  a  greater  frequency  of  complications  [25].  Percutaneous aspiration under ultrasound guidance has shown good results compared with open drainage or needle aspiration [47]. Serial liver scans and sonograms have shown that most liver abscesses completely heal 4-8 months after chemotherapy. The resolution time may be longer for large abscesses; however, patients usually remain asymptomatic in these cases.
+
+============================================================
+CHUNK 23
+============================================================
+ASYMPTOMATIC INTESTINAL COLONIZATION
+The WHO recommends against treatment of asymptomatic patients when only a microscopic diagnosis by stool examination is available (i.e. E.  histolytica / E.  dispar/E.  moshkovskii ) [1]. If E.  histolytica is  confirmed by specific testing (fecal antigen test, serology) or is suspected (e.g.  close  contact  with  a  case  of  invasive  amebiasis  or  during  an outbreak  of  amebiasis)  then  treatment  is  appropriate.  There  are  at least three classes of luminal agents that have shown efficacy in clinical trials for asymptomatic intestinal colonization: dichloracetanilide derivatives, oral aminoglycosides and 5-hydroxyquinolines. The specific agents include diloxanide furoate, paromomycin and iodoquinol/ diiodohydroxyquin. All have a large, worldwide experience and poor gastrointestinal  absorption,  which  allows  high  luminal  concentrations but renders them less effective in invasive disease. One of these
+
+============================================================
+CHUNK 24
+============================================================
+Children
+Most anti-amebic drugs mentioned have pediatric dosing regimens (Table 89-1). Tinidazole is  only  approved in  the USA  in children over 3 years old and nitazoxanide in children over 1 year old.
+
+============================================================
+CHUNK 25
+============================================================
+Pregnancy
+Of the drugs mentioned for asymptomatic infection, paromomycin has been used safely in pregnancy [54] and would be the drug of choice. For invasive intestinal disease, there is continued controversy over the use of metronidazole in pregnancy with reports of facial defects and central nervous system tumors in  children  born  to  mothers  taking  metronidazole in the  Drst trimester [55] but large analyses have simultaneously found no increased risk above controls [56]. A caveat is that the dose used for E. histolytica infection is higher than that used in most analyses. Some would recommend a trial of paromomycin for mild invasive intestinal disease [57]. For severe colitis or liver abscess, we feel that the risk of metronidazole to the fetus is less than that of the disease to the mother, particularly in second or third trimester.  One  could  consider  trying  chloroquine  for  liver abscess, as this drug has been used safely (at lower doses) in pregnant women for malaria prophylaxis.
+FIGURE 89.8 Algorithmic  approach to the management of amebic liver abscess.
+
+TABLE 89-1 Antimicrobial Therapy for Entamoeba histolytica Infection
+
+============================================================
+CHUNK 26
+============================================================
+Pregnancy
+Asymptomatic or post-treatment intestinal cure, Drugs of choice = Paromomycin. Asymptomatic or post-treatment intestinal cure, Adult dose (pediatric dose) = 25-35 mg/kg/d po ÷ tid × 7 d. Asymptomatic or post-treatment intestinal cure, Reference = [48]. Asymptomatic or post-treatment intestinal cure, Evidence base = 3. Asymptomatic or post-treatment intestinal cure, Drugs of choice = Diloxanide. Asymptomatic or post-treatment intestinal cure, Adult dose (pediatric dose) = 500 mg po tid (20 mg/kg/d ÷ tid) × 10 d. Asymptomatic or post-treatment intestinal cure, Reference = [51]. Asymptomatic or post-treatment intestinal cure, Evidence base = 4. Asymptomatic or post-treatment intestinal cure, Drugs of choice = Iodoquinol. Asymptomatic or post-treatment intestinal cure, Adult dose (pediatric dose) = 650 mg po tid (30-40 mg/kg/d ÷ tid) × 20 d. Asymptomatic or post-treatment intestinal cure, Reference = . Asymptomatic or post-treatment intestinal cure, Evidence base = . Intestinal amebiasis, Drugs of choice = Metronidazole. Intestinal amebiasis, Adult dose (pediatric dose) = 750 mg po tid (35-50 mg/kg/d ÷ tid) × 5-10 d. Intestinal amebiasis, Reference = [26]. Intestinal amebiasis, Evidence base = 3. Intestinal amebiasis, Drugs of choice = Tinidazole. Intestinal amebiasis, Adult dose (pediatric dose) = 2 g po qd (50 mg/kg qd) × 3-5 d. Intestinal amebiasis, Reference = [58]. Intestinal amebiasis, Evidence base = 3. Intestinal amebiasis, Drugs of choice = Nitazoxanide. Intestinal amebiasis, Adult dose (pediatric dose) = 500 mg po bid × 3 d. Intestinal amebiasis, Reference = [34]. Intestinal amebiasis, Evidence base = 1.
+
+============================================================
+CHUNK 27
+============================================================
+Pregnancy
+Amebic liver abscess, Drugs of choice = Metronidazole. Amebic liver abscess, Adult dose (pediatric dose) = 750 mg po tid (35-50 mg/kg/d ÷ tid) × 10 d. Amebic liver abscess, Reference = [40]. Amebic liver abscess, Evidence base = 3. Amebic liver abscess, Drugs of choice = . Amebic liver abscess, Adult dose (pediatric dose) = . Amebic liver abscess, Reference = [26]. Amebic liver abscess, Evidence base = 3. Amebic liver abscess, Drugs of choice = Tinidazole. Amebic liver abscess, Adult dose (pediatric dose) = 2 g po qd (50 mg/kg qd) × 5d. Amebic liver abscess, Reference = [59]. Amebic liver abscess, Evidence base = 2. Amebic liver abscess, Drugs of choice = . Amebic liver abscess, Adult dose (pediatric dose) = . Amebic liver abscess, Reference = [36]. Amebic liver abscess, Evidence base = 2. Amebic liver abscess, Drugs of choice = Nitazoxanide. Amebic liver abscess, Adult dose (pediatric dose) = 500 mg po bid × 3 d (age adjusted dosing). Amebic liver abscess, Reference = [34]. Amebic liver abscess, Evidence base = 2. Severe disease failing oral metronidazole/ tinidazole, Drugs of choice = Metronidazole. Severe disease failing oral metronidazole/ tinidazole, Adult dose (pediatric dose) = 1500 mg IV qd (7.5-30 mg/kg/day). Severe disease failing oral metronidazole/ tinidazole, Reference = [38]. Severe disease failing oral metronidazole/ tinidazole, Evidence base = 4. Severe disease failing oral metronidazole/ tinidazole, Drugs of choice = Dehydroemetine. Severe disease failing oral metronidazole/ tinidazole, Adult dose (pediatric dose) = 1-1.5 mg/kg/d IM or SC
+
+============================================================
+CHUNK 28
+============================================================
+Pregnancy
+for 5 d. Severe disease failing oral metronidazole/ tinidazole, Reference = [60]. Severe disease failing oral metronidazole/ tinidazole, Evidence base = 2. Severe disease failing oral metronidazole/ tinidazole, Drugs of choice = Chloroquine (liver abscess only). Severe disease failing oral metronidazole/ tinidazole, Adult dose (pediatric dose) = 600 mg po qd × 2 days, then 300 mg po qd × 14 d. Severe disease failing oral metronidazole/ tinidazole, Reference = [40]. Severe disease failing oral metronidazole/ tinidazole, Evidence base = 3
+IM, intramuscularly; IV, intravenously; SC, subcutaneously.
+courses should always be given after a treatment course for invasive intestinal or extra-intestinal disease to reduce the rate of relapse.
+Paromomycin has also been effective in a number of trials. We consider it our drug of choice for luminal infection because it is widely available and demonstrated better efficacy than diloxanide [48]. Many of these have also shown cure rates for mild invasive disease [49, 50]. Side effects with oral therapy are generally mild, but include diarrhea and other gastrointestinal disturbances and less commonly, headache and dizziness. Therapy should be given with meals and for a full seven days, as failures have occurred with shorter courses.
+
+============================================================
+CHUNK 29
+============================================================
+Pregnancy
+Diloxanide furoate  is  a  relative  of  chloramphenicol  used  since  the 1950s. The CDC experience with the drug from 1977 to 1990 documented a parasitologic cure rate in 86% of patients with asymptomatic E. histolytica / E. dispar infection [5 1]. The drug is well-tolerated, with only 14% of patients reporting mild side effects-mainly flatulence or other gastrointestinal symptoms. In the USA, the drug is only available through compounding pharmacies. Iodoquinol (diiodohydroxyquionoline) has been widely used for asymptomatic intestinal colonization because it is effective and inexpensive. A large study in India found it to be 85% effective in non-dysenteric E. histolytica / E. dispar patients [52]. However, it requires a 20-day course and there have been case reports of loss of vision [53], we would thus consider it a second-line agent. Common side effects include constipation and enlargement of the thyroid gland (the drug contains 64% iodine) (see Box 89.1 ).
+
+============================================================
+CHUNK 30
+============================================================
+REFERENCES
+1. WHO/PAHO/UNESO. A consultation of experts on amebiasis. Epidemiol Bull Pan Amer Health Org 1997;18:13.
+2. Ali IK, Hossain MB, Roy S, et al. Entamoeba moshkovskii infections in children, Bangladesh. Emerg Infect Dis 2003;9:580-4.
+3. Caballero-Salcedo A, Viveros-Rogel M, Salvatierra B, et al. Seroepidemiology of amebiasis in Mexico. Am J Trop Med Hyg 1994;50:412-9.
+4. Haque R, Mondal D, Duggal P, et al. Entamoeba histolytica infection in children and protection from subsequent amebiasis. Infect Immun 2006;74:904-9.
+5. Acuna-Soto R, Maguire JH, Wirth DF. Gender distribution in asymptomatic and invasive amebiasis. Am J Gastroenterol 2000;95:1277-83.
+6. Blessmann J, Van Linh P, Nu PA, et al. Epidemiology of amebiasis in a region of high incidence of amebic liver abscess in central Vietnam. Am J Trop Med Hyg 2002;66:578-83.
+7. Stauffer  W,  Abd-Alla M, Ravdin JI.  Prevalence  and incidence  of Entamoeba histolytica infection  in  South  Africa  and  Egypt.  Arch  Med  Res  2006; 37:266-9.
+8. Freedman DO, Weld LH, Kozarsky PE, et al. Spectrum of disease and relation to place of exposure among ill returned travelers. N Engl J Med 2006;354:1 19-30.
+9. Geltman PL, Cochran J, Hedgecock C. Intestinal parasites among African refugees resettled in Massachusetts and the impact of an overseas pre-departure treatment program. Am J Trop Med Hyg 2003;69:657-62.
+10.  Allason-Jones  E,  Mindel  A,  Sargeaunt  P,  Katz  D. Entamoeba  histolytica as  a commensal intestinal parasite in homosexual men. New Engl J Med 1986; 315:353-6.
+
+============================================================
+CHUNK 31
+============================================================
+REFERENCES
+11.  Hung CC, Ji DD, Sun H-Y, et al. Increased risk for Entamoeba histolytica infection and invasive Amebiasis in HIV seropositive men who have sex with men in Taiwan. PLoS Negl Trop Dis 2008;2:e175.
+12.  Irusen EM, Jackson TF, Simjee AE. Asymptomatic intestinal colonization by pathogenic Entamoeba histolytica in amebic liver abscess: prevalence, response to therapy, and pathogenic potential. Clin Infect Dis 1992;14:889-93.
+13.  Walker EL, Sellards AW. Experimental entamoebic dysentery. Philippine J Sci 1913;8:253-330.
+14.  Guo  X,  Houpt  E,  Petri  WA,  Jr.  Crosstalk  at  the  initial  encounter:  interplay between  host  defense  and  ameba  survival  strategies.  Curr  Opin  Immunol 2007;19:376-84.
+15.  Haque  R,  Mondal  D,  Karim  A,  et  al.  Prospective  case-control  study  of  the association  between  common  enteric  protozoal  parasites  and  diarrhea  in Bangladesh. Clin Infect Dis 2009;48:1191-7.
+16.  Gotohda N, Itano S, Okada Y, et al. Acute appendicitis caused by amebiasis. J Gastroenterol 2000;35:861-3.
+17.  Haque  R,  Huston  CD,  Hughes  M,  et  al.  Amebiasis.  N  Engl  J  Med  2003; 348:1565-73.
+18.  Katzenstein D, Rickerson V, Braude A. New concepts of amebic liver abscess derived  from  hepatic  imaging,  serodiagnosis,  and  hepatic  enzymes  in  67 consecutive cases in San Diego. Medicine (Baltimore) 1982;61:237-46.
+19.  Ibarra-Pé rez C. Thoracic complications of amebic abscess of the liver: report of 501 cases. Chest 1981;79:672-7.
+20.  Viriyavejakul  P,  Riganti  M.  Undiagnosed  amebic  brain  abscess.  Southeast Asian J Trop Med Public Health 2009;40:1183-7.
+
+============================================================
+CHUNK 32
+============================================================
+REFERENCES
+21.  Hejase MJ, Bihrle R, Castillo G, Coogan CL. Amebiasis of the penis. Urology 1996;48:151-4.
+22.  Hiatt RA, Markell EK, Ng E. How many stool examinations are necessary to detect pathogenic intestinal protozoa? Am J Trop Med Hyg 1995;53:36-9.
+23.  Lodhi  S,  Sarwari  AR,  Muzammil  M,  et  al.  Features  distinguishing  amoebic from pyogenic liver abscess: a review of 577 adult cases. Trop Med Int Health 2004;9:718-23.
+24.  Nordestgaard AG, Stapleford L, Worthen N, et al. Contemporary management of amebic liver abscess. Am Surg 1992;58:315-20.
+25.  vanSonnenberg  E,  Mueller  PR,  Schiffman  HR,  et  al.  Intrahepatic  amebic abscesses: indications for and results of percutaneous catheter drainage. Radiology 1985;156:631-5.
+26.  Powell SJ, MacLeod I, Wilmot AJ, Elsdon-Dew R. Metronidazole in amoebic dysentery and amoebic liver abscess. Lancet 1966;2:1329-31.
+27.  Powell  SJ,  Wilmot  AJ,  Elsdon-Dew  R.  Further  trials  of  metronidazole  in amoebic dysentery and amoebic liver abscess. Ann Trop Med Parasitol 1967; 61:51 1-4.
+28.  Powell  SJ,  Wilmot  AJ,  Elsdon-Dew  R.  Single  and  low  dosage  regimens  of metronidazole  in  amoebic  dysentery  and  amoebic  liver  abscess.  Ann  Trop Med Parasitol 1969;63:139-42.
+29.  Garcia EG. Treatment of symptomatic intestinal amoebiasis with tinidazole. Drugs 1978;1:16-8.
+
+============================================================
+CHUNK 33
+============================================================
+REFERENCES
+30.  Soedin  K,  Syukran  OK,  Fadillah  A,  Sidabutar  P.  Comparison  between  the efficacy of a single dose of secnidazole with a 5-day course of tetracycline and clioquinol in the treatment of acute intestinal amoebiasis. Pharmatherapeutica 1985;4:251-4.
+31.  Bassily S, Farid Z, el-Masry NA, Mikhail EM. Treatment of intestinal E. histolytica and G. lamblia with metronidazole, tinidazole and ornidazole: a comparative study. J Trop Med Hyg 1987;90: 9-12.
+32.  Gonzales ML, Dans LF, Martinez EG. Antiamoebic drugs for treating amoebic colitis. Cochrane Database Syst Rev 2009;CD006085.
+33.  Spillmann R, Ayala SC, Sanchez CE. Double-blind test of metronidazole and tinidazole in the treatment of asymptomatic Entamoeba histolytica and Entamoeba hartmanni carriers. Am J Trop Med Hyg 1976;25:549-51.
+34.  Rossignol JF, Kabil SM, El-Gohary Y, Younis AM. Nitazoxanide in the treatment of amoebiasis. Trans R Soc Trop Med Hyg 2007;101:1025-31.
+35.  Masters  DK,  Hopkins  AD.  Therapeutic  trial  of  four  amoebicide  regimes  in rural Zaire. J Trop Med Hyg 1979;82:99-101.
+36.  Hatchuel W. Tinidazole for the treatment of amoebic liver abscess. S Afr Med J 1975;49:1879-81.
+37.  Lasserre R, Jaroonvesama N, Kurathong S, Soh CT. Single-day drug treatment of amebic liver abscess. Am J Trop Med Hyg 1983;32:723-6.
+38.  Kimura M, Nakamura T, Nawa Y. Experience with intravenous metronidazole to  treat  moderate-to-severe amebiasis  in  Japan.  Am  J Trop  Med  Hyg  2007; 77:381-5.
+
+============================================================
+CHUNK 34
+============================================================
+REFERENCES
+39.  Takahashi  T,  Gamboa-Domínguez  A,  Gomez-Mendez  TJ,  et  al.  Fulminant amebic colitis: analysis of 55 cases. Dis Colon Rectum 1997;40:1362-7.
+40.  Cohen HG, Reynolds TB. Comparison of metronidazole and chloroquine for the treatment of amoebic liver abscess. A controlled trial. Gastroenterology 1975;69:35-41.
+41.  Neal  RA.  Experimental  amoebiasis  and  the  development  of  anti-amoebic compounds. Parasitology 1983;86:175-91.
+42.  Badalamenti S, Jameson JE, Reddy KR. Amebiasis. Curr Treat Options Gastroenterol 1999;2:97-103.
+43.  Adams EB, MacLeod IN. Invasive amebiasis. II. Amebic liver abscess and its complications. Medicine 1977;56:325-34.
+44.  Van  Allan  RJ,  Katz  MD,  Johnson  MB,  et  al.  Uncomplicated  amebic  liver abscess: prospective evaluation of percutaneous therapeutic aspiration. Radiology 1992;183:827-30.
+45.  Chavez-Tapia NC, Hernandez-Calleros J, Tellez-Avila FI, et al. Image-guided percutaneous procedure plus metronidazole versus metronidazole alone for uncomplicated  amoebic  liver  abscess.  Cochrane  Database  Syst  Rev  2009; CD004886.
+46.  Thompson  JE,  Jr,  Forlenza  S,  Verma  R.  Amebic  liver  abscess:  a  therapeutic approach. Rev Infect Dis 1985;7:171-9.
+47.  Singh JP, Kashyap A. A comparative evaluation of percutaneous catheter drainage for resistant amebic liver abscesses. Am J Surg 1989;158:58-62.
+48.  Blessmann  J,  Tannich  E.  Treatment  of  asymptomatic  intestinal Entamoeba histolytica infection. N Engl J Med 2002;347:1384.
+49.  Simon M, Shookhoff HB, Terner H, et al. Paromomycin in the treatment of intestinal  amebiasis;  a  short  course  of  therapy.  Am  J  Gastroenterol  1967; 48:504-11.
+
+============================================================
+CHUNK 35
+============================================================
+REFERENCES
+50.  Sullam PM, Slutkin G, Gottlieb AB, Mills J. Paromomycin therapy of endemic amebiasis in homosexual men. Sex Transm Dis 1986;13:151-5.
+51.  McAuley  JB,  Herwaldt  BL,  Stokes  SL,  et  al.  Diloxanide  furoate  for  treating asymptomatic Entamoeba histolytica cyst  passers:  14  years'  experience  in  the United States. Clin Infect Dis 1992;15:464-8.
+52.  Kaur  J,  Mathur  TN. Comparative  drug  trials  in  symptomatic  and asymptomatic non-dysenteric amoebic colitis. Indian J Med Res 1972;60:1547-53.
+53.  Fleisher  DI,  Hepler  RS,  Landau  JW.  Blindness  during  diiodohydroxyquin (Diodoquin) therapy: a case report. Pediatrics 1974;54:106-8.
+54.  Kreutner AK, Del Bene VE, Amstey MS. Giardiasis in pregnancy. Am J Obstet Gynecol 1981;140:895-901.
+55.  Thapa  PB,  Whitlock  JA,  Brockman  Worrell  KG,  et  al.  Prenatal  exposure  to metronidazole and risk of childhood cancer: a retrospective cohort study of children younger than 5 years. Cancer 1998;83:1461-8.
+56.  Caro-Pató n  T,  Carvajal  A,  Martin  de  Diego  I,  et  al.  Is  metronidazole  teratogenic? A meta-analysis. Br J Clin Pharmacol 1997;44:179-82.
+57.  McAuley JB, Juranek DD. Paromomycin in the treatment of mild-to-moderate intestinal amebiasis. Clin Infect Dis 1992;15:551-2.
+58.  Swami B, Lavakusulu D, Devi CS. Tinidazole and metronidazole in the treatment of intestinal amoebiasis. Curr Med Res Opin 1977;5:152-6.
+59.  Islam  N,  Hasan  K.  Tinidazole  and  metronidazole  in  hepatic  amoebiasis. Drugs 1978;15(suppl. 1):26-9.
+
+============================================================
+CHUNK 36
+============================================================
+REFERENCES
+60.  Jain  NK,  Madan A,  et al.  Hepatopulmonary amoebiasis. Efficacy of various treatment regimens containing dehydroemetine and/or metronidazole. J Assoc Physicians India 1990;38:269-71.
+

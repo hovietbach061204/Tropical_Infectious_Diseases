@@ -1,0 +1,201 @@
+============================================================
+CHUNK 0
+============================================================
+107
+
+============================================================
+CHUNK 1
+============================================================
+Key features
+- These worms exhibit marked clinical di.erences; however, they are all con-ned to the gut as larvae and adults
+- Enterobiasis (pinworm infection) occurs in children and their families worldwide; it is usually asymptomatic but can produce pruritus ani and vulvovaginitis
+- Trichuriasis (whipworm) is a Neglected Tropical Disease a.ecting 800 million people in the tropics, with physical and developmental consequences in mild cases, and colitis and dysentery in heavy infection
+- Capillariasis is a rare zoonosis in East Asia, now emerging in the Middle East, which can progress to severe malabsorption and diarrhea due to autoinfection
+- Trichostrongyliasis is usually an asymptomatic zoonosis of Asia and the Middle East
+- Treatment of these infections requires multiple dosing - see [14] for systematic review
+
+============================================================
+CHUNK 2
+============================================================
+ENTEROBIASIS
+The  pinworm Enterobius  vermicularis was  described  by  Linnaeus  in 1758, and is found worldwide.
+
+============================================================
+CHUNK 3
+============================================================
+EPIDEMIOLOGY
+Enterobiasis occurs in tropical and temperate regions and in rural and urban populations. It is among the most common helminthic infections in the US and Western Europe, where it is found in children of all  socioeconomic  classes.  The  prevalence  is  greatest  among  young school-aged  children,  where  personal  hygiene  and  exposure  to infected peers are contributing factors [1]. Transmission is common within families. Anyone who handles infected children's clothing or bedding is at risk.
+
+============================================================
+CHUNK 4
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+Infection  follows  ingestion  of  eggs  from  soiled  hands  or  contaminated food. Eggs hatch in the upper small intestine, releasing larvae that migrate to the ileum, molting twice to become adults and mating in  the  lower  small  intestine.  Adult  females  settle  in  the  cecum,
+Nematodes Limited to the Intestinal Tract ( Enterobius vermicularis , Trichuris trichiura , Capillaria philippinensis and Trichostrongylus spp.)
+
+============================================================
+CHUNK 5
+============================================================
+Donald AP Bundy, Edward S Cooper, Simon Brooker
+appendix, or adjacent areas of the ascending colon and live up to 13 weeks, with oviposition occurring as early as 5 weeks, after which the gravid  female leaves the colon  and migrates out of the anus  to lay eggs. Approximately 1 1,000 eggs are produced by each gravid female. The eggs are ovoid and asymmetrically flattened. The shell has a thick outer albuminous layer which has a role in adherence to skin. The eggs contain larvae that must undergo further maturation to become infective. Atmospheric oxygen acts as a stimulus to development; at body temperature, eggs are infective within 6 hours. They begin to lose infectivity after 1 or 2 days under warm, dry conditions, but can survive for 2 weeks at lower temperature and higher humidity; the maximum reported survival is 19 weeks.
+E . vermicularis rarely causes intestinal pathology. Worms are occasionally found in the appendix after surgical excision (Fig. 107.1A), but only  occasionally  cause  acute  appendicitis  [2].  On  rare  occasions, adult worms reach the peritoneum by traversing the female genital tract  or  migrating  through  a  perforation  in  the  bowel  caused  by appendicitis, diverticulitis, or intestinal malignancy. Granulomatous reactions to dead worms or eggs have been found in the vaginal wall, cervix,  endometrium,  salpinx,  ovary  and  peritoneum,  and  can  be confused with tuberculosis or metastatic neoplasms. On rare occasions,  pinworms  have  been  found  in  the  conjunctival  sac  and  the external  auditory  canal,  where  eggs  presumably  were  delivered  by soiled fingers.
+
+============================================================
+CHUNK 6
+============================================================
+CLINICAL FEATURES
+Cutaneous  irritation  in  the  perianal  region  is  the  most  prominent clinical feature. Local symptoms vary from a mild tickling sensation to pain [3]. Symptoms tend to be most troublesome at night and can produce  sleep  disturbances  and  restlessness. Pruritus  ani results  in scratching and trauma to the skin, and can lead to secondary bacterial infection. The eosinophil count in persons with E. vermicularis infection is usually normal.
+E . vermicularis is  a  well-recognized cause of vulvovaginitis in prepubertal girls. It has also been incriminated as a potential cause of secondary enuresis  and  urinary  tract  infection.  Peritoneal  granulomas secondary  to  migrating E.  vermicularis have  been  associated  with abdominal  pain  in  adult  women.  More  commonly,  peritoneal nodules  are  found  incidentally  at  the  time  of  laparotomy  (Fig. 107.1B).
+
+============================================================
+CHUNK 7
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+The  diagnosis  of  enterobiasis  depends  on  identifying  adult  worms or  ova.  Adult  female  worms  are  small,  whitish,  and  pin-shaped (Fig. 107.2). They are occasionally seen in the perianal or vaginal area.
+FIGURE 107.1 Enterobius vermicularis in appendix. (A) Cross-section of adult pinworms in lumen shows bilateral crests ( narrow arrows ); one worm contains eggs ( wide arrow ). (B) Longi  tudinal section of adult worm in lymphatic nodule shows prominent esophageal bulb ( arrow ). (Courtesy of the Louisiana State University School of Medicine, New Orleans.)
+FIGURE  107.2 Enterobius vermicularis adult female  worms. (A) Note  shapes  and  the  clear, attenuated, and pointed posterior end. (B) Note cephalic  alae,  bulb  behind  esophagus,  vulva, egg  mass,  anus,  and  pointed  posterior  end. (Courtesy of the Louisiana State University School of Medicine, New Orleans.)
+The most successful diagnostic approach uses a strip of transparent tape,  which is held with  the adhesive side out, affixed to a tongue depressor.  Before  the  person  defecates  or  bathes  on  arising  in  the morning, the buttocks are spread and the tape is pressed against the anal or perianal skin. The strip is transferred to a microscope slide, adhesive  side  down.  Debris  can  be  cleared  by  adding  a  drop  of toluene. Eggs are prominent at low power. Examination of a single smear detects approximately 50% of infections, and 90% are detected with three swabs. Six negative swabs on separate days are necessary to exclude the diagnosis.
+Routine  stool  examination  is  positive  in  only  10-15%  of  infected persons. Rarely, eggs are found incidentally in Papanicolaou-stained vaginal smears or in urine sediment.
+
+============================================================
+CHUNK 8
+============================================================
+TREATMENT
+E. vermicularis is susceptible to several anthelmintic drugs, with cure rates of > 90%. Mebendazole (100 mg orally) or pyrantel embonate (10 mg/kg) is given in a single dose and repeated once or twice 2 to 4 weeks later. Albendazole is given as a single dose (400 mg for adults
+and children > 2 years; 100 mg for children < 2 years), and repeated after 7 days. Piperazine 50 mg/kg is taken on each of seven successive days and repeated after 2 to 4 weeks. Because family members are usually  infected,  treatment  for  the  entire  family  is  recommended. Benzimidazoles  should  not  be  given  during  the  first  trimester  of pregnancy.
+Hygiene measures, including hand washing, particularly after bowel movements, are important. Simple laundering of clothes and linen is adequate to disinfect them.
+
+============================================================
+CHUNK 9
+============================================================
+TRICHURIASIS
+Trichuris trichiura (whipworm) was thought to be benign; however, it is now recognized that intense infection is associated with colitis and dysentery,  and  that  moderate  infection  can  impair development  in childhood [4]. It is estimated that 800 million people are infected. The name whipworm derives from the morphology of the 3- to 5-cm adult.
+
+============================================================
+CHUNK 10
+============================================================
+EPIDEMIOLOGY
+Trichuris is distributed worldwide, where fecal contamination of moist soils allows maturation of eggs. Infection often occurs concurrently with  ascariasis  and  has  similar  population  dynamics  (see  Chapter 108).  Recent  analyses  utilizing  geographical  information  systems, remote sensing and spatial statistics have helped to better define the environment limits of transmission, enabling the development of risk maps [5]. In many areas where latrines have been installed, the incidence of soil-transmitted nematodes is still high because of the practice of  using untreated feces as fertilizer (night soil). As  with  other helminths, the intensity of infection in communities is uneven. In a community  where  the  average  worm  burden  is  100  worms,  most individuals  will  have  considerably  fewer  but  some  harbor  several thousand [6]. These individuals appear to be predisposed to intense infection for immunologic or ecologic reasons, and tend to reacquire infections of above average intensity after successful treatment. There is now evidence of genetic variation in susceptibility within communities [7]. Intensity of infection is age-related, with the most intense infections typically occurring in children of school age [8]. Treatment of this age group has been advocated as a cost-effective approach to community-wide control because it will reduce transmission to the rest of the population.
+
+============================================================
+CHUNK 11
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+T. trichiura infects humans as its primary host, but numerous members of the genus Trichuris infect domestic animals. T . suis is a morphologically identical parasite that rarely and abortively infects humans, and T . vulpis of dogs has been reported occasionally in humans. The life cycle of T. trichiura (Fig. 107.3) begins with ingestion of the embryonated  egg.  Larvae  emerge  in  the  cecum,  where  they  penetrate  the crypts  of  Lieberkü hn  and  migrate  within  the  mucosal  epithelium. On molting to the adult, the posterior end is  projected  out  of  the epithelium,  leaving the  threadlike  anterior  portion  embedded  in  a
+FIGURE 107.3 Life  cycle of Trichuris trichiura . (From Melvin DM, Brooke MM, Sadun EH: Common Intestinal Helminths of Man. Atlanta, Centers for Disease Control. DHEW Publication No. [CDC] 75-8286, 1964.)
+FIGURE 107.5 (A) Prolapse of rectum in a heavy infection with Trichuris trichiura . (B) Adult T . trichiura attached to prolapsed bowel. (Courtesy of Drs P C Beaver and R V Platou, Tulane University School of Medicine, New Orleans.)
+syncytium created from epithelial cells. The mature female produces 2000 to 6000 eggs per day. Eggs are passed in feces, where they must mature in soil for a period that varies with temperature but is at least 10 to 14 days. About 3 months is necessary for a patent infection to be produced from the ingestion of eggs. Adult worms can persist for years.
+
+============================================================
+CHUNK 12
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+Infection results in a  well-defined  humoral  immune  response (Th2-mediated), and IgE-mediated local anaphylaxis; cell-mediated inflammatory  responses  are  conspicuously  absent  [9].  Local  eosinophilic infiltration is present in the submucosa, and in heavy infection the bowel wall may be edematous and friable [10]. Under these circumstances, the mucosa can bleed easily, but worms do not suck blood. Blood loss from inflamed mucosa can be important in people with  marginal  iron  intake  [1 1].  Heavy  infection  (Fig.  107.4)  can manifest abdominal pain and chronic diarrhea, and rectal prolapse (Fig. 107.5).
+The clinical picture of trichuriasis has been divided into two descriptions:  the  classic  dysenteric  form  (trichuris  dysentery  syndrome, massive  infantile  trichuriasis)  and  the  more  recently  recognized milder  form,  chronic Trichuris colitis  with  growth  retardation  [4]. Although  the  latter  is  not  sharply  demarcated  from  the  former, affected children are more likely to be brought to medical attention because  of  short  stature  rather  than  because  of  chronic  diarrhea. Finger clubbing and rectal prolapse with chronic diarrhea in children are  considered  pathognomonic  of  trichuriasis  in  endemic  areas. Recent  studies  suggest  that  infection  can  impair  not  only  physical growth but also cognitive ability [12,13]. This could lead to education compromise.
+
+============================================================
+CHUNK 13
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Characteristic barrel-shaped eggs (50 × 20 μ m ) with polar hyaline plugs in a stool specimen are diagnostic (Fig. 107.7).
+In  severe  cases,  the  clinical  picture  can  resemble  hookworm,  acute appendicitis, or amebic dysentery.
+
+============================================================
+CHUNK 14
+============================================================
+TREATMENT
+Therapy  of  trichuriasis  is  more  difficult  than  that  of  other  soiltransmitted nematodes [14]. A 3-day course of either mebendazole 100 mg twice daily or albendazole 400 mg once a day is usually curative in heavy infections [15]. Ivermectin, 200 μ g/kg orally for 3 days, is an alternative therapy. However, compliance with a 3-day course is lower than with single-dose treatment. A single dose of mebendazole 500 mg or albendazole 400 mg may be effective in mild to moderate infections  and  is  appropriate  for  community  treatment.  Oxantel pamoate and combination therapy with mebendazole and ivermectin show better efficacy against heavy infections, but optimal treatment doses have yet to be established. Although high priority should be given to the treatment of pregnant women, these drugs should not be administered during the first trimester.
+
+============================================================
+CHUNK 15
+============================================================
+INTESTINAL CAPILLARIASIS
+Capillaria philippinensis is related to Trichuris trichiura . It is capable of autoinfection and therefore can cause pathology of the small intestine after a relatively light exposure.
+
+============================================================
+CHUNK 16
+============================================================
+EPIDEMIOLOGY
+Most cases have been recognized in the Philippines, where the infection was first noted in the 1960s [16]. Endemic areas are recognized in several provinces where both sporadic cases and outbreaks occur. A few cases have been reported from Thailand, Japan  and  Taiwan, and may be expected in other areas of Asia where freshwater fish are eaten without cooking [17]. There are case reports from Egypt and Iran [18].
+
+============================================================
+CHUNK 17
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+Infection is spread by ingestion of several species of freshwater fish that have infectious larvae within muscle. The natural reservoir host has not been identified, but fish-eating water birds are probable. The custom  of  eating  raw  fish  probably  determines  transmission.  Outbreaks have occurred when fecal contamination of freshwater lagoons has allowed eggs from infected patients to be disseminated in large numbers to a local source of fish.
+After  ingestion  of  infected  fish,  larvae  can  invade  the  small  bowel, causing a chronic malabsorption-diarrhea syndrome characterized by induration  and  villous  atrophy  which  is  most  prominent  in  the jejunum (Fig. 107.6).  Adult worms invade the mucosa and lamina propria. Although inflammation is not prominent around parasites, chronic inflammation is noted within the lamina propria. The small intestine can contain thousands of parasites because of the ability of the adult females to produce infectious larvae. The chronic, usually watery, diarrhea leads to electrolyte and protein abnormalities. Muscle wasting  and  myocardial  degeneration  ensue  terminally.  Death  has been attributed to hypokalemic or metabolic cardiomyopathy or to secondary infection of debilitated patients.
+
+============================================================
+CHUNK 18
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+The  diagnosis  is  made  by  finding  characteristic  eggs  in  the  stool (Fig.  107.7);  larvae  may  also  be  seen.  Repeated  examinations  may have to be made because shedding of diagnostic stages may be infrequent or sporadic.
+FIGURE 107.6 Capillaria philippinensis . Three transverse sections of larval C.  philippinensis embedded in intestinal glands ( × 100). (Courtesy of Armed Forces Institute of Pathology, Photograph Neg. No. 69-1065.)
+FIGURE 107.7 Comparison of Capillaria philippinensis and Trichuris trichiura eggs. (From Whalen GE, et al.: Lancet 1:13, 1969.)
+
+============================================================
+CHUNK 19
+============================================================
+TREATMENT
+Because autoinfection can lead to clinical deterioration, infection with Capillaria should  be  promptly  treated  with  mebendazole  100 mg twice  daily  or  200 mg  once  daily  for  20  days.  Albendazole  is  also effective at 400 mg daily in two divided doses for 10 days [16]. Failure to  complete  the  course  usually  results  in  relapse.  Supportive  fluid, electrolyte and nutritional therapy may also be necessary. Cooking of fish prevents infection.
+
+============================================================
+CHUNK 20
+============================================================
+TRICHOSTRONGYLIASIS
+Trichostrongyliasis is caused by any of several Trichostrongylus species infecting herbivores. Humans become infected when they ingest food or water contaminated by the feces of infected animals or humans. Trichostrongylus adults reside in the duodenum or the upper jejunum with their heads embedded in the mucosa.
+
+============================================================
+CHUNK 21
+============================================================
+EPIDEMIOLOGY
+Trichostrongylus species  have  been  reported  from  many  areas  of  the world. Human infections appear to be most prevalent in the Middle East  and Asia. The most thorough investigations have been carried out in Iran, where nine Trichostrongylus species have been identified in humans. In general, T. colubriformis is the species usually encountered in  the  Near  and  Middle  East,  whereas T.  orientalis is  the  principal species in Asia. Trichostrongylus species and related genera are common parasites  of  herbivorous  animals,  including  cattle,  sheep,  donkeys, goats, deer, and rabbits. The use of sheep or cow manure as fertilizer contributes to spread of infection in farming communities. Humans are often incidental hosts and vary in their susceptibility to different Trichostrongylus species. The prevalence of human infection can be 1% or 2% in endemic areas. The use of night soil in Asia creates conditions  favorable  to  the  spread  of T.  orientalis ,  which  appears  to  be spread primarily from humans to humans.
+
+============================================================
+CHUNK 22
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Under favorable conditions of humidity and temperature, ova hatch in the environment within 24 to 36 hours. They are resistant to cold and  desiccation.  The  hatched  larvae  pass  through  three  free-living stages,  reaching  the  infective  stage  in  60  hours  or  more.  Eggs  and larvae  flourish  in  areas  with  shade,  high  humidity,  and  vegetation. Infection usually follows ingestion of larvae in contaminated food or water,  although  larvae  can  enter  through  unbroken  skin.  Unlike Strongyloides stercoralis and the hookworms, Trichostrongylus species do not need to migrate through the lungs for completion of the life cycle.
+Little  is  known  about  the  pathology  of  human  trichostrongyliasis [19].  The  usual  site  of  infection  is  the  duodenum  or  the  upper jejunum.  Adult  worms  are  thought  to  suck  blood  at  times  and  to damage the mucosa of  the small  intestine  at or  near  their  sites  of attachment. Most human infections are mild and asymptomatic, but epigastric pain, diarrhea and flatulence can occur. Rarely, anemia and emaciation  are  associated  with  heavy  infections.  Eosinophilia  is present in a minority and sometimes exceeds 25%.
+
+============================================================
+CHUNK 23
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+The diagnosis of trichostrongyliasis depends on the identification of ova in the stool. Concentration techniques are necessary. Care should be  taken  to  differentiate Trichostrongylus eggs,  which  are  larger  and more pointed on one or both ends, from those of the hookworms. The diagnosis is occasionally made by finding Trichostrongylus larvae in duodenal aspirates. Identification of species requires examination of adult worms.
+
+============================================================
+CHUNK 24
+============================================================
+TREATMENT
+Mebendazole 100 mg twice daily for 3 days or a single dose of albendazole 400 mg is effective. Pyrantel pamoate 1 1 mg/kg once (maximal dose  1 g)  can  be  used  as  an  alternative.  Although  thiabendazole 25 mg/kg  twice  daily  (maximal  daily  dose  of  3 g)  for  2  days  is effective,  thiabendazole-resistant Trichostrongylus strains  have  been identified, and the drug is associated with side effects. Prevention of infection involves sanitary disposal of human excreta and prevention of fecal contamination of the topsoil by infected animals. Potentially contaminated  vegetables  should  be  thoroughly  cooked  and  water boiled before ingestion.
+
+============================================================
+CHUNK 25
+============================================================
+REFERENCES
+1. Wang LC, Hwang KP, Chen ER. Enterobius vermicularis infection in schoolchildren: a large-scale survey 6 years after a population-based control. Epidemiol Infect 2010;138:28-36.
+2. Ramezani  MA,  Dehghani  MR.  Relationship  between Enterobius  vermicularis and the incidence of acute appendicitis. Southeast Asian J Trop Med Public Health 2007;38:20-3.
+3. Otu-Bassey IB, Ejezie GC, Epoke J, Useh MF. Enterobiasis and its relationship with anal itching and enuresis among school-age children in Calabar, Nigeria. Ann Trop Med Parasitol 2005;99:611-16.
+4. Bundy DAP, Cooper ES. Trichuris and  trichuriasis in  humans. Adv Parasitol 1989;28:107-73.
+5. Brooker  S,  Clements  ACA,  Bundy  DAP.  Global  epidemiology,  ecology  and control  of  soil-transmitted  helminth  infections.  Adv  Parasitol  2006;62: 221-61.
+6. Bundy DA. Epidemiological aspects of Trichuris and trichuriasis in Caribbean communities. Trans R Soc Trop Med Hyg 1986;80:706-18.
+7. Williams-Blangero S, Vandeberg JL, Subedi J, et al. Two quantitative trait loci influence whipworm ( Trichuris trichiura ) infection in a Nepalese population. J Infect Dis 2008;197:1 198-203.
+8. Bundy  DA,  Cooper  ES,  Thompson  DE,  et  al.  Age-related  prevalence  and intensity of Trichuris trichiura infection in a St Lucian community. Trans R Soc Trop Med Hyg 1987;81:85-94.
+9. Bradley JE, Jackson JA. Immunity, immunoregulation and the ecology of trichuriasis and ascariasis. Parasite Immunol 2004;26:429-41.
+10.  Cooper ES, Spencer JM, Whyte-Alleng CAM, et al. Immediate hypersensitivity in the colon of children with Trichuris dysentery. Lancet 1991;338:1104-7.
+
+============================================================
+CHUNK 26
+============================================================
+REFERENCES
+11.  Ramdath DD, Simeon DT, Wong MS, Grantham-McGregor SM. Iron status of schoolchildren with varying intensities of Trichuris trichiura infection. Parasitology 1995;110:347-51.
+12.  Taylor-Robinson  DC,  Jones  AP,  Garner  P.  Deworming  drugs  for  treating soil-transmitted intestinal worms in children: effects on growth and school performance. Cochrane Database Syst Rev 2007;(4):CD000371.
+13.  Bundy  DAP,  Kremer  M,  Bleakley  H,  et  al.  Deworming  and  development: asking the  right questions,  asking the  questions  right. PLoS  Negl  Trop Dis 2009;3:e362.
+14.  Keiser J, Utzinger J. Efficacy of current drugs against soil-transmitted helminth infections: systematic review and meta-analysis. JAMA 2008;299:1937-48.
+15.  Steinmann P, Utzinger J, Du ZW, et al. Efficacy of single dose and triple-dose albendazole and mebendazole against soil-transmitted helminth infections and Taenia spp.:  single-blind  randomized  controlled  trial.  Trop  Med  Int Health 2009;14S:194.
+16.  Cross JH, Basaca-Sevilla V. Albendazole in the treatment of intestinal capillariasis. Southeast Asian J Trop Med Public Health 1987;18:507-10.
+17.  Saichua P, Nithikathkul C, Kaewpitoon N. Human intestinal capillariasis in Thailand. World J Gastroenterol 2008;14:506-10.
+18.  Ahmed  L,  el-Dib  NA,  el-Boraey  Y,  Ibrahim  M. Capillaria  philippinensis :  an emerging  parasite  causing  severe  diarrhoea  in  Egypt.  J  Egypt  Soc  Parasitol 1999;29:483-93.
+19.  Boreham  RE,  McCowan  MJ,  Ryan  AE,  et  al.  Human  trichostrongyliasis  in Queensland. Pathology 1995;27:182-5.
+

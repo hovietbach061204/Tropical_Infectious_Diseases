@@ -1,0 +1,183 @@
+============================================================
+CHUNK 0
+============================================================
+80
+
+============================================================
+CHUNK 1
+============================================================
+KEY FEATURES
+- diseases caused by a group of related species of Borrelia, different from the Borrelia species responsible for Lyme disease.
+- in many areas of Africa and Asia.
+- B. recurrentis associated with human body lice.
+- including B. duttoni, transmitted by soft ticks often associated with animal reservoirs.
+- fever and spirochetemia.
+- untreated cases of LBRF.
+- observation of borreliae on thick blood smear, but PCR-based diagnosis tests are also available.
+- or penicillins.
+- {rst 2 hours of treatment.
+- to soft ticks; no vaccine is available.
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+Relapsing fevers (RFs) are a group of bacterial diseases characterized by recurrent episodes of fever and spirochetemia. The true global burden of RF is uncertain, but a number of studies suggest that RF is a very common cause of fever in areas of Africa, especially among populations where louse infestation is common or where humans are exposed to competent tick vectors. The term was {rst used to describe an illness that broke out in Edinburgh from 1843 to 1846. A causative Borellia agent was {rst observed in the blood of  German  patients  by  Otto  Obermeier  in  the  Berlin  Charité Hospital  in  1873. 1 Tholozan  then  described  RF  in  Eurasia  in 1882. 2 Tick transmission was demonstrated in 1905 in Western Africa by Dutton and T odd 3 after tick-borne relapsing fever (TBRF) plagued the David Livingstone expedition in Africa. 4 American cases were {rst documented in 1915 in Colorado. 5
+RF remains a major cause of morbidity and mortality in large areas of Africa and Asia. 4,6
+
+============================================================
+CHUNK 3
+============================================================
+Reservoirs and Transmission of Relapsing Fever Borreliae (Fig. 80.1)
+Borrelia recurrentis is unique among RF borreliae, being a humanrestricted pathogen transmitted by the body louse Pediculus humanus;
+
+============================================================
+CHUNK 4
+============================================================
+Relapsing Fever and Borrelioses
+Michel Drancourt crushing  the  infected  louse  introduces B.  recurrentis organisms into scratched skin; prolonged excretion of B. recurrentis in  lice feces may enhance transmission. 4,7 Other RF borreliae are responsible  for  tick-borne  relapsing  fever  (TBRF)  transmitted  from various reservoirs without any apparent adverse effects upon their vectors. 4 TBRF borreliae are transmitted by soft ticks belonging to the genus Ornithodoros, family Argasidae. They have nocturnal feeding habits involving painless bites. TBRF borreliae invade all tick organs, including salivary glands and excretory organs; infectious  saliva  and  coxal  |uid  may  contaminate  the  feeding  site. 3 B.  duttonii was  believed  to  predominately  affect  humans,  but  it may have other signi{cant reservoirs, as suggested by the detection of B. duttonii DNA in chickens and pigs. 4 Other TBRF Borrelia species primarily infect rodents and insectivorous animals and are largely  zoonotic. 8 Bats  have  been  implicated  as  reservoirs  for B.  persica in  Central Asia, 2 and  a  new,  unnamed TBRF  species related to B. recurrentis was recently identi{ed in a bat in the UK. 9 The new TBRF, B. johnsonii, was found in a Carios bat tick in the United States. 10 Competence of birds as a reservoir has not been determined, but the same B. hermsii genotype has been documented in an owl and a pine squirrel in Montana, 11 and seabirds infested with Carios ticks  in  Japan  were  found  to  be  infected  by  a  new TBRF. 12 TBRF borreliae can survive in ticks for  up  to 7 years after feeding, and some ticks demonstrate trans-ovarial transmission. 2,4 B. miyamotoi is transmitted by hard ticks ( Ixodes ) and has been reported as a cause of fever in areas of North America.
+
+============================================================
+CHUNK 5
+============================================================
+Geographic Distribution (Fig. 80.2)
+Each RF Borrelia species is considered to be vector speci{c. 3 In Europe,  a  few  cases  have  been  related  to  an  unnamed  TBRF Borrelia most closely related to B. hispanica in Spain. 13 In Africa, Ornithodoros  erraticus transmits B.  hispanica in  coastal  areas  of Morocco,  Algeria,  and  T unisia; O.  sonrai (formerly Alectorobius sonrai ) transmits B. crocidurae in West Africa and several arid areas of northern Africa; O. moubata / O. porcinus transmit B. duttonii in central, eastern, and southern Africa, whereas B. recurrentis persists only in Ethiopia. 3,4,14 In T anzania, molecular studies have identi{ed a  non-cultured Borrelia species  most  closely  related  to  North America TBRF borreliae; its role in human infection is unknown. 4 In  Central Asia, B.  persica is  transmitted  by O.  tholozani . 15,16 In North America, B. hermsii is the main cause of TBRF in western areas,  extending from  southern British  Columbia down to Los Angeles County 17 ; B. turicatae is transmitted by O. turicata in T exas, and B. lonestari has been isolated only from Amblyomma americanum ticks in the southeastern and south-central United States, where it  is  a  putative  agent  of  the  'Southern  tick-associated  rash illness'. 18,19 Among TBRF borreliae of unknown pathogenicity in humans, B. anserina is recognized as the agent of fowl spirochetosis, 20 and B. coriaceae is a putative agent of epizootic bovine abortion. 21
+
+============================================================
+CHUNK 6
+============================================================
+Geographic Distribution (Fig. 80.2)
+The rate of TBRF transmission after the feeding of an infectious tick has been estimated to be 50%, with an incubation period of 2 to 18 days, 16 but the epidemiology of RF borrelioses is poorly understood, as most data are speci{c to louse-borne RF (LBRF), and TBRF estimates  have been made on the basis  of  sporadic localized studies. 4 Moreover, routine microscopic examination of blood does not allow distinguishing between the various Borrelia species. 4 Interestingly, TBRF was found to be the most common bacterial infection in Senegal, 22 to be responsible for 27% of hospital
+due to
+B. duttonii due to
+B. recurrentis
+Fig. 80.1 Reservoirs and epidemiologic cycle for RF borreliae. Question mark indicates that the reservoir/ vector is putative in the absence of reproducible, firm data.
+admissions in Ethiopia, 4 and  was diagnosed in 21% of patients with unexplained fever in Morocco. 23 In the Democratic Republic of Congo, TBRF was found in 4.3% to 7.4% of outpatients. 14 In Tanzania, it  is  responsible  for  perinatal  mortality,  with  rates  of 463/1000 in endemic regions. 4
+Seasonality of human RF seems to be driven by human activities; in Ethiopian rural settings, a recent study indicated that LBRF was more frequent in the dry season, possibly associated with the seasonal migration of highlanders. 4 In North America, cases are more frequent during spring and summer, in line with vacation periods, 5 and are associated with activities that expose individuals to infectious ticks, including overnight stays in mountain recreational cabins, caves, and crawl spaces under buildings. 17,24,25
+
+============================================================
+CHUNK 7
+============================================================
+Relapsing Fever Borreliae
+The genus Borrelia, phylum Spirochetae, includes a number of borreliae, including Lyme disease borreliae, about 20 species of
+RF  borreliae,  and  reptile-associated  borreliae  without  current medical  interest 26 (Fig.  80.3).  RF  borreliae  feature  a  spiroid morphology and contain a 1.2- to 1.5-Mb, linear, and fragmented genome composed of one chromosome and 7 to 16 plasmids. 27 Genomic analyses indicate that RF borreliae have several silent variable-membrane protein gene copies kept in a plasmidic library, with only one of these  being expressed on the chromosome at any given time. Analyses indicate that B. recurrentis is a louse-borne derivative of B. duttonii undergoing genomic decay. 27
+
+============================================================
+CHUNK 8
+============================================================
+Pathogenesis
+After  inoculation  into  blood,  RF  organisms  are  cleared  by  an IgM-mediated,  complement-independent  mechanism  targeting the  expressed  variable  membrane  protein,  as  well  as  antibodyindependent  splenic  phagocytosis. 28 The  organism  undergoes antigen variation, with the expression of a new variable membrane protein resulting in evasion of the immune system, the expansion of  a  new Borrelia clone,  and  an  illness  characterized  as  a  RF . B. duttonii and B. crocidurae (but not B. recurrentis ) bind to erythrocyte neolactoglycans (leading to erythrocyte rosetting), providing
+Fig. 80.2 Geographic distribution of RF borrelioses.
+Fig. 80.3 The various RF borreliae as depicted by analysis of the 16S rDNA gene. Number at node indicates the bootstrap value. Borrelia burgdorferi, the Lyme disease Borrelia, was put as an outgroup to root the tree. Pathogenicity for humans is either certain (*) or unknown (?) when the TBRF has been characterized only in ticks.
+borreliae  with  essential  purine  metabolites  and  contributing  to immune system evasion, hemorrhages, reduced tissue blood perfusion, and tissue invasiveness. 4,29 Bacteremia results in multi-systemic infection of the skin, joints, heart, and the central nervous system, but RF borreliae have never been observed intracellularly. Systemic dissemination results in complications and even death. Congenital TBRF may result from trans-placental transmission or may possibly be  caused  by  infection  while  traversing  the  birth  canal. 30 The brain can remain infected weeks after blood clearance, and borreliae entrapped in the brain can re-seed blood in the case of immunosuppression. 31 A  Jarisch-Herxheimer  reaction  is  often  observed  in patients within hours of initiation of treatment with penicillin or tetracyclines and is linked to the lysis of intra-vascular borreliae with subsequent activation of cytokine cascades and a transient elevation  of  plasma  tumor  necrosis  factor,  interleukin  (IL)-6, and IL-8. 32
+
+============================================================
+CHUNK 9
+============================================================
+Clinical Features
+RFs are to be diagnosed in local populations, as well as in travelers and refugees from endemic regions. 33 LBRF is characterized by high fevers that can relapse up to four times ({ve fever episodes in total); B. crocidurae and B. hispanica infection have been associated with up to 13 recurrences of fever observed over several months. 4 Fever is accompanied by a |ulike syndrome with rigors, headache, myalgia, and arthralgias in > 90% patients. 4  North American TBRF is associated with nausea and vomiting. 17 Evidence of a tick bite can be found in only 25% of patients, although clinical examination may reveal a transient, erythematous macular lesion at the site  of  the  tick  bite, 17 tachycardia  occurs  in > 95%  of  patients, conjunctivitis  in > 90%  of B.  recurrentis -infected  patients,  and hepatosplenomegaly in > 65% patients. 4 Although TBRF patients may have thrombocytopenia, bleeding complications have been speci{cally  observed  in  almost  a  third  of  LBRF  patients  and may include epistaxis, purpura, hemoptysis, hematemesis, bloody diarrhea, hematuria, sub-arachnoidal and cerebral hemorrhages, and  retinal  hemorrhage. 4,5 In  North  American  TBRF,  dysuria occurs  in  over  10%  of  patients,  microhematuria  in  30%,  and proteinuria in 46%. 5
+
+============================================================
+CHUNK 10
+============================================================
+Clinical Features
+Neurologic manifestations are observed in 10% to 80% patients with B.  duttonii,  B.  turicatae, and B.  recurrentis infection,  and  in < 5% patients with B. persica, B. hermsii, B. hispanica, and B. recurrentis infection. 24 Neurologic  involvement  may  include  meningismus and normal or slightly abnormal cerebrospinal |uid (CSF) in the case  of  TBRF,  but  not  in  the  case  of  LBRF. 24 TBRF borreliae have been isolated from the CSF in African patients. Cranial neuritis and febrile facial palsy have been observed during the second or subsequent relapses with B.  duttonii and B.  turicatae, but  not  in LBRF. Encephalitis may manifest as extreme somnolence, seizures, or hemiplegia for a few weeks. Less common manifestations include myelitis, radiculitis, and neuropsychiatric disturbances.
+Ocular  complications  observed  after  the  third  relapse  of B. duttonii, B. hermsii, B. turicatae, and B. hispanica infection (but not LBRF) include iritis, cyclitis, choroiditis, and optic neuritis. Ocular involvement impairs vision. 24,34 Myocarditis and liver dysfunction are rare. Infection with B. crocidurae and B. hispanica are associated with  a  low  mortality  ( < 0.2%), 22 but  mortality  can  exceed  30% during untreated LBRF B. recurrentis infection. 4 Even with appropriate treatment, mortality can reach 2% to 6% in LBRF. 4
+RF  during  pregnancy  can  be  severe. B.  crocidurae provoked one  early  delivery  among  16  women  in  Senegal, 22 and  in  one study  in  the  Democratic  Republic  of  Congo, B.  duttonii was diagnosed  in  6.4%  of  hospitalized  pregnant  women  and  was associated  with  maternal  death  and  spontaneous  abortion. 14 In Africa, mortality of TBRF is higher among pregnant women than in the general population. 35 In North America, infection of four pregnant women by B.  hermsii resulted  in  congenital TBRF in one case. 5
+
+============================================================
+CHUNK 11
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+The diagnosis of RF should be considered in any patient presenting with  a  febrile  |ulike  syndrome  returning  from,  or  living  in,  a country endemic for RF . In Africa, the diagnosis must be considered in  a  patient  presenting  with  ' Plasmodium -negative  malaria'  or 'treatment-resistant  malaria' 36 ;  moreover,  malaria  co-infection has  been  reported. 4 A  history  of  tick  bite  and  a  history  of  RF increase  the  predictive  value  of  the  diagnosis,  but  bites  of  soft ticks are usually unnoticed by patients.
+Diagnosis usually involves microscopic examination of a blood smear after Giemsa, Wright, or Gram staining, or using dark-{eld microscopy. Thick blood smears should be performed (thin smears are only 20% as sensitive as thick blood smears). 22,23 Spirochetemia is usually < 200 borreliae/ μ L in most of B. crocidurae and B. hispanica cases. It is 10 times higher in B. duttonii patients and even higher in B. recurrentis cases. 4 Quantitative buffy coat analysis is effective in the detection of blood B. crocidurae, but requires a |uorescence microscope. 37
+Molecular detection can be performed using whole blood, using 16S rDNA-derived primers, 23 the non-coding intergenic 16S-23S rDNA  spacer, 23 or  the  |agellin-encoding  gene Ra, 2 which  are common to Lyme disease and TBRF borreliae, whereas the glp Q gene  is  speci{c  for  TBRF  borreliae. 38 Semi-nested  and  nested polymerase chain reaction (PCR) both carry a high risk of contamination and should be avoided. Nested PCR-based detection must be interpreted with caution.
+
+============================================================
+CHUNK 12
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Isolation and culture of borreliae is very sensitive and involves inoculating decontaminated ticks or human blood or CSF into Barbour-Stonner-Kelly-H medium 39 complemented by 12% rabbit serum,  or  into  modi{ed  Kelly's  medium 38 or  tick  cell  line. 18 Inoculation with 200 μ L patients' whole blood, the platelet-rich fraction of plasma, or the buffy coat is the most sensitive method. 37 Antibiotic susceptibility testing is not a routine test. Animal models indicate that TBRF could be treated with tetracyclines, penicillin, cephalosporins (including ceftriaxone), and aminoglycosides; the latter results disagree with in vitro data. 24 Animal studies indicate that chloramphenicol is not effective. 24
+Serologic assays are complicated by the fact that RF borreliae extensively alter their surface proteins and by the fact that > 10 proteins  cross-react  with  Lyme  disease  borreliae. 5 As  RF  borreliae  are  not  widely  available,  a  standardized  enzyme-linked immunosorbent assay for B. burgdorferi could be used as a {rstline  serologic  test,  with  Western  blot  allowing  discrimination between  cross-reacting  RF  borreliae,  Lyme  disease  borreliae, and  syphilis.  A  GlpQ  assay  speci{c  for  RF  borreliae  has  also been used. 40
+
+============================================================
+CHUNK 13
+============================================================
+TREATMENT
+Rapid administration of an effective antibiotic  is  mandatory in suspected cases of RF. Patients are most commonly treated with doxycycline (200 mg per day; 1-2 mg/kg/day in children aged > 8 years); short-course treatment could be used for LBRF, whereas a 7- to 21-day treatment is recommended for TBRF to prevent relapses. 6,23 In children < 8 years and in pregnant women, 1.5 g/ day  amoxicillin  for  7  to  21  days  could  be  used.  Patients  with neurologic involvement may be treated with 2 g ceftriaxone/day for  14 days. A Jarisch-Herxheimer reaction, with sudden fever, rigors,  and  hemodynamic  instability,  has  been  observed  with β -lactams, tetracyclines, erythromycin, and cipro|oxacin 41 ; it was reported  in  almost  all  patients  with  LBRF ,  in  up  to  59%  in B. duttonii patients, and in up to 54% in B. hermsii patients, but not in B. crocidurae patients. 5,32 Patients should be observed for at least 2 hours after initiation of antibiotic treatment. 5
+Supportive therapy should be undertaken, including for patients developing the Jarisch-Herxheimer reaction.
+
+============================================================
+CHUNK 14
+============================================================
+PREVENTION AND CONTROL
+Primary prevention of TBRF relies on public education regarding the risk of minimizing rodent exposure, rodent nest manipulation, and visiting caves and similar sites. 25 Advice should be given on minimizing exposed skin and pre-treating bed nets and clothes with an insecticide such as permethrin or dimethyltoluamide to prevent the attachment of all stages of Argasidae ticks to humans. Pre-exposure prophylaxis with amoxicillin has been successfully used. 2 Primary prevention of LBRF relies on clothing hygiene aimed at avoiding body  louse  infestation. 4 There  is  no  vaccine against RF.
+In the case of potential exposure to ticks in high-risk environments,  secondary  prevention  by  pre-emptive  administration  of oral doxycycline (200 mg on day 1 and then 100 mg per day for 4 days) has been demonstrated to be effective and safe. 16 Doxycycline prophylaxis has, however, been associated with photo-allergic rash, photo-onycholysis, nausea, diarrhea, and vaginal itch. 42 People should be informed of these potential side effects and advised to minimize sun exposure.
+
+============================================================
+CHUNK 15
+============================================================
+REFERENCES
+1.  Obermeier  O. Vorkommen  feinster eine  eigenbewegung  zeigender faden im blute von rekurrenskranken. Zentralbl Med Wiss 1873;11:145, [in German].
+2.  Assous MV, Wilamowski A. Relapsing fever borreliosis in Eurasiaforgotten, but certainly not gone! Clin Microbiol Infect 2009;15:407-14.
+3.  Parola P , Raoult D. Ticks and tick-borne bacterial diseases in humans: an emerging infectious threat. Clin Infect Dis 2001;32:897-928.
+4.  Cutler  SJ.  Relapsing  fever-a  forgotten  disease  revealed.  J  Appl Microbiol 2010;108:115-22.
+5.  Dworkin MS, Anderson DE Jr, Schwan TG, et al. Tick-borne relapsing fever in the Northwestern United States and Southwestern Canada. Clin Infect Dis 1998;26:122-31.
+6.  Larsson C, Andersson M, Bergstrom S. Current issues in relapsing fever. Curr Opin Infect Dis 2009;22:443-9.
+7.  Houhamdi L, Raoult D. Excretion of living Borrelia recurrentis in feces of infected human body lice. J Infect Dis 2005;191:1898-906.
+8.  Barbour AG. Relapsing fever. In: Goodman JL, Dennis DT, Sonenshine DE, editors. Tick-borne diseases of humans. Washington: ASM Press; 2005. p. 268-91.
+9.  Evans NJ, Bown K, Timofte D, et al. Fatal borreliosis in bat caused by  relapsing  fever  spirochete,  United  Kingdom.  Emerg  Infect  Dis 2009;15:1331-3.
+10.  Gill JS, Ullmann AJ, Loftis AD, et al. Novel relapsing fever spirochetes in bat tick. Emerg Infect Dis 2008;14:522-3.
+
+============================================================
+CHUNK 16
+============================================================
+REFERENCES
+11.  Fischer RJ, Johnson TL, Raffel SJ, Schwan TG. Identical strains of Borrelia hermsii in mammal and bird. Emerg Infect Dis 2009;15:2064-6.
+12.  T akano  A,  Muto  M,  Sakata  A,  et al.  Relapsing  fever  spirochete  in seabird tick, Japan. Emerg Infect Dis 2009;15:1528-30.
+13.  Anda P , Sanchez-Yebra W, del Mar Vitutia M, et al. A new Borrelia species isolated from patients with relapsing fever in Spain. Lancet 1996;348:162-5.
+14.  Tissot Dupont H, La Scola B, Williams R, Raoult D. A focus of tickborne relapsing fever in Southern Zaire. Clin Infect Dis 1997;25:139-44.
+15.  Moemenbellah-Fard MD, Benafshi O, Ra{nejad J, Ashraf H. Tick-borne relapsing fever in a new highland endemic focus of western Iran. Ann Trop Med Parasitol 2009;103:529-37.
+16.  Hasin T, Davidovitch N, Cohen R, et al. Postexposure treatment with doxycycline for the prevention of tick-borne relapsing fever. N Engl J Med 2006;355:148-55.
+17.  Schwan TG, Raffel SJ, Schrumpf ME, et al. Tick-borne relapsing fever and Borrelia  hermsii ,  Los  Angeles  county,  California,  USA.  Emerg Infect Dis 2009;15:1026-31.
+18.  Varela AS,  Luttrell  MP,  Howerth  EW,  et al.  First  culture  isolation of Borrelia  lonestari ,  putative  agent  of  southern  tick-associated  rash illness. J Clin Microbiol 2004;42:1163-9.
+19.  James AM, Liveris D, Wormser GP , et al. Borrelia lonestari infection after a bite by an Amblyomma americanum tick. J Infect Dis 2001;183:1810-14.
+
+============================================================
+CHUNK 17
+============================================================
+REFERENCES
+20.  Lisboa  RS,  T eixeira  RC,  Rangel  CP,  et al.  Avian  spirochetosis  in chickens following experimental transmission of Borrelia anserina by Argas ( Persicargas ) miniatus . Avian Dis 2009;53:166-8.
+21.  LeFebvre RB, Perng GC. Genetic and antigenic characterization of Borrelia coriaceae , putative agent of epizootic bovine abortion. J Clin Microbiol 1989;27:389-93.
+22.  Vial L, Diatta G, T all A, et al. Incidence of tick-borne relapsing fever in West Africa: longitudinal study. Lancet 2006;368:37-43.
+23.  Sarih  M,  Garnier  M,  Boudebouch  N,  et al.  Molecular  detection of Borrelia  hispanica relapsing  fever  in  Morocco.  Emerg  Infect  Dis 2009;15:1626-9.
+24.  Cadavid D, Barbour AG. Neuroborreliosis during relapsing fever: review of the clinical manifestations, pathology, and treatment of infections in humans and experimental animals. Clin Infect Dis 1998;26:151-64.
+25.  Maupin WSP, Scott-Wright AO, Craven RB, Dennis DT. Outbreak of tick-borne relapsing fever at the North Rim of the Grand Canyon: evidence for effectiveness of preventive  measures. Am  J T rop  Med Hyg 2002;66:71-5.
+26.  T akano A, Goka K, Une Y, et al. Isolation and characterization of a novel Borrelia group of tick-borne borreliae from imported reptiles and their associated ticks. Environ Microbiol 2010;12:134-46.
+27.  Lescot M, Audic S, Robert C, et al. The genome of Borrelia recurrentis , the agent of deadly louse-borne relapsing fever, is a degraded subset of tick-borne Borrelia duttonii . PLoS Genet 2008;4:e1000185.
+28.  Connolly SE, Benach JL. Cutting edge: the spirochetemia of murine relapsing  fever  is  cleared  by  complement-independent  bactericidal antibodies. J Immunol 2001;167:3029-32.
+
+============================================================
+CHUNK 18
+============================================================
+REFERENCES
+29.  Guo BP, T eneberg S, Münch R, et al. Relapsing fever Borrelia binds to  neolacto  glycans  and  mediates  rosetting  of  human  erythrocytes. Proc Natl Acad Sci USA 2009;106:19280-5.
+30.  Fuchs PC, Oyama AA. Neonatal relapsing fever due to transplacental transmission of Borrelia . JAMA 1969;208:690-2.
+31.  Larsson C, Andersson M, Pelkonen J, et al. Persistent brain infection and disease reactivation in relapsing fever borreliosis. Microbes Infect 2006;8:2213-19.
+32.  Negussie Y, Remick DG, DeForge LE, et al. Detection of plasma tumor necrosis factor, interleukin 6, and 8 during the Jarisch-Herxheimer reaction of relapsing fever. J Exp Med 1992;175:1207-12.
+33.  Osthoff M, Schibli A,  Fadini  D, et al.  Louse-borne relapsing  fever -  report  of  four  cases  in  Switzerland,  June-December  2015.  BMC Infect Dis 2016;16:210.
+34.  Lim LL, Rosenbaum JT. Borrelia hermsii causing relapsing fever and uveitis. Am J Ophthalmol 2006;142:348-9.
+35.  Barclay A, Coulter J. Tick-borne relapsing fever in central T anzania. Trans R Soc Trop Med Hyg 1990;84:852-6.
+36.  Nordstrand A, Bunikis I, Larsson C, et al. Tickborne relapsing fever diagnosis obscured by malaria, T ogo. Emerg Infect Dis 2007;13:117-23.
+37.  van Dam AP, van Gool T, Wetsteyn JCFM, Dankert J. Tick-borne relapsing fever imported from West Africa: diagnosis by quantitative buffy coat analysis and in vitro culture of Borrelia crocidurae .  J  Clin Microbiol 1999;37:2027-30.
+
+============================================================
+CHUNK 19
+============================================================
+REFERENCES
+38.  Halperin T, Orr N, Cohen R, et al. Detection of relapsing fever in human blood samples from Israel using PCR targeting the glycerophosphodiester phosphodiesterase (GlpQ) gene. Acta T rop 2006;98:189-95.
+39.  Barbour AG. Isolation and cultivation of Lyme disease spirochetes. Yale J Biol Med 1984;57:521-5.
+40.  Schwan TG, Schrumpf ME, Hinnebusch BJ, et al. GlpQ: an antigen for  serological  discrimination  between  relapsing  fever  and  Lyme borreliosis. J Clin Microbiol 1996;34:2483-92.
+41.  Webster  G,  Schiffman  JD,  Dosanjh  AS,  et al.  Jarisch-Herxheimer reaction associated with cipro|oxacin administration for tick-borne relapsing fever. Pediatr Infect Dis J 2002;21:571-3.
+42.  Croft AM, Jackson CJ, Darbyshire AH. Doxycycline for the prevention of tick-borne relapsing fever. N Engl J Med 2006;355:1614.
+

@@ -1,0 +1,264 @@
+============================================================
+CHUNK 0
+============================================================
+48
+
+============================================================
+CHUNK 1
+============================================================
+KEY FEATURES
+- bacterium, Shigella, which destroys ileal and colonic epithelium and elicits a local and systemic in|ammatory response.
+- Shigella species cause infection, with clinical presentations varying by species and serotype. Of these, Shigella dysenteriae type 1, which has become rare since the start of the new millennium, is associated with pandemic and epidemic disease and the highest mortality rate.
+- Shigella. Infection occurs by fecal-oral or human-to-human transmission where hygiene and sanitation are problematic, such as in developing countries or in daycare centers.
+- syndrome, characterized by tenesmus, cramps, passage of bloody-mucoid stools, and fever.
+- Shigella who have dysentery or systemic symptoms bene{t from antimicrobial therapy. The value of antimicrobial treatment is uncertain in patients with uncomplicated Shigella infection and watery diarrhea.
+- developing country settings, the decision to initiate treatment with an antimicrobial agent should be empiric, based upon a presumptive clinical diagnosis (dysentery being the distinguishing feature) and knowledge of the antimicrobial resistance pattern of circulating strains.
+- effective in treatment of shigellosis has left only two drugs that are widely available for outpatient treatment: cipro|oxacin (or similar |uoroquinolones) and azithromycin. Increasing resistance to these two agents may presage a time when there are no effective agents for the treatment of shigellosis.
+- shigellosis, including hemolytic uremic syndrome (with S. dysenteriae type 1), reactive arthritis, and seizures.
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+Shigella infection, though ubiquitous globally, is a much different disease in poor and middle-income countries than in rich countries. Especially  in  poor  countries  it  remains  an  important  cause  of death  and  results  in  substantial  morbidity,  affecting  nutrition, growth, and susceptibility to future infections. In rich countries it occurs most commonly in daycare settings, among men having sex with men, and in food-based outbreaks. This chapter will focus on  the  clinical  manifestations,  diagnosis,  and  management  of shigellosis in poor countries, where more than 90% of all Shigella infections occur.
+
+============================================================
+CHUNK 3
+============================================================
+Shigellosis
+Michael L. Bennish, Sabeena Ahmed
+
+============================================================
+CHUNK 4
+============================================================
+HISTORY AND EPIDEMIOLOGY
+Shigella dysenteriae type 1, a gram-negative bacillus, was identi{ed by the Japanese microbiologist Kiyoshi Shiga as a cause of the dysentery syndrome in 1897. 1 Subsequently, three other species of Shigella causing endemic dysentery or diarrhea were identi{ed and received eponymous species names ( S. Rexneri, S. boydii, and S. sonnei ). 1 These species are further characterized by serotyping, with  over  50  serotypes  identi{ed  (with S.  sonnei having  only  a single serotype). Infection with S. dysenteriae type 1, the only species that produces Shiga toxin, causes the most severe disease, S. sonnei generally the least severe, and S. Rexneri infection causing disease of intermediate severity. 2
+Estimates of the disease burden from Shigella infection  vary depending on  the population  studied,  the  diagnostic  test  used, and methods used to generalize survey results to the global population. 3,4 Whatever the methods used, Shigella infections are among the  four  most  common  pathogens  causing  enteric  infection worldwide. 5 And if sensitive molecular diagnostic techniques are used , and adjustment made for asymptomatic carriage of pathogens, Shigella may be the most common cause of moderate to severe enteric infections. 4 The highest incidence of disease is in children ages  1  to  4  years,  an  age  group  in  which  it  is  often  the  most common cause of enteric infection. 6 Because immunity is in part serotype speci{c, adults are susceptible to infection even if they have previously been infected with another serotype of Shigella. Shigella infections are the second-most common cause of diarrhea mortality after rotavirus, causing an estimated 55,000 deaths globally in children less than 5 years of age. 7 In contrast to most enteric infections, more deaths from Shigella occur in older children and adults (an estimated 110,000) than in those under 5 years of age. 8
+
+============================================================
+CHUNK 5
+============================================================
+HISTORY AND EPIDEMIOLOGY
+Humans are the only reservoir of Shigella (non-human primates will develop dysentery if challenged but play no role in transmission in  community  settings).  Asymptomatic  long-term  carriage  is uncommon. Shigellae are not hardy in the environment, so the role of fomites is limited. Shigellosis is associated with poor hygiene and underdevelopment. Infections usually result from fecal-oral spread from an infected individual. Flies may play a role in spreading infection. T ransmission by water or by commercial food products occurs and is proportionally more common in rich countries. Men who have sex with men and persons with HIV infection are at increased risk for Shigella infection, especially severe disease. 9 This has resulted in changes in the age-distribution pattern of shigellosis in many rich countries but has not had a substantial effect on the epidemiologic  pattern  of  shigellosis  in  poor  countries. Shigella transmission is facilitated by the very low infectious inoculum, with fewer than 100 organisms capable of transmitting infection.
+In wealthy, industrialized countries S. sonnei is the predominant cause of infection; the more virulent S. Rexneri is less common. The reverse is true in relatively poor countries, where S. Rexneri predominates (Fig. 48.1). The switch from a preponderance  of S. Rexneri infections to S. sonnei infections may be a marker of a country's social and economic development. 10
+Epidemics of dysentery, especially those with high mortality rates, are caused by S. dysenteriae type 1 infections. Endemic and epidemic S. dysenteriae type 1 infections had, in the last decades of the 20th century, most commonly occurred in South Asia and central and east Africa. Since 2000, S. dysenteriae type 1 infections have become rare worldwide. The reasons for this are not understood. S. dysenteriae type 1 has previously become uncommon for
+Fig. 48.1 Geographic distribution of Shigella by species and serotype.
+Fig. 48.2 Microscopic view of colonic epithelium obtained from descending colon of patient with shigellosis showing extensive ulceration to the level of the lamina propria (arrow).
+
+============================================================
+CHUNK 6
+============================================================
+HISTORY AND EPIDEMIOLOGY
+decades only to reappear in lethal epidemics, 11 a pattern that could presumably recur. Infections with S. boydii have historically been most common in South Asia, but account for only a minority of infections even in locations where this species is endemic. Infections with S. dysenteriae other than type 1 are even less common.
+
+============================================================
+CHUNK 7
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Shigella infections have a usual incubation period of 1 to 3 days, with untreated disease lasting 5 days or more. Shigellosis is an infection of the distal ileum and colon. Shigellae are enteroinvasive, that is, they invade, multiply within, and destroy colonic epithelial cells. This results in tissue destruction, mucosal ulceration, disruption of small vessels and hemorrhage, and microabscesses in the colon (Fig. 48.2). Infection and in|ammation are most severe in the rectosigmoid and less severe proximally. 12
+Fig. 48.3 Characteristic dysenteric stool of a patient with shigellosis containing blood, mucus, and small amounts of fecal matter.
+Infection  elicits-both locally  and  systemically-a profound in|ammatory response with an outpouring of polymorphonuclear cells and mucus. This, along with the blood from the ulceration and destruction of small vessels in the colonic epithelium, results in  the  characteristic  dysenteric  stool  (Fig.  48.3).  The  systemic in|ammatory response is re|ected in the chills, fever, and profound malaise that often precede the dysentery.
+Virulence in Shigella is primarily controlled by a 220-kb virulence plasmid that has genes encoding adherence and invasion of colonic epithelial  cells  and  spread  within  and  between  cells.  It  is  this plasmid that makes Shigella distinct from Escherichia coli, which it otherwise closely resembles genetically. Shigella survival is enhanced by  inducing  apoptosis  in  macrophages,  thus  circumventing  an important component of the host response.
+S. dysenteriae type 1 produces an exotoxin, Shiga toxin, which inhibits protein synthesis. Its precise role in the pathogenesis of infection remains unclear, but it probably induces vascular damage
+
+============================================================
+CHUNK 8
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+that results in both the more severe colitis and systemic complications. The latter include hemolytic-uremic syndrome (HUS) and leukemoid reaction that almost never occur with other species or serotypes  of Shigella. 2   NonS.  dysenteriae type  1  serotypes  only rarely (via a lysogenic bacteriophage) have the genetic capability to produce toxin. Additional enterotoxinsShigella enterotoxins (ShET) 1 and 2-are implicated in the  watery  diarrhea that  is often the presenting feature of shigellosis.
+
+============================================================
+CHUNK 9
+============================================================
+CLINICAL FEATURES
+The  hallmark  of Shigella infection  is  dysentery-the  frequent, painful passage of small-volume stools that consist of mucus, blood, in|ammatory cells, and fecal matter (see Fig. 48.3) accompanied by tenesmus and cramping. All of these features are a result of the in|ammatory and ulcerative changes in the colon. In children with severe colitis, the repeated straining that is associated with the tenesmus can result in rectal prolapse (Fig. 48.4).
+Watery diarrhea, rather than dysentery, can often be the presenting intestinal symptom. 2 In many patients, especially those with S.  sonnei infection,  the  diarrhea  remains  watery  and  dysentery never occurs. 13
+Intestinal  complications are most  common, but not limited, to S. dysenteriae type 1 infection (T able 48.1). Complications include toxic colitis, 14 which causes obstruction and systemic toxicity and mimics  the  toxic  colitis  seen  with  ulcerative  colitis  (Fig.  48.5A and B) gut perforation, and a protein-losing enteropathy. 15
+A host of systemic, non-intestinal complications can occur with shigellosis, most of which appear to be more common and more severe among malnourished children in developing countries (see Table 48.1). 2
+Fever  is  a  characteristic  of  most Shigella infections  and  can often be high (40°C) and sustained. The rapid rise of fever with shigellosis leads to a relatively high incidence of seizures in young children  who  are  infected  ( ≈ 5%  in  one  study  of  hospitalized patients) 16 and can occur with infection of any of the species of Shigella. 16 Metabolic  complications  can  also  produce  seizures (Fig. 48.6).
+Lethargy  and  confusion  are  common  in  severe  shigellosis; obtundation  and  coma  may  also  occur. 16 These  mental  status changes may result from the metabolic derangements or because shigellosis, especially S. dysenteriae type 1, induces more generalized, but poorly understood, neurologic complications.
+Metabolic complications (see T able 48.1) include hypoglycemia from inadequate gluconeogenesis 17 and hyponatremia, presumably from inappropriate antidiuretic hormone secretion. Though the
+
+============================================================
+CHUNK 10
+============================================================
+CLINICAL FEATURES
+Fig. 48.4 Child with complete rectal prolapse.
+Fig. 48.5 (A) Child with toxic megacolon showing dilated loops of bowel. (B) Obstruction and air-fluid levels on abdominal radiograph.
+
+TABLE 48.1 Complications Associated With Shigellosis
+
+============================================================
+CHUNK 11
+============================================================
+CLINICAL FEATURES
+INTESTINAL COMPLICATIONS, Species Most Common With = INTESTINAL COMPLICATIONS. INTESTINAL COMPLICATIONS, Etiology and Pathogenesis = INTESTINAL COMPLICATIONS. INTESTINAL COMPLICATIONS, Management = INTESTINAL COMPLICATIONS. INTESTINAL COMPLICATIONS, Outcome = INTESTINAL COMPLICATIONS. Rectal prolapse, Species Most Common With = Shigella dysenteriae type 1, S. flexneri. Rectal prolapse, Etiology and Pathogenesis = Increased intra-abdominal pressure associated with repeated tenesmus and straining. Most common in infants and children because of lack of development of musculature.. Rectal prolapse, Management = Magnesium sulfate compresses to reduce edema; gentle re-insertion for grade 1-2 prolapse.. Rectal prolapse, Outcome = Usually recovers completely, but often recurs if diarrhea recurs.. Toxic megacolon, Species Most Common With = S. dysenteriae type 1. Toxic megacolon, Etiology and Pathogenesis = Transmural inflammation of colon, possibly increase in nitric oxide production in colonic musculature inhibiting motility.. Toxic megacolon, Management = Supportive. Intravenous fluids, no oral intake, antibiotics for sepsis and for treatment of primary infection. In poor countries where complications are most common, colectomy often not available and long-term care after colectomy is problematic.. Toxic megacolon, Outcome = Ominous complication often associated with leukemoid reaction or HUS. Mortality rate > 33%.. Intestinal perforation, Species Most Common With = S. dysenteriae type 1. Intestinal perforation, Etiology and Pathogenesis = Transmural ulcer from severe colonic inflammation.. Intestinal perforation, Management = Surgical repair if possible; broad- spectrum antimicrobial therapy for sepsis. Medical management if surgery not possible.. Intestinal perforation, Outcome = Less ominous outcome than toxic megacolon.. EXTRA-INTESTINAL COMPLICATIONS Metabolic Complications, Species Most Common With = EXTRA-INTESTINAL COMPLICATIONS Metabolic Complications. EXTRA-INTESTINAL COMPLICATIONS Metabolic Complications, Etiology and Pathogenesis = EXTRA-INTESTINAL COMPLICATIONS Metabolic Complications. EXTRA-INTESTINAL COMPLICATIONS Metabolic Complications, Management = EXTRA-INTESTINAL COMPLICATIONS Metabolic Complications. EXTRA-INTESTINAL COMPLICATIONS Metabolic Complications, Outcome = EXTRA-INTESTINAL COMPLICATIONS Metabolic Complications. Dehydration, Species Most Common With = S.
+
+============================================================
+CHUNK 12
+============================================================
+CLINICAL FEATURES
+sonnei, other species. Dehydration, Etiology and Pathogenesis = Watery diarrhea, with or without dysentery, can be a feature of all Shigella infections. Watery diarrhea may be caused by Shigella enterotoxins 1 and 2. Also increased fluid loss because of fever. Decreased fluid intake because of anorexia.. Dehydration, Management = Severe dehydration uncommon. Oral or intravenous fluid as appropriate.. Dehydration, Outcome = Rarely lethal alone, no long-term sequelae if managed appropriately.. Hyponatremia, Species Most Common With = S. dysenteriae type 1, less commonly S. flexneri. Hyponatremia, Etiology and Pathogenesis = Probable inappropriate secretion of antidiuretic hormone.. Hyponatremia, Management = If severe (Na < 120 mmol/L) with altered consciousness: infusion of 3% NaCl (12 mL/kg over a 4-hour period); less severe episode (Na 120-130 mmol/L): infusion of 0.9% NaCl; restriction of water intake.. Hyponatremia, Outcome = If treated, no long-term complications. If not recognized, can cause seizures, unconsciousness.. Hypoglycemia, Species Most Common With = S. dysenteriae type 1. Hypoglycemia, Etiology and Pathogenesis = Depleted glycogen stores; impaired gluconeogenesis.. Hypoglycemia, Management = Intravenous infusion of dextrose (2.0 mL/kg of 25% glucose).. Hypoglycemia, Outcome = No long-lasting complications if recognized early.. Hypoproteinemia, Species Most Common With = S. dysenteriae type 1, S. flexneri. Hypoproteinemia, Etiology and Pathogenesis = Protein loss in stool; decreased protein synthesis because of inflammation.. Hypoproteinemia, Management = High-protein diet; management of edema.. Hypoproteinemia, Outcome = Pulmonary edema, ascites. Complications will resolve if hypoproteinemia is corrected.. OTHER SYSTEMIC COMPLICATIONS, Species Most Common With = OTHER SYSTEMIC COMPLICATIONS. OTHER SYSTEMIC COMPLICATIONS, Etiology and Pathogenesis = OTHER
+
+============================================================
+CHUNK 13
+============================================================
+CLINICAL FEATURES
+SYSTEMIC COMPLICATIONS. OTHER SYSTEMIC COMPLICATIONS, Management = OTHER SYSTEMIC COMPLICATIONS. OTHER SYSTEMIC COMPLICATIONS, Outcome = OTHER SYSTEMIC COMPLICATIONS. Seizures and encephalopathy, Species Most Common With = S. sonnei, other Shigella species. Seizures and encephalopathy, Etiology and Pathogenesis = Seizures may be febrile in origin in young children; encephalopathy may be caused by metabolic aberrations or sepsis. Shiga toxin produced by S. dysenteriae type 1 known to be neurotoxic in animals-no evidence it causes neurotoxicity in humans.. Seizures and encephalopathy, Management = Correction of metabolic disorder if present; reduction of fever; anticonvulsant treatment, if required.. Seizures and encephalopathy, Outcome = Mortality usually not directly related to altered consciousness; rarely long-term sequelae if recognized and treated.. Septicemia, Species Most Common With = S. dysenteriae type 1, other Shigella species less commonly. Septicemia, Etiology and Pathogenesis = Colonic perforation or leakage because of transmural inflammation; iatrogenic from contamination of intravenous solutions or needle.. Septicemia, Management = Broad-spectrum antibiotic; infusion of intravenous fluid to combat shock.. Septicemia, Outcome = High mortality if not recognized; no long-term sequelae if treated appropriately.. Hemolytic uremic syndrome (HUS), Species Most Common With = S. dysenteriae type 1. Hemolytic uremic syndrome (HUS), Etiology and Pathogenesis = Related to Shiga toxin production.. Hemolytic uremic syndrome (HUS), Management = Fluid restriction; peritoneal or hemodialysis if required and facilities available; blood transfusion for anemia.. Hemolytic uremic syndrome (HUS), Outcome = In developing country settings associated with high risk of mortality because of lack of appropriate treatment. Usually no long-term severe renal impairment if patient recovers from acute phase.
+
+============================================================
+CHUNK 14
+============================================================
+CLINICAL FEATURES
+TABLE 48.1 Complications Associated With Shigellosis-cont'd
+
+Leukemoid reaction, Species Most Common With = S. dysenteriae type 1. Leukemoid reaction, Etiology and Pathogenesis = Feature of HUS, but may occur alone-also presumably related to Shiga toxin.. Leukemoid reaction, Management = Treat primary infection.. Leukemoid reaction, Outcome = No long-term sequelae.. Reactive arthritis, Species Most Common With = S. flexneri, S. sonnei. Reactive arthritis, Etiology and Pathogenesis = Autoimmune reaction with genetic susceptibility (persons with HLA-B27).. Reactive arthritis, Management = Anti-inflammatory treatment, symptomatic relief of pain, rest.. Reactive arthritis, Outcome = Usually occurs 2 to 3 weeks after illness onset. Usually monoarticular or migrating arthritis affecting large joints without redness or increase in temperature at the site; may be associated with conjunctivitis and urethritis. Little long-term follow-up reported, but can persist or recur.. Infection at other epithelial sites (conjunctiva, vagina), Species Most Common With = All species. Infection at other epithelial sites (conjunctiva, vagina), Etiology and Pathogenesis = Shigella occasionally infect other epithelial sites.. Infection at other epithelial sites (conjunctiva, vagina), Management = Systemic antimicrobial therapy.. Infection at other epithelial sites (conjunctiva, vagina), Outcome = Resolves with appropriate therapy.. Malnutrition, Species Most Common With = S. dysenteriae type 1, S. flexneri. Malnutrition, Etiology and Pathogenesis = Decreased food intake because of anorexia; increased protein loss in gut; increased metabolism from fever, inflammation; decreased protein synthesis because of inflammation.. Malnutrition, Management = Ensure adequate feeding. Use nasogastric tube if required. High-protein diet.. Malnutrition, Outcome = Post-infectious malnutrition puts children at risk of other infections. Associated with high mortality if not corrected.
+HLA , Human leukocyte antigen.
+Fig. 48.6 Child with seizures occurring in conjunction with hyponatremia.
+
+============================================================
+CHUNK 15
+============================================================
+CLINICAL FEATURES
+blood loss from the intestinal micro-hemorrhages is usually not severe  enough  to  cause  anemia,  it  may  exacerbate  pre-existing anemia. Hypoproteinemia can occur from a combination of protein loss in the gut, diminished nutrition during illness, and systemic in|ammation causing diminished protein synthesis. 11
+Shigella may also rarely cause infection of epithelial surfaces outside the gut, including the cornea and the vagina, 12,13 and may also  be  systemically  invasive,  causing  sepsis  from  bloodstream invasion by Shigella or other gut |ora. 18
+Shigella infection is the development of hemolytic uremic syndrome (HUS). 16 This complication occurs almost exclusively with S. dysenteriae type 1 and is similar to the HUS seen with enterohemorrhagic E. coli (EHEC), which produces a similar exotoxin. In addition to microangiopathic anemia and renal failure, leukemoid reaction (peripheral blood polymorphonuclear cell count > 50,000 mm 3 ) and thrombocytopenia may occur in association with HUS, or separately as a 'forme fruste' of HUS.
+
+============================================================
+CHUNK 16
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+The diagnosis of shigellosis is  important  because antimicrobial therapy  provides  substantial  bene{t  to  patients  with  dysentery caused by Shigella. Antimicrobial therapy both relieves the suffering that occurs from the primary disease-tenesmus is an agonizing condition-and can prevent complications. 19
+Although isolation of Shigella from  stool  is  required  for  the de{nitive diagnosis of shigellosis, the time required for isolation (48 hours), the lack of diagnostic microbiologic facilities at most health facilities in developing countries, and the insensitivity of current culture methods require that antimicrobial treatment be based upon a presumptive clinical diagnosis.
+In developing countries where shigellosis is endemic, children with  dysentery  have  a  high  probability  of  being  infected  with Shigella. In  adults,  other causes of dysentery are more common than  in  children,  but  all  patients  with  severe  dysentery  in  the tropics still have a high probability of having shigellosis.
+Other features supportive of the diagnosis of shigellosis include abdominal tenderness, fever (though less common in malnourished children),  and  rectal  prolapse.  During  an S.  dysenteriae type  1 epidemic,  the  probability  that  dysentery  is  a  result  of Shigella infection is even greater.
+The laboratory test most likely to be available in developing countries is microscopic examination of the stool using either a wet  mount  or  Gram  stain.  Either  will  show  large  numbers  of polymorphonuclear  cells  and  erythrocytes.  Other  supportive laboratory tests include a peripheral blood count with leukocytosis. Though rapid bedside tests for identi{cation of Shigella infection have been developed, none are currently in widespread use.
+If  microbiologic  laboratory  facilities  are  available,  de{nitive diagnosis is done by isolation of Shigella from the stool. Shigellae
+
+============================================================
+CHUNK 17
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+are  not  hardy.  Thus  cultures  are  best  done  by  plating  a  stool sample at the bedside or immediately transporting a sample to the laboratory. Samples requiring a delay are best transported in buffered-glycerol saline, which has a higher yield than the more commonly available Cary-Blair  transport  media.  Stool samples are  plated  upon  media  selective  for  gram-negative  organisms. Shigella does not ferment lactose and thus appears white or colorless on  selective media  containing  acid-sensitive  indicator dyes. Non-lactose-fermenting colonies are then further analyzed using biochemical  tests for  de{nitive  con{rmation  that they are Shigella.
+Both intestinal amebiasis caused by Entamoeba histolytica infection and Salmonella infections are a much less frequent cause of the dysentery syndrome, especially in children, in poor countries. 20 white cells  in  their  stool,  and  are  generally  less  toxic.  If  direct microscopy is available, the {nding of entero-phagocytic trophozoites of E. histolytica on examination of stool is characteristic of amebiasis. Campylobacter  jejuni infections,  though  common  in children, are less often severely symptomatic; cramping is more common than tenesmus, and stools are less bloody than in shigellosis.  Ulcerative  colitis  is  exceedingly  rare  in  comparison  with shigellosis.
+for complications (see T able 48.1). Rectal prolapse (see Fig. 48.4) will be evident on cursory examination but may be only intermitbecause  of  alteration in consciousness  or preceding  severe anorexia-should be monitored using simple {nger-prick blood glucose  monitoring.  Other  metabolic  abnormalities,  including hyponatremia, should also be suspected in patients with altered consciousness and require laboratory monitoring. The development of  toxic  megacolon  is  best  identi{ed  by  physical  examination showing signs of obstruction: distended abdomen (see Fig. 48.5A) accompanied by vomiting and often hyperactive bowel sounds. Abdominal radiographs will show ileus and {ndings of obstruction (see Fig. 48.5B).
+
+============================================================
+CHUNK 18
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+If S. dysenteriae type 1 infection is suspected, there should be monitoring of hematocrit or hemoglobin and renal function. If severe anemia or diminished renal function (measured either by an increase in blood creatinine or urea nitrogen and diminished urine  output)  occurs,  such  patients  should  be  transferred  to  a facility (if available) capable of conducting renal dialysis.
+
+============================================================
+CHUNK 19
+============================================================
+Antimicrobial Therapy
+Antimicrobial drugs are the de{nitive treatment for shigellosis, and all  persons  with  symptomatic  shigellosis  in  poor  countries should receive antimicrobial therapy. Greatest ef{cacy is achieved when treatment is initiated early in the course of illness. Controlled trials from the 1950s onward established the value of antimicrobial therapy in children and  adults  with  shigellosis and dysentery. 21 Treatment shortens the course of illness and pathogen excretion, and  reduces  complications  and  mortality. 22 There  is  increasing evidence that  watery  diarrhea caused  by Shigella infection  may lead to increased mortality and have long-term nutritional and developmental effects. 23 The challenge remains of how to identify such patients in the much larger universe of children with watery diarrhea not requiring antimicrobial therapy. General characteristics of drugs effective in shigellosis are shown in Box 48.1. 21
+Drugs meeting these criteria must still show ef{cacy in clinical trials. Oral cephalosporins, for instance, have proven ineffective, 24 mainstays of therapy-ampicillin, trimethoprim-sulfamethoxazole, nalidixic acid, and tetracycline-are no longer useful because of widespread resistance (indeed, the transfer of multiple-antibiotic
+BOX 48.1 Characteristics of Drugs Effective in the Treatment of Shigellosis
+- Shigella .
+- inhibitory concentration (MIC) of the infecting strain of Shigella or have high intracellular concentrations, given the intracellular nature of the infection.
+- parenteral therapy where the majority of Shigella infections occur.
+resistance by genetic elements such as R-factors [plasmids] encoding for antimicrobial resistance was {rst described in Shigellae).
+
+============================================================
+CHUNK 20
+============================================================
+Antimicrobial Therapy
+The |uoroquinolones and azithromycin are the current drugs of choice for treating shigellosis (T able 48.2). Diminished susceptibility  and  frank  resistance to these are increasing. 25,26 Because intracellular concentrations of azithromycin are much higher than serum  concentrations, laboratory thresholds for identifying resistance  (which  have  not  been  de{ned  for Shigella but  are extrapolated  from  other  Enterobacteriaceae)  may  not  correlate when infected with isolates with high-level resistance. Knowledge of the prevalence of resistance in a community is a prerequisite for deciding on empiric therapy. This requires ongoing surveillance-something  often  lacking  in  developing  countries where shigellosis is most common. No new drugs for the treatment of  shigellosis  have  been  introduced  in  the  more  than  20  years since azithromycin was {rst evaluated for treatment of shigellosis in 1997, 27 and none are on the near horizon. This raises the specter of  having  a  common and potentially lethal  infection  for which there is no effective antimicrobial therapy.
+
+============================================================
+CHUNK 21
+============================================================
+Supportive Therapy and Treatment of Complications
+Severe dehydration is not a common feature of shigellosis, and thus intravenous therapy is rarely required in conscious patients. 2 loss.
+Equally important is early feeding. 28 Because of the anorexia, protein loss in the gut, and increased metabolism, the development of malnutrition (or exacerbation of pre-existing malnutrition) is an important complication of shigellosis. Aggressive feeding with a high-protein diet can ameliorate the nutritional deterioration that follows dysentery with Shigella and also help prevent hypoglycemia. In infants, continued breastfeeding should be encouraged throughout the course of the illness. Nasogastric feeding can be used in children who are severely anorexic.
+Supplemental zinc  reduces  the  severity  and  duration  of  the acute infection and reduces the incidence and severity of diarrhea in the 3 months after infection. Vitamin A supplementation has not shown bene{t during the acute infection, but has other potential bene{ts. Doses for vitamin A and zinc are shown in Box 48.2.
+Rectal prolapse is best treated with warm magnesium sulfate compresses to reduce edema. Convulsions that occur in the absence of any metabolic derangements, such as hyponatremia or hypoglycemia, are usually not complex or sustained and are best managed using local protocols for the management of febrile convulsions in children, including the provision of antipyretics.
+
+============================================================
+CHUNK 22
+============================================================
+Supportive Therapy and Treatment of Complications
+DRUGS OF CHOICE, Options.Antimicrobial Agent = DRUGS OF CHOICE. DRUGS OF CHOICE, Options.Dose/Route of Administration = DRUGS OF CHOICE. DRUGS OF CHOICE, Options.Frequency = DRUGS OF CHOICE. DRUGS OF CHOICE, Options.Duration = DRUGS OF CHOICE. DRUGS OF CHOICE, Adult.Dose/Route of Administration = DRUGS OF CHOICE. DRUGS OF CHOICE, Adult.Frequency = DRUGS OF CHOICE. DRUGS OF CHOICE, Adult.Duration = DRUGS OF CHOICE. DRUGS OF CHOICE, Comments = DRUGS OF CHOICE. Ciprofloxacin, Options.Antimicrobial Agent = Multiple dose. Ciprofloxacin, Options.Dose/Route of Administration = 15 mg/kg orally to maximum adult dose. Ciprofloxacin, Options.Frequency = Every 12 h. Ciprofloxacin, Options.Duration = 3-5 days. Ciprofloxacin, Adult.Dose/Route of Administration = 500 mg. Ciprofloxacin, Adult.Frequency = Every 12 h. Ciprofloxacin, Adult.Duration = 3-5 days. Ciprofloxacin, Comments = Single-dose therapy is not effective in treatment of Shigella dysenteriae type. , Options.Antimicrobial Agent = Single dose. , Options.Dose/Route of Administration = Not evaluated. , Options.Frequency = . , Options.Duration = . , Adult.Dose/Route of Administration = 1 g. , Adult.Frequency = Upon diagnosis. , Adult.Duration = Single dose. , Comments = 1 infections and may not be effective in the treatment of infections caused by other Shigella species that are not highly susceptible to ciprofloxacin (MIC ≤ 0.004 μ g/mL). Azithromycin, Options.Antimicrobial Agent = . Azithromycin, Options.Dose/Route of Administration = 15 mg/kg orally to maximum adult dose as initial dose, followed by 10 mg/kg/ day to maximum adult dose on days 2-4. Azithromycin, Options.Frequency = Every 24 h. Azithromycin, Options.Duration = 5 days. Azithromycin, Adult.Dose/Route of Administration = 500 mg day 1 followed by 250 mg on subsequent days. Azithromycin, Adult.Frequency = Every 24 h. Azithromycin,
+
+============================================================
+CHUNK 23
+============================================================
+Supportive Therapy and Treatment of Complications
+Adult.Duration = 5 days. Azithromycin, Comments = Azithromycin has been shown, along with other macrolides, to increase the risk of fatal arrhythmias in 1 of every 20,000 adults receiving the drug, 30 with a higher risk in those with preexisting cardiovascular risk factors. Thus if the infecting strain of Shigella is susceptible, treatment with a quinolone is preferable in older age groups who are more likely to be at risk for adverse cardiac events.. ALTERNATIVE DRUG THERAPIES, Options.Antimicrobial Agent = ALTERNATIVE DRUG THERAPIES. ALTERNATIVE DRUG THERAPIES, Options.Dose/Route of Administration = ALTERNATIVE DRUG THERAPIES. ALTERNATIVE DRUG THERAPIES, Options.Frequency = ALTERNATIVE DRUG THERAPIES. ALTERNATIVE DRUG THERAPIES, Options.Duration = ALTERNATIVE DRUG THERAPIES. ALTERNATIVE DRUG THERAPIES, Adult.Dose/Route of Administration = . ALTERNATIVE DRUG THERAPIES, Adult.Frequency = . ALTERNATIVE DRUG THERAPIES, Adult.Duration = . ALTERNATIVE DRUG THERAPIES, Comments = . Pivmecillinam (registered as amdinocillin pivoxil in the United States, where it currently is not available), Options.Antimicrobial Agent = . Pivmecillinam (registered as amdinocillin pivoxil in the United States, where it currently is not available), Options.Dose/Route of Administration = 20 mg/kg orally to maximum adult dose. Pivmecillinam (registered as amdinocillin pivoxil in the United States, where it currently is not available), Options.Frequency = Every 6 h. Pivmecillinam (registered as amdinocillin pivoxil in the United States, where it currently is not available), Options.Duration = 5 days. Pivmecillinam (registered as amdinocillin pivoxil in the United States, where it currently is not available), Adult.Dose/Route of Administration = 400 mg. Pivmecillinam (registered as amdinocillin pivoxil in the United States, where it currently is not available), Adult.Frequency = Every 6 h. Pivmecillinam (registered as amdinocillin pivoxil in the United States, where it currently is not
+
+============================================================
+CHUNK 24
+============================================================
+Supportive Therapy and Treatment of Complications
+available), Adult.Duration = 5 days. Pivmecillinam (registered as amdinocillin pivoxil in the United States, where it currently is not available), Comments = In contrast to ampicillin, pivmecillinam selectively binds to penicillin-binding protein 2 and is relatively resistant to many common β -lactamases, thus may be effective in treatment of strains resistant to ampicillin. Ceftriaxone, Options.Antimicrobial Agent = . Ceftriaxone, Options.Dose/Route of Administration = 50 mg/kg intravenously or intramuscularly to maximum individual dose of 1.5 g. Ceftriaxone, Options.Frequency = Every 24 h. Ceftriaxone, Options.Duration = 2-5 days. Ceftriaxone, Adult.Dose/Route of Administration = Not evaluated. Ceftriaxone, Adult.Frequency = . Ceftriaxone, Adult.Duration = . Ceftriaxone, Comments = Because this agent must be administered parenterally, it is reserved for use in patients who are infected with strains of Shigella drugs or are severely ill and need parenteral drugs in hospital. It has not been evaluated in controlled studies for treatment of S. dysenteriae type 1. For infection with other species of Shigella, both two-dose 2-day and of therapy have proven effective. Although not evaluated in adults, there is no reason to believe it would not be effective. In controlled trials, oral cephalosporins have been ineffective in the treatment of shigellosis of moderate or greater severity, and should not be used.
+MIC , Minimum inhibitory concentration.
+BOX 48.2 Micronutrient Supplementation for Children With Shigellosis
+
+============================================================
+CHUNK 25
+============================================================
+ZINC SUPPLEMENTATION
+0-6 months of age: 10 mg elemental zinc daily for 10 days 7-50 months of age: 20 mg elemental zinc daily for 10 days
+
+============================================================
+CHUNK 26
+============================================================
+VITAMIN A SUPPLEMENTATION
+Given to malnourished children who have not received vitamin A in last 6 months
+< 6 months of age: 50,000 units
+6-12 months of age: 100,000 units
+12-60 months of age: 200,000 units
+
+============================================================
+CHUNK 27
+============================================================
+PREVENTION
+Although efforts to develop an effective vaccine are ongoing, vaccine development is complicated by the multiple serotypes in circulation. No candidate  vaccine  has  shown  suf{cient  ef{cacy  to  warrant extensive clinical trials or licensing. 29 Control of shigellosis for the foreseeable future requires improvement in hygiene and nutrition (including encouraging breastfeeding), appropriate identi{cation and treatment of those who are infected, and improvement in socioeconomic conditions. The latter is likely to reduce the household crowding and lack of access to potable water that facilitate Shigella transmission. Indeed reduction in levels of poverty over the past decades has been accompanied by decreases in Shigella mortality, 8 a trend that is hopefully likely to continue.
+
+============================================================
+CHUNK 28
+============================================================
+REFERENCES
+1.  Lampel  KA,  Formal  SB,  Maurelli  AT.  A  brief  history  of  Shigella.
+2.  Khan  WA,  Grif{ths  JK,  Bennish  ML.  Gastrointestinal  and  extraintestinal manifestations  of childhood shigellosis in a region where
+3. ETEC and Shigella disease burden estimates to guide vaccine development strategy. Vaccine  2017  (in  press).  https://doi.org/10.1016/j .vaccine.2017.09.083.
+4. diagnostic  methods  to  identify  causes  of  diarrhoea  in  children:  a reanalysis of the GEMS case-control study. Lancet 2016;388:1291-301.
+5. of  community  diarrhoea  in  developing  countries:  a  multisite  birth cohort study (MAL-ED). Lancet Glob Health 2015;3:e564-75.
+6. of  diarrhoeal  disease  in  infants  and  young  children  in  developing countries (the Global Enteric Multicenter Study, GEMS): a prospective, case-control study. Lancet 2013;382:209-22.
+7. and national morbidity, mortality, and aetiologies of diarrhoeal diseases: a systematic analysis for the Global Burden of Disease Study. Lancet Infect Dis 2015;17:909-48.
+8.  GBD  2015  Mortality  and  Causes  of  Death  Collaborators.  Global, regional,  and  national  age-sex  speci{c  mortality  for  264  causes  of death,  1980-2016:  a  systematic  analysis  for  the  Global  Burden  of Disease Study 2016. Lancet 2017;390:1151-210.
+9.  McCrickard LS, Crim SM, Kim S, Bowen A. Disparities in severe shigellosis  among  adults  -  foodborne  diseases  active  surveillance
+10.  von Seidlein L, Kim DR, Ali M, et al. A multicentre study of Shigella diarrhoea in six Asian countries: disease burden, clinical manifestations,
+11. dysentery in Central America. Lancet 1970;2:607-8.
+12. in shigellosis: a colonoscopic study. J Infect Dis 1984;150:899-903.
+13. acute watery diarrhea in children in the global rotavirus surveillance network using quantitative polymerase  chain  reaction. J  Infect  Dis 2017;216:220-7.
+
+============================================================
+CHUNK 29
+============================================================
+REFERENCES
+14.  Bennish ML, Azad AK, Yousefzadeh D. Intestinal obstruction during shigellosis:  incidence,  clinical  features,  risk  factors,  and  outcome. Gastroenterology 1991;101:626-34.
+15.  Bennish  ML,  Salam  MA, Wahed  MA.  Enteric  protein  loss  during shigellosis. Am J Gastroenterol 1993;88:53-7.
+16.  Khan WA, Dhar U, Salam MA, et al. Central nervous system manifestations of childhood shigellosis: prevalence, risk factors, and outcome.
+17. Engl J Med 1990;322:1357-63.
+18.  Struelens  MJ,  Bennish  ML,  Mondal  G,  Wojtyniak  BJ.  Bacteremia during diarrhea: incidence, etiology, risk factors, and outcome. Am J Epidemiol 1991;133:451-9.
+19.  Bennish  ML,  Khan  WA,  Begum  M,  et al.  Low  risk  of  hemolytic uremic  syndrome  after  early  effective  antimicrobial  therapy  for Shigella dysenteriae type 1 infection in Bangladesh. Clin Infect Dis 2006;42:356-62.
+20. diseases  among  children  in  developing  countries:  Incidence,  etiology, and insights from new molecular diagnostic techniques. Vaccine 2017;35:6783-9.
+21.  Salam MA, Bennish ML. Antimicrobial therapy for shigellosis. Rev Infect Dis 1991;13(Suppl. 4):S332-41.
+22.  Haltalin KC, Kusmiesz HT, Hinton LV , Nelson JD. T reatment of acute diarrhea in outpatients. Double-blind study comparing ampicillin and placebo. Am J Dis Child 1972;124:554-61.
+23.  Tickell KD, Brander RL, Atlas HE, et al. Identi{cation and management of Shigella infection in children with diarrhoea: a systematic review and meta-analysis. Lancet Glob Health 2017;5:e1235-48.
+24.  Salam MA, Seas C, Khan WA, Bennish ML. Treatment of shigellosis: IV.  Ce{xime  is  ineffective  in  shigellosis  in  adults. Ann  Intern  Med 1995;123:505-8.
+
+============================================================
+CHUNK 30
+============================================================
+REFERENCES
+25. of  azithromycin-resistant shigellosis  through sexual  transmission:  a cross-sectional study. Lancet Infect Dis 2015;15:913-21.
+26.  Klontz KC, Singh N. Treatment of drug-resistant Shigella infections. Expert Rev Anti Infect Ther 2015;13:69-80.
+27.  Khan WA, Seas C, Dhar U, et al. T reatment of shigellosis: V . Comparison of azithromycin and cipro|oxacin. A double-blind, randomized, controlled trial. Ann Intern Med 1997;126:697-703.
+28.  Kabir  I,  Butler  T,  Underwood  LE,  Rahman  MM.  Effects  of  a protein-rich diet during convalescence from shigellosis on catch-up 1992;32:689-92.
+29.  Mani S, Wierzba T, Walker RI. Status of vaccine research and development for Shigella. Vaccine 2016;34:2887-94.
+30.  Ray  WA,  Murray  KT,  Hall  K,  et al.  Azithromycin  and  the  risk  of cardiovascular death. NEJM 2012;366:1881-90.
+

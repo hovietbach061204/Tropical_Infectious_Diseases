@@ -1,0 +1,112 @@
+============================================================
+CHUNK 0
+============================================================
+Key features
+- A painful ulcerative sexually transmitted infection (STI) caused by Haemophilus ducreyi
+- A disease of core groups, especially sex workers and their clients
+- Diagnosed by PCR or by culture, but culture is di*cult owing to the fastidious growth requirements of H. ducreyi
+- Was the leading cause of genital ulceration in Africa in the 1980s, but its incidence has fallen in recent years and Herpes simplex now causes a much greater proportion of genital ulcers
+
+============================================================
+CHUNK 1
+============================================================
+DEFINITION
+In 1889, Ducrey described the etiologic agent, Haemophilus ducreyi , responsible for the genital ulcerating disease, chancroid. Classic chancroid  is  an  acutely  painful,  irregular  genital  ulcer  with  associated inguinal lymphadenitis that may proceed to bubo formation.
+
+============================================================
+CHUNK 2
+============================================================
+ETIOLOGY
+Haemophilus ducreyi is a small, Gram-negative, bipolar staining organism that often has a 'school of fish' arrangement on stained microscopy. The organism requires hemin and the amino acids glutamine and cystine. Its taxonomic placement is controversial, but it is more closely  related  to  the Actinobacillus than  to  the Haemophilus genus. Haemophilus  ducreyi replaces  nitrate  and  produces  alkaline  phosphatase. It possesses several characteristics that appear important for virulence  including  pili,  a  hemolysin,  several  toxins  and  a  hemoglobin receptor [1].
+
+============================================================
+CHUNK 3
+============================================================
+PATHOGENESIS
+As few as 30 H. ducreyi organisms can produce ulceration following inoculation on the forearms of healthy human volunteers [1]. Immunohistochemical analysis of the ulcerating lesions has shown that a cell-mediated  Th1  response  consisting  predominantly  of  T  lymphocytes and macrophages is present interstitially and perivascularly [2]. Presumably, cytotoxins and hemolysins produced by H. ducreyi cause tissue destruction [1]. The pathogenesis of the lymphadenitis and bubo formation is not understood.
+
+============================================================
+CHUNK 4
+============================================================
+EPIDEMIOLOGY
+Chancroid was endemic in many developing countries with frequent introductions,  often  at  seaports,  in  the  developed  world.  However, since  the  year  2000,  chancroid  has  largely  disappeared  from  East
+Africa and many areas of Asia where it once accounted for 50% or more of genital  ulcerating  disease (GUD).  In  2007, H.  ducreyi still caused about 15% of GUD in Malawi, but less than 1% in South Africa and Botswana [3-6]. Studies in the 1980s demonstrated that chancroid  flourishes  in  societies  in  which  men  are  uncircumcised, where many men have sex with a few women (most of whom are commercial  sex  workers)  and  where  sexually  transmitted  disease (STD) control programs are ineffective [7, 8]. The disappearance of chancroid  has  not  been  carefully  studied,  but  it  may  be  occurring because of improved STD control during the HIV era and the widespread use of quinolones for the treatment of STIs. Although accurate incidence figures are not available, in 2010 chancroid occurs in only a few countries, and even in these countries the incidence is falling [3, 4, 6].
+
+============================================================
+CHUNK 5
+============================================================
+RESERVOIR
+The reservoir for H. ducreyi is presumed to be sexually active persons with genital ulcers [7]. The attack rate following unprotected intercourse is high, with at least 50% of men acquiring genital ulcers [7]. Secondary attack rates are also substantial, with at least half of subsequent partners infected.
+
+============================================================
+CHUNK 6
+============================================================
+INTERACTION WITH HIV
+Numerous studies have demonstrated that H. ducreyi and HIV infection interact to increase heterosexual transmission of HIV, while concomitantly  altering  chancroid  [9-1 1].  HIV  sero-negative  men  with chancroid have a fivefold greater risk of HIV seroconversion than men with  urethritis  following  exposure  to  HIV-infected  women  [9]. Women with genital ulcers who sell sex are at greater risk of acquiring HIV. The immune response to H. ducreyi recruits and activates macrophages and T-helper lymphocytes, which may predispose individuals with ulcers to susceptibility of HIV infection. Excretion of HIV in genital discharge is increased; as a result, genital ulcers become both the  portal  of  HIV  entry  and  exit.  Patients  with  chancroid  who  are HIV-infected more commonly fail treatment or relapse. As a result of these interactions, a cycle of amplification between H. ducreyi and HIV occurs that markedly increases the risk of transmission of HIV [8,10].
+
+============================================================
+CHUNK 7
+============================================================
+CLINICAL FEATURES
+After an incubation period of 3-7 days, a rapidly eroding genital ulcer develops. About 50% of chancroid ulcers are classic and present as irregular, non-indurated, very painful lesions of variable depth with an undermined edge and  yellow-gray  purulent  exudative  base  that bleeds readily. The skin surrounding the ulcer is usually not inflamed. Other presentations include: giant ulcers formed when several smaller ones merge (Fig. 51.1); dwarf ulcers, which are tiny, shallow, round ulcers  that  mimic  genital  herpes;  transient  superficial  ulcers  that resemble  lymphogranuloma  venereum;  single,  painless  ulcers  that can  be  confused  with  syphilis;  and  beefy,  raised  indurated  lesions that clinically appear to be granuloma inguinale. The sensitivity and specificity of the clinical diagnosis depends on the relative proportion of genital ulcers caused by H. ducreyi in the population [12].
+FIGURE 51.1 Chancr oi d . Lar ge  pe ni l e  ul ce r at i on w i t h  a s uppur at i ve  l e ft i ngui nal  b ub o.
+FIGURE 51.2 Chancr oi d . Labi al  l e s i on. (Courtesy of the Armed Forces Institute of Pathology, Photograph Neg. No. 82-9102)
+The  site  of  ulceration  on  the  genitalia  varies,  with  about  half  the lesions  occurring  on  the  prepuce  in  uncircumcised  men.  Kissing lesions are common on adjacent cutaneous surfaces. In women, the majority of lesions are on the fourchette, labia and perineal area (Fig. 51.2). About 40% of patients develop painful inguinal adenitis that can progress to bubo formation with overlying erythema; buboes may rupture and produce an inguinal abscess.
+Careful, definitive laboratory studies suggest  that about 10-15% of patients  with  chancroid  also  have  a  second  ulcerating  pathogen, usually either herpes simplex or Treponema pallidum .
+Two recent reports, both from the South Pacific Islands, have identified H. ducreyi in children presenting with chronic cutaneous infections [13, 14].
+
+============================================================
+CHUNK 8
+============================================================
+LABORATORY DIAGNOSIS
+Specimens should be either plated directly or swabs transported at 4° and plated within 24 hours [15]. The culture should be plated on gonococcal  agar  with  added  vancomycin  (3 mg/L)  to  inhibit  the growth  of  Gram-positive  bacteria,  2%  hemoglobin,  1%  vitamin enrichment and 0.25% charcoal [15]. Incubation should be carried out at 32° in a 100% humidity, CO2-enriched environment. A candle extinction jar with a moist paper towel is adequate. After 2-5 days, small, yellow-gray colonies of varying size appear on the culture plate. The colonies can be moved intact with a straight wire [15].
+Nucleic acid technologies are sensitive and specific for the diagnosis of H. ducreyi infection [16]. Serologic studies have been used for the diagnosis of H. ducreyi, but these are insensitive and best reserved for seroimmunologic investigation of populations.
+
+============================================================
+CHUNK 9
+============================================================
+TREATMENT
+Haemophilus  ducreyi acquires  plasmids  readily  and  antimicrobial resistance  develops  and  spreads  quickly.  In  most  of  the  world, H. ducreyi is  resistant  to  tetracycline,  ampicillin,  sulfonamides  and  trimethoprim. In addition, plasmids that mediate resistance to kanamycin, streptomycin and chloramphenicol have been described.
+Erythromycin 500 mg three times daily for 7 days or azithromycin as a single, 1-g dose are equally effective treatment regimens. Ceftriaxone as a single 250-mg dose administered intramuscularly is effective but treatment failures occur in patients concomitantly infected with HIV. Ciprofloxacin and other fluoroquinolones are very effective, with cure rates of 95% following a 3-day regimen.
+Fluctuant buboes should be incised or aspirated.
+
+============================================================
+CHUNK 10
+============================================================
+PREVENTION
+With  the  evidence  that  links  chancroid  to  explosive  heterosexual transmission  of  HIV,  control  and  elimination  of  chancroid  from populations should be a priority [17]. Enhanced STD control strategies to include effective treatment regimens based on syndromic diagnosis  at  the  point  of  first  contact  with  the  health  care  system,  the increased use of condoms (particularly by female sex workers), programs to provide care and treatment for prostitutes, and partner referral  can  all  successfully  control  and  regionally  eliminate  chancroid [17]. A rapid response to outbreaks should be included in all national STD control programs to ensure that chancroid, once eliminated from a  country  or  region,  is  not  re-introduced  and  allowed  to  become endemic again. Strategies for surveillance and expedited control with a goal of maintaining societies free of chancroid should be part of all national and international STD programs. Chancroid is the one STD that is susceptible to rapid control strategies with the goal of elimination. Its proven role in facilitating HIV transmission requires continued efforts to ensure its control [17].
+
+============================================================
+CHUNK 11
+============================================================
+REFERENCES
+1. Janowicz DM, Ofner S, Katz BP, Spinola S. Experimental infection of human volunteers with Haemophilus ducreyi : Fifteen years of clinical data and experience. J Infect Dis 2009;199:1671-80.
+2. King R, Gough J, Ronald A, et al. An immunohistochemical analysis of naturally ccurring chancroid. J Infect Dis 1996;174:427-30.
+3. Freeman EE, Orroth KK, White RG, et al. Proportion of new HIV infections attributable to herpes simplex 2 increases over time: simulations of the changing  role  of  sexually  transmitted infections in  sub-Saharan African HIV  epidemics. Sex Trans Infect 2007;83(suppl.1):i17.
+4. Hoffman I,  Kamanga  G, Mapanj  E,  et  al.  The  etiology  of  GUD  in  Malawi 1992-2007.  Abstract  P-318.  International  Society  for  Sexually  Transmitted Diseases Research, June 2009.
+5. Jaiswal  AK,  Banerjee  S,  Matety  AR,  Grover  S.  Changing  trends  in  sexually transmitted  diseases  in  North  Eastern  India.  Indian  J  Dermatol  Venereol Leprol 2002;68:65-6.
+6. Paz-Bailey G, Rahman M, Chen C, et al. Changes in the etiology of sexually transmitted diseases in Botswana between 1993 and 2002: implications for
+
+============================================================
+CHUNK 12
+============================================================
+REFERENCES
+- the  clinical  management  of  genital  ulcer  disease.  Clin  Infect  Dis  2005;41: 1304-12.
+7. Plummer FA, D'Costa LJ, Nsanze H, et al. Epidemiology of chancroid and Haemophilus ducreyi in Nairobi. Lancet 1983;322:1293-5.
+8. Weiss HA, Thomas SL, Munabi SK, Hayes RJ. Male circumcision and risk of syphilis, chancroid, and genital herpes: a systematic review and meta-analysis. Sex Transm Infect 2006;82:101-10.
+9. Cameron DW, Simonsen JBN, D'Costa IJ, et al. Female to male transmission of human immunodeficiency virus type 1: risk factors for seroconversion in men. Lancet 1989; 334:403-7.
+10.  Jessamine  P, Ronald AR. Chancroid and the role of genital ulcer disease in the spread of human retroviruses. Med Clin N Amer 1990;74:1417-32.
+11.  Orroth KK, White RG, Korenromp EL, et al. Empirical observations underestimate the proportion of human immunodeficiency virus infections attributable  to  sexually  transmitted  diseases  in  the  Mwanza  and  Rakai  sexually
+- transmitted  disease  treatment  trials:  simulation  results.  Sex  Transm  Dis 2006;33:536-44.
+12.  Ndinya-Achola JO, Kihara AN, Fisher LD, et al. Presumptive specific clinical diagnosis of genital ulcer disease (GUD) in a primary health care setting in Nairobi. Int J STD AIDS 1996;7:201-5.
+13.  McBride WJ, Hannah RC, LeCornec GM, Bletchly C. Cutaneous chancroid in a visitor from Vanuatu. Australas J Dermatol 2008;49:98-9.
+14.  Ussher JE, Wilson E, Campanella S, et al. Haemophilus ducreyi causing chronic skin ulcerations in children visiting Samoa. Clin Infect Dis 2007;4:e85-7.
+15.  Alfa M. The laboratory diagnosis of Haemophilus ducreyi . Can J Infect Dis Med Microbiol 2005;16:31-4.
+
+============================================================
+CHUNK 13
+============================================================
+REFERENCES
+16.  Orle KA, Gates CA, Martin DH, et al. Simultaneous PCR detection of Haemophilus ducreyi, Treponema pallidum , and herpes simplex virus types 1 and 2 from genital ulcers. J Clin Microbiol 1996;34:49-54.
+17.  Steen R. Eradicating chancroid. Bull World Health Organ 2001;79:818-26.
+

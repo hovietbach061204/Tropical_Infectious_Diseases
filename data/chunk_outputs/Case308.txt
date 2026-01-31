@@ -1,0 +1,113 @@
+============================================================
+CHUNK 0
+============================================================
+75
+
+============================================================
+CHUNK 1
+============================================================
+KEY FEATURES
+- transmitted by contact with infectious animals or their products, including ingestion of unpasteurized milk or cheeses.
+- Brucella melitensis is the most common cause of human brucellosis globally.
+- the Mediterranean basin, and Central and South Asia.
+- as focal disease such as spondylitis, or as fever of unknown origin.
+- con{rmation or supportive serologic data.
+- aminoglycoside or rifampin. Treatment is usually prolonged, and relapses and chronic infections are common.
+- vaccine is available. Post-exposure antimicrobial regimens are available.
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+Brucellosis is a zoonotic infection caused by contact with infectious  animals  or  their  derived  products,  such  as  unpasteurized dairy products. It is also known as Malta fever and Mediterranean fever. Brucella  are  small,  gram-negative  coccobacilli. A  number of Brucella species  are  able  to  infect  humans,  most  commonly B.  melitensis, but  also B.  abortus,  B.  suis, and B.  canis. A  number of biotypes within species exist and correlate with virulence and prevalence. B. melitensis is associated with small ruminants, classically goats, and accounts for the majority of diagnosed disease in humans. The second most important species is B. abortus, but it  has  a  milder  clinical  presentation,  and  its  reservoir  is  cattle and swine. Brucella are an important cause of animal morbidity and mortality.
+
+============================================================
+CHUNK 3
+============================================================
+EPIDEMIOLOGY
+Human brucellosis is most common in areas where humans closely interact with animal reservoirs or animal products. It is estimated that at least 500,000 cases occur globally each year. 1 Signi{cant areas  of  endemicity  exist  in  Latin  America,  the  Mediterranean basin, the Middle East, and South and Central Asia. 2 There is an increasing awareness of infections in areas of Africa and China. Animal brucellosis can cause abortion or premature births, and infectious animals can transmit the organism in products of miscarriage as well as placental tissues, milk, and urine. At present, most cases of brucellosis are thought to be due to ingestion of unpasteurized dairy  products, especially goat milk and cheeses, in  which the organism can persist for weeks. In some areas, children account for 10% to 25% of affected individuals.
+
+============================================================
+CHUNK 4
+============================================================
+Brucellosis
+Eduardo Gotuzzo, Edward T. Ryan
+
+============================================================
+CHUNK 5
+============================================================
+PATHOGENESIS
+Brucellae are ingested by professional phagocytic cells and replicate intracellularly.  Both  antibody-  and  cell-mediated  responses  are involved in controlling infection.
+
+============================================================
+CHUNK 6
+============================================================
+CLINICAL MANIFESTATIONS
+The severity of brucellosis can relate to infecting species, biotype, and host factors. B. melitensis and B. suis can cause severe disease in humans, with B. abortus usually being associated with milder disease. Human infection with B. canis is rare. Human brucellosis can  be  associated  with  acute,  sub-acute,  relapsing,  and  chronic manifestations. The incubation period is usually a few weeks but may be as long as several months.
+Acute brucellosis can present as a non-speci{c febrile illness that includes fevers, sweats, myalgia, back pain, fatigue, weakness, headache, weight loss, and anorexia. 3 Splenomegaly, hepatomegaly, and lymphadenopathy may be observed. Fever can be insidious in onset but may be quite high and may last for days or weeks. Sub-acute brucellosis is also called undulant fever because the fever can wax and wane, often being low level and often persisting for weeks, accompanied by arthralgia and arthropathy; intermittent periods  of  depression  and  diminished  well-being  may  occur. Undulant fever is thought to be more common in adults than in children.
+Brucellosis can involve speci{c organ systems. During pregnancy, human brucellosis can be associated with intrauterine infection, miscarriage,  premature  delivery,  and  spontaneous  abortion. 4,5 Osteoarticular involvement during human brucellosis is common. 6 Spondylitis and involvement of the sacroiliac joints or other large joints of the lower extremities may be seen. Involvement of the genitourinary system can include epididymitis, orchitis, prostatitis, or tubo-ovarian abscesses. Granulomatous hepatitis, ocular involvement with uveitis, 7 and focal neurologic disease can also occur. Non-speci{c  rashes  and  mild  pancytopenia  are  also  common. 8 Focal abscesses in any organ system can occur. In children and teenagers a common presentation is febrile monoarthritis. In young adults it may be acute febrile illness with monoarthritis or sacroiliitis.  In  patients  older  than  40  years,  spondylitis  is  more frequent. 9
+
+============================================================
+CHUNK 7
+============================================================
+CLINICAL MANIFESTATIONS
+Relapsing brucellosis usually occurs within the {rst 6 months after completion of appropriate therapy and can be seen in up to 5% to 15% of treated individuals. 10 Reinfection can also occur.
+Chronic brucellosis should be considered if symptoms persist for  more than a year. Fever is often absent or low level at this stage.  Affected  patients  usually  present  with  chronic  fatigue, spondylitis, sacroiliitis, uveitis, and/or depression.
+
+============================================================
+CHUNK 8
+============================================================
+DIAGNOSIS
+Brucellosis should be considered in any individual with appropriate epidemiologic  exposures  and  a  compatible  clinical  illness. The diagnosis should be speci{cally considered in an individual with a chronic febrile illness with osteoarticular involvement, especially of the axial spine or sacroiliac joints, or uveitis or other compatible focality, as well as individuals with epidemiologic risk factors who present with a fever of unknown origin. Con{rmatory diagnosis is usually based on microbiologic culture of blood, tissues, or bone
+marrow. 11 Bacteremia can be intermittent and low level, and blood cultures sensitivity is often less than 50% to 70%. 3 Cultures should be held for 10 days, and the microbiology laboratory should be noti{ed if Brucella spp. are suspected due to the risk of aerosolization. Diagnosis therefore is often presumptive and based upon a compatible clinical illness, epidemiologic exposures, and supporting serologic data. A number of serologic assays are available, including tube  agglutination,  Rose  Bengal  agglutination,  enzyme-linked immunosorbent assays (ELISAs), immunocapture agglutination, and 2-mercapto-ethanol agglutination. 12 The serum agglutination test is usually considered the reference assay. 13 A fourfold change from acute to convalescent disease, or a high single titer with a compatible clinical illness, is supportive of the diagnosis. Antibody responses can be prolonged, which can complicate interpretation of serologic assays in individuals who have resided long term in areas endemic for brucellosis. Serology tests for B. canis are not detected  by  the  standard  assays,  and  speci{c  investigations  are required if B. canis is suspected. 12 A number of molecular tests are available, such as polymerase chain reaction (PCR)-based analysis. However,  these  have  not  been  standardized  and  are  not  commercially available.
+
+============================================================
+CHUNK 9
+============================================================
+TREATMENT
+Treatment of individuals with brucellosis should involve combination therapy. In comparative studies and meta-analyses, regimens that include doxycycline and streptomycin have the lowest rate of clinical failure and relapse. Doxycycline with gentamycin can also  be  used. In comparison, the rate of relapse is highest with doxycycline  and  rifampin,  although  issues  of  drug  availability, convenience and risk of adverse events are also often considered. As such, the gold standard of treatment usually involves 6 weeks of oral doxycycline plus 14 to 21 days of streptomycin (1 g IM daily) or gentamicin (5 mg per kg) for the {rst 5 to 14 days. 10,14 Adults with uncomplicated brucellosis may also be treated with 100 mg of doxycycline orally twice a day with rifampin 600 to 900 mg  (15 mg  per  kg)  once  daily  for  for  six  weeks.  In  some studies the doxycycline plus streptomycin regimen performs better. 15 However, the doxycycline-rifampin regimen is often used in the absence of severe or focal disease. With patients with spondylitis, involvement of the central nervous system, endocarditis, or focal abscesses, antimicrobial treatment of any combination is usually extended to a minimum of 12 weeks. 16 Delayed defervescence is common, even on optimal antimicrobials, with fevers resolving over 4 to 7 days.
+
+============================================================
+CHUNK 10
+============================================================
+TREATMENT
+Individuals with spondylitis may be treated with 12 weeks of doxycycline plus streptomycin, or doxycycline plus rifampin. In the setting of spondylitis, many authorities would attempt doxycycline and streptomycin (or gentamicin). Even with 12 weeks of treatment, up to one in {ve individuals may not be cured. 17 Vertebral instability  may  require  surgical  intervention.  In  the  setting  of neurobrucellosis, most individuals are treated for a minimum of 12 weeks, often with three drugs that cross the blood-brain barrier. Regimens are usually  based on doxycycline and rifampin,  with either ceftriaxone or trimethoprim-sulfamethoxazole as the third agent. 18 Treatment  is  usually  prolonged  and  based  on  clinical improvement. Steroids are not usually used in  individuals with neurobrucellosis except if there is complicating uveitis, myelitis, or papilledema.
+Individuals with brucella endocarditis are usually treated with at least three agents, usually doxycycline, rifampin, and an aminoglycoside. Therapy should be prolonged, with a minimum of 6  to  12  weeks  or  up  to  6  months.  Valve  replacement  may  be required.
+In the setting of relapse, antimicrobial resistance is infrequent, and  most  individuals  can  be  treated  with  a  repeat  course  of  a standard regimen.
+Treatment of children is  usually  based  on  regimens  studied among  adults.  T etracyclines  are  usually  avoided  in  children under  the  age  of  8  and  can  be  replaced  with  trimethoprimsulfamethoxazole  or  aminoglycosides.  T reatment  of  pregnant women usually involves at least a 6-week course of rifampin and trimethoprim-sulfamethoxazole, with or without a 1-week course of aminoglycoside. 19
+
+============================================================
+CHUNK 11
+============================================================
+PREVENTION
+A number of animal brucella vaccines are available. Minimizing transmission in slaughterhouses involves use of protective clothing, disinfectants, and proper air circulation. Pasteurization of milk and dairy products also limits human cases. No vaccine is available for use in humans. Humans with a known high-risk exposure, such as laboratory workers, should receive post-exposure prophylaxis with doxycycline and rifampin or trimethoprim-sulfamethoxazole.
+
+============================================================
+CHUNK 12
+============================================================
+REFERENCES
+1.  Corbel MJ. Brucellosis in humans and animals. World Heallth Organization 2006;102.
+2.  Pappas G, Papadimitriou P , Akritidis N, et al. The new global map of human brucellosis. Lancet Infect Dis 2006;6:91-9.
+3.  Pappas G, Akritidis N, Bosilkovski M, T sianos E. Brucellosis. N Engl J Med 2005;352:2325-36.
+4.  Arenas-Gamboa AM, Rossetti CA, Chaki SP, et al. Human brucellosis and adverse pregnancy outcomes. Curr T rop Med Rep 2016;3:164-72.
+5.  Khan MY, Mah MW, Memish ZA. Brucellosis in pregnant women. Clin Infect Dis 2001;32:1172-7.
+6.  Geyik  MF,  Gur  A,  Nas  K,  et al.  Musculoskeletal  involvement  of brucellosis in different age groups: a study of 195 cases. Swiss Med Wkly 2002;132:98-105.
+7.  Rolando I, Olarte L, Vilchez G, et al. Ocular manifestations associated with brucellosis: a 26-year experience in Peru. Clin Infect Dis 2008;46:1338-45.
+8.  Colmenero JD, Reguera JM, Martos F, et al. Complications associated with  Brucella  melitensis  infection:  a  study  of  530  cases.  Medicine (Baltimore) 1996;75:195-211.
+9.  Gotuzzo E, Alarcon GS, Bocanegra TS, et al. Articular involvement in  human  brucellosis:  a  retrospective  analysis  of  304  cases.  Semin Arthritis Rheum 1982;12:245-55.
+10.  Ariza J, Bosilkovski M, Cascio A, et al. Perspectives for the treatment of  brucellosis  in  the  21st  century:  the  Ioannina  recommendations. PLoS Med 2007;4:e317.
+11.  Y oung EJ. Brucellosis: current epidemiology, diagnosis, and management. Curr Clin T op Infect Dis 1995;15:115-28.
+
+============================================================
+CHUNK 13
+============================================================
+REFERENCES
+12.  Young EJ. Serologic diagnosis of human brucellosis: analysis of 214 cases by agglutination tests and review of the literature. Rev Infect Dis 1991;13:359-72.
+13.  Mert A, Ozaras R, Tabak F, et al. The sensitivity  and speci{city of Brucella agglutination tests. Diagn Microbiol Infect Dis 2003;46:241-3.
+14.  Hasanjani Roushan MR, Mohraz M, Hajiahmadi M, et al. Ef{cacy of gentamicin plus doxycycline versus streptomycin plus doxycycline in the treatment of brucellosis in humans. Clin Infect Dis 2006;42:1075-80.
+15.  Skalsky K, Yahav D, Bishara J, et al. T reatment of human brucellosis: systematic review and meta-analysis of randomised controlled trials. BMJ 2008;336:701-4.
+16.  Al-T aw{q JA. Therapeutic options for human brucellosis. Expert Rev Anti Infect Ther 2008;6:109-20.
+17.  Pappas G, Seitaridis S, Akritidis N, T sianos E. T reatment of brucella spondylitis: lessons from an impossible meta-analysis and initial report of ef{cacy of a |uoroquinolone-containing regimen. Int J Antimicrob Agents 2004;24:502-7.
+18.  Pappas G, Akritidis N, Christou L. T reatment  of neurobrucellosis: what is known and what remains to be answered. Expert Rev Anti Infect Ther 2007;5:983-90.
+19.  Vilchez G, Espinoza M, D'Onadio G, et al. Brucellosis in pregnancy: clinical aspects and obstetric outcomes. Int J Infect Dis 2015;38:95-100.
+

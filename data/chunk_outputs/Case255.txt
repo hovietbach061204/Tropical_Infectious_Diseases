@@ -1,0 +1,154 @@
+============================================================
+CHUNK 0
+============================================================
+32
+
+============================================================
+CHUNK 1
+============================================================
+32.1 Measles
+William J. Moss
+
+============================================================
+CHUNK 2
+============================================================
+KEY FEATURES
+- measles virus.
+- humans; responsible for millions of deaths before the development of measles vaccine.
+- and conjunctivitis.
+- appear before the rash.
+- appears {rst on the face and behind the ears and then spreads to the trunk and extremities.
+- dramatic declines in incidence and mortality.
+
+============================================================
+CHUNK 3
+============================================================
+INTRODUCTION
+Measles is a highly contagious disease caused by measles virus. Endemic  areas  are  largely  con{ned  to  the  tropics,  although outbreaks and deaths continue to occur in temperate zones among unvaccinated individuals. Measles is one of the most important infectious diseases of humans and has caused millions of deaths since its emergence thousands of years ago. Measles virus (genus Morbillivirus ,  family  Paramyxoviridae)  most  closely  resembles rinderpest virus, a pathogen of cattle. It is thought to have evolved from an ancestral virus as a  zoonotic infection in communities where cattle and humans lived in close proximity. Measles virus is believed to have become established in human populations about 5000  to  10,000  years  ago  when  human  populations  achieved suf{cient size in Middle Eastern river valley civilizations to maintain virus transmission.
+
+============================================================
+CHUNK 4
+============================================================
+EPIDEMIOLOGY
+Remarkable progress has been made in reducing the global measles incidence and mortality as a consequence of measles vaccination (Fig. 32.1.1). 1 In the Americas, intensive vaccination and surveillance efforts interrupted endemic transmission of the virus, and measles was declared eliminated in this region in 2016. However, recent outbreaks  have  led  to  loss  of  measles  elimination  status  in  the Americas. More recently, progress has been made in other regions as a consequence of increasing routine measles vaccine coverage and  provision  of  a  second  opportunity  for  measles  vaccination through mass measles vaccination campaigns. 2
+Measles virus is one of the most highly contagious, directly transmitted pathogens, and outbreaks can occur even in populations in which less than 10% of people are susceptible. There are no latent or persistent measles virus infections that result in prolonged contagiousness and no animal reservoirs for measles virus. Measles virus can only be maintained in human populations by an unbroken chain of acute infections.
+Infants  become  susceptible  to  measles  virus  infection  when the passively acquired maternal antibody is lost. 3 The average age of measles patients depends on the rate of contact with infected persons, the rate of decline of protective maternal antibodies, and the  vaccine  coverage  rate.  In  densely  populated  urban  settings with low vaccination coverage, measles is a disease of infants and young children. As measles vaccine coverage increases or population density decreases, the age distribution shifts toward older children. As vaccination coverage increases further, the age distribution of cases may be shifted into adolescence and adulthood.
+When endemic, measles incidence has a typical temporal pattern characterized  by  yearly  seasonal  epidemics  superimposed  upon longer epidemic cycles of 2 to 5 years or more. These cycles result from the accumulation of susceptible persons over successive birth cohorts and the subsequent decline in the number of susceptible people after an outbreak. In the tropics, measles outbreaks have variable relationships with rainy seasons. This seasonality, combined with high birth rates, can result in highly irregular, large outbreaks of measles. 4
+
+============================================================
+CHUNK 5
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Measles virus is primarily transmitted by respiratory droplets over short distances and, less commonly, by small particle aerosols that remain  suspended  in  the  air  for  long  periods.  The  time  from infection to clinical disease is approximately 10 days to the onset of fever and 14 days to the onset of rash. Persons with measles are infectious for several days before and after the onset of rash, when levels of measles virus in blood and body |uids are highest and when the symptoms of cough, coryza, and sneezing are most severe. The host immune response at sites of virus replication is responsible for the signs and symptoms of measles.
+Host immune responses to measles virus are essential for viral clearance, clinical recovery, and the establishment of long-term immunity. 5 The protective ef{cacy of antibodies to measles virus is illustrated by the immunity conferred to infants from passively acquired  maternal  antibodies  and  the  protection  of  exposed, susceptible individuals after administration of anti-measles virus immune  globulin.  The  duration  of  protective  immunity  after wild-type measles virus infection is generally lifelong. 6  The immune responses to measles virus infection are associated with depressed responses to unrelated (non-measles  virus) antigens, lasting for several weeks to months. This state of immune suppression enhances susceptibility to secondary bacterial and viral infections causing pneumonia and diarrhea,  and is  likely  responsible  for  much  of measles-associated morbidity and mortality. 7 Vitamin A de{ciency is a recognized risk factor for severe measles. The vitamin is essential for the maintenance of normal epithelial tissues throughout the body; measles virus itself infects and damages these tissues.
+No. of measles deaths (millions)
+2.5
+2.0 1
+1.0 -
+0.5
+2000
+Estimated measles deaths in absence of vaccination
+Estimated measles deaths with vaccination
+2001
+2002
+
+============================================================
+CHUNK 6
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Fig. 32.1.1 Estimated annual number of measles deaths with and without vaccination programs-worldwide, 2000-2017. Deaths prevented by vaccination are indicated by the area between estimated deaths with vaccination and those without vaccination (cumulative total of 21.1 million deaths prevented during 20002017). Error bars represent upper and lower 95% confidence limits around the point estimate. (From Dabbagh A, Laws RL, Steulet C, et al. Progress Toward Regional Measles Elimination-Worldwide, 20002017. MMWR Morb Mortal Wkly Rep 2018;67:1323-29.)
+Fig. 32.1.2 Clinical course of measles. (Redrawn from Krugman S, Katz SL, Gershon AA, Wilfert CM, eds. Infectious diseases of children , 9th ed. St Louis: Mosby; 1992.)
+
+============================================================
+CHUNK 7
+============================================================
+CLINICAL FEATURES
+Clinically, features begin with a prodromal illness characterized by fever, cough, coryza, and conjunctivitis (Fig. 32.1.2). Koplik's spots (small white lesions on the buccal mucosa) may be visible during the prodrome and allow the astute clinician to diagnose measles  before  the  onset  of  rash  (Fig.  32.1.3).  The  prodromal symptoms  intensify  several  days  before  the  onset  of  rash.  A characteristic erythematous and maculopapular rash appears, {rst on the face and behind the ears, and then spreads, in a centrifugal fashion, to the trunk and extremities (Fig. 32.1.4). The rash lasts for  3  to  4  days  and  fades  in  the  same  manner  as  it  appeared. Malnourished children may develop a deeply pigmented rash that desquamates or peels during recovery. 8
+Fig. 32.1.3 Koplik's spots of measles. (Reprinted from Centers for Disease Control and Prevention. http://phil.cdc.gov/phil/details. asp?pid = 6111.)
+In uncomplicated measles, clinical recovery begins soon after appearance of the rash. Complications can occur in up to 40% of measles cases; the risk of complication is increased by extremes of age and malnutrition (Fig. 32.1.5). The respiratory tract is a frequent  site  of  complication,  with  pneumonia  accounting  for most measles-associated deaths. 9 Pneumonia is caused by secondary respiratory complications include laryngotracheobronchitis (croup) and otitis media. Mouth ulcers, or stomatitis, may hinder children from  eating  or  drinking.  Many  children  with  measles  develop diarrhea, which further contributes to malnutrition. Keratoconjunctivitis is common after measles, particularly in children with vitamin A de{ciency, and was a frequent cause of blindness. 10
+na.
+Fig. 32.1.4 Measles rash. ([A] Courtesy, Centers for Disease Control and Prevention.[B] Reprinted from Moss WJ, Griffin DE. Global measles elimination. Nat Rev Microbiol 2006;4:900-908.)
+
+============================================================
+CHUNK 8
+============================================================
+CLINICAL FEATURES
+Because the measles rash is a consequence of the cellular immune response, persons with impaired cellular immunity, such as those with  AIDS,  may  not  develop  the  characteristic  measles  rash. 11 These persons have a high case fatality and may develop a giant cell pneumonitis caused by measles virus.
+Measles  virus  causes  three  rare  but  serious  central  nervous system complications: post-measles encephalomyelitis, sub-acute measles  encephalitis,  and  sub-acute  sclerosing  panencephalitis (SSPE). Post-measles encephalomyelitis occurs in approximately 1 in 1000 cases, mainly in older children and adults. The syndrome develops within 2 weeks of the onset of rash and is characterized by fever, seizures, and a variety of neurologic abnormalities. Around 15% of patients die and half are left with severe sequelae. The {nding of periventricular demyelination, the induction of immune responses  to  myelin  basic  protein,  and  the  absence  of  measles virus in the brain suggest that it is an autoimmune disorder triggered by measles virus infection.
+Sub-acute measles encephalitis (also known as measles inclusion body encephalitis )  is  a  rare  but fatal  complication associated with progressive neurologic deterioration that affects individuals with defective cellular  immunity and typically occurs 2 to 6 months after  infection.  There  is  lethargy,  mental  confusion,  seizures, myoclonus, and diffuse cerebral dysfunction, which relentlessly progress to death in a few months. Pathologically, in|ammatory changes are seen throughout the brain, and there are eosinophilic inclusions in the nuclei of neurons.
+SSPE is a slowly progressive disease that affects approximately one  per  million  of  those  who  have  had  measles,  occurring 5  to  15  years  after  the  initial  infection.  It  is  characterized  by seizures  and  progressive  deterioration  of  cognitive  and  motor functions, followed by death within 2 years. 12 SSPE most often occurs in persons infected with measles virus before the age of 2 years.
+
+============================================================
+CHUNK 9
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Health  care  workers  should  consider  measles  in  patients  with fever and generalized rash, particularly when measles virus is known to  be  circulating,  or  in  individuals  with  a  history  of  travel  to endemic areas. Physical examination should focus on the clinical features of measles, speci{cally Koplik's spots and rash, as well as potential sites of secondary infections, including pneumonia and otitis media. Appropriate precautions need to be taken to prevent transmission within health care settings.
+Measles is readily diagnosed on clinical grounds by clinicians familiar with the disease, particularly during outbreaks. Koplik's spots are especially helpful, as they appear before the  rash and are pathognomonic (see Fig. 32.1.3). Clinical diagnosis is more dif{cult in regions where the incidence of measles is low, as other pathogens are responsible for the majority of illnesses with fever clinical  case  de{nition  for  measles  consists  of  any  person  with fever and maculopapular rash (i.e., non-vesicular) and cough, coryza, or conjunctivitis. 13 Although this is not very speci{c, it is devised primarily for outbreak control and monitoring rather than clinical use.
+The detection  of measles virus-speci{c  immunoglobulin M (IgM) in a single specimen of serum or oral |uid is considered diagnostic of acute infection and is the most common method of laboratory con{rmation (Fig. 32.1.6). 14 IgM antibodies may not be detectable until 4 days or more after rash onset and usually fall  to  undetectable  levels  within  4  to  8  weeks  of  rash  onset. Alternatively, acute infection can be con{rmed with a fourfold or greater increase in measles virus-speci{c immunoglobulin G (IgG) antibody levels between acute and convalescent sera. The presence of IgG antibodies in a single serum specimen is evidence of prior
+Equivalen epithelial
+Fig. 32.1.5 Complications of measles.
+
+============================================================
+CHUNK 10
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+TABLE 32.1.1 Differential Diagnosis of Measles
+
+Rubella, Distinguishing Characteristics = Mild illness with distinctive lymphadenopathy involving the posterior cervical, suboccipital, and posterior auricular nodes. Roseola, Distinguishing Characteristics = Rash appears after fever subsides. Dengue, Distinguishing Characteristics = Headache, myalgia, and hemorrhagic lesions are not seen with measles. Scarlet fever, Distinguishing Characteristics = Often with evidence of streptococcal infection. Infectious mononucleosis, Distinguishing Characteristics = Atypical lymphocytosis, in contrast to the lymphopenia of acute measles. Enterovirus infection, Distinguishing Characteristics = Mild illness without the complications of measles. Adenovirus infection, Distinguishing Characteristics = Epidemics of keratoconjunctivitis usually not associated with rash. Rickettsial infection, Distinguishing Characteristics = Rash not as confluent as with measles, and patient may have exposure history. Kawasaki's disease, Distinguishing Characteristics = Prolonged illness that evolves in stages; a number of characteristics not found in measles. Drug sensitivity reaction, Distinguishing Characteristics = History of exposure to drugs, such as sulfonamides
+Fig. 32.1.6 Classification of measles cases for measles surveillance. (Redrawn from World Health Organization, Department of Vaccines and Biologicals. WHO recommended standards of surveillance of selected vaccine-preventable diseases . Geneva: World Health Organization; 2003.)
+infection or immunization, which cannot be distinguished serologically. Commercially available enzyme immunoassays for detecting IgM or IgG antibodies are the most frequently used diagnostic assays.
+Measles also can be  diagnosed  by  isolating  measles  virus  in cell  culture  from  respiratory  secretions,  nasopharyngeal  and conjunctival  swabs,  blood,  or  urine.  Detection  of  measles  virus RNA by reverse transcriptase-polymerase chain reaction (RT-PCR) of clinical specimens can be accomplished using primers targeted to highly conserved regions of measles virus genes. When combined with  nucleotide  sequencing,  these  assays  permit  the  precise identi{cation and characterization of virus genotypes for molecular epidemiologic studies and can distinguish wild-type and vaccine measles virus strains.
+
+============================================================
+CHUNK 11
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+The differential diagnosis of measles (see T able 32.1.1) includes other  causes  of  fever,  rash,  and  conjunctivitis,  such  as  rubella, roseola,  dengue,  scarlet  fever,  infectious  mononucleosis,  and enterovirus or adenovirus infections. Less common causes include rickettsial infections (e.g., Rocky Mountain spotted fever), Kawasaki's  disease,  and  drug  reactions.  Rubella,  commonly  mistaken for measles, is a milder illness without cough and with distinctive lymphadenopathy involving the posterior  cervical, suboccipital, and  posterior  auricular  nodes.  The  rash  of  roseola  (exanthema subitum) appears after the fever has subsided. The atypical lymphocytosis in infectious mononucleosis contrasts with the leukopenia commonly observed in children with measles.
+
+============================================================
+CHUNK 12
+============================================================
+PREVENTION AND TREATMENT
+The  best  means  of  preventing  measles  is  active  immunization with measles vaccine. 15 Measles vaccines are live, attenuated viral vaccines  that  replicate  within  the  host  to  induce  protective immunity. The recommended age of {rst vaccination varies from 6  to 15 months and is a balance between the optimum age for seroconversion and the probability of acquiring measles before that  age.  The  proportions  of  children  who  develop  protective levels  of  antibody  after  measles  vaccination  are  approximately 85% at 9 months of age and 95% at 12 months of age. As not all children develop protective immunity after vaccination, a second dose is recommended for all children as part of routine immunization.  Supplementary  doses  of  measles  vaccine  can  be  provided through  mass  vaccination  campaigns  (also  called supplemental immunization activities ) to rapidly achieve high levels of population immunity.  An  increasing  number  of  countries  are  introducing rubella  vaccine  through  the  use  of  combined  measles-rubella vaccine.
+TABLE 32.1.2 Vitamin A Treatment of Measles
+
+≥ 12 months, 1st Day = 200,000 IU. ≥ 12 months, 2nd Day* = 200,000 IU. 6-11 months, 1st Day = 100,000 IU. 6-11 months, 2nd Day* = 100,000 IU. < 6 months, 1st Day = 50,000 IU. < 6 months, 2nd Day* = 50,000 IU
+Evidence: randomized controlled trials.
+- *A third dose is recommended 2 to 4 weeks later in children with evidence of vitamin A deficiency.
+The duration of vaccine-induced immunity is at least several decades, if not longer. 16 Secondary vaccine failure rates have been estimated to be approximately 5% at 10 to 15 years after immunization but are probably lower when vaccination is given after 12 months of age. Decreasing antibody titers do not necessarily imply a complete loss of protective immunity, as a secondary immune response usually develops after re-exposure to measles virus, with a rapid rise in antibody titers without overt clinical disease.
+
+============================================================
+CHUNK 13
+============================================================
+PREVENTION AND TREATMENT
+Standard doses of currently licensed measles vaccines are safe in immunocompetent children and adults. Fever to 39.4°C (103°F) occurs  in  approximately  5%  of  seronegative  vaccine  recipients, and 2% of vaccine recipients develop a transient rash. Mild transient thrombocytopenia has been reported with an incidence of approximately 1 in 40,000 doses of the combined measles, mumps, and rubella (MMR) vaccine.
+Measles vaccines are well tolerated and immunogenic in HIVinfected children and adults, although antibody levels may be lower than uninfected children when vaccination occurs in later infancy and antibody levels may wane faster. Because of the potential severity of  wild-type  measles  virus infection  in  HIV-infected children,  measles vaccination is recommended for routine administration to these children at 6 and 9 months of age, except those who are severely immunocompromised. An additional dose of measles vaccine should be  administered  after  HIV-infected  children  achieve  immune reconstitution after highly active antiretroviral therapy.
+and antipyretics, there is no speci{c antiviral therapy for persons with measles. Secondary bacterial infections are a major cause of morbidity and mortality after measles, and effective case management involves prompt treatment with antibiotics. Antibiotics are indicated for persons with measles who have clinical evidence of bacterial infection, including pneumonia and otitis media. Streptococcus pneumoniae and Haemophilus inRuenzae type b were common causes of bacterial pneumonia after measles, but vaccines against these pathogens likely lower the incidence of secondary bacterial infections after measles.
+Vitamin A is effective for the treatment of measles and  can result  in  marked  reductions  in  morbidity  and  mortality  (T able doses of 200,000 IU of vitamin A for 2  consecutive days to all children aged 12 months or older with measles. Lower doses are recommended  for  younger  children:  100,000 IU  per  day  for children aged 6 to 12 months and 50,000 IU per day for children younger than 6 months old. A third dose is recommended 2 to 4 weeks later in children with evidence of vitamin A de{ciency. 17
+
+============================================================
+CHUNK 14
+============================================================
+REFERENCES
+1.  Dabbagh A, Laws RL, Steulet C, et al. Progress toward regional measles elimination-worldwide,  2000-2017.  MMWR  Morb  Mortal Wkly Rep 2018;67:1323-9.
+2.  Masresha BG, Dixon MG, Kriss JL, et al. Progress toward measles elimination - African region, 2013-2016. MMWR Morb Mortal Wkly Rep 2017;66:436-43.
+3.  Caceres VM, Strebel PM, Sutter RW. Factors determining prevalence of maternal antibody to measles virus throughout infancy: a review. Clin Infect Dis 2000;31:110-19.
+4.  Ferrari  MJ,  Grais  RF ,  Bharti  N,  et al. The  dynamics  of  measles  in sub-Saharan Africa. Nature 2008;7:679-84.
+6.  Amanna IJ, Carlson NE, Slifka MK. Duration of humoral immunity to common viral and vaccine antigens. N Engl J Med 2007;357:1903-15.
+7.  Akramuzzaman SM, Cutts FT, Wheeler JG, Hossain MJ. Increased childhood morbidity after measles is short-term in urban Bangladesh.
+Am J Epidemiol 2000;151:723-35.
+
+============================================================
+CHUNK 15
+============================================================
+REFERENCES
+8.  Morley  D.  Severe  measles  in  the  tropics.  Br  Med  J  1969;1:297300.
+9.  Duke T, Mgone CS. Measles: not just another viral exanthem. Lancet 2003;361:763-73.
+3. 2004;49:243-55.
+11.  Moss WJ, Cutts F, Grif{n DE. Implications of the human immunode{ciency virus epidemic for control and eradication of measles. Clin Infect Dis 1999;29:106-12.
+12.  Bellini WJ, Rota JS, Lowe LE, et al. Subacute sclerosing panencephalitis: more cases of this fatal disease are prevented by measles immunization than was previously recognized. J Infect Dis 2005;192:1686-93.
+14.  Bellini  WJ,  Helfand  RF. The  challenges  and  strategies  for  laboratory  diagnosis  of  measles  in  an  international  setting.  J  Infect  Dis 2003;187(Suppl. 1):S283-90.
+- April 2017. Wkly Epidemiol Rec 2017;92:205-27.
+16.  Dine  MS,  Hutchins  SS,  Thomas  A,  et al.  Persistence  of  vaccineinduced antibody to measles 26-33 years after vaccination. J Infect Dis 2004;189(Suppl. 1):S123-30.
+17.  D'Souza RM, D'Souza R. Vitamin A for the treatment of children with measles-a systematic review. J T rop Pediatr 2002;48:323-7.
+

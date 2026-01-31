@@ -1,0 +1,267 @@
+============================================================
+CHUNK 0
+============================================================
+47.1 Yersinia enterocolitica
+Farah Naz Qamar, Anita KM Zaidi
+
+============================================================
+CHUNK 1
+============================================================
+Key features
+- Yersinia enterocolitica is a Gram-negative rod found in dairy products, meats (e.g. pork and poultry) and vegetables
+- Yersinia enterocolitica is primarily associated with gastrointestinal disease, but can cause extraintestinal infections in immunocompromised hosts, especially in conditions of iron overload
+- Young adults may present with acute abdominal pain mimicking appendicitis (pseudo-appendicitis) and surgery may be inadvertently performed for suspected appendicitis
+- Secondary immune-mediated sequelae, such as arthritis, glomerulonephritis, myocarditis, Reiter's syndrome and erythema nodosum can occur following Y. enterocolitica infection in individuals
+- Fluoroquinolone therapy can be used to treat individuals with severe enteritis. Cefotaxime and ceftriaxone alone, or in combination with aminoglycosides, are e0ective in the treatment of individuals with Y. enterocolitica bacteremia
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+Yersinia enterocolitica is a facultatively anaerobic, nonlactosefermenting, Gram-negative rod belonging to the family Enterobacteriaceae .  It  is  motile  at  25°C,  but  non-motile  at  37°C. Yersinia enterocolitica lacks a siderophore and growth is enhanced in the presence of a heme-rich environment with high concentrations of iron. The organism primarily causes gastrointestinal disease but can cause extraintestinal infections, particularly in immunocompromised hosts and in conditions associated with iron overload.
+
+============================================================
+CHUNK 3
+============================================================
+EPIDEMIOLOGY
+The natural reservoir of Y. enterocolitica is the intestinal tracts of farm animals,  especially  pigs,  cows  and  goats.  The  bacteria  can  also  be isolated from the feces of dogs and cats. There are over 60 serogroups of Y. enterocolitica , but only 1 1 are implicated in human disease. Yersinia enterocolitica -associated  gastroenteritis  is  reported  worldwide, most  commonly  from  northern  European  countries.  Infection  is uncommonly reported from tropical environments. A major source
+47
+of infection in humans is ingestion of improperly cooked swine products, such as chitterlings (pig intestines). Nosocomial, as well as foodborne, outbreaks have been described [1].
+
+============================================================
+CHUNK 4
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+Infection with Y. enterocolitica occurs after ingestion of contaminated food or water. Yersinia species have a marked tropism for lymphoid tissue and bacteria migrate to the terminal ileum where they adhere to M cells in the Peyer's patches and penetrate through these cells to colonize  lymphoid  follicles.  Continued  proliferation  of  bacteria  in the lamina propria enables the bacteria to survive and spread to other organs, such as the liver, spleen and mesenteric lymph nodes. Virulence  is  associated  with  three  chromosomally  encoded  proteins (Invasin, Ail and YadA) that promote adherence to (YadA) and invasion  (invasin)  of  M  cells.  Additionally,  several  plasmid-mediated outer  member  proteins  (Yops)  act  synergistically  to  block  various steps in  the phagocytic pathway. Non-pathogenic strains of Yersinia are Yops negative and are rapidly phagocytized [2].
+An association of Y.  enterolitica sepsis  in  patients  with  hematologic dyscrasias, such as thalassemia or aplastic anemia requiring frequent transfusions and desferrioxamine as an iron-chelating agent, is wellestablished. This propensity is related to the ability of Y. enterocolitica to use ferrioxamine as a growth factor [3].
+
+============================================================
+CHUNK 5
+============================================================
+GASTROENTERITIS
+Yersinia  enterocolitica can  cause  illness  ranging  from  acute  watery diarrhea  or  dysentery  to  fatal  necrotizing  enterocolitis.  Infection  is more common in children and often associated with fever and vomiting. The illness may last for 3-28 days. Exposure to the small intestines of pigs, especially when steamed or fried for food (also known as chitterlings or chitlins), has been associated with a high risk of Y. enterocolitica enteritis in children. Infants younger than 3 months old are at risk of developing bacteremia and sepsis. Infections with serogroup O:8 may be severe and can cause extensive ulceration of the gastrointestinal tract and death. In young adults, Y. enterolitica infection can present with acute terminal ileitis and mesenteric lymphadenitis mimicking appendicitis (pseudoappendicitis). Surgery may be inadvertently  performed  for  suspected  appendicitis.  Infected  individuals may shed Y. enterocolitica in stools for weeks after resolution of  symptoms.  Treatment  with  antibiotics  shortens  the  duration  of bacterial shedding [4-6].
+
+============================================================
+CHUNK 6
+============================================================
+SEPTICEMIA
+Septicemia is reported in patients with predisposing conditions, such as alcoholism, diabetes mellitus, immune deficiency and iron overload. Invasion of the bloodstream may result in abscess formation in the liver or spleen, pneumonia, septic arthritis, meningitis, panophthalmitis, osteomyelitis and endocarditis, or localize in a major blood vessel  leading  to  a  mycotic  aneurysm.  Occasionally,  sepsis  may  be acquired through transfusion of contaminated blood that has been stored for long periods [7-10].
+
+============================================================
+CHUNK 7
+============================================================
+POST-INFECTIOUS SEQUELAE
+Yersinia  enterocolitica can  cause  post-infectious  inflammatory  conditions, such as reactive arthritis. Individuals with the HLA-B27 haplotype  are  particularly  susceptible  and  can  develop  arthritis,  Reiter's syndrome, glomerulonephritis, myocarditis and erythema nodosum following Y. enterocolitica infection. Joint symptoms occur in up to 2% of patients, usually 1-2 weeks after gastrointestinal illness. The large joints  of  the  lower  extremities  are  most  commonly  involved  and symptoms usually persist for 1-4 months, although prolonged syndromes can occur. Erythema nodosum manifests as painful raised red or purple lesions on the lower extremities within three weeks of infection and usually resolves spontaneously [9, 1 1].
+
+============================================================
+CHUNK 8
+============================================================
+MISCELLANEOUS INFECTIONS
+Yersinia  enterocolitica has  rarely  been  reported  to  cause urinary  tract infections, conjunctivitis, localized skin abscess, intussusception and appendicitis. Pharyngitis after oral ingestion of the organism has also been reported.
+
+============================================================
+CHUNK 9
+============================================================
+DIAGNOSIS
+Definitive  diagnosis  usually  rests  on  isolating  the  organism  from stool, blood or other specimens. Yersinia enterocolitica grow as small, nonlactose-fermenting colonies on MacConkey agar kept at 25 ° C for 48 hours. Growth can be enhanced by use of differential agar such as cefsulodin-irgasin novbiocin (CIN) agar, as well as cold enrichment techniques. High levels of antibodies to Yersinia may be helpful in the diagnosis of post-infectious complications. Ultrasound or computed tomography (CT) scanning may be useful in differentiating Yersenia mesenteric adenitis from acute appendicitis [5, 1 1].
+
+============================================================
+CHUNK 10
+============================================================
+TREATMENT
+Yersinia enterocolitica are usually susceptible to cotrimoxazole, fluoroquinolone, aminoglycosides, chloroamphenicol, third-generation cephalosporins, aztreonam and imipenem. Cefotaxime and
+
+============================================================
+CHUNK 11
+============================================================
+47.2 Clostridium Infections
+S Asad Ali, Anita KM Zaidi
+
+============================================================
+CHUNK 12
+============================================================
+Key features
+- Clostridium spp. are ubiquitous Gram-positive spore-forming bacteria that cause a wide range of diseases, including botulism, tetanus, soft tissue infections, neonatal sepsis and enteric infections
+- C. perfringens causes gas gangrene and self-limited food poisoning syndrome associated with eating
+ceftriaxone are the most  active  third-generation  cephalosporins against Y. enterocolitica .
+Use of antibiotics in uncomplicated enteritis is controversial; hydration is the mainstay of therapy. Antibiotics are indicated in immunocompromised  individuals  to  prevent  or  mitigate  bacteremia  and sepsis. For severe gastrointestinal infections, doxycycline and aminoglycoside  (in  combination),  or  fluoroquinolone  therapy  is indicated. Antimotility agents are contraindicated in the treatment of Y. enterocolitica enteritis. Cefotaxime and ceftriaxone, alone or in combination  with  aminoglycosides,  are  effective  in  the  treatment  of Y. enterocolitica bacteremia. Deferoxamine therapy should be discontinued during treatment of Yersinia bacteremia [12-14].
+
+============================================================
+CHUNK 13
+============================================================
+REFERENCES
+1. Bottone  EJ. Yersinia  enterocolitica :  overview  and  epidemiologic  correlates. Microbes Infect 1999;1:323-33.
+2. Grosdent N, Maridonneau-Parini I, Sory MP, Cornelis GR. Role of Yops and adhesins  in  resistance  of Yersinia  enterocolitica to  phagocytosis.  Infection Immunity 2002;70:4165-76.
+3. Robins-Browne RM, Prpic JK. Effects of iron and desferrioxamine on infections with Yersinia enterocolitica . Infection Immunity 1985;47:774-9.
+4. Abdel-Haq NM, Asmar BI, Abuhammour WM, Brown WJ. Yersinia enterocolitica infection in children. Pediatr Infect Dis J 2000;19:954-8.
+5. Zartash Zafar Khan MRS, Johnston MH, Martin GJ. Yersinia Enterocolitica. 2009. Available at: http://emedicine.medscape.com/article/232343-overview.
+6. Puylaert J, der Zant FMV, Mutsaers J. Infectious ileocecitis caused by Yersinia, Campylobacter ,  and Salmonella :  clinical,  radiological  and  US  findings.  European Radiol 1997;7:3-9.
+7. Haditsch  M,  Binder  L,  Gabriel  C,  et  al. Yersinia  enterocolitica septicemia  in autologous blood transfusion. Transfusion 1994;34:907-9.
+8. Melby K, Slordahl S, Gutteberg TJ, Nordbo SA. Septicaemia due to Yersinia enterocolitica after oral overdoses of iron. BMJ 1982;285:467-85.
+9. Smego RA, Frean J, Koornhof HJ. Yersiniosis I: microbiological and clinicoepidemiological aspects of plague and non-plague Yersinia infections. Eur J Clin Microbiol Infect Dis 1999;18:1-15.
+
+============================================================
+CHUNK 14
+============================================================
+REFERENCES
+10.  Van Noyen R, Peeters P, Van Dessel F, Vandepitte J. Mycotic aneurysm of the aorta  due  to Yersinia  enterocolitica .  Contrib  Microbiol  Immunol  1987;9: 122-6.
+11.  Bottone EJ. Yersinia enterocolitica : The charisma continues. Clin Microbiol Rev 1997;10:257-76.
+12.  Thielman  NM,  Guerrant  RL.  Acute  infectious  diarrhea.  N  Engl  J  Med 2004;350:38-47.
+13.  Capilla  S,  Goni  P,  Rubio  MC,  et  al.  Epidemiological  study  of  resistance  to nalidixic acid and other antibiotics in clinical Yersinia enterocolitica O: 3 isolates. J Clin Microbiol 2003;41:4876-8.
+14.  Abdel-Haq NM, Papadopol R, Asmar BI, Brown WJ. Antibiotic susceptibilities of Yersinia enterocolitica recovered from children over a 12-year period. Int J Antimicrobial Agents 2006;27:449-52.
+contaminated beef, poultry and precooked foods that undergo slow cooling
+- C. botulinum causes botulism, a cause of flaccid paralysis
+- C. tentani causes tetanus, a cause of rigid paralysis
+
+============================================================
+CHUNK 15
+============================================================
+Key features-cont'd
+- C. diGLYPH<c=27,font=/CIDFont+F18>cile is a frequent cause of hospital-associated diarrhea or diarrhea that develops after receiving antibiotics [ C. diGLYPH<c=27,font=/CIDFont+F18>cile -associated diarrhea (CDAD)]
+- O0ending antibiotics should be discontinued as soon as possible and clinically indicated if a patient develops
+
+============================================================
+CHUNK 16
+============================================================
+INTRODUCTION
+Clostridium spp. are Gram-positive, anaerobic, spore-forming bacteria that are found widely in nature, especially in soil, sewage, decaying tissue  and  the gastrointestinal tracts of humans and other animals. Of the more than 80 species of clostridia, at least 14 are pathogenic in humans, where they cause diseases such as botulism, tetanus, soft tissue infections, neonatal sepsis and enteric infections.
+
+============================================================
+CHUNK 17
+============================================================
+EPIDEMIOLOGY
+Two species of clostridia, C. perfringens and C. difficile are most commonly associated with enteric illness. Both these organism and their associated syndromes have worldwide distribution. C.  perfringens is frequently present in contaminated raw meat and poultry. C. difficile is  commonly  present  in  soil  and  in  the  hospital  environment.  In many hospitals in industrialized countries, C. difficile gastroenteritis has become a major infection control challenge [1].
+
+============================================================
+CHUNK 18
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+C.  perfringens -associated  enteritis  occurs  when  foods  (usually  beef, poultry, gravy, dried or precooked foods) heavily contaminated with C. perfringens type A are ingested. Spores of C. perfringens can survive cooking; these  spores  germinate  and  multiply  during slow  cooling and  storage  at  temperatures  from  20-60 ° C.  Infection  is  usually acquired at banquets or institutions where food is prepared in large quantities and kept warm for prolonged periods. The organism produces an enterotoxin in the colon which causes crampy abdominal pain and diarrhea. Illness is not transmitted from person to person.
+C. difficile is often present in hospitals and children's facilities, largely because  of  its  ability  to  form  spores  that  are  resistant  to  many common disinfectants. It does not usually affect healthy individuals unless the normal intestinal flora is disrupted by the use of antibiotics. C. difficile produces  two  primary  toxins-A  and  B-which produce enterotoxic and cytotoxic effects respectively [2].
+
+============================================================
+CHUNK 19
+============================================================
+CLINICAL FEATURES
+C. perfringens -associated food poisoning usually occurs as part of an outbreak.  The incubation period ranges  from 6-24 hours-usually 8-12  hours.  Major  symptoms  are  crampy,  mid-epigastric  pain, nausea and non-bloody diarrhea. Vomiting and fever are generally absent. In rare instances, a more severe form of enteritis occurs called 'enteritis necroticans' . It  is caused by C. perfringens type  C that  produces a beta toxin. Enteritis necroticans is characterized by abdominal cramps, vomiting, diarrhea (which may be bloody), shock and acute  inflammation  of  small  intestine  with  areas  of  necrosis  and gangrene.  This  condition  is  seen  more  often  after  consumption  of large  quantities  of  contaminated  meat  by  people  who  generally consume low-protein diets and hence produce limited amounts of digestive proteases. In New Guinea, this condition is called 'pigbel' enteritis where it is associated with traditional pig feasting activities in which large quantities of pork are consumed [3].
+C. diGLYPH<c=27,font=/CIDFont+F18>cile -associated illness. Patients with CDAD should be treated with oral vancomycin or oral or intravenous metronidazole; additional agents may also be e0ective
+C. difficile causes a wide variety of gastrointestinal symptoms ranging from asymptomatic colonization or mild diarrhea to pseudomembranous colitis, or even illness resembling an intra-abdominal catastrophe.  Pseudomembranous colitis  is  characterized  by  profuse  watery diarrhea, abdominal cramps, fever and small (2-5 mm), raised, yellowish plaques on the colonic mucosa.
+
+============================================================
+CHUNK 20
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+C.  perfringens food  poisoning  is  usually  seen  in  the  setting  of  an outbreak.  The  shorter  incubation  period  (usually  8-12  hours)  of C. perfringens -associated food poisoning and complete resolution of symptoms usually by 24 hours, and absence of fever in most patients differentiates this syndrome from shigellosis and salmonellosis. On the other hand, this incubation period is longer compared with some other causes of food-borne illnesses, such as heavy metal poisoning, Staphylococcus  aureus enterotoxin-associated  food  poisoning,  and shellfish toxins. The diarrheal illness caused by Bacillus cereus enterotoxin is quite similar to that caused by C. perfringens . As the fecal flora of healthy individuals often includes C. perfringens , counts of C. perfringens spores > 10 6 /g of feces obtained within 48 hours of illness in acutely ill patients are required to presumptively confirm the diagnosis. Enterotoxins can also be detected in the stool of affected individuals.  In  order  to  confirm C.  perfringens as  a  cause  of  an  outbreak, demonstration  of  large  numbers  of C.  perfringens ( > 10 5 /g)  in  the implicated  food  and/or  demonstration  of  the  same  serotype  of C. perfringens in the implicated food and the stools of affected individuals may be used.
+C. difficile should be  suspected in patients with diarrhea  who have received antibiotics in the previous 2 months, or whose diarrhea starts 72 hours after hospitalization. Typically, toxin testing of a single stool specimen by enzyme immunoassay (EIA) or tissue culture assay establishes the  diagnosis.  However,  repeat  testing  may  be  required. Although C. difficile can be easily isolated from the stools by the use of selective media, distinction between toxigenic and non-pathogenic strains cannot be made and C. difficile can be isolated in the stool of many asymptomatic individuals. Neonates, young infants and toddlers are very commonly colonized with C. difficile, which may or may not produce toxins; however, C. difficile -associated diarrhea is rarely seen in this age group.
+
+============================================================
+CHUNK 21
+============================================================
+TREATMENT
+Food poisoning caused by C. perfringens is self-limited and does not require any specific therapy beyond oral rehydration or, in some cases, intravenous fluid and electrolyte replacement. Antimicrobial agents are not indicated. For enteritis necroticans, a specific antitoxin to the beta toxin produce by C. perfringens type C offers significant benefit. Treatment for C. difficile -associated disease requires discontinuation of the causative antibiotic regimen when feasible. Antibiotics against C. difficile are also indicated. Oral or intravenous metronidazole is the drug of choice for initial treatment of mild disease. Oral vancomycin has been shown to be more effective than metronidazole, but should be reserved for more severe or refractory cases as it may increase the recovery of vancomycin-resistant enterococci. Intravenous
+vancomycin is not effective as it does not enter the colonic lumen. Newer  investigational  therapies  for C.  difficile -associated  disease include  antimicrobials  such  as  nitazoxanide, rifamixin  and  tinadozole,  as  well  as  alternative  therapeutic  approaches  using  immune globulin therapy, toxin binders and restoring intestinal tract flora.
+
+============================================================
+CHUNK 22
+============================================================
+REFERENCES
+1. American Academy of Pediatrics. Clostridial Infections. In: Pickering LK, Baker CJ, Kimberlin DW, Long SS, eds. Red Book: 2009 Report of the Committee
+
+============================================================
+CHUNK 23
+============================================================
+47.3 Aeromonas
+Farah Naz Qamar, Anita KM Zaidi
+
+============================================================
+CHUNK 24
+============================================================
+Key features
+- Aeromonas spp. are Gram-negative rods that can cause infections in healthy, as well as immunocompromised, hosts
+- Predominantly, three serotypes ( Aeromonas hydrophila, Aeromonas caviae, and Aeromonas veronii ) are of clinical significance
+- Gastroenteritis is the major clinical illness associated with Aeromonas species, although causation and estimates of disease burden are controversial
+- Diarrhea associated with Aeromonas spp. is usually self-limited, but cases of dysentery, cholera-like illness and chronic diarrhea have also been associated
+- Aeromonas species can cause wound and soft tissue infections and septicemia and have been associated with pneumonia and peritonitis
+- Aeromonas -associated bacteremia and sepsis in immunocompromised patients can have a high mortality
+- Aeromonas are resistant to ampicillin. Aminoglycosides and quinolones can be used to treat Aeromonas infections. Third-generation cephalosporins should be used carefully, as increasing resistance is being reported
+
+============================================================
+CHUNK 25
+============================================================
+INTRODUCTION
+Aeromonas are  motile, Gram-negative facultatively anaerobic rods in the  family Aeromonadaceae.  Aeromonas are  commonly  isolated  in diarrheal specimens in tropical countries, but causation is controversial. Aeromonas species  can cause wound infections and septicemia. Aeromonas spp. exist in aquatic environments and can cause disease in amphibians, reptiles and fish [1, 2].
+
+============================================================
+CHUNK 26
+============================================================
+MICROBIOLOGY
+Aeromonas are flagellated, Gram-negative rods. There are currently 17 recognized species of Aeromonas . Only three species are of major clinical importance: Aeromonas hydrophila, Aeromonas caviae and Aeromonas veronii .  The  other  species  are  predominantly found  in  the environment [3, 4].
+- on  Infectious  Diseases,  28th  ed.  Elk  Grove  Village:  American  Academy  of Pediatrics; 2009:263-6.
+2. Kelly CP, LaMont JT. Clostridium difficile -more difficult than ever. N Engl J Med 2008;359:1932-40.
+3. Murrell TG, Walker PD. The pigbel story of Papua New Guinea. Trans R Soc Trop Med Hyg 1991;85:119-22.
+
+============================================================
+CHUNK 27
+============================================================
+EPIDEMIOLOGY
+Aeromonas hydrophila has been recognized as a pathogen of amphibians, reptiles, snails, cows and humans. It has been found in soil, as well  as  a  variety  of  aquatic  environments,  including  lakes,  rivers, streams, springs, rainwater, swimming pools, seawater and tap water. Relative  resistance  to  chlorine,  unlike  other  enteropathogens,  is  a potential public health hazard. Aeromonas have been isolated from a wide variety of foods, such as vegetables, raw milk, ice cream, meat and seafood. Despite being prevalent in the environment, reported outbreaks of gastroenteritis caused by this organism are rare.
+Aeromonas are  isolated  with  increased  frequency  during  warmer months. Illness can occur in healthy, as well as in immunocompromised hosts, especially those with hematological malignancies and liver cirrhosis. Infections in immunocompromised individuals may be severe and associated with a high case fatality rate [2, 5].
+
+============================================================
+CHUNK 28
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+Aeromonas can form biofilms, which can assist in adherence in pipes and can help the organism survive exposure to chlorine. Aeromonas secrete at least two hemolysins: an alpha hemolysin causes hemorrhagic  enteritis  and  increased  secretion  in  the  rabbit  ileum  and  is lethal  if  injected  intraperitoneally  in  experimental  animals;  a  beta hemolysin, also known as aerolysin or cytotoxic toxin, encoded by the Act gene, has both hemolytic and cytotoxic activity. Both the alpha and beta hemolysins cause dermonecrosis if injected in animal skin. The enterotoxins secreted  by Aeromonas have  been  broadly  divided into cytotonic and cytotoxic types. Cytotonic enterotoxins are encoded by two genes Ast (thermo-stable) and Alt (thermo-labile), which are genetically  different from cholera  toxin,  but function by increasing secretion of cAMP.
+The cytotonic enterotoxin genes encoding Alt and Ast were found in 16%  of  isolates  from  diarrheal  stools  from  Bangladeshi  children, whereas the cytotoxic gene encoding Act was not identified in any of the isolates. The presence of all three genes in clinical isolates may be associated with dysentery [6-8].
+
+============================================================
+CHUNK 29
+============================================================
+CLINICAL FEATURES
+Aeromonas species have been associated with a wide variety of intestinal, as well  as extraintestinal,  infections,  although  the  burden of diarrheal  illness that  can  be  ascribed  to Aeromonas spp. is
+controversial.  Asymptomatic  carriage,  as  well  as  failure  to  produce disease in healthy volunteers, has raised questions regarding its enteropathogenicity [9] .
+When Aeromonas spp. are detected in diarrheal stools, the diarrhea is usually acute and watery, with vomiting and abdominal pain. Aeromonas spp. may also be associated with dysentery, especially in children [10]. Cases with severe dehydrating cholera-like illness and rice-water stools associated with A. veroni biovar sobria and A. caviae have also been reported. These organisms have also been associated with traveler's  diarrhea.  In  most  cases, Aeromonas -associated  diarrhea  is  selflimiting, but cases of chronic diarrhea have been reported [1 1].
+Aeromonas have been implicated as causative agents in wound infections and can also cause bacteremia and sepsis. Pneumonia, meningitis, urinary tract infections, endocarditis, endophthalmitis, and bone and  joint  infections  have  also  been  reported.  Wound  infections caused by Aeromonas usually occur in healthy young individuals following trauma or abrasions. Infections result from exposure to contaminated  water  or  soil. Aeromonas species  were  among  the  most commonly isolated organisms from tsunami victims with skin and soft  tissue  infections  in  southern  Thailand in  2004. Many  of  these infections  were  polymicrobial  [12].  Cases  have  also  been  reported following bites of snakes and reptiles, in burn patients, and following pelvic and  abdominal surgeries. Aeromonas  veronii biovar sobria is  a normal component of leech flora, and wound infections in both adult and pediatric patients have been described following leech therapy. Soft tissue infections caused by Aeromonas may be fulminant and even lead  to  gas  gangrene. Aeromonas septicemia  mainly occurs  in older males with underlying liver cirrhosis, malignancies, diabetes, or other underlying chronic infections. Mortality during Aeromonas -associated septicemia ranges from 24-68% [13-15].
+
+============================================================
+CHUNK 30
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+Diagnosis can be made by isolation of Aeromonas spp. from clinical specimens  in  culture. Aeromonas species  grow  well  on  blood  agar, MacConkey  and  xylose,  lysine,  deoxycholate  (XLD)  agar.  Selective media incorporating ampicillin in blood agar (ABA) can be used to aid isolation of Aeromonas species . Further identification can be performed using the API (analytical profile index) 20E system or more sophisticated PCR techniques [5].
+Aeromonas infection should be suspected in any patient with injuries and exposure to water, as well as in immunocompromised individuals with Gram-negative shock, especially those with underlying liver disease.
+
+============================================================
+CHUNK 31
+============================================================
+TREATMENT
+Aeromonas species  are  sensitive  to  tetracycline,  chloramphenicol, trimethoprim-sulfamethoxazole, third-generation cephalosporins, aminoglycosides (except streptomycin) and fluoroquinolones. Most species are resistant to ampicillin, ticarcillin, amoxicillin-clavulanate and first-generation  cephalosporins.  Increasing  antimicrobial resistance  among Aeromonas species  has  been  observed  worldwide.  The increasing resistance amongst Aeromonas spp. is not only caused by increased use of antibiotics in the clinical setting, but increasing use of antibiotics in animal husbandry and fish-farming also play a role. Chromosomally  encoded,  inducible  ß-lactamase  production  has been observed among Aeromonas species [16].
+Most diarrhea associated with Aeromonas species is  self-limited  and does not require  antimicrobial  therapy.  Fluoroquinolones  may be used in chronic diarrhea, dysentery or diarrhea in travelers. Immunocompromised patients with Aeromonas diarrhea may be at increased risk of complications and may benefit from treatment. For extraintestinal infections and septicemia, aminoglycosides or fluoroquinolones can be used for empiric therapy, and antimicrobial susceptibility can guide further treatment decisions [17, 18].
+
+============================================================
+CHUNK 32
+============================================================
+REFERENCES
+1. Figueras  MJ,  Guarro  J,  Martínez-Murcia  A.  Clinically  relevant Aeromonas species. Clin Infect Dis 2000;30:988-9.
+2. Khalifa  Sifaw  Ghenghesh  SFA,  El-Khalek  RA,  Atef  Al-Gendy  JK. Aeromonas -associated infections in developing countries. J Infect Developing Countries 2008;2:81-98.
+3. Garrity  GM,  Bell  JA,  Lilburn  TG.  Taxonomic  outline  of  the  prokaryotes. Bergey's manual of systematic bacteriology. Bergey's Manual Trust; 2004. New York: Springer.
+4. Colwell  RR,  MacDonell  MT,  De  LEY.  Proposal  to  recognize  the  family Aeromonadaceae fam. nov. Int J Systematic Evolutionary Microbiology 1986; 36:473.
+5. Janda  JM,  Abbott  SL.  The  genus Aeromonas :  taxonomy,  pathogenicity,  and infection. Clin Microbiol Rev 2010;23:35-73.
+6. Khardori N, Fainstein V. Aeromonas and Plesiomonas as etiological agents. Ann Rev Microbiol 1988;42:395-419.
+7. Chopra AK, Houston CW. Enterotoxins in A eromonas -associated gastroenteritis. Microbes Infect 1999;1:1 129-37.
+8. Albert  MJ,  Ansaruzzaman  M,  Talukder KA, et  al.  Prevalence  of  enterotoxin genes in Aeromonas spp.  isolated from  children with diarrhea, healthy controls, and the environment. J Clin Microbiol 2000;38:3785.
+9. Morgan  DR,  Johnson  PC,  DuPont  HL,  et  al.  Lack  of  correlation  between known virulence properties of Aeromonas hydrophila and enteropathogenicity for humans. Infection Immunity 1985;50:62.
+10.  Mm SD, Moezardalan K. Aeromonas spp associated with childrens diarrhoea in Tehran: a case-control study. Ann Trop Paediatr Int Child Health 2004;24: 45-51.
+11.  Von  Graevenitz  A.  The  role  of Aeromonas in  diarrhea:  a  review.  Infection 2007;35:59-64.
+
+============================================================
+CHUNK 33
+============================================================
+REFERENCES
+12.  Hiransuthikul N, Tantisiriwat W, Lertutsahakul K, et al. Skin and soft tissue infections  among  tsunami  survivors  in  southern  Thailand.  Clin  Infect  Dis 2005;41:e93-6.
+13.  Ouderkirk JP, Bekhor D, Turett GS, Murali R. Aeromonas meningitis complicating medicinal leech therapy. Clin Infect Dis 2004;38:36-7.
+14.  Ko WC, Chuang YC. Aeromonas bacteremia: review of 59 episodes. Clin Infect Dis 1995;20:1298-304.
+15.  Stano F, Brindicci G, Monno R, et al. Aeromonas sobria sepsis complicated by rhabdomyolysis in an HIV-positive patient: case report and evaluation of traits associated with bacterial virulence. Int J Infect Dis 2009;13:1 13-8.
+16.  Vivekanandhan G, Savithamani K, Hatha AAM, Lakshmanaperumalsamy P. Antibiotic resistance of Aeromonas hydrophila isolated from marketed fish and prawn of South India. Int J Food Microbiol 2002;76:165-8.
+17.  Guerrant RL, Van Gilder T, Steiner TS, et al. Practice guidelines for the management of infectious diarrhea. Clin Infect Dis 2001;32:331-51.
+18.  Oldfield EC, Wallace MR. The role of antibiotics in the treatment of infectious diarrhea. Gastroenterology Clinics North America 2001;30:817-35.
+

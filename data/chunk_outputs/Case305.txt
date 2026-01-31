@@ -1,0 +1,191 @@
+============================================================
+CHUNK 0
+============================================================
+Q Fever
+Pierre-Edouard Fournier, Didier Raoult
+
+============================================================
+CHUNK 1
+============================================================
+KEY FEATURES
+- important reservoirs.
+- Coxiella burnetii, an intracellular bacterium.
+- to aerosolized pseudo-spores.
+- (chronic) infection.
+- include |ulike syndrome, pneumonia, and hepatitis, whereas persistent infection mostly presents as a blood culture-negative endocarditis or an aorta aneurysm or vascular graft infection.
+- diagnosis.
+- doxycycline, and persistent infection is treated with a prolonged combination of doxycycline and hydroxychloroquine.
+- well as limiting exposure to infected animals and their products, especially placental materials.
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+Q fever is a zoonotic infection caused by the strictly intracellular bacterium Coxiella burnetii that  has  both acute and  potentially lethal chronic manifestations. 1 The designation Q fever (from query) was made in 1935 after an outbreak of febrile illness in an abattoir in Queensland, Australia. Classi{ed as a potential Class B bioterrorism agent  by  the  Centers  for  Disease  Control  and  Prevention, 2 C. burnetii has a worldwide distribution, including tropical areas.
+
+============================================================
+CHUNK 3
+============================================================
+Reservoir
+Q fever is a widespread zoonosis, and humans are incidental hosts. The reservoir includes mammals, birds, and arthropods (mainly ticks). 1 The most commonly identi{ed sources of human infection are farm animals, notably goats, and sheep. Infected mammals shed C. burnetii in urine, feces, milk, and birth products, in particular.
+
+============================================================
+CHUNK 4
+============================================================
+Transmission to Humans
+Human exposure results from inhalation of contaminated aerosols from parturient |uids of infected livestock. 1 Occupational exposure is a common form of acquisition. 3,4 Transmission can also occur by the consumption of raw milk, trans-placentally via exposure to blood, or through sexual intercourse. 5,6 Exposure to soil and standing water has also been postulated as a possible source of infection in tropical areas. 7
+
+============================================================
+CHUNK 5
+============================================================
+Temporal and Geographic Distribution
+The geographic distribution  of Q fever  is worldwide,  with the exception of New Zealand. As the clinical presentation is nonspeci{c, the identi{cation of cases depends on clinical recognition and the availability of a reference laboratory. Thus incidence {gures for the disease vary widely. In southern France, the incidence of acute Q fever is approximately 50 cases per 100,000 people per year;  approximately  1  case  per  1,000,000  people  per  year  are diagnosed with Q fever endocarditis. Cases of acute Q fever in Europe  occur  more  frequently  in  spring  and  early  summer. 8 Outbreaks of Q fever have been reported in several countries in Europe  and  North America;  cases  and  outbreaks  are  probably under-estimated in resource-limited countries.
+
+============================================================
+CHUNK 6
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+C. burnetii is a short (0.3-1.0 μ m), pleomorphic rod, possessing a membrane similar to a gram-negative bacterium and stained by the Gimenez method. Although previously classi{ed as a Rickettsia, C.  burnetii has  been  placed  into  the  gamma  subdivision  of  the Proteobacteria, characterizing it closer to Legionella and Francisella species than to Rickettsia . 9 C. burnetii has a number of distinctive characteristics, including a sporulation-like process that protects the organism against the external environment, where it can survive for long periods. 10 In mammals, the usual host cell of C. burnetii is the macrophage, which is unable to kill the bacterium, as it is able to survive and multiply with the phagolysosome at acidic pH. Another  important  characteristic  of C.  burnetii is  its  antigenic variation, called phase variation . This antigenic shift can be measured and is valuable for differentiating serologically acute from chronic Q fever. 1
+
+============================================================
+CHUNK 7
+============================================================
+CLINICAL FEATURES
+Approximately half of individuals infected with C. burnetii will be asymptomatic, and only 2% will be hospitalized. 11,12 Acute Q fever is more likely symptomatic in adults compared with children, and in men compared with women. 12 Persistent Q fever is de{ned as infection lasting  for  more  than  6  months  and  occurs in  5% of patients after acute infection. 1
+
+============================================================
+CHUNK 8
+============================================================
+Acute Infection
+The incubation period is approximately 20 days. 11 Three clinical presentations are typically encountered 1 : (1) The most common is a self-limited, |ulike syndrome. The onset is typically abrupt with high-grade fever (104°F/40°C), fatigue, headache, and myalgias. (2) Pneumonia is very common, and patients usually present with a non-productive cough, fever, and minimal auscultatory abnormalities.  Acute  respiratory  distress  has  been  reported,  and  pleural effusions may be present. Radiographic {ndings are non-speci{c and may resemble those seen with a viral or atypical pneumonia, such  as  that  caused  by Mycoplasma  pneumoniae. (3)  Hepatitis  is also  a  common  manifestation  and  may  be  mild,  moderate,  or severe. Jaundice is rarely present. Chronic involvement can manifest as a granulomatous hepatitis (Fig. 71.1). Other rare manifestations of acute Q fever include maculopapular or purpuric rash, pericarditis, myocarditis, acute endocarditis, aseptic meningitis, and/
+Fig. 71.1 Histology of the liver in a patient with acute Q fever. Hepatic ring granuloma of Q fever with peripheral epithelioid macrophages and lymphocytes admixed with neutrophils, characteristic central 'doughnut' hole, and ring of fibrin. Note the 'fatty liver' parenchyma (hematoxylin and eosin, original magnification × 400).
+or encephalitis and gastroenteritis. Acute acalculous cholecystitis has been reported, 13 as have uveitis 14 and other rare, organ-speci{c immunologic manifestations. 15
+
+============================================================
+CHUNK 9
+============================================================
+Persistent Infection
+Chronic Q fever may develop insidiously months or years after acute infection, especially in immunocompromised patients and in those with signi{cant co-morbidities. The disease may include endocarditis and infections of vascular aneurysms  or prosthetic devices,  all  with  an  accompanying  poor  prognosis. 16,17 Other manifestations of persistent Q fever include osteoarthritis, osteomyelitis, and isolated hepatitis, possibly complicated by hepatic {brosis and cirrhosis.
+
+============================================================
+CHUNK 10
+============================================================
+Endocarditis
+Unless proper treatment is instituted, acute Q fever in patients with valvular disease, particularly a bicuspid aortic or prosthetic valve, results in endocarditis in approximately 40% of patients. 18 silent  and  previously  undiagnosed  valve  disease.  As  a  result,  a screening echocardiography should be performed in patients with acute Q fever. 18 Q  fever  endocarditis  is  often  the  predominant manifestation of chronic infection and can lead to heart failure or arterial embolism. 19
+
+============================================================
+CHUNK 11
+============================================================
+Q Fever in Pregnancy
+During pregnancy, Q fever is most often asymptomatic, but may result in obstetric complications, such as spontaneous abortion, intra-uterine  growth  retardation,  intra-uterine  fetal  death,  oligoamnios, and premature delivery. 12,20-22 Although intra-uterine transmission of C. burnetii has been documented, the consequences of congenital Q fever are uncertain.
+
+============================================================
+CHUNK 12
+============================================================
+Children
+In children, acute Q fever is mostly asymptomatic. Endocarditis may occur in children with congenital heart disease or in those with a history of rheumatic fever.
+
+============================================================
+CHUNK 13
+============================================================
+Laboratory Findings
+During acute Q fever, laboratory {ndings are non-speci{c and may include an elevated leukocyte count (25%), thrombocytopenia (25%),  and  elevated  liver  enzymes  (85%).  Autoantibodies  are frequently  found  in  Q  fever,  although  their  signi{cance  is  still unknown. 19
+
+============================================================
+CHUNK 14
+============================================================
+Polymerase Chain Reaction
+Polymerase chain reaction (PCR) is ef{cient to detect DNA in both cell cultures and clinical samples. 19 In addition, PCR testing is helpful in con{rming the serologic diagnosis of chronic infection in patients who have persistent elevation of IgG titers to phase I titers (see later).
+
+============================================================
+CHUNK 15
+============================================================
+Culture
+If microbiologic culturing for C. burnetii is to be performed, isolabecause of the risk of laboratory-associated infection. 19 culture is the best, and simplest, technique, allowing isolation of C. burnetii from blood or tissues, including cardiac valves.
+
+============================================================
+CHUNK 16
+============================================================
+Serology
+against C. burnetii phase I and phase II antigens is currently the reference  method  used  to  serodiagnose  patients  with  Q  fever. Anti-phase  II  IgG  titers ≥ ≥ 50  are  indicative  of recent Q fever infection, whereas an IgG titer to phase I > 800 suggests chronic infection. 19 As the persistence of high levels of anti-phase I antibodies 6 months after completion of treatment and the reappearance of previously decreasing antibody titers may signal the development of persistent infection, serologic monitoring should be performed for at least 6 months after acute Q fever, especially in immunocompromised or pregnant patients and those with valvular or vascular abnormalities.
+
+============================================================
+CHUNK 17
+============================================================
+Immunohistochemistry
+C. burnetii can be identi{ed by immunohistochemical analysis of resected  valve  or  liver  biopsy  specimens  using  a  monoclonal antibody and hematoxylin counterstaining (Figs 71.1 and 71.2).
+
+============================================================
+CHUNK 18
+============================================================
+Differential Diagnosis
+Legionella spp ., Mycoplasma spp., and Leptospira spp . or viral infections such  as  those  caused  by  Epstein-Barr  virus,  cytomegalovirus, hepatitis viruses, and HIV . In addition to C. burnetii, the currently recognized  agents  of  'culture-negative'  endocarditis  include Bartonella spp ., Tropheryma whipplei, Abiotrophia elegans, Mycoplasma hominis, and Legionella pneumophila . 23
+
+============================================================
+CHUNK 19
+============================================================
+Medical Therapy
+In acute disease, treatment of patients infected with C. burnetii should target only those who are symptomatic. Doxycycline therapy (100 mg PO twice daily for 14 days) is the recommended regimen for  symptomatic  acute  Q  fever. 24 Fluoroquinolones  and  newer macrolides may be of clinical use and can be considered as secondline agents. 25
+Fig. 71.2 Immunohistochemical detection of Coxiella burnetii in a resected valve from a patient with Q fever endocarditis using a monoclonal antibody and hematoxylin counterstain. Note the intracellular location of the bacteria in the macrophage cytoplasm (original magnification × 400).
+
+============================================================
+CHUNK 20
+============================================================
+Acute Q Fever in Patients With Underlying Valvular Disease
+In patients with underlying valvular disease who develop acute Q fever, experts suggest that hydroxychloroquine should be used in combination with doxycycline for 12 months. 18 This regimen may prevent the development of endocarditis.
+
+============================================================
+CHUNK 21
+============================================================
+Pregnancy
+Treatment of pregnant women with Q fever infection is dif{cult. pregnancy (e.g., doxycycline, |uoroquinolones). The use of longterm cotrimoxazole therapy has been shown to decrease the risk of  placentitis,  obstetric  complications,  and  maternal  chronic  Q fever infection. 26 Newer macrolides may also be of clinical use.
+
+============================================================
+CHUNK 22
+============================================================
+Q Fever Endocarditis
+Patients  with  Q  fever  endocarditis  should  be  treated  with  a prolonged course of combined hydroxychloroquine and doxycycline. 27 The  optimum  duration  of  treatment  is  18  months  for native valves and 24 months for prosthetic valves. 28 This duration should  be  extended  only  in  the  absence  of  favorable  serologic outcomes. Patients should be serologically monitored for at least 5 years because of the risk of relapse.
+
+============================================================
+CHUNK 23
+============================================================
+Children
+No reliable antibiotic regimen can be recommended for children. Doxycycline  should  be  prescribed  when  the  disease  is  life threatening.
+
+============================================================
+CHUNK 24
+============================================================
+Prevention
+A human vaccine is commercially available in Australia (Q-VAX). Prevention usually involves limiting exposure to infected animals and their products, especially placental materials.
+
+============================================================
+CHUNK 25
+============================================================
+REFERENCES
+- Q fever. Lancet Infect Dis 2005;5:219-26.
+3.  Wade AJ, Cheng AC, Athan E, et al. Q fever outbreak at a cosmetics supply factory. Clin Infect Dis 2006;42:e50-2.
+5.  Raoult  D, Levy PY, Dupont HT, et al. Q fever and HIV infection.
+- Infect Dis 2001;33:399-402.
+- Q fever in French Guiana: evidence of a wild reservoir. J Infect Dis 2001;184:278-84.
+8.  Tissot DH, Raoult D, Brouqui P , et al. Epidemiologic features and clinical  presentation  of  acute  Q  fever  in  hospitalized  patients:  323
+- of Coxiella  burnetii
+10.  Hackstadt T, Williams JC. Biochemical stratagem for obligate parasitism of eukaryotic cells by Coxiella burnetii 1981;78:3240-4.
+- valve lesion, and pregnancy in the clinical expression and outcome of Q fever after a large outbreak. Clin Infect Dis 2007;44:232-7.
+- associated  with  Q  fever:  report  of  seven  cases  and  review  of  the
+- two cases from France, including 27 cases without endocarditis. Arch
+17.  Botelho-Nevers  E,  Fournier  PE,  Richet  H,  et al. Coxiella  burnetii infection  of  aortic  aneurysms  or  vascular  grafts:  report  of  30  new 2007;26:635-40.
+18.  Fenollar F, Thuny F , Xeridat B, et al. Endocarditis after acute Q fever in  patients  with  previously  undiagnosed valvulopathies. Clin Infect Dis 2006;42:818-21.
+20.  Carcopino X, Raoult D, Bretelle F, et al. Q Fever during pregnancy: 2009;1166:79-89.
+- in southern France. Clin Infect Dis 1998;27:592-6.
+23.  Houpikian P , Raoult D. Blood culture-negative endocarditis in a refer2005;84:162-73.
+24.  Raoult  D.  Treatment  of  Q  fever.  Antimicrob  Agents  Chemother 1993;37:1733-6.
+
+============================================================
+CHUNK 26
+============================================================
+REFERENCES
+- treatment for acute Q fever infection. Antimicrob Agents Chemother 2001;45:3644-6.
+- pregnancy: the bene{ts of long-term cotrimoxazole therapy. Clin Infect Dis 2007;45:548-55.
+27.  Raoult  D,  Houpikian  P ,  Tissot  DH,  et al.  T reatment  of  Q  fever endocarditis: comparison of 2 regimens containing doxycycline and
+- Q fever  endocarditis:  a  26-year  personal  survey.  Lancet  Infect  Dis 2010;10:527-35.
+

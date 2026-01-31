@@ -1,0 +1,191 @@
+============================================================
+CHUNK 0
+============================================================
+Diseases of the Musculoskeletal System 13
+Richard A Gosselin, Jonathan J Phillips, R Richard Coughlin
+
+============================================================
+CHUNK 1
+============================================================
+Key features
+- Approximately 1.2 million people are killed in road tra)c crashes each year and an estimated 50 million are injured worldwide. Many road tra)c injuries result in signi(cant musculoskeletal (MS) morbidity
+- Advances in control have reduced the impact of some historically devastating infectious conditions that a*ect the MS system
+- Timely recognition of infections of the bone and joints is especially important to prevent loss of mobility and MS integrity
+- With increased life expectancy in most countries, agerelated conditions account for an increasing percentage of the MS disease burden
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+The toll of infectious diseases has drawn appropriate global attention; however,  musculoskeletal  diseases  and  injuries  are  becoming  the 'neglected  burden'  in  low-  and  middle-income  countries  (LMIC). Beginning with the landmark Global Burden of Disease study in 1996 and subsequent update publications, the importance and significance of  musculoskeletal  diseases  and  injuries  have  been  detailed  (Fig. 13.1).  Emergence  of  non-communicable  and  degenerative  diseases such  as  diabetes  and  osteoarthritis  increase  the  impact  of  musculoskeletal conditions. Further, despite the preponderance of a pediatric population in most developing countries, improving healthcare, vaccines and antibiotics have increased longevity and contribute to age-related conditions.
+This chapter  is  divided  into  four  sections;  trauma  and  injury,  orthopedic infections, pediatric conditions, and emerging age-related conditions. Each section will address key aspects of epidemiology, pathophysiology, clinical investigation, diagnosis, management and outcomes.
+
+============================================================
+CHUNK 3
+============================================================
+TRAUMA AND INJURY
+Acute  injuries  are  a  leading  cause  of  mortality  and  morbidity  [1]. In  2001,  injuries  accounted  for  more  than  1 1%  of  all  disabilityadjusted life-years (DALY) in LMIC, but only 7.5% in high-income countries (HIC) [2]. Road traffic injuries (RTI) alone are responsible for over a quarter of all injury-related DALYs. In LMIC, a significant amount of musculoskeletal care  is  provided  by  traditional  healers, because  of  easier  access  and  lower  costs.  Thus,  many  patients  are seen  late,  with  sequelae  of  neglected  trauma  such  as  non-unions or malunions, or even sequelae of treatment such as post-compartment syndrome contractures.
+The  numbers  of  drivers,  passengers,  motorized  vehicles,  and  kilometers of paved road are steadily increasing in the developing world, and so are the numbers of high-energy injuries, seen more acutely at the district or referral hospitals (Table 13-1). Poor countries are often ill-prepared  to  manage  this  growing  epidemic:  lack  of  pre-hospital care systems, deficiencies in infrastructure, human, technologic and material capacities and resources, and absent or inadequate physical and social  rehabilitation  services  [3].  Most  countries  have  to  focus their scarce resources on curative approaches, not on prevention strategies [4]. A recent country-wide survey in Sierra Leone, using a WHO situational assessment tool, has documented widespread deficiencies in  basic  parameters,  such  as  availability  of  water  and  electricity, number  of  care  providers  (including  surgeons,  anesthesiologists, nurses and therapists), availability of oxygen, and capacity to insert a thoracic drain or even wash out an open fracture [5].
+The WHO has recently estimated that over 25% of all hospital beds in  LMIC  are  occupied  by  injured  patients.  Injuries  are  costly:  RTIs alone can cost more than 2% of a developing country's GDP, over $100 billion per year worldwide, which is more than twice the total amount of  dollars  spent  on  development  aid.  Significant  costs  are also imposed on the victims: direct and indirect costs for care, and prolonged absence from gainful work can be ruinous for many poor families, reliant on subsistence farming. Selling of vital assets, severe indebtment and pulling children out of school all contribute to the vicious cycle of poverty.
+
+============================================================
+CHUNK 4
+============================================================
+TRAUMA AND INJURY
+The management of injuries depends on type, site and duration; if there was any prior treatment; the availability of local care providers, including surgeons and anesthesiologists; the presence of a safe surgical  environment;  and  the  availability  of  appropriate  materials  and supplies. As a general rule, most fractures will heal with conservative management,  albeit  not  always  in  the  optimal  position.  Wounds frequently present beyond the time when it is safe for closure.
+Debridement and delayed closure, either primarily or by graft, are the norm. This is also true of open fractures, which are commonly treated with debridement and either  external fixation,  or  a  Plaster-of-Paris (POP) cast that is windowed for wound management. POP casting after  reduction  remains  the  cornerstone  of  management  of  most closed fractures, including humerus, forearm, hand, tibia, ankle and foot. Pins can be inserted percutaneously, particularly if fluoroscopic imaging is available, to improve and stabilize reduction, and then be incorporated  in  the  cast.  Skin  traction  in  the  pediatric  group  and skeletal traction in adults are still commonly used for femur fractures. In most LMIC, there is little pressure to minimize length of hospital stay, so conservative treatment involving weeks or even months of bed rest is not unusual. This is also the case for fractures of the spine or the pelvic ring.
+Open reduction and internal fixation (ORIF) of long bone fractures has  many  advantages:  earlier  mobilization  of  the  limb  and  of the  patient,  earlier  return  to  home  and  to  work,  better  functional results with less complications such as non-unions or malunions. The biggest drawback is the risk of deep infection, which in orthopedics can  be  catastrophic,  sometimes  salvageable  only  with  a  life-saving
+FIGURE 13.1 Distribution of global injury mortality by cause. Redrawn from WHO Global Burden of Disease Project 2002, Version 1.
+amputation. A clean operating environment, skilled surgeon, trained personnel, adequate instrumentation and safe anesthesia are all absolute  prerequisites  to  perform  safe internal  fixation  of fractures. The surgeon  should  be  well  aware  of  the  environment  and  be  able  to weigh potential risks and benefits of surgical versus conservative management.  Even  technically  successful  procedures,  such  as  repair  of lacerated finger flexor tendons, can have disappointing results, as the outcome is largely dependent on availability of good postoperative rehabilitation programs.
+
+============================================================
+CHUNK 5
+============================================================
+INTENTIONAL INJURIES
+Rapid urbanization and crowding, combined with high unemployment and easier access to small arms and light weapons, can lead to an increase in interpersonal violence. In poorer countries, lacerations or stab wounds by knife or machete are more common than gun shot wounds  (GSW).  However,  this  trend  is  reversing  in  most  middleincome countries. Furthermore, countries or regions afflicted by conflict, war, or chronic emergencies usually see a heavy toll of collateral damage in the civilian non-combatant population. Urban hospitals see more acute injuries, but late presentation is still common. Most wounds should be treated with a thorough debridement (sometimes called wound excision), and delayed closure or coverage.
+Economic development goes hand in hand with rapid industrialization,  and work-related injuries become more common. Safety laws may be absent or unenforced, and there is often no social safety net to help patients who cannot return to gainful employment after their recovery from injury. Injuries to the spine, mostly from falls or crush accidents, and to the fingers and hands are particularly common and can be quite disabling.
+Economic development can also lead to more leisure time and an increase in sports-related injuries. Most soft tissue injuries, no matter how severe, are treated conservatively, and since rehabilitation services are  often lacking, the  results  can be less than optimal. Appropriate bracing is a luxury out of reach for most LMIC.
+
+============================================================
+CHUNK 6
+============================================================
+ORTHOPEDIC INFECTIONS
+Acute and chronic infections of bones, joints and soft tissues  are a scourge in LMIC. The provider must be aware of the local prevalence and distribution of infections to facilitate diagnosis and orient treatment. Treatment is often empiric, based on the most likely pathogens, and  adjusted  according  to  clinical  response.  Poor  sanitation,  overcrowding, and chronic conditions that depress the immune response such as anemia, malnutrition or HIV infection, all contribute to the high prevalence of musculoskeletal infections in developing countries.
+
+============================================================
+CHUNK 7
+============================================================
+OSTEOMYELITIS (OSM)
+There are three ways in which bones can become infected: hematogenous dissemination of pathogens, a contiguous focus of infection (e.g. discitis), or direct contact with the 'outside world' from an open fracture or a surgical procedure. Acute OSM occurs more commonly in children, usually through hematogenous seeding. Any bone can be affected, but the femur and tibia account for around 50% of cases [6]. In the adult, infection usually follows an open fracture or as a complication from an orthopedic procedure. Chronic OSM is the result of untreated or poorly treated acute OSM, with residual foci of avascular  bone  and  soft  tissue  debris  leading  to  recurrent  episodes  of infections, with or without chronic sinus formation.
+Acute  hematogenous OSM  starts in  the  metaphysis  of  long  bones, where the microcirculation is sluggish (Fig. 13.2). As pressure builds up in the purulent material, the endosteal circulation is destroyed. If pus finds its way through the cortical bone, the periosteum is separated from the cortex, which then becomes completely avascular. The periosteum  remains  viable  and  attempts  to  wall-off  the  infectious process. This becomes visible on plain x-rays as a periosteal reaction within 10 to 20 days. The pus itself may perforate the periosteum and follow planes of least resistance to create soft tissue abscesses, and can even break through the skin to create a sinus or fistula. Eventually,
+
+TABLE 13-1 The 20 Leading Non-fatal Injuries* Sustained as a Result of Road TraEc Collisions, World, 2002
+
+============================================================
+CHUNK 8
+============================================================
+OSTEOMYELITIS (OSM)
+Intracranial injury † (short-term ‡ ), Rate per 100,000 population = 85.3. Intracranial injury † (short-term ‡ ), Proportion of all tra2c injuries = 24.6. Open wound, Rate per 100,000 population = 35.6. Open wound, Proportion of all tra2c injuries = 10.3. Fractured patella, tibia or Dbula, Rate per 100,000 population = 26.9. Fractured patella, tibia or Dbula, Proportion of all tra2c injuries = 7.8. Fractured femur (short-term ‡ ), Rate per 100,000 population = 26.1. Fractured femur (short-term ‡ ), Proportion of all tra2c injuries = 7.5. Internal injuries, Rate per 100,000 population = 21.9. Internal injuries, Proportion of all tra2c injuries = 6.3. Fractured ulna or radius, Rate per 100,000 population = 19.2. Fractured ulna or radius, Proportion of all tra2c injuries = 5.5. Fractured clavicle, scapula or humerus, Rate per 100,000 population = 16.7. Fractured clavicle, scapula or humerus, Proportion of all tra2c injuries = 4.8. Fractured facial bones, Rate per 100,000 population = 11.4. Fractured facial bones, Proportion of all tra2c injuries = 3.3. Fractured rib or sternum, Rate per 100,000 population = 11.1. Fractured rib or sternum, Proportion of all tra2c injuries = 3.2. Fractured ankle, Rate per 100,000 population = 10.8. Fractured ankle, Proportion of all tra2c injuries = 3.1. Fractured vertebral column, Rate per 100,000 population = 9.4. Fractured vertebral column, Proportion of all tra2c injuries = 2.7. Fractured pelvis, Rate per 100,000 population = 8.8. Fractured pelvis, Proportion of all tra2c injuries = 2.6. Sprains, Rate per 100,000 population = 8.3. Sprains, Proportion of all tra2c injuries = 2.4. Fractured skull (short-term ‡ ), Rate per 100,000 population = 7.9. Fractured skull
+
+============================================================
+CHUNK 9
+============================================================
+OSTEOMYELITIS (OSM)
+(short-term ‡ ), Proportion of all tra2c injuries = 2.3. Fractured foot bones, Rate per 100,000 population = 7.2. Fractured foot bones, Proportion of all tra2c injuries = 2.1. Fractured hand bones, Rate per 100,000 population = 6.8. Fractured hand bones, Proportion of all tra2c injuries = 2.0. Spinal cord injury (long-term § ), Rate per 100,000 population = 4.9. Spinal cord injury (long-term § ), Proportion of all tra2c injuries = 1.4. Fractured femur (long-term § ), Rate per 100,000 population = 4.3. Fractured femur (long-term § ), Proportion of all tra2c injuries = 1.3. Intracranial injury † (long-term § ), Rate per 100,000 population = 4.3. Intracranial injury † (long-term § ), Proportion of all tra2c injuries = 1.2. Other dislocation, Rate per 100,000 population = 3.4. Other dislocation, Proportion of all tra2c injuries = 1.0
+*Requiring admission to a health facility.
+†Traumatic brain injury.
+‡Short-term = lasts only a matter of weeks.
+§Long-term = lasts until death, with some complications resulting in reduced life expectancy.
+Source: WHO Global Burden of Disease Project, 2002, Version 1.
+
+============================================================
+CHUNK 10
+============================================================
+OSTEOMYELITIS (OSM)
+the host response will attempt to reabsorb all the necrotic material, including the dead cortical bone, or sequestrum. The periosteum will lay down new living bone, called involucrum (Fig. 13.3). If the resorption process is incomplete, some of the sequestrum may be incorporated within the involucrum. This piece of dead bone acts as a foreign body  that  harbors  bacteria,  and  cannot  be  sterilized  by  antibiotics alone. This is the stage of chronic OSM, with recurrent intermittent episodes of acute OSM-like symptoms that are relieved by antibiotics and/or  spontaneous  drainage  from  a  re-opened  fistula.  Chronic drainage from permanently patent sinuses prevent pressure build-up within the bone and patients are less likely to have acute symptoms of pain and fever, but these longstanding fistulas are at increased risk of sarcomatous degeneration. Joints where the metaphyses are intraarticular (shoulder, elbow, hip and ankle) very often also have septic arthritis.
+Acute OSM should always be suspected in a sick child complaining of limb pain, even if x-rays are normal. Fever, local swelling and tenderness,  and  guarding are  common physical findings.  Leukocytosis with a left shift, a very elevated erythrocyte sedimentation rate (ESR) and  a  negative  malaria  test  are  usual  laboratory  findings.  Because malaria is a common cause of fever, patients with acute OSM often present late. Another reason for late presentation, as demonstrated in a study from Uganda, is that more than half of patients have first seen a traditional healer [7]. Thus, abnormal x-ray findings are common even at initial assessment.
+
+============================================================
+CHUNK 11
+============================================================
+OSTEOMYELITIS (OSM)
+Treatment involves antibiotics and often surgery. If culture results are available, appropriate antibiotics should be given according to sensitivity. However, this is rarely the case. Staphylococcus aureus is the most common pathogen globally and should always be covered when treating  empirically  [8].  As  in  developed  countries,  methicillin-resistant S. aureus (MRSA) is now seen in LMIC. The antibiotic regimen should also cover pathogens that are locally endemic. There is agreement that 6 weeks of total antibiotics is sufficient, at least 7 to 10 days of which should be given intravenously [8,9]. Surgery is indicated when clinical and radiographic findings are both found, where multiple drill holes in  the  metaphysis  will  help  decompress  the  intraosseous  pus,  and hopefully before irreversible vascular damage has occurred. It is essential to disturb the periosteum as little as possible.
+In chronic OSM, the clinical diagnosis is easier. Treatment will depend on the severity of the symptoms. The occasional painful flare-up can often be successfully managed by palliative antibiotics. Curative treatment is surgical, but recurrences are common.
+
+============================================================
+CHUNK 12
+============================================================
+SEPTIC ARTHRITIS
+Bacterial septic arthritis can affect any joint, but hip, knee and shoulder  are  the  most  common,  either  as  an  isolated  pathology  or  in conjunction  with  an  intra-articular  metaphyseal  osteomyelitis.  Late presentation is common. Parents often give a history of trauma: the patient fell a few days ago and has refused to bear weight ever since on the involved extremity. Examination usually reveals a septic child, with localized swelling over the involved joint, which is painful on palpation or passive mobilization. Basic laboratory findings are nonspecific: elevated white blood cell count (WBC) and ESR. Plain x-rays can appear normal early on, or show only soft tissue swelling, but there will eventually be a widening of the joint space when compared to the contralateral side, which can lead to complete dislocation.
+The differential diagnosis should include tuberculosis, inflammatory arthropathies,  transient  synovitis,  post-traumatic  hemarthrosis,  and avascular necrosis. Joint aspiration can be very useful. S. aureus is the most common pathogen, but other bacteria can be involved, such as gonococcus in adolescents, Haemophilus influenzae in newborns and very young infants, and Salmonella enterica in patients with sickle cell disease. Surgical drainage should be considered whenever there is a clinical suspicion, and performed as early as possible. The downsides of a negative arthrotomy are far outweighed by the dire consequences of a neglected septic arthritis, particularly in a weight-bearing joint.
+Other nonbacterial  pathogens can involve the musculoskeletal system: fungi (histoplasmosis, actinomycosis, blastomycosis, aspergillosis),  treponema  (yaws,  syphilis)  or  parasites  (dracunculiasis  or guinea worm, onchocerciasis). Their diagnosis and treatment are discussed in other sections of this text.
+
+============================================================
+CHUNK 13
+============================================================
+SOFT TISSUE INFECTIONS
+Lacerations  and  penetrating  injuries  are  seen  in  manual  laborers, often with foreign bodies such as splinters, thorns, pieces of rock or metal, and shards of glass. They can lead to cellulitis, or superficial and deep abscesses. Some deep infections, such as hand flexor tendon
+FIGURE 13.2 Osteomyelitis pathway.
+sheaths, require early surgical debridement, or significant functional impairment can result.
+Other soft tissue infections that can be seen in tropical environments are:  atypical  bacteria  (tularemia,  brucellosis),  fungi  (aspergillosis, cryptococcosis), and parasites (echinococosis, trichinosis).
+Tropical  pyomyositis  was  first  described  in  Uganda  in  1968  and presents with single to multiple suppurative lesions within skeletal muscle. It is more common in HIV-positive patients. Large muscles of the lower extremities and pelvic girdle are common sites of infection. Studies suggest up to 50% of patients report a previous injury. Examination usually reveals fever, diffuse fusiform swelling, and significant tenderness on palpation or passive stretching of the involved muscle, but usually no palpable fluid collection or fluctuation. The abscess is subfascial, within the muscle tissue itself, and poorly contained. S. aureus accounts for near 90% of cases. Multiple attempts at aspiration  with  a  large-bore  needle  are  often  necessary  to  retrieve purulent material,  and  should  be done  when  the  diagnosis  is  suspected. Orthopedic management is incision and drainage of abscesses or debridement of necrotic tissue if involvement is extensive. Antibiotics are necessary.
+
+============================================================
+CHUNK 14
+============================================================
+TUBERCULOSIS
+Approximately 5% of HIV-negative tuberculosis (TB) patients  have involvement of their musculoskeletal system. This increases in HIVpositive TB patients. Thus, there could be at least one million people worldwide with TB of their bones and joints. Around half of skeletal TB involves  the  spine,  40%  have  articular  disease,  mostly  hip  and knee, and the remaining 10% have either isolated soft tissue or extraarticular osseous involvement (Figs 13.4 & 13.5).
+Routine laboratory testing is nonspecific, with usually a mild to moderately elevated ESR and a normal to slightly elevated WBC. Aspiration can be nonspecific, with fluid ranging from mildly inflammatory
+FIGURE  13.3 Osteomyelitis of  the  humerus  with  the  formation  of sequestrum and involucrum.
+FIGURE  13.4 Characteristic spinal  involvement  of  tuberculosis  with contiguous disc involvement and kyphotic deformity.
+to bloody to frankly caseous in appearance. Plain x-rays can be useful in identifying a primary pulmonary focus. The diagnosis rests on a high level of clinical suspicion, and chemotherapy is most often initiated on the basis of a combination of nonspecific findings.
+The  cornerstone  of  TB  treatment  is  combination  chemotherapy. Surgery may be indicated for diagnostic purposes if appropriate laboratory  facilities  are  available.  For  spinal  TB,  surgery  is  indicated  to decompress an epidural abscess compressing the  cord  and  causing paraparesis, particularly with no improvement or continuous deterioration after initiation of the chemotherapeutic regimen (MRC). For osteoarticular TB, surgery is indicated as palliation in late-stage disease [6]. Some destroyed stiff and painful joints can be treated by resection
+FIGURE 13.5 Disseminated tuberculosis with destructive inDltration of the hip joint.
+arthroplasty, such as the hip (Girdlestone procedure) or the elbow. The trade-off is some degree of weakness and limb shortening. Other joints have a tendency to become unstable, and since in most poor countries access to quality orthotics is impossible, fusion becomes the surgical  treatment  of  choice.  This  applies  to  wrist,  knee  and  ankle joints in particular.
+
+============================================================
+CHUNK 15
+============================================================
+LEPROSY
+The incidence of leprosy saw a 4%  decrease in global cases  in the period of 2007-2008; new cases detected in 2008 across 121 countries totaled 249,000. Leprosy is now largely limited to  high  prevalence pockets,  including  areas  of  India,  Nepal,  central  Africa,  and  Brazil. Leprosy results in disabling limb deformities that have social implications and disrupt the ability of those afflicted to seek employment, or  contribute  to  subsistence  farming.  Secondary  changes  to  bone account for the majority of cases seen for orthopedic management. Motor denervation and fixed contractures result in clawing of the toes and fingers, while loss of afferent sensory nerve conduction predisposes to the development of trophic ulceration and secondary infections. Treatment with multidrug therapy (MDT)  consisting  of rifampicin,  clofazimine  and  dapsone,  is  efficacious  in  interrupting transmission and treating infection.
+
+============================================================
+CHUNK 16
+============================================================
+POLIOMYELITIS
+Four countries remain endemic for polio: India, Pakistan, Afghanistan and Nigeria. Several other countries in Africa, South Asia, and central Europe have reintroduced polio. New-onset disease is usually seen in the under-5 age group, however, much of what is encountered today may be residual disease. The seminal work of Huckstep remains the classic reference on the topic [10].
+
+============================================================
+CHUNK 17
+============================================================
+PEDIATRIC CONDITIONS
+Early  identification  of  pediatric  conditions  is  important,  as  timely intervention can dramatically alter the course of a child's life. Pediatric orthopedic  conditions  include  scoliosis,  congenital  hip  dysplasia, limb length discrepancies, Legg-Calve-Perthes disease, genus varum, and osteogenesis imperfecta. This chapter describes congenital talipes equinovarus and cerebral palsy.
+
+============================================================
+CHUNK 18
+============================================================
+CONGENITAL TALIPES EQUINOVARUS
+In the tropics, an important condition presenting at birth is that of congenital talipes equinovarus (CTE) or 'clubfoot' . Childbearing at home, in rural areas, outside the reach of an equipped medical facility, translates  into  higher  rates  of  late-presentation  clubfoot,  requiring
+surgical correction.  The  late Dr Ignacio Ponseti revolutionized club foot management in the 1950s. He introduced a conservative nonoperative technique to treat the deformity when it is recognized in infants and this is the gold standard across much of the world [1 1].
+Management  following  the  Ponseti  technique  involves gradual manipulation  utilizing  serial  casting  methods,  with  or  without  a simple  percutaneous  tenotomy,  and  has  a  near  95%  success  rate. Given the serial nature of the casting intervention, gradual reduction of  the  deformity  takes  place  over  a  period  of  about  6  weeks,  with subsequent bracing for an extended time.
+
+============================================================
+CHUNK 19
+============================================================
+CEREBRAL PALSY
+Poor maternal-fetal and neonatal health services during the prenatal and  postpartum  periods  are  commonly  cited  as  reasons  for  an increased incidence of cerebral palsy (CP). The neuromuscular disorder  affects  mobility,  postural  stability,  and  the  ability  to  maintain balance, through variable effects on muscle tone. Orthopedic surgery is often required when deformities or contractures limit performance of daily activities, or decrease function.
+
+============================================================
+CHUNK 20
+============================================================
+AGE3RELATED CONDITIONS
+Age-related musculoskeletal disease accounts for an increasing share of  the  musculoskeletal  burden.  Degenerative  conditions  can  occur everywhere, but disability is greatest when weight-bearing joints are involved. Degenerative disease of joints can be primary (idiopathic) or secondary to a vast array of conditions: congenital (developmental dysplasia  of  the  hip,  talipes  equinovarus),  hereditary  (osteogenesis imperfecta, achondroplasia), infectious (sequelae of septic arthritis), angular deformities (Blount's disease) or avascular necrosis (sickle cell disease, Legg-Perthes disease). They can also be the result of trauma, particularly of intra-articular fractures that have been unrecognized or neglected.
+The rise of adult diabetes is associated with an increased incidence of neuropathic joints, particularly around the foot and ankle. Chronic low back pain (LBP) and significant osteoporosis are becoming more widespread  (Fig.  13.6).  Metastases  to  the  bone  secondary  to  neoplasms are also likely  to  increase.  Clinical,  radiographic,  and  basic laboratory  parameters  can  be  used  for  diagnosis.  Inflammatory
+FIGURE 13.6 Thermal graph of emerging conditions.
+arthropathies  are  also  increasingly  recognized.  Symptomatic  treatment  is  with  aspirin,  analgesics,  early  generations  of  nonsteroidal anti-inflammatory drugs (NSAIDs), and corticosteroids.
+Back pain is common worldwide. With greater than 80-90% of the workforce  in  the  developing  world  undertaking  strenuous  physical labor, one might suspect that the prevalence of low back pain would be increased over that seen in industrialized nations. Osteoarthritis, spinal  stenosis,  disc  degeneration,  and  osteoporosis  all  increase  in aging populations.
+
+============================================================
+CHUNK 21
+============================================================
+AGE3RELATED CONDITIONS
+The morbidity associated with osteoporosis is secondary to fractures that occur in fragile low-density bone. Common fracture sites are the spine, hip and upper extremity. Spine and hip fractures are particularly debilitating. Vertebral compression fractures lead to deforming scoliosis  and  painful  nerve  root  compressions,  while  hip  fractures necessitate long periods of hospitalization and may be fatal in up to 20% of cases. Where there is dependence upon subsistence farming, a debilitating spine or hip fracture can be of severe detriment.
+Increasing age is a risk factor for the development of prostate, breast and lung cancers, each of which has a high propensity to metastasize to  bone. It  is  likely  that  there  will be an increase in the  burden  of secondary bone cancer. Slow development of many primary cancers, combined with lack of education and lack of access to chemotherapeutics  and  radiotherapy,  result  in  the  neglect  of  many  primary cancers. Disruption of the structural integrity of bone by cancerous lesions  reduces  the  load-bearing  capacity.  Pathologic  fractures  may result,  and should be suspected  in patients with nonspecific symptomatology  who  develop  a  fracture  with  a  mechanism  of  injury inconsistent with fracture severity.
+
+============================================================
+CHUNK 22
+============================================================
+REFERENCES
+1. Mock C, Cherian MN. The global burden of musculoskeletal injuries. Clin Orthop Relat Res 2008;466:2306-16.
+2. Lopez AD, Mathers CD, Ezzati M, et al, eds. Global Burden of Disease and Risk Factors. Washington, DC: Oxford University Press; 2006.
+3. Atijosan O, Rischewski D, Simms V, et al. A national survey of musculoskeletal impairment  in  Rwanda:  prevalence,  causes  and  service  implications.  PLoS One 2008;3:e2851.
+4. Woolf A, Brooks P, Mody GM. Prevention of musculoskeletal conditions in the developing world. Best Pract Res Clin Rheumatol 2008;22:759-72.
+5. Kingham TP, Kamara TB, Cherian MN, et al. Quantifying surgical capacity in Sierra  Leone:  a  guide  for  improving  surgical  care.  Arch  Surg  2009;144: 122-7.
+6. Spiegel  DA,  Penny  JN.  Chronic  osteomyelitis  in  children.  Techniques  in Orthopaedics 2005;20:142-52.
+7. Ibingira CB. Chronic osteomyelitis in a Ugandan rural setting. East Afr Med J 2003;80:242-7.
+8. Akakpo-Numado  GK,  Gnassingbe  K,  Boume  MA,  et  al.  Current  bacterial causes  of  osteomyelitis  in  children  with  sickle  cell  disease  [French].  Sante 2008;18:67-70.
+9. Mader JT, Shirtliff M, Calhoun JH. Staging and staging application in osteomyelitis. Clin Infect Dis 1997;25:1303-9.
+10.  Huckstep  RL.  Poliomyelitis:  A  Guide  for  Developing  Countries,  Including Appliances  and  Rehabilitation  of  the  Disabled.  Edinburgh,  UK:  Churchill Livingstone; 1975.
+11.  Siapkara  A,  Duncan R. Congenital talipes  equinovarus: a review of current management. J Bone Joint Surg 2007;89:995-1000.
+S E C T I O N
+

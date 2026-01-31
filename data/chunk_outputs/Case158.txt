@@ -1,0 +1,165 @@
+============================================================
+CHUNK 0
+============================================================
+Key features
+- A mite-borne zoonosis caused by Rickettsia akari and transmitted to humans by the house mouse mite ( Liponyssoides sanguineus )
+- Most cases originate in urban settings and are associated with house mouse infestations
+- A relatively mild spotted fever rickettsiosis with a cosmopolitan distribution
+- Clinical disease characterized by fever, an inoculation eschar, and a vesiculopustular rash
+- Severe disease is unusual and there have been no known deaths
+- Doxycycline is the therapy of choice
+- Prevention usually involves anti-rodent measures
+
+============================================================
+CHUNK 1
+============================================================
+INTRODUCTION
+Rickettsialpox, a mite-borne zoonosis that cycles among house mice ( Mus musculus ) and house mouse mites ( Liponyssoides sanguineus ), was discovered by physicians in 1946 in the borough of Queens, New York City, USA, during an epidemic of this disease that involved more than 120 people. Within just a few months, epidemiologists, entomologists, and microbiologists successfully identified the cause of the outbreak and isolated and described the causative agent Rickettsia akari (from the Greek word for mite ). In 1949, Soviet investigators in the Ukraine  identified  a  large  outbreak  of  a  disease  they  described  as 'vesicular  rickettsiosis',  subsequently  recognized  as  rickettsialpox. Confirmed, or probable cases, of rickettsialpox are now recognized from at least 13 countries around the world (Fig. 65.1), making this disease one of the few spotted fever rickettsioses with a cosmopolitan distribution [1-3].
+
+============================================================
+CHUNK 2
+============================================================
+EPIDEMIOLOGY
+Despite its global distribution, every case series of rickettsialpox published during the last 50 years describes a patient cohort that resided within  the  geographical  boundaries  of  New  York  City  [4-8].  This observation suggests that most clinicians beyond the borders of New York City are relatively unfamiliar with rickettsialpox, despite documented occurrences of the pathogen in several other regions of the USA and in many other countries, including Ukraine, Croatia, South Korea, and Mexico [3, 9-1 1]. Suspect cases of rickettsialpox, identified by  serologic  assays,  have  been  reported  from  Albania,  BosniaHerzegovina, Costa Rica, Central African Republic, France, Germany, South Africa, and Turkey [3, 12, 13]; however, many clinically similar, eschar-associated  spotted  fever  group  rickettsioses  caused  by  other species of spotted fever group rickettsiae occur in countries around
+
+============================================================
+CHUNK 3
+============================================================
+Christopher D Paddock
+the  world;  antibodies  generated  to  any  of  these  other  agents  may cross-react with antigens of R. akari. Rickettsialpox has been described in patients of all ages, from infants as young as 6 months, to adults as old as 92 years. In most patient series, the disease occurs equally among males and females and cases are documented from all months of the year. Cases of rickettsialpox often cluster in time and space, and simultaneous  or  consecutive  illnesses  have  been  identified  among family members or other residents from a single common location. In contrast with many other rickettsioses, most cases of rickettsialpox are described from large metropolitan areas and urban centers, consistent  with the important role of peri-domestic rodents in the distribution and occurrence of R. akari [1, 3-7].
+
+============================================================
+CHUNK 4
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Rickettsia  akari is  transmitted  among  several  species  of  rodents  by Liponyssoides sanguineus (Fig. 65.2A). Humans are not a regular component in the natural circulation of R. akari - zoonotic transmission of this pathogen occurs only when a mite infected with rickettsiae is unable to locate its natural host and is forced to obtain a blood meal from  a  human  host.  In  that  context,  ecologic  factors  that  govern populations of rodent reservoirs or their ectoparasites undoubtedly influence the emergence of this disease in human populations. Rickettsia  akari has  been  cultured  from  commensal  and  wild  rodent species,  particularly  the  house  mouse  (Fig.  65.2B);  however,  transovarial and trans-stadial transmission of rickettsiae occurs in L. sanguineus , implicating the mite as an important reservoir host of R. akari . Liponyssoides  sanguineus is  a  small  (approximately  400-700 μ m) ectoparasite, most often found in proximity to rodent haborages that include nests and burrows, and in cracks and crevices close to nesting sites. Nymphal stages and adult mites ingest blood and can transmit R. akari to a susceptible host. Because of its minute size, this mite is almost never seen by patients.
+Liponyssoides  sanguineus has  been  collected  from  house  mice  and various rodent species in the USA, Eurasia, and Africa. Despite broad geographic  distributions  of  the  vector  mite  and  the  house  mouse, confirmed reports of rickettsialpox are relatively sparse and sporadic, suggesting that conditions that favor the parasitism of humans by L. sanguineus may have the greatest impact on the epidemiologic activity of rickettsialpox. The tropical rat mite ( Liponyssus bacoti ) can also serve as an efficient vector of R. akari under experimental conditions and R. akari has been detected in trombiculid mites in South Korea, suggesting that other species of hematophagous mites are involved in the natural history of this pathogen [3, 14-19].
+
+============================================================
+CHUNK 5
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Rickettsia akari does not stain well with conventional Gram- or eosinazure-based methods, but does stain with Giménez, Macchiavello's and  other  related  techniques  that  use  carbol  basic  fuchsin  (Fig. 65.2C). Rickettsia  akari is  best  identified  in  host  tissues  by  using immunohistochemical or fluorescein stains. Using these techniques, the bacteria appear as small (approximately 0.3 μ m × 1. 0 μ m) rods or  coccobacilli situated  in  the cytoplasm  of  the  host cell. Rickettsia akari is predominantly found in macrophages in the perivascular and
+FIGURE 65.2 (A) Ventral aspect of an adult female L. sanguineus (Acari: Dermanyssidae), the mite vector of rickettsialpox. Cleared specimen stained with acid fuchsin. (B) The house mouse ( M. musculus ), an important vertebrate host involved in the epidemiology of rickettsialpox. (C) Giménez-stained R. akari bacteria in mouse peritoneal macrophages. We gratefully acknowledge Larry Masters for image B .
+periadnexal inflammatory cell infiltrates of the cutaneous lesions and only  rarely  in  vascular  endothelial  cells.  The  histopathology  of  the inoculation eschar demonstrates extensive necrosis of the epidermis and dermis, with subjacent perivascular and periadnexal inflammatory cell infiltrates and occasional panniculitis. The histopathology of the rash is typically more variable and age-dependent; however, fully developed papulovesicles show subepidermal vesicle formation that is a characteristic histopathologic feature of rickettsialpox. Inflamed blood  vessels  demonstrate  varying  degrees  of  endothelial  swelling, blurring or obliteration of the vessel wall by inflammatory cell infiltrates,  mural  necrosis,  extravasation  of  red  cells,  or  fibrin  thrombi. Lymphocytes and macrophages comprise the predominant
+inflammatory  cell types, although  neutrophils are occasionally present in, and around, necrotic foci [3, 20, 2 1].
+
+============================================================
+CHUNK 6
+============================================================
+CLINICAL FEATURES
+Estimated limits of the incubation period range from 6 to 15 days following the bite of an infected mite. The primary lesion, or inoculation eschar, is described for 83-100% of patients in several large series (Table 65-1). In its early stages, it is a painless, non-pruritic, erythematous papule that soon enlarges and develops a central vesicle containing clear, or opaque, fluid (Fig. 65.3A). Eventually, the vesicle ruptures and a dark brown or black crust develops over the lesion, forming the characteristic eschar (Figs 65.3B, C). The eschar is often surrounded by a larger zone of erythema. Primary lesions range in size from 0.5 to 2.5 cm and are most frequently observed on the extremities, but may be found anywhere on the body. Two eschars are occasionally identified on separate anatomic sites. The eschar generally persists for 3-4 weeks and may heal to form a small, depressed scar. A cutaneous eruption develops in most patients 1-4 days following the onset of fever.  This  eruption  is  characterized  by  small  (2-10 mm),  discrete, erythematous maculopapules distributed on the extremities, abdomen, back, chest, and face, and only rarely on the palms and soles. After 2-3 days, some lesions become indurated and develop a small  vesicle  containing  cloudy  fluid  at  the  apex.  The  number  of papules  varies  from  5  to  more  than  100,  although  most  patients develop  approximately  20-30  of  these  lesions.  The  rash  is  neither painful  nor  pruritic  and  generally  resolves  within  7  days  to  leave small, hyperpigmented spots. An enanthem occurs in approximately 20-25% of patients and is characterized by small (2-4 mm) vesicles, maculopapules or erosions on the oral mucosae [2, 4-8, 22].
+
+============================================================
+CHUNK 7
+============================================================
+CLINICAL FEATURES
+Patients with rickettsialpox typically develop  fever, diaphoresis, lassitude, myalgias, and headache within 2-7 days after the appearance of  the  inoculation  eschar.  In  patients  who  do  not  receive  specific antibiotic  therapy,  these  symptoms  persist  for  approximately  7-10 days. The peak temperature is 38-40°C, although it may rise to 41°C. A headache, usually frontal and occasionally severe, is described in approximately 90-100% of patients. Myalgias are frequently reported and  are  most  commonly  described  as  backache.  Less  frequently described findings include conjunctivitis, splenomegaly, pharyngitis, nausea  and  vomiting.  Rickettsialpox  is  recognized  as  a  relatively benign, self-limited illness and, in most case series, patients are hospitalized infrequently. Moderate-to-severe manifestations are reported rarely and include hepatitis, disseminated intravascular coagulopathy with  hemorrhagic  diatheses,  photophobia  and  nuchal  rigidity.  No deaths have been attributed to infection with R. akari [2, 1 1, 23].
+
+============================================================
+CHUNK 8
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+The  differential  diagnosis  of  a  patient  with  an  eschar  and  fever includes  ecthyma  gangrenosum,  herpetic  dermatitis,  aspergillosis, cutaneous  leishmaniasis, tularemia, melioidiosis  and  cutaneous anthrax; however, several other rickettsial diseases, including African tick-bite fever, Rickettsia parkeri rickettsiosis,  boutonneuse  fever, Queensland tick typhus, scrub typhus, (Table 65-1) are, perhaps, the most likely to clinically resemble rickettsialpox [24-27]. Among these diseases,  rickettsialpox  is  notable  for  the  frequent  occurrence  of  a vesicular rash and the relative infrequency of regional adenopathy. A carefully collected patient history that includes questions about area of residence, recent travel and potential exposures to rodents (particularly house mice) can provide additional diagnostic clues [3, 6, 7, 21].
+Laboratory  diagnosis  of  rickettsialpox  is  ascertained  most  often  by serologic methods. Most patients with rickettsialpox, in contrast with
+
+TABLE 65-1 Clinical and Epidemiologic Characteristics of Rickettsialpox and Other Selected Eschar-Associated Rickettsioses
+
+============================================================
+CHUNK 9
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Causative agent, Rickettsialpox (n = 197) = Rickettsia akari. Causative agent, African tick-bite fever (n = 191) = Rickettsia africae. Causative agent, Rickettsia parkeri rickettsiosis (n = 12) = Rickettsia parkeri. Causative agent, Queensland tick typhus (n = 80) = Rickettsia australis. Causative agent, Scrub typhus (n = 87) = Orientia tsutsugamushi. Arthropod vector, Rickettsialpox (n = 197) = Mite. Arthropod vector, African tick-bite fever (n = 191) = Tick. Arthropod vector, Rickettsia parkeri rickettsiosis (n = 12) = Tick. Arthropod vector, Queensland tick typhus (n = 80) = Tick. Arthropod vector, Scrub typhus (n = 87) = Mite. Geographic distribution, Rickettsialpox (n = 197) = Worldwide. Geographic distribution, African tick-bite fever (n = 191) = Sub-Saharan Africa, West Indies. Geographic distribution, Rickettsia parkeri rickettsiosis (n = 12) = Southern USA, South America. Geographic distribution, Queensland tick typhus (n = 80) = Australia. Geographic distribution, Scrub typhus (n = 87) = Australia, Afghanistan India, Japan, Taiwan China, Southeast Asia. Inoculation eschar(s), Rickettsialpox (n = 197) = . Inoculation eschar(s), African tick-bite fever (n = 191) = . Inoculation eschar(s), Rickettsia parkeri rickettsiosis (n = 12) = . Inoculation eschar(s), Queensland tick typhus (n = 80) = . Inoculation eschar(s), Scrub typhus (n = 87) = . Any Multiple, Rickettsialpox (n = 197) = 92% 14%. Any Multiple, African tick-bite fever (n = 191) = 95% 54%. Any Multiple, Rickettsia parkeri rickettsiosis (n = 12) = 92% 17%. Any Multiple, Queensland tick typhus (n = 80) = 74% 2%.
+
+============================================================
+CHUNK 10
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Any Multiple, Scrub typhus (n = 87) = 46% NR. Rash, Rickettsialpox (n = 197) = . Rash, African tick-bite fever (n = 191) = . Rash, Rickettsia parkeri rickettsiosis (n = 12) = . Rash, Queensland tick typhus (n = 80) = . Rash, Scrub typhus (n = 87) = . Any type Maculopapules, Rickettsialpox (n = 197) = 100% 100%. Any type Maculopapules, African tick-bite fever (n = 191) = 46% 24%. Any type Maculopapules, Rickettsia parkeri rickettsiosis (n = 12) = 83% 83% 42%. Any type Maculopapules, Queensland tick typhus (n = 80) = 84% 79% 62%. Any type Maculopapules, Scrub typhus (n = 87) = 34% 34%. Lymphadenopathy, Rickettsialpox (n = 197) = 17%. Lymphadenopathy, African tick-bite fever (n = 191) = . Lymphadenopathy, Rickettsia parkeri rickettsiosis (n = 12) = 25%. Lymphadenopathy, Queensland tick typhus (n = 80) = 73%. Lymphadenopathy, Scrub typhus (n = 87) = 85%. Vesiculopustules, Rickettsialpox (n = 197) = 100%. Vesiculopustules, African tick-bite fever (n = 191) = . Vesiculopustules, Rickettsia parkeri rickettsiosis (n = 12) = . Vesiculopustules, Queensland tick typhus (n = 80) = . Vesiculopustules, Scrub typhus (n = 87) = 0. , Rickettsialpox (n = 197) = . , African tick-bite fever (n = 191) = 21%. , Rickettsia parkeri rickettsiosis (n = 12) = . , Queensland tick typhus (n = 80) = . , Scrub typhus (n = 87) = . , Rickettsialpox (n = 197) = . , African tick-bite fever (n
+
+============================================================
+CHUNK 11
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+= 191) = 43%. , Rickettsia parkeri rickettsiosis (n = 12) = . , Queensland tick typhus (n = 80) = . , Scrub typhus (n = 87) = . Hospitalization, Rickettsialpox (n = 197) = 18% 0. Hospitalization, African tick-bite fever (n = 191) = NR. Hospitalization, Rickettsia parkeri rickettsiosis (n = 12) = 33%. Hospitalization, Queensland tick typhus (n = 80) = 12% 2. Hospitalization, Scrub typhus (n = 87) = 100% 1. Case-fatality ratio Reference(s), Rickettsialpox (n = 197) = 2, 6, 22. Case-fatality ratio Reference(s), African tick-bite fever (n = 191) = 0 24. Case-fatality ratio Reference(s), Rickettsia parkeri rickettsiosis (n = 12) = 0 25. Case-fatality ratio Reference(s), Queensland tick typhus (n = 80) = 0 26. Case-fatality ratio Reference(s), Scrub typhus (n = 87) = 0 3 27
+NR, not reported or data not available.
+1 Series selected among febrile hospitalized patients; rates of hospitalization typically lower in other studies.
+2 No deaths in this series; however, fatal disease has been described rarely.
+3 No deaths in this series; however, case-fatality ratio of untreated patients from other studies are 0.5-10%.
+
+============================================================
+CHUNK 12
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+FIGURE 65.3 (A) Vesicular lesion on the ankle of a patient with rickettsialpox. (B) Inoculation eschar on the arm of a patient with rickettsialpox. Rickettsia akari was subsequently isolated in cell culture from this lesion. (C) Inoculation eschar on the chest of a patient approximately 2 days prior to onset of fever and headache and 6 days prior to the onset of a papulovesicular rash. We gratefully acknowledge the following individuals for their assistance: David E. Geist, M.D (University of Massachusetts Medical School) for image A, Tamara Koss, M.D. (Columbia University College of Physicians and Surgeons) for image B and Benjamin Gewurz, M.D. (Brigham and Women's Hospital) for image C.
+other spotted fever rickettsioses, do not develop agglutinating antibodies against the OX-19, OX-2, and OX-K antigens of Proteus vulgaris (i.e. negative Weil-Felix reactions). A negative Weil-Felix test is considered a relatively consistent serologic feature of rickettsialpox, but provides only presumptive evidence. The microimmunofluorescence or indirect immunofluorescence (IFA) assay is currently the most widely available and frequently used assay to detect antibodies reactive with spotted fever group Rickettsia species. Major caveats in the interpretation of all commonly used and commercially-available serologic techniques include the frequent absence of diagnostic antibody titers (i.e. ≥ 64) during the first week of the illness and the high cross-reactivity among antigens of rickettsiae in the spotted fever group. The evaluation of serologic results should be always considered in the context of  the  epidemiologic situation.  When  possible,  more  specific techniques, such as cross-adsorption or Western blotting should used to corroborate the diagnosis; however, these assays are generally restricted to specialized research laboratories and reference centers [3, 7, 17].
+
+============================================================
+CHUNK 13
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Because  rickettsiae  and  rickettsial  antigens  are  distributed  in  great abundance in the inoculation eschar, a skin biopsy specimen of this lesion generally represents the best diagnostic sample for the confirmation  of  rickettsialpox.  Portions  from  one  4-mm  punch  biopsy obtained from the central aspect of the lesion can be evaluated by routine histopathologic methods, stained by immunohistochemical stains for spotted fever group Rickettsia species, tested by PCR or used to  inoculate  cell  cultures  for  attempted  isolation  of R.  akari .  PCR testing of swabs obtained from unroofed eschar lesions has proven to  be  an  effective  method  for  diagnosing  other  eschar-associated rickettsioses,  including  those  caused by Rickettsia  australis , Rickettsia africae ,  and R.  parkeri ,  and  may  also  provide  a  useful  diagnositic adjunct  for  rickettsialpox  if  a  skin  biopsy  is  not  achievable  [28]. Molecular and immunohistochemical staining techniques are sensitive  methods  of  diagnosis  during  the  acute  phase  of  the  disease; however, the availability of these assays is generally limited to national reference centers or specialized research laboratories [3, 7, 20, 21]. The reference  standard  for  laboratory  confirmation  of  rickettsialpox  is cultivation  of R.  akari in  cell  culture; R.  akari will  grow  in  several standard cell lines, including Vero E6 and L929 cells. In this context, Biosafety Level (BSL) 2 laboratories that routinely perform viral cultures should be able to isolate R. akari from clinical specimens in cell culture; however, BSL 3 practices would be required for subsequent propogation of any established isolate [9, 21].
+
+============================================================
+CHUNK 14
+============================================================
+TREATMENT
+Tetracyclines, particularly doxycycline, remain the drugs of choice for the treatment of rickettsialpox. In two contemporary case series documenting antibiotic responses in 28 patients who received tetracycline or doxycycline treatment for rickettsialpox, fever and other systemic symptoms resolved in most patients within 24 hours and all patients became asymptomatic within 48 hours [5, 6]. The standard oral dose of doxycycline is 100 mg every 12 hours for 5-10 days. Despite concerns regarding dental staining after use of tetracyclines in pregnant women or in children younger than 8 years of age, a short (e.g. 5 days) course of therapy is not considered to cause dental staining. Chloramphenicol, given at a dosage of 12.5 mg/kg every 6 hours for 5-10 days can be used as alternate therapy in those patients for whom there is an absolute contraindication for receiving doxycycline.
+Rickettsia  akari is  susceptible in  vitro to  various  fluoroquinolones, including ciprofloxacin,  oflaxacin  and pefloxacin,  and  several  macrolide antibiotics, including josamycin, pristinamycin, and clarithromycin  and  azithromycin;  however,  there  are  no  clinical  data  to evaluate the efficacy of these drugs for the treatment of rickettsialpox [29, 30].
+
+============================================================
+CHUNK 15
+============================================================
+PREVENTION
+There is no commercialy available vaccine for use in humans. Prevention  usualy  involves  minimizing  human  contact  with  rodents  and their dwellings.
+
+============================================================
+CHUNK 16
+============================================================
+REFERENCES
+1. Greenberg M, Pellitteri OJ, Jellison WL. Rickettsialpox-a newly discovered rickettsial disease. III. Epidemiology. Am J Pub Health 1947;37:860-8.
+2. Greenberg  M,  Pellitteri  O,  Klein  IF,  Huebner  RJ.  Rickettsialpox-a  newly recognized  rickettsial  disease.  II.  Clinical  observations.  J  Am  Med  Assoc 1947;133:901-6.
+3. Paddock CD, Eremeeva ME. Rickettsialpox. In: Raoult D, Parola P, eds. Rickettsial Diseases. New York: Informa Healthcare; 2007:63-86.
+4. Brettman LR, Lewin S, Holzman RS, et al. Rickettsialpox: report of an outbreak and a contemporary review. Medicine (Baltimore) 1981;60:363-72.
+5. Kass EM, Szaniawski WK, Levy  H, et al.  Rickettsialpox in a  New York City hospital, 1980 to 1989. N Engl J Med 1994;331:1612-17.
+
+============================================================
+CHUNK 17
+============================================================
+REFERENCES
+6. Koss T, Carter EL, Grossman ME, et al. Increased detection of rickettsialpox in a New York City hospital following the anthrax outbreak of 2001: use of immunohistochemistry for the rapid confirmation of cases in an era of bioterrorism. Arch Dermatol 2003;139:1545-52.
+7. Paddock CD, Zaki SR, Koss T, et al. Rickettsialpox in New York City: a persistent urban zoonosis. Ann N Y Acad Sci 2003;990:36-44.
+8. Saini R, Pui JC, Burgin, S. Rickettsialpox: report of three cases and a review. J Am Acad Dermatol 2004;51:S65-70.
+9. Radulovic S, Feng HM, Morovic M, et al. Isolation of Rickettsia akari from a patient in a region where Mediterranean spotted fever is endemic. Clin Infect Dis 1996;22:216-20.
+10.  Choi YJ, Jang WJ, Ryu JS, et al. Spotted fever group and typhus group rickettsioses in humans, South Korea. Emerg Infect Dis 2005;1 1:237-44.
+11.  Zavala-Castro  JE,  Zavala-Velá zquez  JE,  Peniche-Lara  GF,  Sulú   Uicab  JE. Human  rickettsialpox,  southeastern  Mexico.  Emerg  Infect  Dis  2009;15: 1665-7.
+12.  Ozturk MK, Gunes T, Coker C, Radulovic S. Rickettsialpox in Turkey. Emerg Infect Dis 2003;9:1498-9.
+13.  Le Gac P, Giroud P. Rickettsiose vé siculeuse en Oubangui-Chari (A.E.F.). Bull Soc Pathol Exot 1951;44:413-15.
+14.  Eustis EB, Fuller HS. Rickettsialpox. II. Recovery of Rickettsia akari from mites, Allodermanyssus sanguineus , from West Hartford, Conn. Proc Soc Exp Biol Med 1952;80:546-9.
+
+============================================================
+CHUNK 18
+============================================================
+REFERENCES
+15.  Fuller HS, Murray ES, Ayres JC, et al. Studies of rickettsialpox. II. Recovery of the  causative  agent  from  house  mice  in  Boston,  Massachusetts.  Am  J  Hyg 1951;54:82-100.
+16.  Jackson  EB,  Danauskas  JX,  Coale  MC,  Smadel  JE.  Recovery  of Rickettsia akari from the Korean reed vole Microtus fortis pelliceus .  Am J Hyg 1957;66: 301-8.
+17.  Bennett  SG,  Comer  JA,  Smith  H,  Webb  JP.  Serologic  evidence  of Rickettsia akari -like  infection  among  wild-caught  rodents  in  Orange  County  and  in humans in Los Angeles County, California. J Vector Ecol 2007;32:198-201.
+18.  Philip  CB, Hughes LE. The tropical rat mite, Liponyssus  bacoti ,  as  an  experimental vector of rickettsialpox. Am J Trop Med 1948;28:697-705.
+19.  Choi YJ, Lee EM, Park JM, et al. Molecular detection of various rickettsiae in mites (Acari:  Trombiculidae) in southern Jeolla province,  Korea. Microbiol Immunol 2007;51:307-12.
+20.  Walker DH, Hudnall SD, Szaniawski WK, Feng HM. Monoclonal antibodybased immunohistochemical diagnosis of rickettsialpox: the macrophage is the principal target. Mod Pathol 1999;12:529-33.
+21.  Paddock CD, Koss T, Eremeeva ME, et al. Isolation of Rickettsia  akari from eschars of patients with rickettsialpox. Am J Trop Med Hyg 2006;75:732-8.
+22.  Rose HM. The clinical manifestations and laboratory diagnosis of rickettsialpox. Ann Intern Med 1949:31:871-83.
+23.  Madison G, Kim-Schulger L, Braverman S, et al. Hepatitis in association with rickettsialpox. Vector-Borne Zoonotic Dis 2008;8:1-5.
+
+============================================================
+CHUNK 19
+============================================================
+REFERENCES
+24.  Raoult D, Fournier PE, Fenollar F, et al. Rickettsia africae , a tick-borne pathogen in travelers to sub-Saharan Africa. N Engl J Med 2001;344:1504-10.
+25.  Paddock CD, Finley RW, Wright CS, et al. Rickettsia parkeri rickettsiosis and its  clinical  distinction  from  Rocky  Mountain  spotted  fever.  Clin  Infect  Dis 2008;47:1188-96.
+26.  Hudson  BJ,  Hofmeyr  A,  Williams  E,  et  al.  Prospective  study  of  Australian spotted fever-clinical and epidemiological features. In: Abstracts of the 4th International Conference on Rickettsiae and Rickettsial Diseases, Logrono, La Rioja, Spain 2005 June 18-21. Abstract P-201.
+27.  Berman SJ, Kundin WD. Scrub typhus in South Vietnam, a study of 87 cases. Ann Intern Med 1973;79:26-30.
+28.  Wang JM, Hudson BJ, Watts MR, et al. Diagnosis of Queensland tick typhus and  African  tick  bite  fever  by  PCR  of  lesion  swabs.  Emerg  Infect  Dis 2009;15:963-5.
+29.  Rolain JM, Maurin M, Vestris G, Raoult D. In vitro susceptibilities of 27 rickettsiae to 13 antimicrobials. Antimicrob Agents Chemother 1998; 42;1537-41.
+30.  Ives TJ, Manzewitsch P, Regnery RL, et al. In vitro susceptibilities of Bartonella henselae, B. quintana, B. elizabethae, Rickettsia rickettsii, R. conorii, R. akari , and R. prowazekii to  macrolide antibiotics as determined by immunofluorescent antibody analysis of infected Vero cell monolayers. Antimicrob Agents Chemother 1997;41:578-82.
+

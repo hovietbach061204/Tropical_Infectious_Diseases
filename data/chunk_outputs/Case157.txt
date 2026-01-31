@@ -1,0 +1,252 @@
+============================================================
+CHUNK 0
+============================================================
+64
+
+============================================================
+CHUNK 1
+============================================================
+Key features
+- Tick-borne rickettsioses are caused by obligate intracellular bacteria belonging to the spotted fever group of the genus R i c k e t t si a within the family R i c k e t t si ace ae in the order R i c k e t t si ale s
+- Ecologic characteristics of the tick vectors in(uence the epidemiology and clinical aspects of tick-borne diseases
+- The clinical presentation of tick-borne rickettsiosis can vary from mild to very severe, with the frequency of fatality from highly virulent rickettsiae ranging from 2-6%. The main clinical signs include: fever; headache; rash that is maculopapular or sometimes vesicular; inoculation eschars at the site of the tick bite; and localized lymphadenopathy
+- Early empirical treatment should be started in any suspected rickettsioses before laboratory con)rmation of the diagnosis. Based on i n  v i t r o susceptibility and i n v i vo experience, doxycycline is the currently recommended drug for treating spotted fever group rickettsioses
+- There are no vaccines commercially available to prevent tick-borne rickettsioses in humans-prevention involves minimizing exposure to ticks
+- The emergence and re-emergence of these illnesses are attributed to changes in the environment and human behavior
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+Tick-borne rickettsioses are caused by Gram-negative obligate intracellular bacteria belonging to the spotted fever group of the genus Rickettsia , in the family Rickettsiaceae , in the order Rickettsiales [1]. These zoonoses are among the oldest known vector-borne diseases. In 1899, Edward  E.  Maxey  reported  the  first  clinical  description  of  Rocky Mountain spotted fever in the Snake River Valley of Idaho, USA and, in 1910, Conor and Brush described the first case of Mediterranean spotted fever in Tunis. In 1905, McCalla, an Idaho physician, demonstrated  the  role  of  the  wood  tick  in  the  transmission  of Rickettsia rickettsii , the causative agent of Rocky Mountain spotted fever. With the full consent of the participants, he attached a tick obtained from the chest of a man who was very ill with spotted fever to the arm of another patient. The tick remained on the second patient for 48 hours and was then applied to the leg of a woman, where it remained for at least 10 hours. The incubation periods were 9 and 3 days, respectively.  Around  1930  the  role  of  the  brown  dog  tick, Rhipicephalus sanguineus , in the transmission of Rickettsia. conorii , the causative agent of  Mediterranean  spotted  fever,  was  demonstrated  using  human models  [2].  The  history  of  tick-borne  illnesses  is  one  of  constant
+
+============================================================
+CHUNK 3
+============================================================
+Tick-borne Spotted Fever Rickettsioses
+Cristina Socolovschi, Philippe Parola, Didier Raoult renewal, with discoveries of new pathogens associated with descriptions of novel diseases concurrent with advances in molecular and cell-culture techniques [3].
+
+============================================================
+CHUNK 4
+============================================================
+ETIOLOGY
+Rickettsiae are  strictly  intracellular  bacteria  whose  sizes  range  from 0.3-2.0 μ m.  These  bacteria  multiply  by  binary  fission  in  the  cytoplasm of eukaryotic host cells. As a consequence , Rickettsiae must be cultivated in tissue culture, guinea pigs, or embryonated chicken eggs. Rickettsiae are  difficult  to  stain  with  ordinary  bacterial  stains  but, conveniently, are stained by the Gimenez method. At this time, there are 25 formally recognized species in the genus Rickettsia , which can be  classified  into  four  groups:  the  typhus  group  ( Rickettsia  typhi and Rickettsia  prowazekii) ;  the  spotted  fever  group  (2 1 Rickettsiae ) (Table 64-1); Rickettsia bellii ; and the Rickettsia canadensis group. Many other isolates exist, but they are not characterized. Recently, guidelines for the identification and description of new rickettsial isolates have been proposed using sequences of the 16S rRNA (rrs) gene and four protein-coding genes: gltA , ompA , ompB , and gene D [4]. Official criteria  have  been  proposed  for  the  creation  of  subspecies  within R. conorii and Rickettsia  sibirica based  on  epidemiologic,  clinical, serotypic, and genotypic differences.
+
+============================================================
+CHUNK 5
+============================================================
+EPIDEMIOLOGY
+Tick-borne rickettsioses have a global distribution. Ticks are hematophagous arthropods that parasitize every class of vertebrates in almost every region of world and occasionally bite humans. Each species has a  particular  set  of  optimal  environmental  conditions  and  biotopes that determine the geographical distribution of the ticks and, therefore, of the individual tick-borne rickettsioses (Fig. 64.1). The prevalence  of Rickettsiae in  different  populations  of  ticks  is  variable-it ranges from usually less than 1% for R. conorii and R. rickettsii to 100% for Rickettsia africae . The tick vectors usually involved in transmission of  tropical  rickettsioses  belong  to  the  genera Rhipicephalus , Ixodes, Amblyomma , Hyalomma , Haemaphysalis , and Dermacentor (Table 64-1). Tick-borne  rickettsioses  may  be  transmitted  among  ticks  transstadially (stage-to-stage) and transovarially (transfer of bacteria from adult females to the subsequent generation of ticks via the eggs). As a consequence, ticks may act as reservoirs for these bacteria, such as Amblyomma spp.  for R.  africae ,  and  play  a  role  in  maintaining  the agent  in  nature.  Tick-borne  diseases  are  emerging  zoonoses  with  a re-emergence of 'old' diseases. Increasing international travel and the possibility  of  the  ticks  being  carried  by  hosts  such  as  birds  have resulted in a number of imported cases of tick-borne rickettsioses. An analysis of the GeoSentinel database (a worldwide communications and  data  collection network  of  travel/tropical-medicine  clinics) showed that  3.1%  of  febrile  travelers  have  rickettsiosis.  It  has  also been suggested that global warming has led to a northward expansion of several tick species and to an increase in the aggressiveness of the brown dog tick, and that these have increased the incidence of Rh. sanguineus -transmitted pathogens, such as R. conorii , R. rickettsii , Rickettsia massiliae , other non-pathogenic rickettsial agents like Rickettsia rhipicephali , or as-yet undescribed microorganisms [2, 5].
+
+TABLE 64-1 Tick-borne Rickettsioses throughout the World
+
+============================================================
+CHUNK 6
+============================================================
+EPIDEMIOLOGY
+Spotted fever group with inoculation eschar, Disease = Mediterranean spotted fever. Spotted fever group with inoculation eschar, Rickettsia = R. conorii conorii. Spotted fever group with inoculation eschar, Tick vector = Rhipicephalus sanguineus. Spotted fever group with inoculation eschar, Selected epidemiologic and clinical characteristics = Disease occurs in urban (66%) and rural (33%) settings during summer months; cases generally sporadic. Classic single eschar and maculopapular, generalized rash (97%). Mortality: 2.5%. Spotted fever group with inoculation eschar, Disease = Astrakhan fever. Spotted fever group with inoculation eschar, Rickettsia = R. conorii caspia. Spotted fever group with inoculation eschar, Tick vector = Rh. sanguineus , Rhipicephalus pumilio. Spotted fever group with inoculation eschar, Selected epidemiologic and clinical characteristics = Disease occurs mostly in rural settings. Symptoms include eschar (23%), maculopapular rash (94%) and conjunctivitis (34%). No fatal cases reported. Spotted fever group with inoculation eschar, Disease = Indian tick typhus. Spotted fever group with inoculation eschar, Rickettsia = R. conorii indica. Spotted fever group with inoculation eschar, Tick vector = Rh. sanguineus. Spotted fever group with inoculation eschar, Selected epidemiologic and clinical characteristics = Rash frequently purpuric, eschar rarely found, no fatal forms. Spotted fever group with inoculation eschar, Disease = Israeli spotted fever. Spotted fever group with inoculation eschar, Rickettsia = R. conorii israelensis. Spotted fever group with inoculation eschar, Tick vector = Rh. sanguineus. Spotted fever group with inoculation eschar, Selected epidemiologic and clinical characteristics = Compared to Mediterranean spotted fever, eschars are less frequent. Mild-to-severe illness. Spotted fever group with inoculation eschar, Disease = Siberian tick typhus. Spotted fever group with inoculation eschar, Rickettsia = R. sibirica sibirica.
+
+============================================================
+CHUNK 7
+============================================================
+EPIDEMIOLOGY
+Spotted fever group with inoculation eschar, Tick vector = Dermacentor nuttalli , Dermacentor marginatus , Dermacentor silvarum , Haemaphysalis concinna. Spotted fever group with inoculation eschar, Selected epidemiologic and clinical characteristics = Disease occurs in predominantly rural settings. Cases occur during spring and summer. Increasing reports of cases. Cases generally associated with rash (100%), eschar (77%) and lymphadenopathy. Spotted fever group with inoculation eschar, Disease = Far-Eastern tick-borne rickettsiosis. Spotted fever group with inoculation eschar, Rickettsia = R. heilongjiangensis. Spotted fever group with inoculation eschar, Tick vector = D. silvarum. Spotted fever group with inoculation eschar, Selected epidemiologic and clinical characteristics = Rash, eschar, and lymphadenopathy. No fatal cases reported. Spotted fever group with inoculation eschar, Disease = Japanese or Oriental spotted fever. Spotted fever group with inoculation eschar, Rickettsia = R. japonica. Spotted fever group with inoculation eschar, Tick vector = Haemaphysalis $ava , Haemaphysalis longicornis , Dermacentor taiwanensis , Ixodes ovatus. Spotted fever group with inoculation eschar, Selected epidemiologic and clinical characteristics = Disease occurs mainly from April to October in predominantly rural settings. Associated with agricultural activities, bamboo cutting. Fever, macular rash (100%) and eschar (91%). Spotted fever group with inoculation eschar, Disease = Queensland tick typhus. Spotted fever group with inoculation eschar, Rickettsia = R. australis. Spotted fever group with inoculation eschar, Tick vector = Ixodes holocyclus , Ixodes tasmani. Spotted fever group with inoculation eschar, Selected epidemiologic and clinical characteristics = Disease occurs in rural and urban areas; cases occur from June to November. Vesicular eruption (100%), eschar (65%), lymphadenopathy (71%). Few fatal cases described. Spotted fever group with inoculation eschar, Disease
+
+============================================================
+CHUNK 8
+============================================================
+EPIDEMIOLOGY
+= Flinders Island spotted fever. Spotted fever group with inoculation eschar, Rickettsia = R. honei. Spotted fever group with inoculation eschar, Tick vector = Aponomma hydrasauri , Aponomma cajennense , Aponomma granulatus. Spotted fever group with inoculation eschar, Selected epidemiologic and clinical characteristics = Disease occurs mainly in rural areas and peaks between December and January. Symptoms include eruption (85%), eschar (25%) and lymphadenopathy (55%). Spotted fever group with inoculation eschar, Disease = . Spotted fever group with inoculation eschar, Rickettsia = R. honei marmionii. Spotted fever group with inoculation eschar, Tick vector = Haemaphysalis novaeguineae , I. holocyclus. Spotted fever group with inoculation eschar, Selected epidemiologic and clinical characteristics = Fever, headache (83%), arthralgia (50%), cough (50%), maculopapular rash (33%) and pharyngitis (33%). Spotted fever group with inoculation eschar, Disease = Spotted fever. Spotted fever group with inoculation eschar, Rickettsia = R. parkeri. Spotted fever group with inoculation eschar, Tick vector = Aponomma maculatum , Aponomma triste. Spotted fever group with inoculation eschar, Selected epidemiologic and clinical characteristics = Fever, myalgia, malaise, headache and a maculopapular eruption. Sometimes vesicular or pustular rash. Scalp eschar and neck lymphadenopathy (SENLAT), Disease = Spotted fever. Scalp eschar and neck lymphadenopathy (SENLAT), Rickettsia = R. slovaca. Scalp eschar and neck lymphadenopathy (SENLAT), Tick vector = D. marginatus , Dermacentor reticulatus. Scalp eschar and neck lymphadenopathy (SENLAT), Selected epidemiologic and clinical characteristics = Fever and rash rare. Typical scalp eschar with cervical lymphadenopathy. Alopecia and chronic fatigue. Illness
+
+============================================================
+CHUNK 9
+============================================================
+EPIDEMIOLOGY
+mild. Scalp eschar and neck lymphadenopathy (SENLAT), Disease = Spotted fever. Scalp eschar and neck lymphadenopathy (SENLAT), Rickettsia = R. raoultii. Scalp eschar and neck lymphadenopathy (SENLAT), Tick vector = D. marginatus , D. reticulatus. Scalp eschar and neck lymphadenopathy (SENLAT), Selected epidemiologic and clinical characteristics = Fever, painful eschar and adenopathies, headache, asthenia. No alopecia was noted, but 50% of patients had prolonged asthenia (1-6 months) and 25% had chronic asthenia. Lymphangitis- associated rickettsioses (LAR), Disease = Lymphangitis- associated rickettsiosis. Lymphangitis- associated rickettsioses (LAR), Rickettsia = R. sibirica mongolitimonae. Lymphangitis- associated rickettsioses (LAR), Tick vector = Haemaphysalis asiaticum , Haemaphysalis truncatum , Haemaphysalis anatolicum excavatum Rh. pusillus. Lymphangitis- associated rickettsioses (LAR), Selected epidemiologic and clinical characteristics = Sixteen conGrmed cases: fever (100%), headache (50%), rash (83%), eschar (92%), multiple eschars (17%), adenopathy (58%) and lymphangitis (42%)
+
+TABLE 64-1 Tick-borne Rickettsioses throughout the World-cont'd
+
+============================================================
+CHUNK 10
+============================================================
+EPIDEMIOLOGY
+RMSF, Disease = Rocky Mountain spotted fever. RMSF, Rickettsia = R. rickettsii. RMSF, Tick vector = Dermacentor andersoni , Dermacentor variabilis , Rh. sanguineus , Amblyomma cajennense , Aponomma aureolatum. RMSF, Selected epidemiologic and clinical characteristics = Peak occurrence during spring and summer. Petechial rash including palms (60%) and soles (80%). No eschar. Fatal cases 2-6%. African tick-bite fever (ATBF), Disease = African tick-bite fever. African tick-bite fever (ATBF), Rickettsia = R. africae. African tick-bite fever (ATBF), Tick vector = Aponomma variegatum , Aponomma hebraeum. African tick-bite fever (ATBF), Selected epidemiologic and clinical characteristics = Disease occurs in predominantly in rural settings. Symptoms include fever (88%), eschar (95%), multiple eschar (54%), maculopapular (49%) or cesicular (50%) eruption and lymphadenopathy (43%). No fatal cases reported. Infrequently reported tick-borne rickettsial diseases, Disease = Spotted fever. Infrequently reported tick-borne rickettsial diseases, Rickettsia = R. aeschlimannii. Infrequently reported tick-borne rickettsial diseases, Tick vector = Hyalomma marginatum marginatum , Hy. marginatum ru%pes , Rhipicephalus sanguineus appendiculatus. Infrequently reported tick-borne rickettsial diseases, Selected epidemiologic and clinical characteristics = High fever, eschar and maculopapular generalized rash. Infrequently reported tick-borne rickettsial diseases, Disease = Spotted fever. Infrequently reported tick-borne rickettsial diseases, Rickettsia = R. massilae. Infrequently reported tick-borne rickettsial diseases, Tick vector = Rh. sanguineus , Rhipicephalus turanicus , Rhipicephalus muhsamae , Rhipicephalus
+
+============================================================
+CHUNK 11
+============================================================
+EPIDEMIOLOGY
+lunulatus , Rhipicephalus sulcatus. Infrequently reported tick-borne rickettsial diseases, Selected epidemiologic and clinical characteristics = Two conGrmed cases: eschar and maculopapular generalized rash; one case of chorioretinis. Infrequently reported tick-borne rickettsial diseases, Disease = Spotted fever. Infrequently reported tick-borne rickettsial diseases, Rickettsia = R. helvetica. Infrequently reported tick-borne rickettsial diseases, Tick vector = Ixodes ricinus , Ixodes ovatus , Ixodes persulcatus , Ixodes monospinus. Infrequently reported tick-borne rickettsial diseases, Selected epidemiologic and clinical characteristics = Although implicated in perimyocarditis and sarcoidosis, the validity of these associations has been debated or not accepted by rickettsiologists. Few cases documented by serology and PCR. Rash and eschar seldom occur. Infrequently reported tick-borne rickettsial diseases, Disease = Spotted fever. Infrequently reported tick-borne rickettsial diseases, Rickettsia = R. monacencis. Infrequently reported tick-borne rickettsial diseases, Tick vector = I. ricinus. Infrequently reported tick-borne rickettsial diseases, Selected epidemiologic and clinical characteristics = Two conGrmed cases: fever, headache and an erythematous rash with no inoculation eschar.
+
+============================================================
+CHUNK 12
+============================================================
+MEDITERRANEAN SPOTTED FEVER
+Rickettsia conorii , the causative agent of Mediterranean spotted fever, is endemic in the Mediterranean area, including northern Africa and southern Europe; cases have also been reported sporadically in central Europe and central and southern Africa. In Italy, in 2002, the national incidence rate was 1.6 cases per 100,000 persons (although in Sicily it was 10 cases per 100,000 persons); in Portugal between 1989 and 2003, the annual incidence was 8.9 cases per 100,000 inhabitants; in Spain  between  1983  an  1985,  the  estimated  incidence  was  23-45 cases per 100,000 persons-the same rate was also observed in Marseille during that time. This disease affects all age groups and occurs mainly in summer. Recently, an increased incidence of MSF was associated with warmer weather, which increases the aggressiveness and northward expansion of Rh. sanguineus.
+
+============================================================
+CHUNK 13
+============================================================
+MEDITERRANEAN SPOTTED FEVER
+The incubation period from the time of infection to onset is 6 days. Often, the patient presents with abrupt fever (100%), flu-like symptoms  (headache,  chills,  arthromyalgias),  and  a  ' tache  noire' at  the tick-bite site. The ' tache noire' , the hallmark of disease, is an inflamed red papule, the center of which becomes necrotic, black and indolent, usually located on the trunk, legs, or arms (in infants it is often on the scalp, in the retroauricular area). Occasionally, the eschar is not found and it is seen rarely in multiples. Unilateral or bilateral conjunctivitis may represent the eye-inoculation site of the rickettsia. A generalized  maculopapular  rash  (97%  of  cases)  on  the  extremities and then on the trunk often involves the palms, soles and, to a lesser extent, the face (Fig. 64.2). Other common clinical manifestations are myalgia (73%), headache (69%), conjunctivitis (32%), hepatomegaly (44%), and splenomegaly (19%). Gastrointestinal symptoms may be present in about 30% of patients and are more likely to be present in children [6]. Severe disease occurs in 5-6% of cases and is associated with disseminated vasculitis, with renal, neurologic and cardiovascular complications, as well as phlebitis. Recently, in a prospective study  conducted  in  Algeria,  49%  of  the  patients  were  hospitalized with a severe form. The global death rate was 3.6% but it was 54.5% in  patients  hospitalized  with  major  neurologic  manifestations  and multi-organ involvement.
+FIGURE 64.2 Rash in a patient with Mediterranean spotted fever.
+
+============================================================
+CHUNK 14
+============================================================
+ASTRAKHAN FEVER
+Rickettsia  conorii  caspia ,  the  infectious  agent  of  Astrakhan  fever,  was described primarily in patients living in rural areas  in Astrakhan, a region  of  Russia. Rhipicephalus  sanguineus and Rhipicephalus  pumilio were shown to harbor this rickettsia. Clinically, the disease is similar to Mediterranean spotted fever except for the absence of a fatal form and  a  lower  incidence  of  inoculation  eschar.  Recently,  a  rickettsial isolate was obtained from a patient in Chad, Africa. The patient presented  with  fever,  dyspnea,  a  maculopapular  rash,  an  inoculation eschar on the leg, and conjunctivitis of the right eye.
+
+============================================================
+CHUNK 15
+============================================================
+INDIAN TICK-BITE TYPHUS
+The etiological agent  of  Indian  tick-bite  typhus  is R.  conorii  indica , prevalent in India, which has never been isolated in human samples. Indian tick-bite typhus differs from Mediterranean spotted fever by the presence of purpuric rash and, infrequently, an inoculation eschar at the bite site.
+
+============================================================
+CHUNK 16
+============================================================
+ISRAELI SPOTTED FEVER
+Rickettsia conorii israelensis is the causative agent of Israeli spotted fever. The  first  case  was  described  in  Israel;  however,  this  bacteria  was recently isolated from human samples and ticks in Italy and Portugal. The clinical manifestations of ISF are similar to those of other spotted fever group infections, but the eschar at the inoculation site is absent in more than 90% of cases and resembles a small,  pinkish papule when visible. Several fatal cases  and  severe forms of ISF have  been described, especially in children, as well as in travelers and those with glucose-6-phosphate dehydrogenase deficiency.
+
+============================================================
+CHUNK 17
+============================================================
+SIBERIAN TICK TYPHUS
+Rickettsia sibirica is the causative agent of Siberian tick typhus. It was described in southern and eastern Siberia, northern China, Mongolia, and Kazakhstan. The annual morbidity rates in the years 1995-2004 varied from 1.5 to 2.4 per 100,000 in Russia, but in the area where this disease is endemic, morbidity may reach 40-120 per 10,000. The peak  of  disease  is  noted  in  May  and  the  clinical  course  is  benign. Onset is typically abrupt, with high fever, headache, myalgia, arthralgia,  digestive  symptoms, an inoculation eschar (62-77%), regional adenopathy, and a cutaneous rash that appears 2 to 4 days after onset [1, 3, 7].
+
+============================================================
+CHUNK 18
+============================================================
+FAR-EASTERN TICK-BORNE RICKETTSIOSIS
+The etiological agent of this disease, also named 'neglected rickettsioses'  is Rickettsia  heilongjiangensis. Reported  cases  have  occurred  in far-eastern territories of Russia  and in  northern China. Its seasonal peak runs from the end of June through July and it mostly affects older populations; no fatal case has been reported. The clinical picture is similar to other spotted fever group rickettsioses. All reported cases had a history of tick bite, tick exposure or having visited the endemic area.  Symptoms  include  fever,  maculopapular  rash,  inoculation eschar, regional lymphadenopathy, and conjunctivitis [3].
+
+============================================================
+CHUNK 19
+============================================================
+JAPANESE OR ORIENTAL SPOTTED FEVER
+Rickettsia  japonica ,  the  causative  agent  of  Japanese  spotted  fever,  is located  along  the  coast  of  southwestern  and  central  Japan  and  in northeastern Thailand. The onset of the disease is 2-10 days after work in  the  fields  and  is  abrupt,  with  common  symptoms  of  headache (81%), high fever (100%), shaking chills (87%), and tick-bite eschar (94%). A macular rash (100%) appears after 2 or 3 days, all over the body, including the palms and soles. It becomes petechial after 3 or 4 days and disappears in 2 weeks. In a series of 28 Japanese patients hospitalized from 1993 to 2002, 21% of Japanese spotted fever cases were classified as severe and included one fatality [1].
+
+============================================================
+CHUNK 20
+============================================================
+QUEENSLAND TICK TYPHUS
+Rickettsia  australis ,  the  causative  agent  of  Queensland  tick  typhus, occurs  only  down  the  east  coast  of  Australia,  from  the  tip  of  the
+continent and Torres Strait Island to the southeastern corner (Wilson's promontory in Victoria) [8]. Most cases (78%) occur between June and November. The disease is characterized by sudden onset of fever, headache and myalgia. Within 10 days, a maculopapular or vesicular rash appears. An inoculation eschar is identified in 65% of cases and lymphadenopathy in 71% of cases.
+
+============================================================
+CHUNK 21
+============================================================
+FLINDERS ISLANDS SPOTTED FEVER
+Flinders Islands spotted fever, caused by Rickettsia honei ,  occurs primarily in  Australia  (Tasmania,  South  Australia,  Queensland,  Torres Strait  Islands)  and  may  be  worldwide  (Thailand,  Sri  Lanka,  Italy) [1, 8]. Aponomma hydrosauri , the reptile tick, is suspected to be a vector of this disease. It is a relatively mild disease-no deaths have yet been recorded.  The  incidence  of  Flinders  Islands  spotted  fever  was  estimated at 150 per 100,000 persons. It causes a summer febrile illness associated with a rash, being erythematous in the majority of cases, while it was purpuric in two severe cases associated with thrombocytopenia. An eschar typical for spotted fever group rickettsiosis (25%) and  enlarged  local  nodes  (55%)  was  observed.  Recently,  a  genetic variant  of R.  honei ,  the  'marmionii'  strain  transmitted  by Haemaphysalis novaeguineae and Ixodes holocyclus , was reported to cause acute disease in several patients in eastern Australia.
+Spotted fever  related  to Rickettsia  parkeri has  been  described  in  the USA and South America. The first recognized case of infection in a human was reported in 2004, 65 years after the initial isolation of this rickettsia from ticks. This disease was previously confused with Rocky  Mountain  spotted  fever  or  with  Rickettsialpox.  Recently,  six new confirmed cases were reported. This disease is characterized by: fever; myalgia; malaise; headache; maculopapular, vesicular or pustular  eruption; and inoculation  eschar (sometimes  multiple eschars). No deaths were reported [9].
+
+============================================================
+CHUNK 22
+============================================================
+ROCKY MOUNTAIN SPOTTED FEVER
+The severity of symptoms of Rocky Mountain spotted fever caused by R. rickettsii separates this disease from other tick-borne rickettsioses. Rocky Mountain spotted fever is endemic to regions of North, Central and  South  America,  in  both  rural  and  urban  zones.  The  peak  of disease  occurs  during  the  months  of  April  to  September.  Since  its initial description in the late 19th century, Rocky Mountain spotted fever has been considered a lethal infection. For example, from 1904 to 1913 in Montana, 96 (63%) of 153 patients diagnosed with Rocky Mountain spotted  fever  died  from  this  disease.  The  fatality  rate  of Rocky Mountain spotted fever was reduced to approximately 23% by advances  in  supportive  care  and  the  discovery  of  antimicrobial therapy. In the recently published ' Summary of Notifiable DiseasesUnited States, 2006 ', a total of 3908 cases of Rocky Mountain spotted fever were reported in 2002-2004, including 22 deaths, making the case-fatality rate 0.7%. There are a few reasons to believe that the fatal cases are more often unreported than benign cases: (i) some cases are confounded with spotted fever caused by R. parkeri , R. massiliae , Rickettsia amblyommi , Rickettsia akari ,  and Rickettsia felis ;  (ii)  some imported cases of rickettsioses, for example African tick-bite fever in  travelers are incorrectly reported as Rocky Mountain spotted fever; and (iii) in some R. rickettsii strains, there are variations in virulence (for example, in an early description of Rocky Mountain spotted fever in the Idaho region, a 5% case-fatality rate was reported compared with 70-80% in Montana) [10]. In Brazil, where Rocky Mountain spotted fever is endemic to at  least  five  states,  mortality  was  40%  in  Minas  Gerais State between 1981 and 1989. The risk factors for severity are: old age; a delay between disease onset and diagnosis; wrong antibiotic choice; and no known documentation of tick bite.
+
+============================================================
+CHUNK 23
+============================================================
+ROCKY MOUNTAIN SPOTTED FEVER
+Around one week after being bitten by an infected tick, the disease begins with fever, chills, myalgia and headache. During the next few days,  these  symptoms continue and may be  accompanied  by anorexia, nausea, vomiting, abdominal pain, diarrhea, photophobia and cough. The fever is typically high (39-41°C) and associated with a severe  frontal  headache.  Rash,  considered  the  hallmark  feature  of Rocky Mountain spotted fever, appears on day three of fever as small, pink,  blanching  macules  (typically  on  the  wrists,  ankles  and  forearms) that evolve maculopapules. Within 24 hours, it spreads centrally to involve the legs, buttocks, arms, axillae, trunk, neck and face. The entire body may be involved, including the mucous membranes of the palate and pharynx [1 1]. Characteristic of the rash are petechial lesions,  in  a  distribution  that  includes  the  palms  and  soles,  which occur in 36% to 82% of patients. In some severe cases, petechiae may coalesce to form large ecchymoses. No eschar at the inoculation site is visible. Severe manifestations may include pulmonary edema and hemorrhage, cerebral edema, myocarditis, renal failure, disseminated intravascular coagulopathy and gangrene. Three factors are independent predictors of failure by the physician to initiate therapy the first time a patient is seen: absence of a rash, presentation between August 1 and April 30, and presentation within the first three days of illness. In untreated patients who survive their illness, the natural course of fever terminates after two to three weeks.
+
+============================================================
+CHUNK 24
+============================================================
+SCALP ESCHAR AND NECK LYMPHADENOPATHY <SENLAT=
+The  tick-borne  rickettsial  etiological  agents  of  scalp  eschar  and neck lymphadenopathy (SENLAT) are Rickettsia slovaca and Rickettsia raoultii ,  which  are  transmitted  by  the  ticks Dermacentor  marginatus and Dermacentor reticulatus . The old name of this disease is tick-borne lymphadenitis  (TIBOLA)  or Dermacentor -borne  necrosis  erythema lymphadenopathy (DEBONEL). Recently, the spectrum of the causative agents of SENLAT was extended, and several reports demonstrated that  this  syndrome  can  be  caused  by Borrelia  burgdorferi , Bartonella henselae, Coxiella burnetii, R. rioja, and Francisella tularensis , all transmitted by the above ticks . SENLAT occurs in Europe, more frequently in  women  and  children  during  the  colder  months.  The  clinical description is similar for R. slovaca and R. raoultii infection, including fever, headache, asthenia, rash, painful eschar, painful adenopathies and face edema. The difference between these two infections is that alopecia lasting for several months has been recorded in 59% or more of the cases with R. slovaca , but not with R. roultii [12, 13].
+
+============================================================
+CHUNK 25
+============================================================
+LYMPHANGITIS>ASSOCIATED RICKETTSIOSIS
+Rickettsia sibirica mongolitimonae causes lymphangitis-associated rickettsiosis. It appears that the distribution of this disease corresponds to the distribution of Hyalomma spp. ticks. Recently, R. sibirica mongolitimonae was detected in Rh. pusillus ticks in Portugal and in France. Sixteen cases were confirmed in the literature: 13 from Europe (France, Portugal, Greece and Spain) and 3 from Africa (Algeria, South Africa and Egypt). The available clinical features for the 16 reported cases (ten  men and six women) include fever  in all patients  (range  3839.5°C), chills (three patients), headache (13 patients), myalgia (13 patients),  arthralgia  (three  patients),  cutaneous  rash  (1 1  patients), enlarged lymph nodes (ten patients), lymphangitis expanding from an inoculation eschar to the draining node (six patients) and retinal vasculitis in a pregnant woman [3, 14]. Lymphangitis-associated rickettsiosis occurred primarily between March and September; a single case was reported in December in Greece.
+
+============================================================
+CHUNK 26
+============================================================
+AFRICAN TICK>BITE FEVER
+African tick-bite fever is caused by R. africae and transmitted by Amblyomma ticks in rural sub-Saharan Africa and the West Indies (Fig. 64.3) [1,  15].  Some  reports  indicate  that  African  tick-bite  fever  poses  a significant problem to local populations. In Zimbabwe, the annual incidence rate of African tick-bite fever is 60-80 cases per 100,000 in areas where Amblyomma is endemic. Whereas reports on African tickbite  fever  in  indigenous  populations  are  scarce,  the  number  of reported  cases  has  recently  increased  in  travelers  from  Europe  and elsewhere.  Usually,  grouped  cases  of  African  tick-bite  fever  are described, for example several cases in the same family or in the same travel group.
+FIGURE 64.3 Eschar of African tick-bite fever
+FIGURE 64.3 Eschar of African tick-bite fever
+The  clinical  course  typically  comprises  an  abrupt  onset  of  fever (59-10%),  nausea,  headache  (62-83%),  and  neck  myalgia  (81%) beginning 5-10 days after a tick bite. Most patients develop an inoculation eschar (53-100%) at the site of the tick bite and up to 54% of patients have multiple eschars-a rather specific clinical sign. A painful regional lymphangitis (43-100%) is common and may be seen in the absence of an inoculation eschar. A generalized cutaneous rash, sometimes vesicular and usually most visible close to the eschar, is present in  15-46%  of  patients  (Fig.  64.4).  Less  frequent  clinical  signs  of African tick-bite fever include aphtous stomatitis (1 1%) and arthralgia. Complications are rarely seen, but long-lasting fever, reactive arthritis, subacute cranial or peripheral neuropathy, chronic fatigue, neuropsychiatric symptoms and myocarditis have been reported. There are no known fatal cases [15]. African tick-bite fever should be considered along with malaria and other tropical fevers in the differential diagnosis of all febrile patients returning from the tropics.
+
+============================================================
+CHUNK 27
+============================================================
+INFREQUENTLY REPORTED TICK> BORNE RICKETTSIAL DISEASES
+Rickettsia aeschlimannii was detected in Hyalomma ticks  from several African countries, southern Europe and Kazakhstan (Table 64-1) [7]. Four clinical cases were described in the literature: one patient returning from Morocco to France, one patient returning from a hunting and fishing trip in South Africa, and two cases in Algeria. All of these patients presented with typical signs of spotted fever: an inoculation eschar (in one case two inoculation eschars), fever, headache and a generalized maculopapular rash [1].
+Rickettsia massiliae has been detected in several species of Rhipicephalus ticks  in  tropical  African  countries-the  Central  African  Republic, Senegal, Ivory Coast and Mali-and also in southern Europe and the USA [1]. It is an emergent pathogen with only three cases of human infection described in Italy, in France, and in Argentina. These three patients presented the same clinical signs as Mediterranean spotted fever.  The  French  patient  presented  acute  visual  loss  and  bilateral chorioretinitis [5].
+Rickettsia helvetica has  been  detected  in Ixodes ricinus in  many European countries, northern Africa and Asia. Among 4604 clinical rickettsial cases reported in Italy from 1998 to 2002, three cases of a mild form of rickettsiosis were serologically attributed to R. helvetica. The R.  helvetica infection  presented  as  a  mild  disease  in  the  warm season  and  was  associated  with  fever,  headache  and  myalgia,  and sometimes with a cutaneous rash. Additional evaluation and isolation of  the  bacterium  from  clinical  samples  are  needed  to  confirm  the pathogenicity of this bacterium.
+Rickettsia monacensis has been detected in Europe, northern Africa and the USA [7]. Recently, two cases were described in Spain. The clinical picture  is  the  same  as  with  Mediterranean  spotted  fever,  without
+FIGURE 64.4 Amblyomma variegatum adult ticks (male right, female left), a vector of African tick-bite fever, the etiological agent of Rickettsia africae .
+inoculation eschars. The strain of R. monacensis isolated from human samples was not analyzed by another laboratory; its epidemiology remains unknown.
+
+============================================================
+CHUNK 28
+============================================================
+INFREQUENTLY REPORTED TICK> BORNE RICKETTSIAL DISEASES
+Candidatus  Rickettsia  kellyi was  detected  in  human  samples  from  a one-year-old boy from India. He presented with fever and maculopapular rash. To date, the rickettsial strain has not been isolated from human  samples  or  arthropod  vector.  Further  investigations  are required for characterization of its role in human pathology [7].
+
+============================================================
+CHUNK 29
+============================================================
+STANDARD LABORATORY FEATURES
+Hematological  anomalies  include  anemia  with  thrombocytopenia, with neutropenia in the acute phase of disease and leukocytosis in the later stages. Non-specific biochemical changes include decreased levels of protein (particularly albumin), sodium, potassium and chloride, and elevated hepatic enzyme levels during the first 10 days of disease. Creatinine phosphokinase and lactic dehydrogenase are also often raised.
+
+============================================================
+CHUNK 30
+============================================================
+DIAGNOSTIC TOOLS
+The diagnosis of tick-borne rickettsioses is based on clinical and epidemiologic findings. The diagnosis should be suspected in a febrile patient with a history of tick bite, headache, a rash and/or a skin lesion consisting of a black necrotic area surrounded by erythema or a pseudofurunculus or crust. The classic features of tick-borne rickettsioses may only occur in 50-75% of patients. Confirmation of the diagnosis may  be  assessed  by  specific  serology  or  by  isolation  or  molecular identification of the causative organism. For serologic diagnosis, one serum sample should be collected early in the course of the disease; a second sample should be obtained two to three weeks later. If antibody titers remain negative in these two samples, a later sample must be tested (4 to 6 weeks). Usually, antibodies are absent in the early phase  of  the  disease.  The  presence  of  specific  IgM  antibodies  or  a fourfold increase in titer of IgG antibodies from acute-phase illness to the convalescent phase is considered diagnostic. The interpretation of serologic data can be confounded by the cross-reactivity that occurs among spotted fever group rickettsiae. Western blot analysis will yield false-positive  results  because  of  cross-reacting  antibodies  that  are directed mainly against lipopolysaccharides. Western blots, particularly in conjunction with sera that have been cross-adsorbed, can also be used to identify the infecting rickettsial species, but the technique is only appropriate for reference laboratories (Fig. 64.5).
+To isolate rickettsiae organisms from skin biopsy and heparin, blood specimens  collected  before  antimicrobial  therapy  (preferably  from
+FIGURE 64.5 Western blot before and after cross-adsorption with Rickettsia sibirica mongolitimonae (A), R. helvetica (B), or R. massiliae (C) . When crossadsorption is performed with R. helvetica , the speciGc antigen-corresponding line disappears-this implicates R. helvetica as the causative microorganism.
+
+============================================================
+CHUNK 31
+============================================================
+DIAGNOSTIC TOOLS
+the site of tick attachment) must be processed in cell culture using the shell vial technique (only in Biosafety Level [BSL] 3-specialized laboratories). Shell vial culture remains the best tool for the isolation of intracellular bacteria. Several samples can be used for the diagnosis of rickettsiosis by molecular tools, such as EDTA blood sample, biopsy specimens  of  the  eschar,  swab  of  skin  lesions,  paraffin-embedded tissues and  arthropods. This  specimen  collection should  be carried out as early as possible in the course of the illness [16, 17]. Biopsy material kept in formalin can be used for immunohistochemistry.
+
+============================================================
+CHUNK 32
+============================================================
+TREATMENT
+Early empirical treatment should be started in any suspected rickettsioses before laboratory confirmation of the diagnosis. Based on in vitro susceptibility and in vivo experience, doxycycline is currently the recommended  drug  for  treating  spotted  fever  group  rickettsioses.  In adults, 200 mg of doxycycline daily for 2-5 days or until 24 h after apyrexia is most commonly used, but a single 200 mg dose of doxycycline has been shown to be effective for certain spotted fever group rickettsioses [1]. In severe forms of the disease, 200 mg intravenous doxycycline per day followed by 200 mg doxycycline orally per day should be prescribed until complete recovery (10 days). In children and pregnant women, treatment with the macrolide josamycine for 5-7 days has been recommended, but a single dose of doxycycline at 5 mg/kg/d is efficient and has no side-effect of tooth coloration. In  those  allergic  to  tetracyclines,  ciprofloxacin  (1.5 g/day  orally  for 5 days) or chloramphenicol (2 g day for 7-10 days) is effective against spotted  fever  group  rickettsiae.  Treatment  failure  was  reported  for chloramphenicol and rifampin. The use of corticosteroids in severe forms  is controversial. Ineffective antibiotics include β -lactams, aminoglycosides, and cotrimoxazole.
+
+============================================================
+CHUNK 33
+============================================================
+PREVENTION AND CONTROL
+Prophylaxis is  based on the prevention of tick bite. Early detection (within  20 h)  and  appropriate  detachment  of  ticks  is  essential  to avoid the transmission of tick-borne rickettsioses diseases. The classic method of removal is to grasp the tick mouthparts as close to the skin as possible with fine forceps or tweezers and gently lever the arthropod  off.  To  prevent  further  inoculation,  the  body  should  not  be squeezed. Any retained fragments should not be dug out, but the site cleaned and antiseptic applied. Antibiotic prophylaxis after tick bites is not justified, even in endemic areas.
+
+============================================================
+CHUNK 34
+============================================================
+REFERENCES
+1. Parola  P,  Paddock  CD,  Raoult  D.  Tick  borne  rickettsioses  around  the world:emerging  diseases challenging old concepts. Clin Microbiol  Rev 2005;18:719-56.
+2. Parola  P,  Socolovschi  C,  Raoult  D.  Deciphering  the  relationships  between Rickettsia  conorii  conorii and Rhipicephalus  sanguineus in  the  ecology  and epidemiology of Mediterranean spotted fever. Ann N Y Acad Sci 2009;1166:49-54.
+3. Renvoise A, Mediannikov O, Raoult D. Old and new tick-borne rickettsioses. International Health 2009;1:17-25.
+4. Fournier  PE,  Dumler  JS,  Greub  G,  et  al.  Gene  sequence-based  criteria  for identification  of  new  rickettsia  isolates  and  description  of Rickettsia  heilongjiangensis sp. nov. J Clin Microbiol 2003;41:5456-65.
+5. Parola P, Socolovschi C, Jeanjean L, et al. Warmer weather linked to tick attack and emergence of severe rickettsioses. PLoS Negl Trop Dis 2008;2:e338.
+6. Rovery C, Raoult D. Mediterranean spotted fever. Infect Dis Clin North Am 2008; 22:515-30.
+7. Mediannikov OY, Parola P, Raoult D. Other tick-borne rickettsioses. In: Parola P,  Raoult  D,  eds.  Rickettsial  diseases.  New  York: Informa  Healthcare; 2007: 139-62.
+8. Graves S, Stenos J. Rickettsioses in Australia. Ann N Y Acad Sci 2009;1166:151-5.
+9. Paddock CD, Finley RW, Wright CS, et al. Rickettsia parkeri rickettsiosis and its clinical  distinction  from  Rocky  Mountain  spotted  fever.  Clin  infect  dis 2008;47:1188-96.
+10.  Raoult D, Parola P. Rocky Mountain spotted fever in the USA: a benign disease or a common diagnostic error? Lancet Infect Dis 2008; 8:587-9.
+
+============================================================
+CHUNK 35
+============================================================
+REFERENCES
+11.  Childs J, Paddock C. Rocky Mountain Spotted Fever. In: Raoult D, Parola P, eds. Rickettsial Diseases. New York: Informa; 2007:97-116.
+12.  Parola P, Rovery C, Rolain JM, et al. Rickettsia slovaca and R. raoultii in Tickborne Rickettioses. Emerg Infect Dis 2009;15:1105-8.
+13.  Angelakis E, Pulcini C, Watson J, et al. Scalp eschar and neck lymphadenopathy  caused  by Bartonella  henselae after tick  bite.  Clin  Infect  Dis  2010; 50:549-51.
+14.  Fournier PE, Gouriet F, Brouqui P, et al. Lymphangitis-associated rickettsiosis, a new rickettsiosis caused by Rickettsia sibirica mongolotimonae : Seven new cases and review of the literature. Clin Infect Dis 2005;40:1435-44.
+15.  Jensenius M, Fournier PE, Kelly P, et al. Afican tick bite fever. Lancet Infect Dis 2003;3:557-64.
+16.  Brouqui  P,  Bacellar  F,  Baranton  G,  et  al.  Guidelines  for  the  diagnosis  of tick-borne  bacterial  diseases  in  Europe.  Clin  Microbiol  Infect  2004;10: 1108-32.
+17.  Fenollar F, Raoult D. Molecular genetic methods for the diagnosis of fastidious microorganisms. APMIS 2004;112(11-12):785-807.
+

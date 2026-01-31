@@ -1,0 +1,291 @@
+============================================================
+CHUNK 0
+============================================================
+49
+
+============================================================
+CHUNK 1
+============================================================
+KEY FEATURES
+- Salmonella (NTS) as a cause of invasive disease (iNTS disease) in Africa has overtaken their importance as a cause of diarrheal illness and enterocolitis.
+- children and adults with advanced HIV infection, in whom it is considered an AIDS-de{ning illness.
+- disease and frequent occurrence of co-infections such as pneumonia, malaria, and tuberculosis (TB) presents diagnostic challenges and complicates treatment decisions.
+- disease is, however, usually based on clinical suspicion alone. The emergence of multidrug-resistant, and more recently extended spectrum beta-lactamase producing NTS strains, presents additional management challenges.
+- discontinuation of therapy underscore the importance of iNTS disease.
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+The importance of nontyphoid Salmonella (NTS) as a cause of invasive disease in Africa has overtaken its importance as a cause of diarrheal illness and enterocolitis. NTS has been a signi{cant cause of invasive bacterial disease among children in the tropics, particularly in sub-Saharan Africa (SSA), for many decades, predating  the  HIV  pandemic.  In  1983  the  {rst  six  cases  of  AIDS presenting among African adults were described, three of whom had Salmonella Typhimurium bacteremia. 1,2 Invasive NTS (iNTS) disease, associated with AIDS in Africa, was {rst described as being predominantly  caused  by S. T yphimurium,  with  an  absence  of diarrhea and a high recurrence rate, 3 and these are now all wellrecognized  features  of  this  illness.  Recurrent  NTS  bacteremia was added to the Centers for Disease Control (CDC) case de{nition of AIDS in 1987. As the HIV pandemic has evolved, iNTS disease has  become  one  of  the  most  common  causes  of  febrile  adult admission in  SSA.  iNTS  disease  in  children  and  HIV-infected adults carries an estimated case fatality rate (CFR) of 19% 4 ; even with appropriate antibiotic treatment, there is a 30% to 50% rate of recurrence. Empiric diagnosis and management remain challenging, multi-drug resistance (MDR) to commonly used agents is common, and extended-spectrum beta lactamase (ESBL)-producing isolates are now reported from Africa.
+
+============================================================
+CHUNK 3
+============================================================
+EPIDEMIOLOGY
+Blood culture series of febrile adults and children in HIV-endemic Africa  have  consistently  shown  that  NTS  is  one  of  the  most common  causes  of  invasive  bacterial  infection,  together  with Streptococcus pneumoniae and Mycobacterium tuberculosis (Fig. 49.1). 5 The most recent estimate of the global burden of iNTS disease
+
+============================================================
+CHUNK 4
+============================================================
+Nontyphoid Salmonella Disease
+Melita A. Gordon, Nicholas A. Feasey, Tonney S. Nyirenda, Stephen M. Graham was made for 2010, and the incidence is highest in SSA, at 227 cases (range 152-341) per 100,000 population, with an estimated 388,000 deaths/year. 6 S. Typhimurium and S. Enteritidis are the most commonly isolated serovars. In contrast, in North Africa, where  HIV  prevalence  is  lower  and  malaria  is  not  endemic, S. T yphi is often the most common blood isolate. 5,7 Co-infection with  malaria  and  iNTS  is  common  in  febrile  children  from high-malaria-transmission areas compared with those from lowmalaria-transmission areas 8,9 ; conversely typhoid fever is uncommon in  febrile  children  from  high-malaria-transmission  areas. 8 An increase  in  iNTS  disease  coincided  with  an  increase  in  HIV prevalence in Thailand, but iNTS remains much less common in Asia than S. Typhi and S. Paratyphi A in all ages.
+A major assessment of the etiology of  moderate  and  severe diarrhea in Africa and Asia was recently made in seven countries, and although Salmonella was signi{cantly associated with diarrhea, the prevalence was low. 10 Most healthy African children appear to  have  been  exposed  to Salmonella, presumably  during  early intestinal infection, and acquired killing antibodies by the age of 16 months. 11 Among African children, the rate of asymptomatic carriage in the stool may be nearly as high as the rate of detection during diarrheal disease, 9 but this is not a universal {nding.
+iNTS disease occurs in a bimodal age distribution in Africa, peaking among young children aged 6 to 24 months and among adults aged 20 to 45 years (Fig. 49.2). 12 Conservative estimates of the incidence of pediatric iNTS in SSA range from 170 to 388 per 100,000 person-years in children under the age of 3 years; this  drops to 6/100,000 in children over the age of 5 years. 13,14 There is a lower incidence among infants in the {rst 4 months of life, consistent with protection from maternal immunoglobulin (Ig)G or from secretory IgA in breastmilk, 11 but NTS is a signi{cant cause of neonatal sepsis and meningitis. 15,16
+
+============================================================
+CHUNK 5
+============================================================
+Nontyphoid Salmonella Disease
+In  children,  malaria  is  associated  with  an  increased  risk  of invasive bacterial disease, including iNTS. Increased complement consumption (including  C1q,  C4,  C3, and C5-9) during  acute malaria has been demonstrated, 17-19 and this appears to contribute to loss of both cell-free and phagocyte-mediated killing of NTS despite high antibody titers to lipopolysaccharide (LPS) in African children. 19 Malaria-derived products (malaria-infected red blood cells [RBCs] and hemozoin, hemoglobin-derived heme, and heme oxygenase-1  [HO-1])  compromise  the  effector  functions  of neutrophils, monocytes, and macrophages in humans and animals favoring the proliferation of NTS. 20-23 Furthermore, malaria induces an anti-in|ammatory environment (increased interleukin [IL]-10 production and reduced IL-12 production), which is favorable for the growth of NTS within the gastrointestinal tract and systemic circulation. 24-27
+Compared with other bacterial pathogens in children, iNTS is associated with severe anemia, often in the context of malaria. 28-31 Studies  have  shown  that  malaria,  particularly  severe  malariaassociated anemia, is a key risk factor for iNTS. 32,33 Malaria-induced destruction of infected-RBCs allows the release of iron and heme, which promote intracellular bacterial growth and inhibit the effector functions of phagocytes. 20,34,35 Sickle cell anemia is strongly associated with iNTS in African children, although this is not a common risk factor. The susceptibility may be attributed to reduced serum bactericidal activity as a result of defective function of the alternative complement pathway and low concentration of C3. 36 HIV infection is  also a major risk factor for iNTS disease in African children, but  in  contrast  to  adults,  the  majority  of  children  with  iNTS
+Fig. 49.1 Pathogens isolated from blood cultures among febrile adults and pediatric admissions in Blantyre, Malawi, 1998 to 2004 (listed from the 12 o'clock position on the pie chart).
+Fig. 49.2 The distribution of cases of invasive NTS disease by age in Blantyre, Malawi.
+disease are not HIV infected. In one study from Malawi, however, HIV was a major independent risk factor for mortality. 37
+
+============================================================
+CHUNK 6
+============================================================
+Nontyphoid Salmonella Disease
+In adults, advanced HIV infection is the major risk factor for iNTS disease in SSA, with over 95% of cases occurring in HIVinfected individuals. 7,38 The incidence of iNTS in antiretroviral treatment (ART)-naïve HIV-infected adults ranges from 2000 to 8500/100,000 person-years of observation. Events are rare at high CD4 counts but rise up to 9000/100,000 with CD4 < 200 cells/ μ L. 39 The impact of widely available ART in Africa is not yet clear but is  likely  to  be  highly  protective  against  primary  and  recurrent iNTS disease where coverage is optimal.
+Other conditions predisposing adults to iNTS disease include diabetes,  long-term  steroid  use,  hematologic  or  solid  cancers, autoimmune disease, advanced liver disease (particularly alcoholic liver disease), renal or other transplantation, and the use of other immunosuppressive drugs, including anti-tumor necrosis factor (TNF) antibody treatment. iNTS disease is also seen in children with  speci{c  primary  immunode{ciencies,  including  chronic granulomatous disease and rare genetic de{ciencies of cytokine subunits or receptors in the IL-12/IL-23 pathway. 39
+iNTS incidence in both adults and children is associated with seasonal rainfall  (Fig.  49.3).  It  is  uncertain whether this  results
+Fig. 49.3 The relationship between rainy season and incidence of invasive NTS in adults and children, by month, in Malawi, 2000 to 2004. ANA, Average national accumulation of rainfall.
+
+============================================================
+CHUNK 7
+============================================================
+Nontyphoid Salmonella Disease
+from increased waterborne transmission, or whether it is because it  coincides  with the peak period for malaria and malnutrition. A  study  from  Malawi  suggested  that  changes  in  incidence  of iNTS were consequent upon changes in incidence of both malaria and,  to  a  lesser  extent,  prevalence  of  malnutrition, 40 and  in  a number of different settings in Africa a decline in the incidence of  iNTS  disease  has  been  associated  with  a  decline  in  malaria endemicity. 41-43 The relationship between invasive disease, diarrheal  disease,  and  stool  carriage  of  NTS  is  poorly  understood, and  transmission  routes  are  not  well  de{ned.  In  contrast  to the  well-known  role  of  infected  food/animals  or  contaminated food  items in diarrheal Salmonella disease in industrialized countries,  studies  have  failed  to  identify  a  major  animal,  food, or  environmental  reservoir  of  NTS  in  Africa,  and  person-toperson spread may play a relatively greater role in transmission. 44 The  conditions  in  many  hospitals  in  tropical  Africa  may  also support nosocomial transmission, especially in the emergence of drug-resistant NTS. 45
+
+============================================================
+CHUNK 8
+============================================================
+Diarrheal Disease
+Diarrheal disease caused by NTS in immunocompetent individuals is  characterized  by  in|ammatory  mucosal  disease,  with  in|ammatory in{ltrates in the lamina propria of the ileum and colon, and  crypt  abscess  formation  (enterocolitis).  A  lack  of  colonic crypt architectural disturbance may be helpful in distinguishing infective  colitis  from idiopathic in|ammatory bowel disease on biopsy. Asymptomatic carriage in the stool may continue for several months. Antibiotic treatment is known to increase the rate and duration of  carriage in the stool  after  an  episode  of Salmonella diarrhea.
+Fig. 49.4 A scheme to illustrate the pathogenesis of invasive NTS disease in HIV.
+
+============================================================
+CHUNK 9
+============================================================
+Invasive Disease
+NTS causing invasive disease likely invade through the small bowel mucosa, causing a primary bacteremia. Because many patients do not  report  gastrointestinal symptoms, such as pain or  diarrhea, this may occur without overt in|ammation. The lack of in|ammation and diarrhea in HIV-infected patients may be because of a loss of mucosal Th17 T cells, leading to a lack of recruitment of  neutrophils. 46 By  the  time  patients  present  with  fever,  they usually  already  have  an  established  disseminated  intracellular infection with replication in the bone marrow and reticuloendothelial system, as well as bacteremia (Fig. 49.4). 47,48 This may be the  explanation  for  the  high  rate  of  recrudescence,  even  after antibiotic treatment, and this is supported by genomic studies of recurrent iNTS disease, which revealed the majority of recurrence isolates are indistinguishable from the index case. 49 Although the pathogenesis of iNTS is reminiscent of that of enteric fever, classic complications  of  enteric  fever  such  as  small  bowel  perforation and hemorrhage are not usually seen in iNTS disease.
+Malaria contributes to reduction of gut mucosal resistance to NTS, particularly the gut epithelial layer. Malaria parasite sequestration to the gut is common in humans 50 and appears to contribute to gut epithelial damage, evidenced by increased levels of intestinal fatty acid binding protein (IFABP), a biomarker of intestinal barrier ischemia, 51 which may promote microbial translocation, including NTS, from the gut to the bloodstream. 52,53
+
+============================================================
+CHUNK 10
+============================================================
+Microbiology
+Salmonella is a genus of motile, facultative anaerobic gram-negative bacilli and a member of the Enterobacteriaceae family. De{nitive diagnosis of iNTS disease is by blood culture, and of diarrheal NTS disease by stool culture. There are two species, S. enterica and S. bongori, and the vast majority of human disease is due to serovars of S. enterica, which has six subspecies. Human isolates usually fall within the subspecies enterica. A serologic method of typing devised  by  Kaufman and White, based  on  LPS somatic cell  wall  O  antigens,  envelope  antigens  (e.g.,  Vi  antigen),  and phase 1 and phase 2 |agellar H antigens enables differentiation of Salmonella into  serovars,  designated  with  names  describing clinical syndromes (e.g., Choleraesuis, T yphimurium, Enteritidis), or  the  place  where  the  organism  was  described  (e.g.,  Dublin, Newport). T o distinguish serovars from species and sub-species, they are notated in non-italicized text with a capital letter (e.g., Salmonella enterica subsp. enterica serovar T yphimurium, which is usually shortened to S. Typhimurium).
+Among human isolates, Salmonella Typhi and Paratyphi A are considered 'typhoidal' and cause a human-restricted illness called enteric fever . All other serovars, which have a wider vertebrate host range, are considered 'non-typhoid Salmonellae,' or NTS.
+The vast majority of diarrheal illness is caused by only a few serovars, with S. Enteritidis, S. Typhimurium, S. Virchow, S. Newport, S. Hadar, S. Heidelberg, S. Agona,  and S. Indiana being the most common globally, although there are much less data from the tropics.
+
+============================================================
+CHUNK 11
+============================================================
+Microbiology
+Invasive Salmonella disease in the industrialized world is also caused  by S. Enteritidis  and S. T yphimurium;  however,  other serovars are associated with an invasive disease, typically but not exclusively, S. Cholerasuis, S. Virchow,  and S. Dublin.  Invasive disease in tropical settings is most commonly  caused by S. Typhimurium and S. Enteritidis. Novel clades of these serovars have been described in SSA, variants of S. Typhimurium, which are  of  multi-locus  sequence  type  ST313,  and  two  variants  of S. Enteritidis that are geographically restricted to West and Central and Eastern Africa, respectively. These clades have lost the genes required for an enteric lifestyle, similar to that seen in S. Typhi, novel  prophage  repertoires,  and  MDR  virulence  plasmids,  and the genotypes and more recent phenotypic work raise the possibility of  recent  evolution  toward  a  more  human-adapted  invasive lifestyle. 48,54,55
+Antibiotic resistance is an emerging problem among Salmonella worldwide, including among clades associated with iNTS disease. Plasmid-borne  MDR  to  chloramphenicol,  cotrimoxazole,  and ampicillin is now documented from many sites in Africa. Resistance to |uoroquinolones and cephalosporins is rapidly emerging and has been described in Mali, Democratic Republic of the Congo, Kenya, and Malawi. 56
+
+============================================================
+CHUNK 12
+============================================================
+Diarrheal NTS Disease
+NTS enterocolitis presents with abdominal cramps, nausea and vomiting, and watery diarrhea, which may also be bloody in severe cases.  Patients  may  be  febrile,  and  1%  to  4%  of  adults  have  a transient bacteremia, which may lead to focal or metastatic infection,
+
+TABLE 49.1 Clinical Features of Invasive NTS Disease among Adults and Children in Sub-Saharan Africa
+
+============================================================
+CHUNK 13
+============================================================
+Diarrheal NTS Disease
+Age of peak incidence, Children = 6-36 months. Age of peak incidence, Adults = 20-45 years. Age of peak incidence, Comment = . Fever, Children = 97%. Fever, Adults = 95%. Fever, Comment = May be absent in malnourished children. Diarrheal illness, Children = 30%-50%. Diarrheal illness, Adults = 20%-40%. Diarrheal illness, Comment = Often absent or not a prominent feature. Respiratory illness, Children = 50%-60%. Respiratory illness, Adults = 30%. Respiratory illness, Comment = With abnormalities on physical examination or chest radiogram, often attributable to a second pathogen. No obvious focus, Children = 25%-40%. No obvious focus, Adults = 20%-30%. No obvious focus, Comment = . Splenomegaly, Children = 45%. Splenomegaly, Adults = 30%-40%. Splenomegaly, Comment = An independent predictor of iNTS in febrile adults. Hepatomegaly, Children = 35%. Hepatomegaly, Adults = 15%. Hepatomegaly, Comment = . Severe anemia, Children = 25%-35%. Severe anemia, Adults = 50%. Severe anemia, Comment = A predictor of poor outcome. Malaria slide positive, Children = 25%-40%. Malaria slide positive, Adults = 15%. Malaria slide positive, Comment = Acute high parasitemia and recent malaria episodes are risk factors for iNTS among children. HIV co-infection, Children = 20%-25%. HIV co-infection, Adults = 95%. HIV co-infection, Comment = . Case definition of AIDS, Children = -. Case definition of AIDS, Adults = 50%-80%. Case definition of AIDS, Comment = iNTS is an event defining stage 4 HIV disease. Relapse rate, Children = -. Relapse rate, Adults = 30%-43%. Relapse rate, Comment = Relapse is usually from an intracellular sanctuary site and is difficult to treat but may be prevented by prompt effective antiretroviral treatment. Mortality, Children = 22%-25%. Mortality, Adults = 25%-50%. Mortality, Comment = 
+
+============================================================
+CHUNK 14
+============================================================
+Diarrheal NTS Disease
+particularly in elderly patients. In severe cases, enterocolitis may be accompanied by shock related to dehydration or to associated sepsis. Diarrheal illness usually lasts 2 to 5 days, resolving spontaneously. Complications, including toxic colonic dilatation and perforation, may be heralded by a prolonged disease course, severe pain, abdominal tenderness, and signs of peritonitis or shock. Diarrheal disease may be followed by seronegative reactive arthritis or Reiter's syndrome.
+
+============================================================
+CHUNK 15
+============================================================
+iNTS Disease
+The usual presentation of iNTS is a non-speci{c febrile illness, and  the  frequency  of  common  presenting  clinical  features  is shown  in  T able  49.1.  As  these  data  show,  the  clinical  picture is  heterogeneous,  and  there  may  be  no  obvious  clinical  focus. Diarrhea is often absent. The clinical picture may be complicated by co-infections-especially in HIV-infected patients-including respiratory, such as tuberculosis (TB) , S. pneumoniae, or Klebsiella spp. A concurrent respiratory infection may cause a simultaneous intravascular gram-negative sepsis to be overlooked. 19 In young children especially, there is clinical overlap with the presentation of pneumonia, severe malaria, and anemia. 57 This means that clinical diagnosis is especially dif{cult in the resource-limited setting and that empiric antibiotic treatment must have broad coverage (see later). Mortality associated with an index event of iNTS disease is  high  (25%-50%),  even  in  microbiologically  con{rmed  cases with appropriate antibiotic treatment. 19,25,27,38,56,58
+In adults, iNTS disease generally presents during stage 4 HIV disease and 80% of ART-naïve patients at index presentation have a  CD4 count of below 200 cells/ μ l.  Features  of  advanced  HIV disease may be present. Other causes of immunosuppression should be sought in the absence of HIV in adults.
+
+============================================================
+CHUNK 16
+============================================================
+Recurrent iNTS Disease
+Recurrence of NTS bacteremia occurs in 30% to 40% of HIVinfected  ART-naïve  survivors,  even  after  2  weeks  of  antibiotic treatment. Relapse is typically seen after 2 to 6 weeks and represents a recrudescence with the same index isolate. The number of viable bacteria is higher in bone marrow at relapse compared with the {rst  presentation,  suggesting  an  established  intracellular  niche. Re-treatment with antibiotics is not always successful, and 25% of patients with one recurrence go on to have multiple recurrences. 38 If ART is available, successful immune reconstitution appears to greatly reduce the risk of iNTS recurrence.
+
+============================================================
+CHUNK 17
+============================================================
+Focal and Suppurative NTS Disease
+Salmonella has a capacity to cause focal suppurative disease. 59 This is a problem in the elderly, in young children with diarrheal disease and transient bacteremia, in immunosuppressed patients, and in children with invasive NTS infection. There is a particular predilection to cause osteomyelitis and pyogenic arthritis, particularly in sickle cell disease. Intravascular infections at structurally damaged sites, such as atheroma, aneurysms, or damaged heart valves, cause persistent bacteremia, usually require combined surgical and medical therapy, and have a poor outcome. Focal infections during HIV are  also  described  in  the  chest  (empyema  and,  rarely,  primary pneumonia), renal tract, genital tract, and hepatobiliary tract. 39
+NTS meningitis in adults and children in Africa has a  very poor  outcome  (60%  mortality  among  children,  80%  mortality among  adults), 16 and  subdural  or  epidural  empyema  are  also described. Of particular note in the tropics is a phenomenon where active  schistosomiasis  is  associated  with  persistent  or  recurrent NTS bacteremia among children, despite antibiotic  treatment. This occurs because the bacterium is able to adhere to the adult helminth's tegument using a bacterial pilus, providing it with a sanctuary where it can evade antimicrobial treatment. T reatment with  praziquantel  kills  the  adult  helminth  and  allows  effective antibiotic eradication of the Salmonella with prompt resolution of fever. 60
+
+============================================================
+CHUNK 18
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+The two most common clinical syndromes arising from NTS are enterocolitis with diarrheal disease or invasive disease with sepsis. In resource-limited settings it is usually necessary to take a syndromic approach to evaluating these two modes of presentation.
+
+============================================================
+CHUNK 19
+============================================================
+Diarrheal Disease
+Acute febrile diarrheal disease is usually presumed to be infective unless speci{c features suggest other diagnoses or complications. Evaluation should include assessment of history, duration, fever, pain, shock, dehydration, urine output, and careful examination of  the  abdomen.  The  abdominal  pain  may  be  severe,  and  the clinical  picture  may  resemble  one of  appendicitis.  Simple  stool microscopy may show polymorphic in|ammatory cells. Stool may be positive for occult or occasionally frank blood, but this is not
+diagnostically helpful. Plain abdominal {lm or sigmoidoscopy is necessary only if toxic dilatation, other complications, or alternative diagnoses are suspected.
+
+============================================================
+CHUNK 20
+============================================================
+Invasive Disease
+The non-speci{c clinical features seen in iNTS disease (see T able 49.1), limited access to laboratory and microbiology facilities, and the emergence of MDR make it a challenging illness to diagnose and  manage  in  resource-limited  settings.  Although  de{nitive diagnosis  of  iNTS  is  by  blood  culture,  these  facilities  are  not widely available in SSA. Therefore an empiric approach to diagnosis and management is often necessary.
+An approach often used among children is to 'rule out' malaria through blood {lm or malaria antigen card test. However, because of the association of pediatric malaria with iNTS, malaria does not rule out iNTS or other co-infections, particularly if diagnosed using a rapid-diagnostic antigen test, which may remain positive after  acute  parasitemia  has  resolved.  Differential  diagnosis  of patients  presenting  in  the  tropics  with  fever  as  their  primary complaint must include malaria, TB, and pneumococcal sepsis in addition  to  iNTS. Among  adults,  HIV  testing  and  staging  are essential, and presentation with iNTS de{nes stage 4 HIV disease. Given the strong association of iNTS with advanced HIV disease, co-infection with any,  and all, of these  pathogens  must also be considered. Presentation with NTS bacteremia and concomitant pneumonia caused by a second pathogen is particularly diagnostically challenging among both adults and children. Many children with iNTS also meet  the World Health Organization (WHO) case de{nition for acute lower respiratory tract infection (LRTI), and empiric treatment for pneumonia may not cover iNTS disease. 26
+In a study of clinical predictors of bloodstream pathogens among febrile admissions in Africa, splenomegaly with high fever ( > 39°C) conferred a high independent odds ratio (4.9) for NTS bacteremia. Surprisingly, splenomegaly did not predict malaria or TB. Splenomegaly may therefore be a useful clinical marker of iNTS disease in  adults  in  an  HIV-prevalent  setting, 61 but  it  is  only  found  in 30% to 40% of cases.
+
+============================================================
+CHUNK 21
+============================================================
+Diarrheal Disease
+Management of enterocolitis caused by NTS should be supportive; antibiotic treatment is not indicated except in severe or complicated adult cases or in young children or immunocompromised adults. In cases of dysentery (grossly bloody diarrhea), where an etiologic agent is not sought or identi{ed, empiric antibiotic therapy should be directed against Shigella species, which are more common causes of dysentery and also derive  a clear  bene{t from treatment. In contrast, antibiotics do not reduce the duration of diarrheal illness caused  by NTS, and they prolong stool shedding and increase the risk of side effects from treatment itself (evidence grade 1).
+
+============================================================
+CHUNK 22
+============================================================
+Invasive Disease
+The choice of empiric therapy for febrile patients requiring hospital admission in an HIV-endemic area is dif{cult. Reliance on penicillin and chloramphenicol, even if respiratory features are prominent, would most likely fail to treat Salmonella , due to intrinsic resistance to  penicillin  and  widespread  resistance  to  chloramphenicol, ampicillin,  and  cotrimoxazole.  Broader-spectrum  coverage  (see later) may be considered necessary and judged according to known local  antimicrobial  resistance  patterns  and  local  availability  of antimicrobials. If an antibiotic or combination of antibiotics inactive against NTS fails to cause defervescence and clinical improvement in febrile patients after 48 hours, consideration should be given to changing to a regimen with likely activity against NTS.
+Antibiotics that may be available and are likely to be effective against  NTS  include  third-generation  cephalosporins  (such  as ceftriaxone),  |uoroquinolones  (such  as  cipro|oxacin),  and  the macrolide azithromycin, except perhaps in Kenya, where resistance to  cephalosporins  and  |uoroquinolones  exceeded  50%  in  one study. 62 However,  there  have  been  no  clinical  trials  for  iNTS disease  to  provide  guidance.  Fluoroquinolones  probably  offer superior intracellular penetration and reduce the risk of recurrence (evidence grade 4), but the risks of using |uoroquinolones include partial  treatment  of  disseminated  TB,  which  may  obscure  the diagnosis and generate drug resistance. Short courses of |uoroquinolones,  as  are  used  in  typhoid  fever,  should  be  avoided  in iNTS because of the high rate of recurrence seen in this disease. If a microbiologic diagnosis of iNTS is con{rmed, then a course of 14 days of an effective antimicrobial should be used with rapid initiation of antiretroviral therapy for HIV if appropriate.
+
+============================================================
+CHUNK 23
+============================================================
+Invasive Disease
+Failure to improve on an effective agent should lead the clinician to consider TB as an alternative or additional diagnosis. However, in some cases of iNTS, even in the setting of appropriate therapy, resolution of fever may take several days. A clinical search should also  be  made  for  focal  suppurative  complications.  Prolonged antibiotic treatment for at least 6 to 8 weeks is required for focal sepsis, along with drainage of any pus collection. Needle aspiration of infected large joints is an acceptable {rst step, but formal surgical drainage may be necessary if there is a poor response (evidence grade 2). Joints should not be immobilized during treatment, but rather movement allowed as pain permits. Outcomes for septic arthritis can be excellent if well managed. Our experience of NTS empyema is that prolonged chest drainage is required, along with antibiotic  treatment,  but  results  were  disappointing. T reatment of infected heart valves and vascular structures frequently requires a combination of surgical and prolonged antibiotic treatment, and outcomes after mycotic aneurysm infection are especially poor. Treatment with praziquantel to eradicate possible live schistosomal helminths in endemic areas is safe and may be helpful (evidence grade 4).
+
+============================================================
+CHUNK 24
+============================================================
+Prevention of Recurrence
+iNTS disease frequently recrudesces from an intracellular site of persistence  in  HIV-positive  adults. 19,23,38,47 Although  prolonged courses of |uoroquinolones (i.e., 4-6 weeks of cipro|oxacin) have been suggested for treatment and secondary prevention in guidelines from industrialized countries (evidence grade 5), this is based on expert opinion in settings with low prevalence of TB and in the pre-ART era. Prolonged therapy has not been subject to clinical trials or cost-bene{t analysis, and its impact on broader antimicrobial resistance has not yet been assessed. This is particularly important, as |uoroquinolones are a  mainstay of treatment for MDR TB.
+The impact of ART and cotrimoxazole preventive therapy on preventing  recurrence  in  HIV-infected  adults  and  children  is undocumented, but our experience suggests that initiation of ART s reduces recrudescence. However, as recrudescence is often early, resistance to cotrimoxazole and logistical dif{culties in early initiation  of  antiretrovirals  (ARVs)  may  reduce  the  impact  of  these interventions, and immediate initiation of ARVs may be important. Clinical trials of strategies  to prevent  recurrence without compromising  antimicrobial  ef{cacy  are  urgently  needed. As  there are no satisfactory evidence-based options for prevention, expectant management with retreatment of iNTS with an effective agent as it recurs remains essential (evidence grade 5).
+
+============================================================
+CHUNK 25
+============================================================
+VACCINATION
+There is currently no vaccine for iNTS, although several are in pre-clinical development. Antibody is likely to be protective, and a de{ciency of antibody against LPS has been shown in susceptible
+African children. 8 Among some HIV-infected adults, however, the observation has been made that there is an excess of inhibitory antiSalmonella antibodies directed against LPS that compete with bactericidal antibodies. This raises the possibility that a vaccine directed against LPS might conceivably do harm in HIV-infected individuals,  so  a  vaccine  directed  against  LPS  might  be  most appropriate in children. Salmonella membrane preparations, outer membrane proteins, or other targets such  as |agellin could  be more  appropriate,  and  strategies  are  also  under  pre-clinical development. 63
+
+============================================================
+CHUNK 26
+============================================================
+REFERENCES
+1.  Clumeck N, Mascart-Lemone F, de Maubeuge J, et al. Acquired immune de{ciency syndrome in Black Africans. Lancet 1983;1:642.
+2.  Offenstadt G, Pinta P , Hericord P , et al. Multiple opportunistic infection due to AIDS in a previously healthy black woman from Zaire. N Engl J Med 1983;308:775.
+3.  Sperber SJ, Schleupner CJ. Salmonellosis during infection with human immunode{ciency virus. Rev Infect Dis 1987;9:925-34.
+4.  Uche IV, MacLennan CA, Saul A. A systematic review of the incidence,  risk  factors  and  case  fatality  rates  of  Invasive  Nontyphoidal Salmonella (iNTS) disease in Africa (1966 to 2014). PLoS Negl T rop Dis 2017;11:e0005118.
+5.  Reddy EA, Shaw AV, Crump JA. Community-acquired bloodstream infections  in Africa:  a  systematic  review  and  meta-analysis.  Lancet Infect Dis 2010;10:417-32.
+6.  Ao  TT,  Feasey  NA,  Gordon  MA,  et al.  Global  burden  of  invasive nontyphoidal Salmonella disease, 2010(1). Emerg Infect Dis 2015;21.
+7.  Morpeth SC, Ramadhani HO, Crump JA. Invasive non-T yphi Salmonella disease in Africa. Clin Infect Dis 2009;49:606-11.
+8.  Biggs HM, Lester R, Nadjm B, et al. Invasive Salmonella infections in areas of high and low malaria transmission intensity in T anzania. Clin Infect Dis 2014;58:638-47.
+9.  Park SE, Pak GD, Aaby P, et al. The relationship between invasive nontyphoidal Salmonella disease, other bacterial bloodstream infections, and  malaria  in  sub-Saharan Africa.  Clin  Infect  Dis  2016;62(Suppl. 1):S23-31.
+
+============================================================
+CHUNK 27
+============================================================
+REFERENCES
+10.  Kotloff KL, Nataro JP, Blackwelder WC, et al. Burden and aetiology of  diarrhoeal  disease  in  infants  and  young  children  in  developing countries (the Global Enteric Multicenter Study, GEMS): a prospective, case-control study. Lancet 2013;382:209-22.
+11.  MacLennan CA, Gondwe EN, Msefula CL, et al. The neglected role of antibody in protection against bacteremia caused by nontyphoidal strains of Salmonella in African children. J Clin Invest 2008;118:1553-62.
+12.  Feasey  NA,  Archer  BN,  Heyderman  RS,  et al.  Typhoid  fever  and invasive nontyphoid salmonellosis, Malawi and South Africa. Emerg Infect Dis 2010;16:1448-51.
+13.  Enwere  G,  Biney  E,  Cheung YB,  et al.  Epidemiologic  and  clinical characteristics  of  community-acquired  invasive  bacterial  infections in children aged 2-29 months in The Gambia. Pediatr Infect Dis J 2006;25:700-5.
+14.  Berkley  JA,  Lowe BS, Mwangi I, et al. Bacteremia among children admitted to a rural hospital in Kenya. N Engl J Med 2005;352:39-47.
+15.  Feasey  NA,  Masesa  C,  Jassi  C,  et al.  Three  epidemics  of  invasive multidrug-resistant  Salmonella  bloodstream  infection  in  Blantyre, Malawi, 1998-2014. Clin Infect Dis 2015;61(Suppl. 4):S363-71.
+16.  Molyneux EM, Mankhambo LA, Phiri A, et al. The outcome of nontyphoidal  Salmonella  meningitis  in  Malawian  children,  1997-2006. Ann Trop Paediatr 2009;29:13-22.
+17.  Greenwood  BM,  Brueton  MJ.  Complement  activation  in  children with acute malaria. Clin Exp Immunol 1974;18:267-72.
+18.  Nyakoe  NK, Taylor  RP ,  Makumi  JN, Waitumbi  JN.  Complement consumption in children with Plasmodium falciparum malaria. Malar J 2009;8:7.
+
+============================================================
+CHUNK 28
+============================================================
+REFERENCES
+19.  Nyirenda TS, Nyirenda JT, T embo DL, et al. Loss of humoral and cellular immunity to invasive nontyphoidal Salmonella during current or convalescent Plasmodium falciparum infection in Malawian children. Clin Vaccine Immunol 2017;24:e00057-1.
+20.  Cunnington AJ, de Souza JB, Walther M, Riley EM. Malaria impairs resistance to Salmonella through heme- and heme oxygenase-dependent dysfunctional granulocyte mobilization. Nat Med 2012;18:120-7.
+21.  Schwarzer E, T urrini F , Ulliers D, et al. Impairment of macrophage functions after ingestion of Plasmodium falciparum-infected erythrocytes or isolated malarial pigment. J Exp Med 1992;176:1033-41.
+22.  Schwarzer  E, Arese  P .  Phagocytosis  of  malarial  pigment  hemozoin inhibits NADPH-oxidase  activity in human monocyte-derived macrophages. Biochim Biophys Acta 1996;1316:169-75.
+23.  Cunnington AJ, Njie M, Correa S, et al. Prolonged neutrophil dysfunction after Plasmodium falciparum malaria is related to hemolysis and heme oxygenase-1 induction. J Immunol 2012;189:5336-46.
+24.  Lokken KL, Mooney JP, Butler BP, et al. Malaria parasite infection compromises control of concurrent systemic non-typhoidal Salmonella infection via IL-10-mediated alteration of myeloid cell function. PLoS Pathog 2014;10:e1004049.
+25.  Mooney JP , Butler BP , Lokken KL, et al. The mucosal in|ammatory response to non-typhoidal Salmonella in the intestine is blunted by IL-10 during concurrent malaria parasite infection. Mucosal Immunol 2014;7:1302-11.
+26.  Mastroeni P , Harrison JA, Chabalgoity JA, Hormaeche CE. Effect of interleukin 12 neutralization on host resistance and gamma interferon production in mouse typhoid. Infect Immun 1996;64:189-96.
+
+============================================================
+CHUNK 29
+============================================================
+REFERENCES
+27.  Mastroeni P , Harrison JA, Robinson JH, et al. Interleukin-12 is required for control of the growth of attenuated aromatic-compound-dependent salmonellae in BALB/c mice: role of gamma interferon and macrophage activation. Infect Immun 1998;66:4767-76.
+28.  Mabey  DC,  Brown  A,  Greenwood  BM. Plasmodium  falciparum malaria and Salmonella infections in Gambian children. J Infect Dis 1987;155:1319-21.
+29.  Brent AJ, Oundo JO, Mwangi I, et al. Salmonella bacteremia in Kenyan children. Pediatr Infect Dis J 2006;25:230-6.
+30.  Graham SM, Molyneux EM, Walsh AL, et al. Nontyphoidal Salmonella  infections  of  children  in  tropical  Africa.  Pediatr  Infect  Dis  J 2000;19:1189-96.
+31.  Bronzan RN, T aylor TE, Mwenechanya J, et al. Bacteremia in Malawian children with severe malaria: prevalence, etiology, HIV coinfection, and outcome. J Infect Dis 2007;195:895-904.
+32.  Calis JC, Phiri KS, Faragher EB, et al. Severe anemia in Malawian children. N Engl J Med 2008;358:888-99.
+33.  Church J, Maitland K. Invasive bacterial co-infection in African children with Plasmodium falciparum malaria: a systematic review. BMC Med 2014;12:31.
+34.  Kaye  D,  Hook  EW.  The  in|uence  of  hemolysis  or  blood  loss  on susceptibility to infection. J Immunol 1963;91:65-75.
+35.  Roux  CM,  Butler  BP ,  Chau  JY,  et al.  Both  hemolytic  anemia  and malaria parasite-speci{c factors increase susceptibility to Nontyphoidal Salmonella enterica  serovar T yphimurium infection in mice. Infect Immun 2010;78:1520-7.
+
+============================================================
+CHUNK 30
+============================================================
+REFERENCES
+36.  Hand WL, King NL. De{ciency of serum bactericidal activity against Salmonella T yphimurium in sickle cell anaemia. Clin Exp Immunol 1977;30:262-70.
+37.  MacLennan  CA,  Msefula  CL,  Gondwe  EN,  et al.  Presentation  of life-threatening invasive nontyphoidal Salmonella disease in Malawian children:  a  prospective  observational  study.  PLoS  Negl  T rop  Dis 2017;11:e0006027.
+38.  Gordon MA, Banda HT, Gondwe M, et al. Non-typhoidal Salmonella bacteraemia among HIV-infected Malawian adults: high mortality and frequent recrudescence. AIDS 2002;16:1633-41.
+39.  Gordon MA. Salmonella infections in immunocompromised adults. J Infect 2008;56:413-22.
+40.  Feasey NA, Everett D, Faragher EB, et al. Modelling the contributions of malaria, HIV , malnutrition and rainfall to the decline in paediatric invasive non-typhoidal Salmonella disease in Malawi. PLoS Negl T rop Dis 2015;9:e0003979.
+41.  Scott JA, Berkley JA, Mwangi I, et al. Relation between falciparum malaria  and  bacteraemia  in  Kenyan  children:  a  population-based, case-control study and a longitudinal study. Lancet 2011;378:1316-23.
+42.  Mtove G, Amos B, Nadjm B, et al. Decreasing incidence of severe malaria  and  community-acquired  bacteraemia  among  hospitalized children  in  Muheza,  north-eastern  T anzania,  2006-2010.  Malar  J 2011;10:320.
+43.  Mackenzie G, Ceesay SJ, Hill PC, et al. A decline in the incidence of invasive non-typhoidal Salmonella infection in The Gambia temporally  associated  with  a  decline  in  malaria  infection.  PLoS  ONE 2010;5:e10568.
+44.  Kariuki S, Revathi G, Kariuki N, et al. Invasive multidrug-resistant nontyphoidal Salmonella infections in Africa: zoonotic or anthroponotic transmission? J Med Microbiol 2006;55:585-91.
+
+============================================================
+CHUNK 31
+============================================================
+REFERENCES
+45.  Smith AM, Mthanti MA, Haumann C, et al. Nosocomial outbreak of Salmonella enterica serovar Typhimurium primarily affecting a pediatric ward in South Africa in 2012. J Clin Microbiol 2014;52:627-31.
+
+============================================================
+CHUNK 32
+============================================================
+REFERENCES
+46.  Raffatellu M, Santos RL, V erhoeven DE, et al. Simian immunode{ciency virus-induced mucosal interleukin-17 de{ciency promotes Salmonella dissemination from the gut. Nat Med 2008;14(4):421-8.
+47.  Gordon MA, Kankwatira AM, Mwafulirwa G, et al. Invasive non-typhoid Salmonellae establish systemic intracellular infection in HIV-infected adults: an emerging disease pathogenesis. Clin Infect Dis 2010;50:953-62.
+48.  Kingsley RA, Msefula CL, Thomson NR, et al. Epidemic multiple drug resistant Salmonella Typhimurium causing invasive disease in subSaharan Africa have a distinct genotype. Genome Res 2009;19:2279-87.
+49.  Okoro  CK,  Kingsley  RA,  Quail  MA,  et al.  High-resolution  single nucleotide  polymorphism  analysis  distinguishes  recrudescence  and reinfection in recurrent invasive nontyphoidal Salmonella Typhimurium disease. Clin Infect Dis 2012;54:955-63.
+50.  Seydel KB, Milner DA, Kamiza SB, et al. The distribution and intensity of parasite sequestration in comatose Malawian children. J Infect Dis 2006;194:208-5.
+51.  Church JA, Nyamako L, Olupot-Olupot P, et al. Increased adhesion of Plasmodium falciparum infected erythrocytes to ICAM-1 in children with acute intestinal injury. Malar J 2016;15:54.
+52.  Chau  JY,  Tiffany  CM,  Nimishakavi  S,  et al.  Malaria-associated L-arginine  de{ciency  induces  mast  cell-associated  disruption  to intestinal barrier defenses against nontyphoidal Salmonella bacteremia. Infect Immun 2013;81:3515-26.
+53.  Wilairatana P , Meddings JB, Ho M, et al. Increased gastrointestinal permeability in patients with Plasmodium falciparum malaria. Clin Infect Dis 1997;24:430-5.
+
+============================================================
+CHUNK 33
+============================================================
+REFERENCES
+54.  Okoro CK, Kingsley RA, Connor TR, et al. Intracontinental spread of human invasive Salmonella Typhimurium pathovariants in sub-Saharan Africa. Nat Genet 2012;44:1215-21.
+55.  Feasey NA, Had{eld J, Keddy KH, et al. Distinct Salmonella Enteritidis lineages  associated  with  enterocolitis  in  high-income  settings  and invasive disease in low-income settings. Nat Genet 2016;48:1211-17.
+56.  Gordon MA, Graham SM, Walsh AL, et al. Epidemics of invasive Salmonella enterica serovar Enteritidis and S. enterica serovar T yphimurium infection associated with multidrug resistance among adults and children in Malawi. Clin Infect Dis 2008;46:963-9.
+57.  Graham SM, English M. Non-typhoidal salmonellae: a management challenge for children with community-acquired invasive disease in tropical African countries. Lancet 2009;373:267-9.
+58.  Gordon MA, Walsh AL, Chaponda M, et al. Bacteraemia and mortality among adult medical admissions in Malawi-predominance of non-T yphi salmonellae and Streptococcus pneumoniae . J Infect 2001;42:44-9.
+59.  Cohen JI, Bartlett JA, Corey GR. Extra-intestinal manifestations of Salmonella infections. Medicine (Baltimore) 1987;66:349-88.
+60.  Gendrel D, Kombila M, Beaudoin-Leblevec G, Richard-Lenoble D. Nontyphoidal salmonellal septicemia in Gabonese children infected with Schistosoma intercalatum. Clin Infect Dis 1994;18:103-5.
+61.  Peters RP, Zijlstra EE, Schijffelen MJ, et al. A prospective study of bloodstream infections as cause of fever in Malawi: clinical predictors and implications for management. T rop Med Int Health 2004;9:928-34.
+
+============================================================
+CHUNK 34
+============================================================
+REFERENCES
+62.  Oneko M, Kariuki S, Muturi-Kioi V , et al. Emergence of communityacquired, multidrug-resistant invasive nontyphoidal Salmonella disease in rural Western Kenya, 2009-2013. Clin Infect Dis 2015;61(Suppl. 4):S310-16.
+63.  MacLennan CA, Gilchrist JJ, Gordon MA, et al. Dysregulated humoral immunity to nontyphoidal Salmonella in HIV-infected African adults. Science 2010;328:508-12.
+

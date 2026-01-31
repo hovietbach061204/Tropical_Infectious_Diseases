@@ -1,0 +1,231 @@
+============================================================
+CHUNK 0
+============================================================
+Key features
+- The older, inexpensive, but more toxic formulation of amphotericin B (desoxycholate) is being replaced with the more expensive, but less toxic lipid formulations
+- Although well tolerated for chronic therapy, the triazoles have drug interactions due to inhibition of cytochrome P450 hepatic enzymes
+- Voriconazole represents an advance in the treatment of invasive Aspergillus infections and has become the drug of choice
+- Posaconazole is the %rst orally available antifungal with signi%cant activity against the agents of mucormycosis, chromoblastomycosis, phaeohyphomycosis, mycetoma, and Scedosporium apiospermum
+- Echinocandins are the drugs of choice for empiric treatment of Candida infections, pending speciation, because of their broad spectrum of activity and minimal toxicity
+
+============================================================
+CHUNK 1
+============================================================
+INTRODUCTION
+Treatment of systemic mycoses is a clinical challenge. Infections are chronic, with a tendency to relapse, and the standard therapy, amphotericin B, has multiple toxicities. The introduction of azole antifungals provides relatively nontoxic long-term therapy. This chapter discusses the  properties  and  use  of  the  major  antifungals:  amphotericin  B, flucytosine,  triazoles,  and  echinocandins. Specific  treatment  indications,  duration  of  therapy,  and  parameters  indicating  response  are covered in the disease chapters.
+
+============================================================
+CHUNK 2
+============================================================
+AMPHOTERICIN B
+Amphotericin B is a product of Streptomyces nodosus. Despite its toxicities, amphotericin remains the standard therapeutic agent for many of the deep mycoses.
+
+============================================================
+CHUNK 3
+============================================================
+MECHANISM OF ACTION
+The polyene structure of amphotericin B is responsible for both its therapeutic and its toxic properties. Amphotericin B interacts with cell membrane  sterols,  leading  to  an  alteration  in  the  integrity  of  the membrane,  with  subsequent  leakage  of  intracellular  contents.  In fungi, the interaction is with ergosterol and results in inhibition of fungal growth, whereas in human cells, the interaction is with cholesterol, resulting in toxic side effects.
+
+============================================================
+CHUNK 4
+============================================================
+SENSITIVE ORGANISMS
+Most  of  the  systemic  fungi  are  sensitive  to  amphotericin  B.  These include Coccidioides immitis , Cryptococcus neoformans , Histoplasma capsulatum , Blastomyces dermatitidis , Paracoccidioides  brasiliensis , Candida , and Aspergillus spp. There is also activity against a number of protozoan pathogens: Entamoeba , Naegleria , Leishmania and trypanosomes. Isolates of Pseudallescheria boydii , Candida lusitaniae , Trichosporon beigelii , and Scedosporium inflatum are commonly resistant. Because of a lack of standardization among laboratories and the variance between in vitro and clinical results, there is little value from routine in vitro susceptibility testing or measurement of serum levels of amphotericin B. Development of resistance during therapy has not been a problem.
+There is synergy of amphotericin B with a number of agents. Combination therapy is most useful with flucytosine for treatment of cryptococcal meningitis.
+
+============================================================
+CHUNK 5
+============================================================
+PHARMACOLOGIC PROPERTIES
+Peak serum concentrations of amphotericin B with standard therapeutic doses are 0.5 to 2.0 μ g/mL. The fate of the drug is unknown, and no metabolites have been identified. There is biphasic excretion, with  a  rapid  elimination  half-life  of  24  hours,  followed  by  a  prolonged terminal half-life of 15 days. Renal excretion accounts for only 3-5% of total drug elimination. For this reason, there is no accumulation of amphotericin B in serum during renal failure, and no dosage adjustment is necessary, even in the anephric patient. Amphotericin B is not removed by peritoneal dialysis or hemodialysis. Biliary excretion is 19%, but hepatic disease does not necessitate a dosage change.
+Amphotericin B is available as the standard formulation with desoxycholate (AMBD, Fungizone, Squibb), which creates a colloidal dispersion of the insoluble antibiotic. The usual daily dose of 0.5-1.0 mg/ kg is reconstituted with 10 mL of sterile water and then added to 5% dextrose in water. The addition of even minimal amounts of sodium or chloride will reduce bioactivity and induce turbidity in the infusion. Therefore, AMBD should not be mixed with electrolytes or acidic solutions. AMBD is light-sensitive, but during a 24-hour period there is no appreciable loss of activity; there is no need to wrap the bottle with aluminum foil. The drug is poorly absorbed from the gastrointestinal tract, and should never be used to treat systemic infections. Its only oral use is for candidal infections of the oropharynx.
+
+============================================================
+CHUNK 6
+============================================================
+PHARMACOLOGIC PROPERTIES
+Lipid formulations have been developed in an effort to reduce the nephrotoxicity  of  AMBD:  amphotericin  B  lipid  complex  (ABLC, Abelcet, Enzon), amphotericin B cholesteryl sulfate complex (ABCS, Amphotec), and liposomal amphotericin B (AmBisome, Astellas) [1]. Each has significantly less nephrotoxicity; ABLC has similar infusionrelated  toxicity  (see  below),  Amphotec  may  have  increased,  and Ambisome has less infusion-related toxicity. The lipid formulations have  increased  concentration  in  the  spleen,  liver,  and  lung.  This
+increased uptake in the reticuloendothelial system results in decreased amphotericin in the kidneys. Because the cost is 10- to 20-fold greater than the old formulation, use of the lipid products is often reserved for patients with renal insufficiency or who are otherwise refractory to or intolerant of conventional AMBD. The recommended dose of ABLC is 5.0 mg/kg given as a single daily infusion at a rate of 2.5 mg/ kg/hour. For AmBisome, the dose is 3 mg/kg/day for empiric therapy, 3-5 mg/kg/day for systemic  fungal  infections  and  6 mg/kg/day  for cryptococcal meningitis. For Amphotec, the dose is 3-4 mg/kg/day.
+
+============================================================
+CHUNK 7
+============================================================
+THERAPEUTIC USE
+Amphotericin B is initiated with a 1-mg test dose in 5% dextrose in water infused over 20 minutes to evaluate the extent of the commonly encountered febrile response. Vital signs should be monitored closely. Subsequent dosage increments are determined by the severity of the toxic reactions encountered and the severity of the fungal infection. For  chronic  infections,  the  dose  may  be  increased  daily  until  the desired  dose  is  reached.  In  severe  cases,  the  full  therapeutic  dose (usually 35 to  50 mg) may be put in 500 mL of 5% dextrose. The equivalent of 1 mg is infused over 20 to 30 minutes, and if no severe reactions occur, the remainder is infused over 2 to 3 hours.
+If toxic reactions are noted, hydrocortisone (25 mg) may be added to the infusion bottle to decrease the frequency, but not the severity, of fever and chills. Premedication with acetaminophen and diphenhydramine can further ameliorate toxicity. Nonsteroidal antiinflammatory  drugs  should  be  avoided  as  there  is  a  potential  to enhance  amphotericin  nephrotoxicity.  Many  patients  will  develop tolerance to amphotericin B, and the hydrocortisone can be discontinued.  During  prolonged  therapy,  toxicity  is  expected  and  can  be monitored  with  twice-weekly  measurement  of  serum  creatinine, blood urea nitrogen, potassium, magnesium, and hematocrit.
+The total duration of therapy is variable and depends on the clinical situation. With less toxic oral triazoles, amphotericin is often used as a 14-day induction, followed by conversion to an oral triazole.
+
+============================================================
+CHUNK 8
+============================================================
+TOXICITY
+With appropriate management, most patients can complete a course of  therapy  [2].  Infusion-related  toxicities  are  fever,  occasionally  in excess of 40°C,  rigors, headaches,  anorexia, nausea,  vomiting, dyspnea, and hypotension. Intravenous meperidine hydrochloride, in an  average  dose  of  45 mg,  can  terminate  rigors  and  chills  which develop during an infusion [3]. For patients with severe rigors, the meperidine may be given prophylactically.
+In  some series,  more than 80% of patients developed a significant alteration  of renal function with AMBD, with the serum creatinine level rising to 2.0 to 3.0 mg/dL. The creatinine will often plateau at this level and therapy can be continued. Renal toxicity is enhanced by  intravascular  volume depletion.  Infusion  of  500  to  1000 mL  of normal saline before each dose of amphotericin B can decrease nephrotoxicity. Lipid formulations should be considered in patients who develop progressive declines in renal function despite sodium supplementation. If a lipid product is not available, once the creatinine rises above 3.0 mg/dL, the AMBD may need to be temporarily withheld. The use of a double dose of amphotericin B on alternate days (usually not exceeding 70 mg) is as efficacious as daily therapy.
+In patients who receive a total dose of less than 4 g, renal insufficiency is  usually  reversible;  once  the  total  dose  exceeds  5 g,  there  will  be some degree of persistent renal insufficiency.
+A  decrease  in  hematocrit  of  10  units  can  be  expected  in  75%  of patients; one-third will have a reduction of ≥ 15 units. The hematocrit decreases early in therapy and then stabilizes. Thrombocytopenia and neutropenia are rare.
+Renal  potassium  wasting  is  common  and  oral  supplementation  is necessary in 25% of patients. Hypomagnesemia has also been noted.
+Allergic  reactions  are  absent  with  amphotericin  B,  and  a  rash  that appears during therapy can usually be attributed to another cause.
+
+============================================================
+CHUNK 9
+============================================================
+Pregnancy
+Amphotericin B has been used in pregnancy without evidence of teratogenesis or persistent toxicity in infants.
+
+============================================================
+CHUNK 10
+============================================================
+FLUCYTOSINE
+Flucytosine  (5-f1uorocytosine)  is  a  fluorinated  pyrimidine,  synthesized as an antitumor agent in 1957. The drug has a narrow spectrum of  activity  and  is  used  because  of  its  synergy  with  amphotericin  B against cryptococcus.
+
+============================================================
+CHUNK 11
+============================================================
+MECHANISM OF ACTION
+Flucytosine  is  deaminated  within  the  fungal  cell  to  5-fluorouracil, which is  incorporated  into  fungal  RNA  as  5-fluorouridine  triphosphate. This leads to faulty protein synthesis and growth inhibition.
+
+============================================================
+CHUNK 12
+============================================================
+SENSITIVE ORGANISMS
+Flucytosine is active against Cryptococcus neoformans, Candida albicans, other Candida species, and the agents of chromomycosis. When flucytosine is used alone, resistance develops during therapy in as many as two-thirds of isolates.
+
+============================================================
+CHUNK 13
+============================================================
+PHARMACOKINETICS
+Oral absorption and penetration of tissue by flucytosine is excellent, resulting  in  tissue  levels  that  are  equal  to  or  greater  than  those  in serum.  The  concentration  of  flucytosine  in  CSF  averages  75%  of serum levels. Excretion is primarily renal, with minimal metabolism. The half-life of flucytosine with normal renal function is 3 to 4 hours, but  even  minor  decreases  in  renal  function  leads  to  prolongation. Both peritoneal dialysis and hemodialysis remove the drug.
+
+============================================================
+CHUNK 14
+============================================================
+DOSAGE AND ADMINISTRATION
+The  standard  daily  dose  of  flucytosine  (Ancobon,  Valeant  North America) is 100 mg/kg/day divided into four doses. The dose must be adjusted for renal insufficiency. In order to avoid accumulation of toxic levels in serum ( > 100 μ g/mL), the following dosage adjustments are recommended: maintaining a normal dose of 25 mg/kg but prolonging the interval, with a 12-hour interval for creatinine clearance (CrCl) of 20 to 40 mL/min and a 24-hour interval for CrCl of 10 to 20 mL/min. For patients on hemodialysis, a dose of 25 mg/kg after each  dialysis  can  be  used.  Serum  levels  as  well  as  creatinine,  liver function, and  platelet  and white blood cell counts must  be monitored.
+
+============================================================
+CHUNK 15
+============================================================
+TOXICITY
+In  a  large  series,  18%  of  patients  experienced  gastrointestinal,  7% hepatic, and 18% hematologic complications. Gastrointestinal toxicity is usually not severe. However, severe colitis with multiple colonic perforations  has  been  reported.  Hepatitis  can  occur;  abnormalities usually resolve with discontinuation of the drug.
+Neutropenia is the most common hematologic adverse event; thrombocytopenia  can  also  occur.  Bone  marrow  toxicity  usually  resolves with  decreased  dosage  or  discontinuation  of  flucytosine;  however, fatal bone marrow suppression has been reported.
+Less  commonly  reported  adverse  events  are  maculopapular  rashes and eosinophilia. Flucytosine should be used with caution in women of childbearing age because of possible teratogenicity.
+
+============================================================
+CHUNK 16
+============================================================
+THERAPEUTIC INDICATIONS
+The  combination  of  amphotericin  B  and  f1ucytosine  as  induction therapy during the first 14 days is the treatment of choice for cryptococcal meningitis and disseminated disease. It improves cure rates and decreases relapses when compared with therapy with amphotericin B alone. The presence of amphotericin  B decreases the emergence of f1ucytosine  resistance  but  can  lead  to  an  increase  in  flucytosine toxicity.
+
+============================================================
+CHUNK 17
+============================================================
+TRIAZOLES
+One of the most significant advances in the treatment of the systemic mycoses have been the azoles: the first generation (fluconazole, itraconazole, and ketoconazole) and the second generation drugs (voriconazole, and posaconazole). Albaconazole, ravuconazole, and isavuconazole are investigational.
+All  triazoles  have  a  broad  spectrum  of  activity  against  systemic mycoses  including  dimorphic  fungi,  yeasts,  and  dermatophytes. Azoles are fungistatic. Although there are few direct comparisons with amphotericin B, they are efficacious, less toxic, and more convenient, especially  when  chronic  therapy  is  indicated.  In-vitro  sensitivity testing is available only at reference centers.
+
+============================================================
+CHUNK 18
+============================================================
+MECHANISM OF ACTION
+The triazoles are potent inhibitors of ergosterol synthesis, the major membrane  sterol  of fungi. They  block  the  cytochrome  P450dependent  enzyme  C-14  alpha-demethylase,  which  is  needed  to convert  lanosterol  to  ergosterol.  Many  drug  interactions  and  toxic effects are related to interaction with human enzymes that are dependent on cytochrome P450 [4] (Table 87-1). Itraconazole and posaconazole are more potent inhibitors of CYP3A4 than fluconazole and voriconazole. Fluconazole and voriconazole are also strong noncompetitive inhibitors of CYP2C19 and CYP2C9. Other drugs can induce production of the CYP450 enzymes, resulting in subtherapeutic azole levels and clinical failure.
+The triazoles are teratogenic and embryotoxic in animals and are not recommended during pregnancy or while nursing.
+The  azoles  are  commonly  used  for  subacute clinical  presentations, chronic  suppression,  and  meningitis  (especially  fluconazole),  with amphotericin B often reserved for the initial management of fulminant infections.
+
+============================================================
+CHUNK 19
+============================================================
+ITRACONAZOLE
+Itraconazole is the preferred agent for Histoplasma capsulatum, Blastomyces dermatitidis, Sporothrix schenckii , and Paracoccidioides brasiliensis [5]. It is supplied as 100-mg capsules, an intravenous formulation and an oral solution (Sporanox, Janssen). It is similar in many respects to ketoconazole:  highly  lipophilic,  protein  bound,  achieves  low  CSF levels, and undergoes extensive hepatic metabolism. Gastric acidity is required  for  optimal  absorption  of  the  capsules,  with  absorption increased two- to threefold when taken with food [6]. The oral solution does not require food or acidity for absorption.
+Because of the extended time to reach steady state (10 to 14 days), itraconazole  therapy  should  be  initiated  with  a  loading  dose.  For serious or life-threatening infections, a loading dose of 200 mg three times a day for 3 days is given. No adjustment of dose is required with  renal  insufficiency;  caution  should  be  used  in  patients  with hepatic impairment.
+The most common side effects of itraconazole and ketoconazole are nausea,  vomiting,  and  abdominal  pain,  that  can  be  decreased  by administration with a meal. Hepatitis has been noted with all three first-generation  triazoles,  and  is  rarely  fatal.  A  reversible  hepatitis occurs in about 1 in 800 patients on itraconazole, and asymptomatic elevation of transaminases occurs in < 3%.
+Itraconazole  has  negative  inotropic  effects.  Congestive  heart  failure and peripheral edema have been reported [7]. It should not be used in  patients  with  ventricular  dysfunction.  A  syndrome  of  severe hypokalemia, hypertension, adrenal insufficiency, and rhabdomyolysis  has  been  reported  in  patients  taking  itraconazole  at  doses  of 600 mg/day.
+
+============================================================
+CHUNK 20
+============================================================
+FLUCONAZOLE
+Fluconazole is the preferred agent for Coccidioides immitis , Cryptococcus neoformans , and oropharyngeal and esophageal Candida [8]. The drug is available as oral and intravenous preparations. It is water-soluble, has low protein binding, achieves high levels in the urine, and has excellent  CSF  penetration  (70-90%  of  peak  serum  concentration). These properties make fluconazole an excellent choice for treatment of urinary tract infections and meningitis. Because time to achieve a steady state is 6 to 10 days, a single loading dose of double the maintenance dose is given on the first day. Oral and intravenous doses are the same, because oral bioavailability is better than 90%. Unlike for other azoles, there is minimal hepatic metabolism, with 80% of the drug excreted unchanged in the urine. The dose of fluconazole should
+
+============================================================
+CHUNK 21
+============================================================
+FLUCONAZOLE
+Avoid concomitant use unless bene>ts exceed risks (signi>cant decrease in =uconazole levels): rifampin, TABLE 87-1 Drug Interactions With Triazoles.Itraconazole = Avoid concomitant use unless bene>ts exceed risks (signi>cant decrease in itraconazole levels): isoniazid, rifampin, phenobarbital, carbamazepine, phenytoin. Avoid concomitant use unless bene>ts exceed risks (signi>cant decrease in =uconazole levels): rifampin, TABLE 87-1 Drug Interactions With Triazoles.Voriconazole = Contraindicated (signi>cant decrease in voriconazole levels): rifampin, rifabutin, ritonavir (high dose), efavirenz, carbamazepine, phenobarbital. Avoid concomitant use unless bene>ts exceed risks (signi>cant decrease in =uconazole levels): rifampin, TABLE 87-1 Drug Interactions With Triazoles.Posaconazole = Avoid concomitant use unless bene>ts exceed risks (decreases posaconazole AUC by 39-49%): rifabutin, phenytoin, cimetidine. Contraindicated (=uconazole inhibits metabolism, risk of QT prolongation or ventricular arrhythmia): cisapride, pimozide, ergot alkaloids Generally avoid: quinidine Monitor closely: halofantrine, TABLE 87-1 Drug Interactions With Triazoles.Itraconazole = Contraindicated (itraconazole inhibits metabolism, risk of QT prolongation and ventricular arrhythmias): quinidine, cisapride, terfenadine, astemizole, pimozide, ergot alkaloids Monitor closely: halofantrine. Contraindicated (=uconazole inhibits metabolism, risk of QT prolongation or ventricular arrhythmia): cisapride, pimozide, ergot alkaloids Generally avoid: quinidine Monitor
+
+============================================================
+CHUNK 22
+============================================================
+FLUCONAZOLE
+closely: halofantrine, TABLE 87-1 Drug Interactions With Triazoles.Voriconazole = Contraindicated (voriconazole inhibits metabolism, risk of QT prolongation and ventricular arrhythmias): quinidine, halofantrine, terfenadine, astemizole, cisapride, pimozide,ergot alkaloids. Contraindicated (=uconazole inhibits metabolism, risk of QT prolongation or ventricular arrhythmia): cisapride, pimozide, ergot alkaloids Generally avoid: quinidine Monitor closely: halofantrine, TABLE 87-1 Drug Interactions With Triazoles.Posaconazole = Contraindicated (posaconazole inhibits metabolism, risk of QT prolongation and ventricular arrhythmias): quinidine, halofantrine, terfenadine, astemizole, cisapride, pimozide. ergot alkaloids. Fluconazole increases drug exposure, careful monitoring/ dose adjustment may be required: warfarin, sulfonylureas (glipizide, glyburide, tolbutamide), phenytoin, cyclosporine, TABLE 87-1 Drug Interactions With Triazoles.Itraconazole = Itraconazole increases drug exposure, careful monitoring/dose adjustment may be required: phenytoin, digoxin, warfarin, sulfonylureas (glipizide, glyburide, tolbutamide), digoxin, cyclosporine. Fluconazole increases drug exposure, careful monitoring/ dose adjustment may be required: warfarin, sulfonylureas (glipizide, glyburide, tolbutamide), phenytoin, cyclosporine, TABLE 87-1 Drug Interactions With Triazoles.Voriconazole = Voriconazole increases drug exposure, careful monitoring/dose adjustment required: warfarin, methadone, sulfonylureas (glipizide, glyburide, tolbutamide), lovastatin, simvastatin, felodipine, omeprazole,
+
+============================================================
+CHUNK 23
+============================================================
+FLUCONAZOLE
+midazolam, triazolam, vinca alkaloids, cyclosporine, tacrolimus Two-way interactions: phenytoin, oral contraceptives, protease inhibitors, nevirapine. Fluconazole increases drug exposure, careful monitoring/ dose adjustment may be required: warfarin, sulfonylureas (glipizide, glyburide, tolbutamide), phenytoin, cyclosporine, TABLE 87-1 Drug Interactions With Triazoles.Posaconazole = Posaconazole increases drug exposure, careful monitoring dose adjustment required: rifabutin,phenytoin, midazolam, cyclosporine, tacrolimus
+be decreased by 50% and 75% when the CrCl is less than 50 and 20 mL/min, respectively. For patients on hemodialysis, a full dose is given after each dialysis.
+
+============================================================
+CHUNK 24
+============================================================
+VORICONAZOLE
+Voriconazole is an advance for treatment of invasive Aspergillus infections  and Fusarium and Scedosporium  apiospermum [9].  The  drug  is structurally related to fluconazole and is available as an intravenous formulation,  as  tablets  (50  and  200 mg)  and  an  oral  suspension (40 mg/mL). The oral formulations have a 96% oral bioavailability. Voriconazole is extensively metabolized by cytochrome P450 enzymes, especially CYP2C19 and to a lesser extent by CYPC2C9 and CYP3A4. Large inter-patient variability in serum levels has been reported owing to  genetic  polymorphisms.  Low  levels  are  associated  with  clinical failure, while increased levels are associated with neurologic toxicity, including encephalopathy. Monitoring of trough drug levels is recommended after 1 week of therapy, with a target of > 1 to 5.5 mg/L [10].
+The most frequent adverse event has  been visual disturbances, occurring in 20-30% of patients. These usually start within 30 minutes of the dose, last about 30 minutes, and are described as increased brightness, blurred vision, altered color perception, and photopsia. Nausea and vomiting (6%), and diarrhea and headache can occur. Hallucinations, elevated  transaminases  (3%)  and  rare  hepatic  failure  have  been reported. Mild to moderate rashes (7%) and photosensitivity can be seen.
+The intravenous dose of voriconazole is a loading dose of 6 mg/kg every 12 hours for 24 hours, followed by a maintenance dose of 4 mg/ kg every 12 hours. The oral dose is 200 mg every 12 hours (1 hour before or after eating) for those weighing > 40 kg and 100 mg every 12  hours  for  those  who  weigh < 40 kg.  For  patients  with  a  CrCl < 50 mL/min, the intravenous formulation should be avoided, as the cyclodextrin used to solubilize the voriconazole will accumulate. With mild to moderate cirrhosis, patients can receive the normal loading dose, but the maintenance dose should be reduced by 50%.
+
+============================================================
+CHUNK 25
+============================================================
+POSACONAZOLE
+Posaconazole is a broad-spectrum azole and the first antifungal with significant activity against the agents of mucormycosis, chromoblastomycosis, phaeohyphomycosis, mycetoma, and Scedosporium apiospermum [1 1]. The drug is available only as an oral suspension (Noxafil, Schering). It must be administered with a full meal or a liquid nutritional supplement for absorption (bioavailability increases 2.5-4.0fold).  Posaconazole  is  metabolized  by  glucuronidation,  with  the majority of the drug excreted unchanged in the feces. There is no dose adjustment for renal or hepatic insufficiency.
+Posaconazole is well tolerated, with elevated liver function tests (3%), nausea (8%) and vomiting (6%), similar to fluconazole. The dose for invasive infections is 400 mg twice daily with a meal or nutritional supplement. If food or supplement is not tolerated, the dose should be  200 mg  four  times  daily  to  optimize  absorption.  Proton  pump inhibitors should be avoided.
+
+============================================================
+CHUNK 26
+============================================================
+ECHINOCANDINS
+Echinocandins inhibit fungal cell wall glucan by inhibiting beta-1,3 glucan  synthesis.  The  three  available  echinocandins,  caspofungin, micafungin  and  anidulafungin,  are  therapeutically  equivalent.  The drugs are available only as intravenous formulations; choices between them  are  based  upon  cost  or  drug  interactions.  The  major  use  of echinocandins  is  in  the  treatment  of  systemic  candidal  infections, especially the empiric treatment of candidemia prior to species identification. They are also used for empiric therapy in febrile neutropenia. The echinocandins are highly active against Aspergillus spp.
+
+============================================================
+CHUNK 27
+============================================================
+CASPOFUNGIN
+Caspofungin (Cancidas, Merck) is highly protein bound and slowly cleared from plasma by distribution into tissues [12]. Metabolism is by  slow  peptide  hydrolysis.  There  is  no  interaction  with  the  P450 system. Tacrolimus levels are decreased by 25%. The usual loading dose is 70 mg followed by 50 mg daily. No adjustment is needed with renal  insufficiency  or  dialysis.  With  moderate  hepatic  insufficiency, the maintenance dose is decreased to 35 mg daily. Efavirenz, nevirapine,  dexamethasone,  rifampin,  phenytoin  and  carbamazepine  all reduce serum levels by about 20%. When these drugs are used, a daily dose of 70 mg should be maintained. Caspofungin is well tolerated; reported  adverse  events  include  fever,  headache,  nausea,  vomiting, phlebitis and abnormal liver function tests. Histamine-related symptoms have been noted (rash, pruritus, facial flushing).
+
+============================================================
+CHUNK 28
+============================================================
+MICAFUNGIN
+Micafungin  (Mycamine,  Astellas)  is  metabolized  in  the  liver  and excreted in an inactive form in the bile and urine [13]. Drug interactions are limited as the drug is not metabolized by the P450 system. Sirolimus and nifedipine levels are increased by 20%. Micafungin is well tolerated, with a side-effect profile similar to that of caspofungin. The recommended dose is 50 mg/day for prophylaxis and 100 mg/ day when used for treatment. There is no dose adjustment for renal insufficiency or mild-moderate liver disease.
+
+============================================================
+CHUNK 29
+============================================================
+ANIDULAFUNGIN
+Anidulafungin (Eraxis, Pfizer) is biotransformed by biochemical degradation and excreted in the feces [14]. It is not metabolized, so there are few drug interactions, and there is no dose adjustment with renal or  hepatic  insufficiency.  Anidulafungin  is  well  tolerated,  with  only rare adverse events. The recommended dose for esophageal candidiasis  is  100 mg  loading  dose  followed  by  50 mg  daily.  For  invasive candidiasis, the loading dose is 200 mg followed by 100 mg daily.
+
+============================================================
+CHUNK 30
+============================================================
+REFERENCES
+1. Wong-Beringer A, Jacobs RA, Guglielmo BJ. Lipid formulations of amphotericin B: clinical efficacy and toxicities. Clin Infect Dis 1998;27:603-18.
+2. Bowler WA, Oldfield EC. New approaches to amphotericin B administration. Infections in Medicine 1992;9:17-23. Practical  review  of  how  to  administer  AMB,  including  management  of  infusionrelated toxicity, premedication and nephrotoxicity.
+3. Burke LC, Aisner J, Fortner CL, et al. Meperidine for the treatment of shaking chills and fever. Arch Intern Med 1980;140:483-4.
+4. Lomaestro  BM.  Azole  drug  interaction  update.  J  Invasive  Fungal  Infect 2007;1:122-32.
+5. [Anonymous]. Itraconazole. Med Lett Drugs Ther 1993;35:7-9.
+6. Chin TWF, Loeb M, Fong IW. Effects of an acidic beverage (Coca-Cola) on absorption  of  ketoconazole.  Antimicrob  Agents  Chemother  39:1671-5, 1995.
+7. Ahmad  SR,  Singer  SJ,  Leissa  BG.  Congestive  heart  failure  associated  with itraconazole. Lancet 2001;357:1766-7.
+8. Kowalsky SF, Dixon DM. Fluconazole: a new antifungal agent. Clin Pharm 1991;10:179-94.
+9. Johnson LB, Kauffman CA. Voriconazole: a new triazole antifungal agent. Clin Infect Dis 2003;36:630-7.
+10.  Pascual A, Calandra T, Bolay S, et al. Voriconazole therapeutic drug monitoring in patients with invasive mycoses improves efficacy and safety outcomes. Clin Infect Dis 2008;46:201-11.
+11.  Nagappan V, Deresinski S. Posaconazole: a broad spectrum triazole antifungal agent. Clin Infect Dis 2007;45:1610-17.
+12.  Deresinski SC, Stevens DA. Capofungin. Clin Infect Dis 2003;36:1445-57.
+
+============================================================
+CHUNK 31
+============================================================
+REFERENCES
+13.  Chandrasekar PH, Sobel JD. Micafungin: a new echinocandin. Clin Infect Dis 2006;42:1171-8.
+14.  Vazquez JA, Sobel JD. Anidulafungin: a novel echinocandin. Clin Infect Dis 2006;43:215-22.
+PART
+

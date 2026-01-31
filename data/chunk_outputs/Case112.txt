@@ -1,0 +1,430 @@
+============================================================
+CHUNK 0
+============================================================
+18
+
+============================================================
+CHUNK 1
+============================================================
+Key features
+- Disasters, either natural or man-made, disrupt the baseline functioning of a community, including food, water, sanitation and health. The resiliency of a community to recover from a disaster depends on existing economic and social structures. Poverty and inadequate economic and social systems are prevalent in tropical regions, making them extremely vulnerable to disasters
+- Complex emergencies are the result of the near-total breakdown of authority and extreme violence due to con'ict. Complex emergencies have increased dramatically in frequency since 1980 and are the leading cause of displaced populations
+- Displaced populations are at increased risk of increased morbidity and mortality. Other vulnerable groups in the population include women, children, the elderly, and anyone with a physical or mental disability
+- Leading causes of morbidity and mortality in displaced populations consistently include diarrhea, measles, malaria, acute respiratory infection and malnutrition
+Disasters can strike anywhere, anytime. When one occurs in a resourcepoor region already affected by economic or political strife, the extent of health needs and the challenges of providing effective relief can be greatly multiplied. This chapter will focus primarily on the most challenging and serious type of disaster, the complex emergency (CE), and one  of  its  main  consequences,  population  displacement,  which  is usually what causes the most morbidity and mortality after disasters. This chapter seeks to inform the medical care provider deploying to a relief effort, and to address many of the common myths regarding emergency  disaster  response  [1].  Focusing  on  the  CE  is  a  way  to explore the health impact of disasters in resource-poor settings and the fundamentals of emergency health response.
+A disaster is an event of environmental disruption or destruction of sudden  or  gradual  onset  that  is  severe  enough  to  overwhelm  the resources  of the  affected  community  and  necessitate  outside assistance [2] (Box 18.1). Disasters often cause sufficient harm to a community's economic and social structures that its ability to survive is seriously undermined. The many types of disasters that can occur are often  classified  by  etiology,  and  generally  as  natural  or  man-made disasters. Natural disasters include  climatologic  events such  as typhoons or floods and geologic incidents such as earthquakes and tsunamis. The meltdown of the nuclear power plant in Chernobyl,
+
+============================================================
+CHUNK 2
+============================================================
+Disasters, Complex Emergencies, and Population Displacement
+Trueman W Sharp, Charles W Beadling
+Ukraine, in 1986, and the accidental release of methyl isocyanate in Bhopal, India, in 1979, are classic examples of sudden-onset manmade disasters. Intentional man-made disasters can also include large acts of terrorism, such as bombings, and some would argue famines and wars [3,4].
+Even though the precipitating event of a disaster may be obvious and lend itself to simple classification, such as a typhoon or a hurricane, the consequences of even such natural disasters are usually the result of  a  complex  mix  of  local  circumstances,  including  the  type  and quality of building construction, local response capability, the specific location  of  the  local  population,  cultural  beliefs,  current  political systems, existing standards of medical care, and other factors. Natural disasters are often interwoven in the dynamic of conflict and complex emergencies. For example, the 1971 India-Pakistan war and subsequent refugee crisis was triggered by a cyclone. The disruption caused by this natural event greatly exacerbated already underlying social and political  unrest.  A  severe  drought  was  the  principal  catalyst  for  the civil war and humanitarian crisis in Somalia from 1991 to 1992 [5]. Thus,  while  the  term  'disaster'  may  invoke  connotations  of  the unpredictable forces of nature, the hand of man is found in almost all disasters. What is identified as the disaster, even when it is a natural event, is often better understood as a trigger event that exposes underlying societal problems. Virtually every famine since 1977 has been the  result  of  underdevelopment,  armed  conflict,  inadequate  economic and social systems, failed governments, and other man-made factors,  even  though  they  are  sometimes  believed  to  be  caused  by drought alone [6].
+
+============================================================
+CHUNK 3
+============================================================
+Disasters, Complex Emergencies, and Population Displacement
+Since the 1980s, there has been a dramatic increase in a type of disaster  often  termed  complex  emergencies  (CEs;  also  called  complex humanitarian  emergency  or  conflict-related  complex  emergency) (Fig.  18.1)  which  are  humanitarian  crises  in  a  country,  region  or society where there is a breakdown of authority resulting from internal or external conflict and which requires an international response that goes beyond the mandate or capacity of any single agency and/ or the ongoing United Nations (UN) country program [6,7]. These disasters  involve  an  intricate  interaction  of  political,  military,  economic and natural factors and have armed conflict as a central feature. CEs have been increasingly common since the end of the Cold War. Victims  are  usually  large  populations  or  specific  ethnic  or  cultural groups, and violence against these groups is almost always a critical factor. Other high-risk groups in CEs include the elderly, very young, anyone with a disability, and females, especially if they are pregnant or lactating. Somalia in 1992 is an example of a CE in which civil violence  was  the  most visible,  proximate  cause  of  the  disaster,  but years of underdevelopment, governmental failures, superpower intervention, ethnic conflict, drought, and famine all contributed substantially to the situation.
+One of the hallmarks of CEs is displaced people; indeed, CEs are by far  the  leading  cause  of  displaced  people  in  the  world  today.  CEs and  displaced  populations  have  been  all  too  common  in  the
+resource-poor regions. In 2009, there were an estimated 42 million refugees and displaced people, more than 80% of whom were in the developing world [8] (Box 18.2).
+
+============================================================
+CHUNK 4
+============================================================
+THE HEALTH EFFECTS OF COMPLEX EMERGENCIES
+Over the last two decades there has been an explosion in our understanding of the health effects of disasters and displaced populations and how to respond effectively to them. It is fair to say that disaster relief  overall  has  become  an  important  niche  of  medicine  with  a substantial  body  of  scientific  literature,  standards  of  care,  proven approaches, and ever more formal training programs [10]. While the reader is cautioned that all disasters are different, it is clear that most of the morbidity and mortality in disasters of all types results from population displacement. Displaced populations almost always have significantly higher morbidity and mortality than when they are in their baseline state.
+Consistently, in resource-poor environments, while the relative order of  importance  may  change,  the  five  leading  causes  of  death  in  the emergency  phase  of  a  crisis  involving  displaced  people  have  been remarkably similar. The main causes of serious morbidity and mortality  are  almost  invariably diarrheal illnesses, measles,  malaria, acute
+
+============================================================
+CHUNK 5
+============================================================
+BOX 18.1  DeCnitions
+Disaster -  an  event  of  environmental  disruption  or  destruction that is severe enough to overwhelm the resources of the aMected community  and  necessitates outside assistance.
+Natural disaster -  a  humanitarian crisis caused by either climatologic or geologic events.
+Man-made disaster (also called Technological) - a humanitarian crisis caused by either accidental (e.g. nuclear, chemical release) or intentional (e.g. terrorism, war) factors.
+Complex  emergency (also  complex  humanitarian  emergency) - a humanitarian crisis in a country, region or society where  there  is  a  breakdown  of  authority  resulting  from internal or external conOict, usually characterized by extreme violence,  and  requires  an  international  response that  goes beyond the mandate of a single agency or the existing United Nations country program.
+FIGURE 18.1 Complex emergencies. From  United Nations High Commissioner for Refugees.  2009 Global Trends: Refugees, Asylum-seekers, Returnees, Internally Displaced and Stateless Persons.  Geneva, Switzerland; c 2010; cited 2010 July 4. Available from:  http://www. unhcr.org/4c11f0be9.html Centre for Research on the Epidemiology of Disasters (CRED), Universite Catholique de Louvain.  Complex Emergency Database.  Brussels, Belgium: c2010; cited 2010 December 3.  Available from:  http://www.cedat.be.
+
+============================================================
+CHUNK 6
+============================================================
+BOX 18.1  DeCnitions
+respiratory infections and malnutrition [1 1] (Fig. 18.2). One of the most important principles for the health responder to keep in mind, though, is that while there are certainly common diseases, every disaster has a unique epidemiology and must be dealt with somewhat differently [12]. Whereas an earthquake often causes many immediate trauma deaths and usually does not result in food shortages, a flood typically causes few immediate deaths and disrupts food production and distribution  networks.  An  earthquake  in  Haiti  has  a  markedly different impact than an earthquake in southern California, because the extent of the development, the local building codes, population density, and local response capabilities are very different. One refugee population may be devastated by measles, while in another, in which vaccination coverage has been high, diarrhea may be the most important cause of morbidity and mortality. In the CEs of the 1970s, which were  mainly  in  sub-Saharan  Africa  and  Southeast  Asia,  infectious diseases in displaced populations were the predominant issue. This led  to  the  recognition  of  the  importance  of  interventions  such  as measles  vaccine  programs  and  diarrheal  disease  control  programs [13]. In some of the CEs of the 1990s, in places such as the former
+
+============================================================
+CHUNK 7
+============================================================
+BOX 18.2  Refugees and Internally Displaced People
+A refugee is a person outside of his or her country of nationality who is unable or unwilling to return because of persecution or a well-founded fear of persecution on account of race, religion, nationality, membership in a particular social group, or political opinions.
+An internally displaced person (IDP) is a person who has been forced or obliged to Oee or to leave their homes or places of habitual residence, in particular as a result of or in order to avoid the eMects of armed conOict, situations of generalized violence, violations of human rights or natural or human-made disasters, and who has not crossed an internationally recognized State border.
+Comment: Both refugees and IDPs have similar health needs; however, they have very diMerent status and rights under international law. This distinction may seem artiNcial but can have major consequences with respect to their rights, protections, and access to relief. The region with the largest IDP population is Africa with some 11.8 million IDPs in 21 countries [9].
+FIGURE 18.2 Leading causes of death in emergency phase of displaced people crisis in Sudan, 1985 (left) and Malawi, 1990 (right). Adapted with permission from Toole MJ. Communicable diseases and disease control. In: Noji EK, ed. The Public Health Consequences of Disasters. New York: Oxford University Press; 1997:80-100.
+FIGURE  18.3 Hypothetical  timeline  of  disaster  response. Adapted  with permission from Burkholder BT, Toole MJ. Evolution of complex disasters. Lancet 1995;346:1012-15.
+Yugoslavia, trauma and chronic health conditions were more important  causes of  morbidity and  mortality, requiring  different  types  of interventions [14].
+Furthermore, it is important to consider that within any given disaster, relief  needs  can  evolve  considerably  over  time.  Some  authors  have described  the phases of  natural disasters, such as an impact phase, post-impact phase, and recovery phase, to discuss the importance of understanding how relief needs change markedly over time [15]. In the impact phase after earthquakes, for example, there may be an urgent need for trauma services in the first few days but then health needs shift to other conditions. Thus, deploying trauma hospitals that will arrive 4 or 5 days after the earthquake can be fruitless and wasteful.
+
+============================================================
+CHUNK 8
+============================================================
+BOX 18.2  Refugees and Internally Displaced People
+It can sometimes be difficult to delineate clear phases of a CE. Because these disasters are usually the result of many years of complicated and deeply  rooted  problems,  events  may  not  unfold  in  a  clear,  linear fashion. Nevertheless, relief needs in complex emergencies can change substantially  over  time  as  well.  For  example,  health  needs  for  displaced people who have just arrived in a location - usually shelter, food, water, and basic medical care - will be quite different from what this population needs a few months after a camp has been established and matured. Dealing with infectious diseases such as leishmaniasis or  tuberculosis  often  becomes  much  more  important,  and  health needs such as family planning and medical care for chronic conditions and rehabilitation becomes more important (Fig. 18.3).
+A critical concept for healthcare providers is that within a particular disaster, certain subpopulations may be more vulnerable, have fewer biological or social reserves to fall back on, and have less access to help  (Box 18.3).  Women  and  children, particularly  small children, typically experience substantially increased morbidity and mortality. In  Rwanda  in  1999,  for  example,  it  was  shown  that  refugee-camp children living in households headed by single women had a significantly higher risk of malnutrition because they had less access to food and  other  relief  services  [16].  Certain  ethnic,  religious,  or  cultural groups  may  be  especially  vulnerable.  In  Somalia,  certain  unarmed
+
+============================================================
+CHUNK 9
+============================================================
+BOX 18.3  Displaced and Vulnerable Populations
+Displaced  populations in  general  are  at  increased  risk  of disease and injury due to degradation of sanitation and limited safe  water,  food,  shelter  and  security.  This  is  evidenced  by  a consistent, marked increase in crude mortality rates. However, some  subgroups  of  the  displaced  population  are  at  greater increased risks and considered especially vulnerable.
+Vulnerable  populations include,  but are not limited to, women, especially pregnant or breastfeeding mothers, young children, the elderly, and anyone with a physical or mental disability. However, in some circumstances, certain ethnic groups and even young healthy males can be vulnerable as well.
+agriculturally based clans who were not participants in the fighting were particularly devastated by the civil conflict and had extremely limited access to emergency relief services. Even adults and adolescents, who are the most capable segments of the population, require special attention in some circumstances.
+
+============================================================
+CHUNK 10
+============================================================
+THE HEALTH RESPONSE
+Effectively addressing the health needs of a disaster-affected population  requires  gathering  and  monitoring  appropriate  information about  the  situation  and  the  population,  identifying  vulnerable populations, providing appropriate clinical and nutritional services, and addressing the major public health issues. This must be done in the  context  of  what  is  often  a  complex  response  network,  and sometimes  major  political  and  security  challenges.  The  rest  of  the chapter  addresses the fundamental emergency health-related  measures  that  should  be  pursued  in  the  emergency  phase  of  a  disaster (Fig. 18.4).
+
+============================================================
+CHUNK 11
+============================================================
+Rapidly Assess the Health Status of the ADected Population and Establish a Health Information System
+Effective  relief  depends  on  characterizing  the  situation  with  timely and sound clinical and public health data. Rapid assessment is essential as the first step in an emergency response to identify urgent needs and  relief  priorities  for  that  particular  situation  (Box  18.4).  The importance of rapid assessments has been increasingly  recognized,
+Pyramid of health needs in disasters
+FIGURE 18.4 Pyramid of population needs in disasters.
+
+============================================================
+CHUNK 12
+============================================================
+BOX 18.4  Tips for Rapid Assessment
+It is imperative to base emergency relief eMorts on a rapid assessment of the true situation and needs. Many relief eMorts have gone awry because of a mismatch between real relief priorities and relief eMorts based on presumed needs. The assessment ideally is done as soon as possible after the disaster and must balance the need for immediate information to guide relief activities with a certain degree  of  epidemiological  rigor  in  collecting  the  data.  Over  the past  decades,  the  methodology  of  rapid  assessment  has  developed considerably. Rapid health assessments can be quite sophisticated  or  'quick  and  dirty' .  While  many  general  templates  and checklists are available, they must be adapted to the speciNc circumstances of the disaster and the organization conducting the assessment. Rapid assessments should always be followed by additional assessments and surveys or by establishment of surveillance and  an  ongoing  health  information  system.  The  following  is  a sample outline of critical information that would be collected in a rapid health assessment after a sudden population displacement.
+
+============================================================
+CHUNK 13
+============================================================
+Key Characteristics of ADected Population Population demographics
+Population size
+Percent male and female
+Percent less than age 5
+Nature and size of high-risk subgroups
+Average  household  or  family  size  and  degree  of  intact family structures
+Social and religious organization
+
+============================================================
+CHUNK 14
+============================================================
+Background health information
+Predominant health problems before displacement
+Normal  crude  mortality  rates  and  other  baseline  health indicators
+Immunization status
+Usual sources and availability of healthcare Health beliefs and traditions and the science of conducting these assessments has developed considerably. It is now widely appreciated that in the absence of sound early assessments, relief efforts can easily be misguided and inappropriate  no  matter  how  well  intentioned.  After  initial  assessments, targeted surveys and specific investigations can be of great value in answering more focused questions, such as immunization coverage or the extent of malnutrition in a high-risk group. Then, standardized surveillance and health information systems need to be established (or re-established) after disasters to continually assess and monitor the needs of the affected population. Relief efforts should be modified accordingly as critical data become available. In the absence of mechanisms to constantly re-evaluate the health of the target population, priorities may become skewed and resources may be inappropriately directed  or  even  wasted.  The  ongoing  monitoring  of  important diseases and the use of this information is critical in designing and running effective relief efforts. There are innumerable examples in the disaster medicine literature of how early information collection and subsequent  surveillance  has  been  critical  for  successful  disaster response and how failure to collect this information has at times even exacerbated the situation [17,18].
+
+============================================================
+CHUNK 15
+============================================================
+Immunize Against Measles and Provide Vitamin A
+Measles in children has been shown repeatedly to be a major, and often the most important, cause of death in refugees and displaced people [19,20]. Measles outbreaks can be explosive after disasters and have
+Normal sanitary and excreta practices Burial practices
+
+============================================================
+CHUNK 16
+============================================================
+Availability of medical care and supplies
+Existing hospitals and clinics
+Availability of medical equipment and supplies
+Number and type of indigenous healthcare providers and community health workers
+
+============================================================
+CHUNK 17
+============================================================
+Nutrition and food
+Normal food types, diet, and sources Current availability and types of food Evidence of food shortages and malnutrition
+Availability of basic cooking supplies, utensils, and fuel
+
+============================================================
+CHUNK 18
+============================================================
+Emergency health indicators
+Overall crude mortality rate Age, sex, and cause-speciNc mortality rates Numbers, rates, and causes of morbidity
+
+============================================================
+CHUNK 19
+============================================================
+Water and sanitation
+Water sources, availability, and quality
+Availability of water transport capabilities
+Sanitation situation - availability of water treatment, soap, latrines
+Presence of disease-carrying and nuisance vectors
+
+============================================================
+CHUNK 20
+============================================================
+Material possessions and reserves
+Availability of blankets, shelter, building materials
+Availability of necessary clothing
+Presence of livestock and domestic animals
+Availability of transportation
+Money and other reserves
+
+============================================================
+CHUNK 21
+============================================================
+Physical location and security
+Current and potential locations of population(s) Topography, drainage, and access (roads, airNelds) Current and anticipated climate and weather Security situation and threats
+caused thousands of deaths in just a few weeks. Studies among refugees show that large measles outbreaks can occur even if vaccine coverage rates exceed 80%. Therefore, measles immunization campaigns must be given the highest priority. They should not be delayed until measles cases are reported or until other vaccines become available. Measles deaths occur primarily in young children, but children as old as 14 to 15 years have been affected. The most common nutritional deficiency  in  refugee  and  displaced  populations  is  lack  of  vitamin  A.
+
+============================================================
+CHUNK 22
+============================================================
+BOX 18.5  Top Ten Emergency Relief Measures
+The following are ten priority emergency relief measures:
+1. Rapid assessment of the emergency situation and the aMected population
+- Magnitude of the emergency
+- Environmental conditions
+- Major health and nutritional needs of the population
+- Local response capacity
+2. Provide adequate shelter and clothing
+- Exposure  to  elements  can  lead  directly  to  death  and increase caloric requirements
+3. Provide adequate food
+- Minimum of 2000 kcal/person/day
+- Must consider mechanism for equitable distribution
+- Targeted supplemental and therapeutic feeding programs for vulnerable and severely malnourished individuals when resources are available
+4. Provide elementary sanitation and clean water
+- Absolute minimum requirement 3 to 5 liters/person/day of reasonably clean water
+- Goal per Sphere standards are 15 liters/person/day
+5. Institute communicable disease control programs
+- Community outreach for case prevention
+- Appropriate  case  management  of  severe  diarrhea  and dehydration
+- Improve sanitation and water source
+
+============================================================
+CHUNK 23
+============================================================
+Dehydration
+Often exacerbated by acute diarrhea, dehydration is a contributing factor  to  morbidity  and  mortality,  especially  in  young  children. Treatment is primarily by oral rehydration using Oral Rehydration Solution (ORS) (see Box 18.7).
+
+============================================================
+CHUNK 24
+============================================================
+Measles
+Institute a vaccination program immediately, before cases present - target 6-23-month-old children for single dose, 0.5 mL of vaccine.
+Supplement diet with vitamin A capsules, 100,000 IU or 200,000 IU.
+6-11 months old
+100,000 IU at vaccination
+12-59 months old
+200,000 IU at vaccination
+and every 6 months
+Postpartum mothers
+200,000 IU within 45 days
+of delivery to increase
+Vitamin A in breast milk
+Note: Vitamin A should not be given to pregnant women or women of reproductive age due to risk of teratogenicity to the fetus.
+Deficiency of this vitamin has been shown to be an important cause of mortality particularly in measles cases but also in mortality from all causes. Vitamin A supplementation is cheap and easy. Thus, mass administration of vitamin A at the same time as measles vaccination can be an important adjunct intervention to reduce the consequences of measles infection, particularly in malnourished populations (Boxes 18.5 & 18.6). In selected situations, vaccination against diphtheria, pertussis, tetanus, polio, tuberculosis, meningococcal meningitis, or
+6. Immunize against measles and provide vitamin A supplements
+- High priority in any displaced populations living in crowded conditions
+- Vitamin A deNciency is common in malnourished populations and contributes signiNcantly to measles case fatality
+7. Establish primary care medical treatment
+- Develop  appropriate  treatment  algorithms  for  prevalent diseases  based  on  treatment  standards  among  the  local population and use standard supplies
+8. Establish disease surveillance and a health information system
+- Necessary to monitor eMectiveness of health interventions and realign priorities
+9. Organize human resources
+- Disaster victims are not helpless; most want to help themselves but need means
+- Identify  leaders  to  organize  food  and  water  distribution and sanitation programs
+- Identify community  health workers with pre-disaster experience
+- Identify interpreters
+- Identify surrogate families for unaccompanied minors
+10.  Coordinate activities
+- Local authorities, international relief organizations, governmental agencies, military
+
+============================================================
+CHUNK 25
+============================================================
+Malnutrition
+Kwashiorkor: severe protein insuPciency; edema of hands, feet and round 'moon face'
+Marasmus:  total  caloric  insuPciency;  gross  muscle  loss  and wasting with 'skin and bone' appearance
+Moderate:  minus  2-3  standard  deviations  ( -2 -3  Z-score),  or 70-80% below median weight-for-height in population
+Severe: minus > 3 standard deviations ( <-3 Z-score), or < 70% weight-for-height  in  the  population,  or  edema;  kwashiorkor malnutrition is always severe
+Supplemental feeding program: to correct moderate malnutrition  -  weekly  supplemental  food  distribution  (preferred), 1000-1200 kcal/day, or daily on-site feeding, 500-700 kcal/day Therapeutic feeding program: inpatient nutritional and medical  care  to  correct  severe  malnutrition  and  concurrent illness - only milk-based supplements acutely, 70 kcal/100 mL, 10-12/day
+cholera may be appropriate. But rarely, if ever, will these interventions be as important as immunization against measles. These other immunizations usually become considerations after the emergency phase has passed.
+
+============================================================
+CHUNK 26
+============================================================
+Institute Diarrhea Control Programs
+Diarrheal diseases are often a principal cause of morbidity and mortality in complex emergencies [21]. Common pathogens such as rotavirus and E. coli are often important causes of diarrhea outbreaks, but Vibrio cholera and drug-resistant Shigella spp. have also caused devastating outbreaks. Prevention of all types of diarrhea involves providing  good  sanitation,  clean  water,  and  adequate  personal  hygiene. Simple emergency measures to prevent diarrhea include organizing chlorination brigades, isolating defecation fields, and providing soap. Simple  measures  such  as  providing  soap  are  inexpensive  and  can substantially reduce person-to-person disease transmission. In some situations, though, and particularly in the emergency phases of a relief effort, preventive measures may not be feasible or effective. The critical intervention in coping with diarrheal disease then becomes preventing mortality through effective case management. Sound case management of diarrheal disease, even in cholera epidemics, can reduce case  fatality  rates  to  less  than  1%.  Effective  case  management  of diarrhea is based primarily on providing fluid replacement through aggressive  oral  rehydration  therapy  (Box  18.7).  Intravenous  fluid replacement  and  antibiotics  are  used  selectively  and  according  to protocols relevant to the situation. While these concepts are easy to understand, experience has shown that effective diarrhea treatment programs require substantial organization and numerous personnel with experience and training. In northern Iraq in 1991, for example, the abundance of rehydration salts and enthusiastic medical providers was not enough in the absence of effectively run rehydration centers [22]. An important component of diarrhea control programs is developing community outreach programs to seek out cases that may not present to treatment facilities. Education of the community, particularly mothers, on the use of oral rehydration therapy, the importance of continuing breastfeeding, and the importance of personal hygiene is also a priority. Active case finding, surveillance, and outbreak investigation are essential in determining the causes of the outbreak. Care providers must appreciate that the approach to diarrhea management in a CE is different from the approach that would be followed in the developed world.
+
+============================================================
+CHUNK 27
+============================================================
+Provide Elementary Sanitation and Clean Water
+Many of the diseases that occur in disasters, particularly in the setting of a CE, are to a great extent the consequence of poor environmental conditions [23]. Water is often in short supply and of poor quality. There are limited means to dispose of waste. Vectors of communicable diseases may be prevalent. The means for basic personal hygiene may be lacking. Addressing these environmental health issues, particularly providing potable water, usually is a very high priority. Water needs are frequently underestimated. Only 3 to 5 liters of potable water per day must be consumed for short-term survival, but adults need at least 15 to 20 liters per day for cooking, cleaning, medical care, and, sometimes, important ritual purposes. In some situations, such as when people are active in a hot environment, water needs are even greater. Medical facilities require much more water, usually at least 100 liters per patient per day. Environmental issues are often very difficult to resolve  because  they  require  considerable  resources  and  technical expertise. Providing potable water to a group of refugees, for example, may require experienced engineers who can locate the best sources of water, whether from the ground, the surface, or a spring. Expertise, such  as  how  to  construct  a  proper  well  and  select  the  appropriate pump, is needed to access the source. The characteristics of a water distribution system are important because they can greatly influence the way water is accessed and therefore used; if people have a difficult time obtaining water, they will use it sparingly. Assessing and maintaining water quality is a critical aspect of a water program. Local water may be a limited resource and local political considerations may be critical  in  its  access  and  use.  Cultural  considerations  can  also  be important  factors  in  how  water  is  accessed  and  used  by  the  local population.  The  technical  skills  and  other  considerations  in  waste disposal, vector control, and personal hygiene can be equally complex. Some relief organizations attempt to focus on environmental health issues but most do not. The technical challenges and lack of donor appeal of environmental issues remain major problems.
+
+============================================================
+CHUNK 28
+============================================================
+Provide Adequate Shelter, Clothes and Blankets
+Shelter is a basic human need. The provision of the basic means to be protected from the elements - sun, rain and cold - is a high priority. In populations with nutritional deficits, substantial energy can be expended simply in trying to keep warm. Consequently, some have argued  that,  in  certain  situations,  distributing  shelter,  clothes  and blankets may be more effective in preventing morbidity and mortality than is distributing food. As with environmental interventions, there is a substantial body of knowledge that deals with the technical considerations of emergency housing [24]. The selection of the specific sites for shelter, the layout of camps, and the type of materials used in construction are all important issues. Camps constructed in poor locations and with inadequate design can accelerate communicable disease transmission. Other factors to consider are the local availability of materials, the economic level of development of the population, the  social  habits,  the  local  customs,  and  the  political  context.  The decision  to  provide  shelter  can  have  significant  long-term  consequences. Simple shelters provided on an emergency basis may unintentionally evolve into a permanent camp and end up attracting more refugees to the site. Many of these issues may become a fait accompli before reasoned decisions can be made by relief officials. Refugees are often forced by circumstances into poor locations that would never have been chosen by relief workers who had been given the opportunity to make decisions based on health and safety.
+
+============================================================
+CHUNK 29
+============================================================
+Ensure Food Supplies are Adequate and Reach Intended Recipients
+One of the hallmarks of complex emergencies is a shortage of food. Thus, providing at least 2000 kcal per day per person is an essential priority in emergency situations [25]. While it is often uncertain how many people actually die of starvation during complex emergencies, acute malnutrition has been shown to be a critical underlying cause of much morbidity and mortality [26]. There are many ways of providing emergency food relief. General food rations can be distributed widely  to  the  population,  perhaps  in  exchange  for  work  or  school attendance.  General  food  rations  consist  of  nutritionally  balanced basic commodities that are appropriate to the situation and culture. Selective  or  supplemental  feeding  programs  target  food  for  certain high-risk people, such as malnourished children, tuberculosis patients, or lactating mothers. This food may be distributed as rations to take home or can be provided at feeding centers, such as 'soup kitchens' . Therapeutic or rehabilitative feeding can be provided for significantly malnourished people as a medical intervention and is usually given on  an  inpatient  basis  through  assisted  eating,  nasogastric  tube,  or intravenous line. The mechanics of managing food distribution and feeding programs are often complex. For example, an intensive rehabilitative  program  for  severely  malnourished  children  must  have mechanisms to identify patients in the affected population. To some extent, patients may be self-referred, but often they must be proactively  sought  through  clinic  referrals  and  community  outreach workers.  Protocols  and  procedures  must  be  developed  to  screen patients and determine who is eligible. Refeeding is labor-intensive and  requires  care  providers  with  training  and  experience.  Patients typically  have  other  aggravating  illnesses  and  infections,  such  as malaria, that  can  complicate refeeding efforts. After discharge, follow-up programs must exist to prevent relapse. Sometimes family interventions are needed to counteract the social context that was a factor in the malnutrition. For example, in some cultures one child may be singled out to be deprived so that the other children may survive. The management of other food distribution programs can be
+
+============================================================
+CHUNK 30
+============================================================
+Vitamin A DeCciency
+This is common in emergency aMected areas. Vitamin A deNciency leads to blindness, lowered immunity, and increased morbidity and mortality, especially from diarrhea and measles. Vitamin A is a fat-soluble vitamin and supplementation can be dietary or capsule dosing. Target populations are children 6-59 months and lactating mothers.
+Dietary sources: breast milk, whole milk, Nsh, meat, eggs, orange and yellow fruits and vegetables, green leafy vegetables.
+Capsules: Vitamin A capsules are available from UNICEF in either 100,000 IU or 200,000 IU. Capsules are not swallowed. Administration is by cutting the nipple oM one end of the capsule and squeezing drops into patient's mouth. Assistant should wash hands afterward.
+
+============================================================
+CHUNK 31
+============================================================
+Deworming
+Intestinal parasite infection is a common problem in emergency aMected areas due to inadequate sanitation and hygiene.
+What:
+Ascaris lumbricoides (roundworm)
+Ancylostoma duodenale and Necator americanus (hookworms)
+Trichuris trichiura (whipworm)
+Why:
+Improves nutritional status, immune response, growth and learning, as well as improved trust in community health workers
+Decreases vitamin A deNciency and childhood morbidity and mortality.
+Who:
+Target population is children 1-5 years old
+How:
+Drug
+1-2 years old
+2-5 years old
+Albendazole, 400 mg tablet
+1 2 tablet
+1 tablet
+Single dose
+Mebendazole, 500 mg tablet
+1 2 tablet
+1 tablet
+Single dose
+
+============================================================
+CHUNK 32
+============================================================
+Oral Rehydration Salts (ORS)
+Oral rehydration therapy (ORT) with ORS is the primary means of treating dehydration due to diarrhea. ORS is a balanced mixture of electrolyte  salts  and  glucose  recommended by the WHO and UNICEF. It is available as a pharmaceutical product, ORS sachets, containing sodium chloride, potassium chloride, trisodium citrate and glucose. Homemade ORS solutions can be used if prepared products are not available, or to begin treatment by parents or caregivers at the onset of diarrhea.
+ORS sachets Homemade ORS
+One sachet per liter of safe drinking water
+1 2 teaspoon salt + 6 teaspoons sugar per liter of safe drinking water
+
+============================================================
+CHUNK 33
+============================================================
+Administration:
+< 2 years old
+50-100 mL at a time, up to 1 2 liter per day
+2-9 years old
+100-200 mL at a time, up to 1 liter per day
+≥ 10 years old
+As tolerated, up to 2 liters per day
+
+============================================================
+CHUNK 34
+============================================================
+Supplemental references:
+- WHO position paper on oral rehydration salts to reduce mortality from cholera, www.who.int/cholera/technical/en
+- First steps  for managing an outbreak of acute diarrhea, www.searo.who.int/en/Section 1257/Section2263/info-kit/WHO-Managing_ Diarrhea_outbreak.pdf
+- WHO/UNICEF Joint Statement clinical management of acute diarrhea, www.whqlibdoc.who.int/hq/2004/WHO_FCH_CAH_04.7.pdf
+- Oral rehydration salts production of the new ORS, www.whqlibdoc.who.int/hq/2006/WHO_FCH_CAH_06.1.pdf
+complicated also and requires technical skills and experience. Food programs have not always been successful, due in part to formidable problems  of  logistics,  security,  and  distribution.  Food  aid  can  be highly  politicized  and  food  relief  misused.  Food  supplies  must  be nutritionally balanced and culturally appropriate, and there has been much debate about the appropriate number of calories and the best content of food rations. Remarkably, micronutrient deficiencies have occurred in populations relying on donated food [27]. The causes of food shortages are complex and may involve disruption of harvests, collapse  of  markets,  lack  of  distribution  systems,  manipulation  of food supplies by warring factions, and many other factors. Thus, an emergency feeding  campaign  must not  only provide food urgently and effectively,  but  also  begin  to address the  root problems of the crisis. Supplying seeds and agricultural implements may, in the long run,  be  as  important  as  supplying  emergency  food.  There  are  a number of agencies that specialize in managing the 'food pipeline' to emergency situations: the procurement, processing, shipping, and storing of bulk food. The World Food Program is the principal international agency. In  the US,  some  of the  principal agencies include
+Care, Catholic Relief Services, World Vision, and Feed the Children. On the scene of an emergency, other agencies, such as the ICRC and private  volunteer  organizations,  often  assume  responsibility  for actually distributing food and for administering feeding programs.
+
+============================================================
+CHUNK 35
+============================================================
+Establish Appropriate Curative Services
+Probably most importantly for direct care providers, establishing curative  medical  services  that  follow  standard  treatment  protocols,  are based on essential drug lists, and provide basic coverage to the community as a whole are a high priority in CEs. Providing acute medical care is one of the most visible and understandable aspects of a relief operation,  and  experience  has  shown  that  many  external  medical providers are willing to volunteer in an emergency. One of the hallmarks  of  emergency  relief  is  the  dispatch  of  medical  teams  from developed countries to treat sick victims. However, what medical care is  actually  needed  should  be  carefully  considered  before  providing curative services; noble intentions may not necessarily translate into effective patient management. As indicated above, much of effective
+relief has to do with public health programs. With regard to clinical care,  substantial  experience  shows  that  medical  care  in  emergency situations should be based on simple standardized protocols. There are basic, easily adaptable, field-tested  protocols  for  managing diarrheal  disease,  respiratory  infection,  febrile  illness,  and  other common problems [28]. Underlying these basic protocols are basic essential  drug  and  supply  lists  [29].  Using  standard  protocols  and basic supplies assures that the care provided will be appropriate and allows  the  most  efficient  use  of  limited  resources.  Following  basic protocols enables physician assistants, nurses, and community health workers  to  provide  effective  medical  care  without  time-consuming and unnecessary technical interventions. This allows care to be delivered that is appropriate for the population and the same level of care to be sustained after outside relief workers depart. The management of relief supplies has been a very difficult problem in many disaster efforts; using essential drug and supply lists helps assure that logistic resources  are  devoted  to  needed  items.  Medical  providers  must  be prepared to treat the conditions they will face. Volunteer  providers from sophisticated hospitals in developed nations may not be well trained in dealing with the common problems of displaced persons or in using basic protocols and techniques appropriate to the situation. They may be called on to use drugs and techniques that are no longer used in their countries. In many emergencies, field hospitals or specialty teams have been deployed when basic primary care that reaches a large number of the population was what was needed.
+
+============================================================
+CHUNK 36
+============================================================
+Organize Human Resources and Utilize Local Assets
+Local  preparedness  and  utilizing  indigenous  community  health workers are essential in assuring that medical care in an emergency is truly community-based and oriented toward primary care [30]. While it is easy to focus on imported clinics and hospitals, community health workers are also the means by which health services actually reach much of the affected population. An effort should be made to ensure there is one community health worker for every 1000 individuals in the target population. Relief will only be effective if it is based on the needs and idiosyncrasies of the local cultures. Outside relief personnel may know little about local food preferences, sanitary mores, social customs, indigenous medical practices, and other such issues. A food program,  for  example,  that  provides  culturally  inappropriate  commodities  will  not  succeed.  Community  health  workers  will  have insights into these matters that can profoundly affect the delivery of health services. The access that community health workers have to the community can be critical. They are essential in communicating with local leaders, who play a central role in the success or failure of relief programs. If local leaders do not support an urgent measles vaccination program, for example, few people will participate. There can be many barriers to seeking medical care in an emergency, some practical and some cultural. Community health workers are often able to locate those  in  need.  In  northern  Iraq,  severely  malnourished  and  dehydrated children were sometimes kept in a dark corner of their shelter and were not brought into the clinic unless the community health worker actively sought them out [22]. Those from outside the affected population who are providing relief may tend to see aid recipients as helpless victims, but disaster-affected populations  have a wealth of human resources. In fact, those affected by disasters are usually very anxious to help themselves and typically only lack the means. Community health workers are the key to mobilizing indigenous resources into  relief  efforts.  In  addition,  utilizing  community  health  workers and local health resources facilitates the often difficult transition from the emergency to long-term sustainable recovery [31].
+
+============================================================
+CHUNK 37
+============================================================
+Coordinate Activities of Local Authorities and Relief Agencies
+A hallmark of a complex emergency is the complex response. In some respects, the response is every bit as complex as the disaster. A plethora of  agencies  and  organizations  -  governmental  and  private,  civilian and  military,  indigenous  and  external  -  become  involved  [32,33]. Relief workers must understand the other participants in the response
+
+============================================================
+CHUNK 38
+============================================================
+BOX 18.8  Additional Help for the Practitioner who is Deploying to an Emergency Relief EDort
+One of the best resources for  the health professional leaving imminently to help in a disaster response is the SPHERE handbook .  SPHERE is an initiative launched in 1997 by a group of humanitarian  non-governmental  organizations  and  the  Red Cross and Red Crescent movement to bring consensus to critical  areas  of  emergency  health  response.  The  participants framed a Humanitarian Charter and identiNed Minimum Standards  to  be  attained  in  disaster  assistance  in  each  of  Nve  key sectors: water supply and sanitation, nutrition, food aid, shelter and health services. This  resource provides practical information and guidance for the health practitioner in the Neld [24].
+Another  is ReliefWeb .  ReliefWeb  is  an  excellent  source  for timely,  reliable  and  relevant  humanitarian  information  and analysis.  ReliefWeb  was  launched  in  October  1996,  and  is administered by the United Nations OPce for the Coordination of Humanitarian AMairs (OCHA). The project was initiated by the US Department of State, Bureau of International Organization AMairs, which had noticed during the Rwanda crisis how poorly critical operational information was shared between NGOs, UN agencies and governments. To help those engaged in humanitarian action make sense of humanitarian crises worldwide, this organization constantly scans thousands of sources and ensures the most relevant content is readily available on their website, ReliefWeb, or through RSS, e-mail, mobile phone, Twitter and Facebook [33].
+and work collaboratively. Without effective cooperation and coordination,  time, energy, money, supplies,  and, most importantly,  lives may be lost. Recently, the cluster approach, in which different agencies are assigned the lead for different aspects of the response, has been shown  to  be  effective  in  allowing  different  and  disparate  groups to work more effectively together [34]. When appropriate communication and collaboration occur, the results can be dramatic [35,36] (Box 18.8).
+
+============================================================
+CHUNK 39
+============================================================
+SUMMARY
+Responding to any disaster is a daunting challenge, particularly the most  difficult  of  all  disaster  situations,  the  CE.  Understanding  the needs  of  the  specific  situation  and  then  working  to  assure  that the response is appropriate and feasible will greatly increase the probability  of  a  successful  response.  This  also  includes  awareness  of unique cultural issues and capabilities of the other  responders and beneficiary population. The ideal is to contribute to a rebuilding of capacity and ultimately the return of stability and self-reliance.
+
+============================================================
+CHUNK 40
+============================================================
+REFERENCES
+1. World Health Organization (WHO). Myths and Realities in Disaster Situations. Geneva: WHO; c2010; cited 2010 July 4. Available from: http://www. who.int/hac/techguidance/ems/myths/en/index.html
+2. Lechat MF. The epidemiology of disasters. Proc R Soc Med 1976;69:421-6.
+3. Toole MJ, Galson S, Brady W. Are war and public health compatible? Lancet 1993;341:1193-6.
+4. Levy BS, Sidel VW, eds. War and Public Health. New York: Oxford University Press; 2008.
+5. Chen  LC,  Rietveld  A.  Human  security  during  complex  emergencies:  rapid assessment  and  institutional  capabilities.  Med  Global  Survival  1994;1: 156-63.
+
+============================================================
+CHUNK 41
+============================================================
+REFERENCES
+6. Macrai  J,  Zwi  AB.  Food  as  an  instrument  of  war  in  contemporary  African famines: a review of the evidence. Disasters 1992;16:299-321.
+7. Burkle FM. Complex, humanitarian emergencies, I: concepts and participants. Prehosp Disaster Med 1995;10:36-42.
+8. Salama  P,  Spiegel  P,  Talley  L,  Waldman  R.  Lessons  learned  from  complex emergencies over the past decade. Lancet 2004;364:1801-13.
+9. United Nations High Commissioner for Refugees. 2009 Global Trends: Refugees, Asylum-seekers, Returnees, Internally Displaced and Stateless Persons. Geneva; c2010; cited 2010 July 4. Available from: http://www. unhcr.org/4c1 1f0be9.html
+10.  Noji, EK, ed. The Public Health Consequences of Disasters. New York: Oxford University Press; 1997.
+11. Centers  for  Disease  Control  and  Prevention.  Famine-affected,  refugee,  and displaced  populations:  recommendations  for  public  health  issues.  MMWR Recomm Rep 1992;41:1-76..
+12.  Noji  EK.  Disaster  epidemiology.  Emerg  Med  Clin  North  Am  1996;14: 289-300.
+13.  Toole  MJ,  Waldman  RJ.  Prevention  of  excess  mortality  in  refugee  and  displaced populations in developing countries. JAMA 1990;263:3296-302.
+14.  Acheson D. Health, humanitarian relief, and survival in former Yugoslavia. BMJ 1993;307:44-8
+15.  Burkholder BT, Toole MJ. Evolution of complex disasters. Lancet 1995;346:1012-15.
+16.  Goma Epidemiology Group. Public health impact of Rwandan refugee crisis: what  happened  in  Goma,  Zaire,  in  July,  1994?  Lancet  1995;345:33944.
+17.  Bradt DA, Drummond CM. Rapid epidemiologic assessment of health status in displaced populations - an evolution toward standardized minimum data sets. Prehosp Disaster Med 2003;18:178-85.
+18.  Lillibridge  SR,  Noji  EK,  Burkle  FM  Jr.  Disaster  assessment:  the  emergency health  evaluation  of  a  population  affected  by  a  disaster.  Ann  Emerg  Med 1993;22:1715-20.
+
+============================================================
+CHUNK 42
+============================================================
+REFERENCES
+19.  Toole  MJ,  Steketee  RW,  Waldman  RJ,  Nieburg  PI.  Measles  prevention  and control in emergency settings. Bull World Health Organ 1989;67:381-6.
+20.  Nieburg P, Waldman RJ, Leavell R, et al. Vitamin A supplementation for refugees and famine victims. Bull World Health Organ 1988;66:689-97.
+21.  Toole MJ. Communicable diseases and disease control. In: Noji EK, ed. The Public Health Consequences of Disasters. New York: Oxford University Press; 1997:80-100.
+22.  Yip R, Sharp TW. Acute malnutrition and high childhood mortality related to diarrhea. JAMA 1993;270:587-90.
+23.  Landesman  LY,  ed.  Public  Health  Management  of  Disasters:  The  Practice Guide, 2nd edn. Washington, DC: American Public Health Association; 2005.
+24.  The Sphere Project. Minimum Standards in Shelter, Settlement and Non-Food Items. Geneva: The Sphere Project; c2004; cited 2010 July 4. Available from: http://www.sphereproject.org/content/view/100/84/lang,english/
+25.  The  Sphere  Project.  Minimum  Standards  in  Food  Security,  Nutrition  and Food  Aid.  Geneva:  The  Sphere  Project;  c2004.  Available  from:  http:// www.sphereproject.org/content/view/62/84/lang,english/
+26.  Yip R. Famine. In: Noji EK, ed. The Public Health Consequences of Disasters. New York: Oxford University Press; 1997:305-35.
+27.  Toole MJ. Micronutrient deficiencies in refugees. Lancet 1992;339:1214-16.
+28.  The  Sphere  Project.  Minimum  Standards  in  Health  Services.  Geneva:  The Sphere  Project;  c2004;  cited  2010  July  4.  Available  from:  http://www. sphereproject.org/content/view/114/84/lang,english/
+
+============================================================
+CHUNK 43
+============================================================
+REFERENCES
+29.  World Health Organization (WHO). The New Emergency Health Kit: Lists of Drugs and Medical Supplies for a Population of 10,000 Persons for Approximately 3 Months. Geneva: WHO; 1993. (Updated version available at: http:// www.who.int/hac/techguidance/ems/new_health_kit_content/en/ index3.html)
+30.  Musani  A,  Shaikh  I.  Preparedness  for  humanitarian  crises  needs  to  be improved. BMJ 2006;333:843-5.
+31.  Cuny  F.  From  Disasters  to  Development.  New  York:  Simon  and  Schuster; 1979.
+32.  Natsios  AS.  The  international  humanitarian  response  system.  Parameters 1995;(Spring):68-81.
+33.  ReliefWeb.  Serving  the  Needs  of  the  Humanitarian  Community.  Geneva: United Nations Office for the Coordination of Humanitarian Affairs; c2010; cited 2010 July 4. Available from: http://www.reliefweb.int
+34.  ReliefWeb.  The  Cluster  Approach.  Geneva:  United  Nations  Office  for  the Coordination  of  Humanitarian  Affairs;  c2010;  cited  2010  July  4.  Available from: http://www.reliefweb.int/humanitarianreform/
+35.  Auerbach PS, Norris RL, Menon AS, et al. Civil-military cooperation in the initial  medical  response  to  the  earthquake  in  Haiti.  N  Engl  J  Med  2010; 362:e32.
+36.  Centre  for  Research  on  the  Epidemiology  of  Disasters  (CRED),  Universite Catholique  de  Louvain.  Complex  Emergency  Database.  Belgium:  Brussels; c2010; cited 2010 December 3. Available from: http://www.cedat.be/
+S E C T I O N
+

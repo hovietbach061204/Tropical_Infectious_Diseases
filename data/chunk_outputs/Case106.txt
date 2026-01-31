@@ -1,0 +1,373 @@
+============================================================
+CHUNK 0
+============================================================
+Charlotte M Chiong, Jose M Acuin
+Basic  ear  evaluation  includes  first  the  inspection  of  the  pinna  and postauricular areas to look for swelling or fistulae, followed by examination with adequate illumination through a head mirror, head light, otoscope or otomicroscope. A 512-Hz tuning fork can detect the presence of either  a  conductive  hearing  loss  (Weber's test  lateralizes  to worse  ear  with  Rinne  test  negative  or  air  conduction  [AC] < bone conduction [BC]) or a sensorineural hearing loss (Weber's lateralizes to the good ear and Rinne test is positive or AC > BC).
+Audiologic evaluation is performed when equipment is available and will usually include:
+
+============================================================
+CHUNK 1
+============================================================
+Charlotte M Chiong, Jose M Acuin
+- OAE (otoacoustic emissions) - A pass or refer result is detected by  clicks  from  an  ear  probe  causing  outer  hair  cell  vibrationinduced 'echoes' to be detected by a sensitive microphone and mostly used for newborn hearing screening.
+- PTA (pure tone audiometry) - From age 3 years, sound stimulation given through a headphone or an earphone is used to detect the threshold (minimum level at which sound is detected) in the frequencies 1 kHz, 2 kHz, 4 kHz, 8 kHz, 500 Hz and 250 Hz for both bone-conducted and air-conducted sounds.
+- Speech audiometry - monosyllables and two-syllable words in a standardized word list are used to check for ability to understand speech.
+- Tympanometry - measures pressure in the middle ear and checks the compliance of the tympanic membrane. Maximal compliance at  atmospheric  pressure  is  type  A  and  found  in  normal  ears; decreased  compliance  at  atmospheric  pressure  from  ossicular chain  fixation  is  type  As;  increased  compliance  at  atmospheric pressure in  ossicular  chain dislocation is  type Ad;  flat type B is when there is middle ear fluid or when there is a tympanic membrane perforation and type C is produced by peak compliance at negative pressure with Eustachian tube dysfunction.
+- Auditory brainstem response (ABR) testing shows tiny brainstem waves  (I-V)  from  more  central  auditory  centers  produced  in response to sounds like tone bursts or clicks, allowing detection of hearing loss in both adults and children. It is also valuable as a screening tool for retrocochlear lesions or tumors in the cerebellopontine angle.
+- Auditory steady state response (ASSR) testing - see Box 12.2.
+- Genetic testing for hearing loss is now offered in more developed countries,  followed  by  genetic  counseling.  This  testing  is  not readily available in most developing countries.
+
+============================================================
+CHUNK 2
+============================================================
+Charlotte M Chiong, Jose M Acuin
+- Radiologic  imaging  may  include  mastoid  x-rays  (Towne's  view, Law's  and  Stenger's  views)  that  can  detect  mastoiditis  and  the presence of cholesteatoma (Fig. 12.1) which is still common in the  tropics.  Complicated  chronic  suppurative  otitis  media  is ideally investigated with computed tomography (CT) of the temporal bone to assess for labyrinthine fistula or facial canal erosions in cases of facial paralysis and tegmental erosion that might suggest intracranial involvement (Fig. 12.2); gadoliniumenhanced  magnetic  resonance  imaging  (MRI)  gives  soft  tissue details  in  the  internal  auditory  canals  and  cerebellopontine angles,  and  in  cases  of  asymmetric  hearing  loss  can  rule  out  a vestibular schwannoma or other rare lesions such as hydatid cyst (Fig. 12.3). A three-dimensional CISS MRI of the inner ear may
+
+============================================================
+CHUNK 3
+============================================================
+Key features
+- Hearing impairment is the most common cause of ear, nose and throat (ENT) disability worldwide
+- Chronic otitis media is the most common cause of preventable hearing loss in the world
+- Cancers of the head and neck also account for signi'cant global morbidity and mortality
+- Cleft lip and palate often go unrepaired in many resourcelimited areas
+- Over 70% of patients with acute rhinosinusitis improve after 7 days, with or without antimicrobial therapy
+- The deep fascial spaces of the head and neck are potential cavities and can be involved in infections that extend from adjacent structures such as the teeth, tonsils, lymph nodes, salivary glands and soft tissues
+
+============================================================
+CHUNK 4
+============================================================
+GLOBAL BURDEN OF ENT DISEASES
+The burden of ear, nose and throat (ENT) disorders is high in resourcelimited countries due to the scarcity of otolaryngologists (ENT specialists), a high prevalence and severity of many infections of the head and neck, and the impact of immunocompromising disorders (HIV, malnutrition) and regional behavioral influences (betel nut chewing, cigarette smoking). Hearing impairment is the most common cause of ENT disability worldwide. Approximately 80% of the almost 300 million with disabling hearing impairment live in low- and middleincome countries [1]. According to Alberti [2], 50% of all disabling hearing  losses  are  preventable  by  vaccination  programs  or  better hearing protection from noise exposure. Cancers of the head and neck also  account  for  significant  morbidity  and  mortality.  In  Southeast Asia,  13%  of  all  cancers  involve  the  mouth  or  oropharynx  [3]. Oropharyngeal  cancer is  more  common  in  developing  than developed countries, and the prevalence of oral cancer is particularly high among  men.  Cleft  lip  and  palate  often  go  unrepaired  in  many resource-limited areas.
+
+============================================================
+CHUNK 5
+============================================================
+DEAFNESS AND HEARING IMPAIRMENT
+Disabling hearing impairment is defined by the World Health Organization  (WHO)  as  hearing  thresholds  that  fall  above  30 db  in  the better  ear  in  children,  and  thresholds  that  fall  above  40 db  in  the better-hearing ear in adults. Hearing loss can be either congenital or acquired.  The  most  common  acquired  conditions  include  chronic otitis media, ototoxicity, noise-induced hearing loss, presbycusis, and sudden hearing loss from trauma or specific infections such as scrub typhus (Box 12.1).
+PA SE 380/15.0
+220 4.0
+H806 S1WO
+Sa 14/20
+R
+SHI
+KV 130
+TI 1.5
+mAs 110
+Is SIWO
+FT0/28769, F, 36Y
+18 (0.393
+61MA 6/ 20
+RFP
+MF 1.28
+TE 1000.0
+TA 02:48
+31.0
+Gd-DTPA SE 380/15.0
+220 4.0
+Sa 15/20
+
+============================================================
+CHUNK 6
+============================================================
+BOX 12.1  Common Causes of Acquired Deafness
+- Conductive hearing loss
+- Acute  otitis  media,  otitis  media  with  e@usion,  chronic otitis media
+- Sensorineural hearing loss
+- Severe hypoxia
+- Lassa fever
+- Sepsis neonatorum
+- Bacterial meningitis
+- Viral infections, e.g. mumps
+- Hyperbilirubinemia
+- Noise-induced damage
+- Autoimmune sensorineural hearing loss
+- Presbycusis
+- Head trauma
+- Meniere's disease
+- Scrub typhus
+- Sudden idiopathic sensorineural hearing loss
+- HIV/AIDS, tuberculosis
+- Ototoxicity
+- Tumors, hydatid cyst in the cerebellopontine angle
+
+============================================================
+CHUNK 7
+============================================================
+BOX 12.2  Pediatric Note
+Auditory steady state response (ASSR) testing uses pure tones modulated in amplitude and frequency so that stimulation at 120 db may produce responses in the majority of those without response to brainstem auditory evoked response (BAER) testing, and provides frequency-speci?c information for objective audiometric threshold estimation helpful in ?tting infants and very young children with appropriate hearing aids.
+FIGURE 12.1 T owne's view x-ray of mastoiditis with radiolucent appearance of right mastoid cholesteatoma (arrowhead).
+AIRIS II
+W: 785 L: 475 (L
+FIGURE 12.2 Extensive  cholesteatoma with erosion in the left temporal bone seen on CT scan ( A ) suggesting intracranial extension (white arrow) and on MRI ( B ) shows a cerebellar extension (black arrow).
+FIGURE 12.3 MRI showing a complex cerebellopontine angle hydatid cyst in a 30-year-old Filipino male with unilateral progressive hearing loss (black arrow).
+demonstrate  cochlear  obliteration  (following  meningitis)  or inner  ear  malformations  such  as  cochlear  absence  or  cochlear nerve aplasia in cases of congenital hearing loss.
+Chronic  otitis  media is  the  most  common  cause  of  preventable hearing loss in the world [4]. Extracranial complications include subperiosteal abscess and labyrinthine fistula, facial weakness, foul ear discharge,  postauricular  swelling  and  abscess  formation.  Sequelae may include facial paralysis, profound deafness, and intracranial complications, including meningitis.
+
+============================================================
+CHUNK 8
+============================================================
+BOX 12.2  Pediatric Note
+Patients with chronic suppurative otitis media should be treated with antibiotics. Topical antibiotics can have some benefit in the setting of an  open  communication  to  the  middle  ear,  but  ototoxic  drugs (for  example,  topical  aminoglycosides)  should  be  avoided  in  this setting.  A  topical  fluoroquinolone  such  as  ciprofloxacin,  or  oral amoxicillin-clavulanic acid are commonly administered agents [47]. If  intractable  to medical treatment or when there is evidence of cholesteatoma, surgery is indicated. For non-cholesteatomatous ears, a Cochrane review revealed low-quality and scanty literature comparing tympanoplasty versus tympanoplasty with mastoidectomy in discharging ears [8]. In the setting of a cholesteatoma, a canal-wall-down mastoidectomy or open cavity technique may be indicated. There is level  3  evidence  of  improved  or equivalent hearing outcomes with unstaged rather than staged tympanoplasty [9,10].
+Given the tremendous surgical backlog in resource-limited countries because of the lack of ear surgeons, some countries hold 'surgical ear camps' like the BRINOS (British Nepal Otological Surgery) and Rural Ear Foundation in Thailand.
+
+============================================================
+CHUNK 9
+============================================================
+Other Causes of Deafness
+Ototoxicity: Many  ototoxic  drugs  are  routinely  used  in  resourcelimited settings, including streptomycin (used for tuberculosis treatment), neomycin, kanamycin and gentamicin.
+Platinum-containing chemotherapy with cisplatin or carboplatin and radiotherapy for neck tumors may also cause hearing loss [1 1,12].
+Noise-induced hearing  loss can  be  caused  by  exposure  to  intense sounds, and if caused by a broadband noise such as in industrial settings,  a  characteristic  4-kHz  notch  or  dip  is  noted  on  audiometric testing. Prevention by hearing conservation programs should include education on the risks of hearing loss with noise exposure, the effective use of hearing protection devices, monitoring hearing and noise levels at the workplace, and minimizing the duration of exposure.
+Presbycusis is characterized as decreased high-frequency hearing sensitivity  usually  beyond the age of 50 years, typically involving both ears. Central auditory deficits also increase with age [13].
+
+============================================================
+CHUNK 10
+============================================================
+Other Causes of Deafness
+Sudden hearing loss should be considered an emergency since early treatment may reverse the loss. Sudden hearing loss is defined as a hearing  loss  of > 30 db  over  72  hours  and  affected  patients  may present with aural fullness although otoscopic findings are normal. Ideally, an MRI with gadolinium should be performed to evaluate for a retrocochlear lesion. An empiric trial of prednisone at 1 mg/kg/day for 2 weeks followed by a taper, or its methylprednisolone equivalent, has shown benefit in some patients. A study showed the group given steroids improved significantly, with 5  :  1 relative odds of > 50% recovery [14]. A steroid-effective zone of 40-90 db (moderate to severe) loss  was  defined,  with  best  results  if  treated  within  10-14  days  of onset. Empiric addition of acyclovir or valacyclovir did not improve results  [15,16]  Intratympanic  steroids  are now being tried in some centers,  and  initial  results  report  this  to  be  promising  as  a  salvage treatment for patients who fail to respond to initial systemic steroids administration  [17].  There  are  reports  of  acute  hearing  loss  and otalgia following scrub typhus infection [18]. Scrub typhus is an acute febrile disease secondary to infection by an obligate intracellular bacterium, Orientia tsutsugamushi , transmitted via Leptotrombidium chigger mite  bites.  Symptoms  include  myalgia,  diffuse  lymphadenopathy, fever,  eschars,  and  erythematous  maculopapular  rashes.  Complications  include  pneumonia,  myocarditis,  meningitis,  hepatitis,  acute renal failure and hearing loss. Hearing loss can affect up to a third of those with scrub typhus. Severe otalgia, initially paroxysmal and intermittent, becomes persistent for several hours. Hearing loss and tinnitus tend to appear 2 weeks after the onset of scrub typhus. Otalgia appears during the first week. Hearing loss can be permanent.
+
+============================================================
+CHUNK 11
+============================================================
+AUDITORY REHABILITATION
+Aural rehabilitation requires identification of the presence, type and degree of hearing loss. For hearing loss between 40 db and 85 db, conventional hearing aids provide the greatest benefit. However, the cost of hearing aids is prohibitive in most resource-limited settings, although low-cost solar battery options are being developed. For severe to profound sensorineural hearing loss, vibrotactile devices or cochlear implants may be helpful, but are usually not feasible or available.
+
+============================================================
+CHUNK 12
+============================================================
+CLEFT LIP AND PALATE
+The global incidence of oral clefts has been variably reported as 1 per 500 to 1000 live births, making it one of the most common congenital anomalies [19]. Gender and race differences have been reported, and Asians in particular are at high risk. A 1997 study showed the incidence of oral clefts in the Philippines to be about 2 per 1000 live births [20]. Etiologic risk factors include micronutrient deficiency, maternal exposure to tobacco smoke, alcohol, corticosteroids, exogenous estrogen,  organic  pollutants  and  occupational  chemicals.  History  and physical examination include a search for other possible abnormalities, as 300 syndromes (Stickler syndrome: Pierre Robin sequence plus myopia or retinal problems, velocardiofacial, Treacher-Collins, fetal alcohol, oro-facial-digital type) have been associated with cleft lip and palate. Evaluation and treatment is best done by a multidisciplinary team  composed  of  an  oral  surgeon,  otologist,  speech  pathologist, psychologist and education specialist. Genetic counseling of high-risk families is important. The timing of surgical repair should be emphasized: repair cleft lips at 3 months (with myringotomy and ventilation tube placement), palatoplasty at 18 months, speech intervention at 3-4 years, velopharyngeal surgery at 4-6 years, alveolar bone grafting at 9-1 1 years, nasal reconstruction at 12-18 years, and orthognathic surgery, when needed, after 16 years of age.
+
+============================================================
+CHUNK 13
+============================================================
+ACUTE AND CHRONIC RHINOSINUSITIS
+Infections of the paranasal sinuses (ethmoid, maxillary, frontal and sphenoid sinuses) may occur as a result of contiguous infections (e.g. rhinitis, dental abscesses). Acute sinusitis is produced by inflammatory thickening of the mucoperiosteal lining of the sinus cavities and increased mucus secretions. Mucosal congestion and edema, occurring in the areas surrounding the sinus openings, result in blocked sinus drainage and accumulation and stasis of sinus secretions. Pressure on the nerve endings in the sinus mucosa produces facial pain and  fullness.  Suppurative  complications,  including  meningitis  and orbital cellulitis,  can occur.  Acute sinusitis may evolve  into  chronic sinusitis.  In  the  latter  condition,  mechanical  obstruction  of  sinus drainage occurs from persistently swollen mucosa, polyp formation, bony protuberances, nasal septal deviations or spurs. Longstanding infection can lead to squamous metaplasia of the normally cuboidal and columnar epithelia of the paranasal sinuses, leading to loss of functional mucociliary transport and thickening of sinus mucus.
+Fungal sinusitis may manifest along a spectrum ranging from localized, largely asymptomatic colonization of the nasal and paranasal sinus mucosa, to chronic invasive rhinosinusitis with granuloma formation.  Severe  acute  invasive  rhinosinusitis  is  usually  seen  among immunocompromised patients, and is characterized by a fulminant, necrotizing process.
+It is difficult to distinguish bacterial from viral rhinosinusitis. Anterior rhinoscopy,  using  a  nasal  speculum  and  sufficiently  bright  and focused illumination, may demonstrate purulent discharge from the middle meatus (next  to the  middle  turbinate)  in  either  condition. Transillumination in a darkened room, using a penlight held against
+
+============================================================
+CHUNK 14
+============================================================
+ACUTE AND CHRONIC RHINOSINUSITIS
+the skin overlying the frontal or maxillary sinuses, may suggest acute sinusitis if there is unequal transillumination due to fluid accumulation. Sinus x-rays, CT and nasal endoscopy are recommended when the condition fails to respond to therapy, when the diagnosis or the extent of disease is in question, or  when surgery is being planned. Paranasal sinus x-rays (Waters', Caldwell's and lateral views) or ultrasound may demonstrate fluid accumulation inside the maxillary sinus (x-rays must be taken with the patient upright) or varying degrees of sinus  opacification  or  thickening  of  the  sinus  mucoperiosteum.  In patients with chronic rhinosinusitis, nasal endoscopy using a 0 degree Hopkins rod telescope may be performed to more closely inspect the mucosa of the  middle  turbinate  and  middle  meatus  and  visualize small polyps. This is an office procedure that requires minimal-to-no topical anesthesia. CT of the sinuses can better demonstrate the extent of sinus disease, bony and soft tissue abnormalities that obstruct critical nasal and sinus passageways, and soft tissue masses, such as sinus mucoceles,  polyps  and  cysts.  Bacterial  culture,  taken  either  by  an endoscopically guided swab of the middle meatus or by a puncture of the maxillary sinus antrum, is considered the reference standard in diagnosing  acute  bacterial  rhinosinusitis,  but  is  only  used  when medical  treatment  fails. Streptococcus  pneumoniae and Haemophilus influenza are the most commonly isolated organisms, although anaerobes may also be present [21].
+
+============================================================
+CHUNK 15
+============================================================
+ACUTE AND CHRONIC RHINOSINUSITIS
+Over 70% of patients with acute rhinosinusitis improve after 7 days, with or without antimicrobial therapy. Thus, patients with mild fever and facial  pain  should  be  given  analgesics  and  observed  regularly. About seven patients must be treated with antibiotics to achieve one more clinical cure beyond spontaneous resolution [22]. Ampicillin, amoxicillin, trimethoprim-sulfamethoxazole, macrolides and cefaclor, given for 7 to 14 days, have all been shown to be effective treatment for  most  cases  of  acute  bacterial  rhinosinusitis  [23].  The final choice should be guided by local bacterial prevalence and antibiotic resistance patterns. Diarrhea and adverse events are 80% more common in patients who receive antimicrobials. If symptoms fail to resolve with antibiotics, the diagnosis should be reconfirmed, other illnesses  should be excluded, risk factors should be addressed, and antibiotic treatment extended. For patients with chronic rhinosinusitis, antibiotics are often given for 4 weeks or more. If inhalant allergies are  known  or  suspected,  intranasal  steroids  may  be  prescribed  to decrease  mucosal  inflammation  associated  with  acute  and  chronic rhinosinusitis [24]. Surgery is indicated for extranasal spread of infection, evidence of mucocele or pyocele, fungal sinusitis or obstructive nasal polyposis, and is often performed in patients with recurrent or persistent infection not improved by drug therapy [25]. Surgical treatment of chronic rhinosinusitis is performed with fine surgical instruments under endoscopic control and is aimed at removing abnormal bone and mucosa in the natural sinus ostia and other critical sinus passageways to  improve ventilation and preserve mucociliary function. The success of this procedure in resolving sinusitis is supported by  evidence of variable quality [25]  and  depends  on specific sinus conditions, the surgeon's expertise, and the patient's compliance with postoperative care.
+
+============================================================
+CHUNK 16
+============================================================
+Granulomatous Involvement of the Head and Neck
+Granulomas of the head and neck can occur as single or multiple lesions in virtually any area. Mycobacterial pathogens are the leading cause. Although becoming increasingly rare, leprosy produces characteristic nodules and/or leonine deformities of the soft tissues of the face. Tuberculosis of the head and neck can result in granulomas of the face, salivary glands, oral, pharyngeal and laryngeal cavities, ear and temporal bone, nose and paranasal sinuses. Tuberculous infection of the lymph nodes of the neck (scrofula) can present as a slowgrowing mass  that  then  can  rapidly  enlarge,  leading  to  tenderness and suppuration. Chronic recurrent breakdown of the overlying skin can  results  in  multiple  draining  sinuses  and  scarring.  Syphilitic involvement of the head and neck can be expressed as necrotizing chancres of the mouth, nose and paranasal sinuses, granulomas of the oropharynx, nose and nasopharynx, draining buboes of the neck, intracranial gummas, and cranial and peripheral neuropathies. Vertigo precipitated by loud sounds can be caused by syphilitic fixation of the stapes footplate to the oval window.
+
+============================================================
+CHUNK 17
+============================================================
+SALIVARY GLAND INFECTIONS
+Bacterial  infections  of  the  parotid,  submandibular  and  sublingual salivary  glands  may  result  from  oral  or  dental  infections.  Acute enlargement of intraparotid nodes may be due to many viruses and can lead to swelling and secondary suppuration of the parotid gland. (Primary  viral  infections  of  the  parotid  gland  are  discussed  elsewhere.) Intraductal and parenchymal edema and congestion can lead to  stasis  and  accumulation  of  secretions  and  blockade  of  salivary drainage.  The  resulting  swelling,  pain  and  tenderness  can  produce trismus and dysphagia. Infections of the salivary glands are usually treated  empirically.  For  fluctuant,  painful  swellings  or  for  patients who do not respond to empiric antimicrobial therapy, aspiration or open  drainage  with  culture  and  sensitivity  testing  of  the  purulent discharge may be required. The most common organisms involving salivary glands include Staphylococcus aureus and Streptococcus pyogenes . Treatment  should  include  antibiotic  therapy  directed  against  these bacteria, anti-inflammatory agents and adequate hydration.
+
+============================================================
+CHUNK 18
+============================================================
+DEEP FASCIAL SPACE INFECTIONS
+The deep fascial  spaces of  the head and neck are  potential cavities and can be involved in infections that extend from adjacent structures such  as  the  teeth,  tonsils,  lymph  nodes,  salivary  glands  and  soft tissues. Involvement and abscess formation and edema can result in obstruction  (swallowing  and  breathing),  pain,  tenderness,  trismus and neck stiffness. Visible soft tissue swelling can result from infections  of  the  peritonsillar,  parapharyngeal,  parotid,  submandibular, suprahyoid, periauricular and masseteric spaces. Peritonsillar abscess formation, also known as Quinsy, presents with unilateral swelling of  the  soft  palate  above  the  tonsil.  Abscess  formation  beneath  the floor of the mouth, called Ludwig's angina, produces tense and tender swelling behind the chin and between the angles of the jaw. Vincent's angina, or trench mouth, presents with localized or multiple necrotic mucosal  ulcerations  and  foul  breath.  Retropharyngeal  and  retroesophageal abscesses produce dysphagia and neck rigidity. Mediastinal spread is a potential complication that can lead to sepsis; rupture may lead to respiratory obstruction.  Erosion of the  great vessels of the neck can lead to catastrophic hemorrhage. Soft tissue lateral views of  the  head  and  neck  may  aid  in  diagnosing  retropharyngeal  and retroesophageal abscesses. Purulent material that is drained or aspirated from deep neck abscesses should be submitted for culture and sensitivity studies and the results used to adjust the selection of antibiotics. Treatment  should include aggressive antibiotic therapy against both Gram-positive and Gram-negative organisms (including anaerobes), prompt incision and drainage of abscesses, and adequate nutrition and fluid therapy. Respiratory obstruction should be proactively addressed with consideration of artificial airways.
+
+============================================================
+CHUNK 19
+============================================================
+CYSTICERCOSIS
+Cysticercosis can present as nontender, solitary or multiple subcutaneous  or  submucosal  nodules  in  the  face,  eyes,  neck,  nose,  mouth, tongue and pharynx [26,27].
+
+============================================================
+CHUNK 20
+============================================================
+ORAL ULCERS
+Lesions  of  the  mucosa  of  the  lips,  gums,  tongue,  floor  of  mouth, buccal cavity, palate and pharynx can be secondary to inflammatory, traumatic, neoplastic, metabolic, immunologic, hematologic and idiopathic causes. Different etiologies can be expressed in similar ways. For  instance,  infections,  malignancies,  autoimmune  disorders  and blood dyscrasias can all produce painful mouth ulcers. Oral disease caused by fungal, bacterial or viral infections can also be commonly found in immunocompromised hosts. For instance, oral lesions are strongly associated with HIV infection such as pseudomembranous oral candidiasis, oral hairy leukoplakia, HIV gingivitis and periodontitis,  Kaposi  sarcoma  and  non-Hodgkin  lymphoma.  All  mucosal ulcers  of  the  oral  cavity  that  do  not  heal  or  do  not  show  signs  of
+healing  within  2  weeks  warrant  further  investigation.  Microscopic examination of scrapings from the ulcer bed may demonstrate fungi such  as Candida  albicans .  Tissue  biopsies  are  required  to  assess  for malignant involvement. Treatment is directed against the etiology of the ulcer, or symptomatically if a cause is not identified.
+
+============================================================
+CHUNK 21
+============================================================
+CANCRUM ORIS
+Noma (cancrum oris, stomatitis gangrenosa) is a serious and often fatal  condition  characterized  by  a  quickly  spreading  orofacial  gangrene in children, caused by a combination of malnutrition, debilitation because of concomitant  diseases  (measles), and  intraoral infections.  Cancrum  starts  as  a  stomatitis  followed  by  ulceration, spreads rapidly through orofacial tissues, and often has a blackened necrotic center. Management entails antisepsis, wound debridement, antibiotics (intravenous penicillin and metronidazole) and nutrition. Reconstructive plastic surgery is often required in survivors.
+
+============================================================
+CHUNK 22
+============================================================
+LEISHMANIASIS
+Mucocutaneous leishmaniasis (MCL) or espundia is an occasional complication  of  New  World  cutaneous  leishmaniasis  caused  by L. (viannia) braziliensis (New World CL). Naso-oropharyngeal symptoms may appear several years after resolution of  the primary cutaneous lesion(s). Manifestations include chronic nasal symptoms, especially of the anterior nasal septum (leading to development of the characteristic 'tapir nose') and progressing to extensive naso-oropharyngeal destruction. Secondary bacterial (or fungal) infections and associated problems are common [28].
+
+============================================================
+CHUNK 23
+============================================================
+MYIASIS
+Human myiasis is caused by infestation of human tissue by dipteran larvae  and  can  involve  the  head  and  neck  (e.g.  New  World  botfly, Dermatobia hominis ), or eyes, nose, ears and pharynx ( Oestrus ovis , the sheep  nasal  botfly).  Pseudo-furuncles  in  dermal  myiasis  may  be present. Treatment involves mechanical removal.
+
+============================================================
+CHUNK 24
+============================================================
+HALZOUN
+Halzoun is due to infection of the nasopharyngeal tract by the pentastomid Linguatula  serrata .  The  worm  attaches  to  the  back  of  the throat, causing pain and swelling. It is acquired by eating raw liver. Swallowed leeches and the pentastomid L. serrata can also cause this condition. Pentastomiasis due to Armillifer armillatus was very common in the snake-eating aboriginal forest dwellers of Malaysia [29].Similar infections  in  human  due  to Prosthodendrium and Phaneropsulus in Thailand may be due to the regional habit of eating intermediate host dragonfly nymphs.
+
+============================================================
+CHUNK 25
+============================================================
+HEAD AND NECK NEOPLASMS
+Neoplasms of the head and neck may arise from skin, mucosa, soft tissues  and  salivary  glands.  Table  12-1  lists  the  most  commonly encountered benign and malignant tumors in the different regions of the head and neck.
+
+============================================================
+CHUNK 26
+============================================================
+BENIGN NEOPLASMS
+By far the  most  common nasal neoplasm is  a mucosal polyp that develops in a patient with chronic rhinosinusitis. Polyps are edematous outpouchings of nasal mucosa covered by squamous epithelium and originate from the ethmoids and other sinuses. Untreated, they can fill the nasal vault up to the vestibule, widen the nasal dorsum, and  result  in  severe  obstruction  to  breathing  and  smelling.  By obstructing the natural ostia of the sinuses and destroying bone, they often perpetuate the infectious process. Hemangiomatous polyps and hemangiomas often present with epistaxis or nosebleed. An inverting papilloma may present like a nasal polyp but aggressively proliferates, invades bony partitions, and may harbor carcinoma.
+Benign neoplasms of the face and oral cavity are usually slow growing, well circumscribed, and produce few symptoms. An ameloblastoma
+
+============================================================
+CHUNK 27
+============================================================
+BENIGN NEOPLASMS
+TABLE 12-1 The Most Commonly Encountered Benign and Malignant Tumors in Di@erent Regions of the Head and Neck
+
+Nose and paranasal sinuses, Benign = Nasal polyp, hemangioma, inverting papilloma, mucocele, dermoid, meningioma. Nose and paranasal sinuses, Malignant = Squamous cell carcinoma; esthesioneuroblastoma; sarcomas. Face, Benign = Nevus, epidermal inclusion cyst; sebaceous cyst. Face, Malignant = Squamous cell carcinoma; basal cell carcinoma; malignant melanoma. Oral cavity, Benign = Squamous papilloma; mucocele; torus mandibularis/palatinus; ameloblastoma, odontogenic cyst. Oral cavity, Malignant = Squamous cell carcinoma; sarcoma. Pharynx, Benign = Nasopharyngeal angio?broma. Pharynx, Malignant = Nasopharyngeal carcinoma; lymphoma. Larynx, Benign = Vocal fold nodules, polyps and cysts; laryngeal papilloma. Larynx, Malignant = Squamous cell carcinoma. Ears, Benign = Aural polyp; osteoma; acoustic neuroma. Ears, Malignant = Squamous cell carcinoma. Neck, Benign = Dermoid, branchial cleft cyst, thyroglossal duct cyst; cystic hygroma; lymphangioma; goiter. Neck, Malignant = Lymphoma; metastatic carcinoma; thyroid carcinoma. Salivary glands, Benign = Pleomorphic adenoma; Warthin's tumor. Salivary glands, Malignant = Adenoid cystic carcinoma; mucoepidermoid carcinoma
+is a tumor of the enamel organ of the tooth and presents as a uni- or multicystic  mandibular  mass.  It  can  grow  to  enormous  size  and destroy significant portions of the lower jaw. Odontogenic cysts, such as dentigerous cysts and radicular cysts, are derived from dental tissue and  occur  in  either  the  upper  or  lower  jaw  as  solitary  small  or medium-sized masses.
+
+============================================================
+CHUNK 28
+============================================================
+BENIGN NEOPLASMS
+Nasopharyngeal angiofibromas are highly vascular tumors that arise from the superolateral wall of the nasopharynx. They are found exclusively in adolescent males and present with recurrent, at times massive, epistaxis. They can spread to the adjacent nasal vault, ethmoid sinuses, pterygomaxillary fossa and infratemporal fossa, sphenoid and base of the skull. Branches of the internal maxillary artery may give rise to feeding vessels.
+Benign neoplasms of the larynx include nodules, polyps and cysts that arise from the true vocal folds or adjacent tissues. These are single, circumscribed masses that may lead to hoarseness and subtle voice changes. They are associated with longstanding voice misuse or abuse. Laryngeal  papilloma,  either  juvenile  or  the  adult  type,  are  usually multiple pedunculated masses arising from any area of the larynx, with  a  propensity  to  spread  to  the  tracheobronchial  tree.  They  are associated  with  human  papillomavirus  infection  acquired  either while  passing  through  the  birth  canal  of  an  infected  mother  or through intimate contact later in life.
+Cervical lymph node enlargement associated with infections of the upper respiratory tract, oral cavity, scalp and face occurs frequently in children. Cystic hygroma and lymphangioma are both malformations of the lymphatic channels of the neck that present as solitary, soft,
+painless, poorly demarcated masses in young children. The malignant counterpart is lymphoma, either Hodgkin or non-Hodgkin, characterized by massive multiple enlargement of lymph nodes on the posterior triangle of the neck.
+Benign neoplasms constitute 75% of salivary gland tumors, of which pleomorphic adenoma of the  parotid gland  is  the  most  common. Other benign salivary gland tumors include Warthin's tumor, which occurs mostly in males at the fourth to fifth decade of life.
+
+============================================================
+CHUNK 29
+============================================================
+MALIGNANT NEOPLASMS
+Squamous cell carcinoma is the most common malignancy of the head and neck. Depending on the stage at diagnosis, degree of differentiation, and the site of origin, it can present early or late, destroy overlying bone, invade adjacent soft tissues, extend intracranially or spread to the submandibular and deep jugular chain of neck nodes. The  mass  is  usually  fungating  and  bleeds  easily  to  touch.  Tobacco smoking and chewing, alcohol intake, infection by Epstein-Barr virus or human papillomavirus types 16, 18 and 31, and exposure to betel quid, heavy metals, leather tanning and woodworking products are risk factors. Symptoms include local pain, ulceration, bleeding and swallowing  difficulty.  Laryngeal  cancer  presents  with  hoarseness, hemoptysis, throat pain, cough and breathing difficulty. In the oral cavity,  submucosal  spread  of  the  tumor  should  be  determined  by palpation.  A  second  primary  cancer  should  always  be  considered. Squamous cell carcinoma of the ear presents with ear mass, bleeding and pain, and may arise on a background of a chronic otitis media. Late  symptoms  include  facial  paralysis,  sensorineural  hearing  loss, vertigo and severe ear pain.
+Malignancies of the head and neck spread to the draining submental, submandibular, and deep jugular chain  of lymph nodes in one  or both sides of the neck. Distant metastasis to the lungs, liver and brain occur in late stages.
+Verrucous carcinoma is a special type of well-differentiated squamous cell carcinoma which is wart-like, indolent and frequently recurs after excision. It arises from the skin of the lips and gums.
+
+============================================================
+CHUNK 30
+============================================================
+MALIGNANT NEOPLASMS
+Nasopharyngeal carcinoma occurs as an undifferentiated lymphoepithelioma, or a poorly differentiated or a well-differentiated squamous cell carcinoma. It arises from the posterolateral nasopharyngeal walls and may initially  present  with  hearing  loss  (from  blockade  of  the Eustachian tube), diplopia (from impingement of the abducens nerve and consequent lateral rectus palsy) or epistaxis. It is not uncommon for patients to present with an enlarged lymph node just behind the angle of the jaw. It is common among people of Chinese descent and is associated with eating spicy preserved fish. This malignancy has a great potential for early spread to the deep jugular lymph nodes of the neck and the base of the  skull. Lymphoma, either  Hodgkin or non-Hodgkin  type,  can  arise  from  the  chain  of  lymphoid  tissues encircling the oropharyngeal opening (i.e. the Waldeyer's ring consisting of the pharyngeal, palatine, tubal and lingual tonsils).
+The malignant  neoplasms of the skin include squamous cell carcinoma, basal cell carcinoma and malignant melanoma, the latter two being associated with sunlight exposure. While squamous cell carcinomas are expansile, aggressive and spreading, basal cell carcinomas are ulcerative, more indolent and localized. The areas around the lips, nose  and  cheeks  are  especially  prone  to  this  cancer.  Malignant melanoma is a locally destructive superficial malignancy with a high tendency to postoperative and systemic spread.
+Sarcomas,  such  as  rhabdomyosarcoma,  leiomyosarcoma,  osteosarcoma, hemangiosarcoma  and  neurosarcoma,  are  solid  and  rapidly enlarging masses seen in younger patients. They quickly spread via the bloodstream into distant organs.
+In  the  salivary  glands,  the  malignant  variants  are  adenoid  cystic carcinoma  and  mucoepidermoid  carcinoma.  These  are  also  commonly seen in the parotid gland. As a rule, however, minor salivary gland tumors tend to be malignant more often than parotid gland tumors.
+
+============================================================
+CHUNK 31
+============================================================
+MALIGNANT NEOPLASMS
+Papillary carcinoma is by far the most common thyroid malignancy, followed by follicular cancer. Other rarer varieties include medullary cancer and undifferentiated (anaplastic) cancer.
+
+============================================================
+CHUNK 32
+============================================================
+INVESTIGATIONS
+Neoplasms should usually be biopsied to establish a diagnosis. Fine needle (gauge 22) aspiration biopsy of soft tissue masses with intact surfaces is  often  the  most  feasible procedure  to perform.  Once  the needle has penetrated the substance of the mass, the plunger of the syringe  is  pulled  to  maintain  negative  pressure while  the  needle  is carefully and repeatedly plunged to sample several areas. The plunger is then released and the needle momentarily disconnected from the syringe  to  release  any  negative  pressure  and  preserve  the  aspirated specimen within the bore of the needle. A bloody aspirate must be avoided  as  this  obscures  cellular  detail.  The  specimen  must  be expressed  from  the  needle  on  to  several  glass  slides,  smeared  and soaked in 95% ethyl alcohol for 2 minutes. Training and experience are necessary to ensure correct diagnosis (86% and 96% for malignant and benign head and neck tumors, respectively [30]) and to minimize missed diagnoses to as low as 2% [31]. An accuracy level of 89% has been reported for solitary thyroid nodules [32]. Polyps, papillomas and  similar  pedunculated  masses  may  be  gently  avulsed  so  that  a representative portion can be submitted for histopathologic examination after immersing the entire specimen in 10% formaldehyde. Cysts of  the  soft  tissues  and  bones  of  the  face  may  be  excised  both  for diagnosis and for definitive management. Tonsillectomy may be done when tonsillar lymphoma is suspected. Neck nodes are usually not biopsied unless the primary lesion has been identified by histopathology. This may require rigid or flexible endoscopic examination of the nose, pharynx, oral cavity, pharynx, larynx and esophagus. If endoscopic results are negative or equivocal for malignancy, a fine needle aspiration  biopsy  of  the  neck  nodes  may  be  performed.  An  open biopsy should be considered as the last resort. Biopsy should not be done for vascular tumors such as hemangiomas and nasopharyngeal angiofibromas. These often present with massive bleeding, so they are usually diagnosed on clinical grounds and appearance. Angiography may be required to visualize feeding blood vessels and to plan for arterial ligation or embolization prior to definitive excision.
+
+============================================================
+CHUNK 33
+============================================================
+DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+Benign and malignant neoplasms of the face, salivary glands, neck and external parts of the ears, mouth and nose present with lumps or masses. These may be present at birth, such as dermoid and cystic hygroma,  at  early  childhood,  such  as  branchial  cleft  cyst  and  thyroglossal duct cyst, at  adolescence, such as nasopharyngeal angiofibroma,  at  adulthood.  Their  location  may  be  determined  by  their embryologic origin; thus, dermoids occur in the midline and other fusion lines, and branchial cleft cysts are found along the paths of the branchial clefts present in early fetal life. Benign masses are usually circumscribed, mobile masses that exhibit little or slow change in size, consistency  or  number  over  time.  Malignant  masses  exhibit  more dynamic  and  rapid  changes,  and  tend  to  involve  adjacent  tissues. Neoplasms that occur in cavities, such as the nose, paranasal sinuses, mouth, pharynx, larynx and ears, are less clinically apparent, and may initially present with subtle signs such as nosebleeds, mucosal discolorations, voice changes, and mild hearing impairment. As the tumor enlarges, it can obstruct preformed cavities, such as the larynx and the nasal cavity,  or press  on bony walls, such as the paranasal sinuses. Owing to the proximity of the base of the skull, neoplasms of the nose, paranasal sinuses, nasopharynx and ear can present with neurologic  signs  and  symptoms  such  as  facial  paralysis,  headache,  seizures  and  diplopia.  Destruction  of  bony  walls  and  invasion  of adjacent soft tissues suggest aggressive behavior, although they do not necessarily mean  malignancy. Destruction of anatomic boundaries, marked enlargement of draining lymph nodes of the neck, and spread to distant sites are more typical of carcinomas and sarcomas.
+
+============================================================
+CHUNK 34
+============================================================
+MANAGEMENT AND OUTCOMES
+Benign neoplasms that are small, circumscribed and solitary can be managed with simple excision. However, if they occur in the face or
+neck, careful placement of incisions, atraumatic handling of tissues, and  meticulous  skin  and  soft  tissue  closure  must  be  observed  to ensure good cosmetic results. With malignant lesions and extensive benign neoplasms, management must be planned according to the nature of the tumor, the preferences and circumstances of the patient, and the available medical and surgical expertise.
+Simple excision is  often  curative  of  benign  neoplasms of the head and  neck.  Several  tumors,  however,  are  particularly  challenging  to manage  and  are  best  referred  to  an  ENT  specialist  or  a  head  and neck surgeon. In general, polyps and other masses within the nose are best excised with special nasal forceps under endoscopic or headlight visualization. Inverting papillomas require excision of underlying  bone  to  prevent  recurrence,  and  these  may  require  external approaches  through  the  maxilla  or  nose.  Nasopharyngeal  angiofibroma is removed via a transpalatal or a transnasomaxillary approach. Since bleeding can be massive, preoperative embolization of feeding arterial vessels is preferred, and the ability to transfuse should be available. Laryngeal papillomatosis must be carefully excised with either cold  knife  or  laser  with  endoscopic  visualization  under  general anesthesia.  Since  these  tumors  are  highly  recurrent,  ENT  surgeons must balance disease control with organ preservation. Pleomorphic adenomas  of  the  parotid  gland  should  be  removed  by  superficial parotidectomy with careful preservation of the facial nerve. Deeper tumors require removal of the deep lobe. Branches of the facial nerve may be sacrificed only if complete curative removal of parotid cancers requires  it.  Ameloblastomas  of  the  maxilla  and  mandible  are  best treated with complete excision since enucleation carries with it a high recurrence rate. If a significant portion of the mandible is lost, then reconstruction with bone grafts and biocompatible materials may be needed. Large and deeply spreading branchial cleft cysts and cystic hygromas may be challenging to remove completely since their cyst walls blend with adjacent structures. Margins of excision must be sacrificed in order to preserve as much normal tissue as possible.
+
+============================================================
+CHUNK 35
+============================================================
+MANAGEMENT AND OUTCOMES
+The main goals of therapy for head and neck squamous cell cancers are complete removal of the neoplasm while minimizing morbidity, preserving normal function and appearance, and maintaining reasonable quality  of  life.  In  2003,  the  Radiation  Therapy  Oncology  Group (RTOG)  trial,  which  randomized  patients  with  locally  advanced, resectable  laryngeal  cancer  to  radiation  therapy  alone,  induction chemotherapy followed by radiation therapy, or concurrent chemoradiation, showed that tumor control and larynx preservation were significantly better in the concurrent chemoradiation arm than in the other two arms. Overall survival rates among the three groups were similar, at approximately 55%. Thus, concurrent chemoradiation has become the standard of care for patients with locally advanced laryngeal cancer, with the goal of organ preservation [33]. If chemoradiation is not available, early-stage head and neck cancers (see Table 12-2 for common staging) may be managed with either surgery or chemoradiation.  The  results  are  comparable.  In  a  7-year  review  of  cases, 5-year survival rates for laryngeal cancer patients (n = 451) were 85% for stage I, 77% for stage II, 5 1% for stage III, and 35% for stage IV disease, and survival for patients with stage I-III disease was similar for patients treated operatively or nonoperatively (P = 0.4). Patients with stage IV disease had significantly better survival with surgery (49%) than with chemoradiation (21%) or radiation alone (14%) (P < 0.0001) [34]. As a rule, any treatment must be directed toward the primary tumor and its draining lymph nodes of the neck. Frank neck node metastasis may occur in 42% of oral cavity cancers [35] and this requires comprehensive  dissection,  but  when  the  risk  for  positive  neck  lymph  nodes exceeds 15-20%, elective neck dissection is indicated [36].
+
+============================================================
+CHUNK 36
+============================================================
+MANAGEMENT AND OUTCOMES
+Studies have found significantly worse survival for stage IV, T4, N2 or N3 disease [37]. In 356 patients with oral cavity cancer, pathologic T stage (P < 0.001) and tumor thickness cut-off of 5 mm (P = 0.03) were independent  predictors  of  disease-specific  survival.  With  a  median follow-up  of  41  months,  overall  survival  at  5  years  was  59%  and disease-specific survival was 73% [38].
+Advanced tumors (stages III and IV) are usually managed with multimodality  therapy.  Patients  with  advanced  head  and  neck  cancer, despite aggressive treatment, generally have a 35% to 55% chance of
+TABLE 12-2 Common TNM Staging for Head and Neck Squamous Cell Carcinomas (Except Nasopharyngeal Carcinoma)*
+
+T1, Characteristic = Tumor ≤ 2 cm in greatest dimension. T2, Characteristic = Tumor > 2 cm but < 4 cm in greatest dimension. T3, Characteristic = Tumor > 4 cm in greatest dimension. T4, Characteristic = Tumor invades adjacent structure. N0, Characteristic = No regional LNs. N1, Characteristic = Single ipsilateral LN, ≤ 3 cm. N2a, Characteristic = Single ipsilateral LN, 3-6 cm. N2b, Characteristic = Multiple ipsilateral LNs, none > 6 cm. N2c, Characteristic = Bilateral or contralateral LN, none > 6 cm. N3, Characteristic = Any LN > 6 cm. M0, Characteristic = No distant metastasis. M1, Characteristic = Distant metastasis
+*LN, lymph node.
+From Marur S, Forastiere AA. Head and neck cancer: changing epidemiology, diagnosis, and treatment. Mayo Clin Proc 2008;83:489-501.
+
+============================================================
+CHUNK 37
+============================================================
+MANAGEMENT AND OUTCOMES
+remaining alive and disease-free 3 years after standard curative treatment. Locoregional recurrences develop in 30% to 40% of patients, distant  metastases  in  20%  to  30%.  Patients  with  recurrent  small tumors, particularly of the larynx and nasopharynx, can be treated for cure  with  surgery  or  repeat  irradiation.  Patients  who  present  with unresectable large recurrent tumors or those with recurrent tumors in previously irradiated areas, and patients with distant metastases, are usually approached with the intent of palliation [39].
+
+============================================================
+CHUNK 38
+============================================================
+REFERENCES
+1. World  Health  Organization  (WHO).  WHO  Fact  Sheet  No  300,  March 2006.  http://www.who.int/mediacentre/factsheets/fs300/en/index.html  last accessed December 2009.
+2. Alberti PW. The prevention of hearing loss worldwide. Scand Audiol Suppl 1996;42:15-19.
+3. World Health Organization. Global Burden of Disease. 2004 Update. Geneva: World Health Organization; 2008.
+4. Acuin J.  Chronic  Suppurative  Otitis Media: Burden of Illness and Management Options. Child and Adolescent Health and Development Prevention of Blindness and Deafness. Geneva: World Health Organization; 2004.
+5. Browning GG, Gatehouse S, Calder IT. Medical management of active chronic otitis media: a controlled study. L Laryngol Otol 1988;102:491-5.
+6. Van Hasselt P, van Kregten A. Treatment of chronic suppurative otitis media with  ofloxacin  in  hydroxypropyl  methylcellulose  ear  drops:  a  clinical/ bacteriological study in a rural area of Malawi. Int J Pediatr Otorhinolaryngol 2002;63:49-56.
+7. Shin J, Neely J. Chronic otitis media. In: Shin JJ, Hartnick CJ, Randolph GW, eds.  Evidence-Based Otolaryngology. New York: Springer Science and Business Media, LLC; 2008:239-71.
+8. Acuin JM, Chiong C, Yang N. Surgery for chronically discharging ears with underlying  eardrum  perforations  (Protocol).  Cochrane  Database  Syst  Rev 2008;(1):CD006984.
+9. Charachon R, Grtacap B, Elbaze D. Anatomical and functional reconstruction of old mastoidectomy cavities by obliteration tympanoplasty. Clin Otolaryngol 1989;14:121-6.
+10.  Minatogawa T,  Jumoi  T,  Inamori T,  et  al.  Hyogo  ear  bank  experience  with allograft  tympanoplasty:  review  of  tympanoplasty  on  68  ears.  Am  J  Otol 1990;11157-63.
+
+============================================================
+CHUNK 39
+============================================================
+REFERENCES
+11.  Smits C, Swen S, Theo Goverts S, et al. Assessment of hearing in very young children receiving  carboplatin  for  retinoblastoma.  Eur  J  Cancer  2006; 42:492-500.
+12.  Jereczek-Fossa BA, Zarowski A, Milani F, Orecchia R. Radiotherapy-induced ear toxicity. Cancer Treat Rev 2003;29:417-30.
+13.  Bess F,  Humes L. Audiology: The  Fundamentals. Baltimore, MD: Lippincot Williams and Wilkins; 2009:198.
+14.  Wilson WR, Byl FM, Laird N. The efficacy of steroids in the treatment of idiopathic sudden  hearing loss.  Arch Otolaryngol  Head  Neck  Surg  1980;106: 772-6.
+15.  Westerlaken BO, Stokroos RJ, Dhooge I, et al. Treatment of idiopathic sudden sensorineural hearing loss with antiviral therapy: a prospective randomized double blind clinical trial. Ann Otol Rhinol Laryngol 2003;112:993-1000.
+16.  Tucci  DL, Farmer J,  Kitch  R, Witsell D.  Treatment  of  sudden  sensorineural hearing loss  with systemic  steroids  and valacyclovir.  Otol  Neurol  2002;23: 301-8.
+17.  Gianoli  GJ,  Li  JC.  Transtympanic  steroids  for  treatment  of  sudden  hearing loss. Otolaryngol Head Neck Surg 2001;125:142-6.
+18.  Kang JI, Kim DM, Lee J. Acute sensorineural hearing loss and severe otalgia due to scrub typhus. BMC Infect Dis 2009;9:173.
+19.  Petersen PE, Bourgeois D, Ogawa H, et al. The global burden of oral diseases and risks to oral health. Bull World Health Organ 2005;83:661-9.
+20.  Murray  JC,  Daack-Hirsch  S,  Buetow  KH,  et  al.  Clinical  and  epidemiologic studies of cleft lip and palate in the Philippines. Cleft Palate Craniofac J 1997; 34:7-10.
+
+============================================================
+CHUNK 40
+============================================================
+REFERENCES
+21.  Gwaltney JM Jr, Sydnor A Jr, Sande MA. Etiology and antimicrobial treatment of acute sinusitis. Ann Otol Rhinol Laryngol Suppl 1981;90:68-71.
+22.  Rosenfeld  RM, Andes D, Bhattacharyya N, et al. Clinical practice guideline adult sinusitis. Otolaryngol Head Neck Surg 2007;137(3 Suppl):S1-31.
+23.  Lund  V.  Therapeutic  targets  in  rhinosinusitis:  infection  or  inflammation? Medscape J Med 2008;10:105.
+24.  Osguthorpe  JD. Adult rhinosinusitis:  diagnosis  and  management. Am Fam Physician 2001;63:69-76.
+25.  Chester AC, Antisdel JL,  Sindwani R. Symptom-specific outcomes of endoscopic sinus surgery: a systematic review. Otolaryngol Head Neck Surg 2009; 140:633-9.
+26.  Kinnman J, Chi CH, Park JH. Cysticercosis in otolaryngology. Arch Otolaryngol 1976;102:144-7.
+27.  Del  Brutto  OH,  Roos  KL,  Coffey  CS,  Garcia  HH.  Meta-analysis:  cysticidal drugs for neurocysticercosis: albendazole and praziquantel. Ann Intern Med 2006;145:43-51.
+28.  Gill  G,  Beeching  N.  Lecture  Notes:  Tropical  Medicine.  Oxford,  UK:  WileyBlackwell; 2009:81.
+29.  Tappe D, Bü ttner DW. Diagnosis of human visceral pentastomiasis. PLoS Negl Trop Dis 2009;3(2):e320.
+30.  Fulciniti F, Califano L, Zupi A, Vetrani A. Accuracy of fine needle aspiration biopsy in head and neck tumors. J Oral Maxillofac Surg 1887;55:1094-7.
+31.  Ljung  BM,  Drejet  A,  Chiampi  N,  et  al.  Diagnostic  accuracy  of  fine-needle aspiration biopsy is determined by physician training in sampling technique. Cancer 2001;93:263-8.
+
+============================================================
+CHUNK 41
+============================================================
+REFERENCES
+32.  Pai BS, Anand VN, Shenoy KR. Diagnostic accuracy of fine-needle aspiration cytology  versus  frozen  section  in  solitary  thyroid  nodules.  The  Internet Journal of Surgery 2007;12, Number 2.
+33.  Forastiere  AA,  Goepfert  H,  Maor  M,  et  al.  Concurrent  chemotherapy  and radiotherapy for organ preservation in advanced laryngeal cancer. N Engl J Med 2003;349:2091-8.
+34.  Gourin CG, Conger BT, Sheils WC, et al. The effect of treatment on survival in patients with advanced laryngeal carcinoma. Laryngoscope 2009; 119:1312-17.
+35.  Patel RS, Clark JR, Dirven R, et al. Prognostic factors in the surgical treatment of patients with oral carcinoma. ANZ J Surg 2009;79:19-22.
+36.  Gil Z, Fliss  DM. Contemporary management of head and neck cancers. Isr Med Assoc J 2009;11:296-300.
+37.  Gourin CG, Conger BT, Sheils WC, et al. The effect of treatment on survival in  patients  with  advanced  laryngeal  carcinoma.  Laryngoscope  2009;1 19: 1312-17.
+38.  Patel RS, Clark JR, Dirven R, et al. Prognostic factors in the surgical treatment of patients with oral carcinoma. ANZ J Surg 2009;79:19-22.
+39.  Marur S, Forastiere AA. Head and neck cancer: changing epidemiology, diagnosis, and treatment. Mayo Clin Proc 2008;83:489-501.
+

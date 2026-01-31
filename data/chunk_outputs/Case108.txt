@@ -1,0 +1,319 @@
+============================================================
+CHUNK 0
+============================================================
+Key features
+- Resource-poor areas (RPAs), particularly sub-Saharan Africa, have the highest surgical disease burden with the lowest concentration of surgical and anesthesia providers in the world
+- Many operations in RPAs are performed by general practitioners with minimal formal surgical training
+- In RPAs, surgeons are, by default, 'general' surgeons, since they are expected to be local experts in all surgical disciplines, including obstetrics and gynecology
+- Delayed patient presentation and gross de'ciencies in basic infrastructure lead to the necessity of treating a large volume of patients with advanced disease using minimal equipment and supplies
+- Improvisation, maintenance, and reuse of 'disposable' items are essential RPA strategies
+- Prudent patient selection and safe anesthesia are the keys to successful operations
+
+============================================================
+CHUNK 1
+============================================================
+INTRODUCTION
+General  surgery  in  more  developed  areas  of  the  tropics  parallels general surgery in advanced areas outside the tropics, and surgeons in these areas are well served by standard textbooks of surgery. Many tropical  locations,  however,  are  resource-poor.  Surgery  has  been labeled  'the  neglected  stepchild  of  global  public  health'  [1].  SubSaharan Africa has the most concentrated surgical disease burden with the lowest concentration of surgical and anesthesia providers in the world (1 surgeon per 200,000 people in West Africa) [2]. Contrary to previously held beliefs, provision of essential surgical services in this setting  is  a  cost-effective  intervention  [3,4].  The  purpose  of  this chapter is to assist physicians practicing surgery, either full time or as short-term volunteers, in these resource-poor areas (RPAs).
+
+============================================================
+CHUNK 2
+============================================================
+PRACTICAL ASPECTS OF SURGERY IN RPAs
+Many  operations  in  RPAs  are  not  performed  by  formally  trained, board-certified surgeons, but by general practitioners with minimal formal surgical training. The term 'surgeon' in this chapter will subsequently refer to any practitioner performing operations, regardless of  training.  Surgeons  in  RPAs,  by  default,  are  'general'  surgeons expected to be local experts in all areas of surgery, including orthopedic, urologic, plastic, pediatric, otorhinolaryngologic, oral, neurologic, obstetric and gynecologic surgery. All surgeons in RPAs face a common set of problems: inadequate funding of health, hospitals, equipment and supplies, and poor infrastructure for the provision of water and electricity. Many resource-poor countries spend less than $10 per capita per annum on healthcare [5]. Professional isolation is the norm.
+Operative complications are common in RPA hospitals but can be minimized using a surgical safety checklist [6]. Surgeons who try to render quality healthcare may be overcome by the volume of patients and lack of resources and can burn out. Many then secure positions elsewhere  with  better  work  hours  and  compensation,  creating  a vicious cycle where people with the greatest needs are served by the fewest surgeons.
+
+============================================================
+CHUNK 3
+============================================================
+Water and Electricity
+Public  water  utilities,  if  available,  may  not  be  reliable,  and  water sources such as cisterns, wells, bore holes, and/or pumps for rivers or ponds must be incorporated as supplementary water sources. Electrical supply is often intermittent with wildly erratic voltage, requiring in-line stabilizers and circuit breakers to protect electrical equipment. Back-up generators are essential (although fuel scarcities may  limit their usefulness) unless one plans to perform all operative procedures in the hours of daylight with the operating table next to a window in order to use the sun as an operating light.
+
+============================================================
+CHUNK 4
+============================================================
+Equipment and Supplies
+Improvisation,  maintenance,  and  reuse  of  'disposable'  items  are essential strategies. Decisions are based on the surgeon's needs and the hospital's capacity to acquire and maintain technologically appropriate materials. Operating room essentials include a pulse oximeter, an adjustable  table,  a  lighting  system,  suction,  and  basic  operative instruments. Nonessential but extremely useful items are an electrocautery,  a  bronchoscope/esophagoscope  (particularly  for  pediatric foreign  bodies),  a  fiberoptic  headlight,  and  a  table-mounted  selfretaining retractor for upper abdominal procedures. Physicians, hospitals and organizations in more developed countries are sometimes willing to donate and ship used equipment to RPA hospitals; however, there may be exorbitant clearing and customs fees. Vetting donations to ensure that all equipment is functional, useful, and serviceable by the recipient institution is critical.
+Cordless  electric  drills/bits  for  home  use  work  well  as  bone  drills when  gas-sterilized  and  used  on  a  low  setting  to  minimize  burn damage to the bone. An LED headlamp can substitute for an expensive  fiberoptic headlight. Anal muscle stimulators for operations in children with anorectal malformations cost $3000 in more developed countries,  but  a  substitute  can  be  improvised  using  an  anesthesia nerve stimulator ($50) and a piece of insulated, double-strand wire ($3) [7]. No improvisation is as good as the original, but all work surprisingly well and are better than having nothing.
+Conditions in the tropics vary between hospitals, but expense, erratic availability, pilferage, deterioration, and lack of domestic production complicate the maintenance of an adequate central store. The tropical
+surgeon must decide which supplies and drugs are essential and then obtain them locally when possible, import them, or improvise from local materials.  Nylon fishing line can substitute for monofilament suture, and carpet/sewing thread for multifilament suture. If disposable dressing gloves are not available, plastic bread bags can serve as inexpensive barrier-protection gloves when handling dressings, examining  wounds,  and  performing  digital  rectal  examinations.  Worn sheets can be converted into rolled bandages, and towels cut to serve as laparotomy sponges. Non-chemically treated mosquito netting can substitute for medical-grade mesh for tension-free hernia repairs [8].
+
+============================================================
+CHUNK 5
+============================================================
+Sterilization
+Reaching Western sterilization standards may not be possible. Sterilization techniques used in RPAs include steam autoclaving, soaking in antiseptic solution, boiling and gassing. Steam autoclaving can use electricity,  gas,  wood,  coal  or  kerosene  as  an  energy  source  and  is preferred for instrument sets and cloth packs. Soaking solutions such as methyl alcohol (readily available in RPAs) is helpful in sterilizing scissors and blades that tend to dull or rust when steam-autoclaved. Boiling does not kill spores, but it can serve as a 'flash' technique for dropped  instruments.  Gas  sterilization  is  helpful  in  re-sterilizing rubber and plastic tubes, catheters, drains, electrical cords, and instruments  such  as  diathermy  pencils  and  power  drills.  Ethylene  oxide ampoule  systems  are  ideal,  but  relatively  expensive  for  RPAs  and cannot be transported by air or even on many container ships. An improvised  gas  sterilization  system  utilizes  formaldehyde  inside  a discarded refrigerator with intact rubber seals. Inexpensive solar autoclaves made from locally available materials are currently being tested.
+Wound infections in RPAs can be decreased by providing patients a place  to  bathe  with  water  and  soap  before  entering  the  operating room.  For  elective  operations,  on-the-table  skin  preparation  with commercially available soap and methyl alcohol has been shown to be as effective as the more expensive Betadine technique [9].
+
+============================================================
+CHUNK 6
+============================================================
+Anesthesia
+Safe anesthesia is the key component to successful operations in RPAs. Few  formally  trained  physician  anesthesia  providers  exist  in  RPAs outside of university hospitals. In most RPA hospitals, the anesthesia 'department' usually consists of the surgeon and a personally trained nurse or technician. The surgeon must pay close attention to all activities on both sides of the ether screen. A functioning pulse oximeter is arguably the most important piece of equipment in an RPA operating room. Anesthetic options include vocal and hypnotic techniques, acupuncture,  local  and  regional  techniques,  and  dissociative  and general techniques. The choice of technique depends on the patient, the procedure, the availability of drugs and trained personnel, and the preference  of  the  patient  and  surgeon.  Airway  management  is  of prime  importance  in  all  techniques.  The  Eleven  Golden  Rules  of Anesthesia [10] should be followed regardless of the level of medical sophistication (Box 14.1). General anesthesia capability necessitates additional equipment and personnel. Inhalational anesthetic systems that are technologically appropriate for RPAs have been developed. Drawover units, exemplified by the EMO (Epstein Macintosh Oxford) ether  vaporizer,  do  not  require  compressed  gases  or  electricity  and have been modified for use with halothane. Because halothane has a cardiodepressant action, it should be given with oxygen enrichment. Portable oxygen concentrators can supply up to 6 L oxygen/minute to supplement these drawover systems (Fig. 14.1). Air compressors employed in combination with Boyle's type units can provide freshly compressed air as the carrier gas, thus eliminating the need for expensive and hard-to-find nitrous oxide.
+Ketamine,  a  neuroleptic  agent  providing  dissociative  anesthesia,  is used extensively in RPAs because of its effectiveness, availability, relatively low cost, and safety [1 1]. It rarely causes hypotension or respiratory depression,  but  airway monitoring,  as  with  all anesthetic techniques, is  mandatory.  It  may serve as the sole  anesthetic agent (particularly in children), as an induction agent, or as one part of a balanced technique. It does not provide muscle relaxation, but intramuscular  or  intravenous  ketamine  safely  anesthetizes  children  for
+
+============================================================
+CHUNK 7
+============================================================
+BOX 14.1  The Eleven Golden Rules of Anesthesia
+1. Perform an adequate history and physical examination
+2. Perform  operations  on  fasting  patients.  For  abdominal emergencies, empty the stomach with a nasogastric tube and use a crash induction
+3. Place the patient on a tilt-top table
+4. Check the anesthetic equipment BEFORE you begin
+5. Always have suction capability available
+6. Keep the airway clear and open
+7. Be prepared to control the patient's  ventilation (have an ambu-type bag available)
+8. Have a good IV line (optional in some instances of local anesthesia or IM ketamine)
+9. Monitor the patient frequently
+10.  Have someone around to help
+11.  Be ready with equipment and agents to manage resuscitation from a cardiopulmonary arrest
+After  King  M,  ed.  Primary  Anesthesia.  Oxford,  UK:  Oxford  University  Press; 1986.
+FIGURE 14.1 Drawover  vaporizer  and  oxygen  concentrator:  inhalational general anesthesia without commercial gas cylinders.
+abscess drainage, wound dressings, cast changes, burn debridement, herniorrhaphy,  and,  with  repeated  injections,  for  long  procedures such as orthopedic and plastic procedures of the extremities. In adults, intravenous  ketamine  is  especially  useful  as  a  short-duration  anesthetic for dressing or cast changes and abscess drainage. Concomitant glycopyrrolate  or  atropine administration  helps reduce hypersalivation.  Benzodiazepine  co-medication  decreases  emergence phenomena  in  adults  but  is  not  routinely  needed  in  children  since  the incidence of emergence phenomena is quite low in children [1 1].
+Emergency  intra-abdominal  procedures  present  an  anesthetic  challenge.  Gastric  decompression  to  minimize  the  risk  of  aspiration  is obligatory before delivery of any anesthetic. Spinal anesthesia can be
+used for emergency procedures below the diaphragm, but hypovolemia  must  be  corrected  before  anesthesia  delivery,  because  the spinal technique abolishes the sympathetic tone of the lower extremities,  increases  the  capacitance,  and  produces  hypotension.  General anesthesia with a controlled airway is safer in emergency situations if appropriate equipment, agents and personnel are available.
+
+============================================================
+CHUNK 8
+============================================================
+Laboratory
+The only consistently available tests in most RPA hospitals are: hematocrit, leukocyte count and urinalysis. Other tests, in order of decreasing availability, are: Gram stain, blood urea nitrogen, creatinine, liver enzymes, electrolytes, coagulation studies and blood cultures. Arterial blood gases are rarely available. HIV testing is available in most locations, but reagents and test kits may be in short supply.
+
+============================================================
+CHUNK 9
+============================================================
+Imaging and Endoscopy
+Outside of teaching hospitals and certain urban medical centers, the tropical  surgeon  rarely  encounters  radiologists,  functioning  fluoroscopic units, or interventional technique capability. Ultrasound (US) is  relatively  inexpensive,  noninvasive and portable, but is  operatordependent. US, especially useful in assessing the pelvis for obstetrics, can also provide the surgeon with important anatomic information about  the  biliary  tract,  liver,  pancreas  and  kidneys.  US  can  detect ascites,  distinguish  solid  from  cystic  masses,  and  localize  intraabdominal abscesses. It is having an increasing role in the diagnosis and follow-up of parasitic diseases, e.g., schistosomiasis, hydatid cysts, amebic liver abscess and lymphatic filariasis.
+Endoscopy  has  become  more  widespread,  and  flexible  fiberoptic esophagogastroduodenoscopy is sometimes found even in peripheral areas.  Initial  cost  and  equipment  maintenance,  however,  limit  the availability of this valuable diagnostic tool.
+
+============================================================
+CHUNK 10
+============================================================
+Histopathology
+Frozen-section capability is usually unavailable. The turnaround time for histopathologic reports can be months, and decisions relating to diagnosis,  adequacy  of  margins,  and  institution  of  chemotherapy (e.g., antitubercular or antineoplastic) must often be made on clinical grounds alone or deferred for unacceptably long periods.
+
+============================================================
+CHUNK 11
+============================================================
+Transfusion Service
+The transfusion service is largely a blood typing and collecting station and not a blood storage facility. Transfusions usually involve on-thespot  donor recruitment  and  immediate  transfusion.  Local  customs and beliefs can inhibit blood donation, and consequently, establishing and maintaining a blood bank is difficult. 'Walking' blood banks, whereby volunteers in an institution, organization or community are typed, can provide a measure of emergency supply.
+
+============================================================
+CHUNK 12
+============================================================
+AN OVERVIEW OF SURGICAL PRACTICE IN THE TROPICS
+The tropical surgeon encounters few disease processes that the temperate surgeon does not encounter, but those common to both surgeons are usually far advanced on presentation in the tropics (Fig.  14.2). RPA surgeons therefore must treat patients with advanced problems often using minimal equipment and supplies. Patients in RPAs tend to be younger and more undernourished and to have less comorbid disease (atherosclerotic vascular disease and smoking-related pulmonary disease). Elective operating schedules are frequently difficult to achieve, since trauma, infection, and obstetric emergencies crowd out elective  cases  and  consume  most  of  the  surgeon's  time.  Operating rooms in RPAs can have poor illumination and climate control, with dust  and  flying  insects  part  of  the  operating  room  environment. Operative cases should be made as simple as possible. Distance, inconvenience, expense, and lack of perceived need limit patient follow-up, and  the  physician's  knowledge  of  treatment  outcomes  is  severely limited. Information sharing by surgeons is usually anecdotal.
+
+============================================================
+CHUNK 13
+============================================================
+GENERAL SURGERY
+Trauma, infections, neoplasms, and abdominal problems including groin hernias constitute the four major areas of general surgery. Endocrine procedures are generally limited to the thyroid.
+
+============================================================
+CHUNK 14
+============================================================
+Trauma
+Half of tropical surgery beds are filled by trauma victims. Mortality is high, and survivor morbidity and disability pose great socioeconomic costs for families and society. Some of the world's highest traffic fatality rates are reported from tropical countries. Crash scene and transport  care  is  generally  rendered  by  untrained  'good  Samaritans' without  regard  for  spinal  injuries.  Emergency  rooms  are  seldom equipped or staffed adequately for normal activities, much less for 50 mass  casualty  victims  in  various  stages  of  dying,  being  delivered simultaneously. The RPA trauma surgeon must be a 'general' surgeon with a functional knowledge of orthopedics, neurosurgery, urology, and plastic surgery in addition to general and thoracic surgery (Fig. 14.3).  In  the  face  of  economic  adversity,  the  proliferation  of  wellmade,  inexpensive  motorcycles  has  led  over  the  past  decade  to  a threefold increase in motorcycle crashes with subsequent head and/ or  spine  injuries  and  long-bone  fractures.  Motorcycle  'taxis'  are  a ubiquitous scourge in many RPAs.
+
+============================================================
+CHUNK 15
+============================================================
+Infections, Bites and Stings
+Stings  from  scorpions  and  bites  from  humans,  dogs,  cats,  wild animals, snakes, spiders and insects cause local and systemic problems. A bite near a hand joint must be examined closely, opened if there is suspicion of violation, irrigated, and left unsutured with the patient  admitted  for  antibiotic  administration  and  extremity  elevation. Rabies is a major concern, primarily from dog bites. Poisonous snakebites vary in incidence and type by topography and locale. Systemic antivenom may be indicated, and local care with wound excision  and  fasciotomy  may  be  required  to  treat  local  and  vascular compartment problems. Procaine infiltration, ice and analgesics can relieve the pain of scorpion envenomation. Black widow spider bites produce generalized muscle spasms while brown recluse spider bites produce a local ulcer with ischemic necrosis.
+Abscesses  of  the  skin,  subcutaneous  tissue,  muscles  (pyomyositis), bones (osteomyelitis),  joints (pyarthrosis),  thorax  (empyema),  and pericardial sac occur frequently and  require drainage. Staphylococcus aureus is  the  most  frequent  etiologic  agent.  Multiple  abscesses  are common and may occur synchronously or metachronously. Early and wide drainage with antibiotic administration minimizes hematogenous spread of  infection.  Hand  infections  pose  a  special  difficulty because  most  patients  delay  seeking  medical  care;  and  even  after drainage,  antibiotics,  elevation  and  physiotherapy,  residual  hand deformity is frequently the outcome.
+Clinically important mycoses include mycetoma, aspergillus granuloma, phycomycosis, histoplasmosis and chromoblastomycosis. Mycetoma  (Madura  foot)  is  a  clinically  defined  lesion  with  swelling (chronic inflammation), multiple sinuses, and discharge of granules. Surgical  treatment  options  include  observation,  local  excision  to healthy tissue, and amputation.
+
+============================================================
+CHUNK 16
+============================================================
+Cancer
+The mortality rate from cancer in RPAs is higher than the rate in highincome  areas  [12].  Accurate  statistics  are  not  widely  available,  but cancers of the cervix, esophagus, stomach, liver, breast and prostate predominate. Primary hepatocellular carcinoma is more frequent in high hepatitis B and C virus areas. Most malignancies present at an advanced stage (see Fig. 14.2), and operations are usually palliative. Increased tobacco production and use in RPAs has been accompanied by an increase in tobacco-related illnesses, including lung cancer.
+
+============================================================
+CHUNK 17
+============================================================
+Abdominal Surgery
+Tropical gastrointestinal  surgeons have noted changing  disease patterns.  Appendicitis  is increasing  in incidence,  and  intestinal
+FIGURE 14.2 Typical stage at presentation: A 18-year-old male with ameloblastoma of the right mandible; B 55-year-old female with locally advanced and metastatic malignant melanoma; C 62-year-old male with thyroid carcinoma; D 43-year-old female with locally advanced and metastatic breast cancer.
+obstruction is assuming a more Western pattern, with adhesions and neoplasms joining hernias as common causes. Appendiceal perforation,  strangulated  bowel  (intestinal  obstruction,  hernia,  volvulus), ileal typhoid perforations, and perforated duodenal ulcers are leading causes of secondary bacterial peritonitis  and  carry a high  mortality rate because of advanced sepsis due to delays in seeking medical care. Since people rarely present until after a hernia is complicated (Fig. 14.4), obstruction, strangulation and peritonitis occur and sometimes cause fatalities.
+
+============================================================
+CHUNK 18
+============================================================
+Laparoscopy
+The role of laparoscopy in RPAs is yet to be defined. To compensate for the lack of computed tomography (CT) and magnetic resonance imaging (MRI), diagnostic laparoscopy using non-disposable equipment and locally crafted dissectors can reduce the need for diagnostic laparotomy, especially in sexually active females when pelvic pathology is difficult to differentiate from appendicitis. Surgeons in India have decreased costs to $1.20 per patient [13]. However, initial equipment cost and subsequent maintenance remain obstacles to broader acceptance.  It  is  also  difficult  to  perform  therapeutic  laparoscopic procedures  in  RPA  hospitals  with  a  sporadic  electrical  supply.  An ethical consideration in laparoscopy is the training of RPA surgeons. The teaching of open procedures should not be neglected when laparoscopy is added to a training curriculum, since surgical trainees who primarily learn laparoscopic procedures in teaching hospitals will find it difficult to function in situations where the only option is an open procedure.
+
+============================================================
+CHUNK 19
+============================================================
+Volvulus
+Sigmoid volvulus is a leading cause of intestinal obstruction. Previously healthy patients will present with marked abdominal distention and tympany to percussion but without peritonitis unless strangulation or perforation has occurred. Although sigmoidoscopic deflation can be attempted, operation is the usual treatment since the colon is often strangulated. If at laparotomy the bowel is viable, a rectal tube can be passed under guidance, the loop deflated, and the volvulus manually reduced. After bowel preparation, an interval sigmoid resection  can  be  performed  to  avoid  the  recurrence  that  is  likely  after
+FIGURE  14.3 A  5-year-old  boy's  right  foot  traumatized  by  a  taxi. A Preoperative  view  with  exposed  ankle  joint,  tarsal  joints  and  soft  tissue  defect. B Fasciocutaneous @ap elevated from the left calf. C Cross-leg @ap placed to cover right foot defect. D Postoperative result: full coverage and function.
+FIGURE  14.5 Ileosigmoid  knotting  with  ischemic  colon  and  frankly nonviable small bowel.
+simple reduction. Alternatively, with viable bowel, an on-table lavage can be performed, the sigmoid resected, and alimentary continuity re-established by a primary anastomosis. When the sigmoid is strangulated,  resection  of  the  dead  bowel  with  the  creation  of  an  end colostomy and mucus fistula or Hartmann pouch is recommended. Not infrequently, a loop of small bowel is caught in a twist of the sigmoid  colon  mesentery,  producing  a  concomitant  closed-loop obstruction and strangulation of the small bowel, the so-called compound volvulus or ileosigmoid knotting (Fig. 14.5). A small bowel resection and anastomosis must be performed in addition to correction of the colonic volvulus.
+
+============================================================
+CHUNK 20
+============================================================
+Gastrointestinal Obstruction and In+ammation
+The leading operative indication for peptic ulcer disease in RPAs is gastric outlet obstruction. Helicobacter pylori may be the most common bacterial infection in Africa. H. pylori seropositivity was noted in 9 1% of Nigerian children under 20 years of age [14]. Mesenteric vascular diseases are not common. Inflammatory-type bowel diseases that can mimic regional  enteritis  or  ulcerative  colitis  now  occur  in  patients with HIV infections but are usually infectious, not idiopathic. Enteritis necroticans (pig-bel), a particular problem in the highlands of New Guinea, is a necrotizing enteritis produced by Clostridium perfringens toxin,  and  operative  resection  may  be  required  to  remove  necrotic bowel.
+
+============================================================
+CHUNK 21
+============================================================
+Biliary Disease
+Operative hepatobiliary and pancreatic diseases are not as frequent in sub-Saharan Africa as in Asia, where many are secondary to ascaris and liver flukes obstructing the biliary or pancreatic ducts. Cholecystitis is increasing in Saudi Arabia, probably secondary to changes in diet [15]. Gallbladder stones develop in patients with hemoglobinopathies; with increasing life expectancy in sub-Saharan Africa, sickle cell patients will more frequently present with complicated cholelithiasis.
+
+============================================================
+CHUNK 22
+============================================================
+OBSTETRICS AND GYNECOLOGY
+These entities are covered in Chapter 6.
+
+============================================================
+CHUNK 23
+============================================================
+ORTHOPEDICS
+Musculoskeletal problems in the tropics are covered in Chapter 13.
+
+============================================================
+CHUNK 24
+============================================================
+UROLOGY
+Urologic problems can be congenital, infectious, obstructive or neoplastic.  Undescended  testes,  hypospadias,  posterior  urethral  valves, and torsion of the testis  are congenital  anatomic problems. Orchiopexy by 12 months maximizes the chances for spermatogenesis in
+FIGURE 14.6 Tuberculosis cervical lymphadenitis (scrofula) in an 8-yearold Yoruba boy.
+cases of undescended testis. Children with hypospadias should not be circumcised at birth because the foreskin can be utilized later as a flap for hypospadia repair. Posterior urethral valves in males are diagnosed prenatally or shortly after birth in more developed areas, but in RPAs the diagnosis may not be made until several months of life, when the child presents with a chronic history of difficulty in initiating urination and a very weak urinary stream. A voiding cystourethrogram is the definitive test. Vesicostomy provides temporary treatment until definitive valve destruction can be performed endoscopically or through a perineal approach.
+In the absence of ultrasound and flow Doppler examination, testicular torsion can be excluded only by direct visualization. In societies in which procreation is nearly mandatory, all males without progeny who present with a swollen, tender scrotum-testis should undergo scrotal exploration for diagnosis. Although the ipsilateral testis with torsion often is unsalvageable, orchiopexy of the contralateral testis can prevent future loss and resultant sterility.
+Renal and ureteric stones are not prevalent in blacks, but Mediterranean  Arabs  have  frequent  stone  problems.  Since  endoscopic  and ultrasound techniques are generally not available, lithotomy is indicated for obstruction complicated by pain, progressive renal damage, or persistent infection. Lower urinary tract obstruction in older men generally results  from  benign prostatic  hypertrophy, prostatic  carcinoma, or urethral stricture secondary to prior gonococcal urethritis. Benign  prostatic  hypertrophy  is  treated  by  prostatectomy,  usually open  rather  than  transurethral.  Urethral  stricture  is  managed  by repeated bougienage, suprapubic tube cystostomy, direct vision internal urethrotomy, or urethroplasty.
+
+============================================================
+CHUNK 25
+============================================================
+UROLOGY
+Cancers of the kidney, bladder, prostate, and penis (squamous cell carcinoma)  are  often  seen  at  an  advanced,  non-operative  stage. Urinary  tuberculosis  should  be  considered  in  patients  with  sterile pyuria. Infection by Schistosoma haematobium may produce granulomas of  the  ureters  and  bladder  and  result  in  bleeding,  obstructive uropathy, pyelonephritis, or carcinoma of the bladder. Fournier's gangrene is a spontaneous gangrene of the skin of the scrotum and penis. Multiple organisms have been cultured, including C. perfringens . The onset is sudden and painful and is accompanied by fever and toxemia. Partial- or full-thickness scrotal slough can occur, exposing the testes. Treatment consists of antibiotics and aggressive debridement, and, on occasion, skin grafting.
+
+============================================================
+CHUNK 26
+============================================================
+EAR-NOSE-THROAT AND DENTAL SURGERY
+Foreign bodies, neoplasia, infections, allergic conditions, maxillofacial trauma, and congenital anomalies are all seen in a tropical surgical practice. Tuberculous cervical adenitis (Fig. 14.6), Ludwig's angina,
+FIGURE 14.7 Cancrum oris (noma). Gangrenous stomatitis with soft tissue and  bone  defect  producing  an  orocutaneous  Astula  in  a  5-year-old malnourished boy.
+dental  abscesses,  and  otitis  media  with  or  without  mastoiditis  are common infections of the head and neck. Croup and laryngotracheobronchitis, especially as a complication of measles, may so compromise a child's airway that tracheostomy is mandatory. If nursing care, suctioning  and  humidification  are  deficient,  serious  complications may accompany tracheostomy. Cancrum oris (noma), usually seen in malnourished children, is a destructive, necrotic process (Fig. 14.7) that  can  produce  oro-naso-cutaneous  fistulas  and  ankylosis  of  the temporomandibular joint. Once infarction, infection and inflammation respond to debridement, penicillin and diet, the resultant fibrosis and tissue defects present a formidable reconstructive challenge. Myocutaneous flaps such as the pectoralis major island flap can be used to repair these complex problems. Dental care in RPAs is often extractive  rather  than  preventative  and  preservative  in  nature  and  is  not available in many rural areas.
+
+============================================================
+CHUNK 27
+============================================================
+PLASTIC SURGERY
+Caring  for  large,  infected,  neglected  wounds  using  a  minimum  of equipment and supplies occupies a large percent of the tropical surgeon's  time.  Simplified  negative  pressure  wound  therapy  ('wound vacuuming') can often speed the rate of wound closure.
+Thermal burns may receive inadequate initial treatment with resultant high  mortality  from  renal  failure  and  burn  wound sepsis.  In  acute burn  survivors,  residual  contractures  and  hypertrophic  scarring  are crippling.  Skin-grafting  capability  for  burn  wound care is  essential, with grafts taken freehand or with a drum or electric dermatome. The Tanner meshing technique allows expansion of the graft and improves graft  'take' .  Early  tangential  excision  and  skin  grafting  should  be considered except for extensive burns.
+Burns  of  the  hands  are  especially  debilitating,  but  improved  functional results can be obtained with early tangential excision and grafting, proper splinting, and conscientious physiotherapy. Infections and non-thermal  hand  injuries  are  very  common  and  require  prompt treatment to avoid fibrosis and contractures. Techniques of groin- and abdominal-flap  coverage  are  particularly  helpful  in  treating  hand injuries.
+A  common  congenital  abnormality  is  cleft  lip  with  or  without  a palatal  defect.  Access  to  corrective  procedures  and  rehabilitation  is often poor. Parents, disturbed by the neonate's deformity, want immediate repair. Counseling is indicated because lip repairs traditionally should  not  be  undertaken  until  '10  weeks  of  age,  10  pounds  of weight, and a hemoglobin level of at least 10 g/dL' . Palatal repair is delayed until 1 year of age but should be performed before speech develops in order to prevent a nasalized speech pattern.
+
+============================================================
+CHUNK 28
+============================================================
+NEUROSURGERY
+Imaging  techniques,  equipment  and  personnel  to  detect  and  treat tumors, arteriovenous malformations and various congenital abnormalities are rarely available. CT scanners are available at a few teaching hospitals and private clinics in the tropics, but scanner maintenance and expense limit availability and access.
+Tropical neurosurgery focuses on trauma. Without benefit of sophisticated diagnostic equipment, head injury victims who have deterioration  in  their  level  of  consciousness  or  who  develop  lateralizing neurologic signs should undergo exploration through burr holes with drainage if an epidural or subdural hematoma is found. Patients with open,  depressed  skull  fractures  require  operation  for  debridement, hemostasis,  elevation,  and  closure  and  coverage  of  the  dura.  Pond fractures (circular depressed fractures) in children can be observed or elevated using an obstetric vacuum extractor.
+Spinal injuries from vehicular crashes or falls from trees are a major cause  of  morbidity  and  mortality.  Spinal  cord  injury  rehabilitation programs are rarely existent in RPAs; and if the para- or quadriplegic patient survives the in-hospital period of stabilization by traction, he or she often succumbs to urinary or decubitus ulcer-related sepsis after discharge. Spinal tuberculosis also causes paralysis. If deterioration of neurologic function in a patient with Pott's disease is recent or if it continues  while  the  patient  is  receiving  adequate  antituberculous chemotherapy, drainage of the paraspinal abscess with spine stabilization should be considered.
+
+============================================================
+CHUNK 29
+============================================================
+PEDIATRIC SURGERY
+Special  concerns  in  tropical  pediatric  surgery  include  congenital anomalies  of  imperforate  anus,  bowel  atresia,  esophageal  atresia, abdominal wall defects, and neural tube defects. These anomalies are apparent  at  birth  before  the  child  has  been  named  and  officially recognized as a family member, and parents may not seek treatment for such neonates and may refuse operative intervention if it is offered. Hirschsprung's  disease,  urinary  tract  abnormalities,  and  pediatric tumors, on the other hand, are usually detected after familial acceptance, and surgical help is sought, although stomas are often refused. Intussusception is a leading cause of intestinal obstruction in children 3  months to 2 years  of  age.  Hydrostatic  reduction  is  not  routinely employed because of the uncertainty of adequate reduction as well as the scarcity of barium, film and fluoroscopy units. Operative reduction is the usual management for intussusception, and a nonviable intussusceptum is common. The mortality rate can be high [16].
+
+============================================================
+CHUNK 30
+============================================================
+CARDIOTHORACIC SURGERY
+Pump oxygenators and the technological and financial support they require are rarely found in RPAs. Rheumatic fever with resultant valvular problems, congestive failure, congenital heart diseases, endomyocardial  fibrosis  and  other  cardiomyopathies,  e.g.,  Chagas  heart disease, and the  pericardial  problems  of constriction (tuberculosis) and effusion (pyopericardium) are the major problems facing cardiologists  and  cardiac  surgeons.  Non-cardiac  thoracic  surgeons  deal primarily  with  tuberculosis,  thoracic  empyema  (commonly  after measles),  hemoptysis  from  destroyed  lung,  bronchiectasis,  hydatid cyst, lung abscess, and trauma. Lung cancer is not widespread in RPAs but is increasing as tobacco use increases.
+
+============================================================
+CHUNK 31
+============================================================
+OPHTHALMOLOGY
+Eighty percent of the world's preventable blindness occurs in patients living in the developing world. Causes of blindness include trauma, trachoma, onchocerciasis,  corneal  scarring,  xerophthalmia  (dryness and vitamin A deficiency) and cataracts. Cataracts blind 18 million people  in  the  developing  world,  with  the  number  doubling  every 20-25 years. A nation may have major eye treatment centers, but only a select population has access to such care. Most people with treatable eye diseases never see an ophthalmic surgeon.
+FIGURE  14.8 Perforation  of  the  ileum  in  typhoid  fever  with  secondary bacterial suppurative peritonitis.
+
+============================================================
+CHUNK 32
+============================================================
+TETANUS
+See Chapter 55.
+
+============================================================
+CHUNK 33
+============================================================
+TYPHOID
+Hemorrhage from and perforation of ileal ulcers are potentially fatal complications of typhoid. After prolonged periods of fever, catabolism and undernutrition, the patient can develop secondary bacterial peritonitis (Fig. 14.8). The best treatment is resuscitation followed by operative intervention to limit further contamination and to cleanse the peritoneal cavity. Simple two-layer closure in a transverse axis is adequate for one or two perforations. Multiple perforations require segmental resection with retention of the ileocecal valve if possible. Copious irrigation of the entire peritoneal cavity with saline is recommended.  Operative  mortality,  although  as  low  as  3-5%  in  some centers, is often in the 30% range.
+
+============================================================
+CHUNK 34
+============================================================
+LEPROSY (HANSEN'S DISEASE)
+Patients  with  Hansen's  disease  may  need  surgical  intervention  to prevent or treat complications of the feet, hands and eyes. Foot ulcers, with or without accompanying osteomyelitis of the underlying bones, need  bed  rest,  debridement,  antibiotics,  adequate  footwear,  and  a change  of  lifestyle.  Occasionally,  ulcers  require  transtibial  amputation.  Tendon  transfers  can  improve  the  pinch  or  intrinsic  muscle function of a hand or counter a drop-foot gait, thus enhancing limb function and rehabilitation.
+
+============================================================
+CHUNK 35
+============================================================
+TUBERCULOSIS
+The surgeon's role in tuberculosis is to obtain material for diagnosis (e.g., bronchoscopy, lymph node biopsy) and to treat complications. Tube thoracostomy is employed to treat pneumothorax, empyema and pyopneumothorax. Elective resections are used for bronchostenosis, bronchiectasis, destroyed lung, giant emphysematous bulla, resistant organisms, and recalcitrant patients with sputum-positive, localized open cavities.  Elective  pericardiectomy may  be required in  patients with constrictive pericarditis. Life-threatening hemoptysis may require emergency thoracotomy with lobectomy or pneumonectomy.
+
+============================================================
+CHUNK 36
+============================================================
+SCHISTOSOMIASIS
+Schistosomiasis causes granuloma formation with bleeding, fibrosis and  stricture  in  the  lower  gastrointestinal  and  genitourinary  tracts. Schistosomiasis is a leading cause of portal hypertension. Treatment options for  life-threatening variceal bleeding include medical  management (vasopressin), balloon tamponade, injection sclerotherapy, variceal ligation,  esophageal transection and portal  decompression. Because  of  better  liver  function,  patients  with  schistosomiasis  do better  following  shunt  procedures  than  do  those  who  bleed  from alcoholic or  postviral  cirrhosis. Urinary schistosomiasis can lead to an obstructive uropathy with progressive renal failure. Intraluminal obstruction  of  the  distal  ureter  and  damage  to  the  ureteric  muscle with loss of peristalsis produce hydronephrosis. Operative options for an abnormal distal ureter include ureteroneocystostomy and ureteric reconstruction. Cystoplasty using sigmoid, cecal or ileal bowel segments may be indicated in patients with a contracted bladder and can be combined with ureteric replacement. Urinary schistosomiasis can also  contribute  to  the  development  of  carcinoma  of  the  bladder. Because such patients usually present with advanced disease, obstruction and renal failure, few are candidates for total cystectomy. Urinary diversion, with an ureterocolostomy to avoid a stoma and appliance, may provide palliation.
+
+============================================================
+CHUNK 37
+============================================================
+HYDATID CYST
+Open  surgical  resection  remains  an  important  option  for  many patients with cystic hydatid disease, although excellent results following  ultrasound-guided  percutaneous  aspiration,  injection  of  scolicidal  agents,  and  re-aspiration  (PAIR)  of  hydatid  cysts  in  the  liver have been reported. Hypertonic saline solution or 0.1% cetrimide is recommended as the operative scolicide in preference to  formalin. The operative goal is removal of the cyst without: (1) fluid leakage, which  may  cause  toxic  or  anaphylactic  reaction;  (2)  spillage  of scolices  or  germinal  epithelium,  which  may  produce  new  cysts; or (3) bleeding and secondary infection. Alveolar hydatid disease of the liver  requires  a  partial  hepatectomy  for  treatment,  and  surgical resection,  when  possible,  is  recommended  for  polycystic  hydatid disease.
+
+============================================================
+CHUNK 38
+============================================================
+AMERICAN TRYPANOSOMIASIS
+The 'megasyndromes' cause either dysphagia from megaesophagus or constipation from megacolon. Surgical treatment for megaesophagus includes partial or total resection of the esophagus, cardioplasty and myotomy. However, a report from Brazil noted a 62% incidence of complications in patients undergoing operation for chagasic megaesophagus,  with  one-third  requiring  reoperation  and  88%  having either a complication or postoperative dysphagia. Sigmoid resection is  the  operative  treatment for megasigmoid. Toxic megacolon from Chagas disease warrants total colectomy.
+
+============================================================
+CHUNK 39
+============================================================
+FILARIAL ELEPHANTIASIS
+Bancroftian, Malayan and Timorian filariasis can produce secondary lymphedema  and  the  chronic  obstructive  signs  of  elephantiasis involving subcutaneous tissues of the scrotum and the lower extremities. Scrotal elephantiasis can be treated with excision of redundant tissue and placement of the testes in upper thigh adductor pockets or in a newly constructed scrotum. More than 20 operative procedures for the relief of chronic lower extremity lymphedema exist, indicating that none is superior. Operations for edematous extremities should be  recommended  only  after  careful  consideration.  The  procedure most commonly employed is that of Charles (1912), in which the involved skin and lymphedematous subcutaneous tissue are excised down to deep fascia and the fascia then skin-grafted.
+
+============================================================
+CHUNK 40
+============================================================
+CONCLUSION
+Developing and advancing a surgical practice in RPAs is challenging and frustrating, but can be quite rewarding. One must be vigilant not to let standards drop. Time-outs and an intentional focus on creating a culture of 'safe surgery' can improve outcomes and job satisfaction. It helps to have local colleagues, to train interested nationals, to take care of one's own health, to take a long view, and to have a sense of humor.  Two  final  aphorisms:  Variability  is  the  norm.  Adversity  is inevitable, but misery is optional.
+
+============================================================
+CHUNK 41
+============================================================
+REFERENCES
+1. Farmer P, Kim J. Surgery and global health: a view from beyond the OR. World J Surg 2008;32:533-6.
+2. MacGowan WAL. Surgical manpower worldwide. ACS Bulletin 1987;72:5-7.
+3. 3.
+4. Ozgediz D, Riviello R. The 'other' neglected diseases in global public health: surgical conditions in sub-Saharan Africa. PLoS Med 2008;5:e121.
+4. Gosselin RA, Thind A, Bellardinelli A. Cost/DALY averted in a small hospital in Sierra Leone: what is the relative contribution of different services? World J Surg 2006;30:505-11.
+5. WHO Western Pacific Region - Fact sheets - Health, poverty and MDG. http:// www.wpro.who.int/media_centre/fact_sheets/fs_20050621.htm.
+6. Haynes AB, Wiser TG, Berry WR, et al. A surgical safety list to reduce morbidity and mortality in a global population. N Engl J Med 2009;360:491-9.
+7. Meier  DE.  Opportunities  and  improvisations:  a  pediatric  surgeon's  suggestions for successful short-term surgical volunteer work in resource-poor areas. World J Surg 2010;34:941-6.
+8. Freudenberg  S,  Sano  D,  Ouangré  E,  et  al.  Commercial  mesh  versus  nylon mosquito net for hernia repair. A randomized double-blind study in Burkina Faso. World J Surg 2006;30:1784-90.
+9. Meier DE, Nkor SK, Aasa D, et al. Prospective randomized comparison of two preoperative  skin  preparation  techniques  in  a  developing  world  country. World J Surg 2001;25:441-3.
+10.  King M, ed. Primary Anesthesia. Oxford, UK: Oxford University Press; 1986.
+11. Meier DE,  OlaOlorun  DA, Nkor  SK,  et  al.  Ketamine  -  a  safe  and  effective anesthetic  agent  for  children  in  the  developing  world.  Pediatr  Surg  Int 1996;11:370-3.
+12.  Parkin  DM,  Pisani  P,  Ferlay  J.  Global  cancer  statistics.  CA  Cancer  J  Clin 1999;49:33-64.
+
+============================================================
+CHUNK 42
+============================================================
+REFERENCES
+13.  Udwadia TE, Udwadia RT, Menon K, et al. Laparoscopic surgery in the developing world. An overview of the Indian scene. Int Surg 1995;80:371-5.
+14.  Halcombe C, Tsimiri S, Eldridge J, et al. Prevalence of antibody to helicobacter pylori in children in northern Nigeria. Trans R Soc Trop Med Hyg 1993;87: 19-21.
+15.  Tamini TM, Wosornu L, Abdul-Ghani A, et al. Increased cholecystectomy rates in Saudi Arabia. Lancet 1990;336:1235-7.
+16.  Meier DE, Coln CD, Rescorla FJ, et al. Intussusception in children - an international perspective. World J Surg 1996;20:1035-40.
+

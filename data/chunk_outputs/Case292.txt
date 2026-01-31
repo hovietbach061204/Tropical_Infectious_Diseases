@@ -1,0 +1,104 @@
+============================================================
+CHUNK 0
+============================================================
+56
+
+============================================================
+CHUNK 1
+============================================================
+KEY FEATURES
+- by intracellular Calymmatobacterium / Klebsiella granulomatis.
+- Africa, and South America .
+- lesions erupting through overlying skin .
+- women, and, rarely, hematogenous dissemination .
+- characteristic intracellular Donovan bodies on smears from ulcers or biopsy specimens .
+- doxycycline, cipro|oxacin, or ceftriaxone .
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+Donovanosis  (granuloma  inguinale)  is  a  sexually  transmitted infection with a clear tropical geographic distribution. Recognition of the hallmark diagnostic sign of intracellular inclusion (Donovan bodies) was {rst made in India by Donovan. 1 The causative organism  was  {rst  isolated  in  chick  yolk  sac  by  Anderson  in  1943. 2 Nomenclature of the causative organism is still debated. Carter et al. proposed that the organism be re-classi{ed Klebsiella granulomatis comb nov, but Kharsany et al. found a phylogenetic similarity of only 95% to the genus Klebsiella and concluded that C. granulomatis was a unique species. 3,4
+
+============================================================
+CHUNK 3
+============================================================
+EPIDEMIOLOGY
+Most recent published research on donovanosis has come from India, Australia, and South Africa. In all of these countries, the disease  is  in  decline,  and  in  Australia  a  successful  eradication campaign has recently been concluded. The disease continues to be reported sporadically from India, Papua New Guinea, Brazil, and South Africa. Large epidemics linked to ritual sexual practices are unique to Papua New Guinea, with the last being reported in the 1950s. 5 The disease is observed most commonly in young, sexually active adults. Infections in Caucasians are conspicuously rare.  In  the  countries  where  it  is  seen,  the  disease  is  strongly associated with poverty, sex work, and marginalized communities. The predominance of genital lesions and association with other sexually transmitted infections point strongly to sex as the main mode of transmission.
+
+============================================================
+CHUNK 4
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Lesions of donovanosis are predominantly genital, including the inguinal region in 10%, but primary lesions of the anus and mouth are also seen. A small nodule develops at the point of inoculation, later  breaking  down  to  form  an  ulcer  that  may  enlarge  and hypertrophy. Neglected ulcers tend to extend slowly along skin
+
+============================================================
+CHUNK 5
+============================================================
+Donovanosis (Granuloma Inguinale)
+Nigel O'Farrell folds (Fig. 56.1). The infection may reach local lymph nodes via the lymphatics, leading to adenopathy and occasionally abscess formation (the 'pseudo-bubo'). In women, primary lesions of the cervix may lead to ascending infection of the uterus and fallopian tubes. T earing of cervical lesions in labor can precipitate dangerous hematogenous dissemination to the liver, spleen, and bone with potentially fatal outcome. Internal lesions in males are very uncommon,  and  involvement  of  the  rectum  is  exceptional.  Chronic infections may be accompanied by scarring, lymphedema, {stula formation, and genital mutilation. Squamous carcinoma can develop as a late complication of chronic ulceration. Congenitally infected infants show a tendency to develop granulomatous lesions involving the ears and post-auricular nodes.
+
+============================================================
+CHUNK 6
+============================================================
+CLINICAL FEATURES
+The average incubation period is about 17 days. The most common sites of infection are the distal penis in men (see Fig. 56.1) and vulva in women (Fig. 56.2). The ulcers are rarely painful. Lesions may  be  solitary  or  multiple.  A  characteristic  pungent  odor  is associated with larger ulcers. Morphologic types of lesion include (1) a beefy red, |at ulcer with a rolled margin (see Fig. 56.2); (2) pale, hypertrophic lesions where granulomatous tissue pouts from the base of the ulcer (see Fig. 56.1); (3) cicatricial lesions where extensive scar tissue formation is seen alongside areas of extending ulceration;  and  (4)  deep  necrotic  lesions. 6 Most  patients  with inguinal pathology show {rm nodes or ulcerative lesions in the skin overlying the nodes. A comparable form of ulcer-adenopathy syndrome  has  been  observed  in  association  with  primary  oral lesions. In women, lesions of the cervix may masquerade as cervical carcinoma, and pelvic lesions can mimic pelvic cancers, including the  development  of  hydronephrosis.  The  clinical  picture  of congenitally transmitted donovanosis is unusual and appears to result from infectious material being squeezed into the external auditory meatus during birth. Involvement of the ears and local nodes has been reported several times and may take a number of weeks to appear.
+
+============================================================
+CHUNK 7
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS (TABLE 56.1)
+Donovanosis should be considered in any patient with a genital ulcer and inguinal signs who reports unprotected sexual exposure in one of the regions where the disease remains endemic, particularly if more common causes of genital ulceration have been ruled out. The disease should be considered in any patient with ulcerating adenopathy involving inguinal or cervical nodes. The differential diagnosis includes other sexually transmitted diseases that produce genital lesions, especially primary and secondary syphilis; chancroid; lymphogranuloma venereum; squamous carcinoma involving the cervix, glans penis, or anus; tuberculous lesions of genitalia; and ulceration caused by Entamoeba histolytica. Co-infection with other sexually  transmitted  infections,  notably  syphilis,  is  commonly reported.
+The mainstay of diagnosis is the demonstration of characteristic Donovan bodies (Fig. 56.3) within monocytes obtained by smear or biopsy of ulcers and stained with Giemsa or rapid Giemsa. 7 When organisms are plentiful, it is suf{cient to roll a swab across the ulcer to obtain a smear. An alternative method is to nip off a small fragment of  tissue  and  crush  it  between  two  glass  slides.
+Genital tuberculosis
+Tuberculous lesions of the cervix and glans closely resemble donovanosis.
+Fig. 56.1 Typical hypertrophic lesion of donovanosis in a male.
+Fig. 56.2 Extensive vulval and perineal ulceration caused by donovanosis, showing characteristic beefy red color and serpiginous outline. This patient was the sexual partner of the patient shown in Fig. 56.1.
+Calymmatobacterium granulomatis cannot be grown on solid media. Polymerase chain reaction (PCR) methods of diagnosis have been developed, but are not commercially available. 8 A multiplex PCR including C. granulomatis primers has been developed. 9 Donovanosis is a risk factor for acquiring HIV , and screening for other sexually transmitted infections is recommended for the patient and recent sexual partners. 10
+
+============================================================
+CHUNK 8
+============================================================
+TABLE 56.1 Differential Diagnosis of Donovanosis
+COMMON DIFFERENTIAL DIAGNOSES, Distinguishing Features = COMMON DIFFERENTIAL DIAGNOSES. Primary syphilis, Distinguishing Features = Similar to early lesion of donovanosis. Diagnosis by demonstration of spirochetes, PCR, or serology.. Secondary syphilis (condylomata lata), Distinguishing Features = Close resemblance to hypertrophic lesions of donovanosis. Mixed infections common. Diagnosis by demonstration of additional clinical features of secondary syphilis, laboratory detection of spirochetes, serology, or PCR.. Chancroid, Distinguishing Features = Ulcers are usually more painful than donovanosis; inguinal lesions have greater tendency to abscess formation. Diagnosis by culture of H. ducreyi or PCR.. Lymphogranuloma venereum (LGV), Distinguishing Features = Large inguinal lesions and lymphedema of genitalia similar to donovanosis. Ulcers small and transient. Systemic symptoms more prominent. Diagnosis by PCR, confirmed by type-specific PCR for LGV strains.
+
+============================================================
+CHUNK 9
+============================================================
+LESS COMMON DIFFERENTIAL DIAGNOSES
+Fig. 56.3 Tissue smear stained by rapid Giemsa (RapiDiff) showing numerous Donovan bodies in large monocyte (Pund cell) and cysts. (With permission from Nigel O'Farrell, from Gupta S, Kumar B-Haryana (eds.): Sexually transmitted infections (ed 2), 2012, Elsevier.)
+
+Squamous carcinoma, 1 = Close resemblance between cervical lesions of donovanosis and carcinoma. Ureteric obstruction also possible with pelvic donovanosis. Failure to identify donovanosis has on occasion led to penile amputation for supposed squamous carcinoma.. Genital tuberculosis, 1 = Tuberculous lesions of the cervix and glans closely resemble donovanosis.
+
+============================================================
+CHUNK 10
+============================================================
+TREATMENT (TABLE 56.2)
+Donovanosis  has  been  shown  to  respond  to  a  wide  variety  of different antibiotics. 11 No recent head-to-head comparisons have been  reported. As  it  is  not  practical  to  isolate  the  organism  in culture,  investigation  of  antibiotic  sensitivity  is  not  currently feasible. The most recent trials have evaluated the use of azithromycin, comparing daily and weekly regimens and showing excellent results with both. 12 One of the attractions of azithromycin is its good penetration into cells. Alternative agents include tetracyclines, cipro|oxacin, and ceftriaxone.
+TABLE 56.2 Recommendations for the Treatment of Donovanosis From International Guidelines
+
+Azithromycin, Dosage = 1 g weekly until lesions have healed. Azithromycin, Strength of Evidence = Good. Doxycycline, Dosage = 100 mg twice daily until lesions have healed. Doxycycline, Strength of Evidence = Moderate. Ceftriaxone, Dosage = 1 g daily intramuscular until lesions have healed. Ceftriaxone, Strength of Evidence = Moderate. Ciprofloxacin, Dosage = 750 mg twice daily until lesions have healed. Ciprofloxacin, Strength of Evidence = Moderate. Erythromycin base, Dosage = 500 mg four times daily until lesions have healed. Erythromycin base, Strength of Evidence = Weak
+The development of chronic genital lymphedema is not uncommon  in  neglected  cases,  especially  in  females.  Plastic  surgical operations may be of help to correct such deformities.
+
+============================================================
+CHUNK 11
+============================================================
+REFERENCES
+1.  Donovan C. Medical cases from Madras General Hospital. Ind Med Gaz 1905;40:411-14.
+2.  Anderson K. The cultivation from granuloma inguinale of a microorganism having the characteristics of Donovan bodies in the yolk sac of chick embroyos. Science 1943;97:560-1.
+3.  Carter JS, Bowden FJ, Bastian I, et al. Phylogenetic evidence for reclassi{cation of Calymmatobacterium granulomatis as Klebsiella granulomatis comb.nov . Int J Syst Bacteriol 1999;49:1695-700.
+4.  Kharsany AB, Hoosen AA, Kiepiela P , et al. Phylogenetic analysis of Calymmatobacterium granulomatis based on 16S rRNA gene sequences. J Med Micro 1999;48:841-7.
+5.  Vogel  LC,  Richens  J.  Donovanosis  in  Dutch  South  New  Guinea: History, evolution of the epidemic and control. PNG Med J 1989;32: 203-18.
+6.  Rajam RV , Rangiah PN. Donovanosis (Granuloma Inguinale, Granuloma Venereum). Geneva: World Health Organization, WHO Monograph Series No 24; 1954. p. 1-72.
+7. technique  for  the  diagnosis  of  granuloma  inguinale  (donovanosis). Genitourin Med 1990;66:200-1.
+8.  Carter  JS,  Bowden FJ, Sriprakash KS, et al. Diagnostic polymerase chain reaction for donovanosis. Clin Infect Dis 1999;28:1168-9.
+9.  Mackay IM, Harnett G, Jeoffreys N, et al. Detection and discrimination of Herpes Simplex Viruses, Haemophilus ducreyi, Treponema pallidum, and Calymmatobacterium (Klebsiella) granulomatis from genital ulcers. Clin Infect Dis 2006;42:1431-7.
+10.  O'Farrell N, Windsor I, Becker P . Risk factors for HIV-1 in heterosexual attenders at a sexually transmitted diseases clinic in  Durban. S Afr Med J 1991;80:17-20.
+
+============================================================
+CHUNK 12
+============================================================
+REFERENCES
+11.  Richens J. The diagnosis and treatment of donovanosis (granuloma inguinale). Genitourin Med 1991;32:441-52.
+12.  Bowden FJ, Mein J, Plunkett C, Bastian I. A pilot study of azithromycin in the treatment of genital donovanosis. Genitourin Med 1996;72:17-19.
+

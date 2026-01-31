@@ -1,0 +1,149 @@
+============================================================
+CHUNK 0
+============================================================
+68
+
+============================================================
+CHUNK 1
+============================================================
+Key features
+- South American bartonellosis (Carrion's disease) is a bacterial infection caused by B artone l l a   ba c i l i f orm i s
+- Distribution is isolated to regional highland areas in Peru, Ecuador, and Colombia
+- It is transmitted by a sand(y, and includes two clinical stages: an acute hemolytic phase (Oroya fever) and a chronic verrucous form (verruga peruana)
+- The acute phase is characterized by fever, pallor, and hemolytic anemia, and can be fatal
+- The verrucous form has a prolonged, but more benign course, and is distinguished by erythematous skin lesions
+- A number of other B ar tone l l a spp. are signi)cant causes of human disease, including B artone l l a   h e ns e l ae , which causes cat scratch disease, and B artone l l a   q u i ntana , the agent of trench fever. These B artone l l a spp. can also cause bacillary angiomatosis, a vascular hyperproliferation disorder, particularly in patients with advanced immunosuppression, including AIDS patients
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+South American bartonellosis or Carrion's disease is a biphasic bacterial  infection caused by Bartonella bacilliformis . It is transmitted by a sandfly, Lutzomya spp.
+It is named after the Peruvian medical student Daniel Alcides Carrió n, who  self-inoculated  the  discharge  from  a  patient  with  a  chronic verruga peruana skin lesion and developed the acute hemolytic phase of illness and died. This act demonstrated that both diseases had a common source [1].
+
+============================================================
+CHUNK 3
+============================================================
+EPIDEMIOLOGY
+Carrion's  disease  had  been  exclusively  reported  in  inter-Andean valleys in Peru, Ecuador, and Colombia; however, the disease has been emerging in new areas in Ecuador and in high forest areas of Peru between the jungle margin and altiplano. The changing distribution may relate, in part, to changing climate (Fig. 68.1 ). The majority of cases occur in Peru-Carrion's disease had an incidence in Peru in 2004 of 57 cases per 100,000.
+Serologic studies suggest that more than 60% of the population in endemic areas has been infected and 0.5% of asymptomatic residents in endemic zones may be bacteremic. Bartonellosis affects males and females equally and is more common in children [2].
+
+============================================================
+CHUNK 4
+============================================================
+Bartonellosis: Carrion's Disease and other Bartonella Infections
+Ciro Maguiña, Eloy E Ordaya
+
+============================================================
+CHUNK 5
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Humans act as a reservoir host. Whether additional reservoirs of significance exist is uncertain. Bartonella bacilliformis is transmitted by the bite of female New World sandflies, Lutzomya spp. The most effective vector in Peru is the sandfly, Lutzomya verrucarum , that lives in narrow river valleys between 500 and 3200 meters above sea level. In Colombia, the most significant vector is Lutzomya columbiana . After the inoculation of B. bacilliformis by the vector, the bacilli infect the endothelium of capillary vessels. They are then released to the blood and first adhere to, and then invade, erythrocytes. This process activates  reticular-endothelial  cells  that  cause  systemic  symptoms  and destruction of infected erythrocytes; a hemolytic anemia occurs. If the patient  survives,  approximately  5%  develop  the  chronic  phase  of illness. In this stage, the bacterium invades the endothelial cells, forms Rocha-Lima inclusion bodies and stimulates endothelial proliferation and angiogenesis. The proliferative responses leads to formation of hypervascular  nodules,  similar  to  hemangiomas,  called  'Peruvian warts' [3].
+
+============================================================
+CHUNK 6
+============================================================
+CLINICAL FEATURES
+Classically, Carrion's disease is characterized by two sequential clinical stages:  an initial  hemolytic phase (Oroya fever), followed by  a verrucous phase (Peruvian wart). However, individuals infected with B. bacilliformis may manifest only one or other of these two phases, or may have additional involvement ranging from asymptomatic bacteremia to recurrent verrucous presentations.
+The incubation period for Oroya fever is usually about 3 weeks, but may range  from  10  days  to  months.  Individuals  with  Oroya  fever usually present with a febrile illness characterized by headaches and myalgias. The hemolytic phase can be associated with severe pallor, jaundice, or hepatomegaly. Myocarditis, pericarditis, encephalopathy, seizures, retinal hemorrhages, papilledema, and multi-organ failure and  death  can  occur.  Concomitant  infectious  complications  are common, and include Salmonella bacteremia,  reactivation  of  toxoplasmosis,  disseminated  histoplasmosis,  reactivation  of  pulmonary tuberculosis,  leptospirosis,  or  pneumocystosis.  Oroya  fever  can  last for 2 to 4 weeks and, in untreated cases, is associated with up to 90% mortality, and up to 10% mortality in treated patients.
+The chronic verruga peruana phase occurs several weeks or months later in a subset of patients, and is manifested by arthralgias, fever, and painless eruptive lesions that are commonly located on the face and upper and lower limbs. There are three types of lesions: miliary (multiple small, reddish papules of 3 mm or less; Fig. 68.2); mular (ulcerative  or  non-ulcerative  angioma-like  tumors  of  more  than 5 mm; Fig. 68.3); and a nodular or sub-dermic form (Fig. 68.4). In rare cases, verruga can involve the oral, conjunctival or nasal mucosa. The lesions  usually last  from 3  to  6 months and can heal without therapy [4-6].
+FIGURE 68.1 Global distribution of Bartonellosis or Carrion's disease.
+FIGURE 68.2 Peruvian wart, miliary form (small) Anal.
+
+============================================================
+CHUNK 7
+============================================================
+CLINICAL FEATURES
+FIGURE 68.4 Peruvian wart, nodular or subdermic form Anal.
+- Endemic places
+- New emerging areas
+FIGURE 68.3 Peruvian wart, mular form.
+
+============================================================
+CHUNK 8
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+The  differential  diagnosis  of  Oroya  fever  is  broad  as  individuals usually present with a nonspecific febrile illness (Table 68-1). Epidemiologic  history  and  analysis  of  a  potential  incubation  period  are critical as South American Bartonellosis is a geographically restricted infection. The presence of hemolytic anemia assists in considering the diagnosis, as well as malaria. The diagnosis is confirmed by isolating the  organism  from  blood,  or  by  analysis  of  a  peripheral  blood Giemsa-Wright  smear  to  detect  erythrocyte-associated  bacteria  that may appear bacillary or coccoid. Analysis of a  peripheral smear is, unfortunately, insensitive (approximately 30-40%), and requires an experienced microscopist able to distinguish bacteria from artifacts, basophilic stippling, and Howell-Jolly bodies. Blood cultures should be held for up to 6 weeks; recovery is highest using Columbia Agar supplemented  with  5%  defibrinated  human  blood  incubated  at 28°C. The differential diagnosis of verruga peruana usually involves consideration of other nodular skin lesion, although the hypervascular  nature  of  verruga  peruana  assists  in  establishing  the  diagnosis. Evaluation  of  blood  smear  in  this  stage  is  very  insensitive  (10%); microbiologic evaluation of blood is 50% sensitive. The diagnosis of veruga peruana is usually made by histopathologic analysis of tissue,
+demonstrating  proliferation  of  endothelial  cells,  monocytes,  and macrophages, and neovascularization. Mitoses may be evident. Analysis  of  tissue  using  the  Warthin-Starry  stain  can  reveal  bacteria  dispersed  in  the  tissue.  Immunohistochemistry  may  also  be  used  to indentify B. bacilliformis [7, 8].
+Serologic  methods  like  western  blot  or  PCR  are  also  available  to diagnose individuals with Carrion's disease, but are not used widely because of their high cost and lack of standardization.
+
+============================================================
+CHUNK 9
+============================================================
+TREATMENT
+In vitro , B. bacilliformis is susceptible to ß-lactams, tetracyclines, fluoroquinolones,  macrolides,  rifampin,  and  chloramphenicol.  They  are
+TABLE 68-1 DiBerential Diagnosis of Bartonellosis or Carrion's Disease
+
+============================================================
+CHUNK 10
+============================================================
+Oroya fever
+Typhoid fever
+Malaria
+Brucellosis
+Viral hepatitis
+Leptospirosis
+Sepsis
+Systemic tuberculosis
+Hematological malignancies
+Parvovirus B19 infection
+Hemolytic anemias
+Aplastic anemia
+
+============================================================
+CHUNK 11
+============================================================
+Peruvian wart
+Angioma Bacillary angiomatosis Granuloma Pyogenicum Kaposi's sarcoma Leprosy Lymphomatoid papillomatosis Fibrosarcoma Cutaneous lymphoma Reticuloendotheliosis Molluscum contagiosum Chickenpox Yaws Spitz nevus resistant to vancomycin, aminoglycosides, clindamycin, and carbapenems.
+Because of the high rate of co-infection with Salmonella during  the acute Oroya fever phase, many experts use a fluoroquinolone, such as ciprofloxacin, or chloramphenicol as front-line therapy (Table 68-2). Amoxicillin plus clavulanic acid  may be  used  in  pregnant  women; there are also anecdotal reports of clinical effectiveness with amoxicillin alone.
+Dexamethasone is sometimes administered for 3-4 days in patients with severe neurologic complications in an attempt to reduce cerebral edema, but this approach has not been well studied. Blood transfusions are indicated for patients with severe anemia; pericardial effusions may require drainage.
+During  the  chronic  verruga  peruana  phase,  chloramphenicol  and ß-lactam penicillins are ineffective. Azithromycin is now the drug of choice, although ciprofloxacin or rifampin are alternatives [9, 10].
+
+============================================================
+CHUNK 12
+============================================================
+OTHER BARTONELLA INFECTIONS
+Over a dozen Bartonella spp. have been identified to cause disease in humans. Beyond B. bacilliformis , perhaps the other two Bartonella of most clinical significance are Bartonella quintana , the agent of trench fever, and Bartonella henselae , a cause of cat scratch disease.
+Trench fever was described in soldiers during World War I who developed a relapsing febrile illness associated with 5 days of fever. It is caused by B. quintana and the vector is the human body louse, Pediculus  humanus  humanus .  Homelessness,  poor  sanitation,  and  lack  of personal hygiene are factors associated with this condition. The clinical course varies from a mild, afebrile state, to a relapsing fever with rash, bone pain, myalgias, headaches, and marked conjunctival injection.  The  organism  can  be  cultured  using  special  media,  but  most cases are diagnosed on clinical  grounds or serology  tests including ELISA or immunofluorescent antibody (IFA) assay. Trench fever is a self-limiting disease, but chloramphenicol or tetracycline show rapid disappearance of symptoms [1, 10].
+Cat  scratch  disease  is  cosmopolitan  in  distribution  and  is  more common in  children  than  adults.  It  is  considered  to  be  the  most common Bartonella infection  worldwide. Bartonella  henselae is  now regarded as the main etiologic agent of cat scratch disease. It is transmitted to cats through fleas. Human infection occurs after scratches, bites,  or  licks  from  infected  cats  or  from  the  bite  of  an  arthropod vector.  Cat  scratch disease  classically  presents  as a  chronic papular, pustular or ulcerative skin lesion and regional lymphadenopathy after a  cat  scratch,  but,  not  infrequently, B.  henselae can  cause  systemic manifestations including encephalitis, retinitis, non-specific fever, and Parinaud's oculoglandular syndrome. Diagnosis is usually based on
+
+============================================================
+CHUNK 13
+============================================================
+OTHER BARTONELLA INFECTIONS
+TABLE 68-2 Treatment Protocols for Bartonellosis or Carrion's Disease
+
+Oroya Fever, Drug = CiproCoxacin. Oroya Fever, Doses = 500 mg twice daily for 14 days. Oroya Fever, Notes = Drug of choice; its use has shown less complications and reduced mortality. Oroya Fever, Level of evidence = 1. , Drug = Chloramphenicol. , Doses = 50-75 mg per kilo (up to 3 gr/d), divided into four doses for 10-14 days. , Notes = Recurrence has been described in patients who received this therapy. , Level of evidence = 1. , Drug = Amoxicillin plus clavulanic Acid. , Doses = 1 gr (based on amoxicillin) twice daily for 14 days. , Notes = Drug of choice in pregnancy. , Level of evidence = 2. Peruvian wart, Drug = Azithromycin. Peruvian wart, Doses = 500 mg once daily for 7 days. Peruvian wart, Notes = Drug of choice in all ages and pregnant patients. Peruvian wart, Level of evidence = 1. , Drug = Rifampin. , Doses = 600 mg once daily for 14-21 days. , Notes = Treatment failures have been reported. , Level of evidence = 1. , Drug = CiproCoxacin. , Doses = 500 mg twice daily for 14 days. , Notes = Added in the last Bartonellosis National Guide. , Level of evidence = 2
+1, Evidence from multiple time series; 2, evidence based on clinical experience or expert opinions.
+clinical presentation, serology, or histopathology. Cat scratch disease is often self-limited, but patients are often treated with azithromycin or doxycycline [1, 1 1].
+
+============================================================
+CHUNK 14
+============================================================
+OTHER BARTONELLA INFECTIONS
+Bartonella henselae and B. quintana can also cause bacillary angiomatosis, a disorder of vascular hyperproliferation. The typical lesion is a reddish-purple  papule,  but  may  be  a  hyperkeratotic  plaque,  or  an infiltrative  or  hypervascular  nodule.  Bacillary  angiomatosis  is  most commonly seen in severe immunocompromised patients, especially those with advanced HIV infection. Involvement can be confined to the skin, or can involve deep organs and structures. Involvement of the liver is referred to as peliosis hepatis. Diagnosis is confirmed by histopathology  using  Warthin-Starry  or  Giemsa  stain.  Treatment usually involves prolonged use of erythromycin alone or combined with doxycycline in AIDS patients [1, 10, 12].
+A  number  of Bartonella species  can  also  cause  'culture-negative' chronic endocarditis, which is most frequently caused by B. quintana or B. henselae , or both.
+
+============================================================
+CHUNK 15
+============================================================
+REFERENCES
+1. Maguiñ a C, Guerra H, Ventosilla P. Bartonellosis. Clin Dermatol 2009;27:271-80.
+2. Maguiñ a Vargas C, Ugarte-Gil C, Breñ a Chavez P, et al. Update of Carrion's disease. Rev Med Hered 2008;19:36-41.
+3. Walker D, Maguiñ a C, Minnick M. Bartonelloses. In: Guerrant R, Walker D, Weller P, eds. Tropical infectious diseases: principles, pathogens, &
+4. practice, 2nd  edn. Philadelphia: Elsevier Churchill Livingstone; 2006: 454-62.
+4. Maguiñ a C, Garcia PJ, Gotuzzo E, et al. Bartonellosis (Carrion's Disease) in the modern era. Clin Inf Dis 2001;33:772-9.
+5. Kosek  M,  Lavarello  R,  Gilman  RH,  et  al.  Natural  history  of  infection  with Bartonella bacilliformis in a nonendemic population. J Infect Dis 2000;182:865-72.
+6. Maguiñ a  Vargas  C,  Ordaya  Espinoza  E,  Ugarte-Gil  C,  et  al.  Cardiovascular involvement during the acute phase of Carrion's disease or human Bartonellosis: A 20-year experience in Cayetano Heredia National Hospital. Acta Med Peruana 2008;25:30-8.
+7. Birtles RJ, Fry NK, Ventosilla P, et al. Identification of Bartonella bacilliformis genotypes  and  their  relevance  to  epidemiological  investigations  of  human bartonellosis. J Clin Microbiol 2002;40:3606-12.
+8. Henriquez  C,  Infante B, Merello J, et al. Identificació n de Bartonella bacilliformis por  métodos  moleculares.  Rev  Med  Hered  2002;13:58-63 [in Portuguese].
+9. Tarazona A, Maguiñ a C, Lopez de Guimaraes D, et al. Terapia antibió tica para el manejo de la bartonelosis o enfermedad de Carrió n en el Perú . Rev Perú Med Exp Salud Publica 2006;23:188-200. [in Portuguese].
+
+============================================================
+CHUNK 16
+============================================================
+REFERENCES
+10.  Rolain JM, Brouqui P, Koehler JE, et al. Recommendations for treatment of human infections caused by Bartonella species. Antimicrob Agents Chemother 2004;48:1921-33.
+11.  Pié rard-Franchimont  C,  Quatresooz P, Pié rard  GE.  Skin  diseases  associated with Bartonella infection: Facts and controversies. Clin Dermatol 2010;28:483-8.
+12.  Maguiñ a C, Gotuzzo E. Bartonelose. In: Focaccia R, ed. Tratado de Infectologia, 3rd edn. Sao Paulo: Atheneu; 2006: 759-62 [in Portuguese].
+

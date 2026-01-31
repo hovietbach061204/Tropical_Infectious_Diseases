@@ -1,0 +1,615 @@
+============================================================
+CHUNK 0
+============================================================
+Bruno Gryseels, G Thomas Strickland
+America) and S. japonicum (China and the Philippines) causes intestinal  and  hepatosplenic  schistosomiasis. Schistosoma  haematobium causes urinary tract schistosomiasis in Africa and Arabia. Schistosoma intercalatum is only of local importance in some pockets in West and Central Africa, Schistosoma mekongi in the Mekong delta and Schistosoma malayensis in Malaysia [1-4]. Each schistosome species is transmitted by specific freshwater snails: Biomphalaria genus for S. mansoni , Bulinus for S. haematobium and Oncomelania (which are amphibious) for S. japonicum [5, 6].
+The  number  of  people  with  schistosomiasis  is  estimated  by  the World Health Organization (WHO) at more than 200 million in 74 countries,  with  over  700  million  people  at  risk  [7-9].  The  actual figures  may  be  lower,  as  the  numbers  of  infections  and  people  at risk  are  dwindling  quickly  in  major  historical  foci,  such  as  Egypt, Brazil and China [3]. Today, over 85% of cases occur in sub-Saharan Africa  [8].  The  WHO  has  classified  schistosomiasis  as  one  of  the 'Neglected Tropical Diseases' (NTD), a group of parasitic and infectious  diseases  that  create  considerable  havoc  among  low-income and deprived  populations  in  developing  countries  but  that  receive less  attention  than  global  threats  such  as  HIV/AIDS,  tuberculosis and malaria [9].
+Transmission of schistosomes requires a tropical climate, the presence of suitable snail hosts, human settlement, contamination by excreta of  the  surface  waters  and  human  contact  with  these  waters  [1-3]. Notwithstanding  these  uniform  conditions,  the  epidemiology  of schistosomiasis varies greatly between continents, countries, regions and even neighboring villages. Snail populations, cercarial densities and human water contact show strong temporal and spatial variations, depending upon local ecology. The distribution of worms in local  populations  is  often  extensive,  with  prevalence  commonly between 30% and 100%, but the severity of infection and disease can be  very  uneven.  Typically, the highest  prevalence and  intensities of infection are found in children between the ages of 8 and 15 years, whereas  adults  usually  have  fewer  exposures and  develop acquired resistance to infection.
+
+============================================================
+CHUNK 1
+============================================================
+Bruno Gryseels, G Thomas Strickland
+Severe  disease  is  usually  associated  with  heavy  worm  burdens,  but may develop after only several years of silent, or mildly symptomatic, infection. Since the advent of safe schistosomicides, especially praziquantel,  it  has  become  possible  to  interrupt  the  insidious  disease cycle, even in the face of continued transmission and re-infection [8, 10].  Therefore,  modern  control  strategies  focus  primarily  on  the regular treatment of people at risk, especially school-aged children, or through mass drug administration (MDA) programs.
+
+============================================================
+CHUNK 2
+============================================================
+HISTORY
+The evolutionary pathway of S. japonicum probably lies in the Yangtze River Valley, S. mansoni probably originated in the Nile River basin, and S. haematobium in the African Great Lake area [1-3, 1 1]. Calcified schistosome  eggs  and,  more  recently,  specific  antigens  have  been detected in Egyptian, Sudanese and Chinese mummies dating from several millennia BC. There are no comparable paleo-epidemiological traces in South America, where S. mansoni was imported with the slave trade in the 16th and 17th centuries.
+
+============================================================
+CHUNK 3
+============================================================
+Key features
+- Schistosomiasis is caused by several species of blood 3ukes, with the three most important being Schistosoma mansoni , Schistosoma haematobium and Schistosoma japonicum
+- Infection is focally widespread in most of Africa, Southeast Asia and large parts of South America. Two hundred million people are estimated to be infected; 85% of them live in sub-Saharan Africa. In countries where praziquantel therapy has been widely used, the burden of schistosomiasis is a fraction of what it was 30 years ago
+- The lifecycle requires a snail intermediate host that is speci4c to each parasite species
+- Schistosome ova that are deposited in surface water with stools or urine release primary larvae (miracidiae) that infect the snails and develop into free living secondary larvae (cercariae). Humans are infected when cercariae penetrate the skin during exposure to water
+- In endemic areas, large proportions of the population can be infected, especially children. Many infections result only in vague, nonspeci4c or hidden morbidity
+- The disease has both acute and chronic phases. Acute schistosomiasis (Katayama fever) occurs a few weeks after exposure and is caused by the body's reaction to developing larvae (schistosomula) migrating through the body. Chronic schistosomiasis occurs after years of infection and is primarily caused by cellular immunity and 4brosis as a reaction to ova retained in the tissues. Ectopic lesions may cause neurologic, pulmonary or genital schistosomiasis
+- Schistosoma mansoni and S. japonicum primarily cause intestinal and hepatic pathology; S. haematobium primarily damages the urinary tract
+- Diagnosis is based on microscopic detection of ova, serology or imaging
+- Praziquantel provides safe, inexpensive and e5ective oral therapy. Extensive mass drug administration programs have, over the past 20 years, reduced morbidity and transmission in many countries
+
+============================================================
+CHUNK 4
+============================================================
+INTRODUCTION
+Schistosomiasis is caused by trematodes (fluke worms) of the genus Schistosoma (Phylum Platyhelminthes, Class Trematoda) that live in blood vessels [1-3]. Humans become infected when infectious motile cercariae  penetrate  the  skin  during  freshwater  contact.  Three  main species infect humans. Schistosoma mansoni (Africa, Arabia and South
+In 1851, the young German pathologist Theodore Bilharz first identified S. haematobium as the etiologic agent of Egyptian endemic hematuria during an autopsy in Cairo. He also described the underlying pathology of the urinary system and bilharziasis, or bilharzia, is still used to denominate schistosomal disease. Association of chronic liver disease,  characterized by  hepatomegaly and splenomegaly, was not reported until Symmer described the typical 'clay pipe stem fibrosis' in Egypt in 1904. The complete lifecycle of the parasite and the role of the snail intermediate host were described in 1913 by Miyairi and confirmed experimentally by Leiper in 1915. McDonough introduced the first effective chemotherapy using tartar emetic in 1918.
+
+============================================================
+CHUNK 5
+============================================================
+INTRODUCTION
+Schistosomiasis attracted little research attention in the USA until US troops became exposed to infection with S. japonicum on the island of Leyte, during the re-invasion of the Philippines in 1944. In the late 1950s, a mouse model of S. mansoni infection with hepatosplenomegaly, portal hypertension and esophageal varices was developed and the pathology was shown to be caused by schistosome ova trapped in the presinusoidal venules of the liver. In the 1960s, the immunologic complexities of the host's granulomatous response to the schistosome egg and the mechanisms of concomitant protective immunity began  to  be  defined.  It  was  determined  in  the  1970s  that  chronic disease often takes decades to develop and is associated with heavy worm burdens [12]. Until the 1980s, schistosomiasis could only be treated with toxic drugs, such as tartar emetic and, later, niridazole. The large-scale use of intravenous tartar emetic in Egypt between 1950 and 1980 is thought to have caused a massive iatrogenic spread of hepatitis C, considerably aggravating, and probably also obfuscating, schistosomal liver disease [13]. Most control programs in that period relied on the chemical destruction of the vector snails with  copper sulphate or niclosamide (Bayluscid®), which was expensive, technically demanding and toxic to fish [1, 3].
+
+============================================================
+CHUNK 6
+============================================================
+INTRODUCTION
+In the 1970s, hycanthone, metrifonate and oxamniquine were developed,  but  these  still  had  disadvantages,  for  example  single-species activity,  side  effects  or  the  need  for  repeated  administration.  The development of praziquantel in 1979, in a then unique public-private partnership between the WHO and the pharmaceutical industry, heralded a breakthrough for the treatment and control of schistosomiasis [1,  14]. It  is  highly  effective  and  safe  against all species in  a  single dose.  More  recently,  less  expensive  generic  brands,  drug  donations and  renewed  international  support  for  neglected  diseases  control enabled  the  introduction  of  MDA,  often  combined  with  other anthelminthics, for the control of schistosomal morbidity. In 2001, the World Health Assembly officially recommended this strategy for all  regions  where  schistosomiasis  still  constitutes  a  serious  public health problem, along with integrated case management in primary healthcare, health education, safe water supply and improved sanitation [15].
+
+============================================================
+CHUNK 7
+============================================================
+SPECIES
+The  genus Schistosoma belongs  to  the  class  of  Trematoda  (flukes), phylum  of  Platyhelminthes  (flatworms).  They  differ  from  other human flukes by: (i) having separate sexes; (ii) living in blood vessels; (iii) having non-operculated eggs; and (iv) lacking an encysted metacercarial stage. Humans are definitive hosts for S. japonicum , S. mansoni , S. haematobium , S. mekongi , S. malayensis and S. intercalatum [1].
+Dozens of other schistosome species infect animals, some of which are  occasionally  found  in  humans,  including S.  mattheei,  S.  bovis, S. curassoni, S. rodhaini, S. margrebowiei, S. spindale and S. incognitum. Recent genetic studies confirmed that some of these species may form productive and pathogenic hybrids with human schistosomes [16]. The infective larvae or cercariae of other nonhuman schistosomes and related trematodes, mostly parasites of birds or small mammals, can attack or  penetrate  human skin causing dermatitis, but die without migration  or  maturation.  These  exposures  also  occur  in  temperate climates  and  cause  'swimmers'  itch'  during  summers  in  North America and Europe [17].
+FIGURE  122.1 Morphology  of  adult  male  and  female Schistosoma mansoni . (Courtesy of the Armed Forces Institute of Pathology, Photograph Neg. No. 56-3334).
+
+============================================================
+CHUNK 8
+============================================================
+MORPHOLOGY AND METABOLISM (Fig. 122.1)
+Adult schistosomes are white-greyish worms with a cylindrical body, tend to be 10-20 mm long and 0.3-0.6 mm thick. The tegument of adult schistosomes consists of a double layer, of which the outer one is continuously shed and renewed. The male tegumental surface may be tuberculated or smooth, depending on the species; the surface of the female worm is smooth in all species. The adult male worm is shorter, thicker and flatter than the longer, slender female. With his flattened  body,  the  male  worm  forms  a  groove  or  'gynecophoric channel', in which the female positions herself for most of her life. Copulation takes place permanently as the male and female genital orifices superpose in the gynecophoric channel.
+Schistosomes feed on nutrients and cells in the blood, and metabolize globulins and hemoglobin through anaerobic glycolysis into pigmentlike  debris.  As  the  gut  terminates  blindly,  the  debris  is  regurgitated into the host's bloodstream. The pigment may be deposited in the Kupffer cells and macrophages of the liver and other organs, showing as typical pigmentation in histologic stains.
+
+============================================================
+CHUNK 9
+============================================================
+REPRODUCTION AND TRANSMISSION
+(Fig. 122.2)
+Adult schistosome pairs live within the perivesical ( S. haematobium ) or mesenteric (other species) venous plexus. Studies in migrants show that live eggs, and thus adult worms, can still be found for more than 30 years after last exposure [18]. The average lifespan of adult schistosomes is estimated at 3-5 years, but may be shorter in areas with high levels of transmission and worm turn-over [19].
+The favored location of the adult worms and, consequently, egg deposition and ensuing pathology, varies according to species. Schistosoma haematobium is concentrated near the bladder and around the ureters, S. mansoni in the inferior mesenteric vessels of the large intestine and S. japonicum in the superior mesenteric vessels of the large and small intestine.
+The  females  produce  large,  oval  or  round  ova  of  100-170 μ m  in length with a typical terminal or lateral spine at a daily rate of hundreds (African species) to several thousands (Oriental species) with often clustered ova of 70-100 μ m in length. The spines are formed during the release of the eggs from the ovipore and may serve as an anchor against the blood flow - helping eggs to start their journey through the vascular wall and into the tissues.
+FIGURE 122.2 Transmission cycle of schistosomes. (Reproduced with permission from Gryseels B, Polman K, Clerinx J, Kestens L. Human schistosomiasis. Lancet 2006; 368:1106-18.)
+
+============================================================
+CHUNK 10
+============================================================
+REPRODUCTION AND TRANSMISSION
+Each ovum contains one ciliated larva, called a miracidium, which matures over 6-10 days. The miracidium secretes proteolytic enzymes that  help  the  eggs  to  penetrate  through  the  vascular  wall  and  into surrounding tissues into the lumen of the bladder ( S. haematobium ) or the intestine (other species). About 50% of the eggs are eventually excreted with the urine or the feces, where they may stay viable for seven  days  (African  species)  or  up  to  several  months  (Oriental species), depending on the temperature and humidity in the environment. The other ova are dislodged and partly destroyed in the liver or  spleen,  but  many  remain  stuck  in  the  tissues  of  the  bladder  or ureters,  the  intestinal  wall,  or  the  liver  or  spleen  (depending  on species)  where  immune  responses  lead  to  most  of  the  host's pathology.
+next 10-15 days, germinal cells in the mother sporocyst differentiate into motile daughter sporocysts. The daughter sporocysts migrate to, and grow in, the hepatic and gonadal tissue of the snail, where they metamorphose  within  2-4  weeks  into  bifurcated,  mobile  larvae called cercariae. The entire non-sexual reproduction stage in the snail takes 4-6 weeks, but cercariae may be shed for up three months at a rate of dozens ( S. japonicum )  to  thousands ( S.  mansoni , S. haematobium ) per day. While snail life expectancy is reduced by schistosome infection because of damage to hepatic and gonadal tissue, one snail infected by one miracidium can shed thousands of cercariae every day for months and may produce up to 100,000 cercariae in its lifetime.
+
+============================================================
+CHUNK 11
+============================================================
+REPRODUCTION AND TRANSMISSION
+The excreted ova release the miracidium upon contact with water of the right temperature (20-30°C), which then swims freely and swiftly around in search of its snail intermediate host. They are propelled by flagellating cilia  and guided by positive phototaxis and chemotaxis (attracted by light and snail substances) and negative geotaxis (moving away from the bottom mud). In addition to this typical movement and cilia, the miricidia have pulsating flame and gland cells. They can remain infective for 6-12 hours and penetrate the snail intermediate host's soft parts by aid of lytic substances.
+After snail penetration, the miracidium loses its cilia and transforms into  a non-motile sac-like embryo: the mother sporocyst. Over the
+The  cercariae  are  unisexual,  highly  mobile  larvae  measuring  400600 μ m in length. They feature a pear-shaped head with two embryonic  suckers  and  a  long  slender  tail  ending  in  a  typical  short  fork. Cercarial shedding is stimulated by direct sunlight and temperatures between  24-30°C,  leading  to  peak  transmission  rates  between 11.00 h  and  15.00 h  and,  in  subtropical  regions,  during  summer months. Schistosoma japonicum cercariae may also be shed at night.
+Cercariae  may  survive  up  to  48-72  hours,  though  infectivity  starts to decrease after 12 hours. Activity in water varies with the species: S. mansoni and S . haematobium cercariae move vertically, alternating between  active  movements  toward  the  surface  and  slow  sinking; S.  japonicum cercariae  tend  to  remain  at  rest  in  the  water  surface film unless disturbed. When cercariae meet a suitable definitive host, they  attach  themselves  to  its  skin  by  their  ventral  or  oral  suckers, assisted by mucoid secretions. Vertical, vibratory movements and lytic secretions lead  to  penetration  of the  skin,  usually  complete  within 3-5 minutes. Only some of the cercariae will develop further after penetration,  depending on the physiologic and immunologic reactions of the host.
+
+============================================================
+CHUNK 12
+============================================================
+REPRODUCTION AND TRANSMISSION
+The cercariae lose their tail and undergo an intensive outer membrane modification to become schistosomula which are tolerant to a saline environment and, even more strikingly, to at least part of the hosts' immune responses. They remain in subcutaneous tissue for about 48 hours before beginning the 3-6 day migration through the  bloodstream to the heart and then the lungs, where they are able to stretch the capillaries between the arterioles and venules. Within 5-10 days they  reach  the  small  vessels  of  the  liver  where  they  mature  within another  3-4  weeks  into  adult  male  or  female  worms,  mate  and migrate  against  the  blood  flow  to  their  perivesicular  or  mesenteric destination where the cycle starts all over again. Egg deposition and excretion thus starts 6-8 weeks after infection.
+
+============================================================
+CHUNK 13
+============================================================
+THE SNAIL INTERMEDIATE HOSTS AND OTHER RESERVOIR HOSTS
+The snail intermediate hosts of S.  mansoni and S.  haematobium are red-brownish in color and are non-operculate, i.e. they have no cover or lid on the shells. The major intermediate hosts for S. haematobium and S. intercalatum are Bulinidae , with conic shells with a left-twisted spiral.  The  genus Biomphalaria serves  as  the  intermediate  host  for S. mansoni and is characterized by its disk- or lens-shaped shells [1, 5,  6].  The  snail  intermediate  hosts  of S.  japonicum ,  members  of Oncomelania hupensis species, are operculate with conical or turriculate shells.
+Other freshwater mollusks serve as intermediate hosts for incomplete avian schistosome infections (causing cercarial dermatitis) but may be  difficult  to  distinguish  from  the  intermediate  hosts  of  human schistosomes, requiring the use of rigid determination keys or genetic analysis.
+The aquatic snails important to the transmission of S. mansoni and S. haematobium live  in  lightly-shaded,  slow-flowing  shallow  waters. Biomphalaria, and particularly Bulinus, can survive protracted droughts, hiding in moist mud until the next rains come and rivers swell again. The  amphibious Oncomelania intermediate  host  of S.  japonicum spends part of its time out of water, preferring moist soil in marshy habitats, at the edge of slow-flowing streams, or irrigation canals. It can survive dry periods, as well as long and cold winters. The population  dynamics  of  the  snails,  and  consequently  the  transmission dynamics  of  the  parasite  populations,  may differ  greatly  from  one area, one season or one year to another. The infective dynamics of the intermediate host are such that usually less than 0.5% is infected with schistosomes at any one time. As only a very small proportion of the total snail population can be sampled, it may be difficult to find any infected snails or cercariae even in highly endemic areas [20].
+
+============================================================
+CHUNK 14
+============================================================
+THE SNAIL INTERMEDIATE HOSTS AND OTHER RESERVOIR HOSTS
+There is no identified functional reservoir  host for S.  haematobium . Schistosoma  mansoni infects  rodents  and  baboons  living  in  some endemic areas and they can maintain the transmission cycle. However, humans  are  by  far  the  main  reservoir  of  infection.  In  contrast, S. japonicum is a zoonotic parasite that naturally infects dogs, cats, cattle, water buffaloes, pigs, horses, sheep, goats and rodents; some of these, i.e.  cattle and water  buffaloes,  are as important for transmission as humans [6, 20].
+
+============================================================
+CHUNK 15
+============================================================
+PROTECTIVE IMMUNITY
+Epidemiologic and clinical observations show that people living in endemic areas develop acquired immunity, but only after several years of  exposure  [21].  Indeed,  prevalence  and  intensities  of  infection decline after the age of 10-15 years. Cross-sectional data are, however, difficult to relate with exposure, as the worm burdens in adults were
+built up slowly over many years [21]. The availability of praziquantel has also allowed testing and confirming of this hypothesis by measuring  re-infection  rates  after  population-based  treatment.  After  confirmed chemotherapeutic cure, egg counts usually rise much quicker to initial levels in children than in adults, with minimal correlation to exposures to contaminated water. This partial immunity is mediated by IgE against larval and adult worm antigens, which stimulate eosinophils to release cytotoxins targeting schistosomulae [22]. Efforts to develop a protective vaccine are ongoing but are unlikely to result in a commercially-available product in the near future [3, 22, 23].
+
+============================================================
+CHUNK 16
+============================================================
+MORBID IMMUNITY
+The main pathology in schistosomiasis is actually caused by cellular immune responses against eggs retained in the tissues, rather than the adult worms [12, 24]. The enzymes and metabolites released by the ova that are trapped in the tissues provoke granulomatous reactions by eosinophils, monocytes and lymphocytes orchestrated by CD4 + T cells. In the early stages of infection, cytokine responses are predominantly of the TH1 type featuring interferonγ . As egg production proceeds, they shift to a TH2 profile with high levels of IgE, interleukin (IL)-4 and eosinophilia. In long-standing chronic infection, this TH2 profile modulates to production of IL-10, IL-13 and IgG4 , which leads to the regression of the granulomas and their replacement by collagen. In most infected persons, however, anti-inflammatory IL-10, and possibly transforming growth factor (TGF)β , induced by regulatory T cells, prevents excessive TH1 or TH2 polarization and, hence, severe disease manifestations in the late stages of the disease.
+
+============================================================
+CHUNK 17
+============================================================
+IMMUNE RESPONSES AND CO-INFECTIONS
+Various  bidirectional  interactions  between  immune  responses  to schistosomiasis and HIV/AIDS have been described, but their clinical significance remains undetermined [3, 25]. Treatment of concomitant schistosomiasis  appears  to  have  little  effect  on  HIV  viral  load  or results,  at  most,  in  a  lower  HIV  RNA  increase  in  patients  with  a delayed intervention. Reduced CD4 + T cell counts may increase the susceptibility to schistosome infections and serodiagnostic reliabilities may be affected in concomitant infections.
+There have been experimental animal and human studies reporting that chronic schistosomiasis, by downregulating the TH1 and upregulating  the  TH2  immune  responses,  could  cause  viral  infections, notably hepatitis B and C, to become chronic and more severe [26]. The situation is complicated as parenteral treatment of schistosomiasis has caused the spread of some blood-borne viral infections [13], but the clinical importance of the immunosuppressive effects of schistosomiasis  on  hepatitis  B  and  C  is  less  than  the  pathophysiology caused by having multiple infections.
+
+============================================================
+CHUNK 18
+============================================================
+GEOGRAPHIC DISTRIBUTION (Fig. 122.3)
+The  distribution  of  the  different  species  depends  primarily  on  the ecology of the snail hosts. The introduction and sustained transmission of Schistosoma infections requires suitable snail hosts, a tropical climate  for  at  least  4-6  months  a  year,  human  settlement,  fecal  or urinary contamination of the surface waters harboring the snails and human  contact  with  these  waters.  The  geographic  distribution  of schistosomiasis  is,  thus,  largely  confined  to  an  area  between  36° north and 34° south latitude, where freshwater temperatures average 25-30°C and socioeconomic conditions impose regular contact with snail-infested water [1, 3, 4]. In addition, within populations and age groups, schistosomes are not evenly distributed - a small number of individuals carry most of the parasite burden [27].
+The  epidemiology  of  schistosomiasis  is  highly  focal  and  can  vary strongly from one area, village or hamlet to another [1, 3, 4]. While S.  haematobium mostly  occurs  in  warm  plains, S.  mansoni can  be transmitted in a variety of ecotypes, from savannah to rain forest and highland areas of up to 2500 m. Transmission of both species takes place in the great lakes of Central and East Africa; in many other small
+FIGURE  122.3 World  distribution map of schistosomiasis (Reproduced with permission from Gryseels B, Polman K, Clerinx J, Kestens L. Human schistosomiasis. Lancet 2006;368: 1106-18.).
+and  large,  natural  and  artificial  lakes  throughout  the  continent;  in surface irrigation and drainage systems; and in innumerable natural streams and ponds. Transmission of S. japonicum takes place in hot southern areas in China, as well as in the mountains of Sichuan and the central lakes, where winters are severe but summers are hot and long enough to allow intense seasonal transmission.
+
+============================================================
+CHUNK 19
+============================================================
+GEOGRAPHIC DISTRIBUTION (Fig. 122.3)
+The  main  foci  of S.  mansoni are  in  sub-Saharan  Africa,  including Madagascar; Lower and Middle Egypt; the Arabian peninsula; northeast Brazil; Surinam; Venezuela; and parts of the Caribbean. Schistosoma  haematobium occurs  in  large parts of  sub-Saharan  Africa, Madagascar, Middle and Upper Egypt, the Maghreb and the Arabian peninsula. Schistosoma japonicum is found along the central lakes and the Yangtze River in China, including the mountain areas of Sichuan and Yunnan; and Mindanao, Leyte and other small sites in the Philippines. It is not clear whether transmission still occurs in some small historical  pockets  in  Indonesia.  The  distribution  of S.  mekongi is limited to the central Mekong basin in Laos and Cambodia, and of S. intercalatum to pockets in West and Central Africa.
+Schistosomiasis is typically an infection of traditional rural areas, but it has also spread to many human settlements around artificial dams and irrigated lands [1-3, 28]. Examples are Lake Nasser and several newly reclaimed areas in Egypt; Lake Volta in West Africa; dams on the Senegal River in Mali, Mauritania and Senegal; hundreds of small village dams throughout Africa; the irrigated sugar estates in Brazil; canal systems in China, and, possibly in the future, the Three Gorges Dam area. Despite mandatory and elaborate risk assessments, food production  and  socioeconomic  development  take  precedence  over future health concerns. Urban schistosomiasis is becoming an increasing  problem  throughout  Africa,  South  America  and  Asia.  In  many shantytowns, snail populations thrive in local canals, drains or small irrigated plots. As sanitation and water supply are often poor, migratory and other exchanges with rural endemic areas easily leads to the establishment of permanent transmission within city boundaries.
+
+============================================================
+CHUNK 20
+============================================================
+COMMUNITY EPIDEMIOLOGY
+Our understanding of the epidemiology of schistosomiasis is based on indirect measures of worm burdens, i.e. the presence and number of eggs excreted by individuals in a known volume of excreta [1, 3, 27]. These are useful at the community and group level, but much less accurate in individuals owing to significant day-to-day and individual variations of egg excretion. Worm burdens have been directly counted in only a few autopsy studies, and further approximated in mathematical models or using circulating antigen levels. Other methodologic handicaps include difficulty measuring snail densities and infection rates, cercarial of miracidial densities, human water contact or acquired resistance [20].
+The  overall  prevalence  of  infection  in  communities  living  under endemic conditions is usually between 30% and 100% [1]. However, particularly in areas with low intensities of transmission and infections, many light infections go undetected on routine screening, and the true prevalence may be 2-3 times higher than that observed [29]. In  addition,  many adults  who are microscopically negative for ova have probably had earlier infections, as demonstrated by the persistence of specific antibodies.
+Depending on the intensity of transmission and local habits, infections can be detected in toddlers from the age of 6 months onwards -  sometimes  even  earlier  [30].  In  almost  all  foci,  prevalence  and intensities  of  infection,  as  measured  by  egg  excretion,  rise  strongly from the age of 5-7 years to a peak in the age group between the age of 8 and15 years, and then decline substantially in adults [1, 3]. The peak age usually falls a few years earlier in heavily infected communities.  Boys  are  usually  more  heavily  infected  than  girls  as  they  play more  often  and  intensively  in  water.  In  adults,  gender  differences depend on occupational activities.
+While  these  observations  can  be  partly  explained  by  water  contact patterns, many epidemiologic, clinical and immunologic studies indicate  that  people  living  in  endemic  areas  develop  some  form  of acquired resistance after years of exposure [1, 22]. However, similar age-related  infection  rates  are  also  observed  in  communities  only recently exposed to transmission through migration or newly established transmission. As acquired immunity cannot be invoked in such cases, it might represent age-related innate resistance, possibly influenced by hormonal changes [21].
+
+============================================================
+CHUNK 21
+============================================================
+CLINICAL DISEASE AND PATHOLOGIC CORRELATES
+The pathogenesis of schistosomiasis is largely  based upon the host reaction against  the different parasite  stages, rather  than their presence. The adult worms living in the bloodstream are seldom associated  with  clinical  illness.  They  rarely  cause  vascular  obstruction  in ectopic  areas,  for  example  cerebral  or  spinal  arteries.  Early  clinical manifestations  associated  with  migratory  schistosomulae  include
+FIGURE 122.4 Swimmers'  itch. (Courtesy  of  Dr  A  J  Bearup,  School  of  Public Health and Tropical Medicine, University of Sydney, NSW, Australia).
+cercarial  dermatitis  and  acute  systemic  schistosomiasis  (Katayama fever). Chronic schistosomiasis is largely associated with the granulomatous  and  fibrotic  responses  to Schistosoma ova  during  mature, chronic infections [12]. Severity of clinical disease and susceptibility to  praziquantel  varies between geographic areas, suggesting Schistosoma subspecies, or strain differences, between and within countries and continents; apparently, immunogenetic traits among populations affect  the  epidemiology and  pathophysiology  of schistosomiasis as well [3].
+
+============================================================
+CHUNK 22
+============================================================
+CERCARIAL DERMATITIS (Fig. 122.4)
+Non-sensitized and sensitized individuals respond with marked differences to the penetration of the skin by cercariae. Initial exposures produce only mild, transient reactions that can be unnoticed or cause only a mild prickling sensation as the water evaporates and the parasites penetrate the skin. Macules usually appear within 12 hours on the  exposed  skin  in  non-sensitized  persons  and  rapidly  disappear. However, in previously sensitized persons they are followed by pruritic papules, erythema and, in more severe cases, vesicles, edema and pruritus. Cercarial dermatitis most commonly occurs with S. mansoni and S.  haematobium and  is  unusual  with S.  japonicum .  A  similar 'swimmers' itch' is also frequently caused by cercariae of animal and bird  trematodes  in  tropical  areas  or  during  summer  in  temperate climate zones, including Europe and North America [1, 17]. Pathologically, these focal lesions show edema and heavy dermal and epidermal  eosinophil  and  mononuclear  cell  infiltrates  resulting  from subcutaneous  cercarial  death.  Cercarial  dermatitis  resolves  in  7-10 days without permanent tissue damage or scarring.
+
+============================================================
+CHUNK 23
+============================================================
+ACUTE SCHISTOSOMIASIS (KATAYAMA FEVER)
+Acute schistosomiasis, or 'Katayama fever' by its historical Japanese name,  is  a  systemic  hypersensitivity  reaction  against  the  migrating schistosomulae and/or the onset of egg production, occurring within a few weeks to months after a primary infection [31, 32]. It can be caused by all schistosome species. Usually, the onset is sudden with fever, fatigue, myalgia, malaise, nonproductive cough, marked peripheral  eosinophilia, elevated IgE and patchy infiltrates on chest x-ray. Early symptoms are mostly caused by allergic reactions to the migratory schistosomulae as they congregate in the pulmonary microvasculature en route to the liver. A few weeks later, abdominal symptoms may develop because of the migration and positioning of the mature worms and the start  of  ovideposition  in  the  tissues.  Most  patients recover spontaneously after 2-10 weeks, but some develop a persistent  and  serious  illness  with  weight  loss,  dyspnea,  diarrhea,  diffuse abdominal pain, toxemia, hepatosplenomegaly and generalized rash. Intense infections occasionally are fatal.
+Acute  schistosomiasis  caused  by S.  mansoni and S.  haematobium is rarely reported within chronically exposed populations. It is not an infrequent  diagnosis  in  tourists,  travelers  and  others  accidentally exposed  to  transmission.  Most  cases  in  Western  travel  clinics  are imported from sub-Saharan Africa, often in family or group clusters [31,  33].  Exposures  frequently  occur  in  Lakes  Malawi,  Victoria  and Volta, the Zambesi and Niger deltas, the Dogon country of Mali, and lake resorts in South Africa. The infective water contacts range from bathing  and  swimming  to  scuba  diving,  water  skiing  and  rafting. Serious  neurologic  complications  can  occur  as  a  result  of  ectopic worms or eggs in the spinal cord.
+
+============================================================
+CHUNK 24
+============================================================
+ACUTE SCHISTOSOMIASIS (KATAYAMA FEVER)
+Katayama  fever  caused  by S.  japonicum infections  can  present  as serious, sometimes fatal, serum sickness-like disease which possibly results from the early release of large quantities of egg antigens that cross-react  with  antibodies  to  schistosomula,  resulting  in  immune complexes  that  cause  hypertrophy  of  lymphoreticular  tissue  [1-3, 32.  This  prototypic  Katayama  syndrome  is  characterized  by  fever, hepatosplenomegaly  and  cachexia  which  may  evolve  directly  to severe hepatosplenic fibrosis and portal hypertension. Unlike African schistosomiasis,  it  is  not  restricted  to  primary  infection,  but  also occurs in people living in endemic areas and in those with a history of  previous  infections.  In  China,  true  'rebound  epidemics'  have been reported in endemic communities exposed to floods.
+
+============================================================
+CHUNK 25
+============================================================
+CHRONIC PATHOLOGY AND ILLNESS
+In  chronically  established  infections  most  pathology  is  caused  by cellular and fibrotic immune reactions against eggs that are trapped in the tissues during their perivesical or peri-intestinal migration, or after embolization to the liver, spleen, lungs or cerebrospinal system [12, 34, 35]. The ova secrete proteolytic enzymes that sensitize local lymphocytes which in turn mobilize macrophages, lymphocytes, eosinophils and fibroblasts that encapsulate the egg with a typical granuloma. Early, acute granulomas are usually composed of eosinophils and  neutrophils,  as  well  as  mononuclear  cells.  Macrophages,  lymphocytes,  fibroblasts  and  multinucleated  giant  cells  dominate  the chronic granuloma. The acute granuloma is large and diffuse, whereas the  more  chronic  granuloma  is  smaller  and  better  circumscribed (Fig. 122.5).
+The egg granuloma is thought to be protective, as well as pathogenic. In healthy hosts it reduces, or confines, tissue necrosis. Granuloma formation  is  largely  a  product  of  TH2  cytokines.  As  cell-mediated immunity reactions are downregulated over time, the granulomas are reduced  in  size  and  gradually  replaced  by  collagen  depositions.  In some, but not all patients, this balance is disturbed and the collagen deposition leads to fibrosis. Depending on the tissue egg load, a great number of microlesions may merge into the typical fibrotic streaks that cause most of the irreversible pathology in all forms of schistosomiasis. The severity of chronic diseases is thus related to the intensity of infection on one hand, and individual immune responses on the other. Severe forms are mostly seen in individuals with previously high parasite loads, and probably some form of immunogenetic predisposition [3, 24].
+
+============================================================
+CHUNK 26
+============================================================
+CHRONIC PATHOLOGY AND ILLNESS
+While in such cases schistosomiasis is a serious and sometimes lifethreatening disease, many infections remain asymptomatic or cause only mild, vague or intermittent symptoms of malaise, drowsiness, abdominal discomfort and mucus or blood-specked diarrhea [1-3]. In  endemic  areas,  it  is  common  to  detect  many  infected  persons without, at first sight, noticeable consequences. Often, however, treatment is followed by spontaneous, widespread reports of improved wellbeing, fitness and appetite. Also in tourists or migrants, infection is regularly a chance finding, sometimes decades after exposure.
+
+============================================================
+CHUNK 27
+============================================================
+URINARY SCHISTOSOMIASIS
+The eggs of S.  haematobium provoke  granulomatous inflammation, ulceration and pseudopolyposis of the mucosa and submucosa of the bladder and the  ureters  [3, 36]. Obstructive  uropathy occurs  when such lesions are located in the ureter or in the bladder near the ureteral inlet. Bladder and ureteral obstruction may result in urine stasis,
+FIGURE 122.5 Histopathology in schistosomiasis: early (A) and late (B) egg granulomas in the liver. (Reproduced with permission from Gryseels B, Polman K, Clerinx J, Kestens L. Human schistosomiasis. Lancet 2006;368:1106-18.)
+FIGURE 122.6 Urinary  schistosomiasis:  macroscopic  hematuria,  the 'red Cag' of urinary schistosomiasis in children. (Reproduced with permission from Gryseels B, Polman K, Clerinx J, Kestens L. Human schistosomiasis. Lancet 2006;368: 1106-18.)
+disruption of the normal bacteriostatic  mechanisms of the bladder mucosa  and  urinary  tract  infection.  Although  rarer  following  the widespread use of antischistosomal chemotherapy, abdominal radiographs may show calcium deposits around extensive deposits of calcified Schistosoma eggs in the bladder wall.
+
+============================================================
+CHUNK 28
+============================================================
+URINARY SCHISTOSOMIASIS
+Common early symptoms of urinary schistosomiasis include dysuria, urinary frequency and urgency, proteinuria and, particularly, hematuria. In endemic areas, the latter is the 'red flag of schistosomiasis' in children between the age of 5 and 10 years old, sometimes mistakenly considered as the onset of menstruation in girls, or even as a similar coming of age in boys (Fig. 122.6). Typically, blood is first seen in the terminal urine; in more severe cases, the urine can be dark-colored and bacterial super-infection is a common complication. These symptoms mostly wane as the child becomes older. In non-treated populations exposed to S. haematobium, microhematuria can be present in 40-100%  of  infected  children  [39].  Bladder  pathology  and  upper urinary tract  lesions can  be detected by ultrasound or  radiology in many infected people (Figs 122.7 and 122.8). Many cases with serious morphologic  lesions  show  a  surprisingly  preserved  renal  function.
+FIGURE 122.7 Urinary schistosomiasis. Ultrasonographic view of bladder. Thickening and irregularity of the bladder wall (small arrows) and a large polyp (large arrows) are present.
+FIGURE 122.8 Urinary schistosomiasis. Intravenous pyelogram showing a large  bladder  Blling  defect  caused  by  granulomatous  polyp  formation. Early  right  hydronephrosis and hydroureter are also present. (Courtesy of U.S. Naval Medical Research Unit No.3, Cairo, Egypt).
+Lesions can reverse spontaneously with age and usually heal well after antischistosomal therapy. Chronic infection may lead to obstructive uropathy, renal failure and bladder cancer.
+
+============================================================
+CHUNK 29
+============================================================
+Obstructive Uropathy (Figs 122.7 and 122.8)
+Fibrosis  of  the  bladder  and  lower  ureters  with  hydroureter  and hydronephrosis occurs in the lower third of the ureter or in the bladder. It may remain clinically silent for years, while being easily visualized in pyelograms or ultrasound, and is usually reversible with chemotherapy. Hydronephrosis is initially caused by compression; the parenchyma can eventually be destroyed leading to renal failure. Secondary chronic  bacteriuria  and  pyelonephritis,  sometimes  complicated  by septicemia, may be the presenting manifestation and can be fatal.
+
+============================================================
+CHUNK 30
+============================================================
+Bladder Cancer
+Chronic urinary schistosomiasis is epidemiologically associated with high incidences of squamous cell bladder carcinoma in Egypt and, less clearly, in some other African foci [3, 37]. In Egypt, the incidence of bladder cancer has decreased over the past 2-3 decades along with the  prevalence  of  urinary  schistosomiasis  following  praziquantel MDA. In addition to causing  chronic inflammation of the bladder wall,  the  schistosomal  lesions  may  enhance  the  exposure  of  the bladder  epithelium  to  carcinogenic  substrates.  Apart  from  gross hematuria,  bladder  cancer  often  presents  with  frequency,  urgency, dysuria, weight loss and metastasis to the inguinal, femoral and retroperitoneal lymph nodes.
+
+============================================================
+CHUNK 31
+============================================================
+INTESTINAL SCHISTOSOMIASIS
+The eggs of S. mansoni , S. japonicum and other species migrate through the  intestinal  wall  where  they  provoke  mucosal  granulomatous inflammation,  pseudopolyposis,  micro-ulcerations  and  superficial bleeding. Most lesions are situated in the large bowel and the rectum; small bowel pathology is rare [38].
+Most common symptoms attributed to intestinal schistosomiasis are chronic or intermittent abdominal pain and discomfort, loss of appetite  and  mucous  diarrhea  with  or  without  blood,  although  occult blood in the stool is very common [1-3, 39]. Physical examination may be normal or show moderate abdominal distention, diffuse mild abdominal tenderness and hyperactive bowel sounds.
+Intestinal polyposis, ulcers, fistula and strictures have been attributed to S. mansoni . In such cases, diffuse, protein-losing enteropathy may occur,  with  chronic  mucohemorrhagic  diarrhea,  weight  loss  and anemia.  Physical  examination  reveals  a  distended  abdomen  with diffuse  tenderness  or  localized  tenderness  over  the  transverse  and descending colon. Severe, long-standing granulomatous or polypous lesions may result in partial or complete bowel obstruction and, in rare cases, appendicitis or perforation. Intense dysenteric syndromes are exceptional, but in some cases fatal. Schistosoma japonicum and S. mansoni have  both  been  associated  with  colon  cancer,  but  the  evidence for causation is weak.
+The  reported  frequency  of  intestinal  disease  in  people  living  in endemic  areas  infected  with S.  mansoni or S.  japonicum is  usually 10-50% [39]. In general, intestinal morbidity is strongly correlated with intensities of infection, both at the population and at the individual level.
+
+============================================================
+CHUNK 32
+============================================================
+HEPATOSPLENIC SCHISTOSOMIASIS
+(Figs 122.9 and 122.10)
+Hepatic schistosomiasis can be caused by S. mansoni , S. japonicum and S.  mekongi .  The  pathologic  impact of S.  intercalatum is  restricted  to mild intestinal disease. Hepatic and hepatosplenic schistosomiasis can be caused by either early inflammatory or late fibrotic hepatic disease, with quite different underlying pathology and prognoses [1-3].
+
+============================================================
+CHUNK 33
+============================================================
+In;ammatory Hepatic Schistosomiasis
+This is an early reaction to ova trapped in the hepatic presinusoidal periportal spaces where many granulomas are produced (Fig. 122.5A).
+FIGURE  122.9 Early (A) and  late (B) hepatosplenic  schistosomiasis mansoni. (Reproduced  with  permission  from  Gryseels  B,  Polman  K,  Clerinx  J, Kestens L. Human schistosomiasis. Lancet 2006;368:1106-18.)
+FIGURE 122.10 Cut surface of the liver showing Symmer's clay pipe stem Bbrosis  in  a  patient  infected  with Schistosoma mansoni . (Courtesy of  U.  S. Naval Medical Research Unit No. 3, Cairo, Egypt).
+It  is  the  main cause of schistosomal hepatomegaly in children and adolescents,  often  associated  with  hyperplastic  splenomegaly  and strongly  correlated  with  the  intensity  of  infection.  Typical  features include  sharp-edged  enlargement  of  the  left  lobe  of  the  liver  and nodular splenomegaly. In most cases, the organomegaly is mild but sometimes the liver and spleen may extend below the umbilicus and into the pelvis (Fig. 122.9A). Usually, liver cell function is normal and jaundice  is  absent.  In  young  children,  clinical  differentiation  from malaria  may  be  difficult.  In  heavily  endemic  areas,  this  type  of hepatomegaly, with or without splenomegaly, is present in 30% or more of infected children and adolescents, but much less in adults. The frequency and severity correlate with intensities of infection, but are also subject to methodologic variations, immunogenetic predisposition and other confounding factors [39].
+
+============================================================
+CHUNK 34
+============================================================
+Fibrotic or Chronic Hepatic Schistosomiasis
+This complication develops years later in the course of infection and in a minority of those infected. It is believed to be a consequence of long-standing  intense  infection,  as  well  as  dysfunctional  or  overpolarized immune responses which fail to downregulate granulomatous  and  fibrotic  reactions  [24].  Diffuse  collagen  deposits  in  the periportal spaces occur (Fig. 122.5B) and confluence of the resulting fibrotic  streaks  leads  to  the  pathognomic  'Symmer's  pipe  stem
+fibrosis', in which the elongated periportal fibrotic lesions resemble clay pipe stems (Fig. 122.10). Physical occlusion of the portal veins leads to portal hypertension, increased splenic vein pressure and tortuosity and splenomegaly. Portal hypertension results in collateralization  of  the  abdominal  venous  circulation,  which  may  show externally  as  a  'caput  medusa',  and  leads  internally  to  portocaval shunting and gastrointestinal  varices. This condition also facilitates the distribution of Schistosoma eggs into the general circulation and the  occurrence  of  ectopic  lesions  in  the  lungs,  spinal  cord  (Fig. 122.11) or the brain. End-stage hepatosplenic schistosomiasis can be marked by ascites (Fig. 122.9B).
+The extent of exposure, immunogenetic predisposition, concomitant infections and nutritional deficiencies all contribute to the severity of the disease. The liver is not necessarily enlarged, but is usually hard and nodular on palpation. In contrast to cirrhosis, the parenchyma, hepatocellular functions and its biologic parameters remain largely unaffected. Fibrotic hepatic schistosomiasis is mainly seen in young and  middle-aged  adults,  although  it  can  occur  in  heavily  infected adolescents. In S. mansoni infections, this takes at least 5-15 years to develop, by which time ova may not be present or detectable. In S. japonicum ,  the  progression  may be  more rapid, in some  cases  with little, or no, interval between acute and chronic disease.
+
+============================================================
+CHUNK 35
+============================================================
+Fibrotic or Chronic Hepatic Schistosomiasis
+Bleeding from gastro-esophageal varices is the most serious, and often fatal, complication of fibrotic hepatic schistosomiasis. In S. mansoni infections, it tends to recur and become more severe over time; in S. japonicum , bleeding is often sudden and massive. Repeated or occult bleeding  may  lead  to  anemia,  hypoalbuminemia,  cachexia  and growth  retardation.  Ascites  can  be  caused  by  a  combination  of hypoalbuminemia and portal hypertension, or concomitant infection with hepatitis B or C.
+Advanced  liver  fibrosis  caused  by  schistosomiasis  used  to  be  a frequent  and  severe  health  problem  in  large  parts  of  Egypt,  Brazil, China, the Philippines and other countries. Over the past few decades, chemotherapy and general socioeconomic development have led to a dramatic reduction of such morbidity worldwide. Symptomatic liver fibrosis has always been less frequent in sub-Saharan Africa, except for some East-African foci, for example West Nile in Uganda, Machakos in Kenya and Gezirah in Sudan [39]. These varying continental and regional morbidity patterns may be partially explained by ethnic and  genetic  factors,  in  addition  to  the  intensities  of  exposure  to infection.
+
+============================================================
+CHUNK 36
+============================================================
+Pulmonary Schistosomiasis
+This  syndrome is a  complication of  portocaval shunting caused  by portal hypertension in chronic S. mansoni infection which allows ova to pass into the peri-alveolar capillary beds [1, 3, 40]. The ensuing granulomas cause obliterative arteritis which leads to fibrosis resulting in  pulmonary  hypertension,  increased  right  heart  pressure,  pulmonary artery and right atrial dilatation, and right ventricular hypertrophy. Schistosomal cor pulmonale has been mostly described in Brazil and Egypt, but appears to have become much less frequent over the last decades.
+
+============================================================
+CHUNK 37
+============================================================
+Schistosomal Glomerulonephritis
+Immune complexes can be deposited in the renal glomeruli during S. mansoni infections [41]. Schistosomal glomerulonephritis used to be  found  quite  commonly  in  renal  biopsies  from  patients  with S. mansoni infection in Brazil, but this finding was usually asymptomatic or clinically insignificant. Nephrotic syndrome is seen occasionally in patients  with S.  mansoni or S.  haematobium infections,  sometimes associated with chronic Salmonella bacteremia or bacteriuria.
+
+============================================================
+CHUNK 38
+============================================================
+Genital Schistosomiasis
+Schistosoma haematobium and S. mansoni ova that are trapped in the reproductive organs remain mostly occult in endemic areas, but are a regular finding in travelers. Hypertrophic and ulcerative lesions of the vulva, vagina and cervix may facilitate the transmission of sexually transmitted infections, including HIV. Lesions of the ovaries and the fallopian tubes can lead to infertility. In males, the epididymis, testicles, spermatic cord and prostate may be affected; hemospermia is a common symptom [42].
+
+============================================================
+CHUNK 39
+============================================================
+Neuroschistosomiasis
+This severe complication is caused by inflammation around ectopic worms  or  eggs  in  the  cerebral  or  spinal  venous  plexus,  which  can evolve to irreversible fibrotic scars if left untreated [1-3, 43]. Ectopic S.  mansoni and S.  haematobium infections mainly cause spinal cord pathology with transverse myelitis, which is also a potential complication of acute schistosomiasis in travelers [31, 33]. Symptoms vary with the location and the degree of the myelitis, and may include paraplegia and loss of bladder and/or anal sphincter control. Sometimes, the patient may have pain or loss of sensation; rarely there will be a rash around the body affecting the dermatome at the level of the spinal cord lesion.
+Schistosoma  japonicum, possibly  because  of  the  larger  number  and smaller size, or the clustering of the eggs, is associated with cerebral granulomatous lesions  that can  be  either  diffuse  or  focal,  possibly depending on whether eggs have been randomly embolized from a distance or locally-released by ectopic worm pairs. Depending on type and location, the resulting syndrome may have an epileptic, paralytic or  meningo-encephalitic  character.  The  acute  phase,  which  occurs months after exposure, may be accompanied by fever, urticaria, eosinophilia  and  angioneurotic  edema  suggesting  an  allergic  encephalopathy.  There  may  be  delirium,  confusion,  personality  changes, incontinence, coma, nuchal rigidity, pyramidal track signs and cerebellar symptoms. The acute phase may merge into a chronic phase, which could be asymptomatic or mimic intracranial neoplasm. Epileptic  syndromes  often  include  Jacksonian  or  grand  mal  seizures, stemming from lesions in the parietal lobe. Other neurologic signs and symptoms are headaches, speech difficulties, visual disturbances, papilledema and cerebellar symptoms [43].
+
+============================================================
+CHUNK 40
+============================================================
+Other Sites
+Ectopic schistosomal lesions in the skin can present as maculopapules or wart-like protuberances, the latter particularly in the genital area [2]. Schistosomal granulomas in the peritoneum may be mistaken for endometriosis, miliary tuberculosis or cancer metastasis. Granulomas around stray eggs have also been documented in the pancreas, gallbladder, stomach, heart, kidney and adrenal glands, with or without recognized clinical manifestations.
+
+============================================================
+CHUNK 41
+============================================================
+Chronic Salmonella Co-Infections
+Schistosomiasis  has  been  associated  with  the  presence  of  several co-infections, especially chronic persistent Salmonella bacteremia [1]. Possible  explanations  include  immunologic  tolerance  caused  by schistosomiasis and the physical attachment and proliferation of Salmonella bacteria  on,  or  in,  adult  worms.  The  syndrome  was  seen mainly in males between the age of 15-30 years, but has become rare. It is characterized by a long history of indolent febrile disease, bacteremia with one or more Salmonella species and chronic active schistosomiasis. It differs from enteric fever caused by S. typhi by negative stool cultures, a petechial rash on the lower extremities rather than on  the  abdomen,  and  the  absence  of  systemic  complications,  for example prostration, delirium or localized infections.
+
+============================================================
+CHUNK 42
+============================================================
+Co-Infections with Hepatitis B and C
+Chronic S. mansoni infected patients co-infected with hepatitis B or C are prone to have clinically more severe infections. Prior parenteral treatment for schistosomiasis may also have substantially increased the risk for  hepatitis infections in some areas, especially Egypt [13,
+26]. Patients with co-infections more often develop jaundice, intractable ascites and hepatic failure. In fact, patients with chronic schistosomiasis who have elevations in serum alanine transaminase (ALT) or  aspartate  transaminase  (AST)  have  a  high  probability  of  having concomitant  hepatitis  B  and/or  C  infections.  Proper  precautions should be taken in the management of the patient and the handling of blood samples.
+
+============================================================
+CHUNK 43
+============================================================
+INDIRECT PATHOLOGY AND MORBIDITY
+Before  the  advent  of  modern  treatment  and  control, S.  japonicum infection was believed to be related to reduced stature, weight, weightfor-height, skin-fold thickness, muscle mass and other anthropometric  measures,  especially  during  childhood  and  adolescence.  These clinical and epidemiologic observations, although historical and not always rigorously documented, indicate an independent effect of the infection  on  nutrition,  growth  and  development.  This  impact  on physical development was widespread and is thought to have substantially reduced economic productivity in China at one time, when schistosomiasis was considered 'the plague of gods' and its control received high political priority [2].
+However, early  studies  to  establish  an  association  between  general wellbeing, anthropometric indices, nutritional status and physical or cognitive performance, and the presence or intensity of S. mansoni or S.  haematobium infection  were largely  inconclusive or  contradictory [39].  Possibly,  they  were  obscured  by  the  frequent  comorbidities from  malarial,  intestinal  helminths,  protozoa,  bacterial  and  viral infections. As severe disease from Schistosoma infections  has  waned in many areas, subtle or 'indirect' morbidity has become the target of more focused research efforts and is providing a rationale for sustained  control  strategies.  Significant  associations  have  now  been demonstrated  for  anemia,  nutritional  status,  cognitive  and  physiologic capacities [44].
+
+============================================================
+CHUNK 44
+============================================================
+GLOBAL BURDEN OF DISEASE <GBD=
+Schistosomiasis is  highly  prevalent  but  the  associated  morbidity  is low  and  variable.  The  GBD  of  schistosomiasis,  as  expressed  in Disability-Adjusted  Life  Years  (DALY),  depends  on  the  number  of people infected on one hand, and the mortality and disability attributed to it on the other [45]. The total number of cases in the world is estimated by the WHO at 200 million, a figure that is consistently quoted in the literature but may need to be revised downward in view of recent trends [2, 7-9]. The GBD estimates report up to 15,000 lives lost to schistosomiasis annually, and applies a 'disability weight' of 0.06. The total number of DALYs lost to schistosomiasis is estimated at 1.75-2.0 million, of which 85% are in sub-Saharan Africa. This is a fraction of the GBD of AIDS, malaria or tuberculosis, and puts it in the same league as lymphatic  filariasis,  leishmaniasis and trypanosomiasis. Schistosomiasis would account for 0.1% of the GBD in the world and 0.4% of the GBD in sub-Saharan Africa.
+These figures have been contested by many schistosomiasis experts when advocating for global control efforts [8, 44, 46, 47]. Upgrades of as much as a 40-fold increase of schistosomiasis mortality in subSaharan Africa, and a 4-30-fold upgrade of the disability weight have been  proposed.  These  revised  data  have  not  been  empirically  validated,  however,  and  remain  inconsistent  with  total  mortality  and GBD data. This does not reduce the need, however, to bring treatment and control to affected populations.
+
+============================================================
+CHUNK 45
+============================================================
+MEDICAL HISTORY AND EXAMINATION
+Within  endemic  areas,  schistosomiasis  must  be  suspected  in  all patients presenting any symptom, however vague, that can be related to the infection. In travelers and migrants, a careful residence or travel history can help establish the diagnosis of schistosomiasis [31, 33]. In several sub-Saharan areas, both S. mansoni and S. haematobium, and even S. intercalatum, can be contracted. The patient who has lived in,
+877
+or  visited,  endemic  areas  must  be  asked  about  skin  contact  with freshwater of any kind, even if considered locally as safe or snail-free. Contacts of any type or duration can lead to infection. The patient may, or may not, report itching or rash shortly after the water contact. Visual  inspection  may help  diagnose  'swimmers'  itch'  after  recent exposure.
+A medical history may reveal intermittent symptoms since the potential exposure, including flu-like syndromes in the weeks or months thereafter. Malaise, fatigue,  muscle pains, appetite loss, intermittent diarrhea, vague abdominal pain and red or dark urine are potential warning signs - partly depending on the suspected species. A neurologic history and examination is performed to exclude early cerebrospinal involvement. Abdominal palpation may reveal hepatomegaly or  splenomegaly  of  varying  degrees  and  abdominal  tenderness  or distention, but also may be entirely negative.
+
+============================================================
+CHUNK 46
+============================================================
+LABORATORY FINDINGS
+Rapid tests can include a visual inspection or a hematuria dip-stick test of the urine for S. haematobium , or occult blood in the stools for S.  mansoni and S.  japonicum ;  these  are  very  useful  tools  for  rapid diagnosis and community screening in the endemic areas [1-3, 39]. In tourists and migrants, the most important hematologic indicator is eosinophilia, which is usually elevated in acute schistosomiasis but may be negative in chronic cases. Other hematologic or biochemical parameters,  including  liver  function  tests,  are  often  within  normal limits but abnormal values can indicate chronic complications, for example anemia or renal failure, or comorbidities, such as hepatitis. Mild  anemia  is not  unusual  in  infected  persons living  in  endemic areas and the serum alkaline phosphatase level may be elevated. If the ALT or AST levels are elevated, a concomitant hepatitis B and/or C infection should be suspected. Recently, DNA detection in serum was shown to be very sensitive and specific for the early diagnosis of schistosomiasis [48].
+
+============================================================
+CHUNK 47
+============================================================
+SCHISTOSOMA OVA IDENTIFICATION BY MICROSCOPY (Fig. 122.1 1)
+The microscopic demonstration and identification of eggs in excreta remains the gold standard for the diagnosis of active schistosomiasis, but has low sensitivity in light infections [29]. In rare cases, incidental exposure may lead to infection with only male or female worms, in which case there is no ova production. If eggs are found, their size and shape allows easy detection and identification under low magnification. Direct microscopic examinations of wet-mounted slides are not reliable, as they contain only a few milligrams of feces or milliliters of  urine.  Concentration methods and repeated examinations in different urine or stool specimens on different days may be required to confirm the presence of active infections. Stools may be concentrated  with  general  techniques,  for  example  Ritchie's  formol-ether method, or more specific ones, such as conical flask sedimentation in glycerine water, sieving or miracidial hatching. Urine may be centrifuged,  sedimented or passed through paper  or  nylon filters  with a variety of devices [1, 49, 50]. Sensitivity increases considerably with the weight or volume of the sample examined. The excretion of S. haematobium eggs in the urine is not uniform over a day, and samples collected between 10.00 h and 14.00 h are more likely to be positive. Also, physical exercise before sampling increases the chance of finding eggs  in  the  urine.  The  microscopic  examination  of  crushed  rectal snips, obtained during proctoscopy or sigmoidoscopy, is remarkably sensitive for S. mansoni and S. japonicum ,  as well as S. haematobium infection.  Rectal  biopsies  can  be  performed  during  proctoscopy  or sigmoidoscopy by taking 1-3 small mucosal samples from inflamed or granulomatous lesions, or from random areas of normal-appearing mucosa. The mucosal sample is pressed between a cover slip and a glass slide until it becomes transparent. If ova are present, they can be seen under low power microscopy. Also, bladder biopsies obtained during  cystoscopy  can  be  directly  examined  for  eggs.  The  biopsies can be partly fixed in formalin for histologic staining and examination,  which  may  reveal  eggs,  as  well  as  inflammation  and  typical granulomas.
+
+============================================================
+CHUNK 48
+============================================================
+SCHISTOSOMA OVA IDENTIFICATION BY MICROSCOPY (Fig. 122.1 1)
+FIGURE 122.11 Schistosome eggs under the microscope. (A) S. mansoni (from lateral spine); (B) S. haematobium (from terminal spine); (C) S. japonicum (from small lateral spine). (Reproduced with permission from Gryseels B, Polman K, Clerinx J, Kestens L. Human schistosomiasis. Lancet 2006;368:1106-18.)
+Egg counts in calibrated samples provide a quantitative assessment of the infection. Quantitative egg counts after standardized urine filtration or in calibrated fecal thick smears (Kato-Katz method) are especially useful for epidemiologic surveys and control, as they correlate reasonably well with worm burdens and morbidity. For the Kato-Katz method, a 50 mg sample of feces is pressed through a 105-mesh steel sieve and fitted in the hole of a punched template, which rests on a glass microscope slide. This calibrated sample of filtered feces is then covered  with  a  cellophane  cover-slip  impregnated  with  glycerin, inverted and pressed onto a bed of filter paper. The slide is left for 24-48 hours while the fecal matter clears. Then, all eggs on the slide are counted under a microscope. Multiplying by 20 gives the number of eggs per gram of feces (EPG). Limitations of the test are that formed stools are desirable, light infections tend to be missed when examining small  amounts of feces, and the microscopist must be reliable. The most common quantitative technique for urine is filtrating 10 ml with a syringe through a paper, nucleopore or nytrel filter, which is then examined under a microscope and the number of eggs counted. This method provides a measure of eggs per 10 ml of urine [49, 50].
+
+============================================================
+CHUNK 49
+============================================================
+SCHISTOSOMA OVA IDENTIFICATION BY MICROSCOPY (Fig. 122.1 1)
+In clinical settings and in field surveys requiring accuracy, 3-5 repeated examinations with Kato-Katz or 10 ml urine filtration may be needed. It may be important to verify the ova's viability, particularly to determine whether drug treatment has been successful. Dead Schistosoma ova in the tissues can be excreted in the urine and stool for months after  adult worms are dead. Eggs passed more than one week after treatment are usually not viable. Microscopic examination of viable eggs will reveal clear, transparent structures with moving organelles (flame cells) of the miracidium. Dead eggs are often deformed, dark or  half-empty,  and  show  no  internal  movement.  Alternatively,  ova may  be  hatched  to  demonstrate  their  viability  by  diluting  a  small amount of urine or stool sediment in distilled water at room temperature and exposing it to light for 15-20 minutes. Ideally, it is put in a covered, darkened flask with a narrow top, which is left exposed to the light. Examination with a hand-held lens will reveal swimming miracidia.
+
+============================================================
+CHUNK 50
+============================================================
+Antibody-Based Serum Assays
+Many serologic methods have been developed for the indirect diagnosis of schistosomiasis [49-52]. These are quite sensitive but can not distinguish a past infection from a present active one. Some tests also may cross-react with other helminths and they are not easily applicable in the field. Serologic assays are important, however, for diagnosis in  travelers,  migrants  and  other  occasionally-exposed  people.  They can also provide important circumstantial evidence when complications of schistosomiasis are suspected, especially neuroschistosomiasis,  even  when  urine  and  stools  are  microscopically  negative. Most routine  techniques  detect  IgG,  IgM  or  IgE  against  soluble  worm antigen (SWA) or crude egg antigen (CEA) by enzyme immune assays
+(EIA).  Seroconversion  takes  place  usually  within  4-8  weeks  after infection,  but,  rarely,  antibodies  might  not  be  detected  for  4-5 months after infection. Most assays remain positive for at least two years after cure, and often much longer.
+
+============================================================
+CHUNK 51
+============================================================
+Circulating Schistosome Antigens
+Circulating  anodic  antigen  (CAA)  and  circulating  cathodic  antigen (CCA) can be detected and quantified in serum or urine with labeled monoclonal antibodies in different formats, including reagent strips [50, 52, 53]. These are Schistosoma gut glycoproteins regurgitated with the  metabolized  blood particles  into  the  circulation  of  the  human host. Antigen detection in serum is not sensitive in light infections, however, and therefore not very useful for clinical applications. These assays are primarily used in epidemiologic and therapeutic studies. Urine-based assays are more sensitive, but less specific.
+
+============================================================
+CHUNK 52
+============================================================
+CHEMICAL TESTING
+Using reagent strips to test for blood in urine and simple questionnaires for visible hematuria are inexpensive, easy and effective tools for  the  screening  and  rapid  assessment  of  urinary  schistosomiasis [1-3, 29, 49, 50]. Indirect diagnostic methods for intestinal or hepatic schistosomiasis,  for  example  examining  the  stool  for  mucus  and blood, are reasonably sensitive, but less specific.
+
+============================================================
+CHUNK 53
+============================================================
+ENDOSCOPY AND CYSTOSCOPY
+Endoscopy  can  visualize  esophageal  varices;  sigmoidoscopy  and colonoscopy allow visualizing of typical schistosomiasis lesions and provide  access  to  biopsy  specimens  for  tissue  egg  identification [1, 54]. The endoscopist can visualize small petechiae in otherwise normal rectal mucosa, dull patches with a sandpaper-like appearance, superficial  erosions,  stellate  superficial  ulcerations,  hyperemic,  easy bleeding  areas,  and  granulomatous  or  polyp  disease;  the  latter can be removed during the procedure. Laparoscopy can reveal granulomatous inflammation or periportal fibrosis. Needle biopsies of the liver may not sample the hard fibrotic lesions; wedge biopsies may be needed, for instance, to differentiate periportal fibrosis from postinfectious or alcoholic cirrhosis. Cystoscopy may reveal hemorrhagic inflammation, granulomatosis, polyposis, fibrosis or calcification of the bladder, and allow biopsy sampling.
+
+============================================================
+CHUNK 54
+============================================================
+X-Rays and Scans
+Intravenous pyelography and ultrasonography allow visualization of renal,  ureteral  and  bladder  pathology  quite  easily  and  plain  x-rays may show calcified  tissues  and  lesions,  including  renal  or  bladder stones  (Figs  122.7  and  122.8)  [55].  In  hepatic  schistosomiasis, contrast radiology can demonstrate portal vein distension or
+B
+D:
+FIGURE 122.12 Minimal (A) ,  moderate (B) and  extensive (C) periportal Bbrosis of the liver demonstrated by ultrasonography. The arrows point to typical lesions.
+gastro-esophageal varices.  Computerized tomography, myelography and magnetic resonance can be useful for detailed imaging, especially for neuroschistosomiasis.
+
+============================================================
+CHUNK 55
+============================================================
+Ultrasound
+Over the past three decades, ultrasonography has provided marked improvement in the diagnosis and study of schistosomiasis pathology  [56,  57].  Sonography  is  an  excellent  noninvasive  technique  to demonstrate  the  pathognomonic  periportal  fibrosis  and  can  estimate the degree of portal hypertension by measuring the distension of  the  portal  vein  (Fig.  122.12).  Standardized  protocols  have  been developed  in  order  to  classify  hepatic  fibrosis  and  urinary  tract lesions.  These  protocols  require  specific  expertise  and  experience, and results may be subject to considerable inter- and intra-observer variation.
+
+============================================================
+CHUNK 56
+============================================================
+TREATMENT
+Once active infection is confirmed by detection of ova, or a clinical diagnosis  of  schistosomiasis  is  made,  specific  chemotherapy  is indicated.
+
+============================================================
+CHUNK 57
+============================================================
+CHEMOTHERAPEUTIC AGENTS
+Praziquantel, the drug of choice, is effective against all schistosome species, as well as other flukes (e.g. Clonorchis sinensis and Paragonimus westermani ) and cestodes (e.g. Taenia saginata, Taenia solium, Diphyllobothrium latum and Hymenolepis nana ) [2, 3, 54, 58]. Praziquantel is mostly marketed as scored 600-mg tablets. The drug acts within an hour  after  ingestion  by  provoking  tetanic  contraction  of  the  adult worms  and  damaging  their  tegument,  but  the  precise  molecular mechanisms remain unknown. The antigens revealed induce humoral and  cellular  immune  responses,  enhancing  the  direct  drug  action. Side  effects  are  mild  and  include  nausea,  vomiting,  malaise  and abdominal pain. In heavy infections, acute colic with bloody diarrhea may occur, probably provoked by massive worm shifts and antigen releases induced by praziquantel.
+The original brand of praziquantel, Biltricide® (Bayer), has lost most market  share  to  about  30  generic  brands.  Consequently,  the  price falling from $2.00-4.00 to less than $0.20 per treatment has made the drug widely available for control purposes [58]. On the downside of this development, large pharmaceutical companies have given up investments to find new schistosomicides [14].
+The quality of generic praziquantel may vary and counterfeit praziquantel has been reported in Sudan [59]. The toxicity, mutagenicity and embryotoxicity of praziquantel are very low in animal models and, after 30 years of widespread application, no significant safety problems  have  been  documented  in  humans.  It  is  therefore  no  longer recommended to withhold treatment from young children and pregnant women [60].
+
+============================================================
+CHUNK 58
+============================================================
+CHEMOTHERAPEUTIC AGENTS
+The standard single dose of 40 mg/kg of body weight for treating S. mansoni, S. haematobium or S. intercalatum may be subcurative [1-3, 54].  Higher  regimens  are  not  always  well-tolerated,  however,  and should be given in split doses, several hours apart. For populationbased treatment, in which the reduction of egg loads and morbidity is the main objective, 40 mg/kg remains recommended [10]. People with high egg counts may be given two doses of 30 mg/kg, 3-6 hours apart. This higher split-dose is also routinely recommended for treatment of S. japonicum, S. mekongi and S. malayensis infections.
+Praziquantel  does  not  act  on  ova  or  on  immature  worms.  Viable, tissue-dwelling eggs may be excreted for several weeks after successful treatment and schistosomulae or young adult worms may survive treatment  and  become  viable  adult  worms.  The  optimal  course, therefore,  if  cure  is  the  goal,  is  to  repeat  the  microscopic  examination  of  the  stool  and/or  urine  for  ova  4-6  weeks  after  treatment. After a single dose of 40 mg/kg, intensities of infection, as measured by  egg  counts  or  antigen  levels,  are  almost  invariably  reduced  by 90-95%. Parasitologic cure is usually achieved in 70-95% of treated
+
+============================================================
+CHUNK 59
+============================================================
+CHEMOTHERAPEUTIC AGENTS
+patients, but these percentages may be considerably lower in populations with high initial egg counts and exposed to intense transmission  and  re-infection  [61].  For  individual  case-management,  or when there  is  no risk  of  re-infection,  60-120 mg/kg  in  split  doses may be given. Repeat treatment 6-12 weeks later can be used to cure prepatent infections, particularly if eosinophilia, high antibody titers or symptoms persist. Definitive parasitologic cure in people leaving endemic areas  is  proven  by  the  disappearance  of  viable  eggs  from the excreta for at least six months after treatment. In some cases, egg release is interrupted but starts again a few weeks later. Adult worms may  be  incapacitated  temporarily  by  chemotherapy  and  resume mating and activity later. A few remaining schistosomes may cause little or no harm, but if complete eradication of all worms is envisaged, a conclusive laboratory evaluation may have to consist of thorough  examination  of  excreta  on  three  consecutive  days,  serologic reconversion, clearing of eosinophilia and, possibly, examination of a rectal or vesical biopsy. For population-based treatment in endemic areas, aiming more at morbidity rather than infection control, pursuing  complete  cure  in  all  those  treated  is  impractical  and  not pertinent.
+The cure rate (percentage of infected people converting to negative stools  or  urine)  can  vary  according  to  the  sensitivity  of  method used, the timing of the follow-up, and the intensity of transmission. The optimal time of follow-up is 4-6 weeks after treatment. However, in  areas  and  periods  of  intense  transmission,  residual  surviving  of worms in those with high worm burdens, maturation of prepatent infections  and  rapid  re-infection  may  result  in  seemingly  low cure rates [61]. A better measure of success is the reduction of mean egg counts as an indicator of the risk for severe morbidity, and the impact  on  the  long-term  resolution  of  pathology  as  measured  by ultrasound,  hematuria  reagent  strips  testing  for  blood,  or  clinical evaluation [62, 63].
+
+============================================================
+CHUNK 60
+============================================================
+CHEMOTHERAPEUTIC AGENTS
+Most  schistosome-induced  pathology  resolves  after  praziquantel treatment. Clinical, radiologic and sonographic studies have demonstrated  regression  over  weeks-to-months  of  intestinal  and  vesical lesions,  reactive  hepatomegaly,  and  even  severe  upper  urinary  tract lesions and liver fibrosis. Thus, the prognosis is usually good, except in advanced cases with parenchymal hydronephrosis or renal failure in  urinary  schistosomiasis,  or  severe  liver  fibrosis  with  established portal hypertension with recurrent bleeding from esophageal varices and ascites in hepatosplenic schistosomiasis.
+Resistance against praziquantel was feared in some high transmission foci, but the low local cure rates were shown to be caused by intense continuing  transmission  [61].  Tolerant S.  mansoni strains were reported  in  Egypt,  but  have  not  been  independently  confirmed.  If existent, they have not spread further in spite of intense drug pressure. To date, true drug resistance to praziquantel in human populations has not been convincingly documented.
+Recently,  derivatives  of  artemisinin,  a  drug  for  the  treatment  of malaria, were shown to be effective against the immature stages of S.  japonicum , S.  mansoni and,  possibly, S.  haematobium [64].  They could,  in  principle,  be  used  to  treat  acute  schistosomiasis  or  as  a prophylactic agent. In a clinical trial in China, repeated administration  throughout  the  transmission  season  greatly  reduced  parasite burden of S. japonicum and prevented early manifestations of infection. Trials in Africa, as a stand-alone drug or in combination with praziquantel, showed prophylactic but no curative potential. However, their  preventive  application  is  not  recommended,  as  artemisinin should be preserved for treatment of drug-resistant malaria.
+
+============================================================
+CHUNK 61
+============================================================
+TREATMENT OF ACUTE SCHISTOSOMIASIS AND COMPLICATIONS
+Topical steroid creams and oral antihistamines can provide symptomatic  relief  for  cercarial  dermatitis.  Katayama  fever  is  primarily treated with corticosteroids, for example prednisone 40 mg daily for 5-14 days, to suppress the hypersensitivity reaction. This treatment should  be  followed  by  praziquantel  to  eliminate  the  adult  worms [31, 32, 54].
+Neuroschistosomiasis  requires  specialized  care,  again  with  corticosteroids and, if necessary, anticonvulsants prior to praziquantel treatment  [43,  54].  Caution  is  required  in  the  rare  case  of  concurrent neurocysticercosis,  on  which  praziquantel  is  also  active  but  may provoke epileptic  seizures  owing  to  the  destruction  of  the  cerebral cysts.
+Bleeding  from  esophageal  varices  may  be  treated  symptomatically with β -blockers, endoscopic sclerotherapy, splenectomy, or splenorenal or  portocaval  shunts. In advanced  urinary  schistosomiasis, destructed and non-functional kidneys may have to be removed [54].
+
+============================================================
+CHUNK 62
+============================================================
+CONTROL AND PREVENTION
+Until  late  in  the  20th  century,  schistosomiasis  was  a  high-priority public health problem among the populations in Egypt, the Maghreb, Brazil, China and the Philippines [1-3, 1 1, 26]. Large-scale national control programs, based on the chemical or physical destruction of the snail intermediate hosts, case-finding and general improvement in  hygiene,  involved  large  teams  of  malacologists,  epidemiologists, clinicians and laboratory technicians in specialized programs. Apart from  a  few  research  or  pilot  projects,  most  of  the  lower-income endemic countries, especially in sub-Saharan Africa, remained devoid of such efforts and often lacked the means to diagnose and treat clinical cases.
+
+============================================================
+CHUNK 63
+============================================================
+SNAIL CONTROL
+Attempts to exterminate the snail populations with chemicals (molluscicides) are expensive, logistically demanding and often inconclusive.  An  efficient  application  requires  considerable  human  and material resources, as well as  detailed epidemiologic and malacologic surveillance.  Snail  populations  can  be  reduced  but  rarely  exterminated, requiring molluscicide treatment to be repeated regularly and for  a  long  period.  The  toxicity  of  molluscicides  to  fish  and  other aquatic organisms causes ecologic concerns. Focal application in specific  'hot  spots'  where  schistososome-infected  snails  reside  and human infections  are  occurring  may  be  useful  in  preventing  local infections. In  general, however, chemical  snail control has been all but abandoned as a standard control strategy. Snail control can also be pursued in some cases by thorough and regular weeding, hydraulic engineering and alternative irrigation practices, but such measures are tedious and expensive. The introduction of competitor snails, natural predators such as ducks or fish, or plant molluscicides, is not effective in practice.
+
+============================================================
+CHUNK 64
+============================================================
+MASS DRUG ADMINISTRATION (MDA) PROGRAMS
+The introduction of praziquantel heralded a shift in control strategies to interventions aimed at the definitive human host, rather than at the intermediate snail host. This strategy of 'morbidity control' has a  more  immediate  impact  on  infection  and  disease  and  requires much less expertise. It was officially adopted by the WHO in 2002 and has become the standard approach in most endemic countries [1-3, 6, 8, 10, 58]. Its main objective is to reduce community-wide infection rates and intensities of infection in order to prevent schistosomal morbidity (by reducing ova retained in the host's body) and, over time, transmission of infection (by reducing ova passed from the host into the environment). Various chemotherapy strategies can be applied, including indiscriminate mass treatment, treatment of particular  risk groups, especially school-aged children, and active casefinding followed by treatment (Fig. 122.13). Thirty years of experience have shown that population-based treatment is feasible and safe, and effectively  reduces  prevalence  and  intensity  of  infection,  as  well  as morbidity. Its impact on transmission is more difficult to measure, and a limited number of residual eggs passing into the environment can maintain considerable transmission potential. However, in most areas where MDA has been applied over a number of years, transmission appears to have waned. Still, regular surveillance and/or regular re-treatment must be envisaged.
+FIGURE 122.13 Schistosomiasis control in the Beld (A) Mass treatment with praziquantel in  the community. (B) Safe  water  suppy, (C) Snail  control  with  molluscicides. (Reproduced with permission from Bruno Gryseels; Infectious Disease  Clinics  of  North  America;  vol  26;  Issue  2;  383-397; Elsevier Inc ©2012).
+
+============================================================
+CHUNK 65
+============================================================
+CONTROL IN SUB-SAHARAN AFRICA
+Schistosomiasis can be eliminated by behavioral changes, safe water supply  and  sanitary  engineering.  This  happened  in  Japan  in  the 1950s, far before modern drugs were developed [65]. In low-income countries,  the  prevention  of schistosomiasis necessitates more than providing safe drinking water. Sites free of exposure to infective cercariae for washing, bathing, laundering, swimming and crop irrigation  are  also  required.  Moreover,  these  must  be  adapted  to  local attitudes  and  circumstances,  and  long-term  maintenance  is  a  frequently  problematic  necessity.  Specific  educational  programs  can enhance  the  knowledge  and  perception  of  schistosomiasis,  but  is often  insufficient  in  reducing  exposure  in  the  absence  of  adequate alternatives for water contact.
+In several countries with sufficient resources and the political will to implement and sustain population-based therapy, the public health impact of  schistosomiasis has  decreased  dramatically  over  the past decades. These middle-income nations are usually characterized by general  socioeconomic  progress  and  substantial  improvements  in water supply, sanitation and healthcare. While residual transmission pockets may remain difficult to extinguish, general prevalence and intensities of infection are kept low by regular MDA. It is estimated that  the  number  of  remaining infections  in  Brazil  and  China,  and possibly even Egypt, has been reduced to less than one million. Even more strikingly, severe morbidity in these countries has all but disappeared; cases of advanced hepatosplenic disease with hematemesis, advanced hydronephrosis or schistosomiasis-associated bladder cancer, once common, have become anecdotal. In Morocco, Tunisia, Iraq and Puerto Rico the infection has been eliminated.
+
+============================================================
+CHUNK 66
+============================================================
+CONTROL IN SUB-SAHARAN AFRICA
+Early  pilot  projects  with  population-based  chemotherapy  in  subSaharan Africa showed promising results in the short-term, but the re-treatment schedules and vertical structures employed were not sustainable once foreign assistance was withdrawn [2, 8, 20]. Quick wins were as quickly lost to rapid re-infection, while regular health services were  left  deprived  and  demotivated  for  further  action.  National resources and capacities are limited, while decision makers are faced with many priorities. Some programs that were built up more gradually,  by  improving  passive  or  active  case  finding  through  regular healthcare structures, have had less impressive short-term results but appeared to be more sustainable. However, as the disease continues to spread to new development areas and city slums, efforts to control schistosomiasis remain a public health priority in large parts of the continent.
+
+============================================================
+CHUNK 67
+============================================================
+GLOBAL TARGET TO CONTROL SCHISTOSOMIASIS
+Renewed  efforts  have  been  launched  to  control  schistosomiasis  in resource-poor countries following a call by the WHO to international agencies,  charities  and  pharmaceutical  companies  to  provide  praziquantel and other anthelminthic drugs at low, or no, cost [9, 10, 15].  The  joint  'Global  Target'  is  to  annually  treat  at  least  75%  of all  school-aged  children  at  risk  of  infection  using  a  standardized strategy based on local epidemiologic characteristics of schistosomal infections. Active MDA programs are being launched in an increasing number of  sub-Saharan  African  countries  [47].  An  important  new asset  is  the  integration  of  schistosomiasis  control  with  MDA  for
+
+TABLE 122-1 Other Schistosome Species Causing Human Intestinal Disease
+
+============================================================
+CHUNK 68
+============================================================
+GLOBAL TARGET TO CONTROL SCHISTOSOMIASIS
+Distribution, Schistosoma intercalatum = African disease only. Endemic in parts of Cameroon, Gabon, Democratic Republic of Congo and other areas of Central and West Africa; although occasionally co-existent with S. mansoni and S. haematobium , usually found as the sole species in known transmission foci. Distribution, Schistosoma mekongi = Lower Mekong River basin in Laos and Cambodia. Distribution, Schistosoma mattheei = South Africa. Natural infection of sheep, cattle, horses and antelope that occasionally infects humans. Always found in association with S. mansoni or S. haematobium. Clinical manifestations, Schistosoma intercalatum = Anorexia, nausea, abdominal pain, diarrhea with blood and mucus; rectal and genital lesions; hepatomegaly and rectal bleeding pain in left iliac fossa with tenesmus. Clinical manifestations, Schistosoma mekongi = Similar to S. japonicum ; acute schistosomiasis in non-immune travelers; generalized weakness, diarrhea and abdominal distress; hepatomegaly and splenomegaly. CNS and cardiopulmonary complications not described. Clinical manifestations, Schistosoma mattheei = Relatively mild intestinal disease, mucoid diarrhea; diDuse intermittent abdominal pain and cramping, malaise, hepatomegaly. Diagnosis, Schistosoma intercalatum = Eggs are similar to S. haematobium in shape and in possessing a terminal spine but are usually longer (140-240 μ m), often have a central bulge and are shed in stool, not urine; terminal spine is characteristically bent; eggs are Ziehl-Neelsen (acid-fast) positive. Diagnosis, Schistosoma mekongi = Eggs in stool and rectal biopsy. The eggs are similar to S. japonicum but are generally smaller (50-80 μ m by 40-65 μ m); they also contain a small, inconspicuous spine. Elevated alkaline phosphatase. Diagnosis, Schistosoma mattheei = Eggs resemble S. intercalatum and measure 120-180 μ min length and have a terminal spine; eggs present in stool or occasionally urine. Treatment, Schistosoma intercalatum =
+
+============================================================
+CHUNK 69
+============================================================
+GLOBAL TARGET TO CONTROL SCHISTOSOMIASIS
+Praziquantel at 40 mg/kg body weight in single dose. Treatment, Schistosoma mekongi = Praziquantel at 60 mg/kg single dose or 2 × 30 mg/kg in divided doses. Treatment, Schistosoma mattheei = Praziquantel at 40 mg/kg single dose. CNS, central nervous system., Schistosoma intercalatum = CNS, central nervous system.. CNS, central nervous system., Schistosoma mekongi = CNS, central nervous system.. CNS, central nervous system., Schistosoma mattheei = CNS, central nervous system.
+other  neglected  parasitic  diseases,  for  example  lymphatic  filariasis, onchocerciasis and intestinal helminths, as well as provision of vitamins  and  nutritional  supplements  [66].  To  increase  sustainability, these campaigns are carried out wherever possible through community  health  workers  or  regular  health  services  rather  than  vertical mobile teams. However, many health systems may still be too weak and overburdened to sustain these programs, or to execute them with the  necessary  epidemiologic  vigor  [67].  The  over-reliance  on  drugs may also reduce efforts for the implementation of the other, more structural, elements of the WHO resolution, for example accessible care  for  clinical  cases,  safe  water  supply,  improved  sanitation  and behavioral changes [68]. The massive, and sometimes uncontrolled, use of praziquantel brings along a risk for the development of drug resistance,  while  there  are  no  alternative  antischistosomal  drugs  in the pipeline [69]. Thus, while further progress towards the elimination of schistosomiasis as a public health problem can be expected, the global efforts need to be  accompanied with national and local expertise and vigilance.
+
+============================================================
+CHUNK 70
+============================================================
+GLOBAL TARGET TO CONTROL SCHISTOSOMIASIS
+Although a vaccine to prevent schistosomiasis is unlikely to be available during the next decades, one that would reduce infection rates may improve a multifaceted approach to control schistosomal morbidity and transmission. A combination of chemotherapy, reduction of water contact and contamination, and possibly snail control and vaccination, could lead to the elimination of schistosomiasis in much of the world. However, the ultimate challenge in the eradication of schistosomiasis is to improve living standards and alleviate poverty, which is the underlying cause of this and many other health problems in the tropics.
+
+============================================================
+CHUNK 71
+============================================================
+OTHER HUMAN SCHISTOSOME INFECTIONS
+Characteristics  of  three  other Schistosoma species  causing  human disease are outlined in Table 122-1.
+
+============================================================
+CHUNK 72
+============================================================
+REFERENCES
+1. Jordan P, Webbe G, Sturrock FS. Human Schistosomiasis. Wallingford: CAB International; 1993.
+2. Ross AG, Bartley PB, Sleigh AC, et al. Schistosomiasis. N Engl J Med 2002; 346:1212-20.
+3. Gryseels B, Polman K, Clerinx J, Kestens L. Human schistosomiasis. Lancet 2006;368:1106-18.
+4. Doumenge JP, Mott KE. Global distribution of schistosomiasis: CEGET/WHO Atlas. World Health Stat Q 1984;37:186-99.
+5. Brown DS. Freshwater snails of Africa and their medical importance, 2nd edn. London: Taylor and Francis; 1994.
+6. Ross AGP, Sleigh AC, Li Y, et al. Schistosomiasis in the People's Republic of China:  Prospects  and  challenges  for  the  21st  century.  Clin  Microbiol  Rev 2001;14:270-95.
+7. Chitsulo  L,  Engels  D,  Montresor  A,  Savioli  L.  The  global  status  of  schistosomiasis and its control. Acta Trop 2000;77:41-51.
+8. World  Health  Organization  Expert  Committee.  Prevention  and  Control  of Schistosomiasis and Soil-Transmitted Helminthiasis. Technical report series. Geneva: World Health Organization; 2002.
+9. World  Health Organization. Schistosomiasis. Available at: http://www. who.int/mediacentre/factsheets/fs115/en/index.html (accessed 14 November 2011).
+10.  World Health Organization. Preventive chemotherapy in human helminthiasis. Geneva: World Health Organization; 2006.
+11.  Jordan P. From Katayama to the Dakhla Oasis: the beginning of epidemiology and control of bilharzia. Acta Tropica 2000;77: 9-40.
+12.  Warren KS. The pathology, pathobiology and pathogenesis of schistosomiasis. Nature 1978;273:609-12.
+
+============================================================
+CHUNK 73
+============================================================
+REFERENCES
+13.  Frank C, Mohamed MK, Strickland GT, et al. The role of parenteral antischistosomal therapy in the spread of hepatitis C virus in Egypt. Lancet 2000;355: 887-91.
+14.  Reich R, Govindaraj R. Dilemmas in drug development for tropical diseases. Experiences with praziquantel. Health Policy 1998;44:1-18.
+15.  World Health Organization. Fifty-fourth World Health Assembly. Resolution WHA54.19. Schistosomiasis and soil-transmitted helminths. Geneva: World Health Organization; 2001.
+
+============================================================
+CHUNK 74
+============================================================
+REFERENCES
+16.  Huyse T, Webster BL, Geldof S, et al. Bidirectional introgressive hybridization between  a  cattle  and  human  schistosome  species.  PloS  Pathogens  2009;5: e1000571.
+17.  Horak  P,  Kolarova  L.  Molluscan  and  vertebrate  immune  responses  to  bird schistosomes. Parasite Immunol 2005;27:247-55.
+18.  Harris  ARC,  Russell  RJ,  Charters  AD.  A  review  of  schistosomiasis  in  immigrants in Western Australia, demonstrating the unusual longevity of Schistosoma mansoni . Trans Roy Soc Trop Med Hyg 1984;78;385-8.
+19.  Fulford AJC, Butterworth AE, Ouma JH, Sturrock RF. A statistical approach to schistosome population dynamics and estimation of the life-span of Schistosoma mansoni in man. Parasitology 1995;110:307-16.
+20.  Gryseels B. Uncertainties in the epidemiology and control of schistosomiasis. Am J Trop Med Hyg 1996;55(suppl. 5):103-8.
+21.  Gryseels B. Human resistance to schistosoma infections: Age or experience? Parasitol Today 1994;10:380-84.
+22.  Capron A, Riveau G, Capron M, Trottein F. Schistosomes: the road from hostparasite  interactions  to  vaccines  in  clinical  trials.  Trends  Parasitol  2005;21: 143-9.
+23.  Siddiqui AA, Siddiqui BA, Ganley-Leal L. Schistosomiasis vaccines. Hum Vaccin 2011;7:11.
+24.  Wilson MS, Mentink-Kane MM, Pesce JT, et al. Immunopathology of schistosomiasis. Immun Cell Biol 2007;85:148-54.
+25.  Secor  WE.  Interactions  between  schistosomiasis  and  infection  with  HIV-1. Parasite Immun 2006;28:597-603.
+26.  Strickland GT. Liver disease in Egypt: hepatitis C superseded schistosomiasis as a result of iatrogenic and  biological factors.  Hepatology  2006;43: 915-22.
+
+============================================================
+CHUNK 75
+============================================================
+REFERENCES
+27.  Gryseels  B,  De  Vlas  SJ.  Worm  burdens  in  schistosome  infections.  Parasitol Today 1996;12:115-9.
+28.  Steinmann P, Keiser J, Bos R, et al. Schistosomiasis and water resources development:  systematic  review,  meta-analysis,  and  estimates  of  people  at  risk. Lancet Infect Dis 2006;6:41 1-25
+29.  De Vlas SJ, Gryseels B. Underestimation of Schistosoma mansoni prevalences. Parasitol Today 1992;8:274-7.
+30.  Stothard JR, Sousa-Figuereido JC, Betson M, et al. Schistosoma mansoni infections in young children: when are schistosome antigens in urine, eggs in stool and antibodies to eggs first detectable? PLoS Negl Trop Dis 201 1;5:e938.
+31.  Clerinx J, Van Gompel A. Schistosomiasis in travellers and migrants. Travel Med Infect Dis 2011;9:6-24.
+32.  Ross  AG,  Vickers  D, Olds GR, et al. Katayama  syndrome. Lancet  Infect  Dis 2007;7:218-24.
+33.  Jelinek T, Nothdurft HD, Loscher T. Schistosomiasis in travelers and expatriates. J Travel Med 1996;13:160-4.
+34.  Cheever AW, Hoffmann KF, Wynn TA. Immunopathology of schistosomiasis mansoni in mice and men. Immunol Today 2000;21:465-6.
+35.  Abath FGC, Morais CNL, Montenegro CEL, et al. Immunopathogenic mechanisms in schistosomiasis: what can be learnt from human studies? Trends in Parasitology 2006;22:85-91.
+36.  Chen MG, Mott KE. Progress in assessment of morbidity due to Schistosoma haematobium infection:  a  review  of  recent  literature.  Trop  Dis  Bull  1989; 86:R1-36.
+37.  Vennervald  BJ,  Polman  K.  Helminths  and  malignancy.  Parasite  Immunol 2009;31:686-96.
+
+============================================================
+CHUNK 76
+============================================================
+REFERENCES
+38.  Cheever AW. A quantitative post-mortem study of schistosomiasis mansoni in man. Am J Trop Med Hyg 1968;17:38-64.
+39.  Gryseels B. The relevance of schistosomiasis for public health. Trop Med Parasitol 1989;40:134-42.
+40.  Schwartz E. Pulmonary schistosomiasis. Clin Chest Med 2002;23:433-43.
+41.  Barsoum R, Harrington JT, Mathew CM, et al. The changing face of schistosomal glomerulopathy. Kidney Int 2004;66:2472-84.
+42.  Feldmeier H, Leutscher P, Poggensee G, Harms G. Male genital schistosomiasis and haemospermia. Trop Med Int Health 1999;4:791-3.
+43.  Carod-Artal  FJ.  Neuroschistosomiasis.  Expert  Rev  Anti  Infect  Ther  2010:8: 1307-18.
+44.  King  CH,  Dickman  K,  Tisch  DJ.  Regauging  the  cost  of  chronic  helminthic infection:  meta-analysis  of  disability-related  outcomes  in  endemic  schistosomiasis. Lancet 2005;365:1561-9.
+45.  Mathers CD, Ezzati M, Lopez AD. Measuring the burden of neglected tropical diseases:  The  global  burden  of  disease  framework.  PLoS  Negl  Trop  Dis 2007;1:e114.
+46.  van der Werf MJ, De Vlas SJ, Brooker S, et al. Quantification of clinical morbidity associated with schistosome infection in sub-Saharan Africa. Acta Trop 2003;86:125-39.
+47.  World  Health  Organization.  Working  to  overcome  the  global  impact  of neglected tropical diseases. Geneva: World Health Organization; 2011.
+48.  Clerinx J, Bottieau E, Wichmann D, et al. Acute schistosomiasis in a cluster of travelers from Rwanda: Diagnostic contribution of schistosome DNA detection  in  serum  compared  to  parasitology  and  serology.  J  Travel  Med  201 1; 18:367-72.
+
+============================================================
+CHUNK 77
+============================================================
+REFERENCES
+49.  Feldmeier H, Poggensee G. Diagnostic techniques in schistosomiasis control. A review. Acta Trop 1993;52:205-20.
+50.  Rabello  A.  Diagnosing  schistosomiasis.  Mem  Inst  Oswaldo  Cruz  1997; 92:669-76.
+51.  Tsang VC, Wilkins PP. Immunodiagnosis of schistosomiasis. Immunol Invest 1997;26:175-88.
+52.  Deelder AM, Qian ZL, Kremsner PG, et al. Quantitative diagnosis of Schistosoma infections by measurement of circulating antigens in serum and urine. Trop Geogr Med 1994;46:233-8.
+53.  van Dam GJ, Wichers JH, Ferreira TMF, et al. Diagnosis of schistosomiasis by reagent strip test for detection of circulating cathodic antigen. J Clin Microb 2004;42:5458-61.
+54.  Olds GR, Dasarathy S. Schistosomiasis. Curr Treat Options Infect Dis 2000; 2:88-99.
+55.  Palmer PES, Reeder CC. International Registry of Tropical Imaging. Radiology Department, Uniformed Services University USA. 2005. Available at: http:// tmcr.usuhs.mil (accessed 14 November 201 1).
+56.  Hatz  CF.  The  use  of  ultrasound  in  schistosomiasis.  Adv  Parasitol  2001; 48:225-84.
+57.  Richter J, Hatz C, Haussinger D. Ultrasound in tropical and parasitic diseases. Lancet 2003;362:900-2.
+58.  Fenwick A, Savioli L, Engels D, et al. Drugs for the control of parasitic diseases: current  status  and  development  in  schistosomiasis.  Trends  Parasitol  2003; 19:509-15.
+59.  Sulaiman SM, Mamadou T, Engels D, et al. Counterfeit praziquantel. Lancet 2001;358:666-7.
+60.  World  Health  Organization.  Report  of  the  WHO  informal  consultation on  the  use  of  praziquantel  during  pregnancy/lactation  and  albendazole/ mebendazole in children under 24 months. Geneva: World Health Organization; 2002.
+
+============================================================
+CHUNK 78
+============================================================
+REFERENCES
+61.  Gryseels B, Mbaye A, De Vlas SJ, et al. Are poor responses to praziquantel for the treatment of Schistosoma mansoni infections in Senegal due to resistance? An overview of the evidence. Trop Med Int Health 2001;6:864-73.
+62.  Richter J. The impact of chemotherapy on morbidity due to schistosomiasis. Acta Trop 2003;86:161-83.
+63.  Magnussen  P.  Treatment  and  re-treatment  strategies  for  schistosomiasis control in different epidemiological settings: a review of 10 years' experiences. Acta Trop 2003;86:243-54.
+64.  Utzinger J, Xiao SH, Tanner M, Keiser J. Artemisinins for schistosomiasis and beyond. Curr Opin Investig Drugs 2007;8:105-116.
+65.  Minai M, Hosaka Y, Ohta N. Historical view of schistosomiasis japonica in Japan: implementation and evaluation of disease-control strategies in Yamanashi Prefecture. Paras Int 2003;52:321-6.
+66.  Molyneux  DH,  Hotez  PJ,  Fenwick  A.  'Rapid-impact  interventions':  how  a policy  of  integrated  control  for  Africa's  neglected  tropical  diseases  could benefit the poor. PLoS Med 2005;2:e336.
+67.  Cavalli  A,  Bamba  SI,  Traore  MN,  et  al.  Interactions  between  global  health initiatives and country health systems: the case of a neglected tropical diseases control program in Mali. PLoS Neglected Trop Dis 2010;4:e798.
+68.  Mahmoud A, Zerhounic E. Neglected Tropical Diseases: moving beyond mass drug treatment to  understanding the science. Health Affairs 2009;28: 1726-33.
+69.  Geerts S, Gryseels B. Drug resistance in human helminths: current situation and lessons from livestock. Clin Microbiol Rev 2000;13:207-22.
+

@@ -1,0 +1,235 @@
+============================================================
+CHUNK 0
+============================================================
+ZOONOTIC ANTHRAX
+Anthrax is chiefly a disease of herbivores. Animals are infected via the gastrointestinal tract by grazing on contaminated pasture and rarely by contact with other infected animals. Before death, animals often contaminate the soil with infected saliva, blood, urine, or feces. Soil, forage and, to a lesser extent, groundwater are major reservoirs of anthrax.
+
+============================================================
+CHUNK 1
+============================================================
+GEOGRAPHIC OCCURRENCE
+Outbreaks are sporadic in developed nations, while disease remains endemic in  parts of  Africa,  India,  Southeast  Asia,  the  Middle  East, Greece, Albania, southern Italy, Romania, the former Soviet Union, and Central and South America (Fig. 60.1). Bacillus anthracis spores germinate in soil at 20-44°C in areas with > 85% humidity. Germinated bacilli are destroyed by other soil microbes. Therefore, in many tropical  regions,  animal  anthrax  occurs  predominantly  in  the  dry season,  with some persistence into the wet season. It is  likely  that persistence  in  soil  results  from  amplification  caused  by  growth  in infected animals and sporulation in animal carcasses with subsequent contamination  of  the  soil.  Vultures  and  non-biting  flies  may  be responsible for dissemination of anthrax.
+
+============================================================
+CHUNK 2
+============================================================
+HUMAN ANTHRAX
+Human anthrax is traced to agricultural, industrial or, rarely, laboratory  acquisition.  Only  two  cases  of  human-to-human transmission have been reported involving contact with a cutaneous case.
+
+============================================================
+CHUNK 3
+============================================================
+INDUSTRIALLY ACQUIRED ANTHRAX
+In economically developed countries, industrial acquisition accounts for ~80% of cutaneous anthrax and almost all inhalational anthrax, and occurs predominantly among tanners or leather, hair, wool, or bone-meal  fertilizer  workers.  Subclinical  infection  and  seroconversion among workers in these industries may be more common than overt  illness.  Infections  in  developed  countries  are  acquired  from contaminated animal hides, hair, or bones imported from developing countries with zoonotic anthrax. Leather goods and drums from Haiti and West Africa have been vehicles of anthrax transmission. Recently, cutaneous  cases  have  been  seen  in  heroin  addicts  in  the  UK  and Germany.
+
+============================================================
+CHUNK 4
+============================================================
+AGRICULTURAL ANTHRAX
+In  developed  countries,  contact  with  infected  animals  by  farmers, butchers, and veterinarians is implicated in ~20% of cutaneous cases. Transmission  by  biting  insects  has  been  suspected  and  bone-meal fertilizer implicated in sporadic cases of inhalational anthrax among gardeners.
+
+============================================================
+CHUNK 5
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Anthrax bacilli are large (1.0-1.5 μ m by 3-8 μ m), non-motile, Grampositive rods. Abundant in smears of blood and tissues, bacilli occur
+
+============================================================
+CHUNK 6
+============================================================
+Key features
+- Anthrax is an acute bacterial zoonosis predominantly of herbivorous animals
+- It is caused by Bacillus anthracis that persists in the environment as dormant spores and may be transmitted to humans by inoculation, inhalation, or ingestion
+- The majority of naturally occurring human cases involve the skin; only very rarely are the respiratory and gastrointestinal tracts a-ected
+- Cutaneous anthrax is characterized by the development of a papule followed by a black eschar, often surrounded by signi.cant edema. It may be complicated by septicemia and death in 5-20% of untreated cases
+- Inhalational anthrax and gastrointestinal anthrax, both characterized by regional lymphadenitis and septicemia, have a mortality rate approaching 100% if untreated and ~50% even with antimicrobial therapy and supportive care
+- Vaccines are available
+
+============================================================
+CHUNK 7
+============================================================
+INTRODUCTION
+Anthrax is an acute bacterial zoonosis, predominantly of herbivores, caused  b y  Bacillus  anthracis .  Animal  anthrax  is  rare  in  developed nations as a result of intensive surveillance and control. However, the disease remains endemic in animals and not uncommon in humans in many developing countries. Humans become infected after contact with infected animals or contaminated animal products by inoculation, ingestion, or inhalation. A major concern is the use of anthrax to intentionally cause disease, as occurred in 2001 with the mailing of letters containing anthrax spores.
+
+============================================================
+CHUNK 8
+============================================================
+INCIDENCE OF HUMAN ANTHRAX
+Human infection with B. anthracis is infrequent in developed countries.  Approximately  20,000-100,000  cases  of  human  anthrax  are estimated to occur annually worldwide, although accurate figures are impossible to obtain. However, anthrax is ubiquitous in agricultural nations  dependent  on  animal  husbandry.  Epidemics  of  human anthrax  are  rare.  Large  outbreaks  of  cutaneous  anthrax  occurred during wars in Zimbabwe in 1978-1980 and in Chad in 1988. The largest epidemic of inhalational anthrax occurred in 1979 in Sverdlovsk (Ekaterinburg), Russia resulting from the accidental release of spores  from  a  military  facility.  In  2001,  22  cases  of  bioterrorismrelated anthrax (1 1 inhalational) occurred after envelopes containing spores were mailed through the United States Postal Service.
+FIGURE  60.1 Geographic  distribution  of  anthrax (reproduced with permission from World Health Organization, http://www.vetmed.lsu.edu/whocc/ mp_world.htm ).
+singly  or  in  short  chains. Bacillus  anthracis also  develops  spores  in culture or soil, but not in vivo unless exposed to ambient air. Spores are  resistant  to  heat  and  many disinfectants.  They  are destroyed by boiling for 10 min, dry heat (140°C) for 3 h or autoclaving (121°C) for 15 min, but remain viable for years in dry soil. Cattle have become infected by grazing in fields where animals died of anthrax decades before [1].
+
+============================================================
+CHUNK 9
+============================================================
+BACILLUS ANTHRACIS VIRULENCE FACTORS
+indicate that inhaled spores are ingested by alveolar phagocytes and carried to tracheobronchial and mediastinal lymph nodes. There, the spores  germinate  into  bacilli  with  the  production  of  capsule  and toxins. Hemorrhagic edema and necrosis of mediastinal lymph nodes ensue. Alveoli show a hemorrhagic exudate and only rarely bacilli; neutrophils  are  usually  absent.  Alveolar  capillaries  contain  fibrin thrombi and bacilli  [3].  Hemorrhagic  pleural  effusions  commonly occur.  Hematogenous  dissemination  to  the  meninges,  spleen,  and intestine can occur.
+Bacillus anthracis possesses three major virulence factors: a polyγ -Dglutamic  acid  capsule  and  two  protein  exotoxins.  The  capsule  is antiphagocytic, enabling the bacillus to  resist killing by leukocytes. The anthrax toxins are composed of a eukaryotic cell receptor-binding protein and a second protein possessing cytotoxic activity.  The cell receptor-binding  protein  protective  antigen  combines  with  edema factor, a calmodulin-dependent adenylate cyclase, to produce edema toxin or with lethal factor, a zinc metalloprotease, to produce a lethal toxin. Protective antigen is necessary for binding and translocation of the cytotoxic proteins. Edema toxin raises intracelluar levels of cyclic adenosine  monophosphate  (cAMP),  interfering  with  cell  function, while  lethal factor inactivates  mitogen-activated  protein  (MAP) kinases, interfering with signal transduction [2]. The toxins interfere with innate immunity, having been shown in vitro to impair the function of neutrophils, macrophages, lymphocytes, and dendritic cells. Additional effects of the toxins occur in vivo because of the fact that the toxin receptors are expressed on a wide variety of cells.
+
+============================================================
+CHUNK 10
+============================================================
+CUTANEOUS ANTHRAX
+Cutaneous anthrax follows  inoculation  of  spores  into  skin.  Spores then germinate and the bacilli multiply and elaborate their virulence factors. Hematogenous dissemination follows in 5-20% of untreated cases. Cutaneous lesions may demonstrate satellite bullous lesions in which Gram-positive bacilli can be observed; pus is not present.
+
+============================================================
+CHUNK 11
+============================================================
+INHALATIONAL ANTHRAX
+Inhalational anthrax follows the inhalation of spores of 1-5 μ m in diameter. Larger particles are cleared by the mucociliary mechanism of the lungs. Spore aerosols may be encountered by workers handling contaminated  batches  of  hair,  wool,  or  bone-meal  fertilizer.  The aerosol infective dose for human infection is high - in wool mills, non-immune workers inhaled as many as 510 spores of 5 μ m or less in  diameter  per  8-hour  shift  without  becoming  ill.  Animal  studies
+
+============================================================
+CHUNK 12
+============================================================
+GASTROINTESTINAL ANTHRAX
+Oropharyngeal  and  intestinal  anthrax  follow  ingestion  of  poorly cooked, contaminated meat [4]. An ulcer in the stomach, terminal ileum,  or  cecum  may  be  present,  and  hemorrhage  and  edema  of regional lymphatics occurs.
+
+============================================================
+CHUNK 13
+============================================================
+SEPTICEMIC ANTHRAX
+Generalized sepsis may follow cutaneous anthrax and, almost invariably, accompanies inhalational and gastrointestinal anthrax. Vascular injury may result from the proliferation of bacteria in the blood and effects of the exotoxins acting directly on the endothelium or indirectly through other mediators. Widespread capillary thrombosis, circulatory failure, and  shock occur prior to death. Adrenocortical hemorrhage can occur. In addition, anthrax bacteremia may lead to hemorrhagic meningitis. The leptomeninges reveal scant inflammation but widespread  hemorrhages.  The  brain  has  hemorrhages  and  generalized cerebral edema. Subarachnoid hemorrhage may also occur.
+
+============================================================
+CHUNK 14
+============================================================
+CUTANEOUS ANTHRAX
+Cutaneous anthrax accounts for > 95% of human infections and commonly  involves  areas  of  the  face,  neck,  hands,  and  arms  [5].  The incubation period is 12 hours to 7 (mean 3) days. The initial lesion is a small, erythematous macule or papule. It turns brown and develops a ring of erythema and a vesicle. Vesicular satellite lesions may appear  (Fig.  60.2)  and,  after  a  few  days,  the  clear,  vesicular  fluid becomes blue-black from hemorrhage. The papule ulcerates, developing a black eschar by the fifth to seventh day. Non-pitting, gelatinous edema may be prominent, occasionally extending to the iliac crest from lesions of the head and neck. This so-called 'malignant edema', together with a black eschar, is pathognomonic for anthrax. Patients
+B
+Dis 2001;7:933-44.)
+FIGURE  60.3 Chest  x-ray  of  a  case  of  inhalational  anthrax  showing mediastinal  widening  and  a  small  left  pleural  e@usion (reproduced  with permission from Jernigan JA, Stephens DS, Ashford DA, et al. Bioterrorism-related inhalational anthrax: the 3rst 10 cases reported in the United States. Emerg Infect Dis 2001;7:933-44.)
+In very rare cases, patients present with isolated meningitis without other evidence of disease.
+
+============================================================
+CHUNK 15
+============================================================
+DIFFERENTIAL DIAGNOSIS
+The epidemiologic background of an industrial or agricultural exposure, the evolution of a pruritic then painless lesion without cellulitis or lymphangitis, and the dramatic appearance of the black eschar and extensive non-pitting edema help to distinguish anthrax from other skin  infections.  The  initial,  nonspecific  symptoms  of  inhalational anthrax  may  resemble  influenza,  bronchitis,  or  the  common  cold; however,  there  are  no  upper  respiratory  symptoms  in  inhalational anthrax [7]. The later stage may mimic congestive cardiac failure but should be suggested by mediastinal widening on chest radiographs in the setting of occupational exposure. Anthrax meningitis may be confused with other forms of bacterial meningitis or subarachnoid hemorrhage. Intestinal anthrax with fever and severe abdominal pain will only be recognized pre-surgery or premortem if the appropriate epidemiologic history is obtained.
+
+============================================================
+CHUNK 16
+============================================================
+DIRECT SMEAR AND CULTURE DIAGNOSIS
+In cutaneous anthrax, encapsulated bacilli can be identified on Gramor  Giemsa-stained smears and readily cultured. Bacilli may also be abundant in cerebrospinal or pleural fluid in  cases  of  inhalational anthrax. Direct fluorescent antibody stains for cell wall and capsule are  available  for  definitive,  early  identification  of B.  anthracis from vesicular fluid, tissue or culture. On sheep blood agar, 3- to 5-mm, gray-white, opaque, rough, non-hemolytic colonies become evident within 24 h. In the presence of carbon dioxide,  the organism produces a capsule and the colony is round and mucoid. Identification is confirmed immunologically by the presence of the capsule, susceptibility  to  specific  bacteriophage  and  testing  by  PCR  for  toxin  and capsule genes.
+
+============================================================
+CHUNK 17
+============================================================
+SEROLOGIC DIAGNOSIS
+Antibody to protective antigen or capsule, measured by ELISA, deve  lops in 67-94% of cases of cutaneous or oropharyngeal anthrax and in 100% of inhalational anthrax cases, but is only useful retrospectively. Rapid diagnostic tests for the detection of protective antigen, lethal factor, and capsule in body fluids have been developed and shown to be of value in nonhuman primate models and one human case.
+FIGURE 60.2 Cutaneous anthrax in a 45-year-old cattleman. (A) Early facial lesion with prominent edema and vesicular satellite lesions that revealed abundant anthrax bacilli on Gram-stain and culture. (B) Evolution of the cutaneous  eschar  despite  antimicrobial  therapy (courtesy  of  Dr  Alejandro Morales).
+have few symptoms, for example malaise, headache, and low-grade fever.
+
+============================================================
+CHUNK 18
+============================================================
+INHALATIONAL ANTHRAX
+Inhalational anthrax accounts for < 5% of reported cases. Nonspecific symptoms of mild fever, malaise, fatigue, and myalgia develop 1-5 days after exposure; nonproductive cough is often reported. In cases occurring in the 2001 epidemic, nausea or vomiting was common [6] and some had extreme fatigue and severe headache. Patients may have transient  improvement  after  several  days  or  may  directly  develop severe respiratory distress with cyanosis, diaphoresis, increased fever, and  tachycardia.  Stridor,  diffuse  rales,  and  basilar  dullness  may  be heard. Chest radiographs reveal symmetric, characteristic mediastinal widening, pleural effusions and, in some cases, patchy infiltrates (Fig. 60.3).  Massive,  superficial edema of the head and neck may occur. Meningitis, often hemorrhagic, occurs in ~50% of cases. Pleural effusions may also be hemorrhagic. Bacillus  anthracis is  usually isolated in cultures of blood, pleural fluid, and cerebrospinal fluid.
+
+============================================================
+CHUNK 19
+============================================================
+GASTROINTESTINAL ANTHRAX
+Oropharyngeal and gastrointestinal anthrax account for < 5% of cases. Oropharyngeal anthrax presents with sore throat, an ulcer in the oral cavity, dysphagia, cervical and submandibular lymphadenopathy, and often dramatic neck edema. Gastrointestinal anthrax develops after an incubation period of 2-5 days. Patients have generalized abdominal pain, anorexia, nausea, vomiting and, in some cases, hematemesis.  Severe  prostration  accompanies  the  development  of  ascites, bloody  diarrhea,  toxemia,  and  shock.  Subcutaneous  edema  may extensively involve the lower trunk.
+
+============================================================
+CHUNK 20
+============================================================
+CENTRAL NERVOUS SYSTEM (CNS) ANTHRAX
+Anthrax meningitis follows bacteremia from a cutaneous, pulmonary or intestinal source. Patients usually present with fever, meningismus, and  rapidly  deteriorating  mental  status.  Lumbar  puncture  reveals spinal fluid containing Gram-positive rods and is often hemorrhagic. Bacteremia occurs in 70% of patients; the usual survival is 2-4 days.
+
+============================================================
+CHUNK 21
+============================================================
+CENTRAL NERVOUS SYSTEM (CNS) ANTHRAX
+CiproAoxacin, 500 mg PO twice daily or Doxycycline, 100 mg PO twice daily or LevoAoxacin, 500 mg PO once daily, TABLE 60-1 Treatment of Anthrax in Adults and Children.Inhalational, gastrointestinal or severe cutaneous anthrax in adults * = CiproAoxacin, 400 mg IV every 12 h or LevoAoxacin, 500 mg IV every 24 h. , TABLE 60-1 Treatment of Anthrax in Adults and Children.Inhalational, gastrointestinal or severe cutaneous anthrax in adults * = plus. , TABLE 60-1 Treatment of Anthrax in Adults and Children.Inhalational, gastrointestinal or severe cutaneous anthrax in adults * = one or two additional antibiotics with good CNS penetration and in vitro activity against B. anthracis such as rifampin, 300 mg IV every 12 h; meropenem, 2 g IV every 8 hours; ampicillin, 2 g IV every 6 h; penicillin G, 4 million units IV every 4 h; vancomycin, 15-20 mg/kg IV every 8 to 12 h plus clindamycin, 900 mg IV every 8 h. Cutaneous anthrax in children*, TABLE 60-1 Treatment of Anthrax in Adults and Children.Inhalational, gastrointestinal or severe cutaneous anthrax in adults * = Inhalational, gastrointestinal or severe cutaneous anthrax in children*. CiproAoxacin, 15 mg/kg PO twice daily (max. 1 g/day) or Doxycycline, > 8 yrs and > 45 kg: 100 mg PO twice daily; > 8 yrs and < 45 kg: 2.2 mg/kg PO twice daily; < 8 yrs: 2.2 mg/kg PO twice daily (max. 200 mg/day) or LevoAoxacin, > 6 months and < 50 kg: 8 mg/kg PO twice daily (max. 500 mg/day); > 50 kg: 500 mg PO once daily, TABLE 60-1 Treatment of Anthrax in Adults and Children.Inhalational, gastrointestinal or severe cutaneous anthrax in adults * = CiproAoxacin, 15 mg/kg IV every 12
+
+============================================================
+CHUNK 22
+============================================================
+CENTRAL NERVOUS SYSTEM (CNS) ANTHRAX
+h (max. 1 g/day) or LevoAoxacin, > 6 months and < 50 kg: 8 mg/kg IV every 12 h (max. 500 mg/day); > 50 kg: 500 mg IV every 24 h. , TABLE 60-1 Treatment of Anthrax in Adults and Children.Inhalational, gastrointestinal or severe cutaneous anthrax in adults * = plus. , TABLE 60-1 Treatment of Anthrax in Adults and Children.Inhalational, gastrointestinal or severe cutaneous anthrax in adults * = one or two additional antibiotics with good CNS penetration and in vitro activity against B. anthracis such as rifampin, 20 mg/kg IV every 24 h (max 600 mg/day); meropenem, 40 mg/kg IV every 8 h (max. 6 g/day); ampicillin, 50-100 mg/kg IV every 6 h (max. 12 g/day); penicillin G, 250,000-400,000 units/kg/day IV in divided doses every 4-6 h (max. dose 24 million units/day); vancomycin, 15 mg/kg IV every 6 h plus clindamycin, 25-40 mg/kg/day IV divided doses every 6-8 h. *For disease associated with a bioterrorism event, total duration of oral and IV treatment combined should be 60 days and levoAoxacin should be considered a second-line antibiotic because of limited long-term safety data., TABLE 60-1 Treatment of Anthrax in Adults and Children.Inhalational, gastrointestinal or severe cutaneous anthrax in adults * = *For disease associated with a bioterrorism event, total duration of oral and IV treatment combined should be 60 days and levoAoxacin should be considered a second-line antibiotic because of limited long-term safety data.
+
+============================================================
+CHUNK 23
+============================================================
+TREATMENT
+Consensus  treatment  recommendations  are  available  (Table  60-1) [8].
+
+============================================================
+CHUNK 24
+============================================================
+CUTANEOUS ANTHRAX
+Untreated cutaneous anthrax can progress to septicemia, shock, renal failure and, in 5-20% of cases, death. Almost all cutaneous cases are cured with effective antimicrobial therapy. Treatment with oral ciprofloxacin, doxycycline, or levofloxacin for 7-10 days is recommended by  the  United  States  Centers  for  Disease  Control  and  Prevention (CDC)  for  uncomplicated  cases  of  naturally  acquired  cutaneous anthrax [8], although a recent study conducted in Turkey suggests that antibiotic  treatment  for  3-5  days  is  as  effective  as  7-10  days.  Oral therapy with penicillin can be used for penicillin-sensitive isolates. If severe systemic symptoms, extensive edema, or lesions on the head or neck are present, intravenous therapy with ciprofloxacin for 7-10 days is preferred. For cutaneous anthrax associated with a bioterrorism attack, but without systemic symptoms, lesions on the head or neck,  or  extensive  edema,  the  guidelines  recommend  oral  ciprofloxacin or doxycycline for 60 days because of the potential exposure to  airborne  spores.  Levofloxacin  is  recommended  as  a  second-line antibiotic as a result of limited long-term safety data. Amoxicillin can be used to complete the 60-day course for penicillin-sensitive isolates. Treatment for severe cutaneous anthrax with bacteremia is the same as for inhalational and gastrointestinal anthrax, which require intravenous antibiotics as described below.
+
+============================================================
+CHUNK 25
+============================================================
+OTHER ANTHRAX SYNDROMES
+Historically, the treatment for inhalational or gastrointestinal anthrax was  high-dose  intravenous  penicillin.  However,  current  CDC  treatment guidelines for inhalational or gastrointestinal anthrax, based on experience  derived  from  the  2001  cases,  recommend  a  multidrug regimen  of  either  intravenous  ciprofloxacin  or  levofloxacin,  combined  with  one  or  two  additional  intravenous  antibiotics  with pene  tration into the CNS and in vitro activity against B. anthracis , such as  rifampin,  vancomycin,  meropenem,  penicillin  G,  or  ampicillin. Clindamycin is also recommended as an additional antibiotic because of its ability to rapidly inhibit protein and, presumably, toxin synthesis.  A  recent CDC update gives preference to ciprofloxacin or other fluoroquinolones with similar activity over doxycycline as the primary antimicrobial  agent,  because  of  the  high  likelihood  of  clinical  or subclinical meningitis in patients with inhalational  anthrax [8]. To complete a 60-day course of therapy, treatment can be switched to oral medicines when the patient is stable. There are no controlledtreatment  studies  for  inhalational  anthrax  -  the  suggested  60-day
+course of antibiotics is based on the possible germination of retained dormant spores late after infection. While the prolonged course of antibiotics is necessary for post-exposure  prophylaxis  (PEP) as described below, recent studies in nonhuman primates demonstrated that  a  1 0-day  course  of  antibiotics  is  sufficient  to  treat  established inhalational anthrax. Although historically viewed as invariably fatal, data from the 2001 inhalational anthrax cases showed that a multidrug  antibiotic  regimen  combined  with  supportive  therapy  reduced mortality to 45% [9].
+
+============================================================
+CHUNK 26
+============================================================
+SUPPORTIVE THERAPY
+The evolution of the anthrax skin lesion is not modified by antimicrobial  treatment.  Pleural  fluid  drainage  was  likely  associated  with decreased mortality in the 2001 anthrax cases.
+
+============================================================
+CHUNK 27
+============================================================
+ISOLATION OF PATIENTS
+Human-to-human  transmission  has  not  been  observed  in  inhalational or gastrointestinal anthrax. Therefore, standard  infection control  precautions  should  suffice.  However,  if  bloody  sputum  is present,  respiratory  isolation  should  be  instituted.  Because  of  the
+TABLE 60-2 Post-exposure Prophylaxis after Bacillus anthracis Exposure in Adults and Children*
+
+============================================================
+CHUNK 28
+============================================================
+Adults
+CiproAoxacin, 500 mg PO twice daily
+
+============================================================
+CHUNK 29
+============================================================
+or
+Doxycycline, 100 mg PO twice daily
+If intolerant to ciproAoxacin or doxycycline, use levoAoxacin, 500 mg PO once daily
+
+============================================================
+CHUNK 30
+============================================================
+Children
+CiproAoxacin: 15 mg/kg PO twice daily (max. 1 g/day)
+
+============================================================
+CHUNK 31
+============================================================
+or
+- Doxycycline, > 8 yrs and > 45 kg: 100 mg PO twice daily; > 8 yrs and < 45 kg: 2.2 mg/kg PO twice daily; < 8 yrs: 2.2 mg/kg PO twice daily (max. 200 mg/day)
+- If intolerant to ciproAoxacin or doxycycline, use levoAoxacin, > 6 months and < 50 kg: 8 mg/kg PO twice daily (max. 500 mg/day); > 50 kg: 500 mg PO once daily
+Once the organism is shown to be susceptible to penicillin, amoxicillin 15 mg/kg PO three times daily (max. 1500 mg/ day) can be used
+*The PEP antimicrobial regimen should continue for 60 days, combined with three doses of anthrax vaccine (BioThrax).
+potential infectious nature of an untreated cutaneous anthrax lesion or gastrointestinal anthrax, contact and secretion precautions should be used.
+
+============================================================
+CHUNK 32
+============================================================
+POST-EXPOSURE PROPHYLAXIS (PEP)
+PEP requires a different therapeutic approach compared with treatment of established disease (Table 60-2). Most spores deposited into the alveolar spaces germinate within a few days. However, germination is not synchronous. Studies have demonstrated viable spores in the lungs of rhesus macaques 100 days after exposure and anthrax has occurred several months after exposure in animals given antibiotics for short periods. As spores can remain dormant for long periods and antibiotics  act  only  after  spores  have  germinated,  PEP  to  prevent disease  from  dormant  spores  that  may  subsequently  germinate requires either a prolonged course of antibiotics or antibiotics plus vaccination. The current CDC recommendation for PEP for exposure to aerosolized B. anthracis spores is 60 days of oral antibiotics combined with anthrax vaccine (BioThrax) 0.5 ml given subcutaneously at 0, 2 and 4 weeks [10]. Antibiotics recommended for PEP include ciprofloxacin  or  doxycycline.  Levofloxacin  is  recommended  as  a second-line antibiotic owing to limited long-term safety data. Penicillin should not be used presumptively for PEP of anthrax. Although not US Food and Drug Administration (FDA)-approved, amoxicillin can be used to complete the 60-day course of therapy once the strain is proven to be penicillin-susceptible. Other antibiotics to be considered for off-label use in patients unable to tolerate first-line antibiotics include other fluoroquinolones, clindamycin, rifampin, and chloramphenicol [8].
+
+============================================================
+CHUNK 33
+============================================================
+REFERENCES
+1. Turnbull  PCB.  Anthrax  in  Humans  and  Animals,  4th  edn.  Geneva:  World Health Organization; 2008.
+2. Montecucco C, Mock M. Anthrax. Mol Aspects Med 2009;30:345-6.
+3. Grinberg LM, Abramova FA, Yampolskaya OV, et al. Quantitative pathology of  inhalational  anthrax  I:  quantitative  microscopic  findings.  Mod  Pathol 2001;14:482-95.
+4. Kunanusont  C,  Limpakarnjanarat  K,  Foy  HM.  Outbreak  of  anthrax  in Thailand. Ann Trop Med Parasitol 1990;84:507-12.
+5. Friedlander AM. Anthrax - Clinical features, pathogenesis, and potential biological  warfare  threat.  In:  Remington  JS,  Swartz  MN,  eds.  Current  Clinical Topics in Infectious Diseases. Malden: Blackwell Science; 2000:335.
+6. Jernigan JA, Stephens DS, Ashford DA, et al. Bioterrorism-related inhalational anthrax:  the  first  10  cases  reported  in  the  United  States.  Emerg  Infect  Dis 2001;7:933-44.
+7. Kuehnert MJ, Dolye TJ, Hill HA. Clinical features that discriminate inhalational anthrax from  other acute respiratory illnesses. Clin Infect Dis 2003;36:328-36.
+8. Stern  EJ,  Uhde  KB, Shadomy SV, et al. Conference report on public health and clinical guidelines for anthrax. Emerg Infect Dis 2008;14:e1.
+9. Holty JE, Bravata DM, Lui H, et al. Systematic review: a century of inhalational anthrax cases from 1900 to 2005. Ann Intern Med 2006;144:270-80.
+10.  Centers for Disease  Control  and  Prevention.  Use  of  anthrax  vaccine  in  the United States. Recommendations on the Advisory Committee on Immunization Practices (ACIP), 2009. MMWR 2010;59(No. RR-6):1-29.
+FEBRILE SYSTEMIC SYNDROMES WITH OR WITHOUT LYMPHADENOPATHY
+

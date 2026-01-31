@@ -1,0 +1,123 @@
+============================================================
+CHUNK 0
+============================================================
+37.7 Rift Valley Fever
+Brian H. Bird, Jean-Marc Reynes, Stuart T. Nichol
+
+============================================================
+CHUNK 1
+============================================================
+KEY FEATURES
+- western Arabian Peninsula.
+- cattle); wild ruminants are also affected but to a lesser extent.
+- aborted fetuses and |uids) are major risk factors for human infection.
+- progress to hepatitis, retinitis, or a hemorrhagic syndrome.
+- virus loads are predicti.ve of fatal outcomes.
+- seizures, coma) can present 7 to 28 days after resolution of acute illness.
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+Rift Valley  fever  virus  (RVFV)  is  a  mosquito-borne  pathogen  of livestock  and  humans  that  has  historically  been  responsible  for widespread outbreaks of severe livestock and human disease throughout Africa  and  the  western Arabian  Peninsula. 1 Rift  V alley  fever outbreaks often occur in arid or semi-arid regions after unusually heavy rainfall  and  |ooding, allowing the abundant emergence of mosquito vectors. Hallmarks of Rift V alley fever epizootics/epidemics include extensive losses of livestock due to abortion 'storms' and neonatal mortality approaching 100% in sheep and cattle that often go unreported and precede large numbers of human cases.
+
+============================================================
+CHUNK 3
+============================================================
+EPIDEMIOLOGY
+RVFV is a notorious cause of illness among herdsmen, veterinarians, and others with direct contact with infected animals, especially during routine slaughtering, veterinary post-mortem, and obstetric procedures. Men and working-aged persons are at greater risk of infection  because  of  higher  occupational  exposure  to  livestock and mosquitoes. Wildlife can be affected by the virus, especially wild ruminants, even during interepizootic periods. 2,3 Although abortion 'storms' are a hallmark of livestock infections, human fetal  death  has  not  been  recognized  as  signi{cant  historically. However in 2016, acute RVFV infection was found to be signi{cantly  associated  with  miscarriage  among  women in  Sudan  for the {rst time. 4 Vertical transmission of virus to two newborn infants has also been reported. 5,6 Nosocomial transmission has not been documented, but patients  often  have high  viremias,  suggesting that  standard  droplet  barrier  nursing  techniques  and  universal blood precautions be followed, especially during invasive procedures or while attending births from infected mothers.
+
+============================================================
+CHUNK 4
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+The RVFV (family Phenuiviridae ; genus Phlebovirus, species Rift Valley fever phlebovirus) is an enveloped virus with a segmented
+RNA genome. RVFV was {rst isolated in the 1930s after a large outbreak among sheep in the Rift Valley of Kenya. T oday, it is found  in  over  30  countries  where  signi{cant  outbreaks  occur periodically (Fig. 37.7.1). Human infections can result in isolated individual cases or extensive epidemics, with infections numbering tens of thousands. Mosquitoes are the primary vector, although experimental infection of sand|ies and ticks has been documented. Humans can be directly infected by mosquito bite or via contact with infected animals (especially livestock) and animal |uids and tissues, including aborted fetuses, amniotic |uids, uncooked meat, and possibly unpasteurized milk. 7
+The primary  target  tissue  for  the  virus  is  the  liver.  In  fatal cases, extensive hepatocellular necrosis is evident with or without focal in|ammatory cell in{ltrates. 8 Generally, positive immunostaining for virus antigen can be found in hepatocytes and Kupffer's cells and renal tubular epithelial cells. However, RVFV is promiscuous and can infect a wide variety of cell types and tissues. There are no detailed pathologic descriptions of human Rift Valley fever
+Fig. 37.7.1 Rift Valley fever geographic distribution. Countries highlighted in dark blue have periodic widespread epidemics of human and/or livestock disease. Countries highlighted in mid-blue have occasional reports of Rift Valley fever virus infection.
+
+============================================================
+CHUNK 5
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+neurologic disease. Experimental animal studies suggest that direct neuron infection and cellular in{ltrates contribute to the disease process. In hemorrhagic cases, the exact molecular mechanisms causing alterations in vascular permeability are unknown but are likely mediated by secondary cytokine/chemokine perturbations of endothelial cell barrier functions rather than direct virus infection and the cytopathic effect of endothelial cells. Among fatal human cases, RVFV does not appear to widely infect endothelial cells, even in the later stages of the disease, unlike some other hemorrhagic  fever  viruses  (e.g.,  Ebola,  Marburg,  Crimean-Congo hemorrhagic fever, and the arenavirus hemorrhagic fevers). 3
+
+============================================================
+CHUNK 6
+============================================================
+CLINICAL FEATURES
+After an incubation period of 2 to 6 days, most cases present with abrupt  onset  of  fever,  malaise,  myalgia,  and  arthralgia.  A  high proportion of patients report nausea, vomiting, abdominal pain, and diarrhea; symptoms can clinically resemble other acute viral infections,  thus  complicating  early  differential  diagnosis 9 (Fig. 37.7.2, T able 37.7.1). Upper respiratory signs are notably absent in Rift Valley fever cases. A small percentage of infected individuals (1%-2%) may develop jaundice, hepatitis, and/or a hemorrhagic syndrome. Case fatalities among hospitalized patients with coagulopathy range from 10% to 30%. In some patients, retinitis may develop  with  potential  long-term  sequelae  including  scotomas, other  vision  abnormalities,  or  total  blindness. 10 In  the  largest reported study of laboratory-con{rmed hospitalized patients ( n = 683,  Saudi  Arabia  2000-2001)  hemorrhagic  complications included thrombocytopenia (38.4%); hematemesis (3.6%); petechiae (2.8%); melena (1.8%); epistaxis (1.2%); excessive bleeding from puncture sites (2.4%); and disseminated intravascular coagulation with multiple organ dysfunction, including renal failure (7.5%). 11 Laboratory abnormalities  included marked  elevations  of serum transaminases (aspartate transaminase [AST], alanine transaminase [ALT], gamma-glutamyl transferase [GGT]), lactate dehydrogenase (LDH),  creatinine  phosphokinase  (CPK),  and  creatinine  with moderate to severe anemia and marked thrombocytopenia. High virus loads (mean titer, > 1.0 × 10 6 plaque-forming units/mL of blood) are signi{cantly linked to fatal outcomes. 12 Resolution of the acute phase can be followed 7 to 28 days later by delayed-onset encephalitis.
+
+============================================================
+CHUNK 7
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Frequent mosquito exposure and/or contact with sick livestock in  sub-Saharan Africa or the western Arabian Peninsula should
+
+============================================================
+CHUNK 8
+============================================================
+Expected clinical signs
+Fig. 37.7.2 A timeline indicating the onset and duration of the major expected clinical signs of Rift Valley fever.
+raise a high index of suspicion for Rift Valley fever. 13 Initial Rift Valley fever presentation is often non-speci{c and similar to severe malaria, leptospirosis, or other viral hemorrhagic fevers, including Ebola, Marburg, Crimean-Congo hemorrhagic fever, Lassa fever, yellow fever, or dengue fever. Patient contact with ticks, rodents, bats, and non-human primates is not thought to be a signi{cant risk  factor  for  Rift Valley  fever  and  may  be  more  indicative of Crimean-Congo hemorrhagic  fever  (ticks)  or  leptospirosis  and Lassa  (rodents)  or  Ebola  and  Marburg  (bats  and  non-human primates).
+Diagnosis can be accomplished by serology and nucleic acid ampli{cation  testing  (reverse-transcription  polymerase  chain reaction [RT-PCR]) or virus isolation from whole blood or serum, or serologically by various immunoglobulin M and immunoglobulin G antibody detection techniques (enzyme-linked immunosorbent assay [ELISA]). Post-mortem tissues can be submitted for immunohistochemical staining. Due to safety concerns, post-mortem examinations should be performed only after consultation with national diagnostic reference centers. Handling of non-inactivated laboratory specimens and live-virus culture should only be performed in Biosafety Level (BSL)-3- or BSL-4-capable laboratories by trained personnel. RVFV is labile, and decontamination can be accomplished by use of strong detergents or 10% solutions of sodium hypochlorite (bleach).
+
+============================================================
+CHUNK 9
+============================================================
+TREATMENT AND PREVENTION
+Treatment of Rift Valley fever patients is primarily symptomatic, although  novel  antiviral  therapeutics  are  under  development. 14 For the majority of patients, the  disease  is self-limiting.  Drugs that  may  have  potential  hepatotoxic,  nephrotoxic,  or  negative effects  on  coagulation  factors  and  platelet  function  should  be avoided. Ribavirin, a guanosine analog, is a potent antiviral drug and may be of bene{t among severely affected Rift Valley fever patients. 15 However, an ef{cacy trial undertaken during the Rift Valley  fever  outbreak  in  Saudi  Arabia  in  2000  was  terminated
+
+TABLE 37.7.1 Clinical Signs Among Hospitalized Rift Valley Fever Cases (Percentage Affected)
+
+============================================================
+CHUNK 10
+============================================================
+TREATMENT AND PREVENTION
+GENERAL SIGNS, Sudan 2006-2007* = . GENERAL SIGNS, Saudi Arabia 2000-2001† = . Fever, Sudan 2006-2007* = 90. Fever, Saudi Arabia 2000-2001† = 93. Nausea, Sudan 2006-2007* = n.r.. Nausea, Saudi Arabia 2000-2001† = 60. Vomiting, Sudan 2006-2007* = 0. Vomiting, Saudi Arabia 2000-2001† = 53. Abdominal pain, Sudan 2006-2007* = 2. Abdominal pain, Saudi Arabia 2000-2001† = 38. Diarrhea, Sudan 2006-2007* = 3. Diarrhea, Saudi Arabia 2000-2001† = 22. Jaundice, Sudan 2006-2007* = 35. Jaundice, Saudi Arabia 2000-2001† = 18. CENTRAL NERVOUS SYSTEM ABNORMALITIES, Sudan 2006-2007* = 11. CENTRAL NERVOUS SYSTEM ABNORMALITIES, Saudi Arabia 2000-2001† = 17. Confusion, Sudan 2006-2007* = 5. Confusion, Saudi Arabia 2000-2001† = 8. Vertigo, Sudan 2006-2007* = n.r.. Vertigo, Saudi Arabia 2000-2001† = 3. Ataxia, Sudan 2006-2007* = n.r.. Ataxia, Saudi Arabia 2000-2001† = 0.6. Convulsions, Sudan 2006-2007* = 1. Convulsions, Saudi Arabia 2000-2001† = 0.6. Coma, Sudan 2006-2007* = 11. Coma, Saudi Arabia 2000-2001† = 3. HEMORRHAGIC, Sudan 2006-2007* = 36. HEMORRHAGIC, Saudi Arabia 2000-2001† = 7. MANIFESTATIONS, Sudan 2006-2007* = . MANIFESTATIONS, Saudi Arabia 2000-2001† = . Hematemesis, Sudan 2006-2007* = 36. Hematemesis, Saudi Arabia 2000-2001† = 4. Petechiae, Sudan 2006-2007* = 2. Petechiae, Saudi Arabia 2000-2001† = 3. Gingival bleeding, Sudan 2006-2007* = 21. Gingival bleeding, Saudi Arabia 2000-2001† = 1.4. Epistaxis, Sudan 2006-2007* = 36. Epistaxis, Saudi Arabia 2000-2001† = 1.2. Conjunctival hemorrhage, Sudan 2006-2007* = 10. Conjunctival hemorrhage, Saudi Arabia 2000-2001† = 1.2.
+
+============================================================
+CHUNK 11
+============================================================
+TREATMENT AND PREVENTION
+Hematuria, Sudan 2006-2007* = 16. Hematuria, Saudi Arabia 2000-2001† = n.r.
+n.r.,
+*N
+Not reported.
+194 patients.
+=
+14
+†N varies between 475 and 532 patients depending on clinical sign. 10
+because of adverse events. The data were suggestive that ribavirin may potentiate the neurologic form of Rift Valley fever. Pharmacokinetic studies have shown that the drug has poor central nervous system penetration, and Rift Valley fever animal models also suggest that  treatment  increases  the  risk  of  delayed-onset  neurologic complications. A safe and effective formalin-inactivated vaccine was developed for human use in the 1970s but is no longer available. In  the  United  States  one  veterinary  vaccine  is  registered  for emergency use under direction of national agriculture authorities only. Other live-attenuated veterinary vaccines are available for use in endemic areas but are contraindicated in young or pregnant animals  as  a  result  of  teratogenic  and  abortifacient  properties. Several additional novel human and veterinary vaccine candidates (recombinant live-attenuated, virus-like particle, DNA-based, and subunit approaches) are under development, but none are commercially available at this time.
+
+============================================================
+CHUNK 12
+============================================================
+Disclaimer
+The {ndings and conclusions in this report are those of the authors and do not necessarily represent the of{cial position of the Centers for Disease Control and Prevention.
+
+============================================================
+CHUNK 13
+============================================================
+REFERENCES
+1.  Bird BH, Ksiazek TG, Nichol ST, Maclachlan NJ. Rift Valley fever virus. J Am Vet Med Assoc 2009;234:883-93.
+2.  Evans  A,  Gakuya  F,  Paweska  JT,  et al.  Prevalence  of  antibodies against Rift Valley fever  virus in Kenyan wildlife. Epidemiol Infect 2008;136:1261-9.
+3.  Swanepoel R, Coetzer JAW. Rift Valley fever. In: Infectious diseases of livestock. Oxford: Oxford University Press; 2004. p. 1037-70.
+4.  Baudin M, Jumaa AM, Jomma HJE, et al. Association of Rift Valley fever virus infection with miscarriage in Sudanese women: a cross-sectional study. Lancet Glob Health 2016;4(11):e864-71.
+5.  Adam  I,  Karsany  MS.  Case  report:  Rift  Valley  Fever  with  vertical transmission in a pregnant Sudanese woman. J Med Virol 2008;80:929.
+6.  Arishi HM, Aqeel AY, Al Hazmi MM. Vertical transmission of fatal Rift Valley fever in a newborn. Ann Trop Paediatr 2006;26:251-3.
+7.  Pepin M, Bouloy M, Bird BH, et al. Rift Valley fever virus (Bunyaviridae: Phlebovirus):  an  update  on  pathogenesis,  molecular  epidemiology, vectors, diagnostics and prevention. Vet Res 2010;41:61.
+8.  Shieh WJ,  Paddock  CD,  Lederman  E,  et al.  Pathologic  studies  on suspect animal and human cases of Rift Valley fever from an outbreak in Eastern Africa, 2006-2007. Am J Trop Med Hyg 2010;83(Suppl. 2):38-42.
+9.  Kahlon  SS,  Peters  CJ,  Leduc  J,  et al.  Severe  Rift Valley  fever  may present with a characteristic clinical syndrome. Am J Trop Med Hyg 2010;82:371-5.
+10.  Al-Hazmi A, Al-Rajhi AA, Abboud EB, et al. Ocular complications of Rift Valley fever outbreak in Saudi Arabia. Ophthalmology 2005;112:313-18.
+
+============================================================
+CHUNK 14
+============================================================
+REFERENCES
+11.  Madani  TA,  Al-Mazrou  YY,  Al-Jeffri  MH,  et al.  Rift  Valley  fever epidemic  in  Saudi Arabia:  epidemiological,  clinical,  and  laboratory characteristics. Clin Infect Dis 2003;37:1084-92.
+12.  Bird  BH,  Bawiec  DA,  Ksiazek  TG,  et al.  Highly  sensitive  and broadly  reactive  quantitative  reverse  transcription-PCR  assay  for high-throughput detection of Rift Valley fever virus. J Clin Microbiol 2007;45:3506-13.
+13.  Anyangu  AS,  Gould  LH,  Sharif  SK,  et al.  Risk  factors  for  severe Rift  Valley  fever  infection  in  Kenya,  2007.  Am  J  Trop  Med  Hyg 2010;83(Suppl. 2):14-21.
+14.  Atkins  C,  Freiberg  AN.  Recent  advances  in  the  development  of antiviral therapeutics for Rift Valley fever virus infection. Future Virol 2017;12(11):651-65.
+15.  El Imam MM, El Sabiq M, Omran A, et al. Acute renal failure associated with the Rift Valley fever: a single center study. Saudi J Kidney Dis Transpl 2009;20:1047-52.
+

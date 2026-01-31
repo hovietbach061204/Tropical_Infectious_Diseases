@@ -1,0 +1,223 @@
+============================================================
+CHUNK 0
+============================================================
+Malaria in the Returned Traveler 144
+David G Lalloo
+
+============================================================
+CHUNK 1
+============================================================
+Key features
+- Plasmodium falciparum malaria is a potential medical emergency as patients can deteriorate rapidly; patients with suspected malaria should be evaluated immediately
+- Symptoms of malaria are often nonspeci2c
+- A careful exposure history is necessary: country and area of travel, including stop-overs, date of return, date of symptoms and details of prophylaxis (if any)
+- Falciparum malaria is most likely to occur within the 2rst 1-3 months of return from an endemic area. The incubation period for falciparum malaria is at least 6 days
+- Three negative slides over a period of 48-72 hours are necessary to exclude malaria
+- Consider other travel-related infections: e.g. typhoid, hepatitis, dengue, in3uenza, acute HIV, meningitis/ encephalitis and viral hemorrhagic fevers (VHF)
+- Initiate therapy with rapidly active agents. Artemisinincontaining treatments are the most e4ective for falciparum
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+Malaria is one of the most important illnesses in the returned traveller. It accounts for a large proportion of the patients admitted with a fever after foreign travel and has the potential to cause a rapidly fatal illness. Recognition and prompt management of the disease by physicians at all levels of the system is important.
+
+============================================================
+CHUNK 3
+============================================================
+EPIDEMIOLOGY
+In the USA, approximately 1300-1600 patients are diagnosed with malaria each year, with up to 7 deaths. Similar numbers of cases are seen in the UK and in France - up to 3000 cases are reported annually. The majority of cases (60-80%) are caused by Plasmodium falciparum with a further 10-25% being Plasmodium vivax. Those  most at risk include  recent  immigrants  or  foreign  visitors  and  people  visiting friends and relatives (VFR travellers) in their country of origin. Appropriate pre-travel advice and education about recognition of symptoms of malaria on return from endemic countries is particularly important in this latter group. Travellers to sub-Saharan Africa have the highest risk: falciparum malaria is the most common post-travel diagnosis in this  group  [1].  Most  deaths  from  malaria  in  Western  countries  are associated with delays in the recognition of the disease by patients and health personnel. Therefore, the importance of a thorough travel history for all febrile patients needs to be emphasized.
+
+============================================================
+CHUNK 4
+============================================================
+UNCOMPLICATED MALARIA
+There are few specific symptoms or signs of malaria. Fever, or a history of fever, may be associated with nonspecific malaise, chills or rigors, respiratory symptoms, or gastrointestinal upset. A classic fever pattern, such as an every other day spike with P. vivax , is rarely seen. Practitioners should have a high index of suspicion for malaria in anyone who has returned from an endemic area in the last year: the minimum incubation  period  is  6  days.  Nearly  all  patients  with  falciparum malaria will present within 3 months of exposure and usually in the first month after return [2]. Presentation of infection by other species may occur later after exposure and can be delayed for over a year. In patients  with  a  history  of  fever,  the  presence  of  splenomegaly  or jaundice makes malaria  more likely  [3]  ;  hepatomegaly  or  splenomegaly are more common in children.
+Individuals who may have taken sub-optimal chemoprophylaxis regimens or were not completely adherent to their regimen may have a subacute,  or  even  insidious,  onset  of  clinical  symptoms.  They  may present  with atypical  symptoms [4-9] to include fatigue, low  back pain, nausea and anorexia, and depression. On occasion, these individuals will be afebrile. With long-acting drugs, such as mefloquine, atovaquone and choroquine-proguanil, the clinical presentation may be delayed by weeks after return. They often have very low and intermittent parasitemias, making conformation by microscopy difficult. In  addition,  patients  who  present  to  emergency  departments  with nonspecific febrile syndromes often get empirically treated with antibiotics such as azithromycin, tetracyclines, sulfa drugs and clindamycin,  that  have  significant  anti-malaria  activity.  This  can  temporarily result in clinical improvement and lead to delay and confusion over the  diagnosis  of  malaria  in  the  otherwise  nonimmune  returning traveller.
+
+============================================================
+CHUNK 5
+============================================================
+SEVERE OR COMPLICATED MALARIA
+The clinical manifestations of severe malaria in returned travellers are similar to those in endemic regions (Table 144-1). Cerebral malaria and  respiratory  distress  predominate  in  children;  severe  anaemia tends  to  be  less  common  than  in  endemic  populations.  In  adults, cerebral  malaria,  respiratory  distress  syndrome  and  multi-organ failure, including renal failure predominate. Severe malaria should be considered a medical emergency. Pregnant women, those who have lost their spleen and patients with advanced HIV are at higher risk of severe  malaria.  Severe  or  complicated  malaria  is  usually  associated with falciparum infection but there is growing evidence that a small proportion of patients with vivax develop severe malaria [10].
+
+============================================================
+CHUNK 6
+============================================================
+PATIENT EVALUATION AND DIFFERENTIAL DIAGNOSIS
+Initially,  it  is  most  important  to  suspect  the  diagnosis  and  take  an appropriate  history.  Many  patients from  an  endemic  area  consider themselves to be immune but immunity is lost relatively rapidly after
+
+============================================================
+CHUNK 7
+============================================================
+Adults
+Impaired consciousness or seizures
+Acidosis (pH
+<
+7.3)
+Hypoglycemia ( < 2.2 mmol/l)
+Pulmonary edema or acute respiratory distress syndrome (ARDS)
+Renal impairment (oliguria creatinine
+>
+265
+μ
+<
+mol/l)
+Hemoglobin
+≤
+8 g/dL
+Spontaneous bleeding/disseminated intravascular coagulation
+Shock (algid malaria - BP
+<
+90/60 mmHg)
+Hemoglobinuria (without G6PD deHciency)
+Parasitemia
+2% red blood cells parasitized
+
+============================================================
+CHUNK 8
+============================================================
+Children
+Impaired consciousness or seizures Respiratory distress or acidosis (pH < 7.3) Hypoglycemia ( < 2.2 mmol/l) Severe anemia ( < 8 g/dl) Prostration Parasitemia > 2% red blood cells parasitized leaving an endemic area and patients can still develop severe malaria [1 1]. The most useful investigations are thick and thin blood films, or a  rapid  diagnostic  test.  In  experienced  hands,  a  thick  film  is  more sensitive but in many Western settings where microscopy experience is  limited,  rapid  diagnostic  tests  are  commonly  reported  and  the diagnosis confirmed by a reference laboratory. If performed correctly, rapid tests are highly sensitive for the detection of falciparum malaria but can miss other  species; newer-generation rapid diagnostic tests (RDTs) are better at detecting non-falciparum species. Blood films are still  essential  for  confirming  speciation  and  estimating  the  parasitemia which has prognostic significance. Repeated blood films may be necessary to detect low parasitemias, particularly if patients have been taking chemoprophylaxis. At least three thick films taken over 24-48  hours  should  be  examined  before  the  diagnosis  can  be excluded.
+A full  blood count, urea and  electrolytes, liver enzymes and blood glucose should be taken routinely. Mild anemia is common and the presence  of  thrombocytopenia  or  hyperbilirubinemia  are  strongly predictive  of  malaria  [3].  Elevation  of  hepatic  transaminases  and abnormalities  of  renal  function  can  occur  in  more  severe  disease. Hypoglycemia  commonly  occurs  in  severe  malaria  because  of  the disease itself and if the patient has been treated with quinine, quinineinduced hyperinsulinemia, particularly in children or pregnancy. In severe disease, elevated lactate levels are common and clotting function  should be evaluated to detect the  rare cases who  develop disseminated  intravascular  coagulation  (DIC; Table  144-1).  Blood cultures  should  be  considered:  Gram-negative  bacteremia  can  be  a complication  of  severe  malaria,  particularly  in  children.  A  lumbar puncture should be performed in those with impaired consciousness to exclude meningitis or encephalitis: significantly raised cerebrospinal fluid (CSF) white cell counts are rare in cerebral malaria.
+
+============================================================
+CHUNK 9
+============================================================
+Children
+The differential diagnosis of malaria in the returned traveller is wide; it is essentially that of a febrile illness. A detailed travel history, including precise destinations visited, duration of visit and activities whilst abroad  and  preventive  measures  taken,  can  help  to  determine  the likelihood of malaria. The most important differential diagnoses to be considered are typhoid, arboviral diseases, including dengue, and the rare hemorrhagic fevers which are important to consider because of their public health significance (e.g. the need for isolation).
+>
+0.4 ml/kg bodyweight per hour or
+TABLE 144-2 Options for Management of Uncomplicated Falciparum Malaria in Adults
+
+============================================================
+CHUNK 10
+============================================================
+Children
+Artemether-lumefantrine (Coartem®) in the USA and Canada (Riamet®) in Europe (Tablet contains 20 mg artemether and 120 mg lumefantrine), Dose = If weight > 35 kg, 4 tablets. Artemether-lumefantrine (Coartem®) in the USA and Canada (Riamet®) in Europe (Tablet contains 20 mg artemether and 120 mg lumefantrine), Frequency and duration = 0, 8, 24, 36, 48 and 60 hours. Atovaquone-proguanil (Malarone®) (Adult tablet: 250 mg atovaquone-100 mg proguanil), Dose = 4 'adult' tablets. Atovaquone-proguanil (Malarone®) (Adult tablet: 250 mg atovaquone-100 mg proguanil), Frequency and duration = Daily for 3 days. Quinine sulfate, Dose = 600 mg (salt). Quinine sulfate, Frequency and duration = Every 8 hours for 5-7 days. with: doxycycline OR clindamycin, Dose = 200 mg 450 mg. with: doxycycline OR clindamycin, Frequency and duration = Daily for 7 days Every 8 hours for 7 days. Dihydroartemisinin- piperaquine (licensed in Europe), Dose = 36-75 kg: 3 tablets > 75 kg: 4 tablets. Dihydroartemisinin- piperaquine (licensed in Europe), Frequency and duration = Daily for 3 days. In rare areas of chloroquine sensitivity * Chloroquine, Dose = 600 mg (base) 300 mg (base). In rare areas of chloroquine sensitivity * Chloroquine, Frequency and duration = Initial dose 6, 24 and 48 hours
+*Many clinicians would still advocate an alternative drug because of the diIculty of determining sensitivity.
+
+============================================================
+CHUNK 11
+============================================================
+TREATMENT
+Most of the evidence for managing malaria comes from the endemic setting. The strength of the evidence for the treatment of malaria in all  settings  is  summarized  in  World  Health  Organization  (WHO) guidelines [12] and in Chapter 96.
+
+============================================================
+CHUNK 12
+============================================================
+UNCOMPLICATED DISEASE
+There are a number of options for the management of uncomplicated malaria (Tables 144-2, 144-3 and 144-4). The choice of antimalarial depends upon the species of malaria and the geographic region where the  infection  is  likely  to  have  been  acquired.  Malaria  should  be managed  in  consultation  with  someone  experienced  in  managing malaria.  In  the  USA,  advice  can  be  obtained  from  the  Centers  for Disease Control and Prevention (CDC) [13]. To speak with a malaria clinician, the CDC's Emergency Operations Center can be reached at (770) 488-7100.
+
+============================================================
+CHUNK 13
+============================================================
+Non-Falciparum
+Chloroquine has been traditionally used for the treatment of all nonfalciparum species and still remains highly effective for treating Plasmodium ovale, Plasmodium malariae and Plasmodium knowlesi infection (Table 144-4). However, there is increasing evidence of the spread of chloroquine  resistance  in P.  vivax acquired  in  some  regions  of  the Pacific and Southeast Asia. Opinions vary on how best to treat vivax
+
+============================================================
+CHUNK 14
+============================================================
+Non-Falciparum
+TABLE 144-3 Options for Management of Uncomplicated Falciparum Malaria in Children
+
+Co-artem (Riamet®), Dose = > 35 kg: 4 tablets 25-35 kg: 3 tablets 15-24 kg: 2 tablets 5-14 kg: 1 tablet. Co-artem (Riamet®), Frequency and duration = 0, 8, 24, 36, 48 and 60 hours. Atovaquone- proguanil (Malarone®): (Adult tablet: 250 mg atovaquone-100 mg proguanil) (Ped tablet: 62.5 mg atovaquone-25 mg proguanil), Dose = > 40 kg: 4 'adult' tablets 31-40 kg: 3 'adult' tablets 21-30 kg : 2 'adult' tablets 11-20 kg: 1 'adult' tablet 9-10 kg:- 3 'pediatric' tablets 5-8 kg :-2 ' pediatric'. Atovaquone- proguanil (Malarone®): (Adult tablet: 250 mg atovaquone-100 mg proguanil) (Ped tablet: 62.5 mg atovaquone-25 mg proguanil), Frequency and duration = Daily for 3 days. Quinine sulfate: must be combined with, Dose = 10 mg/kg (of quinine salt) 3.5 mg/kg. Quinine sulfate: must be combined with, Frequency and duration = Every 8 hours for 5-7 days Daily for 7 days. Doxycycline (not given to children < 12 or 8 years depending upon national recommendations) OR, Dose = 7 mg/kg. Doxycycline (not given to children < 12 or 8 years depending upon national recommendations) OR, Frequency and duration = Every 8 hours for 7 days. Dihydroartemisinin- piperaquine (licensed in Europe), Dose = 12-23 kg: 1 tablet 24-35 kg: 2 tablets 36-75 kg: 3 tablets Over 75 kg: 4 tablets. Dihydroartemisinin- piperaquine (licensed in Europe), Frequency and duration = Daily for 3 days
+
+============================================================
+CHUNK 15
+============================================================
+Non-Falciparum
+infection acquired in this region: one approach is to use chloroquine and re-treat with another drug if there is failure to respond or early recrudescence. The alternative is to use a different drug, particularly for infections from Papua New Guinea and Indonesia, where the risk of  chloroquine resistance  is  highest.  There  is  limited  evidence  that most  antimalarials  are  effective  against  chloroquine-resistant  vivax including co-artemether, mefloquine, atovaquone-proguanil and quinine-doxycycline  [14].  Patients  with  mixed  infections  or  uncertainty about the infecting species should be treated as though they have falciparum malaria.
+Patients with P.  ovale or P.  vivax infection also require treatment to eradicate  hepatic  hypnozoites:  relapse  may  occur  in  10-100%  of patients with vivax who are treated with chloroquine alone depending on the strain and geographic area where infection was acquired. Primaquine is the only drug that is currently licensed for this purpose; other drugs, such as tafenoquine are currently being evaluated. Higher doses of primaquine [30 mg (base) daily for 14 days] are needed for vivax than for ovale (15 mg daily) and patients should be tested for G6PD  deficiency  before  administration.  Anti-relapse  therapy  with primaquine  is  more  effective  if  administered  simultaneously  with
+
+============================================================
+CHUNK 16
+============================================================
+Non-Falciparum
+TABLE 144-4 Treatment of Non-Falciparum Malaria
+
+Chloroquine: Adult,  = 600 mg (base). Chloroquine: Adult,  = Initial dose. ,  = 300 mg. ,  = 6, 24 and 48 hours. Child,  = 10 mg/kg (base). Child,  = Initial dose. ,  = 5 mg/kg base. ,  = 6, 24 and 48 hours. Quinine/co-artem/ atovaquone-proguanil,  = As for uncomplicated falciparum. Quinine/co-artem/ atovaquone-proguanil,  = . Preventing relapse,  = . Preventing relapse,  = . Primaquine: ovale Adult Child,  = 15 mg 0.25 mg/kg. Primaquine: ovale Adult Child,  = Daily for 14 days. Primaquine: vivax Adult Child,  = 30 mg 0.5 mg/kg. Primaquine: vivax Adult Child,  = Daily for 14 days. Primaquine: Mild G6PD deGLYPH<c=19,font=/CIDFont+F3>ciency Adult,  = 45-60 mg. Primaquine: Mild G6PD deGLYPH<c=19,font=/CIDFont+F3>ciency Adult,  = Weekly dose for 8 weeks. Child,  = 0.5-0.75 mg/kg (max. 30 mg). Child,  = As a single weekly dose for 8 weeks
+chloroquine  during  the  treatment  of  the  acute  infection  [14].  Primaquine should not be given in pregnancy; for those with mild G6PD deficiency, weekly regimens can be safely given to most patients following expert advice.
+
+============================================================
+CHUNK 17
+============================================================
+Falciparum
+Malaria caused by P. falciparum needs to be treated promptly because of the potential for patients to deteriorate and develop severe disease (Tables  144-2  and  144-3).  The  choice  of  drug  depends  upon  the origin  of  the  infection.  Chloroquine  resistance  is  widespread  and chloroquine is only effective for falciparum malaria acquired in parts of central America, Haiti and the Dominican Republic, and parts of the Middle East. Outside those regions, there are four main choices of oral antimalarials for uncomplicated disease: quinine and doxycline or clindamycin, mefloquine, atovaquone-proguanil and artemether-lumefantrine.  Two  other  oral  artemisinin  combinations have been submitted for registration in Europe: dihydroartemesininpiperaquine and pyronaridine-artesunate. There are limited data in returned travellers to assess which drug is best but substantial endemic data  show  that  artemisin  combination  treatments  (ACTs)  reduce parasitemia  more  rapidly  and  they  should  now  be  considered  the drugs of choice in a developed setting when available. Atovaquoneproguanil is well tolerated and widely available owing to its use as a prophylactic medication. Mefloquine is least well tolerated in singledose treatment doses [15] and is not effective for malaria from areas of  Southeast  Asia  where  resistance  is  widespread.  If  mefloquine  is used  for  treatment,  a  split  dose  is  recommended  as  three  tablets (750 mg) followed by a second dose of two tablets (500 mg) given 6-12  hours  later.  Split-dose  mefloquine  is  better  tolerated.  Oral quinine should be accompanied by either doxycycline or clindamycin
+to ensure a full therapeutic response: most patients will complain of tinnitus. Patients with uncomplicated falciparum should be observed closely and many physicians suggest that they should be managed as in-patients in the initial stages.
+
+============================================================
+CHUNK 18
+============================================================
+Chemotherapy
+Parenteral therapy should be given to all those with severe or complicated malaria and to those who cannot tolerate oral therapy (Table 144-5).  Many  clinicians  also  advocate  parenteral  therapy  for  those with high levels of parasitemia ( > 2%). Parenteral quinine or quinidine has been the mainstay of treatment of severe malaria for over 50 years; however, two major trials have now clearly demonstrated the superiority of parenteral artesunate over quinine in endemic settings, in  both  adults  and  children,  with  reduction  in  mortality  [16]. Although these studies were not performed in a Western setting, they constitute the best evidence that is ever likely to be available. Parenteral artesunate should now be considered the drug of choice for the management of severe malaria in the returned traveller.
+The major difficulty in using artesunate has been the poor availability of a quality-assured parenteral drug. The Chinese product used in the studies did not reach international regulatory standards of good manufacturing and quality control. In the USA, a formulation of intravenous artesunate manufactured in accordance with good manufacturing practices  is  available  as  an  Investigational  New  Drug  via  the  CDC; elsewhere,  local  health  authorities  have  developed  mechanisms  to quality-assure imported artesunate.  Both the  Chinese  and  the  USA parenteral artesunate formulations are moving towards registration. Artesunate should be given as a slow, intravenous infusion at 0, 12 and 24 hours and then daily until oral medication can be taken. Each treatment dose is 2.4 mg/kg with no modification for altered renal status. Treatment should be completed with a full course of an oral ACT, atovaquone-proguanil, mefloquine  or quinine-doxycycline. Artesunate appears to be well tolerated, although transient reticulocytopenia and neutropenia have been noted with higher doses; full blood counts should be monitored.
+If  not  available,  or  if  administration  of  artesunate  is  likely  to  be delayed, therapy should be started with intravenous quinine or quinidine using a loading dose followed by infusion three times a day
+TABLE 144-5 Drug Management of Severe Malaria in Travellers (Adults and Children)
+
+============================================================
+CHUNK 19
+============================================================
+Chemotherapy
+- Quinine: loading dose of 20 mg/kg quinine dihydrochloride in 5% dextrose or dextrose saline over 4 hours. Followed by: 10 mg/kg over 4 hours every 8 hours for Hrst 48 hours (or until patient can swallow). Frequency of dosing should be reduced to 12-hourly if intravenous quinine continues for more than 48 hours.
+- Quinidine: loading dose of 10 mg/kg quinidine gluconate IV over 1-2 hours then continuous infusion of 0.02 mg/kg/min for at least 24 hours. Alternatively, 24 mg/kg quinidine gluconate IV over 4 hours, followed by 12 mg/kg over 4 hours every 8 hours.
+- Artesunate: 2.4 mg/kg given IV at 0, 12 and 24 hours then daily thereafter.
+- If quinine or quinidine given, parenteral therapy is normally followed by oral quinine to complete 5-7 days treatment along with 7 days of doxycycline or clindamycin (pregnancy, children). Atovaquone-proguanil or a full course of an artemisin combination treatment (ACT) can also be used.
+- If parenteral artesunate given, treatment can be completed with a full course of an ACT, atovaquone-proguanil, meJoquine, or quinine and doxycycline or clindamycin.
+(quinine) or continuous infusion (quinidine). The electrocardiography  (ECG)  should  be  monitored  continuously  and  if  parenteral therapy  is  continued  for  more  than  48  hours,  the  dose  should  be reduced.  Once  the  patient  is  well  enough,  oral  quinine  should  be commenced  to  complete  at  least  5  days  of  treatment.  Quinine  or quinidine should be combined with 7 days of either doxycycline or clindamycin (children or pregnant women) to ensure full cure. A full course  of  atovaquone-proguanil  or  an  ACT  could  also  be  used  to complete treatment.
+
+============================================================
+CHUNK 20
+============================================================
+Supportive Therapy
+In addition to chemotherapy, supportive treatment of the patient is extremely important. Patients with severe or complicated malaria or with high parasite counts need careful observation in a high dependency or intensive care  unit. Blood glucose should be closely monitored and corrected if low. Achieving an optimum fluid balance is also important: under-perfusion may exacerbate hyperlactatemia, whilst fluid overload can contribute to  pulmonary edema and respiratory distress  syndrome.  There  is  no  consensus  on  the optimum type or volume of fluids to use in severe malaria. Patients with anemia may need transfusion. Broad-spectrum antibiotics may be appropriate in those patients, particularly children, who have sepsis-like syndromes caused by concomitant Gram-negative bacteremia. Patients with renal failure  should  be  treated  with  hemofiltration  which  is  superior  to peritoneal dialysis [17].
+
+============================================================
+CHUNK 21
+============================================================
+Adjunctive Treatment
+Although  many  adjunctive  treatments  have  been  studied  in  severe malaria, none have been proven effective and none are indicated in routine clinical practice. Exchange transfusion has been most extensively studied with anecdotal success but has never been evaluated in a randomized, controlled trial [18]. Prior to the availability of artesunate, many experienced clinicians advocated exchange transfusion for those with hyperparasitemia of more than 20% or in patients with parasitaemia > 10% and signs of severe disease. Given the broad stage specificity of artesunate and its rapid effect in reducing parasitemia, it is now uncertain whether there is any role for exchange transfusion if  parenteral artesunate is available. If artesunate is not available, or access is significantly delayed, there may still be a role for red blood cell exchange [19].
+
+============================================================
+CHUNK 22
+============================================================
+MONITORING AND PROGNOSIS
+There is little value in measuring parasite counts more than daily, as variations in peripheral falciparum parasitemia occur according to the stage of the infection. Most patients who do not have very high initial parasite counts should clear peripheral parasites by 72 hours after the start of treatment. Those with uncomplicated malaria usually recover without  sequelae,  although  fatigue  and  mild  anemia  can  take  a number  of  weeks  to  resolve.  The  case  fatality  rate  in  falciparum malaria  is  around  4-8/1000;  approximately  7-15%  of  those  with severe and complicated malaria die, depending upon definitions [20, 21]. Those who are pregnant and who are elderly [22] can have worse outcomes. Individuals over the age of 70 years reported a case fatality rate  of  over  30%.  Subtle  neurologic  sequelae  can  follow  cerebral malaria in children, diminishing over time, but sequelae are rare in adults.
+
+============================================================
+CHUNK 23
+============================================================
+REFERENCES
+1. Freedman DO, Weld LH, Kozarsky PE, et al. Spectrum of disease and relation to place of exposure among ill returned travelers. N Engl J Med 2006;354:119-30.
+2. Leder K, Black J, O'Brien D, et al. Malaria in travelers: a review of the GeoSentinel surveillance network. Clin Infect Dis 2004;39:1104-12.
+3. Taylor  SM, Molyneux ME, Simel DL, et al. Does this patient have malaria? JAMA 2010; 304:2048-56.
+4. Stuiver  PC,  van  Rijsunjk  JB,  Visser  LG.  Delayed  onset  of  malignant  tertian malaria  through  the  inappropriate  use  of  doxycycline:  another  threat  to patients returning from malarious areas. J Travel Med 1996;3:193.
+
+============================================================
+CHUNK 24
+============================================================
+REFERENCES
+5. Reyburn H, Behrens RH, Warhurst D, Bradley D. The effect of chemoprophylaxis  on  the  timing  of  onset  of  falciparum  malaria.  Trop  Med  Int  Health 1998;3:281-5.
+6. Day JH, Behrens RH. Delay in onset of malaria with mefloquine prophylaxis. Lancet 1995;345:398.
+7. Wetsteyn  JCFM,  De  Geus  A.  Chloroquine-resistant  falciparum malaria imported into the Netherlands. Bull World Health Org 1985;63:101-8.
+8. Lewis  SJ,  Davidson  RN,  Ross  EJ,  Hall  AP.  Severity  of  imported  falciparum malaria: effect of taking antimalarial prophylaxis. BMJ 1992;305:741-3.
+9. Klement  E,  Chauveheid  MP,  Thellier  M,  et  al.  Subacute  clinical  forms  of Plasmodium  falciparum malaria  in  travelers  receiving  chloroquine-proguanil prophylaxis. Clin Infect Dis 2001;33:e1-2.
+10.  Kochar DK, Saxena V, Singh N, et al. Plasmodium vivax malaria. Emerg Infect Dis 2005;11:132-4.
+11.  Jennings  RM, DE Souza JB, Todd JE, et al. Imported Plasmodium falciparum malaria:  are  patients  originating  from  disease-endemic  areas  less  likely  to develop severe disease? A prospective, observational study. Am J Trop Med Hyg 2006;75:1195-9.
+12.  World  Health  Organization.  Guidelines  for  the  treatment  of  malaria  2nd edition. Available at: http://whqlibdoc.who.int/publications/2010/ 9789241547925_eng.pdf.
+13.  Centers for Disease Control and Prevention. Treatment of Malaria: Guidelines For Clinicians (United States). Available at: http://www.cdc.gov/malaria/diag-nosis_treatment/treatment.html.
+14.  Baird JK. Resistance to therapies for infection by Plasmodium vivax . Clin Microbiol Rev 2009;22:508-34.
+
+============================================================
+CHUNK 25
+============================================================
+REFERENCES
+15.  Ranque  S,  Marchou  B,  Malvy  D,  et  al.  Treatment  of  imported  malaria  in adults: a multicentre study in France. QJM 2005;98:737-43.
+16.  Sinclair  D,  Donegan  S,  Lalloo  DG.  Artesunate  versus  quinine  for  treating severe malaria. Cochrane Database Syst Rev 201 1;3:CD005967.
+17.  Phu  NH, Hien TT,  Mai  NT  et  al.  Hemofiltration  and  peritoneal dialysis  in infection-associated  acute  renal  failure  in  Vietnam.  N  Engl  J  Med  2002; 347:895-902.
+18.  Riddle  MS,  Jackson  JL,  Sanders  JW,  Blazes  DL.  Exchange  transfusion  as  an adjunct therapy in severe Plasmodium falciparum malaria: a meta-analysis. Clin Infect Dis 2002;34:1 192-8.
+19.  Shelat SG, Lott JP, Braga MS. Considerations on the use of adjunct red blood cell  exchange  transfusion  in  the  treatment  of  severe Plasmodium  falciparum malaria. Transfusion 2010;50:875-80.
+20.  Legros F, Bouchaud O, Ancelle T, et al. Risk factors for imported fatal Plasmodium  falciparum malaria,  France,  1996-2003.  Emerg  Infect  Dis  2007;13: 883-8.
+21.  Smith AD, Bradley DJ, Smith V, et al. Imported malaria and high risk groups: observational study using UK surveillance data 1987-2006. BMJ 2008;337: a120.
+22.  Greenberg AE, Lobel HO. Mortality from Plasmodium falciparum malaria  in travelers from the  United States,  1959 to  1987. Ann Intern Med 1990;1 13: 326-7.
+

@@ -1,0 +1,381 @@
+============================================================
+CHUNK 0
+============================================================
+Key features
+- Minerals are not manufactured by the human body and must be obtained through diet or supplementation
+- The human body requires 17 minerals for biological function and health
+- De*ciencies are widespread, with the greatest burden a)ecting young children and women of childbearing age
+- From a public health perspective, the most important de*ciencies are of iron, zinc, and iodine
+- Iron: de*ciency a)ects about 2 billion people globally and is associated with anemia, decreased work capacity, decreased cognition and increased susceptibility to infection. Treatment of de*ciency involves improved intake and decreased losses due to infections such as hookworm, malaria and others
+- Zinc: de*ciency a)ects about 1 billion people globally, with another 1 billion at risk of zinc de*ciency, and is associated with reduced growth, impaired immunity, and decreased resistance to infection. It is especially important for rapidly dividing cells, including immune cells and those within epithelial surfaces. The human body does not store zinc at appreciable quantities, and su+cient daily intake is needed. Supplementation reduces the severity and duration of diarrhea, and may improve outcome of other conditions including pneumonia and  tuberculosis, and possibly malaria. De*ciency is best addressed by supplementation, forti*cation, and dietary diversi*cation
+- Iodine: de*ciency a)ects about 2 billion people globally and is associated with infant mortality, miscarriages, mental de*ciency and brain damage, as well as thyroid hormonerelated abnormalities. Iodine de*ciency is the leading preventable cause of brain damage in infancy. The most e)ective control mechanism for addressing iodine de*ciency is salt iodization
+- Other minerals of signi*cant public health importance include selenium, calcium, magnesium and ,uoride
+
+============================================================
+CHUNK 1
+============================================================
+INTRODUCTION
+Minerals are essential elements required for human life, and typically exclude  the  organic  building  blocks  of  carbon,  hydrogen,  nitrogen and oxygen [1]. They cannot be made by the body and must therefore be  obtained  in  the  diet  in  adequate  amounts  required  for  proper health. Minerals are distinct from vitamins in that they are not organic molecules comprised of multiple atoms. The human body requires 17 different minerals, as indicated in Table 140-1, and these comprise
+
+============================================================
+CHUNK 2
+============================================================
+Anuraj H Shankar
+4% of the total body mass [2, 3]. They are classified as major minerals (daily requirement of at least 100 mg), trace minerals (daily requirement of less than 100 mg), and ultra trace minerals (typically 1 μ g or less  per day) [4]. Minerals are naturally present in food or may  be added through food fortification or dietary supplements.
+Minerals  play  a  variety  of  crucial  biologic  roles,  including  maintenance of  proper  electrolyte  balance  and  conductivity  functions  for muscle  and  nerve  excitation,  acid-base  balance,  as  cofactors  in enzymes required for  metabolism,  in  forming  and  stabilizing  proteins, and in the crystalline structure of bones and teeth, as well as other functions [5]. It is crucial to note that many minerals interact with each other and with vitamins; for example, healthy bones require a  balance  between  vitamin  D,  calcium,  phosphorus,  magnesium, zinc, fluoride, chloride, manganese, copper and sulfur. Deficiency in any of these would influence skeletal health. Interactions in absorption may also be important; for example, high intakes of iron may decrease zinc absorption, or high intake of zinc may result in copper deficiency. A balanced diet provides all required minerals and in the proper quantities and ratios.
+Unfortunately,  mineral  deficiencies  are  widespread,  particularly  for persons residing in low-income countries, and have a large impact on global health and tropical medicine. For some minerals, requirements are sufficiently low that even poor diets provide the needed amounts, or reserves or nutrient recycling may mitigate the effects of chronically low intakes, and in some cases, loss of mineral-dependent functions may  be  partially  compensated  by  alternative  biologic  pathways. Under these scenarios, clinical manifestations of mineral deficiency may be absent or mild, and only recognized in rare cases of severe chronic deficiency. However, for some minerals, reserves are limited and the physiologic roles are such that even mild deficiencies may adversely affect health. From a public health perspective, based on the prevalence  and  impact  on  morbidity, mortality  and  quality  of  life, deficiencies of the trace minerals iron, zinc and iodine have the greatest burden on health and are reviewed in detail below. The roles of other minerals are briefly discussed thereafter.
+
+============================================================
+CHUNK 3
+============================================================
+GLOBAL BURDEN OF IRON DEFICIENCY
+Iron  deficiency  is  widespread  and  affects  more  than  two  billion persons  worldwide  [6].  Chronic  anemia  associated  with  iron  deficiency results in impaired work capacity, reduced cognitive performance and increased susceptibility to infection [7-10]. Globally, iron deficiency is associated with 841,000 annual deaths and 35 million disability-adjusted live years (DALYs) [6].
+
+============================================================
+CHUNK 4
+============================================================
+OVERVIEW OF IRON BIOLOGY
+Iron has multiple physiologic roles; among the most crucial being the primary  functional  element  of  hemoglobin  [7,  8].  The  ferrous  ion (Fe + 2 )  combined  with  the  protoporphyrin  IX  ring  structure  forms heme, the oxygen-carrying component of hemoglobin and myoglobin. Iron deficiency leads to lower heme levels and reduced erythropoiesis, resulting in hypochromic microcytic anemia. Iron also has a crucial role  in  the  electron  transport  chain  in  mitochondria  through  the
+
+TABLE 140-1 Essential Minerals in Descending Order by Recommended Daily Intake Levels, and Key Biological Functions and Dietary Sources
+
+============================================================
+CHUNK 5
+============================================================
+OVERVIEW OF IRON BIOLOGY
+Potassium, RDA/AI = 4700 mg. Potassium, Functional signi0cance = Systemic electrolyte needed to maintain membrane action potentials; essential for ATP regulation. Potassium, Dietary sources = Legumes, potato skin, tomatoes and bananas. Chlorine, RDA/AI = 2300 mg. Chlorine, Functional signi0cance = Production of hydrochloric acid in the stomach and in cellular pump functions. Chlorine, Dietary sources = Table salt (sodium chloride) is the main dietary source. Sodium, RDA/AI = 1500 mg. Sodium, Functional signi0cance = Systemic electrolyte needed to maintain membrane potential and action potentials; essential in co-regulating ATP with potassium. Sodium, Dietary sources = Table salt (sodium chloride, the main source), sea vegetables, milk and spinach. Calcium, RDA/AI = 1000 mg. Calcium, Functional signi0cance = Needed for muscle contractility, heart and digestive system health, builds bone, supports synthesis and function of blood cells. Calcium, Dietary sources = Dairy products, canned @sh with bones (e.g. salmon or sardines), green leafy vegetables, nuts and seeds. Sulfur, RDA/AI = 850 mg. Sulfur, Functional signi0cance = Critical in tertiary protein structure including connective tissue and skin, for example collagen and keratin. A component of bile acids for fat absorption and in B vitamins thereby facilitating energy production. Needed for several enzymes and antioxidant molecules, including glutathione and coenzyme A. Sulfur, Dietary sources = Mustard, egg, seafood, beans, milk, milk products, nuts and meat. Sulfur in proteins are the main dietary source, followed by sulfates in water, fruits and vegetables. Phosphorus, RDA/AI = 700 mg. Phosphorus, Functional signi0cance = Key component of bones and energy processing via ATP and related molecules. Phosphorus, Dietary sources = Meat, yeast, wheat germ, soybean Aour, meat, poultry, cheese, milk, canned @sh, nuts and cereals. Magnesium, RDA/AI = 420 mg. Magnesium, Functional signi0cance = Required for processing ATP and for bones. Magnesium, Dietary sources = Nuts, soybeans and cocoa mass. Zinc, RDA/AI = 11 mg. Zinc, Functional signi0cance = Required
+
+============================================================
+CHUNK 6
+============================================================
+OVERVIEW OF IRON BIOLOGY
+for production of immune cells and their function, is an antioxidant, is cofactor in nearly 300 enzymes including carboxypeptidase, alcohol dehydrogenase and carbonic anhydrase. Zinc, Dietary sources = Liver, shell@sh, oysters, meat, canned @sh, hard cheese, whole grains, nuts, eggs and pulses. Vegetables and cereals may also contain phytates and oxalates which reduce zinc absorption. Iron, RDA/AI = 8 mg. Iron, Functional signi0cance = Required for oxygen carrying capacity of hemoglobin and myoglobin, and as cofactor for several other enzymes. Iron, Dietary sources = Red meat, leafy green vegetables, @sh (tuna, salmon), eggs, dried fruits, beans, whole and enriched grains. Fluorine, RDA/AI = 3.8 mg. Fluorine, Functional signi0cance = Forms compounds with calcium and phosphorus that are stronger and less soluble than other calcium salts, leading to stronger teeth and bones. Fluorine, Dietary sources = Tea, meat, @sh, cereals and fruit. Manganese, RDA/AI = 2.3 mg. Manganese, Functional signi0cance = Required cofactor for enzymes of energy production and synthesis of DNA and RNA. Key component of potent antioxidant enzyme superoxide dismutase. Manganese, Dietary sources = Cereals, spinach, wholemeal bread, nuts, pulses, fruit, dark green leafy vegetables, root vegetables, tea and liver. Copper, RDA/AI = 900 μ g. Copper, Functional signi0cance = Needed for connective tissue formation and release of iron from storage sites and maturation of red blood cells. Crucial for function of antioxidant enzyme superoxide dismutase. Needed for T cell function and maturation. Copper, Dietary sources = Liver, shell@sh, brewer's yeast, olives, nuts, whole grains, beans and chocolate. Chromium, RDA/AI = 200 μ g. Chromium, Functional signi0cance = Needed for normal sugar metabolism via GTF that enhances glucose utilization. Roles in fat and protein metabolism, and maintaining healthy cholesterol levels. Chromium, Dietary sources = Meat and whole-grain products, as well as some fruits, vegetables and spices. Iodine,
+
+============================================================
+CHUNK 7
+============================================================
+OVERVIEW OF IRON BIOLOGY
+RDA/AI = 150 μ g. Iodine, Functional signi0cance = Required for synthesis of thyroid hormones, thyroxine and triiodothyronine to prevent goiter, may function as an antioxidant for organs, such as mammary and salivary glands, gastric mucosa and the thymus. Iodine, Dietary sources = Sodium or potassium iodide added to table salt, vegetables grown in iodine-rich soil, kelp, onions, milk, milk products, salt water @sh and seafood. Selenium, RDA/AI = 55 μ g. Selenium, Functional signi0cance = A cofactor essential to activity of antioxidant enzymes such as glutathione peroxidase. Selenium, Dietary sources = Organ meats, @sh and shell@sh, muscle meats, whole grains, cereals, dairy products and vegetables such as broccoli, mushrooms, cabbage and celery. Molybdenum, RDA/AI = 45 μ g. Molybdenum, Functional signi0cance = Key component of oxidases including xanthine oxidase, aldehyde oxidase and sul@te oxidase. Molybdenum, Dietary sources = Milk, beans, bread, liver and cereals. Cobalt, RDA/AI = 1 μ g. Cobalt, Functional signi0cance = Critical component of vitamin B 12 and thereby inAuences DNA synthesis, production of red blood cells and nerve function. Cobalt, Dietary sources = Green leafy vegetables, some @sh, liver, kidney and milk
+Some sources further consider the trace minerals boron, nickel, silicon, strontium, tin, and vanadium to be essential, but consensus is pending.
+AI, adequate intake; GTF, glucose tolerance factor; RDA, recommended daily allowance.
+From NHS Direct Online (2012): Vitamins and Minerals. Available from: www.nhs.uk/Conditions/vitamins-minerals/Pages/vitamins-minerals.aspx. (Accessed 04/19/2012).
+
+============================================================
+CHUNK 8
+============================================================
+OVERVIEW OF IRON BIOLOGY
+family of cytochromes, with the iron-porphyrin ring functioning to reduce ferrous to ferric iron. The iron sulfur family of enzymes also acts as electron carriers in the respiratory chain involving NADH and oxygen [7]. Iron is a critical component of peroxide and nitrous oxide generating enzymes and microbicidal reactions critical for immune function and may be involved in regulation of cytokine production and second-messenger cascade systems [7]. Fetal and infant neurologic development and brain function are also affected by iron deficiency as a result of changes in neurotransmitter regulation, myelin formation and energy metabolism [8].
+
+============================================================
+CHUNK 9
+============================================================
+CAUSES OF IRON DEFICIENCY
+Iron deficiency results when iron loss outstrips intake to the degree that iron reserves are depleted. This can occur because of chronically low intake levels of iron rich foods, or result from increased demand owing to blood loss from parasitic helminth infections, such as hookworm and schistosomiasis, disrupted iron metabolism from malaria and other infections, or impaired absorption owing to gut inflammation from infectious diseases [1 1, 12]. Prevention and treatment of iron deficiency and its consequences typically requires actions to both improve intake and reduce losses. Iron absorption from the intestine and mobilization from iron stores in macrophages and hepatocytes are  tightly  controlled  processes  regulated  by  hepcidin,  a  small polypeptide  hormone,  and  its  receptor,  known  as  ferroportin-an iron export protein [13].
+
+============================================================
+CHUNK 10
+============================================================
+ASSESSMENT OF IRON STATUS
+As  stated  above,  anemia  is  the  clinical  condition  most  commonly associated  with  iron  deficiency.  It  is  assessed  by  measuring  hemoglobin  levels,  hematocrit,  mean  red  blood  cell  volume  or  blood reticulocyte  counts.  In  some  cases  palm,  nail  bed  or  conjunctival pallor  have  been  used.  Because  anemia  may  have other  etiologies, confirmation of iron deficiency as a cause requires an indictor of iron status; these include ferritin, transferrin saturation, soluble transferrin receptor,  erythrocyte  zinc  protoporphyrin  levels  and  bone  marrow biopsy [14-17].
+
+============================================================
+CHUNK 11
+============================================================
+PERSONS AFFECTED AND CONSEQUENCES OF IRON DEFICIENCY
+Women and children are most adversely affected by iron deficiency and related anemia as the demands of rapid growth and pregnancy leave them more vulnerable. For women of reproductive age, menstrual iron loss accounts for approximately 0.5 mg/day [18]. During pregnancy, the iron demands for maternal and fetal growth increase from  0.8 mg/day  in  the  first  trimester,  to  7.5 mg/day  in  the  third trimester [19, 20]. Blood loss at delivery further depletes iron stores. These factors are exacerbated by early onset of childbearing, greater number of births, limited birth spacing and poor access to antenatal care,  including  dietary  iron supplements [21]. Currently, the  World Health Organization (WHO) recommends iron supplementation of 60 mg/day for six months for pregnant women as part of the standard package  of  prenatal  care,  along  with  anti-malaria  prophylaxis  as appropriate.
+Infants are at risk for developing iron deficiency, especially low birth weight and preterm infants who are born with reduced iron stores. For all  neonates, delayed cord clamping at delivery is important to optimize transfer of as much iron-rich blood from the placenta. The iron content of breast milk is low but highly bioavailable, and exclusive  breastfeeding  for the first  six  months of  life is advocated  [22], followed by use of iron-fortified complementary foods for weaning, along with prevention and rapid detection and treatment of infectious disease [23, 24]. In addition to anemia and associated effects, iron deficiency in young children compromises early childhood cognitive development [7, 9].
+
+============================================================
+CHUNK 12
+============================================================
+CONTROL OF IRON DEFICIENCY
+Current control measures include periodic deworming  of pregnant women and children for hookworm, schistosomiasis and trichuris.
+1005
+Reduction of malaria transmission in malaria endemic areas has also resulted in reduction of iron deficiency. Improved iron intake through counseling  and  promotion  of  consumption  of  iron-rich  foods  has met with limited success [25]. However, supplementation and food fortification has been successful in reducing iron deficiency in some areas [14]. Currently, control of iron deficiency remains a global priority with the primary focus being on infants and pregnant women, and renewed attention to adolescents.
+Over the last 40 years, some, but not all, studies reported that iron supplementation  increased  the  risk  of  developing,  or  reactivating, malarial  illness.  An  initial  systematic  review  and  meta-analysis  of controlled trials concluded that oral iron supplementation at WHOrecommended doses resulted in a non-significant 9% increased risk of a clinical malaria episode, a significant (17%) greater risk of infection  and  tendency  toward  higher  levels  parasitemia.  In  these  same studies, the risk of anemia in children was reduced by 50% [26]. A subsequent large-scale trial in Tanzanian children indicated that daily oral iron supplementation led to a 12% increased risk of mortality and  a  significant  (1 1%)  increased  risk  of  all-cause  hospitalization [27]. This led to the current WHO/United Nations Children's Fund (UNICEF) recommendation to restrict iron supplementation to irondeficient children in Plasmodium falciparum endemic areas. Issues have been raised with regard to the practicality of this recommendation for programs.  Moreover,  the  current  recommendation  has  been  challenged by a recent meta-analysis of 68 trials indicating limited adverse effects of iron supplementation in malaria endemic areas [28]. The role of iron-fortified foods or food additives for improving iron status are  not  yet  evaluated  for  potential  adverse  effects  on  malaria. Co-implementation of malaria control activities in conjunction with programs that increase iron intake would be prudent.
+
+============================================================
+CHUNK 13
+============================================================
+CONCLUSION
+Iron deficiency remains a serious public health problem, especially for pregnant women and children, and there is urgent need to scale-up effective  prevention  and  treatment.  This  will  require  coordinated efforts and improved implementation.
+
+============================================================
+CHUNK 14
+============================================================
+GLOBAL BURDEN OF ZINC DEFICIENCY
+Zinc is the second most abundant trace mineral in the body following iron. Because zinc and iron share similar dietary sources, deficiencies tend to coexist and zinc deficiency is similarly widespread. In contrast to  iron,  the  body does not generally  retain zinc reserves  and when daily intake falls below requirements, the onset of the adverse effects is  relatively  rapid.  Currently,  it  is  estimated  that  1  billion  persons worldwide  suffer  from  zinc  deficiency,  and  it  is  associated  with 780,000 annual deaths and 29 million disability-adjusted live years (DALYs) [29].  Similar  to  iron,  this  burden  falls  predominantly  on children and pregnant women in low income countries because of their growth needs and exposure to poor diets and diseases [29].
+
+============================================================
+CHUNK 15
+============================================================
+OVERVIEW OF ZINC BIOLOGY
+Zinc is  a  cofactor  in  more  than  200  enzymes with  myriad roles in basic  cellular  functions,  such  as  division,  programmed  cell  death, DNA replication and RNA transcription [30, 31], and also functions as an antioxidant and can stabilize membranes [32]. Multiple body functions are therefore affected by zinc deficiency, including growth, sexual maturation, neuro-behavioural development and resistance to infectious  diseases.  Zinc  status  is  particularly  important  for  tissues with  rapid  cell  turnover,  such  as  epithelial  linings  of  the  gut  and respiratory tract [33], and the immune system. Zinc affects multiple aspects of immunity, from the barrier of the skin to gene regulation within lymphocytes. While zinc deficiency impairs the normal function of cells mediating nonspecific immunity, such as neutrophils and macrophages, specific immunity mediated by T and B lymphocytes is more  strongly  affected,  as  growth  and  maturation  of  these  cells  is impaired, and basic functions, such as cytokine and antibody production are dysregulated [32].
+Clinically, even moderate zinc deficiency results in reduced physical growth,  impaired  immunity  and  decreased  resistance  to  infection. Moderate-to-severe zinc deficiency can cause hair loss,  skin  lesions, diarrhea and wasting of body tissues. Sensory functions may also be affected, including eyesight, taste and smell. In severe zinc deficiency, a wide range of disturbances occur, including severe growth retardation  and  impaired  bone  development,  along  with  delayed  sexual maturation, frequent dermatitis, impaired taste acuity and behavioral changes [34]. As indicated above, defects in the immune system result in increased susceptibility to,  and  severity  of, diarrhea,  pneumonia and malaria.
+
+============================================================
+CHUNK 16
+============================================================
+OVERVIEW OF ZINC BIOLOGY
+Several clinical trials have demonstrated the importance of zinc supplements given during acute or persistent diarrhea to reduce the severity and duration of diarrhea [35, 36]. Supplemental zinc is currently recommended as an adjunct therapy during the treatment of diarrhea in children  at  a recommended dosage equivalent  to two times the age-specific  recommended  daily  amount  (RDA)  per  day for  10-14 days. Studies strongly indicate that zinc treatment with oral rehydration therapy (ORT) is significantly more effective than ORT alone in reducing the duration and severity of diarrheal episodes, decreasing stool output and lessening the need for hospitalization. In addition, zinc may also prevent future diarrhea episodes for up to three months [37]. Further research is required for therapeutic supplementation for other infectious diseases, such as pneumonia and tuberculosis and viral infections (including HIV).
+
+============================================================
+CHUNK 17
+============================================================
+CAUSES OF ZINC DEFICIENCY
+As described above, zinc deficiency is generally caused by low dietary intake. Persons in low-income countries tend to consume diets that are predominantly plant-based, which tend to be low in both total zinc and bioavailable zinc owing to high levels of tannins and phytates that reduce absorption [38]. Deficiency can also be precipitated and/ or exacerbated by infectious diseases, such as acute or chronic diarrhea, that may affect absorption and/or loss of zinc in the feces. Viral, bacterial and protozoan pathogens, including rotavirus, Shigella and cryptosporidium  have  been  linked  to  fecal  zinc  loss,  and  subsequent deficiency [34, 38]. Non-infectious chronic diseases, including diabetes and liver and kidney diseases of multiple etiologies, also compromise zinc status [39, 40]. Lastly, certain genetic conditions can perturb zinc metabolism or limit absorption, such as sickle-cell disease, and acrodermatitis enteropathica.
+
+============================================================
+CHUNK 18
+============================================================
+ASSESSMENT OF ZINC STATUS
+Diagnosis of zinc deficiency is not as straightforward as for iron [41]. For individual persons,  this  has  generally  relied  on  depressed levels  of  plasma  zinc (typically < 70 μ g/dL but  with age,  pregnancy and  sex-specific cut-offs)  and  the  presence  of  clinical  signs  of deficiency,  such  as  loss  of  taste  or  repeated  bouts  of  infectious disease, and low intake based on dietary assessment. However, these measures are not considered definitive because of homeostatic control mechanisms  and  the  influence  of  infection  that  tends  to  depress plasma  zinc  levels  as  part  of  the  acute  phase  response.  As  such, documented  changes  in  plasma  zinc  and  related  clinical  signs  of deficiency following supplementation are recommended to confirm the diagnosis.
+Similarly, at the population level, determining zinc deficiency relies on several criteria as indicated by WHO/UNICEF/International Atomic Energy  Agency  (IAEA)/International  Zinc  Nutrition  Consultative Group (IZINCG) recommendations. These include population-based prevalence of 25% or more of zinc intakes below the estimated average requirement (EAR), 20% or more of the population with low serum zinc concentrations (based on age- and sex-specific cut-offs) or 20% or more of children less than 5 years of age with height-for-age less than -2 standard deviations (SD) below the age-specific median of the reference population. Moreover, changes in the prevalence of low plasma zinc and mean population plasma zinc levels following intervention further confirm widespread zinc deficiency. However, it is notable that because mean plasma zinc concentration usually increases following enhanced  zinc  intake,  clinical  improvement  in  population-based health, such as reduced incidence or severity of diarrhea, provides the best evidence for the improvement of zinc deficiency and status.
+
+============================================================
+CHUNK 19
+============================================================
+PERSONS AFFECTED AND CONSEQUENCES OF ZINC DEFICIENCY
+Women and children are at the greatest risk for zinc deficiency. Maternal zinc deficiency can affect the zinc nutrition of exclusively breastfed infants [42]. Mothers without zinc deficiency can satisfy a newborn's zinc requirement through the first six months of life [43]. After this age,  infants  must  consume  complementary  foods  containing  sufficient absorbable zinc. In many low-income countries, neither of these requisites is satisfied.
+The increased nutritional demands during pregnancy and lactation predispose women to developing zinc deficiency. Physiologic adjustments in zinc absorption among lactating women have been found to help meet lactation needs [44], although these compensatory adaptations are limited. Another factor of concern is iron intake, as several studies  have  demonstrated  that  supplemental  iron  (greater  than 25 mg) might decrease zinc absorption [1, 45-47].
+Infants  and  young  children  are  at  greater  risk  of  zinc  deficiency because  of  the  increased  requirements  during  growth.  Low  birth weight ( < 2500 g) infants have poor hepatic stores of zinc [48] placing them at increased risk. Likewise, in premature infants, zinc status is further compromised because most of the zinc from the mother is transferred to the fetus during the last trimester of pregnancy; premature infants also have reduced zinc absorption from their immature gastrointestinal tract. Infants in low income countries may also experience suboptimal complementary feeding practices, such as delayed introduction of foods and use of foods with low total and absorbable zinc.  Moreover,  complementary  foods  which  have  high  phytate content can interfere with zinc absorption [49].
+Adolescence  and  old  age are  additional  life  stages  affected  by  zinc deficiency. In adolescence, zinc deficiency occurs because of increased physiologic  requirements  at  the  time  of  the  pubertal  growth  spurt [50]. For the elderly, in addition to poor zinc intakes, there is some evidence  that  the  efficiency  of  zinc  absorption  my  decrease  with age [51, 52].
+
+============================================================
+CHUNK 20
+============================================================
+CONTROL OF ZINC DEFICIENCY
+The three major intervention strategies to address zinc deficiency are supplementation,  fortification  and  dietary  diversification.  Supplementation  is  further  divided  into  preventive  supplementation  and therapeutic  supplementation.  The  choice  of  intervention  depends upon  the  available  resources  and  technical  feasibility.  While  the health  benefits  of  zinc  supplementation  are  well  established  [53], health programs specifically targeted at high-risk populations are in need of expansion.
+Preventive  supplementation of  zinc  in  programs already  delivering daily or weekly nutrient supplements for prevention of iron deficiency anemia and other micronutrient deficiencies appears most feasible. Consideration of the specific form of zinc used is important as it may affect its bioavailability. In addition, supplementation programs must take into account the prevailing diet, as bioavailability of zinc in the diet is influenced by the food source, as well as other components of the  diet  that  inhibit  or  promote  absorption  of  zinc.  Continued research is required on the best forms of zinc that are both readily absorbed  and  do  not  have  antagonistic  interactions  with  other minerals.
+Dietary diversification and modification represent a sustainable longterm approach to improving the intakes of several nutrients simultaneously, including zinc. Home gardening and education interventions have been effective food-based strategies to address dietary inclusion of multiple micronutrients, and supplementation programs are useful for  targeting  at-risk  population  subgroups.  Information  on  locallyavailable,  low-cost,  culturally-acceptable  zinc-rich  foods  is  needed. Likewise, information is required on the best ways of implementing
+both  large-scale  and  home-based  food  processing  interventions  to enhance zinc absorption from the usual diet.
+In populations where zinc deficiency is widely distributed and food distribution channels are  established, food fortification  is generally the more cost-effective and sustainable strategy [54]. Success has been seen  in  fortification  programs  targeted  to  specific  high-risk  groups, such as infants and young children, in the form of infant formulas and complementary foods. Further research on improved agricultural practices including plant cultivation to enhance dietary zinc content is required.
+
+============================================================
+CHUNK 21
+============================================================
+CONCLUSION
+It is estimated that nearly one billion people in the developing world are deficient in  zinc, with another one billion at risk for deficiency [55]. In children, zinc deficiency causes an increase in infection and diarrhea, contributing to the death of about 780,000 children worldwide per year [56]. Zinc supplements are critical in treating diarrheal disease and helping to prevent diarrheal and respiratory disease (and possibly malaria), and to reduce mortality, especially among children with  low  birth  weight  or  stunted  growth.  Numerous  strategies  to address zinc deficiency exist; however, careful examination is required on the zinc absorption, acceptability and cost of fortified products.
+
+============================================================
+CHUNK 22
+============================================================
+GLOBAL BURDEN OF IODINE DEFICIENCY
+As with iron and zinc, it is estimated that two billion individuals have an insufficient iodine intake, with South Asia and sub-Saharan Africa being most affected. However, about 50% of Europe remains mildly iodine deficient, and iodine intakes in other industrialized countries, including  the  USA  and  Australia,  have  fallen  in  recent  years  [57]. Iodine  deficiency  has  multiple  adverse  effects,  termed  iodine  deficiency disorders (IDD), owing to inadequate thyroid hormone production.  Iodine  deficiency  and  associated  disorders  increase  infant mortality, miscarriage and stillbirth. IDD is the main cause of preventable mental retardation and brain damage owing, primarily, to effects on the fetus and children in the first few years of life. Globally, the annual burden of IDD includes two million DALYs [58].
+
+============================================================
+CHUNK 23
+============================================================
+OVERVIEW OF IODINE BIOLOGY
+Iodine is an essential component of thyroxine (T3) and triiodothyronine  (T4)  produced  by  the  thyroid  gland.  These  are  required  for normal  neuronal  migration  and  myelination  of  the  brain  during fetal and early postnatal life. Hypothyroxinemia during these critical periods causes irreversible brain damage, with mental retardation and neurologic  abnormalities  [59].  Gestational  iodine  deficiency  may impair fetal  growth  and  neurodevelopment and increase mortality. Deficiency during infancy and childhood reduces growth and motor functions, and impairs cognitive development. Absorption of iodide, the most readily absorbed dietary form of iodine, involves a specialized  sodium/iodine  symporter (NIS)  expressed  on  enterocytes  and cells  of  the  thyroid  [60].  A  healthy  adult  maintains  approximately 20 mg of iodine reserves, with 70% in the thyroid [61]. Adaptations to low intake include elevated thyroid-stimulating hormone (TSH) levels,  reduced  thyroid  T3  and  T4  production,  and  enhanced  NIS expression for greater uptake of iodine. This leads to the characteristic pattern onset during deficiency of elevated TSH, a low serum T4 and a  normal or high T3 [62]. Thyroid failure and cretinism is seen in areas  of  chronic  and  severe  iodine  deficiency  with  low  T4  and  T3 levels  and  highly elevated TSH [63, 64]. The  effects of iodine deficiency on development of goiter vary considerably between populations and individuals as a result of environmental, genetic and other poorly-understood factors.
+
+============================================================
+CHUNK 24
+============================================================
+CAUSES OF IODINE DEFICIENCY
+The iodine content of most foods is low, with typical servings containing  less  than  5%  of  daily  needs  [65,  66].  The  content  in  foods  is
+1007
+strongly influenced by iodine in the soil and/or in fertilizers in irrigation  and  livestock  feeds.  Marine  plants,  particularly  seaweed,  and animals concentrate iodine from seawater and tend to be good dietary sources. Other primary sources include bread and dairy products, and, particularly, iodized table and cooking salt. Certain dietary substances, termed goitrogens can interfere with thyroid metabolism and exacerbate iodine deficiency [67]. These include cruciferous vegetables, such as  cabbage, cauliflower or broccoli, and rapeseed oil - all of which contain  glucosinolates;  and  cassava,  sorghum  and  sweet  potatoes, which contain cyanogenic glucosides. In such cases, their metabolites can compete with iodine for uptake  by  the thyroid. In many  lowincome countries, particularly in sub-Saharan Africa, cassava is widely consumed and, if not properly prepared,  can exacerbate IDD [68]. Cigarette smoking is also associated with higher serum levels of thiocyanate that may limit iodine uptake by the thyroid [69]. Deficiencies of  selenium,  iron  and  vitamin  A  exacerbate  the  effects  of  iodine deficiency.
+
+============================================================
+CHUNK 25
+============================================================
+ASSESSMENT OF IODINE STATUS
+Four methods are generally recommended for assessment of iodine nutrition  in  populations:  urinary  iodine  concentration  (UI),  the goiter rate, serum TSH and serum thyroglobulin (Tg). These indicators are complementary in that UI is a sensitive indicator of recent iodine intake (days) and  Tg shows  an intermediate response (weeks-to-months), whereas changes in the goiter rate reflect longterm iodine  nutrition  (months-to-years)  [70].  However,  assessment of  iodine  status  in  pregnancy  is  difficult  and  it  remains  unclear whether iodine intakes are sufficient in this group, leading to calls for iodine  supplementation  during  pregnancy  in  several  industrialized countries [71].
+
+============================================================
+CHUNK 26
+============================================================
+PERSONS AFFECTED AND CONSEQUENCES OF IODINE DEFICIENCY
+Iodine deficiency affects nearly two billion individuals worldwide in all segments of society, with the greatest impacts on pregnant women and children. Based on a recent WHO global review [72] more than a  third  of  school-age  children  are  iodine  deficient,  the  majority  of whom live in Southeast Asia, Africa and the Western Pacific.
+The most devastating outcomes of IDD are increased perinatal mortality, mental retardation and cretinism. Iodine deficiency is the greatest cause of preventable brain damage in childhood and goiter is the most visible manifestation of IDD. If iodine deficiency occurs during the fetal stage up to the third month after birth, when much of the brain development occurs, the resulting thyroid failure will lead to irreversible alterations in brain function [73, 74]. In severely endemic areas, cretinism may affect up to 5-15% of the population.
+
+============================================================
+CHUNK 27
+============================================================
+CONTROL OF IODINE DEFICIENCY
+The most effective means of controlling iodine deficiency in populations is universal salt iodization. It is among the most cost-effective interventions to promote economic and social development in areas of iodine deficiency and has resulted in declining prevalence of IDD worldwide  [75].  Efforts  are  required  to  identify  alternative  dietary vehicles for supplementation, such as circumstances where predisposing factors may limit the consumption of iodized salt (e.g. risks of hypertension) or to increase the bioavailability for high-risk groups, such as infants and pregnant women.
+
+============================================================
+CHUNK 28
+============================================================
+CONCLUSION
+Iodine  is  crucial  for  health,  and  deficiency  during  pregnancy  is especially  harmful.  Salt  iodization  remains  the  most  cost-effective way of delivering iodine and of improving health and cognition in iodine-deficient  populations.  Worldwide,  the  annual  costs  of  salt iodization are estimated at US $0.02-0.05 per child covered; the costs per child death averted are US $1000, and per DALY gained are US $34-36 [76]. However, this intervention must be sustained and continued advocacy  and investments must be made to continue these successes.
+
+============================================================
+CHUNK 29
+============================================================
+SELENIUM
+Selenium is an essential nutrient for growth and reproduction. Biochemically, selenium is a component of the enzyme glutathione peroxidase, which, along with other nutrients, protects against damage to cellular components by preventing the accumulation of peroxides in  the  tissue  (S7).  Severe  deficiency  of  selenium  is  associated  with cardiomyopathy, especially in children and women of childbearing age [77].
+Selenium is critical for the proper functioning of the immune system [78]. Selenium deficiency is associated with decreased immune cell counts, increased disease progression and high risk of death in the HIV/AIDS population [79-81]. Moreover, HIV/AIDS malabsorption can deplete levels of many nutrients, including selenium. Selenium has antioxidant properties that help protect cells from oxidative stress, thus potentially slowing progression of the disease [82].
+Researchers continue to investigate the relationship between selenium and  HIV/AIDS,  including  the  effect  of  selenium  levels  on  disease progression  and  mortality.  Current  laboratory  experiments  have shown that selenium has an inhibitory effect on HIV in vitro through antioxidant  effects  of  glutathione  peroxidase  and  other  selenoproteins.  Moreover,  in  several  randomized  controlled  trials,  selenium supplementation has reduced hospitalizations and diarrheal morbidity,  and improved CD4 + cell  counts; however, the evidence remains equivocal [83]. Continued research is needed to study the effect of selenium supplementation on HIV disease-related comorbidities in the context of anti-retroviral therapy in both developing and developed countries [83].
+
+============================================================
+CHUNK 30
+============================================================
+CALCIUM AND MAGNESIUM
+There are significant health impacts of calcium and magnesium deficiencies. Both calcium and magnesium play important roles in bone structure, muscle contraction, nerve impulse transmission, blood clotting and cell signaling [84]. Inadequate intake of calcium results in rickets and a risk of osteoporosis, as well as hypertension and stroke. Magnesium deficiency  affects  neurologic  and  neuromuscular  function, resulting in anorexia, muscular weakness and lethargy. Calcium and magnesium deficiencies for both adults and children are widespread, especially in developing countries [85].
+For  women,  both  calcium  and  magnesium  are  known  to  play  an important role in the prevention and treatment of pre-eclampsia and eclampsia during pregnancy [86]. Pre-eclampsia is one of the most common causes of  maternal  and  fetal  morbidities  and  mortalities worldwide, with incidence rates in the range of 4-8% of all pregnancies [87, 88]. Calcium plays an important role in muscle contraction and regulation of water balance in cells, as modification of plasma calcium concentration can lead to  the alteration  of blood  pressure [89]. Magnesium is an essential cofactor for many enzyme systems and  plays  an  important  role  in  neurochemical  transmission  and peripheral vasodilatation [88]. It is well documented that lowering of serum calcium and the increase of intracellular calcium can cause an elevation  of  blood  pressure  in  pre-eclamptic  mothers.  In  addition, serum magnesium also decreases in women with preeclampsia [89].
+Recent Cochrane reviews have examined the effects of calcium and magnesium supplementation on pre-eclampsia and eclampsia during pregnancy [90, 91]. In the case of calcium, supplementation appears to approximately halve the risk of pre-eclampsia and thus reduces the risk  of  preterm  birth  [9 1].  Magnesium  sulfate  remains  the  drug  of choice  for  the  management  of  pre-eclampsia  and  has  also  been shown to reduce the risk of preterm birth [90, 92]. Moreover, magnesium sulfate given to women with eclampsia considerably reduces the risk ratio of maternal death and of recurrence of seizures, even compared with seizure-reducing drugs such as diazepam [93]. The success of supplementation programs such as these described requires continued efforts to enhance implementation and expand coverage.
+
+============================================================
+CHUNK 31
+============================================================
+FLUORIDE
+The role of fluoride in preventing tooth decay is well established [94, 95]. Despite significant successes with community-based programs, a recent review of global epidemiologic data indicates a marked increase in the prevalence of dental caries, especially in developing countries [96,  97].  Researchers  emphasize  the  need  for  focused  efforts  to promote water fluoridation, topical  fluoride  application  and  rinses and a renewed effort to include oral health within educational programs. Tooth decay is widespread and is known to disproportionately affect  lower  socio  economic  groups.  Water  and  salt  fluoridation should be implemented where deemed feasible and the use of affordable fluoride toothpastes should be encouraged.
+
+============================================================
+CHUNK 32
+============================================================
+SUMMARY
+Mineral  deficiencies  negatively  affect  billions  of  individuals  worldwide, imposing a heavy burden on wellbeing and economic productivity.  Most  prominently, deficiencies in iron,  zinc  and iodine have the largest negative impact on public health; however, other minerals, including  calcium,  magnesium,  selenium  and  fluoride,  contribute significantly to the health burden. While the causes of mineral malnutrition are complex, the primary determinant is insufficient dietary intakes. Efforts aimed at fortifying foods or providing supplements to reduce mineral deficiencies have had some success, but substantial efforts are still needed to get effective programming at scale [98]. To ensure sufficient impact, several mutually-reinforcing strategies need to be put in place to  increase access and  consumption to those in need. As most nutrient deficiencies do not occur in isolation, measures for prevention and control will need to rely on dietary diversification, as well as education to promote optimum dietary intakes.
+
+============================================================
+CHUNK 33
+============================================================
+REFERENCES
+1. Institute of Medicine, Food and Nutrition Board. Dietary Reference Intakes for Vitamin A, Vitamin K, Arsenic, Boron, Chromium, Copper, Iodine, Iron, Manganese, Molybdenum, Nickel, Silicon, Vanadium, and Zinc. Washington: National Academy Press; 2001.
+2. McDowell LR. Minerals in Animal and Human Nutrition, 2nd edn. Elsevier, Philadelphia; 2003.
+3. Gropper SS, Smith JL, Groff JL. Advanced Nutrition and Human Metabolism, 5th edn. Wadsworth: Cengage Learning; 2009.
+4. Offenbacher EG, Pi-Sunyer FX, Stoecker BJ. Chromium. In: O'Dell BL, Sunde RA, eds. Handbook of Nutritionally Essential Mineral Elements. New York: Marcel Dekker; 1997:389.
+5. O'Dell  BL,  Sunde  RA.  Handbook  of  Nutritionally  Essential  Mineral  Elements. New York: Marcel Dekker, Inc.; 1997.
+6. Ezzati M, Lopez AD, Rodgers A, Murray CJL. Comparative quantification of health risks: global and regional burden of disease attributable to selected major risk factors. Geneva: World Health Organization; 2004.
+7. McLean E, Cogswell M, Egli I, et al. Worldwide prevalence of anaemia, WHO Vitamin  and  Mineral  Nutrition  Information  System,  1993-2005.  Public Health Nutr 2009;12:444-54.
+8. Beard JL. Iron biology in immune function, muscle metabolism and neuronal functioning. J Nutr 2001;131:568-80.
+9. Beard JL. Iron deficiency alters brain development and functioning. J Nutr 2003;133:1468-72.
+10. Haas JD, Brownlie TT. Iron deficiency and reduced work capacity: a critical review  of  the  research  to  determine  a  causal  relationship.  J  Nutr  2001; 131(suppl.):676-88.
+11. Brooker  S,  Akhwale  W,  Pullan  R,  et  al.  Epidemiology  of  plasmodiumhelminth  co-infection  in  Africa:  populations  at  risk,  potential  impact  on anemia, and prospects for combining control. Am J Trop Med Hyg 2007; 77(suppl. 6):88-98.
+
+============================================================
+CHUNK 34
+============================================================
+REFERENCES
+12. Prentice AM, Ghattas H, Doherty C, Cox SE. Iron metabolism and malaria. Food Nutr Bull 2007;28(suppl. 4):S524-39.
+13. Ganz T, Nemeth E. Regulation of iron acquisition and iron distribution in mammals. Biochim Biophys Acta 2006;1763:690-9.
+14. Zimmermann  MB,  Hurrell  RF.  Nutritional  iron  deficiency.  Lancet  2007; 370:511-20.
+15. Zimmermann  MB.  Methods  to  assess  iron  and  iodine  status.  Br  J  Nutr 2008;99(suppl. S3):S2-9.
+16. Ramakrishnan  U.  Nutritional  Anemias.  CRC  Series  in  Modern  Nutrition. Boca Raton: CRC Press; 2001:260.
+
+============================================================
+CHUNK 35
+============================================================
+REFERENCES
+17. Prevention. WHOCfDCa. Assessing the iron status of populations: a report of a joint World Health Organization/Centers for Disease Control technical consultation  on  the  assessment  of  iron  status  at  the  population  level. Geneva: World Health Organization; 2004.
+18. Guillebaud J, Bonnar J, Morehead J, Matthews A. Menstrual blood-loss with intrauterine devices. Lancet 1976;307:387-90.
+19. Milman N. Iron and pregnancy - a delicate balance. Ann Hematol 2006; 85:559-65.
+20. Bothwell TH. Iron requirements in pregnancy and strategies to meet them. Am J Clin Nutr 2000;72:257-64.
+21. Kalaivani K.  Prevalence and consequences of anaemia in pregnancy. Ind J Med Res 2009;130:627-33.
+22. Allen LH. Multiple micronutrients in pregnancy and lactation: an overview. Am J Clin Nutr 2005;81:1206-12.
+23. Chaparro CM. Setting the stage for child health and eevelopment: Prevention of iron deficiency in early infancy. J Nutr 2008;138:2529-33.
+24. Chaparro CM, Neufeld LM, Tena Alavez G, et al. Effect of timing of umbilical cord clamping on iron status in Mexican infants: a randomised controlled trial. Lancet 2006;367:1997-2004.
+25. Dewey KG. Increasing iron intake of children through complementary foods. Food Nutr Bull 2007;28(suppl. 4):S595-609.
+26. Shankar AH. Malaria and nutrition. In: Semba RD, Bloem MW, eds. Nutrition  and  Health  in  Developing  Countries,  2nd  edn.  New  York:  Springer Publishing Company; 2008.
+27. Sazawal S, Black RE, Ramsan M, et al. Effects of routine prophylactic supplementation with iron and folic acid on admission to hospital and mortality in preschool children in a high malaria transmission setting: communitybased, randomised, placebo-controlled trial. Lancet 2006;367:133-43.
+
+============================================================
+CHUNK 36
+============================================================
+REFERENCES
+28. Ojukwu  JU,  Okebe  JU,  Yahav  D,  Paul  M.  Oral  iron  supplementation  for preventing or treating anaemia among children in malaria-endemic areas. Cochrane Database Syst Rev 2009;3:CD006589.
+29. Caulfield L, Black RE. Zinc deficiency. In: Ezzati M, Lopez AD, Rodgers A, Murray CJL, eds. Comparative Quantification of Health Risks: Global and Regional  Burden  of  Disease  Attributable  to  Selected  Major  Risk  Factors. Geneva: World Health Organization; 2004.
+30. Haase H, Rink L. Functional significance of zinc-related signaling pathways in immune cells. Annu Rev Nutr 2009;29:133-52.
+31. Hotz C, Brown KM. Assessment of the risk of zinc deficiency in populations and options for its control. Food Nutr Bull 2004;25:99-199.
+32. Shankar AH, Prasad AA. Zinc and immune function: the biological basis of altered resistance to infection. Am J Clin Nutr 1998;68:447S.
+33. Tuerk  MJ,  Fazel  N.  Zinc  deficiency.  Curr  Opin  Gastroenterol  2009;25: 136-43.
+34. Prasad AS. Impact of the discovery of human zinc deficiency on health. J Am Coll Nutr 2009;28:257-65.
+35. Bhutta ZA, Bird SM, Black RE, et al. Therapeutic effects of oral zinc in acute and persistent diarrhea in children in developing countries: Pooled analysis of randomized controlled trials. Am J Clin Nutr 2000;72:1516-22.
+36. Baqui AH, Black RE, El Arifeen S, et al. Effect of zinc supplementation started during diarrhoea on morbidity and mortality in Bangladeshi children: community randomised trial. BMJ 2002;325:1059.
+37. Bhutta ZA, Black RE, Brown KH, et al. Prevention of diarrhea and pneumonia by zinc supplementation in children in developing countries: pooled analysis of randomized controlled trials. Zinc Investigators' Collaborative Group. J Pediatr 1999;135:689-97.
+38. Solomons NW. Dietary Sources of zinc and factors affecting its bioavailability. Food Nutr Bull 2001;22:138-54.
+
+============================================================
+CHUNK 37
+============================================================
+REFERENCES
+39. Tudor  R,  Zalewski  PD,  Ratnaike  RN.  Zinc  in  health  and  chronic  disease. J Nutr Health Aging 2005;9:45-51.
+40. DiSilvestro  RA.  Zinc  in  relation  to  diabetes  and  oxidative  disease.  J  Nutr 2000;130:1509-11.
+41. Gibson R. Principles of Nutritional Assessment. Oxford: Oxford University Press; 2005.
+42. Dó rea  JG.  Zinc  deficiency  in  nursing  infants.  J  Am  Coll  Nutr  2002; 21:84-7.
+43. Krebs NF, Hambidge KM. Zinc requirements and zinc intakes of breast fed infants. Am J Clin Nutr 1986;43:288-92.
+44. King JC. Determinants of maternal zinc status during pregnancy. Am J Clin Nutr 2000;71:1334.
+29. 45 Whittaker  P.  Iron  and  zinc  interactions  in  humans.  Am  J  Clin  Nutr 1998;68:442-6.
+46. Hambidge KM, Krebs NF, Sibley L, English J. Acute effects of iron therapy on zinc status in pregnancy. Obstet Gynecol 1987;70:593-6.
+47. O'Brien  KO,  Zavaleta  N,  Caulfield  LN,  et  al.  Prenatal  iron  supplements impair  zinc  absorption  in  pregnant  Peruvian  women.  J  Nutr  2000;130: 2251-5.
+48. Zlotkin SH, Cherian MG. Hepatic metallothionein as a source of zinc and cystein during the first year of life. Pediatr Res 1988;24:326-9.
+49. Bell JG, Keen CL, Lö nnerdal B. Effect of infant cereals on zinc and copper absorption during weaning. Am J Did Child 1987;141:1128-32.
+50. King JC. Does poor zinc nutriture retard skeletal growth and mineralization in adolescents? Am J Clin Nutr 1996;64:375-6.
+51. Mares-Perlman JA, Subar AF, Block G, et al. Zinc intake and sources in the US adult population: 1976-1980. J Am Coll Nutr 1995;14:349-57.
+
+============================================================
+CHUNK 38
+============================================================
+REFERENCES
+52. August  D,  Janghorbani  M,  Young  VR.  Determination  of  zinc  and  copper absorption at three dietary Zn-Cu ratios by using stable isotope methods in young adult and elderly subjects. Am J Clin Nutr 1989; 50: 1457-63.
+53. The WHO/UNICEF Joint Statement May 2004 on the Clinical Management of Acute Diarrhoea. New York: The World Health Organization and United Nations Children's Fund.
+54. Edejer TT, Aikins M, Black R, et al. Cost effectiveness analysis of strategies for child health in developing countries. BMJ 2005;331:1 177.
+55. Prasad AS. Zinc deficiency. BMJ 2003;326:409.
+56. Hambidge KM, Krebs NF. Zinc deficiency: a special challenge. J Nutr 2007; 137:1101.
+57. de Benoist B, McLean E, Andersson M, Rogers L. Iodine deficiency in 2007: global progress since 2003. Food Nutr Bull 2008;29:195-202.
+58. Caulfield LE, Richard SA, Rivera JA, et al. Stunting, wasting, and micronutrient deficiency disorders 2006. In: Dean T, Jamison DT, Breman JG, et al, eds. Disease  control  priorities  in  developing  countries,  2nd  edn.  New  York: Oxford University Press; 2006:551-68.
+59. Morreale  de  Escobar  G,  Obregon  MJ,  Escobar  del  Rey  F.  Role  of  thyroid hormone during early brain development. Eur J Endocrinol 2004;151(suppl. 3):U25-37.
+60. Nicola JP, Basquin C, Portulano C, et al. The Na+/I-symporter mediates active iodide uptake in the intestine. Am J Physiol Cell Physiol 2009;296:C654-62.
+61. Fisher  DA,  Oddie  TH.  Thyroid  iodine  content  and  turnover  in  euthyroid subjects: validity of estimation of thyroid iodine accumulation from shortterm clearance studies. J Clin Endocrinol Metab 1969;29:721-7.
+62. Delange F, Camus M, Ermans AM. Circulating thyroid hormones in endemic goiter. J Clin Endocrinol Metab 1972;34:891-5.
+
+============================================================
+CHUNK 39
+============================================================
+REFERENCES
+63. Dumont JE, Ermans AM, Bastenie PA. Thyroid function in a goiter endemic. V. Mechanism of thyroid failure in the Uele endemic cretins. J Clin Endocrinol Metab 1963;23:847-60.
+64. Morreale  de  Escobar  G,  Obregon  MJ,  Escobar  del  Rey  F.  Role  of  thyroid hormone during early brain development. Eur J Endocrinol 2004;151(suppl. 3):U25-37.
+65. Pennington JAT, Schoen SA, Salmon GD, et al. Composition of core foods in the U.S. food supply, 1982-1991. J Food Comp Anal 1995;8:171-217.
+66. Haldimann M, Alt A, Blanc A, Blondeau K. Iodine content of food groups. J Food Comp Anal 2005;18:461-71.
+67. Gaitan E. Environmental goitrogenesis. Boca Raton: CRC Press; 1989.
+68. Ermans  AM,  Delange  F,  Van  der  Velden  M,  Kinthaert  J.  Possible  role  of cyanide and thiocyanate in the etiology of endemic cretinism. Adv Exp Med Biol 1972;30:455-86.
+69. Laurberg P, Nøhr SB, Pedersen KM, Fuglsang E. Iodine nutrition in breast-fed infants is impaired by maternal smoking. J Clin Endocrinol Metab 2004;89: 181-7.
+70. Delange F, de Benoist B, Pretell E, Dunn JT. Iodine deficiency in the world: where do we stand at the turn of the century? Thyroid 2001;11:437-47.
+71. Zimmerman MB. Iodine Deficiency. Endocrine Reviews 2009;30:376-408.
+72. De Benoist B, Andersson M, Egli I, et al., eds. Iodine status worldwide: WHO Global Database on Iodine Deficiency. Geneva: World Health Organization; 2004.
+73. Bleichrodt N, Born MP. A meta-analysis of research on iodine and its relationship to cognitive development. In: Stanbury JB, ed. The damaged brain of iodine deficiency. New York: Cognizant Communication; 1994:195-200.
+
+============================================================
+CHUNK 40
+============================================================
+REFERENCES
+74. Zimmermann MB. The adverse effects of mild-to-moderate iodine deficiency during pregnancy and childhood: a review. Thyroid 2007;17:829-35.
+75. World Health Organization, United Nations Children's Fund, International Council for the Control of Iodine Deficiency Disorders. Assessment of Iodine Deficiency Disorders and Monitoring Their Elimination. A Guide for Programme  Managers.  (WHO/NHD/01.1),  2nd  edn.  Geneva:  World  Health Organization; 2001.
+76. Caulfield LE, Richard SA, Rivera JA, et al. Stunting, wasting, and micronutrient  deficiency  disorders  2006.  In:  Dean  T,  Jamison  DT,  Breman  JG,  eds. Disease  control  priorities  in  developing  countries,  2nd  edn.  New  York: Oxford University Press;2006:551-68.
+77. Levander  OA.  A global view  of  human selenium nutrition. Ann Rev Nutr 1987;7:227-50.
+78. Rayman MP. The importance of selenium to human health. Lancet 2000; 356:233-41.
+
+============================================================
+CHUNK 41
+============================================================
+REFERENCES
+79. Look MP, Rockstroh JK, Rao GS, et al. Serum selenium versus lymphocyte subsets and markers of disease progression and inflammatory response in human  immunodeficiency  virus-1  infection.  Biol  Trace  Elem  Res  1997; 56:31-41.
+80. Singhal  N,  Austin  J.  A  clinical  review  of  micronutrients  in  HIV  infection. J Int Assoc Physicians AIDS Care 2002;1:63-75.
+81. Baum MK, Shor-Posner G. Micronutrient status in relationship to mortality in HIV-1 disease. Nutr Rev 1998;56:S135-9.
+82. Patrick L. Nutrients and HIV; Part One - Beta carotene and selenium. Altern Med Rev 1999;4:403-13.
+83. Stone CA, Kawai K, Kupka R, Fawzi WW. Role of selenium in HIV infection. Nutr Rev 2010;68:671-81.
+84. Food and Agriculture Organization/World Health Organization Expert Consultation. Magnesium. In: Human Vitamin and Mineral Requirements. Rome and Geneva: Food and Agriculture Organization of the United Nations and World Health Organization; 2002.
+85. Combs  GF,  Nielsen  FH.  Health  significance  of  calcium  and  magnesium: Examples from human studies. In: Cotruvo J, Bartram J, eds. Calcium and magnesium  in  drinking-water:  public  health  significance.  Geneva:  World Health Organization; 2009.
+86. American  Congress  of  Obstetricians  and  Gynecologists  practice  bulletin. Diagnosis  and  management  of  preeclampsia  and  eclampsia.  Number  33, January 2002. Obstet Gynecol 2002;99:159-67.
+87. Walker JJ. Pre-eclampsia. Lancet 2000;356:1260-5.
+88. Norwitz ER, Robinson JN, Repke JT. Prevention of preeclampsia: is it possible? Clin Obstet Gynecol 1999;42:436-54.
+89. Hofmeyr GJ, Duley L, Atallah A. Dietary calcium supplementation for prevention  of  pre-eclampsia  and  related  problems:  a  systematic  review  and commentary. BJOG 2007;114:933-43.
+
+============================================================
+CHUNK 42
+============================================================
+REFERENCES
+90. Duley L, Matar HE, Almerie MQ, Hall DR. Alternative magnesium sulphate regimens for women with pre-eclampsia and eclampsia. Cochrane Database Syst Rev 2010;8:CD007388.
+91. Hofmeyr  GJ,  Lawrie  TA,  Atallah  AN,  Duley  L.  Calcium  supplementation during  pregnancy  for  preventing  hypertensive  disorders  and  related  problems. Cochrane Database Syst Rev 2010;8:CD001059.
+92. Doyle LW, Crowther CA, Middleton P, et al. Magnesium sulphate for women at risk of preterm birth for neuroprotection of the fetus. Cochrane Database Syst Rev 2009;1:CD004661.
+93. Duley  L,  Henderson-Smart  DJ,  Walker  GJ,  Chou  D.  Magnesium  sulphate versus  diazepam  for  eclampsia.  Cochrane  Database  Syst  Rev  2010;12: CD000127.
+94. Truman BI, Gooch BF, Sulemana I, et al. Reviews of evidence on interventions to prevent dental caries, oral and pharyngeal cancers, and sports-related craniofacial injuries. Am J Prev Med 2002;23(suppl. 1):21-54.
+95. Hausen HW. Fluoridation, fractures, and teeth. BMJ 2000;321:844-5.
+96. Bagramian  RA,  Garcia-Godoy  F,  Volpe  AR.  The  global  increase  in  dental caries. A pending public health crisis. Am J Dent 2009;22:3-8.
+97. Blinkhorn AS, Davies RM. Caries prevention. A continued need worldwide. Int Dent J 1996;46:119-25.
+98. Allen L, de Benoist B, Dary O, Hurrell R. World Health Organization and Food and Agriculture Organization. Guidelines on the food fortification with micronutrients. 2006.
+PA R T
+

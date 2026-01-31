@@ -1,0 +1,86 @@
+============================================================
+CHUNK 0
+============================================================
+Key features
+- Humans are accidental hosts to the intermediate larva of marine nematodes, especially Anisakis simplex and Pseudoterranova decipiens
+- Infection results from consumption of raw or undertreated marine $sh or squid
+- The greatest burden of disease is in Japan but increased awareness of anisakidosis and adventurous eating habits have resulted in a greater worldwide distribution of disease
+- Major clinical syndromes include gastric, intestinal, extraintestinal, and allergic anisakidosis
+- Endoscopy can be used for both diagnosis and treatment of gastric anisakidosis
+- Prolonged freezing, %ash freezing at low temperatures, and adequately cooking marine $sh are e&ective for prevention
+
+============================================================
+CHUNK 1
+============================================================
+INTRODUCTION
+Humans are accidental hosts to the intermediate larval stage of several species of zoonotic intestinal nematodes, which are acquired by the consumption of raw or undercooked marine fish or squid. Anisakidosis was first recognized more than 50 years ago in a patient in the Netherlands  who  presented  with  an  eosinophilic  intestinal  lesion associated with severe abdominal pain. During the last two decades, these nematodes have been increasingly identified as causes of gastric, intestinal, and allergic syndromes in humans who have occupational exposure or frequently consume seafood.
+Most human infections are caused by Anisakis simplex (also known as the herring worm) and Pseudoterranova decipiens (cod or seal worm) [1,2]. Other less common members of the family Anisakidae are the A. simplex complex (e.g. A. pegreffi ) and the Pseudoterranova complex, as well as A. physeteris , Contracaecum spp. and Thynnascaris spp. The term  anisakidosis  refers  to  disease  caused  by  any  member  of  the family  Anisakidae,  whereas  anisakiasis  is  caused  by  worms  of  the genus Anisakis and pseudoterranovosis by the genus Pseudoterranova .
+
+============================================================
+CHUNK 2
+============================================================
+EPIDEMIOLOGY
+The annual incidence is greatest in Japan, where the consumption of raw  fish  is  common.  Of  the  approximately  20,000  reported  cases worldwide, more than 90% occur in Japan [3]. Most other cases have been  described  in  Korea  and  Europe,  especially  the  Netherlands, Germany, France, Spain and Italy. During the last two decades, there have been increasing reports from the US, Canada, Brazil, Chile, Egypt and New Zealand. The increase in prevalence of anisakidosis can be attributed to improved endoscopic diagnosis, increased consumption of raw or lightly cooked seafood, and larger populations of the definitive hosts [4]. While there have been approximately 60 cases reported in  the  US,  anisakidosis  is  most  likely  greatly  underdiagnosed  and underreported.
+Anisakidosis is associated with consuming raw, marinated, or incompletely  cooked  fish.  In  Japan,  infections  occur  more  frequently  in coastal populations and in men aged 20 to 50 years. Fish served in sushi  bars  tend to be  less  contaminated or even free of Anisakis as sushi  chefs  are  experts  in  identifying  larval  infestation.  The  risk  of infection  is  greater  with  less-expensive  marine  fish  such  as  cod, herring, mackerel and squid that are more frequently consumed at home or in local restaurants. The main fish species responsible for anisakiasis  in  Japan  are  mackerel  and  squid.  In  the  Netherlands, herring is mainly responsible; in the US, Pacific salmon; and in Spain, pickled  anchovies.  Pseudoterranovosis  rarely  occurs  in  Japan  and Europe. By contrast, it is more frequent in the US and Canada where P. decipiens is mainly transmitted by the Atlantic or Pacific cod, Pacific halibut, and red snapper.
+Limited data from seafood markets suggest that substantial proportions of fish are infected with third-stage larvae (L3) of A. simplex . In Spain,  greater  infection  rates  in  fish  from  the  Atlantic  Ocean  are present than in those from the Mediterranean Sea. A substantial proportion  of  cod  harvested  in  the  Atlantic  Ocean  is  infected  with P. decipiens (Fig. 121.1).
+FIGURE 121.1 Pseudoterranova decipiens larvae embedded in the +esh of Atlantic cod.
+
+============================================================
+CHUNK 3
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+The  adult  worm  is  found  in  the  stomachs  or  intestines  of  marine mammals such  as  whales,  dolphins,  sea  lions,  and  seals  [5].  Eggs hatch in seawater to form free-living larvae (L2) that infect intermediate hosts, usually crustaceans, e.g. krills (Fig. 121.2). Within the first intermediate host, the parasite matures into L3 larvae which are subsequently ingested by marine fish or squid, which serve as transport (second intermediate) hosts. The third-stage larvae migrate into the viscera, peritoneal cavity and musculature of this host. Ingestion of uncooked fish or squid by a marine mammal (final host) or humans (accidental hosts) leads  to infection. The  nematode  larvae  develop into fourth-stage larvae and then adults in the marine mammal final host.
+Primary  hosts  for Anisakis are  dolphins,  porpoises,  and  whales. Primary hosts for P. decipiens are seals, walruses, and sea lions.
+After ingestion of raw or undercooked saltwater fish by humans, the larvae embed themselves in the gastric or intestinal mucosa and then die. The burrowing or dead larva precipitates an intense hypersensitivity  reaction  characterized  by  a  granulomatous,  eosinophilic  tissue infiltrate. A Th2 immune response has been demonstrated in humans, with mucosal and submucosal inflammatory infiltrate composed of eosinophils and lymphocytes.
+
+============================================================
+CHUNK 4
+============================================================
+CLINICAL FEATURES
+There are four major clinical syndromes in humans: gastric, intestinal, ectopic (or extra-gastrointestinal), and allergic [3]. Infection with P.
+FIGURE  121.3 Third-stage  larva  of Anisakis  simplex burrowing  into  the gastric  mucosa.  Surrounding  erythema  and  edema  of  the  mucosa  are evident. (Endoscopic  view  courtesy  of Drs  Tomohiro  Kato  and  Itaru  O-I, Department of Medicine, Daini Hospital, Tokyo Women's Medical University.)
+decipiens usually involves only the stomach and tends to be milder than  disease  due  to Anisakis spp.,  which  may  cause  symptomatic gastric or intestinal infections. Asymptomatic infections with Pseudoterranova spp.  may  come  to  medical  attention  when  the  patient coughs up a live or dead worm. This usually occurs within 48 hours of the ingestion of infected fish and may be preceded by a sensation of  feeling  a  worm  crawling  in  the  upper  esophagus  or  pharynx, termed 'tingling throat syndrome'.
+Gastric anisakiasis is heralded by the abrupt (generally 1-12 hours after  ingestion  of  raw  fish)  onset  of  severe  epigastric  pain,  nausea, vomiting, and low-grade fever (Fig. 121.3). There is frequently leukocytosis with intense eosinophilia. Untreated gastric disease may lead to  chronic,  ulcer-like  symptoms  and  can  be  more  difficult  to diagnose.
+Intestinal  anisakiasis  is  characterized  by  intermittent  or  constant abdominal pain that may be severe enough to result in peritoneal signs or a partial bowel obstruction. Symptoms may not appear until 5 to 7 days or longer after ingestion of the anisakid larvae. Intestinal infections  predominantly  occur  in  the  terminal  ileum;  colonic  or jejunal  involvement  is  less  common.  Rare  complications  include small bowel obstruction, ileal stenosis, intussusception, intestinal perforation, and pneumoperitoneum.
+
+============================================================
+CHUNK 5
+============================================================
+CLINICAL FEATURES
+Ectopic, extra-gastrointestinal and intraperitoneal anisakiasis are less common complications which result from an anisakid larva penetrating  the  full  thickness  of  the  stomach  or  intestine.  This  can  lead to larval migration within the peritoneal cavity and, less commonly, the pleural cavity, mesentery, liver, pancreas, ovary, and subcutaneous tissue.
+Anisakidosis may be associated with a strong allergic response [6]. Generally  within  1  to  2  hours  after  the  ingestion  of  infected  fish, allergic reactions develop with manifestations ranging from urticaria and isolated angioedema to anaphylaxis. Allergic reactions are accompanied by high levels of IgE including specific antiA. simplex IgE. High levels  of  fish  consumption  and  occupational  exposure  (e.g.  fish processing) are associated with increased risk of allergy to A. simplex .
+
+============================================================
+CHUNK 6
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+A history of recent consumption of raw or inadequately prepared fish or squid followed by the acute onset of epigastric or right lower quadrant  abdominal  pain  provide  important  diagnostic  clues.  Gastroscopic or surgical removal and examination of the larva provides a definitive diagnosis of gastric anisakidosis. Besides directly visualizing the  worm  embedded  in  the  gastric  mucosa,  endoscopy  can  reveal erythema, edema, erosions, a tumor-like nodule, or thickened gastric folds, which can suggest a diagnosis of lymphoma or gastric cancer.
+Gastric anisakidosis can be misdiagnosed as a peptic ulcer, gastritis, or  gastric carcinoma. As a  result of the  vague  symptoms associated with  intestinal  infections,  the  differential  diagnosis  is  broad  and includes appendicitis, ileitis, diverticulitis, eosinophilic gastroenteritis,  cholecystitis,  colonic  tumor,  and  inflammatory  bowel  disease. Extraintestinal  infections  may  be  confused  with  acute  peritonitis, tuberculous peritonitis, and pancreatic cancer.
+Detection of antiA. simplex IgE by ELISA, latex agglutination, or other immunoassays can be used for the serodiagnosis of anisakiasis, but is  not  commercially  available  [6,7].  The  diagnosis  of  allergy  to A. simplex should  be  based  on  the  following:  a  compatible  history  of allergic reactions after consumption or exposure to fish; positive skinprick test; elevated specific antiA. simplex IgE; and a lack of reaction to  fish  proteins.  Multiplex  PCR  methods  have  been  developed  for identification of specific marine nematodes species in fish, but these are not available for human use.
+
+============================================================
+CHUNK 7
+============================================================
+TREATMENT
+Endoscopic extraction is the preferred treatment of gastric anisakidosis unless the larva is spontaneously regurgitated. Surgical removal of the larvae may be necessary for intestinal or extraintestinal infections, especially if complications such as intestinal obstruction, appendicitis, or peritonitis occur. If the diagnosis of intestinal anisakidosis can be established without the need for an invasive procedure, then conservative,  supportive  therapy  will  often  lead  to  clinical  resolution. Limited evidence suggests that albendazole (400 to 800 mg daily for 6 to 21 days) is effective [8].
+
+============================================================
+CHUNK 8
+============================================================
+PREVENTION
+The best protection against anisakidosis is to avoid consumption of raw  or  inadequately  cooked,  marinated,  or  salted  marine  fish  or squid.  The  risk  of  human  infection  can  also  be  reduced  by  visual examination of fish,  extraction  of  visible  parasites,  and  removal  of heavily parasitized fish from the market. Eviscerating fish as soon as possible after catch may decrease the number of larvae in the fish flesh by preventing migration from the intestinal tract into the edible musculature. Additional protective measures include thorough cooking, freezing  at -20°C  ( -4°F)  for  7  days,  or  blast  freezing  to -35°C ( -31°F) for 15 hours or longer.
+
+============================================================
+CHUNK 9
+============================================================
+REFERENCES
+1. Audicana MT, Kennedy MW. Anisakis simplex : from obscure infectious worm to inducer of immune hypersensitivity. Clin Microbiol Rev 2008;21:360-79. This  review  presents  a  comprehensive  summary  of  the  immunopathogenesis  of anisakiasis.
+2. McClelland G. The trouble with sealworms ( Pseudoterranova decipiens species complex, Nematoda): a review. Parasitology 2002;124:S183-203.
+3. 3.
+4. Hochberg N, Hamer DH. Anisakidosis:  perils  of  the  deep.  Clin  Infect  Dis 2010;51:806-12. This  is  a  recently  published  comprehensive  review  of  the  epidemiology,  clinical manifestations, treatment and prevention of anisakidosis.
+4. Chai JY, Murrell KD, Lymbery AJ. Fish-borne parasitic zoonoses: Status and issues. Int J Parasitol 2005;35:1233-54.
+5. Ishikura H, Kikuchi K, Nagasawa K, et al. Anisakidae and anisakidosis. Prog Clin Parasitol 1993;3:43-102.
+6. Audicana  MT,  Ansotegui  IJ,  de  Corres  LF,  Kennedy  MW.  Anisakis  simplex: dangerous - dead and alive? Trends Parasitol 2002;18:20-5. This brief review provides an excellent overview of anisakiasis with an emphasis on the role of this parasite as a cause of food allergy in Spain and methods for diagnosis of allergy to A. simplex .
+7. Ló pez-Serrano MC, Gomez AA, Daschner A, et al. Gastroallergic anisakiasis: findings in 22 patients. J Gastroenterol Hepatol 2000;15:503-6.
+8. Pacios E, Arias-Diaz J, Zuloaga J, et al. Albendazole for the treatment of anisakiasis ileus. Clin Infect Dis 2005;41:1825-6.
+

@@ -1,0 +1,194 @@
+============================================================
+CHUNK 0
+============================================================
+Key features
+- Plague is a deadly zoonosis caused by the bacterium Yersinia pestis
+- Historically, the rat )ea has been a prime vector for causing human plague
+- Human plague most commonly manifests as febrile lymphadenitis (bubonic plague). Primary pneumonic, septicemic and ingestional plague also occur
+- Untreated bubonic plague evolves toward septicemic plague and pneumonic plague with death occurring in less than seven days
+- Plague has had a huge impact on humanity and resulted in the death of one third of the population of Western Europe in the Middle Ages
+- The current global plague pandemic is now over a century old, and involves cases in Asia, Africa and America
+- Diagnosis usually rests on clinical suspicion, antigen dipsticks and culture
+- Treatment involves gentamicin, streptomicin, and/or doxycycline
+- Prevention usually involves limiting human-rodentzoonotic-ectoparasitic interactions
+
+============================================================
+CHUNK 1
+============================================================
+INTRODUCTION
+Plague is a deadly zoonosis caused by Yersinia pestis [1], a bacterium first isolated in 1894 by Alexandre Yersin in Hong Kong at the outset of the most recent pandemic which is still ongoing [2]. Plague is a reportable and quarantinable disease covered by national and international health regulations. Plague has had a huge impact on humanity. It was probably the cause of the Justinian plague of the 6th century and was the cause of the Black Death plague in Europe in the Middle Ages that claimed one third of the population [3]. The current pandemic began in Asia in the end of the 19th century and now involves the  Old  and  New  World. Yersinia  pestis genotyping  indicates  that ancient Y.  pestis organisms belonged to the Orientalis biotype, suggesting that this biotype was responsible for all three historical pandemics and that it may have the unique capability to rapidly spread in human populations over large geographic areas [3].
+
+============================================================
+CHUNK 2
+============================================================
+PLAGUE CYCLES
+Yersinia pestis exists in a number of transmission cycles. Any of the five recognized biotypes can circulate in rodents, causing  epozooties of limited geographic extension. Such epizooties can lead to  sporadic human cases involving any of  the five  biotypes.  Focal  and  limited human outbreaks can also occur with any of the five biotypes as a result  of  the  exposure  of  humans  in  a  limited  period  of  time  to infected animals, or because of limited direct or vector-borne interhuman transmission. In comparison, extensive and ongoing human outbreaks have been associated with the Orientalis biotype, including the current worldwide pandemic.
+
+============================================================
+CHUNK 3
+============================================================
+ANIMAL INFECTION
+Yersinia pestis can persist in soil for several months; this attribute may contribute to the long-term persistence of plague foci and may be a primary source of infection for burrowing rodents [4]. More than 200 species of rodents can be infected by Y.  pestis ,  with plague-resistant species being regarded as reservoirs for Y. pestis [1, 5]. Several ectoparasites, including ticks, have been found to be naturally infected with Y. pestis, but fleas are thought to be the vector of primary importance. One hundred and thirty-one species of fleas are the most common vectors of Y. pestis among rodents [1, 5]. Fleas are particularly effective at transmitting Y. pestis , as ingested Y. pestis bacteria express plasminogen  activator  Pla  that  leads  to  blockage  of  the  flea  proventriculus, facilitating both increased hunger and therefore attempted feeding of the flea, and contamination of regurgitated blood back into the bite site [1]. Yersinia pestis has evolved numerous mechanisms to suppress inflammatory  responses  in  plague-resistant  hosts,  promoting  high blood concentrations (up to 10 8 organisms/ml) and facilitating successful transmission via the small amount of blood ingested by a flea (10 -4 ml).
+Carnivores can be infected after ingestion of contaminated rodents, but  dogs  and  canids  are  resistant  to  plague  [6]  (Fig.  72.1).  The complex  life  cycle  of Y. pestis involving  soil,  ectoparasites  and mammals results in a variable prevalence of animal plague (enzoonosis) with sudden outbreaks of dying-off in plague-susceptible animals (epizoonoses).
+
+============================================================
+CHUNK 4
+============================================================
+HUMAN PLAGUE (FIG. 72.2)
+Inoculation by an infectious flea bite can result in bubonic plague. Infectious fleas often leave dead rodents and will drink human blood if  rodents are not available. Fleas must have a daily blood meal in order to survive-the risk of being bitten by infected fleas is especially high after large numbers of plague-infected rats have died [1].
+Inoculation through skin lacerations may result in bubonic or septicemic plague after handling (typically skinning) of dead animals [6].
+Inhalation  of Y.  pestis leads  to  primary  pneumonic  plague,  and involves inhalation of large droplets after close contact ( < 1.5 meters) with infected cats or a patient coughing copious amounts of bloody sputum. The average number of secondary cases per primary inhalational case is 1.3 [7, 8].
+Ingestion of Y. pestis has been observed after consumption of raw or poorly  cooked contaminated food, with contaminated camel meat and liver  being  the  most  frequently  reported  source  of  food-borne transmission [6].
+Human  ectoparasitic  transmission  may  be  an  under-appreciated route of human-to-human transmission that may have played a key
+Dead r
+FIGURE 72.1 Reservoirs and transmission of animal plague.
+role  during  historical  epidemics  [9].  Transmission  by  the  anthropophilic  flea Pulex  irritans and  by  the  human  body-louse Pediculus humanus has been suggested during familial cases of plague [10], the latter being supported by experimental evidence [1 1].
+
+============================================================
+CHUNK 5
+============================================================
+GEOGRAPHIC DISTRIBUTION OF HUMAN PLAGUE
+A soil reservoir and the relative resistance of various rodent species may explain why plague regularly re-emerges in long-lasting plague foci in all continents except Antartica and Oceania (Fig. 72.3). During the last 15 years, at  least  8 geographic areas  have  experienced outbreaks of human plague after silent periods of 30-50 years: India in 1994, Zambia in 1996, Indonesia in 1997, Algeria in 2003 and 2009, Congo in 2005, Uganda in 2006, and Lybia and China in 2009. The
+World Health Organization (WHO) 2009 update indicated that, in 2007, 966 cases were reported in the Congo, 700 in Zambia, 591 in Madagascar, 257 in Uganda, 59 in Tanzania, 7 in the USA, and one in Mongolia [12] (Fig. 72.3). Plague can therefore be considered a re-emerging disease, mainly contracted during outdoor professional and recreational activities, contrary to what had been observed during the large historic urban outbreaks of the preceding centuries. In the USA, it has been shown that activities with close extended contacts with pet dogs (such as sleeping in the same bed as a pet dog) were significantly associated with plague [13]. In Europe, no human cases have been recently reported, but animal plague is still present along the western banks of the Caspian Sea. In all geographic areas, a seasonal pattern  of  human  plague  is observed,  although  the  seasonal pattern is different from one geographic area to another, even within the same country [6].
+with with fleas
+hes pellent
+icts <1.5m olation
+le ne
+Dead animals
+FIGURE 72.2 The sources and prevention of human plague.
+
+============================================================
+CHUNK 6
+============================================================
+YERSINIA PESTIS
+The gamma-proteobacteria Y. pestis (genome size, 4.60-4.65 Mb) may have emerged 20,000 years ago by reductive evolution from Yersinia pseudotuberculosis (genome size, 4.72 Mb) [14]. Genome sequencing has identified  numerous insertion sequences, evidence of intra  genomic recombination and lateral gene transfer, and remnants suggestive of a previous enteric lifecycle. A 70-75-kb plasmid common to all pathogenic Yersinia species (termed pCD1, pCad, pVW, pYV or pLcr plasmid) encodes a type III secretion system (Yops for ' Yersinia Outer Proteins') and V antigen. A 100-1 10-kb plasmid (termed pFra/Tox, pFra, pTox, pMT1 or pYT plasmid) encodes the capsular F1 glycoprotein antigen and the Yersinia murine toxin Ymt. A 9.5-kb plasmid (termed pPst, pPla, pPCP1 or pYP plasmid) encodes the plasminogen activator Pla (which is  thought to promote the systemic spread of Y.  pestis from peripheral sites) and pesticin, a bacteriocine involved in iron capture in mammalian hosts [1]. Not all field isolates harbor the three plasmids, which are unstable during laboratory culture; new plasmids have been  characterized,  unsurprisingly  illustrating  the  plasticity  and ongoing evolution of Y. pestis [5]. Other virulence factors encoded on the chromosome are associated with the lipopolysaccharide endotoxin and with iron uptake-giving the pigmentation of colonies grown on Congo red medium. Yersinia pestis is a non-sporulated, aerobic, Gramnegative,  oxidase-negative,  urease-negative,  catalase-positive
+
+============================================================
+CHUNK 7
+============================================================
+YERSINIA PESTIS
+bacillus growing slowly at 28°C, pH 7.4. Biochemical profiling distinguishes nine biovars which have been proposed as subspecies, including Y. pestis subsp. pestis and additional subspecies angola , altaica , caucasica , hissarica , quinghaiensis , talassica , ulegeica and xilingolensis , organisms of unknown pathogenicity isolated from various rodent species in Angola (subspecies angola )  and Central Asia [5]. Yersinia  pestis subsp. pestis organisms biotype Antiqua are glycerol and nitrate reduction-positive, Medievalis  are  glycerol-positive  and  nitrate  reduction-negative,  and Orientalis are glycerol-negative and nitrate reduction-positive. Microtus  biotype  organisms  have  been  proposed  to  include  rhamnosepositive rodent strains, while rhamnose-positive, Antiqua-like isolates occasionally isolated from patients in China could form a fifth biotype: Intermedium [15]. Yersinia  pestis subsp. pestis Orientalis  isolates  are unique in their capacity to stabilize a bacteriophage contributing to the pathogenicity in their chromosome [16].
+
+============================================================
+CHUNK 8
+============================================================
+PATHOGENESIS
+In humans, the ectoparasite's bite results in discrete local inflammation  and  spreading  by  the  lymphatic  route  towards  the  regional
+FIGURE 72.3 (A) The global distribution of plague 1994-2009, featuring the countries with known presence of plague in animal reservoirs and the countries where human plague has been either published or declared to the WHO (*, sporadic cases). Countries with human plague cases prior to 1994 are not listed. Compiled from the WHO and MedLine databases. (B) Annual regional incidence of human plague 1987-2008.
+lymph node. Overwhelming bacterial growth in the node results in the so-called 'bubo' and Y.  pestis further disseminates via the lymphatic  and  blood  vessels  to  the  spleen  and  liver  and  can  cause  a rapidly fatal septicemia, with dissemination in the lung resulting in secondary pneumonic plague, and in the meninges and cerebrospinal fluid (CSF), causing meningitis. Hematogenous dissemination of the bacteria to other organs and tissues may cause intravascular coagulation and endotoxic shock. During this process, Y. pestis rapidly multiplies  in  human  tissues  because  it  protects  itself  from  the  human immune system by serum resistance and evasion from innate immune functions. Yersinia  pestis is  a  facultative  intracellular  bacterium  that multiples within macrophages [15].
+
+============================================================
+CHUNK 9
+============================================================
+CLINICAL FEATURES OF PLAGUE
+People of all ages and both genders are susceptible to plague, although recently, most cases have been reported in children with a small predominance for males over the last decade [6]. It remains controversial whether the CCR5Delta32 mutation, the one which confers resistance to HIV infection, also confers resistance to plague [17].
+Bubonic plague is the most frequent clinical form of plague, developing 2-10 days after inoculation of Y. pestis [6]. It features chills, fever, myalgias, arthralgias, weakness  and  a  painful, tender, swollen, enlarged  lymph  node  referred  to  as  a  'bubo'  draining  the  site  of inoculation  (Fig.  72.4).  The  femoral  and  inguinal  nodes  are  most
+FIGURE 72.4 Patient with right inguinal and femoral buboes.
+frequently  involved  (bubo  is  Greek  for  'groin'),  followed  in  frequency by axillary and cervical nodes. Careful examination may reveal local skin inflammation at the site of the ectoparasite's bite with a papule, pustule, scab or ulcer. The bubo of plague is clinically distinguishable from enlarged lymph nodes owing to other causes by its association with systemic signs of toxemia and its rapid onset. Moreover,  plague  is  the  only  cause  of  clustered  cases  of  febrile,  enlarged lymph nodes, leading to its unambiguous diagnosis in this situation. Bubonic  plague  usually  rapidly  responds  to  appropriate  antibiotic therapy with the lymph node remaining enlarged and tender for one week. If untreated with an effective antibiotic, the patient will become increasingly toxic and will develop a septicemic form of plague, with a mortality risk of 50-90%.
+Septicemic  plague  is  usually  secondary  to  the  bubonic  form  and features  a  rapidly  progressive,  overwhelming  toxemia.  The  patient may present with gastrointestinal symptoms including nausea, vomiting, diarrhea and abdominal pain which may confuse the diagnosis. In the absence of rapid supportive therapy combined with effective antibiotic treatment, septicemic plague is fulminate and fatal.
+
+============================================================
+CHUNK 10
+============================================================
+CLINICAL FEATURES OF PLAGUE
+Pneumonic  plague  is  the  most  rapidly  fatal  form;  the  incubation period for primary pneumonic plague is 1-3 days after contact with a  coughing patient.  Onset  is  sudden,  with  chills,  fever,  chest  pain, cough, dyspnea and hemoptysis. Case fatality rates exceed 40% within three days despite treatment. Pneumonic plague has been responsible for limited outbreaks lasting a few weeks.
+Other clinical forms include meningeal plague, an unusual form following  insufficiently  treated  bubonic  plague.  Pharyngitis  is  a  rare form  diagnosed  in  patients  who  consumed  raw  or  poorly  cooked contaminated meat, such as camel meat, and features anterior cervical lymphadenitis. Pleuritis, endophthalmitis and myocarditis are exceptional forms of plague.
+
+============================================================
+CHUNK 11
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+Plague should be considered in any patient returning from, or living in, a country with active plague epizoonoses who presents with febrile adenitis.  In  this  circumstance,  it  is  useful  to  rapidly  collect  whole blood in three successive blood culture bottles, as  well  as sputum, urine  and  lymph  node  fluid.  Lymph  node  fluid  can  be  sterilely obtained using saline for aspiration [6]. More rarely,  CSF  could be collected if clinically indicated. Additional environmental specimens may include any ectoparasite found on the patient's body and clothes, as  well  as  specimens  from  any  animal  suspected  to  be  a  potential source of infection. Clinical and environmental specimens should be handled in a Biosafety  Level  (BSL)-2 laboratory,  but  handling  and culture  of Y.  pestis requires  a  BSL3  laboratory.  Plague  is  usually  a reportable and quarantinable disease covered by national and international health regulations.
+Point-of-care diagnosis usually involves using a  commerciallyavailable  dipstick  immunochromatographic  assay  detecting  the  F1 capsular antigen [18]. This dipstick assay has been applied to urine, whole  blood,  bubo  pus  and  sputum.  It  takes  a  few  minutes  and exhibits  a  98.4%  specificity  and  90.1%  sensitivity  for  serum,  and 100%  for  bubo  fluid.  Direct  microscopic  examination  of  clinical specimens  after  Gram  staining  is  another  technique  for  the  rapid diagnosis of plague, and involves detection of Gram-negative bacilli exhibiting  a  characteristic  bipolar  staining  with  a  'hairpin  appearance' (Fig. 72.5). PCR-based assays are also available [19].
+Isolation and culture of Y. pestis is performed  by  incubating cultures at 32°C under a 5% CO2 atmosphere for 1-4 days. Because slow growth is observed on MacConkey agar, other selective media, including  the  cefsulodin-Irgasan-novobiocin  (CIN)  and  beef  heartIrgasan-novobiocin (BIN)  agar  have  been  developed  [20].  The identification  of Y. pestis can  be  achieved  rapidly  using  immunochromatographic  detection  of  the  F1  antigen  on  colonies  [21]. Rapid  identification  using  peptidic  profiling  by  mass  spectrometry
+
+============================================================
+CHUNK 12
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+FIGURE 72.5 Yersinia  pestis :  Gram-staining  appearance (A) and  colonies grown on blood-agar (B) .
+is also effective (M. Drancourt and D. Raoult, personal communication).
+Antibiotic susceptibility  testing  should  be  performed  as  a  few antibiotic-resistant  strains  have  emerged  in  Madagascar  [22].  One strain  was  resistant  to  eight  antimicrobial  agents,  including  those recommended for therapy (streptomycin, chloramphenicol and tetracycline)  and prophylaxis  (sulfonamide  and tetracycline),  as well  as ampicillin, kanamycin and spectinomycin. A second strain was only resistant to streptomycin. In these strains, all of the resistance genes were carried by conjugative plasmids of approximately 150 kb and 40 kb respectively [22]. Horizontal gene transfer in the flea may be the source of antibiotic-resistant Y. pestis strains isolated from plague patients in Madagascar [22]. Ampicillin and tetracycline-resistant isolates have been identified in fleas and rats in Madagascar [22], whereas the 150-kd plasmid backbone was shown to be broadly disseminated among multidrug-resistant zoonotic pathogens associated with agriculture [23]. Experimental data indicate that Y. pestis strains resistant to  fluoroquinolones  could  be  easily  selected  in  the  laboratory,  but such strains have not been found in the clinical setting.
+
+TABLE 72-1 Antibiotic Treatment of Plague (Evidence Category: 1 = double blind study; 2 = clinical trial > 20 subjects; 3 = clinical trial < 20 subjects; 4 = series; 5 = anecdotal case reports)
+
+============================================================
+CHUNK 13
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+Doxycyline, Regimen: adults = 100 mg orally twice a day. Doxycyline, Regimen: children = 100 mg per os twice a day. Doxycyline, Duration (days) = 7. Doxycyline, Evidence = 2. Gentamicin, Regimen: adults = 2.5 mg/kg IM twice a day. Gentamicin, Regimen: children = 2.2 mg/kg per os twice a day. Gentamicin, Duration (days) = 7. Gentamicin, Evidence = 2. Tetracycline, Regimen: adults = 1 g orally, 4 times daily. Tetracycline, Regimen: children = -. Tetracycline, Duration (days) = 10. Tetracycline, Evidence = 4. Streptomycin, Regimen: adults = 15 mg/kg IM twice a day. Streptomycin, Regimen: children = as adult regimen. Streptomycin, Duration (days) = 10. Streptomycin, Evidence = 4. Trimethoprim-sulfamethoxazole, Regimen: adults = 160/800 mg twice a day. Trimethoprim-sulfamethoxazole, Regimen: children = as adult regimen. Trimethoprim-sulfamethoxazole, Duration (days) = 7-10. Trimethoprim-sulfamethoxazole, Evidence = 3, 4. Chloramphenicol, Regimen: adults = 25 mg/kg IV loading dose; 15 mg/kg 4 times daily. Chloramphenicol, Regimen: children = as adult regimen. Chloramphenicol, Duration (days) = 7-10. Chloramphenicol, Evidence = 5. CiproCoxacin, Regimen: adults = 15 mg/kg 4 times daily. CiproCoxacin, Regimen: children = -. CiproCoxacin, Duration (days) = 7-10. CiproCoxacin, Evidence = 5. IM, intramuscularly; IV, intravenously., Regimen: adults = IM, intramuscularly; IV, intravenously.. IM, intramuscularly; IV, intravenously., Regimen:
+
+============================================================
+CHUNK 14
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+children = IM, intramuscularly; IV, intravenously.. IM, intramuscularly; IV, intravenously., Duration (days) = IM, intramuscularly; IV, intravenously.. IM, intramuscularly; IV, intravenously., Evidence = IM, intramuscularly; IV, intravenously.
+Typing of Y. pestis is done by testing nitrate reduction, glycerol assimilation and rhamnose assimilation to determine biotype [15]; molecular typing can be done by single nucleotide polymorphism analysis, regions of deletion analysis, clustered regularly interspaced short palindromic repeats analysis, multiple loci variable number of tandem repeats (VNTR) analysis [15], multilocus sequence typing, restriction fragment  length  polymorphism  (RFLP)  analysis  and  multispacer sequence  typing  analysis  [3].  VNTR  analysis  has  proved  useful  in identifying sources of human exposure [24].
+Serology  using  modern  techniques  is  useful  to  measure  seroprevalence in sentinel animals and could be used for the rapid diagnosis of patients for whom serum is the only available specimen, during outbreaks [25].
+
+============================================================
+CHUNK 15
+============================================================
+TREATMENT
+Rapid  administration  of  an  effective  antibiotic  to  patients  with suspected plague is mandatory. Streptomycin, the historical reference antibiotic still used  in Madagascar, is no  longer available in most countries. Gentamicin alone, or in combination with a tetracycline,  is  an  acceptable  substitute  [26]  (Table  72.1).  Gentamicin and  doxycycline  were  shown  to  be  equivalent  in  curing  patients, except  in  terminal  stage  disease  [27].  Fluoroquinolones,  as  well as  cephalosporins,  are  effective  in  animal  models,  yet  they  are  not recommended  as,  with  the  exception  of  a  single  reported  case  of plague successfully treated with ciprofloxacin [6], there are no clinical data addressing their efficacy. Antibiotic treatment should be continued for 10 days. Improvement  is  clinically evident 2-3  days after  initiation  of  antibiotics,  although  fever  may  persist  for  a  few more days.
+Supportive therapy should be undertaken in case of septic shock and septicemic plague.
+
+============================================================
+CHUNK 16
+============================================================
+PREVENTION AND CONTROL
+Before exposure to Y.  pestis ,  primary  prevention  relies  on:  avoiding areas with known epizootic plague; avoiding apparently sick and dead animals; reporting such animals to the health department and avoiding  exposure  to  rats  and  fleas  from  diseased  rats  or  other  rodents, including use of protective clothes and repellents to avoid exposure to ectoparasites when outdoors; applying insect repellent containing N,N-Diethyl-meta-toluamide  (DEET)  to  legs  and  ankles;  applying repellents and insecticides to clothes and outer bedding; using gloves for  the  manipulation  of  dead  animals  and  carcasses,  and  cooking meat  on  an  open-flame  grill  or  on  a  clam-shell  type  electric grill [28].
+Vaccines (live  attenuated Y.  pestis EV76 strain;  formalin-inactivated, whole-cell plague; heat-killed whole-cell plague; F1 fraction) can be administrated by aerosol (EV76), subcutaneously (EV76; heat-killed CSL vaccine; CSL Ltd, Victoria, Australia) or intramuscularly (formalininactivated Greer vaccine; Greer Laboratories Inc., NC, USA) [29]. The F1  fraction  vaccine  appears  to  have  low  efficacy  ( < 60%)  and  side effects in 35% of vaccines. There is not enough evidence to eva  luate the  effectiveness  of  any  plague  vaccine  or  the  relative  effectiveness between vaccines and their tolerability. Circumstantial data from observational studies suggest that killed vaccines may be more effective against bubonic plague and have fewer adverse effects than attenuated vaccines. No evidence is available regarding the long-term effects  of  any  plague  vaccine  and  their  role  in  controlling  plague outbreaks [29].
+
+============================================================
+CHUNK 17
+============================================================
+PREVENTION AND CONTROL
+In  the  case  of  potential  exposure  to Y.  pestis ,  secondary  prevention relies on the administration of tetracycline or trimethoprimsulfamethoxazole to people who are bitten  by  fleas  during  a  local outbreak  or  who  are  exposed  to  tissues  or  fluids  from  a  plagueinfected animal, people living in a household with a bubonic plague patient (as they may also be exposed to infected fleas), and people in close contact with a person or pet with suspected pneumonic plague [26]. Recent evaluation indicates that doxycycline should be considered  as  a  first-line  antibiotic  in  the  management  of  bioterrorism agents,  including Y.  pestis [30].  For  a  mass  casualty  situation,  oral therapy with doxycycline, tetracycline or ciprofloxacin has been recommended [2], the latter option being supported by animal models. Prevention  of  human-to-human  transmission  from  patients  with pneumonic plague can be achieved by implementing standard isolation procedures until at least four days after the initiation of antibiotic treatment.
+Control of plague is based on active surveillance of sentinel animals. In areas with epizootic outbreaks, it is mandatory to eliminate food and shelter for rodents around homes, work places, and certain recreational  areas,  such  as  picnic  sites  or  campgrounds  where  people congregate. Remove brush, rock piles, junk and food sources, including  pet  food.  Treat  pets  (cats  and  dogs)  for  flea  control  regularly. Likewise, the control of a human plague outbreak mainly relies on the rapid confirmation of the diagnosis and treatment of confirmed and  suspected  cases.  Killing  any  human  ectoparasite  is  mandatory during plague outbreak, as well as killing animal fleas using appropriate and licensed insecticides.
+
+============================================================
+CHUNK 18
+============================================================
+REFERENCES
+1. Perry RD, Fetherston JD. Yersinia pestis -etiologic agent of plague. Clin Microbiol Rev 1997;10:35-66.
+2. Inglesby TV, Dennis DT, Henderson DA, et al. Plague as a biological weapon: medical and public health management. Working Group on Civilian Biodefense. JAMA 2000;283:2281-90.
+3. Drancourt  M,  Roux  V,  Dang  LV,  et  al.  Genotyping,  Orientalis-like Yersinia pestis , and plague pandemics. Emerg Infect Dis 2004;10:1585-92.
+4. Mollaret HH, Karimi Y, Eftekhari M, Baltazard M. Burrowing plague. Bull Soc Pathol Exot Filiales 1963;56:1 186-93.
+5. Anisimov AP, Lindler LE, Pier GB. Intraspecific diversity of Yersinia pestis . Clin Microbiol Rev 2004;17:434-64.
+6. Butler T. Plague into the 21st century. Clin Infect Dis 2009;49:736-42.
+7. Kool JL.  Risk  of  person-to-person  transmission  of  pneumonic  plague. Clin Infect Dis 2005;40:1 166-72.
+8. Gani  R,  Leach  S.  Epidemiologic  determinants  for  modeling  pneumonic plague outbreaks. Emerg Infect Dis 2004;10:608-14.
+9. Drancourt  M,  Houhamdi  L,  Raoult  D. Yersinia  pestis as  a  telluric,  human ectoparasite-borne organism. Lancet Infect Dis 2006;6:234-41.
+10.  Blanc G, Baltazard M. Rôle des ectoparasites humains dans la transmission de la peste. Bull Acad Med 1942;125:446-8 [in French].
+11.  Ayyadurai  S,  Sebbane  F,  Raoult  D,  Drancourt  M.  Body  lice, Yersinia  pestis orientalis, and black death. Emerg Infect Dis 2010;16(5):892-3.
+12.  World  Health  Organization.  World  Health  Statistics  2009.  Geneva:  World Health Organization; 2009:61-9.
+
+============================================================
+CHUNK 19
+============================================================
+REFERENCES
+13.  Gould  LH,  Pape  J,  Ettestad  P,  et  al.  Dog-associated  risk  factors  for  human plague. Zoonoses Public Health 2008;55:448-54.
+14.  Achtman M, Zurth K, Morelli G, et al. Yersinia pestis , the cause of plague, is a recently emerged clone of Yersinia pseudotuberculosis. Proc Natl Acad Sci USA 1999;96:14043-8.
+15.  Li Y, Cui Y, Hauck Y, et al. Genotyping and phylogenetic analysis of Yersinia pestis by MLVA: insights into the worldwide expansion of Central Asia plague foci. PLoS One 2009;4:e6000.
+16.  Derbise A, Chenal-Francisque V, Pouillot F, et al. A horizontally acquired filamentous phage contributes to the pathogenicity of the plague bacillus. Mol Microbiol 2007;63:1145-57.
+17.  Sabeti PC, Walsh E, Schaffer SF, et al. The case for selection at CCR5-Delta 32. PLoS Biol 2005;3:e378.
+18.  Chanteau S, Rahalison L, Ralafiarisoa L, et al. Development and testing of a rapid diagnostic test for bubonic and pneumonic plague. Lancet 2003;361: 211-16.
+19.  Stewart A, Satterfield B, Cohen M, et al. A quadruplex real-time PCR assay for the  detection  of Yersinia  pestis and  its  plasmids.  J  Med  Microbiol  2008;57: 324-31.
+20.  Ber R, Mamroud E, Aftalion M, et al. Development of an improved selective agar medium  for  isolation of Yersinia pestis . Appl  Environ  Microbiol 2003;69:5787-92.
+21.  Tomaso H,  Thullier P,  Seibold  E, et  al.  Comparison  of hand-held  test  kits, immunofluorescence microscopy, enzyme-linked immunosorbent assay, and flow cytometric analysis for rapid presumptive identification of Yersinia pestis . J Clin Microbiol 2007;45:3404-7.
+
+============================================================
+CHUNK 20
+============================================================
+REFERENCES
+22.  Galimand M, Carniel E, Courvalin P. Resistance of Yersinia pestis to antimicrobial agents. Antimicrob Agents Chemother 2006;50:3233-6.
+23.  Welch TJ, Fricke WF, McDermott PF, et al. Multiple antimicrobial resistance in plague: an emerging public health risk. PLoS One 2007;2:e309.
+24.  Lowell JL, Wagner DM, Atshabar B, et al. Identifying sources of human exposure to plague. J Clin Microbiol 2005;43:650-6.
+25.  Rajerison M, Dartevelle S, Ralafiarisoa LA, et al. Development and evaluation of  two  simple,  rapid  immunochromatographic  tests  for  the  detection  of Yersinia  pestis antibodies  in  humans  and  reservoirs.  PLoS  Negl  Trop  Dis 2009;3:e421.
+26.  Boulanger LL, Ettestad P, Fogarty JD, et al. Gentamicin and tetracyclines for the treatment of human plague: review of 75 cases in New Mexico, 19851999. Clin Infect Dis 2004;38:663-9.
+27.  Mwengee W, Butler T, Mgema S, et al. Treatment of plague with gentamicin or  doxycycline  in  a  randomized  clinical  trial  in  Tanzania.  Clin  Infect  Dis 2006;42:614-21.
+28.  Porto-Fett AC, Juneja VK, Tamplin ML, Luchansky JB. Validation of cooking times and temperatures for thermal inactivation of Yersinia pestis strains KIM5 and CDC-A1122 in irradiated ground beef. J Food Prot 2009;72: 564-71.
+29.  Jefferson T, Demicheli V, Pratt M. Vaccines for preventing plague. Cochrane Database System Rev 1998; CD000976.
+30.  Brouillard  JE,  Terriff  CM,  Tofan  A,  Garrison  MW.  Antibiotic  selection  and resistance issues with fluoroquinolones and doxycycline against bioterrorism agents. Pharmacotherapy 2006;26:3-14.
+

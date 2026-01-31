@@ -1,0 +1,301 @@
+============================================================
+CHUNK 0
+============================================================
+Trachoma and Inclusion Conjunctivitis 35
+Hugh R Taylor, Anu Mathew
+
+============================================================
+CHUNK 1
+============================================================
+Key features
+- Trachoma is the leading infectious cause of blindness
+- Caused by Chlamydia trachomatis serotypes A-C, a Gram-negative, intracellular bacterium
+- Repeated episodes of infection result in scarring of the tarsal conjunctiva which leads to in-turning of the eyelashes that rub against the surface of the globe. The constant abrasion subsequently leads to corneal scarring and blindness
+- Diagnosis requires a 2.5 × magnifying glass and a 5ashlight for illumination. The surface of the globe should be examined, followed by eversion of the upper eyelid
+- The major risk factor is poor facial hygiene. Other factors associated with poor hygiene and trachoma include overcrowding, inadequate water supply, lack of latrines and 5ies
+- Trachoma is clustered among the most impoverished communities of the world and in those with the most disadvantaged families
+- The trachoma control strategy recommended by the World Health Organization is the SAFE strategy: S urgery, A ntibiotics, F acial cleanliness and E nvironmental improvement. Without a coordinated public health approach incorporating all these components, the treatment of individuals with trachoma is futile
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+Trachoma is the leading cause of infectious blindness in the world. It is  caused  by Chlamydia  trachomatis ,  an  obligate,  intracellular  bacterium that has existed since the Jurassic period [1]. Trachoma began to  manifest  when  humans  congregated  into  the  first  settlements, spreading  rapidly  until  populations  in  North  America  and  Europe were widely affected. Trachoma slowly disappeared from the developed world and is even continuing to disappear from the developing world with socioeconomic development and improvements in sanitation  and  hygiene.  Though  the  estimated  proportion  of  blindness worldwide owing to trachoma has decreased from 15.5% in 1996 to 4%  in  2004,  trachoma  still  causes  significant  economic  losses  in affected countries.
+
+============================================================
+CHUNK 3
+============================================================
+EPIDEMIOLOGY
+Trachoma is endemic in 57 countries, with an estimated 40.6 million people suffering from active disease and 8.2 million people afflicted with trachomatous trichiasis (in-turning of eyelashes that abrade the surface of the globe) [2]. Africa bears the highest load of active trachoma, but countries in the Middle East, Asia, Latin America and the Western Pacific also have areas of endemic trachoma (Fig. 35.1) [3,4]. However, half the global burden of trichiasis is concentrated in China, Ethiopia and Sudan (Fig. 35.2) [4].
+Trachoma perpetuates the cycle of poverty and blindness. Trachomatous blindness and low vision not only lead to poverty from loss of productivity (US$3.5 billion annually-year of costing: 2003) [5], but impoverished communities are where risk factors for trachoma, such as overcrowding and poor sanitation facilities, exist.
+Poor access to, or inappropriate use of, water for hygiene purposes leads  to  dirty  faces  with  bacteria-loaded  secretions.  Infected  facial secretions are spread through close contact secondary to overcrowding or by flies that thrive on poor sanitation conditions. The relative importance of different risk factors may vary from one community to another, although the lack of clean faces in children appears to be the final, common pathway.
+Young  children,  especially  preschool  children,  are  the  reservoir  for C. trachomatis which causes episodes of chronic conjunctivitis. With increasing age, children appear to be re-infected less often, leading to a reduction in both the duration and cumulative incidence of active disease.  Repeated  episodes  of  infection  eventually  cause  blinding sequelae in older age groups (Fig. 35.3) [6]. Females are usually at higher  risk  of  blinding  trachoma  as  a  result  of  their  roles  as  child caregivers that increases their exposure to active infection. It is estimated that the global disability adjusted  life years  (DALYs) lost by females are at least 25% more than those lost by males. This gender bias is not universal and is less pronounced or nonexistent in some populations where the division of labor is not as distinct, such as in Australian Aboriginal populations.
+
+============================================================
+CHUNK 4
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+Trachoma is caused by infection with C.  trachomatis ,  almost  exclusively  with  serotypes  A,  B,  Ba  and  C.  A  single  episode  of  infection results in a self-limiting episode of chlamydial conjunctivitis (inclusion conjunctivitis). Infection with C. trachomatis occurs in the conjunctival epithelium and active inflammation involves all layers of the conjunctiva. It has been recognized that chlamydia itself is not intrinsically  toxic,  but  trachoma  is  a  result  of  the  immune  response  to chlamydial antigens [7]. This immune response is characterized by a
+FIGURE  35.1 Map  of  available  active  trachoma data in children. Redrawn  with  permission  from Polack S. Maps of the Global Distribution of Trachoma: International Centre for Eye Health © 2005, International Centre for Eye Health. All right reserved.
+FIGURE  35.2 Map  of  available  trichiasis  data  in adults > 15 years. Redrawn  with  permission  from Polack S. Maps of the Global Distribution of Trachoma: International Centre for Eye Health © 2005, International Centre for Eye Health. All right reserved.
+FIGURE 35.3 Relationship  of trachoma  and age. Redrawn with permission from Wright HR, Kee>e JE, Taylor HR. Trachoma and the need for a coordinated community-wide response: a case-based study. PLoS Med 2006;3:186-90 (reproduced under the Creative Commons Attribution License).
+
+============================================================
+CHUNK 5
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+delayed-type hypersensitivity reaction. The typical clinical feature of the disease is the lymphoid follicle in the stroma surrounded by an infiltrate  consisting  of  T  cells,  B  cells,  plasma  cells,  dendritic  cells, macrophages  and  leukocytes  [8].  During  the  initial  stages  of  each episode of infection, laboratory tests are more likely to be positive because  of  the  presence  of  the  organism.  However,  the  destructive immune response can continue  for months after  the infection has cleared  and  is observed clinically as active trachoma. Repeated episodes of infection  lead  to  long-term,  sustained  inflammation.  This intense  inflammation  leads  to  the  formation  of  fibrous  tissue  and scarring in the subepithelium of the tarsal conjunctiva [9]. This scarring  distorts  the  upper  eyelid  and  insidiously  progresses  to  the in-turning of eyelashes: trichiasis. The scar tissue can also result in loss of mucus-secreting glands, causing a dry eye and/or blockage of the nasolacrimal duct resulting in a watery eye and bacterial conjunctivitis [10]. If untreated, trichiasis leads to irreversible opacity of the cornea and blindness [1 1].
+TRACHOMA GRADING CARD
+- Signs must be clearly seen in order to be considered present.
+The
+
+============================================================
+CHUNK 6
+============================================================
+observed first for inturned eyelashes and any corneal opacity.
+eyelids
+The upper eyelid is then turned over
+conjunctiva over the stiffer part of the upper lid (tarsal conjunctiva).
+The normal conjunctiva is smooth, thin and transparent. Over
+the whole
+conjunctiva large deep-lying blood vessels that
+run vertically.
+TRACHOMATOUS
+(TF): the presence of five or more
+INFLAMMATION - FOLLICULAR
+follicles conjunctiva.
+Follicles are round swellings that conjunctiva, appearing white, grey
+are paler than the surrounding or yellow. Follicles must be at least
+large as the dots shown below, to
+0.5mm in diameter, i.e., at least as be considered.
+TRACHOMATOUS
+INFLAMMATION - INTENSE (TI):
+ening of the tarsal conjunctiva that pronounced inflammatory
+obscures more than half of the normal deep tarsal vessels.
+The tarsal conjunctiva appears red, usually numerous follicles, which
+rough and thickened.
+may be partially or totally covered -
+by the thickened conjunctiva.
+TRACHOMATOUS
+SCARRING
+(TS): the presence of scarring in the tarsal conjunctiva.
+lines, bands, or sheets in the tarsal conjunctiva. They are
+glistening and
+In appearance.
+Scarring, fibrous
+fibrosis, may obscure the tarsal blood vessels.
+TRACHOMATOUS
+the eyeball.
+(TT): at least one eyelash rubs on
+Evidence of inturned eyelashes should also be
+graded as trichiasis.
+CORNEAL OPACITY (CO): easily pupil.
+visible corneal opacity over the
+The pupil margin is blurred viewed opacities cause significant visual
+through the opacity. Such corneal impairment (less than 6/18 or 0.3
+should be measured if possible.
+vision), and therefore visual acuity
+FIGURE 35.4 Trachoma grading card. Reproduced with permission from Negrel AD, Taylor HR, West S. Guidelines for Rapid Assessment for Blinding Trachoma. Report No.: WHO/PBD/GET/00.8. Geneva: World Health Organization; 2001. © 2009, World Health Organization. All right reserved.
+
+============================================================
+CHUNK 7
+============================================================
+CLINICAL FEATURES
+Most cases of active disease are asymptomatic and only a minority present  with  mucopurulent discharge. Therefore,  trachoma  is often only  diagnosed  on  routine  screening.  The  clinical  signs  of  the disease  are  illustrated  by  the  World  Health  Organization's  (WHO) simplified trachoma grading classification system (Fig. 35.4) [12,13].  The  five  signs  of  the  disease  are  independently  assessed, but are not mutually exclusive, and two or more features can coexist in the same eye.
+Active inflammation is characterized by follicles on the upper tarsal conjunctiva (trachomatous inflammation follicular). If the inflammation is severe, the conjunctiva becomes thickened and intensely red, obscuring the underlying vessels (trachoma inflammation intense). Scarring appears as fine, white fibrous bands across the upper tarsal conjunctiva (trachomatous conjunctival scarring). The late stages of the disease appears  as in-turning of the eyelashes with at least one eyelash  rubbing  against  the  surface  of  the  eyeball  (trachomatous trichiasis) and  an eventual white corneal opacity obscuring view of the pupil margin (corneal opacity).
+Examination for trachoma should be performed with a 2.5 × loupe (magnifying  lens)  for  magnification  and  a  pocket  flashlight/pentorch  for  illumination.  In  children,  the  upper  eyelid  needs  to  be gently  everted  to  expose  the  upper  tarsal  conjunctiva  using  your thumb  or  another  small  object,  such  as  a  cotton  bud.  The  tarsal surface  should  then  be  examined  for  signs  of  active  inflammation and  scarring.  In  adults,  the  lid  margin  of  the  upper  lid  should  be gently  lifted  from  the  eye  to  identify  any  corneal  opacity  prior  to eversion  of  the  upper  lid.  Visual  acuity  should  be  measured  to document the effects of trichiasis and corneal opacity. A grading of corneal  opacity  is  usually  associated  with  vision  of  less  than  6/12 or  20/40.
+
+============================================================
+CHUNK 8
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+Trachoma is usually diagnosed using clinical grading based on the WHO's simplified grading classification system. Clinical diagnosis is easily  learnt  by  health  workers  and  has  been  shown  to  be  highly reproducible [12]. There are a number of laboratory tests that have been used to detect C. trachomatis (Table 35-1) [14] and the tests of highest  sensitivity  and  specificity  for  the  detection  of  trachoma  at present are  nucleic acid amplification tests,  such as PCR.  However, the  correlation  between  clinical  and  laboratory  methods  is  quite variable, ranging from 10-70%. Clinically active trachoma has been shown to resolve more slowly than laboratory evidence of infection with  follicles  persisting  for  3-6  months  after  the  infection  has resolved. Also, more severe inflammation is associated with a high rate  of  detectable  infection as a result of  higher levels of  organism being shed. The use of laboratory methods is often limited by high cost  and  accessibility  issues  in  trachoma-endemic  areas.  Until  an inexpensive,  reliable,  rapid,  field-based  assay  is  developed,  clinical grading  appears  to  be  the  best  method  of  trachoma  diagnosis  in operational conditions.
+There are differential diagnoses to consider in the diagnosis of both active  trachoma  and  trachomatous  scarring  (Table  35-2).  However, in  the  absence  of  laboratory  tests,  cases  of  follicular  conjunctivitis and/or conjunctival scarring in an area of known  trachoma
+
+============================================================
+CHUNK 9
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+TABLE 35-1 Methods Used for Laboratory Diagnosis of Trachoma
+
+Microscopy, Description = IdentiIes typical intracytoplasmic inclusions using Giemsa staining. Microscopy, Comments = Requires conjunctival scrapings that can be traumatic May be the least sensitive test Inexpensive. Direct Juorescent antibody (DFA), Description = Detects cellular proteins using Juorescent- labeled antibodies. Direct Juorescent antibody (DFA), Comments = Requires conjunctival scrapings SpeciIcity dependent on user expertise. Culture, Description = Uses egg yolk or other suitable cell-culture systems to grow the bacteria. Culture, Comments = Requires conjunctival scrapings High speciIcity and moderate sensitivity Time-consuming and expensive Dependent on user expertise. Enzyme immunoassay (EIA), Description = Involves binding antichlamydial antibodies to speciIc chlamydial antigens that produce an enzyme-triggered color change. Enzyme immunoassay (EIA), Comments = Requires conjunctival scrapings Moderate to high speciIcity Sensitivity limited by type of kits used. Nucleic acid amplication techniques (NAAT), Description = IdentiIes unique chlamydial DNA or RNA via probing or ampliIcation techniques. Nucleic acid amplication techniques (NAAT), Comments = Requires conjunctival scrapings High sensitivity and speciIcity Expensive. Serology, Description = Measure antichlamydial antibodies in host serum or secretions. Serology, Comments = Poor reproducibility Limited diagnostic value
+Reproduced from Wright HR, Taylor HR. Clinical examination and laboratory tests for estimation of trachoma prevalence in a remote setting: what are they really telling us? Lancet Infect Dis 2005;5:313-20.
+endemicity or that has risk factors for trachoma should be regarded as trachoma.
+
+============================================================
+CHUNK 10
+============================================================
+ACTIVE TRACHOMA (TRACHOMATOUS INFLAMMATION FOLLICULAR AND/OR TRACHOMA INFLAMMATION INTENSE)
+The  isolated  antibiotic  treatment  of  individuals  with  trachoma  is inappropriate and antibiotic treatment should be incorporated into a broader intervention strategy, as outlined below.
+Owing  to  its  high  tissue  selectivity,  long  half-life  and  effectiveness against Chlamydia, azithromycin  is  the  most  appropriate  antibiotic for  the  treatment  of  individuals  with  active  trachoma  (Table  35-3) [15-26].  Azithromycin  also  has  relatively  little  interaction  with other  medications  and  is  well  tolerated  by  the  elderly,  those  with
+TABLE 35-2 DiKerential Diagnosis and Distinguishing Features of Follicular Conjunctivitis and Conjunctival Scarring
+
+============================================================
+CHUNK 11
+============================================================
+Follicular conjunctivitis *
+Trachoma, 1 = Likely diagnosis in an area of known endemicity or high-risk factors. Can be conIrmed by laboratory evidence of C. trachomatis. Viral conjunctivitis, 1 = Self-limiting resolving in approximately two weeks. Often associated with mucopurulent discharge. Hypersensitive conjunctivitis, 1 = History will often reveal chronic exposure to ocular drugs or cosmetics. Vernal conjunctivitis, 1 = Usually associated with history of atopy and seasonal recurrences. Toxic conjunctivitis secondary to molluscum contagiosum, 1 = Associated with multiple nodules on eyelid or eyelid margin. Perinaud's oculoglandular syndrome, 1 = Rare condition resulting in granulomatous nodules on the palpebral conjunctiva, pre-auricular and submandibular lymphadenopathy, fever, malaise and a rash. Associated with a number of infections including bartonella, tularemia, tuberculosis, glandular fever or syphilis. Inclusion conjunctivitis, 1 = Sexually transmitted and may be associated with a history of vaginits, cervicitis or urethritis. Can be conIrmed by laboratory evidence of C. trachomatis. Conjunctival scarring, 1 = . Repeated episodes of trachomatous inJammation, 1 = Likely diagnosis in an area of known endemicity or high-risk factors. Previous severe bacterial conjunctivitis, 1 = Associated with history of conjunctivitis with purulent discharge. Previous chalazion, 1 = Associated with history of lump on lid. Trauma, 1 = Associated with history of trauma
+*Follicles found in the fornices without associated inJammation and not involving the superior tarsus, especially in young children, may occur independently of any other pathology-a condition known as folliculosis.
+mild-to-moderate renal or hepatic impairment, young children and pregnant  women. A single  oral  dose  of  20 mg/kg  (maximum  1 g) should be used and repeated every 6-12 months, as required.
+
+============================================================
+CHUNK 12
+============================================================
+Follicular conjunctivitis *
+An alternative recommended by the WHO is topical tetracycline ointment applied to  both  eyes  2-4  times a  day for 6  weeks. Although tetracycline has been shown to be as effective as azithromycin in treating active trachoma [27], the effectiveness of tetracycline is reduced, in operational conditions, by issues with compliance as a result of its long dosing regimen and possible discomfort and blurring of vision [28].
+TABLE 35-3 The Evidence-Based Role of Azithromycin in the Eradication of Blinding Trachoma
+
+Dosing requirements, Evidence recommendations = 1 oral dose of 20 mg/kg (up to a maximum of 1 g). Dosing requirements, Clinical caveat = Short course of topical drops may be as eKective. Dosing requirements, Highest evidence category * = 1. Dosing requirements, References = [15]. How to treat?, Evidence recommendations = Mass, community-based treatment is as eKective as targeted household treatment. How to treat?, Clinical caveat = Cost-beneIt depends upon baseline community prevalence. How to treat?, Highest evidence category * = 2. How to treat?, References = [16-19]. Who to treat?, Evidence recommendations = Children ( < 10 years old) and people with intense inJammatory trachoma. Who to treat?, Clinical caveat = These people represent the major source of C. trachomatis infection. Who to treat?, Highest evidence category * = 4. Who to treat?, References = [20-22]. How often to treat?, Evidence recommendations = Annual treatment in endemic and biannual treatment in hyperendemic areas. How often to treat?, Clinical caveat = Single mass-treatment will not eliminate trachoma. How often to treat?, Highest evidence category * = 2. How often to treat?, References = [23-25]. When to stop treatment?, Evidence recommendations = When the prevalence is reduced to 5%. When to stop treatment?, Clinical caveat = Complete community-wide elimination is achievable. When to stop treatment?, Highest evidence category * = 2. When to stop treatment?, References = [23,26]
+
+============================================================
+CHUNK 13
+============================================================
+Follicular conjunctivitis *
+The WHO guidelines suggest tetracycline ointment be used in children < 6 months of age and in pregnant women [29]. However, azithromycin  is  the  treatment  of  choice  for  pertussis  prophylaxis  in children < 1 month of age and it is also the first line of treatment for genital chlamydial infection during pregnancy recommended by the Centers for Disease Control and Prevention (CDC) [30]. Many trachoma control programs use azithromycin to treat individuals of all ages.
+Treating only a single case of infection is usually futile, as re-infection is  almost inevitable from other infected children in the household. Treatment should be given to all members of a household where a child with active trachoma resides. For logistical reasons, the WHO recommends community-wide treatment when  more than 10% of children  in  the  community  aged  1-9  years  have  active  trachoma. Trachoma is not likely to have been eliminated in less than three years and, so, annual mass treatment should be continued for at least that time and until the prevalence of trachoma on re-assessment is less than  5%.  However,  as  mentioned,  successful  trachoma  control requires that antibiotic treatment be implemented as part of a public health  initiative that  addresses the environmental and hygiene  risk factors for trachoma.
+
+============================================================
+CHUNK 14
+============================================================
+COMPLICATIONS FROM CHRONIC DISEASE
+Trichiasis, whether in the early or late stages, should be treated not only to reduce the blinding complications of the disease and sometimes  to  improve  visual  acuity,  but  also  to  improve  quality  of  life through relief of symptoms, including photophobia and eye pain [31].
+The surgical technique recommended for correction of trichiasis by the WHO is the bilamellar tarsal rotation procedure [32]. Trichiasis is the end-stage of the disease and, despite corrective surgery, recurrent trichiasis is a problem. The lowest reported rates of recurrence at one year are in the order of 5% but, with less meticulous surgery, may be over 40%. Recurrence rates have reduced by adhering to high surgical standards, operating during the early stages of trichiasis and reducing risk of secondary infection with the use of antibiotics at the time of surgery. Azithromycin has been shown to be equal to, if not more effective than, tetracycline in reducing the risk of recurrence in randomized, controlled trials [33,34].
+Epilation maybe used in the short-term, while awaiting surgery or to remove recurrent lashes post-surgery. However, care should be taken not to break the lashes which can cause more damage from abrasion with the stiff, remaining part of the lash.
+
+============================================================
+CHUNK 15
+============================================================
+PREVENTION AND CONTROL
+The integrated trachoma control strategy recommended by the WHO is  the SAFE strategy [29]: S urgery, A ntibiotics and F acial cleanliness and E nvironmental improvement. The SAFE strategy is being implemented globally to eliminate trachoma as a cause of blindness by the year 2020, and has already proven to be effective in countries such as the Islamic Republic of Iran, Morocco, Oman and Ghana.
+Surgery  using  the  bilamellar  tarsal  rotation  procedure  is  recommended to decrease the risk of blindness [32]. The finding of active trachoma in children should prompt the search for trichiasis in adults, especially in women and those over the age of 40.
+Antibiotics are required to decrease the load of infection in the community. Previously, the use of azithromycin in mass community treatment strategies  was  limited  by  cost.  However,  large-scale  donation programs by the manufacturer of azithromycin (Pfizer Inc.) [35] and more  affordable,  generic  production  of  azithromycin  since  patentexpiry (US$0.50/single dose course in India; year of costing: 2005) have enabled the antibiotic component to be more cost-effective.
+The promotion of facial cleanliness may be the most important component of the SAFE strategy, as poor facial hygiene appears to be the final common pathway of a number of environmental risk factors, such  as  crowding,  poor  water  accessibility  and  presence  of  flies. Together, facial hygiene promotion and environmental improvement decrease the risk of disease transmission and are thus important for sustainable trachoma control. Behavioral changes may be difficult to achieve, but studies where facial hygiene promotion has been implemented have shown additional reductions in rates of active trachoma over antibiotics alone [36]. For sustainable change to hygiene behaviors, community-specific attitudes to hygiene need to be addressed.
+Environmental improvements  should  address  the  situation-specific risk factors for trachoma, such as water accessibility, the availability of latrines, refuse disposal and animal pens. Attention should focus on specific conditions that prevent every child from having a clean face.  These  undertakings  are  usually  expensive,  but  the  effects  of addressing these risk  factors  are often far-reaching,  as a  number of health issues share these risk factors.
+Although it may be impossible to eradicate Chlamydia, correct implementation  of  the  evidence-based,  integrated  SAFE  strategy  that addresses the behavioral, medical and surgical aspects of trachoma could well mean that eliminating this blinding disease is achievable.
+
+============================================================
+CHUNK 16
+============================================================
+Key features
+- Caused by Chlamydia trachomatis, serotypes D-K, a Gram-negative, intracellular bacterium
+- Infection is by inoculation of infected genital secretion into the eye: in adults, this occurs during sexual contact; in neonates, this occurs during vaginal delivery
+- If untreated, serious complications of conjunctivitis are uncommon; however, systemic considerations require oral treatment: in adults to minimize the risk of infertility from concomitant genital chlamydial infection and in neonates to treat possible chlamydial pneumonia
+- Treatment of adult inclusion conjunctivitis is with a single dose of oral azithromycin. Examination and treatment of sexual contacts is important. Treatment of neonatal chlamydial conjunctivitis is with a 14-day course of oral erythromycin, although one study has shown oral azithromycin to be safe and e4ective
+
+============================================================
+CHUNK 17
+============================================================
+INTRODUCTION
+Inclusion conjunctivitis is an acute conjunctivitis usually caused by 'genital' serotypes of Chlamydia trachomatis .  It  is  typically  found  in young  adults  and  is  usually  associated  with  urogenital  infection. Neonates may be exposed to the infection during the birth process and subsequently develop a severe, purulent conjunctivitis, pneumonia, or both.
+
+============================================================
+CHUNK 18
+============================================================
+EPIDEMIOLOGY
+Similar to the distribution of genital chlamydial infection, inclusion conjunctivitis  is  prevalent  worldwide  [37].  Adolescents  or  young adults are at highest risk of chlamydial inclusion conjunctivitis. Infection  usually  results  from  inoculation  of  infected  genital  secretions into the eye; the incubation period is 7-14 days. Chlamydia trachomatis is  the  most common sexually transmitted bacterium. Symptoms of urogenital infection are often absent or minimal; thus, a large reservoir  of  the  pathogen  goes  undetected  in  the  community.  Chronic, silent urogenital infection is a leading cause of infertility.
+The risk of transmission of C. trachomatis to an infant born through an infected birth canal is reported to be as high as 70%, with the risk of  chlamydial  conjunctivitis  being  20-50%  [38,39].  However,  the prevalence  of  neonatal  chlamydial  conjunctivits  is  lower  in  areas where  routine  screening  and  treatment  of  chlamydial  infection  in pregnant women occurs. Neonatal chlamydial conjunctivitis usually develops 5-21 days after birth. Pneumonia may develop later, between 4 and 12 weeks after birth.
+
+============================================================
+CHUNK 19
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+The 'genital' serotypes of C. trachomatis causing inclusion conjunctivitis are serotypes D-K. However, there may be some overlap between 'genital' and 'ocular' serotypes. The pathogenesis of the conjunctivitis is similar for both 'genital' and 'ocular' serotypes. If untreated, cases  of  both  neonatal  and  adult  inclusion  conjunctivitis  usually resolve  spontaneously  with  few  complications.  However,  scarring, similar  to  that  seen  in  trachoma,  has  been  noted,  but  the  clinical changes tend to be more marked in the lower eyelid.
+
+============================================================
+CHUNK 20
+============================================================
+CLINICAL FEATURES
+In adults, inclusion conjunctivitis usually presents as acute follicular conjunctivitis  with  mucopurulent  discharge.  The  infection  is  often initially unilateral and frequently associated with pre-auricular lymphadenopathy. Superficial  punctuate  keratitis  or  peripheral  subepithelial infiltrates may occur.
+Signs of neonatal chlamydial conjunctivitis include a mucopurulent disharge, conjunctival injection, diffuse papillary reaction of the tarsal conjunctiva  and  lid  swelling.  If  severe,  pseudomembranes  may develop and, rarely, untreated cases may develop conjunctival scarring and corneal pannus.
+
+============================================================
+CHUNK 21
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+Inclusion conjunctivitis is usually diagnosed clinically and confirmed by laboratory testing (Table 35-1). Culture from a swab containing conjunctival  epithelial  cells  was  the  'gold  standard'  for  diagnosis, with  high  specificity  and  moderate  sensitivity,  dependent  on  user expertise.  Enzyme  immunoassay  (EIA)  and  direct  fluorescent  antibody assays (DFA) have high specificity, but sensitivity may be limited by the type of kit used. Nucleic acid  amplification techniques (e.g. PCR) have higher sensitivity  than  culture  methods  while  retaining high specificity and thus have replaced the other techniques [40]. If resources are limited, Giemsa-stained conjunctival scrapings can be examined for the presence of blue-stained intracytoplasmic inclusions within epithelial cells.
+The differential diagnosis of adult inclusion conjunctivitis is similar to the differential of active trachoma (Table 35-2). The most important differential diagnosis in neonates is conjunctivitis caused by Neisseria  gonorrhoea .  However,  gonococcal  ophthalmia  usually  occurs earlier (2-5 days after birth) and is more rapidly progressive. Gonococcal ophthalmia and other pyogenic conjunctivitis, such as staphylococcal  conjunctivitis,  can  be  differentiated  on  Gram  stain  and subsequent culture.
+
+============================================================
+CHUNK 22
+============================================================
+TREATMENT
+In adults with inclusion conjunctivitis, 1g of oral azithromycin as a single dose is now standard treatment [41]. Alternatives include doxycycline 100 mg twice daily for seven days, or erythromycin 500 mg four times a day for seven days. Topical erythromycin, tetracycline or sulfacetamide ointment can be given as an adjunct if there is marked ocular discharge. Most importantly, sexual partners need to be examined and treated because of the risk of silent infection and subsequent infertility.
+Chlamydial infection in neonates is potentially serious and should be treated with a systemic antibiotic. Oral erythromycin base or ethysuccinate, 50 mg/kg/d in four divided doses for 14 days is standard therapy; however, there are compliance and tolerance issues with this regimen [41]. Oral azithromycin, 50 mg/kg/d as one daily dose for three days has been shown to be safe and effective in the treatment of neonatal chlamydial conjunctivitis in one small study [42].
+
+============================================================
+CHUNK 23
+============================================================
+PREVENTION AND CONTROL
+Screening and treatment for C.  trachomatis is  recommended  for  all pregnant women as early as possible before delivery [43]. Erythromycin (500 mg four times a day for seven days) or amoxicillin (500 mg three times a day for seven days) is the WHO recommended first-line antimicrobial for the treatment of genital Chlamydia infection in pregnancy [41,44]. However, azithromycin (1 g as a single dose) has been shown to be safe and effective in a small number of studies, and is
+recommended as first-line treatment by the CDC [30]. Silver nitrate drops given topically to prevent gonococcal ophthalmia at birth do not prevent Chlamydia . Betadine eye drops (2.5%) have been shown to  be  cheaper  and  more  effective  than  silver  nitrate  in  preventing both chlamydial and gonococcal ophthalmia, and is associated with appreciably  less  chemical  conjunctivitis  [45].  There  is  no  evidence that  prophylactic  treatment  should  be  given  to  infants  born  to mothers  with  untreated  chlamydial  infection  and  there  is  also  no evidence that infants with chlamydial infections should be isolated (standard hygiene precautions are recommended).
+
+============================================================
+CHUNK 24
+============================================================
+REFERENCES
+1. Taylor HR. Trachoma: A Blinding Scourge from the Bronze Age to the TwentyFirst Century. Melbourne: Centre for Eye Research Australia; 2008.
+2. Mariotti SP, Pascolini D, Rose-Nussbaumer J. Trachoma: global magnitude of a preventable cause of blindness. Br J Ophthalmol 2009;93:563-8.
+3. Polack S, Brooker S, Kuper H, et al. Mapping the global distribution of trachoma. Bull World Health Organ 2005;83:913-19.
+4. Polack S. Maps of the Global Distribution of Trachoma: International Centre for Eye Health; 2005.
+5. Frick KD, Hanson CL, Jacobson GA. Global burden of trachoma and economics of the disease. Am J Trop Med Hyg 2003;69(suppl. 5):1-10.
+6. Wright HR, Keeffe JE, Taylor HR. Trachoma and the need for a coordinated community-wide response: a case-based study. PLoS Med 2006;3:186-90.
+7. Brunham RC, Peeling RW. Chlamydia trachomatis antigens: role in immunity and pathogenesis. Infect Agents Dis 1994;3:218-33.
+8. El-Asrar AMA, Van Den Oord JJ, Geboes K, et al. Immunopathology of trachomatous conjunctivitis. Br J Ophthalmol 1989;73:276-82.
+9. West SK, Munoz B, Mkocha H, et al. Progression of active trachoma to scarring in a cohort of Tanzanian children. Ophthalmic Epidemiol 2001;8:137-44.
+10.  Guzey M, Ozardali I, Basar E, et al. A survey of trachoma: The histopathology and the mechanism of progressive cicatrization of eyelid tissues. Ophthalmologica 2000;214:277-84.
+11.  Bowman RJ, Jatta B, Cham B, et al. Natural history of trachomatous scarring in the Gambia: Results of a 12-year longitudinal follow-up. Ophthalmology 2001;108:2219-24.
+
+============================================================
+CHUNK 25
+============================================================
+REFERENCES
+12.  Thylefors B, Dawson C, Jones B, et al. A simplified system for the assessment of  trachoma  and  its  complications.  Bull  World  Health  Organ  1987;65: 477-83.
+13.  Negrel AD, Taylor HR, West S. Guidelines for Rapid Assessment for Blinding Trachoma.Report No.: WHO/PBD/GET/00.8. Geneva: World Health Organization; 2001.
+14.  Wright HR, Taylor HR. Clinical examination and laboratory tests for estimation of trachoma prevalence in a remote setting: what are they really telling us? Lancet Infect Dis 2005;5:313-20.
+15.  Cochereau I, Goldschmidt P, Goepogui A, et al. Efficacy and safety of short duration azithromycin eye drops versus azithromycin single oral dose for the treatment of trachoma in children: a randomised, controlled, double-masked clinical trial. Br J Ophthalmol 2007;91:667-72.
+16.  Hoechsmann A, Metcalfe N, Kanjaloti S, et al. Reduction of trachoma in the absence of antibiotic treatment: Evidence from a population-based survey in Malawi. Ophthalmic Epidemiol 2001;8:145-53.
+17.  Frick KD, Lietman TM, Holm SO, et al. Cost-effectiveness of trachoma control measures: comparing targeted household treatment and mass treatment of children. Bull World Health Organ 2001;79:201-7.
+18.  Holm SO, Jha HC, Bhatta RC, et al. Comparison of two azithromycin distribution strategies for controlling trachoma in Nepal. Bull World Health Organ 2001;79:194-200.
+19.  Schemann  JF,  Guinot  C,  Traore  L,  et  al.  Longitudinal  evaluation  of  three azithromycin  distribution  strategies  for  treatment  of  trachoma  in  a  subSaharan African country, Mali. Acta Trop 2007;101:40-53.
+20.  Solomon AW, Holland MJ, Burton MJ, et al. Strategies for control of trachoma: observational study with quantitative PCR. Lancet 2003;362:198-204.
+
+============================================================
+CHUNK 26
+============================================================
+REFERENCES
+21.  West  ES,  Munoz B, Mkocha H, et al. Mass treatment and the effect on the load  of Chlamydia  trachomatis infection  in  a  trachoma-hyperendemic  community. Invest Ophthalmol Vis Sci 2005;46:83-7.
+22.  Burton M, Holland MJ, Faal N, et al. Which members of a community need antibiotics to control trachoma? Conjunctival Chlamydia trachomatis infection load in Gambian villages. Invest Ophthalmol Vis Sci 2003;44:4215.
+23.  Melese M, Alemayehu W, Lakew T, et al. Comparison of annual and biannual mass antibiotic administration for elimination of infectious trachoma. JAMA 2008;299:778-84.
+24.  Lietman T, Porco T, Dawson C, Blower S. Global elimination of trachoma: how frequently should we administer mass chemotherapy? Nat Med 1999;5: 572-6.
+25.  Biebesheimer  JB,  House  J,  Hong  KC,  et  al.  Complete  local  elimination  of infectious  trachoma  from  severely  affected  communities  after  six  biannual mass azithromycin distributions. Ophthalmology 2009;116:2047-50.
+26.  Ray KJ, Lietman TM, Porco TC, et al. When can antibiotic treatments for trachoma be discontinued? Graduating communities in three African countries. PLoS Negl Trop Dis 2009;3:e458.
+27.  Mabey D, Fraser-Hurt N. Antibiotics for trachoma. Cochrane Database of Syst Rev 2005:CD001860.
+28.  Bowman RJ, Sillah A, Van Dehn C, et al. Operational comparison of singledose azithromycin and topical tetracycline for trachoma. Invest Ophthalmol Vis Sci 2000;41:4074-9.
+29.  World Health Organization, London School of Hygiene & Tropical Medicine, International Trachoma Initiative. Trachoma control-A guide for programme managers. Geneva: World Health Organization, London School of Hygiene & Tropical Medicine, International Trachoma Initiative; 2006.
+30.  Centers for Disease  Control  and  Prevention.  Sexually  Transmitted Diseases Treatment Guidelines. MMWR Recomm Rep 2006:55.
+
+============================================================
+CHUNK 27
+============================================================
+REFERENCES
+31.  Dhaliwal  U,  Bhatia  M.  Health-related  quality  of  life in  patients  with trachomatous  trichiasis or  entropion.  Ophthalmic  Epidemiol  2006;13: 59-66.
+32.  Reacher M, Foster A, Huber J. Trichiasis Surgery for Trachoma: The Bilamellar Tarsal  Rotation  Procedure.  Report  No.:  WHO/PBL/93.29.  Geneva:  World Health Organization; 1993.
+33.  Burton MJ, Kinteh F, Jallow O, et al. A randomised controlled trial of azithromycin  following  surgery  for  trachomatous  trichiasis  in  the  Gambia.  Br  J Ophthalmol 2005;89:1282-8.
+34.  West  SK,  West  ES,  Alemayehu  W,  et  al.  Single-dose  azithromycin  prevents trichiasis  recurrence  following  surgery:  randomized  trial  in  Ethiopia.  Arch Ophthalmol 2006;124:309-14.
+35.  Pfizer Inc. Partnership to End Blinding Trachoma through the International Trachoma Initiative. Available at: http://www.pfizer.com/responsibility/ global_health/international_trachoma_initiative.jsp.
+36.  West  S,  Munoz  B,  Lynch  M, et  al.  Impact  of  face  washing  on  trachoma  in Kongwa, Tanzania. Lancet 1995;345:155-8.
+37.  World Health Organization, Department of HIV/AIDS. Global prevalence and incidence  of  selected  curable  sexually  transmitted  infections:  overview  and estimates. Report No.: WHO/CDS/CSR/EDC/2001.10. Geneva: World Health Organization; 2001.
+38.  Darville T. Chlamydia trachomatis infections in neonates and young children. Semin Pediatr Infect Dis 2005;16:235-44.
+39.  Schachter  J,  Grossman  M,  Sweet  RL,  et  al.  Prospective  study  of  perinatal transmission of Chlamydia trachomatis . JAMA 1986;255:3374-7.
+40.  Skidmore S, Horner P, Mallinson H. Testing specimens for Chlamydia trachomatis . Sex Transm Infect 2006;82:272-5.
+
+============================================================
+CHUNK 28
+============================================================
+REFERENCES
+41.  World Health Organization, Department of Reproductive Health and Research. Guidelines for the management of sexually transmitted infections 2003.  Report  No.:  WHO/RHR/01.10.  Geneva:  World  Health  Organization; 2003.
+42.  Hammerschlag  MR,  Gelling  M,  Roblin  PM,  et  al.  Treatment  of  neonatal, Chlamydial conjunctivitis  with  azithromycin.  Pediatr  Infect  Dis  J  1998;17: 1049-50.
+43.  World Health Organization, Department of Reproductive Health and Research. Global strategy for the prevention and control of sexually transmitted infections: 2006-2015. Breaking the chain of transmission. Geneva: World Health Organization; 2007.
+44.  Brocklehurst P, Rooney G. Interventions for treating genital Chlamydia trachomatis infection in pregnancy. Cochrane Database Syst Rev 1998:CD000054.
+45.  Schaller UC, Klauss V. Is Crede's prophylaxis for ophthalmia neonatorum still valid? Bull World Health Organ 2001;79:262-3.
+

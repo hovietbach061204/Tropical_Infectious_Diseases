@@ -1,0 +1,120 @@
+============================================================
+CHUNK 0
+============================================================
+118
+
+============================================================
+CHUNK 1
+============================================================
+Key features
+- Angiostrongylus is the most common parasitic cause of eosinophilic meningitis
+- The most common mode of transmission is raw snail consumption. Many patients have been infected by eating uncooked paratenic hosts, such as freshwater prawns, crabs, frogs and monitor lizards. Contaminated vegetables and fruits may also transmit the infection
+- Ocular involvement occurs in about 1% of patients
+- Pathologic changes include in%ltration of lymphocytes, eosinophils and plasma cells in meninges. Granuloma formation may be found surrounding dead parasites
+- Treatment is often symptomatic. Corticosteroids can improve symptoms. Albendazole and mebendazole with or without corticosteroids have limited clinical experience
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+The  first  discovery  of  the  worm, Angiostrongylus  cantonensis in  the pulmonary arteries and hearts of domestic rats in Canton, China was reported by Chen in 1935. However, the first case of human infection was  documented  in  1945  in  Taiwan.  Since  then,  there  have  been reports  of  outbreaks  or  sporadic  infection  of  this  parasite  in  many parts of the world. It is estimated that 150 million people are at risk.
+
+============================================================
+CHUNK 3
+============================================================
+EPIDEMIOLOGY
+Nearly 3000 cases of Angiostrongylus  cantonensis have  been  reported worldwide since 1945 [1]. However, these figures only include reports from publications in international journals; the incidence of angiostrogyliasis meningitis is likely under-reported. Endemic areas are in Asia, the Pacific Islands and Australia. Outbreaks of sporadic cases of eosinophilic  meningitis  have  been  reported  in  travelers  returning from  endemic  areas.  In  Thailand,  where  most  cases  have  been reported,  the  estimated  incidence  has  ranged  from  0.19-2.25  per 100,000 population during the years 1996-2000. The majority of the cases are young adults, but children are also affected. In most reports, males are affected more frequently than females.
+
+============================================================
+CHUNK 4
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+Humans  become  infected  after  ingestion  of  third-stage  larvae  of A. cantonensis when eating undercooked intermediate hosts, such as snails or slugs. Many paratenic hosts have been implicated as sources
+
+============================================================
+CHUNK 5
+============================================================
+Eosinophilic Meningitis ( Angiostrongylus cantonensis , Parastrongylus cantonensis )
+Yupaporn Wattanagoon, John H Cross †
+of  infection,  including  prawns,  crabs,  frogs  and  monitor  lizards. Unclean vegetables, fruits and drinking water are occasionally sources of infection. After ingestion, larvae are released in the intestine and invade  the  intestinal  wall  entering  into  the  circulation,  passing through  liver,  heart,  lungs  and,  finally,  moving  to  the  brain.  In humans, the  larvae  will  molt  into  fourth-stage  larvae  but  will  not develop further and usually die in the brain after 1-2 months. Occasionally, larvae may invade the orbits causing ocular disease. Pathologic changes involve an inflammatory response to the presence or movement  of  larvae  in  the  brain.  Lymphocytes,  plasma  cells  and eosinophils  infiltrate  the  meninges  or  around  the  cerebral  vessels, forming a granuloma around the dead parasites. Migration of worms makes parasitic tracks with hemorrhage and microcavities. Hemosiderin, eosinophils, glial scars and Charcot-Leyden crystals can be seen in the track. Living worms have been detected in pulmonary vessels of  patients  from  Taiwan,  Australia,  Jamaica  and  Thailand  during necropsy [2-5].
+
+============================================================
+CHUNK 6
+============================================================
+CLINICAL FEATURES
+Clinical  manifestations  are  associated  with  worm  migration  and inflammatory response to the worm. Disease severity and incubation period depend on the number of larva ingested. The disease is generally benign and self-limiting with some patients only experiencing a mild headache that spontaneously subsides, but, occasionally, there is severe illness with long-lasting neurologic sequelae. The incubation period ranges from one day to many weeks. Some patients develop gastrointestinal symptoms when the ingested larvae are released and invade the intestinal wall causing abdominal discomfort, nausea and vomiting.  For  patients  with  neurologic  involvement,  most  patients develop signs and symptoms of meningitis, but occasionally develop encephalitis. The most common signs and symptoms of patients with eosinophilic meningitis or meningoencephalitis are headache, nausea, vomiting, fever, blurred vision, diplopia, paraesthesia, urinary retention, altered consciousness or coma, and focal neurologic deficit [6, 7] (Fig. 1 18.1). Headache is usually gradual. Fever is low grade; however, high grade fever is more common in children. Neck stiffness, positive Brudzinsky  or  Kernig's  sign,  papilloedema,  cranial  nerve  palsy  and sensory impairment may be detected. Patients usually recover spontaneously within a few weeks. Drug treatment can shorten the duration of headache and reduce the number of lumbar punctures required. Case mortality rate is very low; death is more common in children.
+
+============================================================
+CHUNK 7
+============================================================
+CLINICAL FEATURES
+About 1% of angiostrongyliasis patients have ocular involvement [8]. Many of these cases have been reported from Thailand, Indonesia, Japan, Taiwan, India, Sri Lanka and Australia [8-15]. Ocular angiostrongyliasis  is  usually  found  in  association  with  meningitis.  The parasite  can  be  seen  in  the  anterior  or  posterior  chamber  without causing  inflammation.  In  such  cases,  patients  usually  complain  of seeing  something  moving  in  the  eye  without  visual  loss.  Cases  in which the larval migration causes an inflammatory or granulomatous reaction in the retina, vitreous or anterior or posterior chamber may present  with  loss  of  vision,  eye  pain  and  redness  (Figs  1 18.2  and 118.3).  Signs  of  iritis,  vitreous  haziness,  ophthalmitis  or  retinal detachment can be detected. Patients who present with visual impairment may not regain normal visual acuity after recovery.
+FIGURE 118.1 Unilateral facial paralysis of the lower motor neuron type in a patient with Angiostrongylus meningitis. (Courtesy of Professor Thanongsak Bunnag, Thailand).
+FIGURE  118.2 Ocular  angiostrongyliasis.  An  intravitreal Angiostrongylus nematode  killed  with  laser  photocoagulation  before  surgical  removal. (Courtesy of Dr Suthasinee Sinawat, Department of Ophthalmology, Khon Kaen University, Khon Kaen, Thailand).
+FIGURE  118.3 Ocular  angiostrongyliasis.  A  subretinal Angiostrongylus nematode in the inferotemporal quadrant. (Courtesy of Dr Suthasinee Sinawat, Department of Ophthalmology, Khon Kaen University, Khon Kaen, Thailand).
+
+============================================================
+CHUNK 8
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+In the appropriate epidemiologic setting, patients who present with symptoms  and  signs  of  meningitis  should  be  evaluated  for Angiostrongylus .  Severe  cases  present  with  meningoencephalitis  or  have cranial nerve involvement; presentation in children tends to be more severe than in adults. Careful examination of the eyes should be done. Laboratory criteria for diagnosis of eosinophilic meningitis include cerebrospinal  fluid  (CSF)  eosinophils  of  more  than  10  cells/ml  or 10%  of  CSF  white  blood  cells  (WBC).  Angiostrongyliasis  patients usually have a high CSF pressure above 200 mmH2O, and the CSF usually contains between 500 and 2000 leukocytes/mm 3 with more than  20%  eosinophils,  normal  glucose  and  slightly  raised  protein. Complete  blood  examination  reveals  eosinophilia  in  the  majority of cases.
+Patients with focal neurodeficit or encephalitis should receive a computed tomography (CT) or magnetic resonance imaging (MRI) scan to exclude other conditions. MRI findings of Angiostrongylus meningitis  can  be  normal  or  show  meningeal  enhancement  without  focal lesion or abnormal micronodular enhanced lesions [16]. Small parasitic  tracks  may  be  detected  by  MRI.  Brain  edema  may  be  seen  in severe cases.
+The  definitive  diagnosis  of Angiostrongylus meningitis  is  based  on detection of the parasite in the CSF sample or in the eye. When no parasite is obtained, serologic diagnosis can be performed by detection of Angiostrongylus antibodies or antigen in serum or CSF by ELISA or immunoblot technique.
+
+============================================================
+CHUNK 9
+============================================================
+DIFFERENTIAL DIAGNOSIS
+Eosinophilic meningitis can be caused by other parasitic infections, such as gnathostomiasis, paragonimiasis, cysticercosis, schistosomiasis, toxocariasis, baylisascariasis or trichinellosis (Fig. 1 18.4). In Thailand,  gnathostomiasis  is  an  important  differential  and  should  be suspected if the patient has a previous history of migratory swellings and they have hemorrhagic or xanthochromic spinal fluid and eosinophilic pleocytosis. Serologic diagnosis can be performed to differentiate these two infections.
+
+============================================================
+CHUNK 10
+============================================================
+TREATMENT
+Most patients spontaneously recover within a few weeks after receiving supportive treatment to alleviate headache. Acetaminophen and repeated lumbar punctures may be clinically indicated.
+There have been a few clinical trials of treatment; most of those have included eosinophilic  meningitis,  but  not always  specifically  documented Angiostrongylus infection  (Box  1 18-1).  Oral  prednisolone (60 mg/day  divided  into  three  doses)  for  two  weeks  significantly
+FIGURE 118.4 Di;erential diagnosis of eosinophilic meningitis.
+shortened  the  duration  of  headache  and  the  number  of  repeated lumbar  punctures  when  compared  with  placebo  in  patients  with eosinophilic meningitis presumably from angiostrongyliasis [17]. In 26 eosinophilic meningitis patients using a combination of corticosteriod (prednisolone 60 mg/day divided into three doses) and albendazole (15 mg/kg/day divided into two doses) for two weeks, treated patients had a similar duration of headache compared with patients receiving  prednisolone  only  [18]. Forty-one  patients  treated with a combination of prednisolone and mebendazole (10 mg/kg/day) for two  weeks  had  a  similar  duration  of  headache  compared  with  the previous study with prednisolone treatment [19]. Treatment of eosinophilic  meningitis  with  prednisolone  and  albendazole  was  no different  in  relieving  headache  than  treatment  with  prednisolone alone  [20].  A  small  trial  comparing  the  efficacy  of  albendazole (15 mg/kg/day divided into two doses) and placebo demonstrated a decreased duration of headache in the albendazole treated group [21] (Box 1 18.1).
+
+============================================================
+CHUNK 11
+============================================================
+REFERENCES
+1. Wang QP, Lai DH, Zhu XQ, et al. Human angiostrongyliasis. Lancet Infect Dis 2008;8:621-30.
+2. Hung TP, Chen ER. Angiostrongyliasis ( Angiostrongylus cantonensis ). In: Vinken P,  Bruyn  G,  Klawans  H,  eds.  Handbook  of  Clinical  Neurology.  New  York: Elsevier; 1988;8:545-62.
+3. Cooke-Yarborough C, Kornberg A, Hogg G, et al. A fatal case of angiostrongyliasis in an 1 1-month-old infant. Med J Aust 1999;170:541-3.
+4. Lindo JF, Escoffery CT, Reid B, et al. Fatal autochthonous eosinophilic meningitis  in  a  Jamaican child caused by Angiostrongylus cantonensis .  Am J Trop Med Hyg 2004;70:425-8.
+5. Sonakul D. Pathological findings in four cases of human angiostrongyliasis. Southeast Asian J of Trop Med Public Health 1978;9:220-7.
+6. Punyagupta S, Juttisudata P, Bunnag T. Eosinophilic meningitis in Thailand. Clinical studies of 484 typical cases probably caused by Angiostrongylus cantonensis . Am J Trop Med Hyg 1975;24:921-31.
+7. Hwang KP, Chen ER. Clinical studies on Angiostrongyliasis cantonensis among children  in  Taiwan.  Southeast  Asian  J  Trop  Med  Public  Health  1991; 22(Suppl):194-9.
+8. Sawanyawisuth K, Kitthaweesin K, Limpawattana P, et al. Intraocular angiostrongyliasis: clinical findings, treatments and outcomes. Trans Roy Soc Trop Med Hyg 2007;101:497-501.
+9. Kanchanaranya C, Punyagupta S. Case of ocular angiostrongyliasis associated with eosinophilic meningitis. Am J Ophthalmol 1971;71:931-4.
+
+============================================================
+CHUNK 12
+============================================================
+REFERENCES
+10.  Sunardi W, Lokollo DM, Margono SS. Ocular angiostrongyliasis in Semarang Central Java. Am J Trop Med Hyg 1977;26:72-4.
+11.  Nelson RG, Warren RC, Scotti A, et al. Ocular Angiostrongyliasis in Japan: A Case Report. Am J Trop Med Hyg 1988;38:130-2.
+12.  Toma  H,  Matsumura  S,  Oshiro  C,  et  al.  Ocular  angiostrongyliasis  without meningitis symptoms in Okinawa, Japan. J Parasitol 2002;88:21 1-13.
+13.  Maholtra S, Mehta DK, Arora R, et al. Ocular angiostrongyliasis in a childfirst case report from India. J Trop Pediatr 2006;52:223-5.
+14.  Ihalamulla  RL, Fernando SD, Weerasena KH, et al. A further case of Parastrongyliasis  (=Angiostrongyliasis)  from  the  eye  of  a  patient  in  Sri  Lanka. Ceylon Med Sci 2007;50:15-17.
+15.  Sinawat S, Sanguansak T, Angkawinijwong T, et al. Ocular angiostrongyliasis: clinical study of three cases. Eye 2008;22:1446-8.
+
+============================================================
+CHUNK 13
+============================================================
+BOX 118.1  Summary of Clinical Trials for Eosinophilic Meningitis Due to Angiostrongyliasis
+Prednisolone vs. placebo [17], Study design = RCT. Prednisolone vs. placebo [17], No. of patients = 110. Prednisolone vs. placebo [17], Results = Signi<cantly shortened duration of headache, decreased number of lumbar punctures in prednisolone group. Prednisolone + albendazole [18], Study design = Pilot prospective. Prednisolone + albendazole [18], No. of patients = 41. Prednisolone + albendazole [18], Results = Duration of headache comparable with prednisolone-alone arm of the RCT. Prednisolone + mebendazole [19], Study design = Pilot prospective. Prednisolone + mebendazole [19], No. of patients = 26. Prednisolone + mebendazole [19], Results = Duration of headache comparable with prednisolone-alone arm of the RCT. Albendazole vs. placebo [21], Study design = RCT. Albendazole vs. placebo [21], No. of patients = 66. Albendazole vs. placebo [21], Results = Trend to shorter duration of headache in albendazole group. Prednisolone + albendazole vs. prednisolone alone [20], Study design = RCT. Prednisolone + albendazole vs. prednisolone alone [20], No. of patients = 104. Prednisolone + albendazole vs. prednisolone alone [20], Results = No di;erence in headache resolution. RCT, randomized controlled trial., Study design = RCT, randomized controlled trial.. RCT, randomized controlled trial., No. of patients = RCT, randomized controlled trial.. RCT, randomized controlled trial., Results = RCT, randomized controlled trial.
+
+============================================================
+CHUNK 14
+============================================================
+BOX 118.1  Summary of Clinical Trials for Eosinophilic Meningitis Due to Angiostrongyliasis
+16.  Jin E, Ma D, Liang Y, et al. MRI findings of eosinophilic meningoencephalitis due to Angiostrongylus cantonenesis . Clin Radiol 2005;60:242-50.
+17.  Chotmongkol  V,  Sawanyawisuth  K,  Thavornpithak  Y.  Corticosteroid  treatment of eosinophilic meningitis. Clin Infect Dis 2000;31:660-2.
+18.  Chotmongkol V, Wongjitrat C, Sawadpanit K, Sawanyawisuth K. Treatment of eosinophilic meningitis with combination of albendazole and corticosteroid. Southeast Asian J of Trop Med Public Health 2004;35:172-4.
+19.  Chotmongkol V, Sawadpanit K, Sawanyawisuth K, et al. Treatment of eosinophilic  meningitis  with  combination  of  predinisolone  and  mebendazole. Am J Trop Med Hyg 2006; 74:1122-4.
+20.  Chotmongkol V, Kittimongkolma S,  Niwattayakul  K,  et  al.  Comparison  of prednisolone  plus  albendazole  with  prednisolone  alone  for  treatment  of patients with eosinophilic meningitis. Am J Trop Med Hyg 2009;81:443-5.
+21.  Jitpimolmard S, Sawanyawisuth K, Morakote N, et al. Albendazole therapy for eosinophilic meningitis caused by Angiostrongylus cantonensis . Parasitol Res 2007;100:1193-6.
+

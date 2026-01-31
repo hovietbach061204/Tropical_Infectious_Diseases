@@ -1,0 +1,144 @@
+============================================================
+CHUNK 0
+============================================================
+KEY FEATURES
+- viruses.
+- all known human hantavirus infections.
+- transmission of rodent saliva, urine, and droppings, but rodent-borne Andes hantavirus infections may then be transmitted from person to person.
+- syndromes: hantavirus cardiopulmonary syndrome (HCPS) and hemorrhagic fever with renal syndrome (HFRS).
+- cardiopulmonary phase may be established with a chest radiograph, complete blood count, and peripheral smear evaluation.
+- including extracorporeal membrane oxygenation (ECMO) for severe HCPS and hemodialysis for severe HFRS.
+- buildings and for safely cleaning potentially rodent-infested areas.
+
+============================================================
+CHUNK 1
+============================================================
+INTRODUCTION
+The  hantaviruses,  which  are  enveloped,  negative-strand  RNA viruses, are members of one of {ve genera in the family Bunyaviridae . Other members of the family that cause human disease include California encephalitis serogroup viruses, Rift Valley fever virus, Crimean-Congo hemorrhagic fever virus, sand|y fever viruses, severe fever with thrombocytopenia virus, and Heartland virus. With the  exception  of  the  hantaviruses,  all  human  and  animal pathogens in the family are arboviruses (arthropod-borne viruses).
+Not all hantaviruses infect humans, but those that do cause two primary syndromes: hantavirus cardiopulmonary syndrome (HCPS)  and  hemorrhagic  fever  with  renal  syndrome  (HFRS). Although there is some overlap in the syndromes, there are signi{cant differences in the severity and pace of the clinical course and medical management of HCPS versus HFRS. As such, it is worth considering the syndromes separately, in particular when discussing these aspects.
+
+============================================================
+CHUNK 2
+============================================================
+EPIDEMIOLOGY
+Hantaviruses infect rodents, moles, and shrews, but only a limited number of rodent-borne hantaviruses cause HFRS and HCPS. Infection is transmitted between rodents, largely from wounding. Infection in rodents is chronic and asymptomatic, albeit with some evidence of shortened survival in some rodent species or age groups. Virus is present in excreta (saliva, urine, and droppings) in infected rodents.
+Most transmission to humans is airborne through inhalation of  virus  in  excreta,  often  shortly  after  entering  rodent-infested buildings. Less commonly transmission may result from rodent bites, from laboratory accidents, from handling rodents in breeding
+Gregory Mertz facilities, and possibly by ingesting food contaminated with saliva, urine, or droppings. Most hantavirus infections are acquired in rural settings with a peak risk in 20- to 40-year-old adults with a male predominance. Person-to-person transmission of Andes virus (ANDV) has been  documented in Chile and Argentina. 1,2 The risk is greatest for close family contacts, in particular, sex partners and those sharing a bed or bedroom, but rare nosocomial transmission has also been documented. There is no evidence for personto-person transmission of other hantaviruses.
+
+============================================================
+CHUNK 3
+============================================================
+EPIDEMIOLOGY
+HFRS occurs most commonly in Asia, in particular, Korea and China, where more than 100,000 cases may occur annually, whereas there are several thousand cases annually in Scandinavia, Europe, and  Russia.  Hantaan  virus  (HTNV),  transmitted  by Apodemus agrarius, occurs across a large geographic area, throughout much of Asia, including Korea and China, as well as Russia. Dobrava virus (DOBV), transmitted by A. Ravicollis, causes human infection throughout central and western Europe, whereas Puumala virus (PUUV), transmitted by Myodes glareolus, causes disease in Scandinavia  and  central  and  western  Europe.  In  Scandinavia  alone, more than 1000 Puumala cases occur annually. Seoul virus, carried by Rattus norvegicus and R. rattus, is primarily found in China and Korea, particularly in urban outbreaks, but has worldwide distribution, including outbreaks in rat breeding facilities in the UK and United States. Subclinical infections are more common than clinical HFRS, and case fatality rates among clinical infections range from 2% to 7% for HTNV and DOBV to less than 0.5% for PUUV.
+
+============================================================
+CHUNK 4
+============================================================
+EPIDEMIOLOGY
+HCPS, also known as hantavirus pulmonary syndrome, occurs throughout most of North, Central and South America, but serious, life-threatening infection is most commonly reported in Argentina, Chile, and Brazil, followed by the United States and Canada. In the  countries  with  the  most  complete  and  accessible  annual reporting,  a  mean  of  55  HCPS  cases  per  year  are  reported  in Chile alone, compared with a mean of 30 cases per year in the United States. ANDV, transmitted by the long-tailed pygmy rice rat, Oligoryzomys longicaudatus, causes severe HCPS in Chile and Argentina; several pathogenic hantaviruses (possibly ANDV variants) cause disease in Brazil; Sin Nombre virus (SNV), transmitted by the deer mouse, Peromyscus maniculatus, causes severe HCPS in the  western  United  States  and  Canada;  Laguna  Negra  virus, transmitted  by  the  small  vesper  mouse, Calomys  laucha, occurs primarily in Paraguay, Bolivia, and Argentina; and Choclo virus transmitted by the pygmy rice rat, O. fulvenscens, causes disease in Panama. With the exception of Choclo virus, where seroprevalence is high and subclinical infection or mild febrile illness appears much more common than a relatively mild illness with pulmonary signs and symptoms and low mortality, subclinical infections for the other pathogenic New World hantaviruses are uncommon. 3 Case fatality rates of 35% persist for SNV and ANDV infections despite improvement in clinical recognition and medical management.
+
+============================================================
+CHUNK 5
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+The average incubation period  between infection and  onset of symptoms is approximately 3 weeks, with a range of 1 to 8 weeks. 1,4,5 In a prospective study of household contacts at risk of index patients with ANDV infection, viral RNA was detected in peripheral blood mononuclear  cells  by  reverse  transcription  polymerase  chain reaction (RT-PCR) for up to 2 weeks before the onset of fever and other symptoms in those who developed HCPS. 1 In contrast,
+IgM and IgG antibody can be detected only after the onset of symptoms.
+Capillary endothelial cells are the principal target of pathogenic hantaviruses in humans, and entry into these cells is mediated by beta-3-integrin. The second phase of illness is characterized by capillary leakage without cytotoxicity in capillary endothelial cells accompanied by cardiogenic shock in severe cases. 6,7 The mechanism of capillary leakage is thought to be a combination of direct viral effects, including protection of infected cells from apoptosis, the effects  of  cytokines,  decreased  expression  of  anti-in|ammatory cytokines, and possibly reactive oxygen species. 8 Severe and fatal disease with cardiogenic shock is characterized by high viral load and low neutralizing antibody titers at hospital admission.
+In HFRS, renal biopsies in patients with PUUV infection reveal an acute tubulointerstitial  nephritis  with  interstitial  edema  and in|ammatory  cell  in{ltrates. 9 Severe  disease  can  be  associated with focal hemorrhage in the kidney, retroperitoneal edema, and pulmonary interstitial/alveolar  in{ltrates. 9,10 In  HCPS,  {ndings at  autopsy  include  pleural  effusions  and  edematous  lungs  with mononuclear  interstitial  in{ltrates  and  alveolar  |uid  without alveolar in|ammatory cells or cellular debris. 11 Inconsistent histopathologic evidence of viral myocarditis at autopsy, as well as rapid  onset  and  reversal  of  cardiogenic  shock, 6,7,11 suggest  that soluble  in|ammatory  mediators likely play  a signi{cant role  in cardiogenic shock.
+
+============================================================
+CHUNK 6
+============================================================
+CLINICAL FEATURES
+HCPS and HFRS both begin with a febrile prodrome phase that typically persists for several days before progression to the next phase. Fever, myalgia, and headache are common and may be accompanied by abdominal pain, nausea, and diarrhea.  The complete blood count is usually normal early in the febrile prodrome, but thrombocytopenia is generally present later in the febrile prodrome.
+
+============================================================
+CHUNK 7
+============================================================
+Hantavirus Cardiopulmonary Syndrome
+In HCPS, the febrile prodrome is followed by the cardiopulmonary phase. This phase is heralded by the onset of cough and hypoxia secondary to non-cardiogenic pulmonary edema. In severe cases, there is rapid progression to respiratory failure and cardiogenic shock. The shock is typically characterized by a low cardiac index, high systemic vascular resistance, and normal pulmonary wedge pressure. 6 After the onset of the cardiopulmonary phase, the complete blood count typically reveals thrombocytopenia and leukocytosis. Lactic acid is typically elevated, and hemoconcentration is often present in severe disease. Other abnormalities may include elevations in transaminases and lactate dehydrogenase. Creatinine may be elevated, in particular, in patients with shock.
+Among hospitalized patients, most deaths result from cardiogenic shock and pulseless electrical activity, usually within the {rst 24 to  48  hours  after  the  onset  of  the  cardiopulmonary  phase.  In patients who survive, the cardiopulmonary phase is followed by a  diuretic  phase  with  a  spontaneous  diuresis  and  resolution  of pulmonary in{ltrates and hypoxia. The diuretic phase is followed by the convalescent phase with fatigue, decreased exercise tolerance, and decreased diffusing capacity that may persist for several months. In patients with severe disease, complications resulting from critical care  management  of  severe  respiratory  failure  and  cardiogenic shock, including ventilatory support, use of vasopressors, cardiopulmonary resuscitation and extracorporeal membrane oxygenation (ECMO), may also occur.
+
+============================================================
+CHUNK 8
+============================================================
+Hemorrhagic Fever With Renal Syndrome
+After the febrile prodrome, patients may develop hypotension or shock, and close to 100% develop proteinuria and elevated creatinine.  The  proportion  that  develop  shock  and  oliguric  renal failure is determined by the hantavirus subtype, with more severe disease associated with HTNV and DOBV infection. In DOBV, for  example,  oliguric  renal  failure  requiring  dialysis  has  been reported in almost half of patients, and hemorrhagic manifestations are reported in up to a quarter. In PUUV infection, close to 100% develop proteinuria and creatinine elevation and about half develop oliguria.  Cardiopulmonary  manifestations  have  been  reported during this phase, but the pulmonary manifestations are less severe than in HCPS and overt shock is rare. 9 This phase is followed by a diuretic phase that persists for about a week and a convalescent phase that may persist for several months, including missed work for  up  to  2  months.  Uncommonly  encephalitis,  Guillain-Barré syndrome,  and  perimyocarditis  have  been  reported  in  patients with PUUV infection. 12
+
+============================================================
+CHUNK 9
+============================================================
+DIAGNOSIS
+Antibody detection is the primary method used for diagnosis of hantavirus infection. IgM antibodies are {rst detectable during the febrile prodrome, followed shortly by IgG antibodies. From the onset of the cardiopulmonary phase in HCPS or the shock/ oliguria phase of HFRS, both IgM and IgG antibodies are uniformly present. Antibodies  are  directed  against  both  nucleocapsid  (N) and glycoprotein antigens. Antibody to the N antigen is broadly cross-reactive to hantavirus subtypes, and serologic assays all include and are generally limited to detection of antibody to hantavirus N antigen. Antibody to glycoprotein antigen is more restricted.
+All serologic assays employed  in  the  United  States  are laboratory-developed tests  that have not  been approved by the U.S.  Food and Drug Administration. In the  United States and Europe, enzyme-linked immunosorbent assay (ELISA) is the most common format. Worldwide, however, ELISA, bead agglutination, and immuno|uorescence assays are employed in clinical laboratories, and relatively subtype-speci{c Western immunoblot and neutralization assays, which detect antibodies to hantavirus glycoprotein antigen, are also available, largely in research settings. False-positive  serologic  assays  occur,  in  particular,  with  the commercial ELISA assay most widely used in the United States.
+Hantavirus RNA may be detected by RT-PCR in peripheral blood mononuclear cells for several weeks before onset of symptoms and early in the course of HCPS. Both immunohistochemistry and RT-PCR may be employed for detection of hantavirus antigens and  RNA,  respectively,  in  autopsy  tissue.  Although  no  formal protocols are in place, serial screening of peripheral blood mononuclear cells by RT-PCR for the duration of the incubation period has  been  employed  at  several  centers  after  de{ned  exposures, including needlestick exposure in research laboratories working with hantaviruses in cell culture and occupational exposure involving blood contact with mucous membranes during ECMO.
+
+============================================================
+CHUNK 10
+============================================================
+DIAGNOSIS
+In regions where severe HCPS may occur, clinicians should use criteria developed for presumptive diagnosis of HCPS in the cardiopulmonary  phase  for  management  decisions,  including expectant venous and arterial cannulation in preparation for ECMO or for emergent transportation to a center with ECMO capacity (see the next section) rather than waiting for the results of serologic testing. When a patient with acute SNV or ANDV infection is admitted to the hospital in the cardiopulmonary phase, the risk of death is high, the window of opportunity for intervention is often measured in hours, and deaths almost invariably occur before the results of serologic testing become available. Fortunately, a rapid, presumptive diagnosis can be established using the complete blood count and a peripheral blood smear evaluation. 13 The criteria, which apply only to patients in the cardiopulmonary phase with hypoxia and bilateral pulmonary in{ltrates (Fig. 37.6.1), include thrombocytopenia, myelocytosis, lack of signi{cant toxic granulation in neutrophils, hemoconcentration, and more than 10% of lymphocytes with immunoblastic morphologic features (Fig. 37.6.2). When four or more of the {ve criteria are present, a presumptive
+PORTABLE UP/RT
+110/10
+SUPINE
+115@12,5
+Fig. 37.6.2 Peripheral smear evaluation in a child with severe hantavirus cardiopulmonary syndrome in the cardiopulmonary phase who met all five criteria by complete blood count and peripheral smear evaluation, 13 including elevated white blood count (37,500 cells/ μ L) with left shift and without toxic granulation, increased hemoglobin and hematocrit, and thrombocytopenia (23,000 cells/ μ L). There is an immunoblast in the left portion of the image. (Image and smear evaluation courtesy, K. Foucar, MD.)
+diagnosis may be made with sensitivity of 96% and speci{city of 99%. 13
+
+============================================================
+CHUNK 11
+============================================================
+TREATMENT
+Although intravenous ribavirin was reportedly effective in reducing mortality  from  Hantaan-associated  HFRS  in  China,  primarily through  reduction  in  oliguria, 14 it  was  ineffective  in  treatment of  HFRS  caused  by  PUUV.  Similarly,  intravenous  ribavirin was  ineffective  for  treatment  of  SNV-associated  HCPS  in  the cardiopulmonary  phase  in  the  United  States  and  Canada. 15,16 Administration  of  high-dose  intravenous  methylprednisolone had no impact on mortality in a controlled trial in patients with ANDV infection in the cardiopulmonary phase in Chile. 17 In an open trial,  there  was  a  trend  suggesting  decreased  mortality  in patients with severe disease treated with ABO-typed immune plasma with  known ANDV neutralizing  antibody titer  compared  with patients who had been treated in the methylprednisolone study. 18 However, the lack of randomized controls limited evaluation of ef{cacy, and the method of collection (plasmapheresis of persons who have survived ANDV infection) limits availability of plasma with  high  neutralizing  antibody  titers,  as  well  as  the  ability  to fund or conduct a controlled trial.
+Although controlled trials of ECMO have not been feasible, analysis of outcomes in patients with severe HCPS suggests that ECMO signi{cantly reduces mortality. Wernly et al reported 66%
+survival  among 51 patients with 100% expected mortality who were treated at the University of New Mexico Hospital between 1994 and 2010, as well as 80% survival among the last 25 ECMOtreated patients for whom routine care included elective insertion of vascular sheaths and almost concurrent intubation. 19 Similarly, through early 2016, six of eight patients treated with ECMO at the Clinica Alemana in Santiago, Chile, survived to discharge (V . Tomicic and J. Graf, personal communication).
+
+============================================================
+CHUNK 12
+============================================================
+TREATMENT
+In patients with suspected HCPS in the cardiopulmonary phase (those with hypoxia and bilateral in{ltrates) who reside in or have traveled to regions where severe HCPS may have been acquired in  the  past  1  to  8  weeks  or  are  a  close  household  contact  of  a person with ANDV infection, management should include immediate transfer to a critical care unit. Cardiac index should be monitored with  a  pulmonary  artery  catheter  or  approximated  using  noninvasive monitoring and inotropic support, and vasopressors should be  used  rather  than  |uids  when  needed;  rapid  evaluation  of  a complete blood count and peripheral smear should be performed to establish or exclude a presumptive diagnosis using the criteria described in the previous section.
+If a presumptive diagnosis is established, immediate consultation should be obtained with the  nearest ECMO center. If venous/ arterial ECMO is available in the same hospital, vascular sheaths should be inserted electively, with concurrent intubation if necessary. Indications for initiation of ECMO vary by center but include a cardiac  index  of  less  than  2.3,  PaO 2 /FiO2 < 50,  or  severe  shock without response to conventional therapy. If the nearest ECMO center  is  in  another  hospital  or  city  and  a  transfer  is  feasible, emergency transfer should be arranged immediately, with the goal of minimizing delay in achieving access to ECMO. Transfer to a center with higher-level critical care but without ECMO should only  be  considered  if  transfer  to  an  ECMO  center  is  not feasible.
+
+============================================================
+CHUNK 13
+============================================================
+PREVENTION
+Cell culture-derived, formalin-inactivated vaccines are in use in Korea and China. The vaccines are immunogenic and appear to offer  protection  in  {eld  trials,  but  the  vaccines  have  not  been adequately evaluated in randomized, controlled trials. Ongoing vaccine development strategies in the United States are largely focused  on  DNA  vaccines.  Candidate  DNA  vaccines  produce neutralizing antibody and are protective in animal models, and some are in or nearing phase I testing.
+Guidelines for preventing rodent entry into buildings and for safely cleaning potentially rodent-infested areas are available at Centers for Disease Control and state health department websites in  the  United  States  and  in  many  ministry  of  health  websites outside the United States. Guidelines for working with potentially infected rodents are also available. 20 There are no guidelines or approved therapies for post-exposure prophylaxis, but results in an animal model suggest that treatment with favipiravir or ribavirin or with passive administration of virus subtype-speci{c neutralizing antibody might have bene{t in humans.
+
+============================================================
+CHUNK 14
+============================================================
+REFERENCES
+1.  Ferrés M, Vial P , Marco C, et al. Prospective evaluation of household contacts  of  persons  with  hantavirus  cardiopulmonary  syndrome  in Chile. J Infect Dis 2007;195:1563-71.
+2.  Padula  PJ,  Edelstein  A,  Miguel  SD,  et al.  Hantavirus  pulmonary syndrome outbreak in Argentina: molecular evidence for person-toperson transmission of Andes virus. Virology 1998;241:323-30.
+3.  Armien  B,  Pascale  JM,  Munoz  C,  et al.  Hantavirus  fever  without pulmonary syndrome in Panama. Am J T rop Med Hyg 2013;89:489-94.
+4.  Vial PA, Valdivieso F, Mertz G, et al. Incubation period of hantavirus cardiopulmonary syndrome. Emerg Infect Dis 2006;12:1271-3.
+5.  Nunez  JJ,  Fritz  CL,  Knust  B,  et al.  Hantavirus  infections  among overnight visitors to Yosemite National Park, California, USA, 2012. Emerg Infect Dis 2014;20:386-93.
+6.  Hallin  GW,  Simpson  SQ,  Crowell  RE,  et al.  Cardiopulmonary manifestations  of  the  hantavirus  pulmonary  syndrome.  Crit  Care Med 1996;24:252-8.
+7.  Saggioro  FP,  Rossi  MA,  Duarte  MI,  et al.  Hantavirus  infection induces a typical myocarditis that may be responsible for myocardial depression and shock in hantavirus pulmonary syndrome. J Infect Dis 2007;195:1541-9.
+8.  Marsac D, Garcia S, Fournet A, et al. Infection of human monocytederived dendritic cells  by  ANDES  Hantavirus  enhances  proin|ammatory  state,  the  secretion  of  active  MPP-9  and  indirectly enhances endothelial permeability. J Virol 2011;8:223.
+9.  Mustonen  J,  Makela  S,  Helin  H,  et al.  Renal  biopsy  {ndings  and clinicopathologic correlations in nephropathia epidemica. Clin Nephrol 1994;41:121-6.
+
+============================================================
+CHUNK 15
+============================================================
+REFERENCES
+10.  Rasmuson J, Lindqvist P , Sorenson K, et al. Cardiopulmonary involvement in Puumala hantavirus infection. BMC Infect Dis 2013;13:501.
+11.  Nolte  KB,  Feddersen  RM,  Foucar  K,  et al.  Hantavirus  pulmonary syndrome in the United States: a pathological description of a disease caused by a new agent. Hum Pathol 1995;26:110-20.
+12.  Vapalahti O, Mustonen J, Lundkvist A, et al. Hantavirus infections in Europe. Lancet Infect Dis 2003;3:653-61.
+13.  Koster F , Foucar K, Hjelle B, et al. Presumptive diagnosis of hantavirus cardiopulmonary  syndrome  by  routine  complete  blood  count  and blood smear review. Am J Clin Pathol 2001;116:665-72.
+14.  Huggins JW, Hsiang CM, Cosgriff TM, et al. Prospective, doubleblind,  concurrent,  placebo-controlled  clinical  trial  of  intravenous ribavirin therapy of hemorrhagic fever with renal syndrome. J Infect Dis 1991;164:1119-27.
+15.  Mertz GJ, Miedzinski L, Goade D, et al. Placebo-controlled, doubleblind  trial  of  intravenous  ribavirin  for  hantavirus  cardiopulmonary syndrome in North America. Clin Infect Dis 2004;39:1307-13.
+16.  Chapman LE, Mertz GJ, Peters CJ, et al. Intravenous ribavirin for hantavirus pulmonary syndrome: safety and tolerance during 1 year of open-label experience. Antivir Ther 1999;4:211-19.
+17.  Vial PA,  Valdivieso F, Ferres M,  et al.  High-dose  intravenous methylprednisolone for hantavirus cardiopulmonary syndrome in Chile: a double-blind, randomized controlled clinical trial. Clin Infect Dis 2013;57:943-51.
+
+============================================================
+CHUNK 16
+============================================================
+REFERENCES
+18.  Vial PA, Valdivieso F , Calvo M, et al. A non-randomized multicentre trial of human immune plasma for treatment of hantavirus cardiopulmonary syndrome by ANDV. Antivir Ther 2015;20:377-86.
+19.  Wernly  JA,  Dietl  CA,  T abe  CE,  et al.  Extracorporeal  membrane oxygenation  support improves  survival  of  patients  with Hantavirus cardiopulmonary  syndrome refractory  to  medical  treatment.  Eur  J Cardiothorac Surg 2011;40:1334-40.
+20.  Mills JN, Y ates TL, Childs JE, et al. Guidelines for working with rodents potentially infected with hantaviruses. J Mammal 1995;76:716-22.
+

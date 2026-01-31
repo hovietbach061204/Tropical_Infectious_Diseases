@@ -1,0 +1,193 @@
+============================================================
+CHUNK 0
+============================================================
+89
+
+============================================================
+CHUNK 1
+============================================================
+KEY FEATURES
+- encapsulated yeasts, mainly Cryptococcus neoformans but also C. gattii.
+- C. neoformans meningoencephalitis is a major opportunistic infection in patients with advanced AIDS.
+- opportunistic infection in non-HIV-infected patients in high-income settings.
+- dissemination, high antigen titers, acute respiratory symptoms) needs to be assessed to optimize treatment.
+- combination of an amphotericin B formulation and |ucytosine for at least 2 weeks and then switched to |uconazole for a total of 10 to 12 weeks, followed by maintenance therapy with low-dose |uconazole.
+- in low-resource areas should receive 1 week of amphotericin B deoxycholate and |ucytosine or 2 weeks of oral |uconazole and |ucytosine and then switched to |uconazole.
+- treatment ef{cacy.
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+Cryptococcosis is a major cause of  mortality in AIDS  patients, particularly in areas of the world without wide use of antiretroviral therapy. Outbreaks caused by Cryptococcus gattii have recently been reported in apparently immunocompetent and immunode{cient hosts in the Paci{c Northwest of North America.
+
+============================================================
+CHUNK 3
+============================================================
+EPIDEMIOLOGY
+C. neoformans [cosmopolitan, including variety grubii (serotype A) and var. neoformans (serotype  D)  and C.  gattii (serotypes  B  and C)] are basidiomycetous yeasts found in the environment (especially bird droppings and dust). C. gattii is mostly found in tropical and sub-tropical areas but a highly virulent lineage has recently spread to  Vancouver  Island,  the  Canadian  mainland,  and  the  Paci{c Northwest.
+HIV infection is a major risk factor for cryptococcosis. There are an estimated 225,000 cases of cryptococcal meningitis globally each year, particularly in sub-Saharan Africa, where 73% of the estimated cases occur, as well as more than 135,000 deaths per year.  Globally  it  is  the  cause  of  15%  of AIDS-related  deaths. 1 Cryptococcal meningitis accounted for 62.3% of meningitis cases over a 4-year period in South Africa and was more common than tuberculous (24.6%) and pneumococcal meningitis (10.1%). 2 The prevalence of infection was 18% among HIV-infected Cambodian patients with < 200 CD4 + /mm 3 . 3 In a cohort of 501 HIV-infected patients treated for cryptococcal meningoencephalitis, the mortality rate was 17% at 2 weeks and 34% at 10 weeks, with an overall
+
+============================================================
+CHUNK 4
+============================================================
+Cryptococcosis
+Timothée Boyer Chammard, Fanny Lanternier, Olivier Lortholary mortality of 41% in patients followed for 1 year. 4 Highly active antiretroviral  therapy  (HAART)  decreases  the  incidence  of cryptococcosis and the associated long-term mortality and relapse rate. 5 Patients with AIDS are only rarely infected with C. gattii.
+Risk factors  for  cryptococcosis in HIV-negative persons  are corticosteroid therapy, chronic lymphoid malignancies, solid organ transplantation,  and  other  diseases  (e.g.,  sarcoidosis,  diabetes mellitus, liver or renal dysfunctions, idiopathic CD4 lymphopenia). 6 About 5% of patients have no obvious risk factors and should be examined for an immune de{ciency. Males are more susceptible than females, regardless of the HIV status. Cryptococcosis is rare in children, even those who are immunocompromised. 7
+
+============================================================
+CHUNK 5
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Disease  with C.  neoformans usually  represents  reactivation  of  a latent  infection  acquired  early  in  life  by  inhalation. 8 However, acute pneumonia can follow massive inhalation of contaminated dust or primary skin infection after injury. Disease with C. gattii is  estimated  to  begin  anywhere  from  2  to  11  months  after exposure. 9
+Cryptococcus spp. are encapsulated yeasts. The capsule is composed of polysaccharides of which the main component, glucuronoxylomannan, is a major virulence factor. It is secreted during growth in vitro and during infection. Its detection in body |uids is  used  for  the  diagnosis  of  cryptococcosis  with  commercially available and reliable kits (cryptococcal antigen test). Other virulence factors are the ability to grow at 37°C, melanin production, and production of other enzymes. 8
+Invasion of the central nervous system (CNS) after fungemia leads  to  meningoencephalitis.  The  presence  of  polysaccharide around the pseudocysts/masses causing dilatations of the VirchowRobin spaces is responsible for brain edema and increased intracranial pressure (Fig. 89.1). Infection by C. neoformans is usually characterized  by  a  low  in|ammatory  response,  especially  in HIV-infected patients, in contrast to infections caused by C. gattii, where brain and lung granulomas can be observed. The immune reconstitution in|ammatory syndrome (IRIS), a granulomatous tissue  reaction  induced  by  restoration  of  a Th1  response  after Highly  Active  Antiretroviral  Therapy  (HAART),  can  provoke severe  symptoms requiring intensive  care  hospitalization. 10,11 It has to be differentiated from cryptococcosis relapse.
+
+============================================================
+CHUNK 6
+============================================================
+CNS Involvement
+Meningoencephalitis  is  diagnosed  in ≥ 75% of  cases  and  more frequently in HIV-infected patients. 12 Symptoms are rarely acute, and signs of meningeal irritation are often lacking. More often, patients complain of dizziness, headache, and nausea; changes in behavior can be noted. Fever is rarely high and is usually intermittent. As infection progresses, impaired vision or hearing, coma, seizures,  and  other  palsies  can  occur.  Neurologic  abnormalities are  present  in  up  to  50%  of  patients  and  are  associated  with a  poor  prognosis,  as  is  a  short  duration  ( < 2  weeks)  between onset  of  symptoms  and  consultation.  High  cerebrospinal  |uid
+ikH2
+EX
+30 M 18-
+30-
+MF
+Fig. 89.1 Magnetic resonance T2-weighted image showing dilated Virchow-Robin spaces ( thin arrows ) and pseudocysts ( thick arrow ) in the basal ganglia in an HIV-infected patient with cryptococcosis.
+(CSF) opening  pressure  correlates  with  a  poorer  outcome  and survival. 13,14
+Computed tomography and magnetic resonance imaging (see Fig. 89.1) can detect brain edema, hydrocephalus, and mass lesions (cryptococcomas). Pleocytosis, elevated protein, and low glucose levels associated with elevated pressure of the CSF are frequent; however, CSF {ndings can be normal, especially in HIV-infected individuals. A  limited in|ammatory reaction ( < 20 cells/mm 3 )  is associated with poor prognosis.
+
+============================================================
+CHUNK 7
+============================================================
+Lung Disease
+Cryptococcal pneumonia is not distinctive clinically. 15 The presence of Cryptococcus spp.  in  a  respiratory  specimen  should  prompt investigation  for  disseminated  infection  including  meningoencephalitis. Symptoms are low-grade fever, dull chest pain, and dry cough. Focal in{ltrates are common; cavitation and pleural effusion rare. Asymptomatic  pneumonia  or  enlarged  mediastinal  lymph nodes can be detected in previously healthy individuals. Diagnosis of  lung  colonization  is  made  in  immunocompetent  individuals when cryptococcal disease has been ruled out: negative antigen detection and negative blood, urine, and CSF cultures.
+
+============================================================
+CHUNK 8
+============================================================
+Cutaneous Infection
+Skin lesions in disseminated infection exist in ≈ 5% of patients, irrespective of HIV status. T ypical lesions are multiple and appear as  ulcerated  papules  producing  an  exudate  rich  in  cryptococci. Primary cutaneous infections are rare and often associated with serotype D.
+
+============================================================
+CHUNK 9
+============================================================
+Involvement of Other Sites
+Blood (up to 45%) and urine (15%-30% in male patients) cultures are often positive in AIDS patients. Bones and joints can demonstrate osteolytic lesions and cold abscesses with Cryptococcus -rich exudates. Lymph node involvement is common. Occasional cases of keratitis (after corneal transplantation), endocarditis, peritonitis, and myositis have been reported. Localized infections should be considered as potential manifestations of disseminated disease and require evaluation.
+VB101
+Fig. 89.2 Chest tomo-densitometry showing a pulmonary mass due to Cryptococcus gattii in an HIV-negative patient.
+
+============================================================
+CHUNK 10
+============================================================
+Cryptococcus gattii Infections
+The diagnosis of C. gattii should be considered in tropical areas and the Paci{c Northwest in patients (immunocompetent or not) presenting with fever and cerebral and/or pulmonary masses that suggest malignancy (Fig. 89.2). 16
+
+============================================================
+CHUNK 11
+============================================================
+Patient Evaluation
+Investigations should include cultures of the CSF , urine, and blood, as well as sputum or bronchoalveolar lavage (in cases of abnormal chest x-rays), together with cryptococcal antigen testing in serum and  CSF. 17 The  higher  the  volume  of  |uid  sampled,  the  more likely the chance of making a diagnosis.
+
+============================================================
+CHUNK 12
+============================================================
+Diagnosis
+Diagnosis of cryptococcosis is made by identifying encapsulated yeasts, by culture, and/or by positive antigen detection.
+Fluids  can  be  processed  by  mixing  the  pellet  (CSF ,  pleural |uid, or bronchoalveolar lavage) with India ink (Fig. 89.3). Tissue sections can be stained with mucicarmine or alcian blue to highlight the capsule.
+For culture of Cryptococcus, specimens should be incubated on Sabouraud agar at 30°C for up to 4 weeks in cases of prior antifungal treatment. Lysis centrifugation or culture of the buffy coat improves detection  in  blood.  On  agar,  colonies  are  creamy  and  mucoid. The genus is identi{ed by the presence of capsule, urease production, and assimilation pattern using commercial kits. Molecular tools can be used to identify the species.
+Cryptococcal antigen detection in serum or CSF is suf{cient for diagnosis in high-risk patients. Most commercially available kits  are  excellent.  Antigen  titers  vary  depending  on  the  host's immune status (titers higher in AIDS), type of infection (low, and even negative, serum titers in cases of localized extra-meningeal infections), and the kit used. The titer of serum antigen correlates with meningitis. Serum antigen screening in AIDS patients before initiation of ART (antiretroviral therapy), with pre-emptive |uconazole therapy based on antigen detection, has been associated with a low incidence of cryptococcal meningitis. 18 Cryptococcal meningitis needs to be excluded before therapy, as up to one-third
+10 um
+Fig. 89.3 Visualization of the capsule surrounding Cryptococcus neoformans yeasts (suspension of a 2-day culture in India ink, light microscopy).
+of asymptomatic patients with positive serum antigen may have meningitis. 19 The semi-quantitative BioSynex/Bio-Rad CryptoPS lateral |ow assay discriminated patients with or without cryptococcal meningitis. 20
+
+============================================================
+CHUNK 13
+============================================================
+Differential Diagnosis
+None  of  the  clinical  features  of  cryptococcosis  is  distinctive. Infection can be similar to diseases such as lymphoma or other malignancies and many opportunistic bacterial, fungal, viral, or parasitic infections.
+
+============================================================
+CHUNK 14
+============================================================
+PREVENTION OF CRYPTOCOCCAL MENINGITIS
+Pre-emptive antifungal therapy with |uconazole in cryptococcal antigen-positive, neurologically asymptomatic, HIV-infected patients with CD4 count < 100 cells/mm 3 is recommended. 21 The strategy of combining pre-emptive |uconazole and ART has led to  a  signi{cantly  reduced  mortality  in  advanced  HIV-infected patients. 22,23
+
+============================================================
+CHUNK 15
+============================================================
+TREATMENT
+All  patients  with  cryptococcal  disease  should  be  treated.  Case fatality rates (CFRs) despite treatment are still approximately 20%, even in patients without underlying disease. CFRs are higher in low-income regions, possibly because of late presentation. 17
+Treatment guidelines from the Infectious Diseases Society of America consider the immune status of the host and the clinical presentation. 23 Treatment of severe cryptococcosis (meningoencephalitis, disseminated infection, acute pneumonia) includes an induction  phase  with  amphotericin  B  (0.7-1.0 mg/kg/day)  and |ucytosine  (100 mg/kg/day  in  four  divided  doses)  for  2  weeks (with normal renal function). Lipid formulations of amphotericin B can be used, particularly in those with renal dysfunction during treatment. Flucytosine blood levels should be monitored. In subSaharan African settings, the recommended initial treatment of HIV-associated cryptococcal  meningitis  is 1 week  of combined amphotericin B (1 mg/kg/day) and |ucytosine (100 mg/kg/day in four divided doses), followed by 1 week of high-dose |uconazole (1200 mg/day), or 2 weeks of high-dose |uconazole and |ucytosine when amphotericin B is not recommended or not available. 25,26 Consolidation  therapy  with  |uconazole  (400-800 mg/day)  is recommended for 8 additional weeks. Corticosteroids as adjuvant therapy of cryptococcal meningitis are not recommended because they are associated with more adverse events and disability. 27
+The duration and dose of maintenance therapy depend on the immune status of the host. In milder forms of the disease, |uconazole (400 mg/day for at least 6-10 weeks) is prescribed. In AIDS patients,  long-term  maintenance  treatment  with  |uconazole (200 mg/day) should be given until immune reconstitution has occurred after initiation of ART (CD4 + > 100-200 cells/ μ L and undetectable viral load for > 3 months).
+
+============================================================
+CHUNK 16
+============================================================
+TREATMENT
+Elevated intracranial  pressure  needs  to  be  monitored. With clinical  evidence  of  increased  intracranial  pressure  and  a  CSF pressure of ≥ 25 cm H2O, daily lumbar puncture with CSF removal must be performed. Therapeutic lumbar punctures are associated with  about  70%  improvement  in  survival. 28 CSF  shunting  is necessary when lumbar puncture cannot control symptoms. T o prevent IRIS, ART should be delayed until the patient has been treated for cryptococcal disease for ≥ 2 weeks and at least 4 weeks in  the  case  of  meningitis. 26,29 If  IRIS  does  occur,  short-course corticosteroids may help control symptoms. Surgical excision for pulmonary mass lesions caused by C. gattii has been performed.
+Treatment  should  achieve  sterilization  of  all  infected  sites. Encapsulated yeasts can be seen long after CSF sterilization. Serial evaluations of serum cryptococcal antigen titers may not correlate with treatment responses.
+
+============================================================
+CHUNK 17
+============================================================
+OUTCOME
+In a systematic review, 1-year mortality in cryptococcal meningitis was found to be almost 80% in HIV-infected patients. Disability or  impairment  was  found  in  more  than  70%  of  non-HIV  and HIV-infected survivors. 30
+
+============================================================
+CHUNK 18
+============================================================
+REFERENCES
+1.  Rajasingham R, Smith RM, Park BJ, et al. Global burden of disease of HIV-associated cryptococcal meningitis: an updated analysis. Lancet Infect Dis 2017;17(8):873-81.
+2.  Britz  E,  Perovic  O,  Mollendorf  von  C,  et al. The  epidemiology  of meningitis  among  adults  in  a  South African  province  with  a  high HIV prevalence, 2009-2012. PLoS ONE 2016;11(9):e0163036.
+3.  Micol  R,  Lortholary  O,  Sar  B,  et al.  Prevalence,  determinants  of positivity, and clinical utility of cryptococcal antigenemia in Cambodian HIV-infected patients. J Acquir Immune De{c Syndr 2007;45: 555-9.
+4.  Jarvis JN, Bicanic T, Loyse A, et al. Determinants of mortality in a combined cohort of 501 patients with HIV-associated cryptococcal meningitis:  implications  for  improving  outcomes.  Clin  Infect  Dis 2014;58(5):736-45.
+5.  Lortholary O, Poizat G, Zeller V , et al. Long-term outcome of AIDSassociated  cryptococcosis  in  the  era  of  combination  antiretroviral therapy. AIDS 2006;20:2183-91.
+6.  Mitchell TG, Perfect JR. Cryptococcosis in the era of AIDS - 100 years after the  discovery of Cryptococcus  neoformans .  Clin  Microbiol Rev 1995;8:515-48.
+7.  Meiring  ST,  Quan  VC,  Cohen  C,  et al. A  comparison  of  cases  of paediatric-onset  and  adult-onset  cryptococcosis  detected  through population-based surveillance, 2005-2007. AIDS 2012;26(18):2307-14.
+8.  Casadevall  A,  Perfect  JR.  Cryptococcus  neoformans.  Washington: American Society for Microbiology; 1998.
+9.  Lindberg J, Hagen F , Laursen A, et al. Cryptococcus gattii risk for tourists visiting Vancouver Island, Canada. Emerg Infect Dis 2007;13:178-9.
+
+============================================================
+CHUNK 19
+============================================================
+REFERENCES
+10.  Bicanic T , Meintjes G, Rebe K, et al. Immune reconstitution in|ammatory syndrome in HIV-associated cryptococcal meningitis: a prospective study. J Acquir Immune De{c Syndr 2009;51:130-4.
+11.  Lortholary O, Fontanet A, Memain N, et al. Incidence and risk factors of immune reconstitution in|ammatory syndrome complicating HIVassociated cryptococcosis in France. AIDS 2005;19:1043-9.
+12.  Dromer F, Mathoulin-Pelissier S, Launay O, Lortholary O. Determinants of disease presentation and outcome during cryptococcosis: the CryptoA/D study. PLoS Med 2007;4:e21.
+13.  Graybill JR, Sobel J, Saag M, et al; the NIAID Mycoses Study Group and AIDS Cooperative treatment Groups. Diagnosis and management
+
+============================================================
+CHUNK 20
+============================================================
+REFERENCES
+- of increased intracranial pressure in patients with AIDS and cryptococcal meningitis. Clin Infect Dis 2000;30:47-54.
+14.  Bicanic T , Brouwer AE, Meintjes G, et al. Relationship of cerebrospinal |uid pressure, fungal burden and outcome in patients with cryptococcal meningitis undergoing serial lumbar punctures. AIDS 2009;23:701-6.
+15.  Lortholary O, Nunez H, Brauner M, Dromer F. Pulmonary cryptococcosis. Sem Resp Crit Care Med 2004;25:145-57.
+16.  Chen S, Sorrell T , Nimmo G, et al; the Australasian Cryptococcal Study Group. Epidemiology and host- and variety-dependent characteristics of infection due to Cryptococcus neoformans in Australia and New Zealand. Clin Infect Dis 2000;31:499-508.
+17.  Jarvis  JN,  Dromer  F ,  Harrison TS,  Lortholary  O.  Managing  cryptococcosis in the immunocompromised host. Curr Opin Infect Dis 2008;21:596-603.
+18.  Longley N, Jarvis JN, Meintjes G, et al. Cryptococcal antigen screening in patients initiating ART in South Africa: A prospective cohort study. Clin Infect Dis 2016;62(5):581-7.
+19.  Wake RM, Britz E, Sriruttan C, et al. High cryptococcal antigen titers in blood are predictive of subclinical cryptococcal meningitis among HIV-infected patients. Clin Infect Dis 2018;66(5):686-92.
+20.  T emfack  E,  Kouafack  C,  Mossiang  L,  et al.  Cryptococcal  antigen screening in asymptomatic HIV-infected antiretroviral naïve patients in Cameroon and evaluation of the new semi-quantitative BioSynex CryptoPS test. Front Microbiol 2018;9:409.
+21.  WHO. Guidelines for Managing Advanced HIV Disease and Rapid Initiation of Antiretroviral Therapy. 2017 Jul 12.
+
+============================================================
+CHUNK 21
+============================================================
+REFERENCES
+22.  M{nanga S, Chanda D,  Kivuyo SL, et al. Cryptococcal  meningitis screening and community-based early adherence support in people with advanced HIV infection starting antiretroviral therapy in T anzania
+- and  Zambia:  an  open-label,  randomised  controlled  trial.  Lancet 2015;385(9983):2173-82.
+23.  T emfack E, Bigna JJ, Luma HN, et al. Impact of routine cryptococcal antigen  screening  and  targeted pre-emptive  |uconazole  therapy in antiretroviral  naive  HIV-infected  adults  with  less  than  100  CD4 cells/µL:  a  systematic  review  and  meta-analysis.  Clin  Infect  Dis 2018;50:1101.
+24.  Perfect JR, Dismukes WE, Dromer F, et al. Clinical practice guidelines for the management of cryptococcal disease: 2010 update by the infectious diseases society of America. Clin Infect Dis 2010;50:291-322.
+25.  Molloy SF , Kanyama C, Heyderman RS, et al. Antifungal combinations for  treatment of cryptococcal meningitis in Africa. New England J Med 2018;378(11):1004-17.
+26.  WHO. Guidelines for the diagnosis, prevention and management of cryptococcal disease in HIV-infected adults, adolescents and children. March 2018. WHO/CDS/HIV/18.2.
+27.  Beardsley J, Wolbers M, Kibengo FM, et al. Adjunctive dexamethasone  in  HIV-associated  cryptococcal  meningitis.  New  Engl  J  Med 2016;374(6):542-54.
+28.  Rolfes  MA,  Hullsiek  KH,  Rhein  J,  et al. The  effect  of  therapeutic lumbar punctures on acute mortality from cryptococcal meningitis. Clin Infect Dis 2014;59(11):1607-14.
+29.  Boulware DR, Meya DB, Muzoora C, et al. Timing of antiretroviral therapy after diagnosis of cryptococcal meningitis. New Engl J Med 2014;370(26):2487-98.
+
+============================================================
+CHUNK 22
+============================================================
+REFERENCES
+30.  Pasquier E, Kunda J, De Beaudrap P, et al. Long term mortality and disability  in  cryptococcal  meningitis:  a  systematic  literature  review. Clinical infectious diseases: an of{cial publication of the infectious diseases society of America. Clin Infect Dis 2018;66(7):1122-32.
+

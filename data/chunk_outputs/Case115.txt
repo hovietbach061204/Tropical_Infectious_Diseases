@@ -1,0 +1,214 @@
+============================================================
+CHUNK 0
+============================================================
+Infection Control in the Tropics 21
+Haider J Warraich, Syed Faisal Mahmood, Anita KM Zaidi
+
+============================================================
+CHUNK 1
+============================================================
+Key features
+- Patients in developing countries su)er high rates of healthcare-associated infections
+- Unique challenges of infection control in the tropics include:
+- Lack of resources and trained personnel
+- Low accessibility to clean water
+- Inappropriate use of invasive devices
+- Easy availability of over-the-counter antibiotics
+- Overcrowding and understa*ng
+- Poor vector control
+- Standard Infection Control Precautions (hand hygiene, patient isolation, aseptic technique, use of personal protective barriers, appropriate sterilization and disinfection of reused equipment, and safe injection practices) form the cornerstone of infection control in hospitals
+- Adequate attention to hand hygiene compliance is the most important component of basic infection control
+- E)ective, low-cost, practical solutions addressing behavior modi+cation to improve adherence to infection control practices, coupled with surveillance, and provision of essential resources can decrease the rate of healthcareassociated infections in developing countries
+- Establishment of an e)ective infection control program in a health facility requires an infection control committee and strong institutional commitment to the program
+Infection  control  policies  and  procedures  are  designed  to  prevent acquisition of healthcare-associated infections (HAIs) among patients as well as healthcare workers and visitors. The complexities of infection  control  in  hospital  environments  have  challenged  medical systems  throughout  the  world,  and  are  constantly  evolving  with advances in medical technology and care of increasingly vulnerable patients. In this chapter, we have considered the tropics to be synonymous with developing countries, since most developing countries are located in tropical regions of the world. The term nosocomial infection  has traditionally been used to refer to hospital-acquired infections among patients presenting 72 hours after hospitalization. We prefer the term healthcare-associated infections (HAIs) because many infections associated with the delivery of healthcare occur in outpatient  settings  and  hospital-acquired  infections  may  present  sooner than 72 hours after admission. This chapter includes a review of the burden of HAIs in developing countries, selected problems unique to the  tropics  that  have  a  great  impact  on  the  people  and  the  health system, and a discussion of basic infection control measures.
+
+============================================================
+CHUNK 2
+============================================================
+BURDEN OF HEALTHCARE-ASSOCIATED INFECTIONS IN DEVELOPING COUNTRIES
+HAIs  are  a  serious  problem  in  industrialized  countries,  with  1.7 million cases, and an estimated 100,000 deaths, per annum reported in the US alone [1]. However, with scant attention to infection control and poor quality of hospital care in most developing countries, HAIs are now recognized as a huge health burden in developing countries, too,  responsible  for  both  increased  morbidity  and  mortality,  and waste of precious resources. In addition, HAIs subvert patient expectations  of  quality  medical  care  and  increase  negativity  towards  the formal health system in favor of other options, especially since the costs of HAIs are borne by the patients themselves in many developing countries. The World Health Organization (WHO) estimates that 1.4 million people suffer from HAIs worldwide. Furthermore, the risk of acquiring HAIs in developing countries is 2 to 20 times higher than in developed countries. Reducing the risk of HAIs faced by populations in developing countries is a major priority of the WHO [2].
+
+============================================================
+CHUNK 3
+============================================================
+RISK FACTORS FOR HEALTHCARE-ASSOCIATED INFECTIONS IN DEVELOPING COUNTRIES
+Risk factors universally associated with an increased risk of HAIs are severity of underlying disease, length of hospital stay, inter-hospital transfers,  use  of  invasive  medical  devices  (intravascular  devices, urinary  catheters,  intubation  and  mechanical  ventilation),  surgery, and  prolonged  and/or  broad-spectrum  antimicrobial  therapy.  An interplay  of  multiple  complex  factors  lies  at  the  heart  of  HAIs  in developing countries (Table 21-1). These include lack of robust surveillance systems to control infections and outbreaks, indiscriminate antibiotic use, nonadherence to basic infection control practices such as  hand  washing,  inadequate  sterilization  of  medical  equipment, reuse of single-use devices, and presence of reservoirs of infection such as contaminated food and water inside the hospital. Some of these are easier to address - for example, by staff training, adequate sterilization of equipment, and improving compliance with hand hygiene than are others, such as overcrowding and understaffing.
+
+============================================================
+CHUNK 4
+============================================================
+MODES OF TRANSMISSION
+In healthcare settings, most infections are transmitted through direct or  indirect  contact.  In  developing  countries,  lack  of  hand  hygiene results in transmission of infectious agents from one infected patient to  another.  Table  21-2  provides  a  summary  of  different  modes  of transmission of infectious organisms, all of which necessitate specific transmission-based precautions.
+
+============================================================
+CHUNK 5
+============================================================
+ANTIMICROBIAL RESISTANCE
+Antimicrobial  resistance  is  a  major  challenge  [3].  HAIs  in  developing  countries  are  dominated  by  Gram-negative  organisms  [4]. The proportion of resistant  organisms, such as methicillin-resistant Staphylococcus aureus , extended-spectrum β -lactamase-producing Enterobacteriaceae ,  multidrug-resistant Pseudomonas  aeruginosa and
+TABLE 21-1 Infections in, 1 = Factors Underlying Healthcare-Associated Developing Countries. Programmatic factors, 1 = Lack of resources (8nancial, programmatic, institutional) Low priority of infection control Lack of integration of infection control practices in routine medical care Over-the-counter availability and indiscriminate use of antibiotics Lack of infection surveillance systems Lack of microbiological laboratory facilities for reliable identi8cation of infecting pathogens and antimicrobial susceptibility. Healthcare sta< factors, 1 = Lack of infection control training Poor compliance with standard infection control practices, especially hand washing Carriage of organisms (hands, clothing, linen) Understa;ng Inadequate sterilization and disinfection of equipment Use of devices (ventilators, central lines, urinary catheters) without aseptic precautions. Facility-related factors, 1 = Inadequate vector control (pests, rodents, arthropods) Overcrowding Lack of ventilation, climate control and e9ective isolation areas Lack of sinks and running water, soap, alcohol rubs, gloves, and other supplies Reservoirs of community infections in hospitals Re-use of single-use invasive devices (syringes, catheters, tubings) because of supply shortages Inadequate facilities for sterilization and disinfection. Host factors, 1 = Severity of underlying disease Length of hospital stay High burden of infectious diseases in the patient population. Pathogen factors, 1 = High prevalence of multidrug-resistant organisms
+Acinetobacter spp.,  is  also  substantially  higher  in  developing  countries.  Factors  that  predispose  to  infections  with  resistant  organisms are poor hospital hygiene, high, and often irrational broad-spectrum antimicrobial  use,  overcrowding,  lack  of  resources  for  infection control, unavailability of reliable microbiologic culture and antimicrobial susceptibility results, and a lack of personnel trained in controlling infections.
+
+============================================================
+CHUNK 6
+============================================================
+ANTIMICROBIAL RESISTANCE
+Control of antibiotic resistance requires strict adherence to infection control  measures  and  restricted  use  of  antibiotics.  Hospitals  can rationalize  antibiotic  use  through  antibiotic  stewardship  programs. However, antibiotic  policies  only  have  limited  impact  in  countries where  antimicrobials  such  as  third-generation  cephalosporin  and fluoroquinolones are freely available over-the-counter and are widely and  inappropriately  used  [5].  Misuse  of  antibiotics  (inappropriate prescription, suboptimal dosing and duration) as well as low-potency formulations are widespread and a major factor associated with the emergence  of  resistant  organisms.  Although  antibiotic  stewardship programs can reduce and rationalize use of antibiotics, such programs are seldom implemented in developing countries. A review of antimicrobial  use  has  shown  that  countries  that  adhere  to  WHO's
+TABLE 21-2 Modes of Transmission in Health Care Settings
+
+Contact transmission, Features = Most common route. Divided into two sub-groups:. Direct contact, Features = Organisms are transferred from one infected person to another without a contaminated intermediate, e.g. body :uid of patient directly enters healthcare worker's body through mucous membrane or cut in skin. Indirect contact, Features = Transfer of organism through a contaminated intermediate object or person. Important intermediates include hands of healthcare workers, patient care devices and instruments, and clothing. Droplet transmission, Features = Respiratory droplets ( > 5 μ m) carry organisms directly from the respiratory tract of the patient, over short distances (usually ≤ 3 feet), necessitating facial protection such as with masks: e.g. Bordetella pertussis, Mycoplasma pneumoniae, respiratory syncytial virus and in:uenza virus. Airborne transmission, Features = Transmission of droplet nuclei ( ≤ 5 μ m) or small particles containing infectious agents that remain infective over time and distance, e.g., Mycobacterium tuberculosis, measles virus, varicella-zoster virus. These necessitate use of special air handling and ventilation systems
+essential  drug  policies  provide  greater  access  to  essential  drugs  for vulnerable populations with less indiscriminate prescription of antimicrobials and injections [6].
+
+============================================================
+CHUNK 7
+============================================================
+ANTIMICROBIAL RESISTANCE
+Access  to reliable  microbiologic  data  with information  on etiology and antimicrobial susceptibility patterns of pathogens is also essential.  Microbiology facilities  are usually  inadequate in  resource-poor settings,  contributing  to  high  rates  of  empiric  antimicrobial  use, impeding  surveillance,  epidemiologic  study  of  resistance  patterns, and infection control.
+
+============================================================
+CHUNK 8
+============================================================
+DEVICE-ASSOCIATED INFECTIONS
+Device-associated  infections  (DAIs)  include  central-line-associated bloodstream  infections,  catheter-associated  urinary  tract  infections, and ventilator-associated pneumonia. The use of invasive devices in hospitals in developing countries has rapidly increased without equal attention given to instituting infection control, resulting  in rates of device-associated infections that are much higher than in industrialized countries. Surveillance by the  International Nosocomial  Infection  Control  Consortium  (INICC)  in  98  ICUs  in  resource-poor settings in Latin America, Asia, Africa and Europe, using Centers for Disease Control and Prevention (CDC) definitions for HAIs, showed that among 43,1 14 patients over an aggregate of 272,279 days from 2002 through 2007, the pooled mean rates of DAIs were much higher compared to industrialized countries [7]. Catheter-associated bloodstream infection rates were 8.9 per 1000 central line (CL)-days compared to 2.4 per 1000 CL-days in comparable medical-surgical ICUs in  the  US,  ventilator-associated  pneumonia  was  19.8  versus  3.6
+per 1000 ventilator-days, and catheter-associated urinary tract infections rates were 6.6 versus 3.4 per 1000 catheter-days. Implementation of guidelines designed by the consortium for decreasing rates of infections  from ventilators,  catheters  and central  lines  by using  positive feedback programs for hand hygiene and central line, ventilator and urinary catheter care [8].
+
+============================================================
+CHUNK 9
+============================================================
+SURGICAL SITE INFECTIONS
+Surgical procedures are associated with higher postoperative wound infection rates in developing countries due to inadequate attention to aseptic precautions. While most data are anecdotal, surgical wound infections are reported to be as high as 12.5% in Vietnam and 19.6% in Kenya. A surgical checklist developed by WHO has reduced surgical mortality and morbidity by encouraging use of simple measures by surgery, anesthesia and nursing staff. Ensuring delivery of antibiotic prophylaxis in the operating room using verbal confirmation alone improved  antibiotic  prophylaxis  compliance  from  56%  to  83%. Chlorhexidine-alcohol is the antiseptic of choice for preoperative surgical  site skin cleansing, and is superior to povidone-iodine in preventing  postoperative  wound  infections  [9].  Evidence also  suggests that  chlorhexidine-gluconate-based  scrubs  are  more  effective  than povidone-iodine-based aqueous scrubs in reducing bacterial contamination on staff hands prior to operative procedures. A recent study showed that S . aureus -associated postoperative wound infections can be decreased by treating nasal carriers of S. aureus with preoperative mupirocin nasal-ointment and chlorhexidine soap. However, application in developing countries may be limited by the need to identify S.  aureus carriers  using  rapid  DNA  detection methods such as realtime PCR.
+
+============================================================
+CHUNK 10
+============================================================
+UNSAFE INJECTIONS AND NEEDLE-STICK INJURIES
+Unsafe injections are one of the most important sources of bloodborne pathogens such as hepatitis B and C, and HIV [10], and have been linked to nosocomial transmission of Ebola virus, Lassa fever and malaria. It is estimated that 16 billion syringes are sold worldwide each year, the vast majority in developing countries; injection rates vary from 1.7 to 1 1.3 per person per year depending on the geographic region.  Up  to  75%  of  these  may  be  non-sterilized.  Injections  are mostly prescribed for nonspecific symptoms, gastroenteritis, fever or upper respiratory symptoms, and reuse of syringes is common.
+Needle-stick injuries to healthcare workers are another source of infection with blood-borne pathogens. These injuries result from lack of adequate  training,  improper  disposal  and  destruction  of  needles, attempts to recap needles, and other unsafe practices. Trainee staff and nurses are most at risk when drawing blood.
+Improving  injection  safety  requires  programmatic  reform  on  a national level. Although expensive, the availability of needle-disposal kits,  and  disposable  'auto-destruct'  syringes  should  be  increased. Healthcare  workers,  medical  and  allied  health  students,  and  the public should be educated about the dangers of unsafe injections and the indications for injection medications. Healthcare workers should be trained in safe practices. Surveillance of needle-stick injuries and post-exposure prophylaxis for healthcare workers should be part of hospital infection control programs.
+
+============================================================
+CHUNK 11
+============================================================
+CROSSOVER OF COMMUNITY INFECTIONS INTO HOSPITALS
+Outbreaks of several diseases such as cholera, measles, nontyphoidal Salmonella and  other  fecal-oral  transmitted  organisms  have  been reported [1 1]. Overcrowding, improper isolation of patients harboring  these  infections,  and  presence  of  visitors  and  outsiders  are  frequently implicated. Other sources of infection include contaminated food products brought in from the outside, and hospital food handlers who are infected [12].
+Vector-borne  illnesses  such  as  malaria,  dengue  fever,  leishmaniasis and filariasis are of concern in tropical environments [13]. Hospitals with  inadequate  vector  control  procedures  serve  as  amplifiers  of vector-borne illnesses because of the presence of infected patients in an overcrowded  environment. Rodents such as mice and rats  have been implicated in spread of infectious diseases. Attention to waste disposal, screened doors and windows, and traps are of use in vector control.  New  and  more  cost-effective  LED  insect  traps  have  been shown  to  be  effective  in  tropical  climates,  with  minimal  trap failures.
+
+============================================================
+CHUNK 12
+============================================================
+TUBERCULOSIS
+Individuals  co-infected  with  HIV  and  TB  have  rapidly  progressive disease, and those with pulmonary disease are highly infectious, via aerosolized droplets, posing great challenges for infection control in resource-limited settings.
+Healthcare  workers,  including  laboratory  workers,  are  at  risk  of acquiring  TB.  US  CDC guidelines  recommend rapid diagnosis and treatment, isolation in negative pressure rooms and special masks to prevent nosocomial  transmission, which  are rarely feasible in resource-poor settings. However, simple measures such as early diagnosis and treatment of patients with short-course chemotherapy, outpatient evaluation of suspected TB patients, a separate TB ward with adequate  ventilation  using  exhaust  fans  and  large  open  windows allowing UV rays from sunlight, early collection of samples, disinfecting  sputum  containers  and  treating  the  sputum  with  household bleach  can  be  applied  in  resource-poor  settings  [14].  WHO  has published  guidelines  to  control  transmission  of  TB  in  healthcare settings [15]. However, there is little evidence regarding efficacy and cost-effectiveness.
+
+============================================================
+CHUNK 13
+============================================================
+VIRAL HEMORRHAGIC FEVERS
+Viral hemorrhagic fevers (VHF) present unique challenges for tropical countries and infection control measures taken are dependent on the specific VHF pathogens predominant in that area.
+Spread of VHF viruses such as Lassa, Ebola, Marburg, and CrimeanCongo  Hemorrhagic  Fever  has  occurred  in  hospital  environments, where healthcare providers are at risk. Transmission can occur directly from the patient, at time of transfer of the dead body, through contact with infectious  fluids,  contaminated  equipment, or  by needle-stick injuries.  Standard  precautions (see  below) are necessary  to prevent nosocomial transmission of VHF viruses. In areas where VHF viruses are known to circulate, suspected cases should be immediately isolated and placed in strict barrier precautions. Information from previous outbreaks can help define case definitions for sporadic cases. In cases of outbreaks, patients should be cohorted in a designated area. If a designated area cannot be set aside, patients can be housed in a portion of a larger ward, in an uncrowded corner of a large hall, in rooms designated for TB, or in private rooms. Healthcare workers and household  members  caring  for  these  patients  should  be  identified and other personnel should be restricted. Ideally, personal protective equipment (PPE) should include a scrub suit, thin gloves, and rubber boots (if the floor is soiled), upon which a disposable gown, plastic apron,  thick  gloves,  HEPA  filters  and  eyewear  should  be  worn.  In resource-limited settings, local alternatives may be used, such as old shirts for scrubs, washable cotton gowns for disposable gowns, plastic bags  for  boots  and  thick  gloves,  plastic  sheets  or  plastic  cloth  for plastic aprons, commercially available eyeglasses for eye protection, and plastic bottles modified for sharps disposal. In regions prone to VHF outbreaks, a VHF coordinator should be appointed to oversee preparations and response, including serving as a focal point to coordinate activity and mobilize communities for rapid control [16].
+
+============================================================
+CHUNK 14
+============================================================
+BASICS OF INFECTION CONTROL
+The  fundamental  concept  of  infectious  disease  control  is  that  all patients admitted to the hospital are potentially infectious. An adequate body of knowledge about the basics of infection control exists which can be translated into action. However, the gap between knowledge and practice needs to be bridged with interventions feasible for developing-country settings.
+
+============================================================
+CHUNK 15
+============================================================
+BOX 21.1  Basic Infection Control Measures for Health Facilities
+- Surveillance, either hospital-wide or targeted
+- Hand hygiene
+- Outbreak investigations
+- Cleaning, disinfection, and sterilization of equipment and disposal of infectious waste
+- Hospital  employee  health,  speci8cally  after  exposure  to either blood-borne or respiratory pathogens
+- Review of antibiotic utilization, its relationship to local antibiotic resistance patterns, and antibiotic stewardship programs
+- Prevention  of  infections  due  to  surgical  procedures  and invasive devices (e.g. central venous catheters, urinary catheters and ventilators)
+- Development of infection control policies and procedures
+- Transmission risk-based patient isolation
+- Oversight on the use of new products that directly or indirectly relate to the risk of healthcare-associated infections
+Basic infection control measures deal with every aspect of the healthcare delivery system, since infection can spread at any point during the course of the patient's interaction with the system (Box 21.1).
+
+============================================================
+CHUNK 16
+============================================================
+STANDARD INFECTION CONTROL PRACTICES
+Standard infection control precautions ('Standard Precautions') are measures  that  apply  to  all  patients  regardless  of  their  reason  for admission (Table 21-3) [17], and form the foundation of infection control. These precautions evolved from 'Universal Precautions' that were developed by the CDC in the 1980s, specifically for blood-borne pathogens such as HIV and hepatitis B and C, and applied to blood and other body fluids containing visible blood, semen and vaginal secretions. 'Standard Precautions' combined the principles of 'Universal Precautions' and 'Body Substance Isolation', and is now applicable to all patients, regardless of suspected or confirmed infection status.
+The  single  most  important  aspect  of  Standard  Precautions  (Table 21-3) is hand hygiene, which can be hand washing with soap and water, or the use of alcohol-based gels or foams that do not use water. Guidelines published by the HICPAC/SHEA/APIC/IDSA  Hand Hygiene  Task  Force  provide  specific  recommendations  to  promote improved hand hygiene [18,19].
+An 'infection control committee' should be established to oversee compliance, efficacy and adequacy of infection control measures as well as develop institution-specific guidelines. Infection control committees are composed of representatives from the medical and surgical  services  as  well  as  microbiology,  infectious  diseases,  nursing, occupational  health  and  various  ancillary  services.  However,  to  be truly effective, strong administrative support and  provision of resources are essential, as is an organizational commitment to a safety culture  and  strengthening  of  systems  to  convert  knowledge  into action.  Unfortunately,  infection  control  committees  are  often  not present in most healthcare facilities in resource-limited countries, and when present, do not function efficiently. There may be a number of reasons  for  this,  including  lack  of  administrative  commitment,  no infrastructure within the institution, or a lack of expertise.
+
+============================================================
+CHUNK 17
+============================================================
+EVIDENCE FOR HAND HYGIENE
+Hand hygiene remains the cornerstone of infection control. Simple, low-cost programmatic measures promoting hand hygiene, such as increased  surveillance,  increased  sensitization  of  healthcare  staff,
+
+============================================================
+CHUNK 18
+============================================================
+EVIDENCE FOR HAND HYGIENE
+TABLE 21-3 Components of Standard Infection Control Precautions, 1 = TABLE 21-3 Components of Standard Infection Control Precautions. Component, 1 = Recommendation. Hand hygiene, 1 = After touching blood, body :uids, secretions, contaminated items; immediately after removing gloves; between patient contacts. Personal protective equipment (PPE), 1 = Personal protective equipment (PPE). - Gloves, 1 = For touching blood, body :uids, secretions, contaminated items; for touching mucous membranes and non-intact skin. - Gowns, 1 = During procedures and patient-care activities when contact of clothing/ exposed skin with blood/body :uids, secretions is anticipated. - Mask, eye protection, 1 = During procedures and patient-care activities when contact of clothing/ exposed skin with blood/body :uids, secretions is anticipated. Soiled patient-care equipment, 1 = Handle in a manner that prevents transfer of microorganisms to others and to the environment; wear gloves if visibly contaminated; perform hand hygiene. Environmental control, 1 = Develop procedures for routine care, cleaning, and disinfection of environmental surfaces, especially frequently touched surfaces in patient-care areas. Textiles and laundry, 1 = Handle in a manner that prevents transfer of microorganisms to others and to the environment. Needles and other sharps, 1 = Do not recap, bend, break, or hand- manipulate used needles; if recapping is required, use a one-handed scoop technique only; use safety features when available; place used sharps in puncture- resistant container. Patient resuscitation, 1 = Use mouthpiece, resuscitation bag, other ventilation devices to prevent contact with mouth and oral secretions. Patient placement, 1 = Prioritize for single-patient room if patient is at increased risk of transmission, is likely to contaminate the environment, does not maintain appropriate hygiene, or is at increased risk of acquiring infection or developing adverse outcome following infection. Respiratory hygiene/cough etiquette, 1 = Instruct symptomatic persons to cover mouth/nose when sneezing/coughing; use tissues and dispose in no-touch receptacle; observe hand hygiene after soiling of hands with respiratory secretions; wear surgical mask if tolerated or maintain spatial separation, > 3 feet if possible. Adapted from Siegel JD, Rhinehart E, Jackson M, et al. Healthcare Infection Control Practices Advisory Committee 2007 Guideline for Isolation
+
+============================================================
+CHUNK 19
+============================================================
+EVIDENCE FOR HAND HYGIENE
+Precautions: Preventing Transmission of Infectious Agents in Healthcare Settings, June 2007. http:// www.cdc.gov/ncidod/dhqp/gl_isolation.html (accessed 4 November, 1 = Adapted from Siegel JD, Rhinehart E, Jackson M, et al. Healthcare Infection Control Practices Advisory Committee 2007 Guideline for Isolation Precautions: Preventing Transmission of Infectious Agents in Healthcare Settings, June 2007. http:// www.cdc.gov/ncidod/dhqp/gl_isolation.html (accessed 4 November
+positive feedback programs and appropriate attention to device care, have  resulted in  substantially  lowering  infection  rates  in  ICUs in developing countries. Efforts to increase motivation and awareness of  staff  are  crucial  since  lapses  in  hygiene  practices  are  frequent unless continuously reinforced. Alcohol-based hand rubs are useful where access to running water is limited. They have better acceptability,  less  skin  irritation  compared  to  soap  and  water,  and  quicker application,  resulting  in  improved  compliance.  Commercially  prepared  products  are  available,  but  an  effective  low-cost  gel  can  be prepared by hospital pharmacies using 20 mL of glycerin, propylene glycol  or  sorbitol,  mixed  with  980 mL  of > 70% isopropanol. Gels combining  chlorhexidine  and  alcohol  may  be  more  effective  than alcohol  alone  because  of  chlorhexidine's  prolonged  bactericidal effect, but are expensive for routine hand hygiene. Their use is best limited to situations when a high degree of hand antisepsis is necessary,  such  as  before  surgical  procedures  and  placement  of  invasive devices.
+For optimal effectiveness, alcohol-based hand rubs should be combined with a multimodal intervention package that includes feedback and awareness messages, and other basic infection control practices.
+
+============================================================
+CHUNK 20
+============================================================
+EVIDENCE FOR OTHER INFECTION CONTROL INTERVENTIONS
+Routine  gowning  is  another  intervention  thought  to  be  useful  in controlling hospital-acquired infections. However, a Cochrane review assessing the  role  of  routine  gowning  of visitors  and  attendants  to prevent nosocomial infections in newborn nurseries showed no significant benefit in reducing mortality, systemic infection rates, bacterial colonization, length of hospital stay or hand-washing frequency [20]. Similarly, Cochrane reviews have found no benefit of preoperative 'bathing or washing' with chlorhexidine over other wash products such as bar soap, and no benefit in reducing infection rates by preoperative shaving.
+
+============================================================
+CHUNK 21
+============================================================
+SURVEILLANCE FOR HEALTHCAREASSOCIATED INFECTIONS
+Surveillance of resistant organisms and device- and procedure-related infections  are  well-recognized  markers  of  effectiveness  of  infection control programs and interventions while providing an early alert for outbreaks. Using standardized definitions, rates of targeted HAIs can be calculated over time and compared across institutions as well as before and after interventions. Surveillance of resistant organisms is more  problematic.  While  passive  surveillance  (based  on  clinically obtained samples) is less costly and labor-intensive, it tends to miss the reservoir of asymptomatic, colonized patients. Active surveillance, on  the  other  hand,  involves  screening  asymptomatic  patients  for resistant  organisms  and  can  be  more  effective  in  rapidly  isolating colonized patients. However, cost considerations are major limiting factors. Which patient populations should be targeted for screening, what the optimal method of screening is, and under what circumstances  is  screening  most  effective  remain  unresolved.  Hospitals should assess what can be done well in their setting and implement what is feasible. To overcome surveillance shortcomings, WHO has developed  a  low-cost  computer-based  antimicrobial  resistance  surveillance program (WHONET), which has been used successfully to monitor trends and generate locally applicable guidelines on antimicrobial use [21]. An additional impediment to surveillance of resistant organisms is the lack of reliable antimicrobial culture and susceptibility data. Standardization and quality assurance of clinical microbiology laboratories  is  not  enforced  in  most  developing  countries  and therefore  assessing  the  true  burden  of  antimicrobial  resistance  is challenging.
+
+============================================================
+CHUNK 22
+============================================================
+STRENGTHENING HEALTH SYSTEMS IN THE TROPICS
+One of the major limitations that hospitals face is the lack of resources directed towards infection control. However, while many problems are attributed to this, there are means to achieve infection control if strong institutional commitment exists. Despite the enormity of the challenge,  studies  reviewing  cost-effectiveness  of  infection  control measures are universally optimistic. Even minimally effective hospital infection  control  programs  are  cost-effective,  lowering  the  costs incurred from HAIs due to longer hospital stays, greater disease morbidity and mortality, and antimicrobial agents. Measures of the effectiveness of infection control can be used as an indicator of the quality of hospital care [22,23]. Any intervention program should comprise a  holistic  approach  that  includes  basic  infection  control  measures. WHO and CDC have issued guidelines to control spread of infections. However, the most effective solutions will be those that are indigenously  developed  and  implemented,  and  improved  through  active learning cycles and feedback. Local research will be necessary to identify critical points in infection transmission and solutions to address these.
+
+============================================================
+CHUNK 23
+============================================================
+REFERENCES
+1. Lynch P, Rosenthal VD, Borg MA, Eremin SR. Infection control: a global view. In: Jarvis WR, ed. Bennett and Brachman's Hospital Infections, 5th edn. San Francisco, CA: Lippincott Williams & Wilkins; 2008:255-71.
+2. Pittet  D,  Allegranzi  B,  Storr  J,  et  al.  Infection  control  as  a  major  World Health Organization priority for developing countries. J Hosp Infect 2008;68: 285-92.
+3. Mir F, Zaidi AKM. Hospital infections by anti-microbial resistant organisms in  developing  countries.  In:  Sosa  AJ,  Byarugaba  DK,  Amabile-Cuemas  CF, et  al.,  eds.  Antimicrobial  Resistance  in  Developing  Countries.  New  York: Springer; 2009.
+4. Zaidi AK, Huskins WC, Thaver D, et al. Hospital-acquired neonatal infections in developing countries. Lancet 2005;365:1175-88.
+5. Shears P.  Poverty and infection in  the  developing world: healthcare-related infections  and  infection  control  in  the  tropics.  J  Hosp  Infect  2007;67: 217-24.
+6. Hogerzeil HV, Bimo, Ross-Degnan D, et al. Field tests for rational drug use in twelve developing countries. Lancet 1993;342:1408-10.
+7. Rosenthal VD. Device-associated nosocomial infections in limited-resources countries: findings of the International Nosocomial Infection Control Consortium (INICC). Am J Infect Control 2008;36:S171.e7-12.
+8. Rosenthal  VD.  Central  line-associated  bloodstream  infections  in  limitedresource  countries:  a  review  of  the  literature.  Clin  Infect  Dis  2009;49: 1899-907.
+9. Darouiche  RO,  Wall  MJ  Jr,  Itani  KM,  et  al.  Chlorhexidine-alcohol  versus povidone-iodine  for  surgical-site  antisepsis.  N  Engl  J  Med  2010;362:1826.
+10.  Hutin YJ, Hauri AM, Armstrong GL. Use of injections in healthcare settings worldwide,  2000:  literature  review  and  regional  estimates.  BMJ  2003;327: 1075.
+
+============================================================
+CHUNK 24
+============================================================
+REFERENCES
+11.  Mhalu FS, Mtango FD, Msengi AE. Hospital outbreaks of cholera transmitted through close person-to-person contact. Lancet 1984;2:82-4.
+12.  Nyarango RM, Aloo PA, Kabiru EW, Nyanchongi BO. The risk of pathogenic intestinal parasite infections in Kisii Municipality, Kenya. BMC Public Health 2008;8:237.
+13.  Schierhorn C. Bug out! Using an integrated management approach to pest problems. Health Facil Manage 2002;15:40-2, 44.
+14.  Harries  AD,  Maher  D,  Nunn  P.  Practical  and  affordable  measures  for  the protection of health care workers from tuberculosis in low-income countries. Bull World Health Organ 1997;75:477-89.
+15.  WHO. Guidelines for the prevention of tuberculosis in health care facilities in resource-limited settings. http://www.who.int/entity/tb/publications/who_ tb_99_269/en/index.html
+16.  Centers for Disease Control and Prevention and World Health Organization. Infection Control for Viral Haemorrhagic Fevers in the African Health Care Setting.  Atlanta,  GA:  Centers  for  Disease  Control  and  Prevention;  1998: 1e198.
+17.  Siegel JD, Rhinehart E, Jackson M, et al. Healthcare Infection Control Practices Advisory  Committee  2007  Guideline  for  Isolation  Precautions:  Preventing Transmission of Infectious Agents in Healthcare Settings, June 2007. http:// www.cdc.gov/ncidod/dhqp/gl_isolation.html (accessed 4 November 2009).
+18.  Boyce  JM,  Pittet  D.  Guideline  for  Hand  Hygiene  in  Health-Care  Settings. Recommendations  of  the  Healthcare  Infection  Control  Practices  Advisory Committee  and  the  HICPAC/SHEA/APIC/IDSA  Hand  Hygiene  Task  Force. Society for Healthcare Epidemiology of America/Association for Professionals in Infection Control/Infectious Diseases Society of America. MMWR Recomm Rep 2002;51:1-45.
+
+============================================================
+CHUNK 25
+============================================================
+REFERENCES
+19.  Muto CA, Jernigan JA, Ostrowsky BE, et  al. SHEA guideline for preventing nosocomial  transmission  of  multidrug-resistant  strains  of  Staphylococcus aureus and enterococcus. Infect Control Hosp Epidemiol 2003;24:362-86.
+20.  Webster  J,  Pritchard  MA.  Gowning  by  attendants  and  visitors  in  newborn nurseries for prevention of neonatal morbidity and mortality. Cochrane Database Syst Rev 2003;(3):CD003670.
+21.  Stelling JM, O'Brien TF. Surveillance of antimicrobial resistance: the WHONET program. Clin Infect Dis 1997;24 Suppl 1:S157-68.
+22.  Damani N. Simple measures save lives: an approach to infection control in countries with limited resources. J Hosp Infect 2007;65 Suppl 2:151-4.
+23.  Travis P, Bennett S, Haines A, et al. Overcoming health-systems constraints to achieve the Millennium Development Goals. Lancet 2004;364:900-6.
+

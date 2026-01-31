@@ -1,0 +1,125 @@
+============================================================
+CHUNK 0
+============================================================
+Ke y fe at ure s
+- Trench fever is a relapsing acute febrile disease caused by Bartonella quintana
+
+============================================================
+CHUNK 1
+============================================================
+Trench Fever
+67
+
+============================================================
+CHUNK 2
+============================================================
+Barbara Doudier, Philippe Brouqui
+infected with B.  Quintana [4].  In  a  French  cohort of  930  homeless persons, lice infestation was present in 22% of people and 25% had a recent or ongoing bacteremia with B. quintana [5]. In Peru, volunteers from four different villages were included in a serologic study: 20% had antibodies against Rickettsia prowazekii and 12% had antibodies against B. quintana [6].
+- Trench fever is transmitted by body lice
+- Risk factors are war, famine, displacement, poverty, and crowding in resource-limited settings, and deprived social conditions and homelessness in developed countries; these conditions lead to body lice infestation
+- Trench fever usually manifests as a sudden febrile illness with headache and post-orbital pain , dizziness, and bone pain, especially of the shins, and may include malaise, chills, anorexia, profuse sweating, conjunctival infection, and myalgia
+- Chronic bacteremia following clinical resolution can occur
+- Diagnosis is usually based on clinical recognition, serologic tests, or microbiologic culture.
+- Individuals with trench fever should be treated with doxycycline and gentamycin; erythromycin may be an alternative
+- There is no vaccine available. Prevention usually involves de-lousing, hygiene, and changing clothes
+
+============================================================
+CHUNK 3
+============================================================
+INTRODUCTION
+Trench fever is caused by Bartonella quintana, a facultative intracellular bacterium  transmitted  by  the  human  body  louse.  An  estimated  1 million people were affected by trench fever during World War I [1]. It is characterized by attacks of fever that last 2-4 days and is associated with headache, pain in the shin and dizziness, which recur every 4-6  days,  although  each  succeeding  attack  is  usually  less  severe. Trench fever is now most commonly associated with conditions that predispose to louse infestation, including civil conflict, poverty, overcrowding, and displacement [2], as well as homelessness in industrialized areas, including Europe and the USA [3].
+
+============================================================
+CHUNK 4
+============================================================
+EPIDEMIOLOGY
+Bartonella  quintana is  a  cosmopolitan  bacterium transmitted by the human body louse, Pediculus humanus corporis , which lives in clothes and is associated with poverty, lack of hygiene, and cold weather (Fig. 67.1).  Pediculosis  (lice  infestation)  is  transmitted  by  contact  with clothes or bedding and is prevalent in impoverished, as well as homeless,  populations (Fig. 67.2). In San Francisco, 33.3% of body liceinfested persons and 25% of head lice-infested persons had lice pools
+Bacterial multiplication in body  lice starts  4 days after  ingestion; B quintana is excreted in louse feces for at least 3 weeks [7]. The number of bacteria in feces reaches 10 7 per louse by day 15. The doubling time of B.  quintana is  estimated  to  be  approximately  20  hours.  These attributes contribute to the ability of B.  quintana to  cause epidemic disease.
+
+============================================================
+CHUNK 5
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Bartonella  quintana DNA  was  detected  in  the  dental  pulp  of  4000year-old human remains [8] and it was also detected in lice found in a  mass  grave  containing  remains  of  soldiers  serving  in  Napoleon's army in Lithuania [9].
+However, trench fever was first described as a distinct clinical entity during World War I. At this time, the causative bacteria and effective treatment were unknown, but the association with trenches, unsanitary conditions, and louse infestation led to the institution of preventive measures, including bathing and de-lousing.
+Bartonella quintana multiplies in the louse's intestine and the bacterium is transmitted by contact with infected louse feces through skin breaks, not through a bite of a louse. Persistent bacteremia in human facilitates its spread back to lice. The bites of body lice can lead to pruritus and scratching, which lead to microabrasions and facilitate transmission of the bacteria. Some humans become chronically bacteremic following resolution of acute illness [10].
+Bartonella quintana is also a cause of bacillary angiomatosis and peliosis hepatis. These are disorders of vascular hyperproliferation linked with endothelial  cell  proliferation and  pseudo-tumor  formation  in immunocompromised persons, especially those with advanced HIV infection [1 1]. Variable  outer  membrane proteins ('VOMPS') of B. quintana are  involved in  vascular endothelial growth factor (VEGF) secretion and inducing vascular proliferation.
+
+============================================================
+CHUNK 6
+============================================================
+TRENCH FEVER
+Trench  fever  is  an  acute  disease  characterized  by  sudden  onset  of high-grade fever, headaches, dizziness, and a characteristic pain in the shins. Dizziness and headaches are sometime so sudden that soldiers have been known to fall over in the trenches. Other symptoms include post-orbital  pain  (typically  exacerbated by movement), pain in  the lower limbs and back, constipation, a rash on the face, and a loss of appetite [12]. The first episode of fever may last 2-4 days and may be followed  by  relapses  every  4-6  days,  giving  rise  to  trench  fever's
+FIGURE  67. 1 Body  louse,  a  vector  for B.  quintana ,  sucking  blood  on  a homeless patient.
+FIGURE 67. 2 Pediculosis and super infection in a homeless man seeking care during a snapshot intervention in shelters. (Reproduced with permission from Brouqui P, Stein A, Dupont HT, et al. Ectoparasitism and vector-borne diseases in 930 homeless people from Marseilles. Medicine (Baltimore) 2005;84:61-8.)
+appellation  of  'quintane'  fever  (reflected  in  its  scientific  name, B. quintana ).
+The incubation period is typically 15-25 days but may be reduced to 6 days in experimental infections. Although trench fever often results in prolonged disability, it is rarely fatal.
+
+============================================================
+CHUNK 7
+============================================================
+CHRONIC INFECTION AND COMPLICATIONS CAUSED BY B.  Q UINT ANA
+Persistent bacteremia has long been associated with B. quintana infection.  Asymptomatic  and  prolonged  bacteremia  can  be  detected  in 20-30% of patients; B.  quintana has been detected in the blood of trench fever patients up to 8 years after initial infection.
+Bartonella species  are  associated  with  culture-negative  endocarditis. Clinical  features  include  fever. Bartonella endocarditis  is  typically diagnosed  in  individuals  without  previous  valvular  abnormalities, although  risk  factors  include  homelessness,  alcoholism,  and  body louse infestation [10].
+Bacillary angiomatosis is a proliferative vascular disease of immunodeficient patients (usually individuals with advanced HIV infection), although  rare  cases  in  immunocompetent  individuals  have  been reported.  Bacillary  angiomatosis  can  be  caused  by B.  quintana and Bartonella henselae , the cause of cat scratch disease. Various organs may be  affected,  including  the  liver,  spleen,  bone  marrow,  and  lymph nodes, but the skin is most often involved. Cutaneous lesions may be solitary or multiple and may bleed profusely when punctured.
+
+============================================================
+CHUNK 8
+============================================================
+DIAGNOSIS
+Diagnosis of trench fever is usually based on clinical recognition in the setting of epidemiologic risk factors and supported by serologic analysis or, less commonly, microbiologic culture of blood. Indirect immunofluorescence (IFA) is considered the standard serologic assay. Nucleic acid amplification tests may also be used.
+
+============================================================
+CHUNK 9
+============================================================
+IMMUNOHISTOCHEMISTRY
+Immunohistochemistry  may  also  be  used  to  detect B.  quintana in tissue  samples,  such  as  resected  cardiac  valvular  tissue  or  bacillary angiomatosis tissue.
+
+============================================================
+CHUNK 10
+============================================================
+TROPICAL AREAS
+The  burden  of B.  quintana infection  and  trench  fever  in  resourcelimited settings is uncertain. Bartonella quintana has a worldwide distribution: trench fever has occurred among refugees in Burundi [2]; B.  quintanaassociated  endocarditis  has  been  reported  in  Ethiopia, Algeria,  Tunisia  [13],  and  Senegal;  and  bacillary  angiomatosis  has been reported in HIV patients in South Africa.
+
+============================================================
+CHUNK 11
+============================================================
+PREVENTION AND TREATMENT
+No vaccine to prevent B.  quintana infection is  available. Prevention usually involves de-lousing, changing clothes and blankets, bathing, and treating louse-bite associated pruritus [14].
+
+============================================================
+CHUNK 12
+============================================================
+TREATMENT
+Adults with trench fever or B. quintana chronic bacteremia should be treated  with  doxycycline 200 mg  orally  daily  for  4 weeks and gentamycin 3 mg/kg IV once a day for 2 weeks [15]. Optimal treatment for children younger than 8 years of age is unknown, but erythromycin may be an alternative. Individuals with bacillary angiomatosis or hepatic peliosis should be treated with erythromycin 500 mg orally 4 times a day for 3 and 4 months, respectively [15]. Children can be similarly  treated  with  oral  erythromycin  ethylsuccinate  40 mg/kg total/day in four divided doses (maximum total daily dose, 2 g/day) for 3-4 months, respectively [15].
+
+============================================================
+CHUNK 13
+============================================================
+REFERENCES
+1. Raoult D, Roux V. The body louse as a vector of reemerging human diseases. Clin Infect Dis 1999;29:888-911.
+2. Raoult D, Ndihokubwayo JB, Tissot-Dupont H, et al. Outbreak of epidemic typhus associated with trench fever in Burundi. Lancet 1998;352:353-8.
+3. Badiaga  S,  Raoult  D,  Brouqui  P.  Preventing  and  controlling  emerging  and reemerging transmissible diseases in the homeless.  Emerg Infect Dis 2008; 14:1353-9.
+4. Bonilla DL, Kabeya H, Henn J, et al. Bartonella quintana in body lice and head lice from homeless persons, San Francisco, California, USA. Emerg Infect Dis 2009;15:912-15.
+5. Brouqui P, Stein A, Dupont HT, et al. Ectoparasitism and vector-borne diseases in  930  homeless  people  from  Marseilles.  Medicine  (Baltimore)  2005;84: 61-8.
+
+============================================================
+CHUNK 14
+============================================================
+REFERENCES
+6. Raoult D, Birtles RJ, Montoya M, et al. Survey of three bacterial louse-associated diseases among rural Andean communities in Peru: prevalence of epidemic typhus, trench fever, and relapsing fever. Clin Infect Dis 1999;29:434-6.
+7. Seki N, Kasai S, Saito N, et al. Quantitative analysis of proliferation and excretion of Bartonella quintana in body lice, Pediculus humanus L. Am J Trop Med Hyg 2007;77:562-6.
+8. Drancourt M, Tran-Hung L, Courtin J, et al. Bartonella quintana in a 4000-yearold human tooth. J Infect Dis 2005;191:607-1 1.
+9. Raoult  D,  Dutour  O,  Houhamdi  L,  et  al.  Evidence  for  louse-transmitted diseases  in  soldiers  of  Napoleon's  Grand  Army  in  Vilnius.  J  Infect  Dis 2006;193:112-20.
+10.  Foucault C, Brouqui, P, Raoult D. Bartonella quintana characteristics and clinical management. Emerg Infect Dis 2006;12:217-23.
+11.  Schulte  B, Linke D, Klumpp, S, et al. Bartonella quintana variably expressed outer membrane proteins mediate vascular endothelial growth factor secretion but not host cell adherence. Infect Immun 2006;74:5003-13.
+12.  Kostrzewski J. Epidemiology of trench fever. Med Dosw Mikrobiol 1950;2:1951 [in Polish].
+13.  Znazen A, Rolain JM, Hammami N, et al. High prevalence of Bartonella quintana endocarditis in Sfax, Tunisia. Am J Trop Med Hyg 2005;72:503-7.
+14.  Badiaga  S,  Foucault  C,  Rogier  C,  et  al.  The  effect  of  a  single  dose  of  oral ivermectin on pruritus in the homeless. J Antimicrob Chemother 2008;62: 404-9.
+
+============================================================
+CHUNK 15
+============================================================
+REFERENCES
+15.  Rolain JM, Brouqui P, Koehler JE, et al. Recommendations for treatment of human infections  caused  by  Bartonella  species.  Antimicrob  Agents  Chemother 2004;48:1921-33.
+

@@ -1,0 +1,173 @@
+============================================================
+CHUNK 0
+============================================================
+Ke y fe at ure s
+- Immigration is increasing and health professionals need to be aware of key health concerns of immigrants and refugees
+- Health professionals must consider where the immigrant has lived and traveled prior to arriving in the US. Knowing the immigrant's underlying health status, age, and duration of time in the US is also necessary to determine needs for screening and potential illnesses
+- Screening for tuberculosis and hepatitis B are important for all migrants
+- Standardized screening protocols can help identify common infectious diseases of immigrants
+- Noninfectious processes such as depression and stress are common among immigrants
+
+============================================================
+CHUNK 1
+============================================================
+I N TRO DUCTI O N
+Almost 200 million people live outside their country of birth - about 3% of the world's population. Between 1965 and 1990, the number of international migrants grew by an annual rate of 2.1%; today this rate is 2.9%. The number of foreign-born individuals living in the US increased from just over 9 million in the 1960s to over 37 million in 2008. The proportion of foreign-born individuals from Europe has decreased, while the proportions of those from Latin America, Asia, and  Africa  have  increased  more  than  tenfold  during  this  period. Health providers must  be  prepared  to  address  the  health  issues  of immigrants [1].
+Health status of immigrants reflects circumstances in their birth countries, exposures and experiences during their route of migration, and the situation at their destination. Infections contracted at birth, such as hepatitis B, may not manifest until decades after migration. Infections contracted in adolescence or adulthood, such as human papillomavirus, can lie dormant until years after migration. The route of migration  may  increase  the  risk  of  infections  such  as  tuberculosis (TB),  malaria,  or  schistosomiasis  by  exposing  individuals  to  more crowded conditions or to vectors and diseases not present in their region of birth. Health providers must now, more than ever before, be prepared to address infectious diseases that may be unfamiliar or have been eliminated by immunization and public health programs in the area in which they trained.
+
+============================================================
+CHUNK 2
+============================================================
+Immigrant Medicine 1 4 9
+Sandra K Schumacher, Elizabeth D Barnett
+
+============================================================
+CHUNK 3
+============================================================
+PRE 7DE PA RTURE  A N D PO S T7A RRI V A L HE A LTH A S S E S S M E N T
+Some immigrants may have received health screening or assessment before departure from their birth country. Well-defined procedures for health screening pre- and post-migration to some countries exist for refugees and internationally adopted children, but other groups may have received minimal or no health preparation. Access to healthcare following  immigration  can  be  highly  variable.  Any  health  professional may see an immigrant for their first contact with the health system,  whether  a  dentist,  emergency  room  nurse  or  physician, primary care provider, or school nurse [2].
+There is general agreement that some screening tests should be performed routinely for all immigrants, based upon prevalence of these conditions, availability and accuracy  of screening tests, existence of effective interventions once these conditions are identified, and the potential risk that lack of identification of these conditions poses to both the immigrant and potentially to their contacts (Box 149.1). The first such disease is TB. Since early this century, the largest proportion of new TB cases identified in the US is in immigrants. Elimination of TB  in  the  US  and  many  other  countries  depends  on  treating  and eliminating TB where it is endemic, but also identifying and treating latent TB infection in new arrivals [3].
+Hepatitis B is another condition for which there is general agreement about testing. Recent data indicate that the majority of newly identified cases of hepatitis B in the US are in foreign-born individuals. The Centers  for  Disease  Control  and  Prevention  (CDC)  recommends routine testing for hepatitis B infection in all immigrants from areas of the world where prevalence of hepatitis B infection is ≥ 2%, and for US-born children not immunized at birth whose parents were born where prevalence of hepatitis B infection is ≥ 8% [4,5].
+Additional  evaluation  of  new  immigrants,  or  those  who  have  not received a  thorough  health  assessment  in  the  past,  should  include complete  history  and  physical  examination,  including  vital  signs, hearing, vision, and dental screening, and mental health assessment. Some information may not be revealed until development of a trusting  and therapeutic relationship with health professionals, particularly when immigrants have experienced traumatic experiences or are unfamiliar  with  the  US  health  system  and  its  focus  on  preventive strategies and health promotion.
+
+============================================================
+CHUNK 4
+============================================================
+PRE 7DE PA RTURE  A N D PO S T7A RRI V A L HE A LTH A S S E S S M E N T
+Helpful laboratory screening tests include complete blood count with differential  (identifies  anemia,  possible  hemoglobinopathy,  eosinophilia, or other blood abnormality), urinalysis (identifies hematuria,  proteinuria,  or  glucosuria),  and  lead  levels  for  children.  All immigrants should be offered the same age-appropriate screening and immunizations that are given to US-born individuals. Stool for ova and parasites is appropriate for immigrants from most regions, especially South America, Asia, and Africa; additional serologic tests for
+
+============================================================
+CHUNK 5
+============================================================
+Com p l e t e  h i s t ory and p h ysi cal  i ncl udi ng:
+Vital signs Hearing Vision Dental screening Mental health assessment
+
+============================================================
+CHUNK 6
+============================================================
+Basi c l ab orat ory s cre e ni ng:
+Complete blood count with di2erential
+Tuberculin skin test
+Hepatitis B screening (HBSAg, HBSAb, and HBcoreAb)
+When appropriate:
+Stool examination for ova and parasites
+Urinalysis
+Lead level
+Vitamin D level
+Parasite serologies
+Age - ap p rop ri at e   i m m uni zat i ons  or  t i te rs   t o  p rov e i m m uni t y specific parasites may be needed in addition to stool tests for individuals  with  eosinophilia  or  with  signs  or  symptoms  of  parasitic diseases not diagnosed through stool examination. Detailed information about screening and assessment of new immigrants is available from other sources [6,7].
+
+============================================================
+CHUNK 7
+============================================================
+FEBRILE ILLNESSES
+Priority  should  be  given  to  identifying  illnesses  that  can  be  fatal rapidly or pose a threat to public health. Delayed diagnosis of Plasmodium  falciparum malaria  can  be  lethal,  and  undiagnosed  TB  or measles can lead to secondary cases.
+Fever  soon  after  immigration  from  malarial  countries  could  be malaria; 90% of P. falciparum cases occur within 1 month of arrival. Fever with rash suggests dengue, while fever with rash and arthritis may  indicate  chikungunya  virus.  Early  fevers  may  also  be  due  to typhoid  and  paratyphoid  fevers,  rickettsial  infections,  and  amebic liver abscesses. Fever months after migration may be caused by TB, primary malarial infection, or relapse of P. vivax and P.  ovale. Many less  common infections can be associated with fever, though other accompanying  signs  and  symptoms  may  suggest  these  diagnoses. Other febrile illness with short incubation periods, such as influenza or meningococcemia, can occur in immigrants exposed after migration, but may be more relevant to returning travelers [8]. This chapter will focus on infectious diseases that can be seen by clinicians at any time following migration and that are likely to be related to the individual's country of origin or migration process.
+
+============================================================
+CHUNK 8
+============================================================
+PULMONARY
+TB is undoubtedly the most important pulmonary infection of immigrants and refugees. All immigrants should have a tuberculin skin test (TST), and those with a positive TST evaluated for active TB. If there are no signs or symptoms of disease, a diagnosis of latent TB infection is appropriate, and treatment, usually with INH, is recommended. Of note, prior vaccination with BCG vaccine is not a contraindication to administration of a TST, and interpretation of a TST is made without regard  to  prior  BCG  vaccine  except  in  extraordinary  circumstances. Interferon-gamma  release  assays,  unlike  TSTs,  are  not  affected  by prior  BCG  vaccination  and  their  use  may  be  considered  in  these circumstances.  Susceptibility  testing of  TB  isolates  is  important in  guiding  therapy,  especially  when  immigrants  are  from  areas  of multidrug-resistant  or,  less  commonly,  extensively  drug-resistant TB [9].
+Cavitary  pneumonia, localized extrapulmonary disease,  or disseminated infection suggest histoplasmosis, coccidioidomycosis, or blastomycosis. Disease can occur as a result of reactivation of latent infection  in  the  setting  of  an  underlying  condition  such  as  AIDS. Histoplasma  capsulatum is  widely  distributed  in  Latin  America,  the Caribbean, and Southeast Asia. In Africa, a variant strain, Histoplasma capsulatum var.  duboisii,  involves  skin  and  bones  rather  than  the lungs. Parts of Mexico and Central and South America are endemic for Coccidioides immitis . Paracoccidioidomycosis is endemic in southern Mexico and Central and South America. Blastomyces dermatitidis can be seen in immigrants from Mexico, Central America, and Africa. Melioidosis caused by Burkholderia pseudomallei and paragonimiasis, caused  by  the  lung  fluke Paragonimus  westermani, can  be  found  in immigrants  most  commonly  from  Southeast  Asia.  Melioidosis  is associated  with chest  pain  but  also  a  nonproductive  or  productive cough with normal sputum findings. A chronic cough may suggest paragonimiasis.
+Cystic lesions in the lung suggest hydatid disease caused by Echinococcus  granulosus and  should  be  distinguished  from  cavitary  lesions. Immigrants from the Middle East and other sheep-raising parts of the world can harbor hydatid cysts of the lung that can reach a large size without producing symptoms.
+
+============================================================
+CHUNK 9
+============================================================
+PULMONARY
+Eosinophilia with wheezing may be associated with tropical pulmonary  eosinophilia  (TPE),  a  hypersensitivity  reaction  of  lymphatic filarial parasites which usually affects people living in the tropics of India, Southeast Asia, and certain parts of China and Africa. Peripheral eosinophilia > 3000 cells/mm 3 is suggestive of TPE. These patients also have high titers of antifilarial antibodies, an absence of microfilariae in the blood, and a raised serum total IgE.
+Pulmonary  infiltrates  in  an  immigrant  receiving  corticosteroids  or other immunosuppressive medications should raise the question of hyperinfection due to strongyloidiasis, even if there is no peripheral blood eosinophilia. Strongyloides is unique because of its ability to complete the life cycle within the human host; an individual remains infected, often asymptomatically, for years. If an individual becomes immunosuppressed, strongyloides hyperinfection syndrome, a condition where larvae multiply rapidly and disseminate widely, may occur and can lead to death if left untreated [10].
+
+============================================================
+CHUNK 10
+============================================================
+GASTROINTESTINAL
+Helicobacter  pylori infection  is  prevalent  in  the  developing  world, where it is usually acquired at a young age. H. pylori infection may be asymptomatic, but a wide range of symptoms, including abdominal pain,  weight  loss,  nausea,  dyspepsia,  vomiting,  and  bloating,  have been attributed to this infection. H. pylori does cause chronic gastritis and increases the risk of duodenal and gastric ulcers, and persistent infection  increases  the  risk  of  gastric  cancer.  Treatment  is  recommended for those with gastric ulcer disease or malignancy; treatment for  other  clinical  manifestations  associated  with H.  pylori infection remains controversial [1 1].
+Infection with intestinal nematodes is common among immigrants from developing countries and may cause abdominal pain, though often  is  asymptomatic.  The  hookworms Ancylostoma  duodenale and Necator americanus may be associated with anemia and protein deficiency due to blood loss. Ascaris lumbricoides can cause an impaired nutritional status, especially in children. Trichuris trichiura can cause pus-filled, bloody stools and rectal prolapse.
+Diarrhea in immigrants may be the result of bacterial, viral, or parasitic infection. Time since arrival, recent exposures, and specific clinical symptoms help focus the evaluation appropriately. Giardia lamblia , a common cause of diarrhea in children, is more often asymptomatic in  immigrants.  Chronic  diarrhea  or  epigastric  pain,  particularly  in the immunosuppressed, can suggest a diagnosis of Strongyloides stercoralis [12].
+Entamoeba histolytica may be asymptomatic, but has the potential to cause invasive disease if not diagnosed and treated. This parasite is associated with a dysentery-like illness, with blood or pus in the stool along with abdominal pain and fever. Liver abscess can present with fever, right upper quadrant pain, weight loss, hepatomegaly, and jaundice.  It  usually  presents  within  several  months  of  departure  from endemic areas and occurs frequently in  young men. Most cases  of amebic dysentery or liver abscess in the US originate from Mexico, but other Latin American countries, South Africa, India, and Southeast Asia also have high rates of amebic disease.
+
+============================================================
+CHUNK 11
+============================================================
+GASTROINTESTINAL
+Prolonged constipation or dysphagia among immigrants from Latin America  south  of  the  equator  can  indicate  chronic  Chagas  disease caused by Trypanosoma cruzi . Infected individuals can have symptoms of achalasia, or evidence of megaesophagus or megacolon. Infection can  be  diagnosed  by  testing  for  IgG  antibodies.  Infection  can  be transmitted  congenitally  and  through  blood  donation;  the  US, Canada, parts of Latin and South America, and parts of Europe routinely test blood donors for infection.
+Jaundice may be associated with hepatitis, schistosomiasis, or the liver fluke Clonorchis  sinensis .  Hepatitis  A  and  B  can  also  present  with abdominal pain, but may be accompanied by fatigue, nausea, and jaundice. Acute hepatitis A is unusual in older immigrants from developing countries because of prior infection. Hepatitis B and C infection may be asymptomatic and put the individual at risk for late complications of cirrhosis or hepatocellular carcinoma. Hepatitis E is rare in immigrants but is worthy of note because the case fatality rate is high in pregnant women.
+
+============================================================
+CHUNK 12
+============================================================
+NEUROLOGIC AND OPHTHALMOLOGIC
+Seizures can be caused by neurocysticercosis, TB, and, less commonly, toxoplasmosis, especially if there is co-infection with HIV, and may occur years after infection. Although rare, Gambian sleeping sickness, which occurs in West Africa and is caused by Trypanosoma brucei gambiense , and East African trypanosomiasis, caused by Trypanosoma brucei rhodesiense ,  can  present  as  altered  day-night  sleeping patterns.  East African  trypanosomiasis  is  less  common  in  migrants  and  presents acutely, whereas West African trypanosomiasis is more common and chronic so should be considered years after infection.
+Visual  deficits  can  occur  with  onchocerciasis  caused  by Onchocerca volvulus .  Loiasis  can  present  acutely  when  an  adult Loa  loa worm migrates across the conjunctiva, though infection may have occurred remotely.  Immigrants  from  Africa,  the  Middle  East,  and  Asia  may show evidence of sequelae of trachoma, the leading cause of blindness worldwide, caused by Chlamydia trachomatis ; acute disease is not commonly seen in immigrants to the US.
+Ocular toxocariasis  is  associated  with  eye  pain,  leukocoria,  strabismus, and loss of visual acuity, and may be mistaken for retinoblastoma. Toxoplasmosis can present with blurry vision, floaters, eye pain, conjunctivitis,  and  photophobia;  chorioretinitis  is  the  hallmark  of this condition, especially in congenital infection. Syphilis and TB are associated with uveitis, chorioretinitis, and visual loss.
+
+============================================================
+CHUNK 13
+============================================================
+CARDIAC
+Symptomatic atrioventricular block or sustained ventricular tachycardia in immigrants from Mexico or Central and South America suggests Chagas disease. Spain is second to the US in having the largest number of immigrants from Latin America [13], and many of these immigrants from Latin America are from Trypanosoma cruzi -endemic areas such as Bolivia, which has the highest prevalence of Trypanosoma cruzi infection [14]. An estimated 10 million people are infected, and although most are asymptomatic, about 25% develop arrhythmias, heart block, or congestive heart failure years to decades after infection.
+Reactivation of chronic Chagas disease can occur in people with HIV or other immunosuppressive conditions.
+Structural abnormalities of the heart include aortic aneurysms associated with syphilis and aortic or mitral valve abnormalities associated with  rheumatic  fever.  Recurrent  rheumatic  fever  can  present  with fatigue,  fever,  chest  pain,  and  a  changing  or  new  murmur  on  the background of previous rheumatic valvular disease. It is sometimes indistinguishable from the clinical manifestations of endocarditis. TB may present with pericarditis and should be included on the differential of an immigrant with chest pain.
+
+============================================================
+CHUNK 14
+============================================================
+GENITOURINARY
+Screening  urinalysis  is  helpful  in  identifying  glycosuria  associated with  diabetes;  hematuria,  which  suggests  schistosomiasis  [15]  and other chronic kidney diseases; and proteinuria, which could be associated with recurrent urinary tract infections, HIV, glomerulonephritis, polycystic kidney disease, or chronic kidney disease.
+Painless  genital  ulcers  may  appear  with  syphilis  or  granuloma inguinale, caused by the bacteria Klebsiella granulomatis , seen rarely in the US but not uncommon in developing countries. Rash follows the ulcer of syphilis and is usually what prompts the infected individual to seek medical care. Painful ulcers suggest herpesvirus or chancroid, caused by the bacteria Haemophilus ducreyi . The incubation period of herpes is usually a few days to a week, whereas chancroid typically presents a few days to 2 weeks after exposure.
+Hydroceles,  acute  episodes  of  local  inflammation  of  the  skin  or lymph nodes, or periodic limb swelling, suggests lymphatic filariasis, endemic in Asia, Africa, and Central and South America. Lymphatic dysfunction can also lead to lymphedema of the breast, penis, and scrotum. Buboes or abscesses in the groin can indicate lymphogranuloma  venereum,  caused  by  the  invasive  serovar  L1,  L2,  or  L3  of Chlamydia trachomatis . Symptoms occur days to a month after exposure. Rectal pain and inflammation after anal sex also can be associated with this infection.
+Infections that can present as infertility include schistosomiasis and TB. Prior gonococcal or chlamydia infection can also be associated with an inability to conceive.
+
+============================================================
+CHUNK 15
+============================================================
+DERMATOLOGIC
+Erythema  nodosum  may  occur  with  TB,  leprosy,  and  infections with dimorphic fungi. Erythema can also signify cellulitis; recurrent cellulitis is a complication of the lymphedema of lymphatic filariasis. Areas of depigmentation are seen with onchocerciasis, leprosy, and yaws.
+Ulcerative skin lesions can be caused by leishmaniasis in immigrants from the Indian subcontinent, Southwest and Central Asia, Southern Europe,  the  Middle  East,  East  Africa,  Central  America,  and  South America.  Less  common  causes  of  ulcerations  include  an  ulcer with  eschar  from  the  bacteria Bacillus  anthracis and  painless,  large Buruli  ulcers  usually  seen  on  the  extremities  from Mycobacterium ulcerans .
+The nematode Loa loa can cause erythematous, pruritic, occasionally painful  subcutaneous  swelling on  the extremities. Paragonimus , usually nonwestermani , can cause migratory swellings or firm, mobile, and tender subcutaneous nodes, often in the lower abdominal and inguinal  regions.  The  trematode Fasciola is  associated  with  larger, possibly 5 cm, subcutaneous nodules. Onchocerciasis presents with depigmentation, severe itching, and subcutaneous nodules.
+Superficial migratory lesions include larva currens, caused by infection with Strongyloides stercoralis, and cutaneous larva migrans, usually seen on the feet, buttocks, or abdomen, caused by dog and cat hookworms.  Pruritus  and  excoriations  from  scratching  are  typical  of onchocerciasis, scabies, and pinworms. Scabies mites burrow into the webs of fingers and toes, the wrists and backs of elbows, the knees, and  around  the  waist  and  umbilicus,  and  can  cause  characteristic linear lesions. An itchy rectal area suggests pinworms [16].
+
+============================================================
+CHUNK 16
+============================================================
+N O N I N FE CTI O U S  DI S E A S E S O F I M M I G RA N TS
+Fatigue, bruising, and nonhealing sores can suggest blood disorders, including anemias and thalassemias, particularly among people from the Mediterranean, Africa, and Asia. Some of these blood disorders are genetic, whereas others are caused by nutritional disorders such as  iron,  B12 or  folate deficiency,  or chronic diseases  such as hookworm infestation, HIV, lead intoxication, kidney  disease,  or malignancy.  In the future, it is likely that  immigrants  will  bear  a disproportionate  burden  of disease  due to infection-associated cancers, such as hepatoma from chronic hepatitis B and C, carcinoma of  the  cervix  caused  by  human  papillomavirus,  Epstein-Barr  virusassociated Burkitt lymphoma, human herpesvirus-8-associated Kaposi sarcoma, and HIV-associated lymphomas.
+Malnutrition and stunting of growth can be especially severe in immigrant children and refugees as a result of food deprivation and infections. Malabsorption can result from intestinal protozoan infections or,  rarely,  tropical  sprue;  lactose  intolerance  is  common  among African and certain Asian immigrant groups. Immigrants may present with  specific  nutritional  disorders  such  as  bowing  of  the  legs  in children or osteomalacia in adults with vitamin D deficiency, xerophthalmia secondary to vitamin A deficiency, endemic goiter associated with iodine deficiency, or acrodermatitis with zinc deficiency.
+Depression  and  stress  are  common  among  immigrants  who  are adapting to a new culture and language. Post-traumatic stress disorder and other psychiatric problems are not uncommon among refugees, especially those who have experienced torture, rape, and other physical trauma in war-torn countries. Those who care for immigrants may find  that  disclosures  of  trauma  occur  only  after  development  of  a trusting  relationship  with  the  healthcare  provider.  There  are  many validated  screening  instruments  available,  including  the  Harvard Trauma Questionnaire to check for post-traumatic stress disorder, the Hopkins Symptom Checklist which screens for anxiety, and the Beck Depression Inventory [17].
+
+============================================================
+CHUNK 17
+============================================================
+CO N CLUS I O N
+Diseases seen in immigrants may be the result of exposures in their country  of  origin,  during  migration,  or  exposures  occurring  after arrival at their destination. Health professionals must take a detailed history about the type and duration of symptoms and think systematically while remembering where an immigrant has lived. It is always necessary  to  consider  noninfectious  processes  as  well,  particularly mental  health  issues,  which  may  not  manifest  until  after  arrival in the US.
+
+============================================================
+CHUNK 18
+============================================================
+RE FE RE N CE S
+1. International Organization for Migration. About migration. http:// www.iom.int/jahia/Jahia/about-migration/lang/en (accessed 12 April 2010).
+2. US  Citizenship  and  Immigration  Services.  Immigration  medical  examinations. http://www.uscis.gov/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac 89243c6a7543f6d1a/?vgnextoid=288a0a5659083210VgnVCM100000082ca 60aRCRD&vgnextchannel=288a0a5659083210VgnVCM100000082ca60aR CRD (accessed 12 April 2010).
+3. Centers for Disease Control and Prevention. CDC immigration requirements: technical instructions for  tuberculosis  screening  and  treatment. http:// www.cdc.gov/immigrantrefugeehealth/pdf/tuberculosis-ti-2009.pdf (accessed 12 April 2010).
+4. Centers for Disease Control and Prevention. A comprehensive immunization strategy to eliminate transmission of hepatitis B virus infection in the United States: recommendations of the Advisory Committee on Immunization Practices  (ACIP)  Part  1:  immunization  of  infants,  children,  and  adolescents. MMWR Recomm Rep 2005;54:1-23.
+5. Centers for Disease Control and Prevention. A comprehensive immunization strategy to eliminate transmission of hepatitis B virus infection in the United States: recommendations of the Advisory Committee on Immunization Practices (ACIP) Part II: immunization  of  adults.  MMWR  Recomm  Rep 2006;55:1-25.
+6. Barnett  E.  Infectious  disease  screening  for  refugees  resettled  in  the  United States. Clin Infect Dis 2004;39:833-41. This  article  reviews  screening,  types  of  infectious  diseases,  and immunizations  for refugees to the US.
+7. Walker PF, Barnett ED. Immigrant Medicine. Philadelphia: Elsevier; 2007. This book details immigration medicine. It focuses on infectious and noninfectious diseases  of  immigrants  with  information  separated  by  sections  and  chapters.  It  is highlighted  throughout  with  tables  and  charts,  including  a  listing  of  diseases  by geography.
+
+============================================================
+CHUNK 19
+============================================================
+RE FE RE N CE S
+8. Wilson ME, Weld LH, Boggild A, et al. Fever in returned travelers: results from the GeoSentinel Surveillance Network. Clin Infect Dis 2007;44:1560-8. Using  a  large,  multicenter  database,  this  article  shows  the  frequency  of  fever  in returned travelers and defines the causes of fever by place of exposure and traveler characteristics.
+9. Centers for  Disease  Control and  Prevention.  Emergence  of  Mycobacterium tuberculosis  with  extensive  resistance  to  second-line  drugs  -  worldwide, 2000-2004. MMWR Morb Mortal Wkly Rep 2006;55:301-5.
+10.  Newberry AM, Williams DN, Stauffer WM, et al. Strongyloides hyperinfection presenting  as  acute  respiratory  failure  and  gram-negative  sepsis.  Chest 2005;128:3681-4.
+11.  Suerbaum  S,  Michetti  P.  Helicobacter  pylori  infection.  N  Engl  J  Med 2002;347:1175-86.
+12.  Thielman  NM,  Guerrant  RL.  Acute  infectious  diarrhea.  N  Engl  J  Med 2004:350:38-47.
+13.  Schmunis GA. Epidemiology of Chagas disease in non-endemic countries: the role of international migration. Mem Inst Oswaldo Cruz 2007;102:75-85.
+14.  Schmunis  GA,  Cruz  JR.  Safety  of  the  blood  supply  in  Latin  America.  Clin Microbiol Rev 2005;18:12-29.
+15.  Ross  AGP,  Bartley  PB,  Sleigh  AC,  et  al.  Schistosomiasis.  N  Engl  J  Med 2002;346:1212-20.
+16.  Lucchina LC, Wilson M, Caumes E, et al. Colour Atlas of Travel Dermatology. WileyBlackwell: Oxford; 2007.
+17. This book details dermatologic concerns in immigrants and travelers. The book has detailed,  colored  pictures  supplemented  by  concise,  descriptive  text.  Each  chapter includes etiology, prevalence, incubation, clinical features, differential diagnosis, and treatment.
+17.  Kandula NR, Kersey M, Lurie N. Assuring the health of immigrants: what the leading health indicators tell us. Annu Rev Public Health 2004;25:357-76.
+

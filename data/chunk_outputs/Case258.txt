@@ -1,0 +1,93 @@
+============================================================
+CHUNK 0
+============================================================
+32.4 Kaposi's Sarcoma-Associated Herpesvirus
+Catherine G. Sutcliffe, William J. Moss
+
+============================================================
+CHUNK 1
+============================================================
+KEY FEATURES
+- associated with three lymphoproliferative disorders: Kaposi's sarcoma, which is a cutaneous malignancy; primary effusion lymphoma; and multi-centric Castleman's disease.
+- sexual transmission predominant in many regions, and salivary transmission common among children in parts of sub-Saharan Africa.
+- epidemiologic types: classic, endemic, immunosuppressed-associated, and AIDS-associated.
+- where children are prone to a rapidly fatal, lymphadenopathic form.
+- incidence of Kaposi's sarcoma and the severity of pre-existing lesions in persons co-infected with HIV .
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+Kaposi's sarcoma-associated herpesvirus (KSHV), also called human herpesvirus 8 (HHV-8), is a member of the lymphotropic gammaherpesviruses, which includes Epstein-Barr virus. As with other herpesviruses, KSHV likely evolved and migrated out of Africa with modern humans. Kaposi's sarcoma, a multi-focal cutaneous neoplasm  of  vascular  endothelium,  was  {rst  described  by  the Hungarian dermatologist Moritz Kaposi in 1872 as an indolent neoplasm  of  older  men  residing  in  Eastern  Europe  and  the Mediterranean.  A  more  aggressive  form  of  endemic  Kaposi's sarcoma  was  subsequently  identi{ed  in  children  and  adults  in Africa, particularly in the region surrounding Lake Kivu in the Democratic Republic of Congo and Rwanda, where it accounts for up to 10% of all malignancies in children. With the advent of immunosuppressive therapies for organ transplantation, Kaposi's sarcoma was recognized as a complication of immune suppression, and  the  disease  became  widely  known  as  a  signal  event  of  the AIDS epidemic. 1 These four variants correspond to the classic, endemic,  immunosuppressed-associated,  and  AIDS-associated forms. The etiology of Kaposi's sarcoma remained elusive until KSHV was identi{ed in 1994 by representational difference analysis of viral DNA fragments from tissue samples. 2
+
+============================================================
+CHUNK 3
+============================================================
+EPIDEMIOLOGY
+KSHV is only found in humans. There are four distinct subtypes: subtypes A and C are predominantly found in Europe, the United States,  Asia,  and  the  Middle  East;  subtype  B  is  predominantly found  in  sub-Saharan  Africa;  and  subtype  D  is  predominantly found in south Asia, Australia, and the Paci{c Islands.
+Although infection with KSHV occurs worldwide, the prevalence of  infection  varies  (T able  32.4.1). 3,4 In  the  United  States,  Asia, Europe, South America, and the Caribbean, the overall prevalence of KSHV infection is less than 10%. In these regions, KSHV is primarily sexually transmitted. Pre-pubertal children are not usually infected, and the prevalence of infection increases with age after the onset of sexual activity. In these epidemiologic settings, KSHV infections  are  more  common  among  men  than  women.  Male homosexual transmission appears to be more ef{cient than heterosexual transmission, with seroprevalences ranging from 25% to 60% among men who have sex with men and increasing with the number of sexual partners.
+In the Mediterranean, the prevalence of KSHV infection ranges from 15% to 25%. In sub-Saharan Africa and American Indian populations in South America, however, KSHV is endemic, with the prevalence of infection at 50% to 60% or higher (Fig. 32.4.1). In these regions, most infections are acquired in childhood, suggesting transmission through non-sexual routes. 4 Salivary transmission, often through contact within the family, is the predominant mode of  transmission. After  puberty,  the  prevalence  of  KSHV rises slowly as a result of less ef{cient heterosexual transmission. The prevalence of KSHV among adults in  sub-Saharan Africa has been found to be higher among men than women, potentially due to both biological and behavioral factors. 5 Mother-to-child transmission of KSHV can occur but is infrequent, 6 and the virus is not found in breast milk. 7 Studies in Africa have found different age-related  patterns  of  KSHV  infection,  suggesting  different patterns of transmission within endemic regions. 8
+
+============================================================
+CHUNK 4
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+The natural history of KSHV begins with infection of endothelial cells  and  B  lymphocytes  after  contact  with  infected  secretions.
+TABLE 32.4.1 Patterns of Kaposi's Sarcoma-Associated Herpesvirus Infection and Non-HIV Kaposi's Sarcoma
+
+Low, Regions = North America, North Europe, Asia. Low, Population KSHV Prevalence = < 5%. Low, Transmission = Sexual. Low, Risk Groups = Homosexual men, STD clinic attendees, transplant recipients. Intermediate, Regions = Mediterranean, Middle Eastern countries, Caribbean. Intermediate, Population KSHV Prevalence = 5%-20%. Intermediate, Transmission = Sexual, non-sexual?. Intermediate, Risk Groups = Homosexual men, STD clinic attendees, transplant recipients, older adults. High, Regions = Africa, parts of Amazon basin. High, Population KSHV Prevalence = > 50%. High, Transmission = Non-sexual, sexual. High, Risk Groups = Older adults, lower socioeconomic status
+STD , Sexually transmitted diseases.
+*AIDS-KS rates are highly dependent on local HIV infection rates and risk groups.
+Reproduced with permission from Ganem D. Kaposi's sarcoma-associated herpesvirus. In: Knipe DM, Howley PM, eds. Field's virology . Philadelphia: Lippincott Williams & Wilkins; 2007:2847-2888.
+Fig. 32.4.1 Prevalence of HHV-8 and HIV infection and incidence of Kaposi's sarcoma (KS) in select African countries, ranked according to incidence of KS. (Reproduced with permission from Casper C. New approaches to the treatment of human herpesvirus 8-associated disease. Rev Med Virol 2008;18:321-329.)
+
+============================================================
+CHUNK 5
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Viral latency is established in B lymphocytes, resulting in lifelong infection. KSHV cycles between two phases: a latent phase during which the virus lies silent with limited gene expression, and a lytic phase with active replication in the oropharynx and viral shedding in saliva. Similar to other herpesviruses, KSHV evolved mechanisms to evade host immune responses, including modulation of immune surveillance and anti-viral responses. 9 The viral genome also encodes oncogenic proteins capable of dysregulating cell growth that are likely involved in the pathogenesis of the associated proliferative disorders. 10 Histologically,  Kaposi's  sarcoma  is characterized by spindle cells with vascular spaces and extravasated red blood cells. The lesions of Kaposi's sarcoma are multi-centric in origin and not the result of metastases.
+
+============================================================
+CHUNK 6
+============================================================
+CLINICAL FEATURES
+Infection with KSHV is asymptomatic in most individuals, but some children  with  primary  infection  may  have  a  non-speci{c febrile illness. 11 More importantly, KSHV infection is associated with three lymphoproliferative disorders, primarily in immunocompromised hosts: Kaposi's sarcoma, primary effusion lymphoma, and  multicentric  Castleman's  disease. 9 The  lesions  of  Kaposi's sarcoma are commonly |at or raised nodules, 0.5 to 2.0 cm in diameter, with a purple hue as a consequence of numerous poorly oxygenated  red  blood  cells  (Fig.  32.4.2).  With  more  advanced disease, these nodules may coalesce. Lesions are common in the mouth and on the face, nose, and extremities but can also occur in  the lung, biliary tract, and gastrointestinal tract. Children in endemic areas are more likely to have a rapidly fatal lymphadenopathic form that leads to edema (see Fig. 32.4.2). Some lesions of Kaposi's sarcoma may spontaneously regress, confounding the evaluation  of  treatment  strategies.  Uniform  staging  criteria  for Kaposi's sarcoma do not exist, although several classi{cation systems have been proposed, including for HIV-infected individuals.
+
+============================================================
+CHUNK 7
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Infection with KSHV is diagnosed serologically or by detection of viral DNA in saliva, tissue, or blood samples. The diagnosis of Kaposi's sarcoma should be considered in patients with compatible
+Fig. 32.4.2 African child with lymphadenopathic Kaposi's sarcoma. The raised nodules with purple hue are evident on the face and trunk. Lymphatic obstruction resulted in facial edema.
+skin or mucous membrane lesions and who reside in an endemic area or are HIV-infected or immunosuppressed. The diagnosis is made by careful  physical  examination  of  the  skin  and  mucosal surfaces.  Pathologic  examination  of  the  biopsied  lesions  shows the characteristic highly vascular, spindle-shaped cells, although histologic  variants  with  mixed  cell  or  anaplastic  types  are  not uncommon. Detection of gastrointestinal or pulmonary lesions requires  imaging  studies,  such  as  a  chest  radiograph,  although pulmonary {ndings are often non-speci{c. Clinical diagnosis is usually not problematic in persons with multiple lesions and with the appropriate clinical context. Isolated lesions, however, may be confused  with  hemangiomas,  dermato{bromas,  or  pyogenic granulomas.  Kaposi's  sarcoma  may  be  clinically  confused  with bacillary  angiomatosis  caused  by  the  gram-negative  bacteria Rochalimaea, with the two distinguished by histology.
+
+============================================================
+CHUNK 8
+============================================================
+PREVENTION AND TREATMENT
+Methods to prevent sexually transmitted infections, such as the use of condoms, may prevent sexual transmission of KSHV. For persons co-infected with HIV, combination antiretroviral therapy is associated with a reduction in the incidence of Kaposi's sarcoma and regression in the size and number of existing lesions. 12,13 Local therapy for palliation of symptomatic lesions or for cosmetically unacceptable lesions can be achieved through a variety of means, including radiation therapy, surgical excision, cryotherapy, intralesional administration of anti-neoplastic agents, and topical retinoids. Systemic therapy is reserved for rapidly progressive or severe disease and includes immune modulators (e.g., interferonα ) and chemotherapy. 14 Antiviral therapy with ganciclovir, foscarnet, or cidofovir has demonstrated some ef{cacy in small studies, but the virus is resistant to acyclovir.
+
+============================================================
+CHUNK 9
+============================================================
+REFERENCES
+- -sexual men. N Engl J Med 1981;305:1465-7.
+2.  Chang Y, Cesarman E, Pessin MS, et al. Identi{cation of herpesviruslike  DNA sequences in AIDS-associated Kaposi's sarcoma.  Science 1994;266:1865-9.
+3.  Ablashi D, Chatlynne L, Cooper H, et al. Seroprevalence of human herpesvirus-8 (HHV-8) in countries of southeast Asia compared to the USA, the Caribbean and Africa. Br J Cancer 1999;81:893-7.
+4.  de Sanjose S, Mbisa G, Perez-Alvarez S, et al. Geographic variation in the prevalence of Kaposi sarcoma-associated herpesvirus and risk factors for transmission. J Infect Dis 2009;199:1449-56.
+5.  Begré L,  Rohner E, Mbulaiteye SM, et al. Is human herpesvirus 8 infection more common in men than in women? Systematic review and meta-analysis. Int J Cancer 2016;139:776-83.
+6.  Mantina  H,  Kankasa  C,  Klaskala W,  et al. Vertical  transmission  of Kaposi's sarcoma-associated herpesvirus. Int J Cancer 2001;94:749-52.
+7.  Bray{eld BP , Kankasa C, West JT , et al. Distribution of Kaposi sarcoma2004;189:2260-70.
+8.  Butler  LM,  Dorsey  G,  Hladik W, et al.  Kaposi  sarcoma-associated herpesvirus (KSHV) seroprevalence in population-based samples of African children: evidence for at least 2 patterns of KSHV transmission. J Infect Dis 2009;200:430-8.
+- -ogy,  pathophysiology,  and  treatment  of  Kaposi  sarcoma-associated herpesvirus disease: Kaposi sarcoma, primary effusion lymphoma, and multicentric Castleman disease. Clin Infect Dis 2008;47:1209-15.
+
+============================================================
+CHUNK 10
+============================================================
+REFERENCES
+10.  Wen KW, Damania B. Kaposi sarcoma-associated herpesvirus (KSHV): molecular biology and oncogenesis. Cancer Lett 2010;28:140-50.
+11.  Andreoni M, Sarmati L, Nicastri E, et al. Primary human herpesvirus 8 infection in immunocompetent children. JAMA 2002;287:1295-300.
+- severe or progressive Kaposi's sarcoma in HIV-infected adults. Cochrane Database Syst Rev 2014;(9):CD003256.
+13.  Anglemyer  A,  Agrawal  AK,  Rutherford  GW. Treatment  of  Kaposi sarcoma in children with HIV-1 infection. Cochrane Database Syst Rev 2014;(1):CD009826.
+- with Kaposi sarcoma in resource limited settings. Pediatr Blood Cancer 2013;60:538-42.
+

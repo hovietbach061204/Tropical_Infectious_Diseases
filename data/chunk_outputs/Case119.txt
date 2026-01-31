@@ -1,0 +1,266 @@
+============================================================
+CHUNK 0
+============================================================
+Ema G Rodrigues, David C Christiani
+e-waste from developed countries [1]. While the majority of electronics  are  composed  of  iron,  aluminum,  plastic  and  glass,  they  also contain copper, platinum and lead which are often recycled for profit. The exportation of e-waste  from the  US and  EU to less  developed countries  is  often  the  result  of  more  stringent  environmental  and occupational regulations in industrialized nations.
+
+============================================================
+CHUNK 1
+============================================================
+Features unique to the tropics and key di=erences in resource-poor areas
+- Lack of alternative resources/options
+- Less stringent or poorly enforced environmental and occupational regulations
+- Burden of disease on families may be greater in developing countries
+- Access to healthcare may be very limited
+
+============================================================
+CHUNK 2
+============================================================
+Pediatric considerations
+- Children may be more likely to be exposed to some contaminants and toxins due to hand-to-mouth activity
+- For a given exposure, children have greater exposures per unit of body weight
+- Children less e"ciently metabolize and excrete many toxic chemicals
+
+============================================================
+CHUNK 3
+============================================================
+INTRODUCTION
+Diseases  caused  by  environmental  exposures  are  often  not  readily treatable,  but  are  often  preventable.  Exposures  to  environmental hazards can be modified or controlled in many cases, thus reducing or  preventing  the risk  of  developing disease.  Countries  undergoing economic development may be especially vulnerable to environmental  hazards  since the  introduction  of new materials,  processes, and industries  into  nascent  or  emerging  economies  often  precedes  the introduction of proper controls, regulation, and experience in those settings. The Environmental Kuznets Curve (EKC) hypothesizes that during the initial phase of a country's economic development, environmental emissions increase as per capita income increases, but that as the economy matures, pollutant levels may subsequently decrease. This inverted U-shaped curve was initially described by Simon Kuznets to  represent  the  relationship  between  income  and  inequality,  and represents the pattern of emissions of some pollutants quite well. The eventual decrease in pollution may result from the implementation of controls and environmental policies as the negative societal impact of pollution begins to outweigh the positive societal impact of production and economic growth.
+The likelihood of exposure to environmental toxins is often affected by economic and regional factors. For instance, some pesticides that are banned in the USA and the EU (e.g. DDT) continue to be used in several countries worldwide, as these countries balance the low cost and high effectiveness of such agents against  environmental health aspects. A more recent industry that has posed environmental health hazards  to  those  in  developing  countries  is  the  electronic  waste (e-waste) recycling industry, with China being the largest importer of
+Access to training and healthcare are other important aspects that may affect a population's risk of developing environmental-related disease following exposure. This chapter will discuss methods used to control personal exposures to  environmental hazards,  but it  is  crucial  that those who are required to work with hazardous substances be trained on ways to avoid or minimize toxicity. Similarly, individuals exposed to toxins should have access to healthcare to monitor exposure and to minimize and treat exposure-related disease. Unfortunately, this is not often the case in developing regions. For instance, workers in the industrialized world are typically exposed to chronic low-level exposures and preclinical effects can be detected with routine monitoring, while acute  poisonings are  more common in developing countries where exposures are typically higher and access to healthcare is often limited.
+
+============================================================
+CHUNK 4
+============================================================
+EXPOSURE CONCEPTS
+Several considerations must be made when assessing the risk of exposure to environmental and occupational hazards. First, the source of the  hazard  must  be  identified.  Is  the  source  of  the  hazard  in  the workplace,  home,  or  neighborhood?  Typically,  occupational  exposures to substances are significantly higher than environmental exposures, but environmental contaminants usually affect a larger number of  individuals.  While  workers  are  exposed  to  higher  contaminant levels, they are typically healthier than the general population, which includes  children,  the  elderly,  and  those  who  have  chronic  health conditions. In developing countries, this division between work and home may be less clear. For example, families may live on the agricultural  lands  where  they  work;  all  individuals  may  be  exposed  to occupational chemicals, such as pesticides and herbicides, throughout the  day  rather  than  only  during  certain  work  hours.  Additionally, child labor remains common. Many children in developing countries contribute to both family and non-family work where exposures may be higher than those of the general population (Table 26-1).
+Second, the route of exposure must be considered. Exposure to environmental  contaminants  occurs  mainly  through  ingestion  of  contaminated food or water, inhalation of contaminated air, or dermal absorption of chemical or biological agents. The health effects associated  with  a  hazard  may  vary  depending on  the  route  of  exposure, since absorption differs by organ (lung, skin, or gastrointestinal tract). The absorbed dose, described as mass of chemical per mass of the individual's bodyweight, is an important consideration when determining  how  much  exposure  of  a  chemical  is  considered  'safe' . Because children  have  lower  bodyweights  than  adults, equal  exposures  will  result  in  higher  doses  for  children.  In  addition  to  dose quantities, other considerations associated with the health effects of environmental hazards include duration and timing of exposure. In some cases, chronic exposures over a lengthy period of time may have
+26
+cumulative effects leading to disease, whereas the effects of short-term or periodic exposures may be naturally repaired. For example, exposure  to  heavy  metals  may  induce  DNA  damage,  but  DNA  repair mechanisms may prevent the development of disease if exposures are short-term. Timing of exposure is also important since individuals are more  susceptible  to  the  health  effects  of  environmental  exposures during certain periods of life, such as during fetal development, childhood, and advanced age.
+
+============================================================
+CHUNK 5
+============================================================
+AMBIENT AIR POLLUTION
+Air  pollution  is  a  widespread  environmental  health  hazard  with sources  ranging  from  anthropogenic  sources  (e.g.  combustion  of fossil fuels in power plants or motor vehicles) to natural sources (e.g.
+Bangladesh TABLE 26-1 Child Labor, 5-14 Years (%), 1999-2007, 1 = 13. Belize, 1 = 40. Brazil, 1 = 6. Cambodia, 1 = 45. Ghana, 1 = 34. India, 1 = 12. Mexico, 1 = 16. Nicaragua, 1 = 15
+forest  fires  and  dust  storms).  Air  pollution  is  comprised of various contaminants,  including  particulate  matter  (PM),  sulfur  dioxide (SO2), nitrogen dioxide (NO2), carbon monoxide (CO), ozone (O3) and polycyclic aromatic hydrocarbons (PAHs), among others. Rapid industrialization in several tropical countries has led to significantly higher concentrations of air pollutants compared to those in developed countries. Increase in some air pollutants, such as NO2 and O3, is often due to an increase in the use of motor vehicles, coupled with lack of environmental regulations to enforce controls [2].
+Increased air pollution levels have been associated with cardiovascular disease, upper and lower respiratory tract infections, and lung cancer [3-5]. Additionally, individuals with chronic health conditions such as asthma, emphysema and cardiovascular disorders are more susceptible  to  the  health  effects  associated  with  air  pollution.  Particulate matter, typically characterized by particle size defined by the aerodynamic diameter in microns (e.g. PM10, PM2.5, PM1.0), has been shown to be especially harmful. While larger particles are typically trapped in the nose and throat, smaller particles are more likely to be inhaled into  the  deeper  regions  of  the  lung  (i.e.  alveoli),  making  smaller particles more likely to contribute to pulmonary and heart disease.
+Weather conditions in many tropical zones may exacerbate the level of  pollution.  For  instance,  high  temperatures  in  combination  with high humidity and lack of rain lead to faster rates of the formation of smog, a term used to describe the interaction of nitrogen oxides, volatile organic compounds, and other pollutants, and there is some evidence that ambient PM10 concentrations have a greater effect on mortality and hospitalizations due to cardiovascular and respiratory causes during the warm periods and summer [6].
+
+============================================================
+CHUNK 6
+============================================================
+INDOOR AIR POLLUTION
+The health effects associated with indoor air pollution (IAP) are of great concern in developing countries, where it has been estimated that  more  than  2.4  billion  people  use  biomass  fuels  (BMF)  such as  wood,  dung  and  coal  for  cooking  and  heating  [7].  Figure  26.1 indicates  that  developing  countries  in  tropical  zones  account  for the  majority  of  deaths  attributed  to  exposure  to  indoor  smoke from  burning  of  solid  fuels.  BMF  smoke  is  also  associated  with chronic  obstructive  pulmonary  disease  (COPD),  tuberculosis,  lung
+FIGURE 26.1 Deaths from indoor smoke from solid fuels. Redrawn from WHO World Health Report, 2002.© WHO 2005. All rights reserved.
+cancer, and an interstitial lung disease known as 'hut lung' . In developing countries, women are at highest risk of developing BMF smokerelated  illness  since  they  are  exposed  to  the  highest  levels  while cooking [8]. A recent study conducted in rural China reported a substantial decrease in the incidence of COPD among men and women after  installation  of  household  chimneys  on  previously  un-vented stoves [9].
+
+============================================================
+CHUNK 7
+============================================================
+ARSENIC
+Arsenic  (As),  a  naturally  occurring  metal  embedded  in  the  earth's crust, is characterized as a known human carcinogen by the International Agency for Research on Cancer [10]. Exposure to arsenic occurs mainly  through  ingestion  of  contaminated  water  from  deep  wells (30-180  feet),  but  can  also  occur  through  food  or  inhalation  of arsenic fumes from coal burning or smelting. Arsenic is leached into drinking water supplies from the bedrock surrounding the aquifers, and elevated arsenic levels in drinking water have been documented in several tropical countries such as India, Chile, Mexico, Bangladesh, Peru, Taiwan, Mongolia and Thailand, as well as in parts of the US. While inorganic arsenic occurs in several forms, the trivalent (As III ) and pentavalent (As V ) species are most toxic, whereas organic forms such as arsenobetaine occur in shellfish such as shrimp and are not toxic to humans.
+In an effort to provide clean water free of microbial contamination, the United Nations Children's Fund (UNICEF) began to install tube wells  in  Bangladesh  in  the  1970s.  While  this  effort  was  aimed  at reducing the morbidity and mortality due to gastrointestinal disease, it also caused one of the largest arsenic poisonings in history. It has been estimated that more that 35-77 million people may be exposed to arsenic-contaminated drinking water across Bangladesh [1 1]. Also, large numbers of people in nearby West Bengal in India have been similarly affected. The clinical manifestations of chronic arsenic exposure are numerous, and include hyperpigmentation, keratoses, and skin, bladder and lung cancers (Fig. 26.2) [12-14]. There is no ideal treatment for chronic arsenic-related health effects, but affected individuals are usually told to avoid drinking additional arseniccontaminated water and to consume a protein-rich diet. Additionally, higher selenium blood levels may reduce the risk of arsenic-related skin lesions [15]. In severe cases of arsenic poisoning, chelation with 2,3-dimercapto-1-propanesulfonate (DMPS) can increase the urinary excretion of arsenic and improve symptoms. Additionally, for arsenicrelated cancers, surgical methods can be used to remove the cancer if it is detected early [16].
+
+============================================================
+CHUNK 8
+============================================================
+LEAD POISONING
+Lead is a durable, malleable metal that is highly resistant to corrosion and is used worldwide for many applications. It has been used for the manufacture of water pipes, as an anti-knock agent in gasoline, as an anti-corrosive pigment in paint, additive in cosmetics, and in traditional medicines. Among the many uses, leaded gasoline is one of the major sources of airborne lead pollution and personal exposure. The phase-out of lead from gasoline has significantly reduced the air lead concentrations and blood lead levels in humans in many countries, including Austria, Brazil, Canada, Colombia, India [17], Japan, Pakistan [18], Slovakia, Sweden, Thailand and the US. Another source of lead, especially in developing countries, is lead glazes used in ceramics. When ceramic pottery is used for cooking or storing food, the lead contained in the glaze may leach into food [19]. Another source of lead exposure and poisonings in developing countries is the recycling of electronics containing lead and lead-acid batteries [20]. While lead exposures are very high in these workplaces, children and adults can also be exposed to dangerous levels of lead in air or soil while living near one of these facilities or living with an individual working with lead [21]. Cosmetics and traditional remedies containing lead are also commonly used in tropical countries.
+Given its many uses, lead is a very common contaminant and is a leading cause of environmental-related illness among both children and adults worldwide. Lead is mainly absorbed into the bloodstream through ingestion and inhalation. Absorbed lead is redistributed and
+FIGURE 26.2 Hyperkeratotic rash of arsenic intoxication. Photos courtesy of Dr Molly Kile, Harvard School of Public Health
+
+============================================================
+CHUNK 9
+============================================================
+BOX 26.1  Pediatric Considerations - Lead
+- Children absorb lead more eMciently than adults
+- Children who are malnourished are particularly susceptible to lead due to lower intakes of iron and calcium which can reduce the absorption of lead
+- Blood lead levels ≥ 10 μ g/dL among children are considered elevated, but no level is considered safe
+stored  in  bone  and  soft  tissues  until  remobilized  into  the  bloodstream. Because lead has a relatively long half-life for excretion (T 1/2 ~28 days), health effects associated with lead are chronic and longlasting. Health effects related to increased blood lead levels in children  include  encephalopathy,  and  decreases  in  IQ,  hemoglobin synthesis, growth, nerve conduction velocity and cognitive function (Box  26.1).  Abdominal  symptoms  (called  'lead  colic')  include abdominal pain, intermittent vomiting and constipation. High-level exposure can lead to interstitial  nephritis. Research  has shown that children in India under 3 years of age with blood lead levels ≥ 10 μ g/ dL are more likely to have moderate or severe anemia, but no lead level is considered safe [22]. Health effects in adults include anemia,
+constipation,  mental  status changes,  cardiovascular  disease  and hypertension, chronic renal dysfunction, decreased sperm count and increased abnormal sperm in men, and higher incidence of spontaneous abortions in women [23] (Table 26-2). Diagnosis usually rests on direct measurement of blood lead levels. Basophilic stippling of erythrocytes and gingival lead lines may be seen. Once internalized, lead enters bone, and boney tissues can act as long-term reservoirs. The most important feature of treatment is to minimize additional exposure. Chelation therapy can reduce immediate toxicity during acute exposures  and  severe  intoxications,  but  may  not  appreciably  alter long-term cognitive impairment.
+
+============================================================
+CHUNK 10
+============================================================
+PESTICIDES
+In developing countries, acute pesticide poisonings are still a major health concern. Pesticides are widely available and widely used, and include  insecticides,  herbicides  and  rodenticides  (Table  26-3).  To maximize crop productivity, pesticides are in wide use in many areas of emerging economies. Health outcomes associated with pesticide exposures include death, and neurologic, reproductive, developmental, ophthalmic, genotoxic and carcinogenic effects. Many insecticides are organophosphates or carbamates, and are potent cholinesterase inhibitors. Signs and symptoms of intoxication relate to level, identity
+
+TABLE 26-2 Health EOects Associated with Fibrogenic and Metal Dusts
+
+============================================================
+CHUNK 11
+============================================================
+PESTICIDES
+Dusts, Industry = . Dusts, Disease/health outcome = . Dusts, Clinical presentation/symptoms = . Asbestos, Industry = Construction Fire prooNng. Asbestos, Disease/health outcome = Pleural plaques Malignant mesothelioma Pleural eOusion. Asbestos, Clinical presentation/symptoms = Chest pain Cough Shortness of breath Chest tightness. Silica, Industry = Ceramics Construction Cement manufacturing Glass manufacturing Semiconductors Metallurgy Sand blasting Stone cutting. Silica, Disease/health outcome = Silicosis. Silica, Clinical presentation/symptoms = Chronic cough Shortness of breath Fluid in lungs. Cotton dust, Industry = Textiles. Cotton dust, Disease/health outcome = Byssinosis. Cotton dust, Clinical presentation/symptoms = Chest tightness Cough Wheezing. Coal dust, Industry = Coal mining. Coal dust, Disease/health outcome = Black lung disease. Coal dust, Clinical presentation/symptoms = Breathlessness. Metals, Industry = . Metals, Disease/health outcome = . Metals, Clinical presentation/symptoms = . Lead, Industry = Battery recycling Construction/painting Electronics. Lead, Disease/health outcome = Anemia Reproductive eOects (male and female) Cardiovascular disease Encephalopathy Nephropathy Death. Lead, Clinical presentation/symptoms = Fatigue Nausea Headaches Hypertension Constipation Increased blood lead levels Increased erythrocyte protoporphyrin. Manganese, Industry = Manganese processing Battery manufacturing Welding Steel production Mining Glass manufacturing Fungicides. Manganese, Disease/health outcome = Manganism Anemia. Manganese, Clinical presentation/symptoms = Neurological eOects Slowed hand movements Behavioral changes Tremors Hypertension. Chromium, Industry = Steel production Chrome plating Leather industry Cement. Chromium, Disease/health outcome = Eczema Asthmatic bronchitis. Chromium, Clinical presentation/symptoms = Skin rashes/dermatitis Ulcers Kidney damage. Beryllium, Industry = Ceramics Nuclear weapons. Beryllium, Disease/health outcome = Beryllium sensitization Chronic beryllium disease (CBD). Beryllium, Clinical presentation/symptoms = Shortness of breath. Mercury (inorganic), Industry = Battery manufacturing Mercury recycling Auto manufacturing Thermometers Lighting. Mercury (inorganic), Disease/health outcome = Minamata disease. Mercury (inorganic), Clinical presentation/symptoms = Dermatitis Mood changes Memory loss Muscle weakness Tremors Kidney eOects Respiratory failure
+
+============================================================
+CHUNK 12
+============================================================
+PESTICIDES
+Slurring of speech
+
+TABLE 26-3 Adverse Health EOects Caused by Selected Classes of Pesticides*
+
+============================================================
+CHUNK 13
+============================================================
+PESTICIDES
+Arsenicals, Examples of pesticides = Sodium arsenate. Arsenicals, Clinical presentation = Abdominal pain, nausea, vomiting, garlic odor, metallic taste, bloody diarrhea, headache, dizziness, drowsiness, weakness, lethargy, delirium, shock, kidney insuMciency, neuropathy. Arsenicals, Treatment = Wash skin thoroughly and remove contaminated clothing Gastric lavage and/or activated charcoal (avoid cathartics as arsenicals can cause diarrhea) Intravenous Puid administration and monitoring of electrolytes Chelation: Agents include meso-2,3- dimercapto-succinic acid (succimer) or British Anti-Lewisite (BAL or dimercaprol); DMPS (sodium salt of 2,3-dimercapto-1- propane sulfonic acid) is also used but is not FDA-approved for use in the United States. Arsenicals, Route of exposure † = O, R, D (rarely). Borates (insecticide), Examples of pesticides = Borax. Borates (insecticide), Clinical presentation = Upper airway irritation, abdominal pain, nausea, vomiting, diarrhea, headache, lethargy, tremor, kidney insuMciency. Borates (insecticide), Treatment = Wash skin thoroughly and remove contaminated clothing Gastric lavage (NOTE: activated charcoal has limited ability to absorb boric acid) Dialysis. Borates (insecticide), Route of exposure † = O, R, D (broken skin). Carbamates (insecticide), Examples of pesticides = Carbaryl thiram, aldicarb mecarbam. Carbamates (insecticide), Clinical presentation = Malaise, weakness, dizziness, sweating, headache, salivation, nausea, vomiting, diarrhea, abdominal pain, confusion, dyspnea, dermatitis, pulmonary edema. Carbamates (insecticide), Treatment = Wash skin thoroughly and remove contaminated clothing Activated charcoal within Nrst hour of ingestion Oxygen Endotracheal intubation often required for depressed mental status, bronchospasm, copious secretions, and respiratory depression Atropine Pralidoxime (must be given along with atropine). Carbamates (insecticide), Route of exposure † = O, D. Chloralose, Examples of pesticides =
+
+============================================================
+CHUNK 14
+============================================================
+PESTICIDES
+Chloralose. Chloralose, Clinical presentation = Vomiting, vertigo, tremor, myoclonus, fasciculations, confusion, seizures, rhabdomyolysis. Chloralose, Treatment = Gastric lavage and/or activated charcoal Benzodiazepines for seizures Intravenous Puids. Chloralose, Route of exposure † = O. Coumarins (rodenticide), Examples of pesticides = Brodifacoum warfarin. Coumarins (rodenticide), Clinical presentation = Ecchymoses, epistaxis, excessive bleeding, hematuria, prolonged prothrombin time, intracranial bleed, anemia, fatigue, dyspnea. Coumarins (rodenticide), Treatment = Vitamin K Fresh frozen plasma + / - recombinant human factor VIIa for life- threatening bleeding GI decontamination if large ingestion. Coumarins (rodenticide), Route of exposure † = O, D (possible). Diethyltoluamide (insect repellent), Examples of pesticides = DEET (N,N-diethyl-meta- toluamide. Diethyltoluamide (insect repellent), Clinical presentation = Dermatitis, ocular irritation, headache, restlessness, ataxia, confusion, seizures, urticaria. Diethyltoluamide (insect repellent), Treatment = Gastric lavage within 1 hour and/or activated charcoal Benzodiazepines for seizures. Diethyltoluamide (insect repellent), Route of exposure † = O, D. Dipyridil (herbicide), Examples of pesticides = Paraquat, diquat. Dipyridil (herbicide), Clinical presentation = Mucous membrane and airway irritation, abdominal pain, diarrhea, vomiting, gastrointestinal bleeding, pulmonary edema, dermatitis, renal and hepatic damage, coma, seizures. Dipyridil (herbicide), Treatment = Gastric lavage using diatomaceous earth clays (bentonite or Fuller's earth) Activated charcoal if diatomaceous earth clays not available Hemodialysis. Dipyridil (herbicide), Route of exposure † = O, D (via broken skin). Phosphonates
+
+============================================================
+CHUNK 15
+============================================================
+PESTICIDES
+(herbicide), Examples of pesticides = Glyphosate. Phosphonates (herbicide), Clinical presentation = Airway, skin, and mucous membrane irritation, abdominal, pain, nausea, vomiting, shock, dyspnea, respiratory failure. Phosphonates (herbicide), Treatment = Rinse mouth with milk or water Activated charcoal for later ingestions Monitor for acute lung injury and hypotension. Phosphonates (herbicide), Route of exposure † = O, R
+Continued
+
+TABLE 26-3 Adverse Health EOects Caused by Selected Classes of Pesticides-cont'd
+
+============================================================
+CHUNK 16
+============================================================
+PESTICIDES
+Fluoroacetate (rodenticide), Examples of pesticides = Sodium Puoroacetate. Fluoroacetate (rodenticide), Clinical presentation = Vomiting, paresthesias, tremors, seizures, hallucinations, coma, confusion, arrhythmias, hypertension, cardiac failure. Fluoroacetate (rodenticide), Treatment = Gastric lavage within 1 hour and/or activated charcoal Monitor for and treat hypocalcemia (Administration of Monoacetin and ethanol have been used, but safety and eMcacy have not been proven in humans). Fluoroacetate (rodenticide), Route of exposure † = O, D (possible). Mercury, organic (fungicide), Examples of pesticides = Methyl mercury. Mercury, organic (fungicide), Clinical presentation = Metallic taste, paresthesias, tremor, headache, weakness, delirium, ataxia, visual changes, dermatitis, renal dysfunction. Mercury, organic (fungicide), Treatment = Removal from source and gastric lavage and activated charcoal Chelation for acute neurologic symptoms or chronic toxicity: agents include penicillamine, BAL, DMPS, and dimercaptosuccinic acid (DMSA). Mercury, organic (fungicide), Route of exposure † = O, R, D. Metal phosphides (rodenticide, fumigant), Examples of pesticides = Zinc-, aluminum-, magnesium- phosphide. Metal phosphides (rodenticide, fumigant), Clinical presentation = Abdominal pain, diarrhea, acidosis, shock, jaundice, paresthesias, ataxia, tremors, coma, pulmonary edema, tetany, dermal irritation. Metal phosphides (rodenticide, fumigant), Treatment = Wash skin thoroughly and remove contaminated clothing Be prepared to isolate vomited material as phosphine gas produced in stomach can oO-gas into environment after vomiting. Metal phosphides (rodenticide, fumigant), Route of exposure † = O, R, D. Halocarbons (fumigant), Examples of pesticides = Cellfume, methyl bromide. Halocarbons (fumigant), Clinical presentation = Skin/airway/mucous membrane irritant, cough, renal dysfunction, confusion, seizures, coma,
+
+============================================================
+CHUNK 17
+============================================================
+PESTICIDES
+pulmonary edema. Halocarbons (fumigant), Treatment = Wash skin thoroughly and remove contaminated clothing Gastric lavage and/or activated charcoal if ingested. Halocarbons (fumigant), Route of exposure † = O, R, D. Organochlorines (insecticide), Examples of pesticides = Lindane, DDT. Organochlorines (insecticide), Clinical presentation = Cyanosis, excitability, dizziness, headache, restlessness, tremors, convulsions, coma, paresthesias, nausea, vomiting, confusion, tremor, cardiac arrhythmias, acidosis. Organochlorines (insecticide), Treatment = Wash skin thoroughly and remove contaminated clothing Diazepam for convulsions Oxygenation Cholestyramine resin to enhance elimination. Organochlorines (insecticide), Route of exposure † = O, R, D. Organophosphates (insecticides), Examples of pesticides = Malathion, parathion dichlorvos chlorpyrifos. Organophosphates (insecticides), Clinical presentation = Headache, dizziness, bradycardia, weakness, anxiety, excessive sweating, fasciculations, vomiting, diarrhea, abdominal cramps, dyspnea, miosis, paralysis, salivation, tearing, ataxia, pulmonary edema, confusion, acetylcholinesterase inhibition. Organophosphates (insecticides), Treatment = Same management as for carbamates. Organophosphates (insecticides), Route of exposure † = O, D. Organotin (fungicide), Examples of pesticides = Fentin acetate. Organotin (fungicide), Clinical presentation = Airway, skin and mucous membrane irritation, dermatitis, salivation, delirium, headache, vomiting, dizziness. Organotin (fungicide), Treatment = Wash skin thoroughly and remove contaminated clothing Dilution with water or milk Activated charcoal. Organotin (fungicide), Route of exposure † = O, R, D. Phenol derivatives (fungicide, wood preservative), Examples of pesticides = Pentachlorophenol. Phenol derivatives (fungicide, wood preservative), Clinical presentation = Skin, airway and mucous membrane irritation, contact dermatitis,
+
+============================================================
+CHUNK 18
+============================================================
+PESTICIDES
+dyspnea, diaphoreses, urticaria, tachycardia, headache, abdominal pain, fever, tremor, hypotension, rhabdomyolysis. Phenol derivatives (fungicide, wood preservative), Treatment = Gastric lavage and/or activated charcoal Intravenous Puids (NOTE: salicylates are contraindicated for fever). Phenol derivatives (fungicide, wood preservative), Route of exposure † = O, R, D. Pyrethrins, pyrethroids, Examples of pesticides = Allethrin cyPuthrin permethrin. Pyrethrins, pyrethroids, Clinical presentation = Allergic reactions, anaphylaxis, dermatitis, paresthesias, wheezing, seizures, coma, pulmonary edema, diarrhea, abdominal pain. Pyrethrins, pyrethroids, Treatment = GI decontamination is usually not required For allergic or hypersensitivity reactions, antihistamines, inhaled beta-agonists, corticosteroids, or epinephrine may be used. Pyrethrins, pyrethroids, Route of exposure † = R, D
+
+============================================================
+CHUNK 19
+============================================================
+PESTICIDES
+TABLE 26-3 Adverse Health EOects Caused by Selected Classes of Pesticides-cont'd
+
+Strychnine (rodenticide), Examples of pesticides = Strychnine. Strychnine (rodenticide), Clinical presentation = Muscle rigidity, opisthotonus, rhabdomyolysis, hyperthermia, respiratory compromise. Strychnine (rodenticide), Treatment = Endotracheal intubation is generally required High-dose benzodiazepines to control muscle activity Nondepolarizing neuromuscular blockade agents (e.g. vecuronium) may also be used in intubated patients Opioids (muscle contractions are extremely painful) Aggressive intravenous Puid administration. Strychnine (rodenticide), Route of exposure † = O. Thallium (rodenticide), Examples of pesticides = Thallium sulfate. Thallium (rodenticide), Clinical presentation = Abdominal pain, nausea, vomiting, bloody diarrhea, headache, weakness, liver injury, hair loss, paresthesias, neuropathy, encephalopathy, cardiac failure. Thallium (rodenticide), Treatment = Gastric lavage and/or activated charcoal Insoluble Prussian blue to increase elimination rate Monitor for and treat hypocalcemia. Thallium (rodenticide), Route of exposure † = O. Triazines (herbicide), Examples of pesticides = Atrazine, prometryn. Triazines (herbicide), Clinical presentation = Mucous membrane, ocular and dermal irritation. Triazines (herbicide), Treatment = Gastric lavage and/or activated charcoal. Triazines (herbicide), Route of exposure † = O, R, D
+
+============================================================
+CHUNK 20
+============================================================
+PESTICIDES
+ModiNed from Thundiyil JG, Stober J, Besbelli N, Pronczuk J: Acute pesticide poisoning: a proposed classiNcation tool. Bull World Health Organ 2008;86:205-9. *This list is an overview and is not meant to be a comprehensive list of all pesticides and pesticide classes. Gastric emptying is most eOective when used within 1 hour of an acute and large dose ingestion, and should rarely be performed if more than 4 hours have elapsed since ingestion. Gastric emptying should in general not be performed following ingestion of corrosives and many hydrocarbons. Complications include aspiration and perforation.
+† Route of exposure key: O, oral/ingestion; R, respiratory/inhalation; D, dermal or ocular.
+
+============================================================
+CHUNK 21
+============================================================
+BOX 26.2  Pediatric Considerations - Pesticides
+- Approximately 70% of working children work in agriculture and may be exposed to pesticides at occupational levels worldwide
+- Children are particularly vulnerable to the eOects of pesticides because they have lower levels of enzymes involved in  the  metabolism  and  excretion  of  pesticides  such  as organophosphates
+and fat solubility of the agent, and include: salivation, lacrimation, urination,  defecation, gastric  emesis,  bronchorrhea, bronchospasm, bradycardia (SLUDGE/BBB), respiratory depression, cardiac arrhythmias, miosis, neuropathy and altered mental status. Death may result from respiratory and cardiovascular compromise. Diagnosis is usually one of clinical recognition. Treatment involves decontamination, supportive care, atropine, and oximes such as pralidoxime.
+It  has  been estimated that 3 million cases of  severe acute pesticide poisonings  occur  each  year  globally,  resulting  in  220,000  deaths annually, and that 99% of these deaths occur in the developing world. Globally, pesticides are also commonly used to commit suicide, since they  are inexpensive, widely available, and effective. It is estimated that two-thirds of all pesticide-related deaths worldwide are the result of suicide [24].
+Occupational  exposure to  pesticides  can occur  through  inhalation, incidental ingestion, and dermal contact during job-related tasks such as  mixing  and  spraying  (Box  26.2).  Pesticide  containers  should  be clearly labeled in the local language with ample use of illustrations in low-literacy populations to communicate proper handling. Since
+FIGURE 26.3 DDT spraying in Namibia. Reprinted with permission from Peter Arnold, Inc.
+many agricultural workers worldwide are illiterate, all workers should also be trained in proper handling and usage. While the use of personal protective equipment (PPE) such as respirators and impermeable gloves and clothing is effective in reducing exposures, PPE can be very costly and uncomfortable, and is less likely to be used in hot humid areas (Fig. 26.3). The lack of PPE use emphasizes the need to regulate  the  most  toxic  pesticides  and  replace  them  with  less  toxic alternatives.  Additional  interventions  can  include  introducing  crop rotation to minimize the need for pesticide use [25].
+
+============================================================
+CHUNK 22
+============================================================
+BOX 26.2  Pediatric Considerations - Pesticides
+While pesticide use is essential in the developing world for agricultural purposes and the reduction of vector-borne diseases, actions can be  taken  to  minimize  the  hazards  of  pesticide  use,  including  selfpoisonings.  For  the  most  part,  highly  toxic  pesticides  have  been banned or are approved for restricted use by a certified applicator in
+developed countries (e.g. arsenic oxide, DDT, parathion), but these regulations are not normally extant or are not enforced in developing countries.  In fact, DDT was banned in several African countries for several  years  before  it  was  reintroduced  for  indoor  use  due  to  an increase in malaria deaths. Currently, a Global Environment Facility (GEF) initiative aims to phase-out the use of DDT by the early 2020s, while assuring that malaria infection rate reductions are met.
+
+============================================================
+CHUNK 23
+============================================================
+MOLD/FOOD IMPURITIES
+The high heat, humidity, and long rainy seasons in tropical countries make infestation of mold a likely environmental problem, especially in agricultural communities. Aflatoxins, highly toxic metabolites produced  by  the  fungi Aspergillus  flavus and Aspergillus  parasiticus, are contaminants found in animal feed and some crops such as corn, peanuts and cotton. Ingestion of aflatoxins can lead to liver necrosis, failure  and  cirrhosis.  A  recent  outbreak  of  aflatoxin  poisoning  in eastern and central provinces in Kenya (2004) due to contaminated maize that had been stored in damp conditions lead to 317 cases of acute  poisoning  and  125  deaths.  Levels  of  aflatoxin  measured  in maize from the households that were affected ranged from 20 ppb to 8000 ppb, up to 400 times the WHO recommended maximum limit [26]. Aflatoxin is also a major contributor to liver cancer [27,28] and is  classified  as  a  Group  1  human  carcinogen  by  the  International Agency  for  Research  on  Cancer  (IARC)  [29].  Diagnosis  usually involves clinical recognition, especially of outbreaks from common ingestion,  and  measuring  toxin  or  metabolites  in  blood  or  urine. Treatment is usually supportive.
+
+============================================================
+CHUNK 24
+============================================================
+MOLD/FOOD IMPURITIES
+Ergotism  (also  called  St.  Anthony's  Fire),  a  disease  caused  by  the ingestion of ergot alkaloids produced by ergot, is manifested in two forms: the gangrenous form and the convulsive form. The causative agent, alkaloid ergotamine, and derivatives affect vascular constriction and neurotransmission. The gangrenous form of ergotism is characterized by symptoms including edema of the legs, severe pain, and gangrene at the tendons, while the convulsive form is characterized by nausea and vomiting followed by drowsiness, twitching, uterine contractions  and  abortion,  convulsions,  blindness,  hallucinations and paralysis. Chronic complications include cardiac valvular fibrosis. The main source of exposure to ergot alkaloids is contaminated grains (especially rye) that are stored in humid environments susceptible to contamination of fungi of the genus Claviceps . The clinical symptoms experienced by individuals who have ingested ergot alkaloids depend on the type of alkaloids produced by the various fungi. Ergotism can be prevented by thorough cleaning practices and by destroying the alkaloids by cooking and baking the flour products [30].
+Farmer's lung disease (FLD) is a type of hypersensitivity pneumonitis resulting from an allergic reaction to inhaled microbial agents, including mold spores. Farmers may inhale fungal microorganisms typically found in hay stored in damp conditions with poor ventilation. The symptoms  of  this  disease  include  shortness  of  breath,  productive cough, bronchospasm, fever, and malaise. The chest x-ray shows bilateral,  fleeting  infiltrates.  Additionally,  patients  with  FLD  have  been shown to have higher precipitating immunoglobulin G (IgG) levels associated with various microbes, compared with farmers without the disease [31]. Chronic farmer's lung can lead to obliterating bronchiolitis and fibrosis. Treatment usually involves minimizing additional exposure  and  treatment  with  steroids  (inhaled  and  systemic)  and bronchodilators.
+
+============================================================
+CHUNK 25
+============================================================
+MOLD/FOOD IMPURITIES
+Melamine is another example of a toxic food impurity. Unlike mold contamination, food products containing melamine have been intentionally  contaminated.  Foods  contaminated  with  melamine  will appear to have higher protein content because melamine is rich in nitrogen, which is measured to determine protein levels. In an attempt to make some food items more marketable, a variety of products, such as  infant  formula and wheat  flour used in pet food, originating in China have been contaminated with melamine. Tens of thousands of infants  and  young  children  in  China  have  been  hospitalized  with kidney  stones  and  obstructive  renal  failure  after  the  consumption of  melamine-contaminated  formula.  Some  cases  resulted  in  death [32]. Successful treatment of cases included dialysis to correct their electrolyte levels, hydration (orally or intravenously), alkalization, or surgical removal of the stones [33].
+
+============================================================
+CHUNK 26
+============================================================
+RECOGNITION OF ENVIRONMENTAL AND OCCUPATIONAL HAZARDS
+Several methods can be used by physicians and public health professionals to identify diseases related to environmental conditions. Sentinel cases or unexpected cases of disease may give clues to causative agents. For example, in 1775, Percivall Pott was one of the first surgeons to observe a high incidence of scrotal cancers in young boys who worked as chimney sweeps. Pott suspected that this unexpected high incidence of cancer was a result of dermal contact with coal soot (that is now known to contain various polycyclic aromatic hydrocarbons and now known to be carcinogenic), and he noted that regular washing  prevented  the  disease.  Continuous  surveillance  and  the maintenance of disease registries can also be valuable in the identification of an environmental or occupational health outcome. Registries  allow for  the  methodical  collection  of  demographic  and occupational information from individuals who have developed specific  illnesses  (e.g.  cancer,  asthma,  diabetes).  Additionally,  targeted registries can collect biological measurements on healthy people who may  be  at  high  risk  for  specific  exposures  (e.g.  blood  lead  levels among construction workers).
+Physicians play a crucial role in detecting and the critical role in treating  individuals  with  disease  relating  to  environmental  exposure  or poisoning. In many cases, the best treatment for an environmental disease  is  removal  from  exposure.  Information  about  the  patient's work environment as well as the home environment is crucial in the identification of disease. It is also important for physicians to consider previous  jobs  as  well  as  current  jobs.  Some  diseases  have  a  long latency period and may have clinical impact years after the patient was exposed. Thorough exposure histories may identify a causative agent responsible for the patient's symptoms, and medical screening tests  (e.g.  beryllium  sensitization  test,  pulmonary  function)  can  be used to monitor exposed patients
+
+============================================================
+CHUNK 27
+============================================================
+CONTROL AND REDUCTION OF ENVIRONMENTAL AND OCCUPATIONAL HAZARDS
+While several methods can be used to reduce the levels of personal exposure to environmental hazards, each method differs in terms of feasibility, expense and efficacy. The most efficient way to reduce the health effects associated with a hazard is to eliminate it from use or substitute it with a less hazardous substance. A common successful implementation of this is the elimination and substitution of lead in gasoline  in  several  countries.  Elimination  of  a  hazard  is  the  most desirable option, but it may not always be feasible. It is necessary to have  a  suitable  less  hazardous  substitute  that  can  be  used  for  the purpose. When substitution is not an option, engineering controls, such  as  ventilation,  or  a  redesigning  of  equipment  can  be  used  to minimize personal exposures to the hazard. While engineering controls  are usually  effective, they  can be expensive  to  implement and maintain  over  time.  The  implementation  of  cooking  stoves  with enclosed wood-burning chambers with chimneys as opposed to open fires is an example of a redesign that reduced personal exposure to indoor air  pollution  and respiratory  symptoms,  specifically among women [34,35]. In the absence of feasible engineering controls, the use of administrative controls can reduce workplace exposures (not necessarily environmental exposures) to individuals by rotating jobs among workers or limiting the time a worker performs a specific task, such as spraying pesticides. Finally, workers can use personal protective equipment (PPE), such as respirators, and protective clothing (e.g. gloves, overalls, boots) to minimize the absorption of environmental hazards that cannot be controlled by any other means. The use of PPE may be effective, but it also poses additional challenges to workers. PPE requires routine cleaning and maintenance for efficacy and can be very cumbersome to wear, especially in hot and humid climates.
+Other common control measures include regular hand washing to avoid exposure through hand-to-mouth contact while eating, drinking or smoking, and changing clothes after being exposed to dusts or chemicals to minimize further absorption and exposure to others.
+
+============================================================
+CHUNK 28
+============================================================
+REFERENCES
+1. Ni HG, Zeng EY. Law enforcement and global collaboration are the keys to containing e-waste tsunami in China. Environ Sci Technol 2009;43:3991-4.
+2. Chen B,  Kan  H.  Air  pollution  and  population  health:  a  global  challenge. Environ Health Prev Med 2008;13:94-101.
+3. Zanobetti A, Schwartz J. The effect of fine and coarse particulate air pollution on mortality: a national analysis. Environ Health Perspect 2009;1 17: 898-903.
+4. Brunekreef B, Dockery DW, Krzyzanowski M. Epidemiologic studies on shortterm effects of low levels of major ambient air pollution components. Environ Health Perspect 1995;103 Suppl 2:3-13.
+5. Dockery DW. Epidemiologic evidence of cardiovascular effects of particulate air pollution. Environ Health Perspect 2001;109 Suppl 4:483-6.
+6. Yi O, Hong YC, Kim H. Seasonal effect of PM(10) concentrations on mortality and morbidity in Seoul, Korea: a temperature-matched case-crossover analysis. Environ Res 2010;1 10:89-95.
+7. International  Energy Agency. World Energy Outlook 2004. Paris: Organization  for  Economic  Co-operation  and  Development/International  Energy Agency; 2004.
+8. Fullerton DG, Bruce N, Gordon SB. Indoor air pollution from biomass fuel smoke is a major health concern in the developing world. Trans R Soc Trop Med Hyg 2008;102:843-51.
+9. Chapman RS, He X, Blair AE, Lan Q. Improvement in household stoves and risk of chronic obstructive pulmonary disease in Xuanwei, China: retrospective cohort study. BMJ 2005;331:1050.
+10.  IARC.  Arsenic  and  arsenic  compounds.  IARC  Monogr  Eval  Carcinog  Risk Chem Hum 1980;23:39-141.
+11.  Smith  AH,  Lingas  EO,  Rahman  M.  Contamination  of  drinking-water  by arsenic in Bangladesh: a public health emergency. Bull World Health Organ 2000;78:1093-103.
+
+============================================================
+CHUNK 29
+============================================================
+REFERENCES
+12.  McCarty KM, Ryan L, Houseman EA, et al. A case-control study of GST polymorphisms and arsenic related skin lesions. Environ Health 2007;6:5.
+13.  Smith AH, Hopenhayn-Rich C, Bates MN, et al. Cancer risks from arsenic in drinking water. Environ Health Perspect 1992;97:259-67.
+14.  Rahman MM, Ng JC, Naidu R. Chronic exposure of arsenic via drinking water and its adverse health impacts on humans. Environ Geochem Health 2009;31 Suppl 1:189-200.
+15.  Chen Y, Hall M, Graziano JH, et al. A prospective study of blood selenium levels and the risk of arsenic-related premalignant skin lesions. Cancer Epidemiol Biomarkers Prev 2007;16:207-13.
+16.  Guha Mazumder DN. Chronic arsenic toxicity: clinical features, epidemiology,  and treatment:  experience in West  Bengal.  J Environ Sci Health  A Tox Hazard Subst Environ Eng 2003;38:141-63.
+17.  Nichani V, Li WI, Smith MA, et al. Blood lead levels in children after phase-out of leaded gasoline in Bombay, India. Sci Total Environ 2006;363:95-106.
+18.  Kadir MM, Janjua NZ, Kristensen S, et al. Status of children's blood lead levels in  Pakistan:  implications  for  research  and  policy.  Public  Health  2008; 122:708-15.
+19.  Romieu I, Palazuelos E, Hernandez Avila M, et al. Sources of lead exposure in Mexico City. Environ Health Perspect 1994;102:384-9.
+20.  Haefliger P, Mathieu-Nolf M, Lociciro S, et al.  Mass lead intoxication from informal used lead-acid battery recycling in Dakar, Senegal. Environ Health Perspect 2009;1 17:1535-40.
+21.  Zheng L, Wu K, Li Y, et al. Blood lead and cadmium levels and relevant factors among  children  from  an  e-waste  recycling  town  in  China.  Environ  Res 2008;108:15-20.
+
+============================================================
+CHUNK 30
+============================================================
+REFERENCES
+22.  Jain  NB,  Laden  F,  Guller  U,  et  al.  Relation  between  blood  lead  levels  and childhood anemia in India. Am J Epidemiol 2005;161:968-73.
+23.  Meyer PA, Brown MJ, Falk H. Global approach to reducing lead exposure and poisoning. Mutat Res 2008;659:166-75.
+24.  World Health Organization (WHO). Public Health Impact of Pesticides Used in Agriculture. Geneva: World Health Organization; 1990.
+25.  Eddleston  M,  Karalliedde  L,  Buckley  N,  et  al.  Pesticide  poisoning  in  the developing world - a minimum pesticides list. Lancet 2002;360:1 163-7.
+26.  Centers  for  Disease  Control  and  Prevention  (CDC).  Outbreak  of  aflatoxin poisoning - eastern and central provinces, Kenya, January-July 2004. MMWR Morb Mortal Wkly Rep 2004;53:790-3.
+27.  Chuang SC, Vecchia CL, Boffetta P. Liver cancer: descriptive epidemiology and risk factors other than HBV and HCV infection. Cancer Lett 2009;286:9-14.
+28.  Wu  HC,  Wang  Q,  Yang  HI,  et  al.  Aflatoxin  B1  exposure,  hepatitis  B  virus infection, and  hepatocellular  carcinoma  in  Taiwan.  Cancer  Epidemiol Biomarkers Prev 2009;18:846-53.
+29.  IARC Working Group on the Evaluation of Carcinogenic Risks to Humans. Traditional  herbal  medicines,  some  mycotoxins,  naphthalene  and  styrene. IARC Monogr Eval Carcinog Risk Chem Hum 2002;82:1-556.
+30.  Peraica M, Domijan AM. Contamination of food with mycotoxins and human health. Arh Hig Rada Toksikol 2001;52:23-35.
+31.  Erkinjuntti-Pekkanen  R,  Reiman  M,  Kokkarinen  JI,  et  al.  IgG  antibodies, chronic bronchitis, and pulmonary function values in farmer's lung patients and matched controls. Allergy 1999;54:1 181-7.
+32.  Kuehn BM. Melamine scandals highlight hazards of increasingly globalized food chain. JAMA 2009;301:473-5.
+
+============================================================
+CHUNK 31
+============================================================
+REFERENCES
+33.  Sun Q, Shen Y, Sun N, et al. Diagnosis, treatment and follow-up of 25 patients with melamine-induced kidney stones complicated by acute obstructive renal failure in Beijing Children's Hospital. Eur J Pediatr 2010;169:483-9.
+34.  Granderson J,  Sandhu  J,  Vasquez  D,  et  al.  Fuel  use  and  design  analysis  of improved woodburning cookstoves in the Guatemalan Highlands. Biomass Bioenergy 2009;33:306-15.
+35.  Smith-Sivertsen T, Diaz E, Pope D, et al. Effect of reducing indoor air pollution on women's respiratory symptoms and lung function: the RESPIRE Randomized Trial, Guatemala. Am J Epidemiol 2009;170:211-20.
+

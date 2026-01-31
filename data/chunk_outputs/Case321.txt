@@ -1,0 +1,136 @@
+============================================================
+CHUNK 0
+============================================================
+90
+
+============================================================
+CHUNK 1
+============================================================
+KEY FEATURES
+- fungal infection caused by the dimorphic fungus Talaromyces (formerly Penicillium ) marneffei, affecting primarily immunocompromised individuals who reside in or travel to the highlands and surrounding regions of Southeast Asia, southern China, and northeastern India.
++ T-cell count of ≤ 100 cells/ μ L and individuals with impaired cellular immunity are at risk of infection.
+- patients during the late stage of disseminated infection, enabling a presumptive diagnosis through microscopic identi{cation of the characteristic midline septa of the yeast on a touch skin smear. Other clinical features are non-speci{c and are indistinguishable from disseminated tuberculosis, which is both the most frequent misdiagnosis and the most frequent co-infection.
+- temperature-dependent dimorphism, which can take up to 2 weeks to identify. Delay in time to diagnosis and treatment is associated with higher mortality.
+- reaction (PCR) and monoclonal antibody based antigen assay, are promising and are being evaluated in larger clinical studies.
+- deoxycholate reduces six month mortality, immune reconstitution in|ammatory syndrome, and relapse incidence compared with itraconazole and needs to be made more widely available in Asia.
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+The dimorphic fungal pathogen Talaromyces marneffei causes lifethreating infection in predominantly immunocompromised residents and travelers to tropical regions in Southeast Asia, and in particular, Thailand, Vietnam, Myanmar, Laos, Cambodia, northeastern India, southern China, Hong Kong, and T aiwan (Fig. 90.1). 1 T. marneffei exhibits temperature-dependent dimorphism. At 37°C T. marneffei grows as a yeast form, uniquely dividing by binary {ssion. At 25°C the fungus grows as a mold, producing a characteristic bright red pigment that diffuses into the media. (Fig. 90.2C). The pathogen was classi{ed under the Penicillium subgenus Biverticillium until 2011, when this subgenus was found to form a monophyletic group with the genus Talaromyces that was distinct from Penicillium. It was then  reclassi{ed  to T.  marneffei, 2 and  infection  is  now  called talaromycosis .
+
+============================================================
+CHUNK 3
+============================================================
+EPIDEMIOLOGY
+Rare before the HIV epidemic, talaromycosis is now among the most  common  causes  of  death  in  patients  with  advanced  HIV infection in endemic regions. 3,4 The incidence has decreased in
+
+============================================================
+CHUNK 4
+============================================================
+Talaromycosis (Penicilliosis)
+Thuy Le, Nguyen Tat Thanh, Guy E. Thwaites
+Thailand  and  Hong  Kong,  where  HIV  testing  rates  and  antiretroviral therapy (ART) coverage are high. However, talaromycosis remains a public health problem in Vietnam and China, accounting for 5% to 15% of AIDS admissions annually, 3-5 and is a leading cause of HIV-associated bloodstream infection. 6,7 The number of talaromycosis  cases  diagnosed  outside  of  the  endemic  areas  is increasing as a consequence of increased migration and international travel. 8 T alaromycosis has been recently recognized as a common opportunistic infection in Asia in persons with adult-onset primary immunode{ciency associated with anti-interferon-gamma autoantibodies.  It  has  also  emerged  in  individuals  with  secondary immunode{ciency  conditions due to autoimmune diseases, malignancies, and solid organ and stem cell transplantations that require immunosuppressive therapy. 9
+
+============================================================
+CHUNK 5
+============================================================
+ECOLOGY
+Multiple {eld studies have contributed to identifying ecological reservoirs and routes of human acquisition of T.  marneffei . 1,10,11 T. marneffei has been isolated in the lungs, liver, and spleen of all four bamboo rat species in mountainous regions in tropical Asia ( Rhizomys spp. and Cannomys badius ), 11 as well as from soil samples and  bamboo  rat  feces  near  their  burrows. 11 The  isolates  from bamboo rats and humans have similar or identical genotypes. 10 There is no evidence of direct bamboo rat-to-human transmission. Exposure to animals and plants and living in proximity or traveling to  the  highlands  and  surrounding  regions  are  risk  factors  of infection,  suggesting  soil  in  the  highland  regions  is  a  natural reservoir. 12,13 Other epidemiologic data supporting soil as a reservoir are a 30% to 50% increase in incidence during the rainy season 3,14 and an increase in incidence during humid months. 15,16 Thus the ecology  of T.  marneffei is  likely  to  involve  an  interaction  with multiple  reservoirs  involving  soil,  plant  materials,  and  animals, within which the bamboo rat may help T. marneffei to expand its biomass and its geography.
+
+============================================================
+CHUNK 6
+============================================================
+PATHOGENESIS
+The mechanisms by which T. marneffei invades the host are not well  understood.  It  is  presumed  that  hosts  become  infected  by inhaling environmental conidia. Macrophages serve as the primary line of host defense; they phagocytize T. marneffei conidia via an L-arginine-dependent nitric oxide pathway. 17  CD4 + T-cell-mediated immunity is necessary for control of infection 18 and produces a Th1 cytokine response with high levels of interleukin-12, gamma interferon, and tumor necrosis factor alpha. 19 Healthy individuals can  control  the  pathogen  after  acquisition;  however,  quiescent infection may persist for years and reactivate later in life. Failure of both innate and cellular immune responses leads to pathogen invasion and dissemination through the reticuloendothelial system. T. marneffei Mp1p, a highly antigenic mannoprotein located on the  fungal  cell  wall,  enhances  survival  of T.  marneffei inside macrophages and is a critical virulence factor in a mouse model. 20 Mp1p binds and sequesters arachidonic acids, a key proin|ammatory lipid, to dampen host innate immune response. 21
+
+============================================================
+CHUNK 7
+============================================================
+CLINICAL FEATURES AND OUTCOMES
+Disseminated infection involving multiple organ systems is the most  common manifestation  in  profoundly  immunosuppressed
+Fig. 90.1 Geographic distribution of talaromycosis.
+Fig. 90.2 (A) Skin lesions in an HIV-infected patient with disseminated talaromycosis. (B) Giemsa-stained touch skin smear showing oval-shaped yeast organisms inside and outside of a ruptured macrophage. The arrow highlights the midline septum in a dividing yeast cell characteristic of T. marneffei. (C) Morphology of T. marneffei colonies and T. marneffei cells grown at 25°C and at 37°C on Sabouraud's agar medium.
+patients, in particular, HIV-infected patients with a CD4 + T-cell count ≤ 100 cells/mm 3 . 1,3 Patients have fever, weight loss, hepatosplenomegaly, lymphadenopathy, and respiratory and gastrointestinal abnormalities. These features can be indistinguishable from disseminated tuberculosis and other opportunistic infections caused by intracellular pathogens. Characteristic skin lesions are present in 60% to 70% of patients and present as central-necrotic papules on the face, neck, chest, back, and upper extremities (Fig. 90.2A). Common laboratory {ndings are anemia, thrombocytopenia, and elevated  serum  aspartate  aminotransferase  and  alanine  aminotransferase. 3 Primary central nervous system infections have been reported. 22 Localized infections are more common in
+B
+A
+B
+D
+Fig. 90.3 Skin lesions in patients with paradoxical talaromycosis-associated immune reconstitution inflammatory syndrome (IRIS): (A) erythematous nodules, (B) inflammatory plaques, (C) aseptic arthritis of small joints, and (D) erythema nodosum.
+
+============================================================
+CHUNK 8
+============================================================
+CLINICAL FEATURES AND OUTCOMES
+non-HIV-infected patients, including chronic pulmonary cavity lesions, abdominal abscesses, obstructive tracheal lesions, genital chancroid lesions, pericardial effusion, and osteoarthritis. 23 Disseminated infection is fatal if untreated and has an on-treatment mortality of up to 30% in both HIV-infected and non-HIV-infected patients. 23 Higher mortality is associated with delay in diagnosis, older age, shorter duration of symptoms, dyspnea, absence of fever or skin lesions, thrombocytopenia, and elevated lactate dehydrogenase levels. 3,5,7
+
+============================================================
+CHUNK 9
+============================================================
+DIAGNOSIS
+A presumptive diagnosis can be made by microscopic examination of  Giemsa-  or  Wright-stained  smears  of  skin  lesions,  lymph nodes,  or  bone  marrow  aspirates.  These  stains  show  oval  to round  intra-macrophage  and  extra-macrophage  yeasts  with characteristic central septa (Fig. 90.2B). The de{nitive diagnosis is based on culture isolation of pathogen, demonstrating temperature-dependent dimorphic growth. Culture can take up to 14  days  for  identi{cation,  leading  to  delay  in  diagnosis  and treatment. Polymerase chain reaction (PCR)-based assays have been developed to improve diagnostic accuracy and speed. These assays are highly speci{c but suffer from  low  sensitivity (60%-70%), due to low circulating fungal DNA in the blood and  dif{culties  in  releasing  DNA  from  the  thick  fungal  cell wall. 24 Monoclonal antibody-based antigen detection assays have demonstrated higher sensitivities compared to blood culture and PCR. 25,26 Among them, the Mp1p-based antigen detection assay showed a sensitivity of 90% and a speci{city of 98% and is being developed for commercial use. 27
+
+============================================================
+CHUNK 10
+============================================================
+COMPLICATIONS AND CO-INFECTIONS
+Profoundly immunosuppressed patients are at risk for developing immune  reconstitution  in|ammatory  syndrome  (IRIS)  upon initiation of ART. T alaromycosis IRIS is manifested as 'paradoxical' worsening of treated infection (paradoxical IRIS) or uncovering  of 'occult'  infection  (unmasking  IRIS).  Common  clinical manifestations of paradoxical IRIS are an exacerbation of skin lesions,  fever,  lymphadenopathy,  aseptic  arthritis  of  large  and small joints (Fig. 90.3C), or erythema nodosum (Fig. 90.3D). 28 Skin  lesions  in  paradoxical  IRIS  can  be  atypical,  including erythematous  nodules  (Fig.  90.3A),  verrucous  lesions,  and erythematous  plaques (Fig. 90.3B).  Continuation  of  ART, antifungal therapy, non-steroidal anti-in|ammatory medications, and  judicious  use  of  corticosteroids  for  joint  involvement  are recommended. 28 Relapse rates are low (1%-7%) in patients who are compliant on secondary prophylaxis with itraconazole and on effective ART. 29 Co-infection with microbiological-con{rmed tuberculosis occurs in 22% of patients and complicates management  due  to  itraconazole-rifampicin  interactions,  requiring therapeutic drug monitoring (when available) and an increased dose of itraconazole. 3 Co-infection with cryptococcal meningitis is rare but presents a therapeutic dilemma, as neither itraconazole nor |uconazole by itself is effective in the maintenance therapy for  co-infections. 22 These  patients  likely  require  new  triazole drugs  with  good  activities  against  both  pathogens  such  as voriconazole or isavuconazole for maintenance antifungal therapy.
+
+============================================================
+CHUNK 11
+============================================================
+ANTIFUNGAL TREATMENT AND PREVENTION
+International guidelines recommend initial therapy with amphotericin  B  deoxycholate  for  2  weeks,  followed  by  itraconazole consolidation therapy for 10 weeks, and maintenance therapy until CD4 counts  are > 100  cells/mm 3 for  at  least  6  months. 30 This recommendation has been con{rmed by a multicenter itraconazole versus amphotericin B for talaromycosis trial (IVAP) demonstrating that amphotericin was superior to itraconazole as initial therapy with respect to 6-month mortality, and IRIS and relapse incidence. 29 The fungal clearance data from this trial suggested that a short course of ≤ 8 days of amphotericin might be effective but requires further studies. 29 Liposomal amphotericin B and voriconazole are also effective; however, these drugs may not be available in resourcelimited settings. Primary prophylaxis with itraconazole is shown to prevent invasive fungal infections in patients with CD4 counts < 200 cells/ mm 3 in Thailand 31 ; however, the strategy has not been widely  adopted  in  Asia  because  of  high  costs  and  concerns  of toxicity and drug resistance.
+
+============================================================
+CHUNK 12
+============================================================
+REFERENCES
+1.  Vanittanakom N, Cooper CR, Fisher MC, et al. Penicillium marneffei Infection and Recent Advances in the Epidemiology and Molecular Biology Aspects. Clin Microbiol Rev 2006;19:95-110.
+2.  Samson RA, Yilmaz N, Houbraken J, et al. Phylogeny and nomenclature of  the  genus  T alaromyces  and  taxa  accommodated  in  Penicillium subgenus Biverticillium. Stud Mycol 2011;70:159-83.
+3.  Le T , Wolbers M, Chi NH, et al. Epidemiology, seasonality, and predictors of outcome of AIDS-associated Penicillium marneffei infection in Ho Chi Minh City, Viet Nam. Clin Infect Dis 2011;52:945-52.
+4.  Hu Y, Zhang J, Li X, et al. Penicillium marneffei infection: an emerging disease in mainland China. Mycopathologia 2013;175:57-67.
+5.  Son VT, Khue PM, Strobel M. Penicilliosis and AIDS in Hai Phong, Vietnam: evolution and predictive factors of death. Med Mal Infect 2014;44:495-501.
+6.  Nga TV, Parry CM, Le T, et al. The decline of typhoid and the rise of non-typhoid salmonellae and fungal infections in a changing HIV landscape:  bloodstream  infection  trends  over  15  years  in  southern Vietnam. Trans R Soc Trop Med Hyg 2012;106:26-34.
+7.  Qi T, Zhang R, Shen Y, et al. Etiology and clinical features of 229 cases of bloodstream infection among Chinese HIV/AIDS patients: a retrospective cross-sectional study. Eur J Clin Microbol Infect Dis 2016;35:1767-70.
+8.  Antinori S, Gianelli E, Bonaccorso C, et al. Disseminated Penicillium marneffei infection in an HIV-Positive Italian Patient and a Review of Cases Reported Outside Endemic Regions. J T ravel Med 2006;1:181-8.
+
+============================================================
+CHUNK 13
+============================================================
+REFERENCES
+9.  Chan JF, Chan TS, Gill H, et al. Disseminated Infections with Talaromyces marneffei in Non-AIDS Patients Given Monoclonal Antibodies against CD20 and Kinase Inhibitors. Emerg Infect Dis 2015;2:1101-6.
+10.  Cao C, Liang L, Wang W, et al. Common reservoirs for Penicillium marneffei infection in humans and rodents, China. Emerg Infect Dis 2011;17:209-14.
+11.  Huang X, He G, Lu S, et al. Role of Rhizomys pruinosus as a natural animal  host  of Penicillium  marneffei in  Guangdong,  China.  Microb Biotechnol 2015;8:659-64.
+12.  Chariyalertsak S, Sirisanthana T, Supparatpinyo K, et al. Case-control study  of  risk  factors  for Penicillium  marneffei infection  in  human immunode{ciency virus-infected patients in northern Thailand. Clin Dis 1997;24:1080-6.
+13.  Le T, Jonat B, Kim Cuc NT, et al. The exposure and geospatial risk factors for AIDS-associated penicilliosis in Vietnam. Conference on Retroviruses  and  Opportunistic  Infections;  2015  February  23-26; Seattle, Washington; 2015.
+14.  Chariyalertsak  S,  Sirisanthana  T,  Supparatpinyo  K,  et al.  Seasonal variation of disseminated Penicillium marneffei infections in northern Thailand: a clue to the reservoir? J Infect Dis 1996;173:1490-3.
+15.  Bulterys PL, Le T, Quang VM, et al. Environmental Predictors and Incubation Period of AIDS-Associated Penicillium marneffei infection in Ho Chi Minh City, Vietnam. Clin Infect Dis 2013;56:1273-9.
+16.  Wang YF, Xu HF, Han ZG, et al. Serological surveillance for Penicillium marneffei infection in HIV-infected patients during 2004-2011 in Guangzhou, China. Clin Microbiol Infect 2015;21:484-9.
+
+============================================================
+CHUNK 14
+============================================================
+REFERENCES
+17.  Kudeken N, Kawakami K, Saito A. Role of superoxide anion in the fungicidal activity of murine peritoneal exudate macrophages against Penicillium marneffei . Microbiol Immunol 1999;43:323-30.
+18.  Kudeken  N,  Kawakami  K,  Saito  A.  CD4 + T  cell-mediated  fatal hyperin|ammatory reactions in mice infected with Penicillium marneffei . Clin Exp Immunol 1997;107:468-73.
+19.  Sisto F , Miluzio A, Leopardi O, et al. Differential cytokine pattern in the spleens and livers of BALB/c mice infected with Penicillium marneffei: protective role of gamma interferon. Infect Immun 2003;71:465-73.
+20.  Woo PC, Lau SK, Lau CC, et al. Mp1p Is a Virulence Factor in Talaromyces ( Penicillium ) marneffei . PLoS Negl T rop Dis 2016;10:e0004907.
+21.  Sze  KH,  Lam WH,  Zhang  H,  et al. T alaromyces  marneffei  Mp1p is  a  virulence  factor  that  binds  and  sequesters  a  key  proin|ammatory lipid to dampen host innate immune response. Cell Chem Biol 2017;24(2):182-94.
+22.  Le T , Hong Chau TT, Kim Cuc NT, et al. AIDS-associated Cryptococcus neoformans and Penicillium marneffei coinfection: a therapeutic dilemma in resource-limited settings. Clin Infect Dis 2010;51:e65-8.
+23.  Qiu Y, Liao H, Zhang J, et al. Differences in clinical characteristics and prognosis of Penicilliosis among HIV-negative patients with or without underlying disease in Southern China: a retrospective study. BMC Infect Dis 2015;15:525.
+24.  Hien HT, Thanh TT, Thu NT, et al. Development and evaluation of a real-time polymerase chain reaction assay for the rapid detection of Talaromyces marneffei MP1 gene in human plasma. Mycoses 2016;59:773-80.
+
+============================================================
+CHUNK 15
+============================================================
+REFERENCES
+25.  Wang YF, Cai JP, Wang YD, et al. Immunoassays based on Penicillium marneffei Mp1p derived from Pichia pastoris expression system for diagnosis of penicilliosis. PLoS ONE 2011;6:e28796.
+26.  Prakit K, Nosanchuk JD, Pruksaphon K, et al. A novel inhibition ELISA for the detection and monitoring of Penicillium marneffei antigen in human serum. Eur J Clin Microbiol Infect Dis 2016;35:647-56.
+27.  Thu NT, Jasper FWC, Hien HT, et al. Clinical performance of the Mp1p  Immunoassay  for  Rapid  Diagnosis  of Talaromyces  marneffei infection. Conference on Retroviruses and Opportunistic Infections; 2017 February 13-16; Seattle, Washington; 2017.
+28.  Thanh NT, Vinh LD, Liem NT, et al. Clinical features of three patients with  paradoxical  immune  reconstitution  in|ammatory  syndrome associated with Talaromyces marneffei infection. Med Mycol Case Rep 2016;19:33-7.
+29.  Le T , Kinh NV , Cuc NTK, et al. A trial of itraconazole or amphotericin b for HIV-associated talaromycosis. N Engl J Med 2017;376:2329-40.
+30.  Sirisanthana T,  Supparatpinyo K, Perriens  J, et al. Amphotericin B and itraconazole for treatment of disseminated Penicillium marneffei infection  in  human  immunode{ciency virus-infected patients.  Clin Infect Dis 1998;26:1107-10.
+31.  Chariyalertsak S, Supparatpinyo K, Sirisanthana T, et al. A controlled trial of itraconazole as primary prophylaxis for systemic fungal infections in patients with advanced human immunode{ciency virus infection in Thailand. Clin Infect Dis 2002;34:277-84.
+

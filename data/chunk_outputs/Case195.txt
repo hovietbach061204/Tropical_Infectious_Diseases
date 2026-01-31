@@ -1,0 +1,120 @@
+============================================================
+CHUNK 0
+============================================================
+Key features
+- Sarcocystis parasites are a rare cause of eosinophilic enteritis, subcutaneous nodules, and eosinophilic myositis
+- Humans are de$nitive hosts for Sarcocystis hominis and Sarcocysti suihominis , the agents responsible for intestinal sarcocystosis. Ingesting sarcocysts found in uncooked or undercooked beef or pork may cause mild enteritis, but most infections are thought to be asymptomatic
+- Humans may also become dead-end (intermediate) hosts for nonhuman Sarcocystis spp. after the accidental ingestion of oocysts. This ingestion leads to muscular sarcocystosis, a clinical spectrum ranging from asymptomatic muscle cysts to a severe, acute, eosinophilic myositis associated with systemic symptoms with peripheral eosinophilia
+- Most human cases have been described from Southeast Asia, but Sarcocystis parasites have a worldwide distribution, especially where livestock is raised, and human infections in other areas have been described but may be under-recognized
+
+============================================================
+CHUNK 1
+============================================================
+TRANSMISSION AND EPIDEMIOLOGY
+Humans are the definitive hosts when they consume undercooked pork or beef containing tissue cysts (sarcocysts) (Fig. 103.1) of the two recognized human species, Sarcocystis hominis and Sarcocystis suihominis , and they develop intestinal sarcocystosis - a transient infection restricted to the gastro-intestinal tract.
+The vast majority of over 100 different parasite species are found in other mammals. In nature, carnivores acquire infection by consuming prey whose tissues harbor encysted parasites. The carnivores excrete the parasite oocysts which are then consumed by herbivores ingesting contaminated vegetation or water. Humans are accidental intermediate hosts for several other Sarcocystis species.
+Sarcocystis parasites have a worldwide distribution. Our understanding  of  the  epidemiology  of human sarcocystosis relies on  sporadic case reports and occasional outbreaks, mostly described from Southeast Asia, especially Malaysia and Thailand. Limited seroprevalence studies and stool surveys confirm widespread distribution and exposures, and suggest human infections are likely under-recognized [2]. Incidental findings at autopsy suggest widespread  infection in endemic areas. One series of 100 consecutive, routine autopsies from Malaysia  documented  evidence  of  sarcocystosis  in  2 1%  of  muscle tissue examinations [3].
+
+============================================================
+CHUNK 2
+============================================================
+PATHOGENESIS
+Sarcocystis parasites  are obligatory, two-host,  intracellular, intestinal, coccidian parasites. Sarcocystis hominis and S. suihominis use humans as definitive hosts and are responsible for intestinal sarcocystosis in the human host. Humans may also become dead-end hosts for nonhuman Sarcocystis spp. after the accidental ingestion of oocysts.
+Both sporulated oocysts (containing two sporocysts) and individual sporocysts can be passed in stool. Sporocysts contain four sporozoites and a refractile residual body. Sporocysts ingested by the intermediate host (cattle for S. hominis and pigs for S . suihominis ) rupture, releasing sporozoites. Sporozoites enter endothelial cells of blood vessels and undergo  schizogony,  resulting  in  first-generation  schizonts.  Merozoites derived from the first generation invade small capillaries and blood  vessels,  becoming  second-generation  schizonts.  The  secondgeneration merozoites invade skeletal and heart myocytes, as well as neurons, and develop into metrocysts and undergo a series of internal mitotic divisions (endodyogeny). When filled with bradyzoites, the metrocyst becomes a sarcocyst (Fig. 103.2A) that will be infectious when eventually  consumed by the definitive host. There is no evidence that rupture of sarcocysts in the intermediate host can initiate new rounds of replication in the intermediate host.
+Much of our understanding of the pathogenesis of intestinal infection in  humans  comes  from  experiments  infecting  human  volunteers with sarcocysts (although, arguably, unnaturally large numbers were ingested). Several days after exposure, and for several days thereafter, infected persons will excrete oocysts and infective sporocysts in the stool. Although people can experience lengthy, indeed lifelong infection with sarcocysts, the identity and natural history of those parasites remain unknown. Excellent, illustrated reviews of zoonotic sarcocystosis are available [4-6].
+
+============================================================
+CHUNK 3
+============================================================
+CLINICAL MANIFESTATIONS
+Human disease  can manifest as  either  an  enteric  infection  or  as  a muscular infection (Table 103-1) Older reviews of sarcocystis infections in man are available [7, 8].
+
+============================================================
+CHUNK 4
+============================================================
+ENTERIC INFECTION
+Most individuals with intestinal sarcocystosis remain asymptomatic and naturally occurring gastrointestinal illness is rare, or rarely recognized. Symptoms induced by experimental challenge include nausea, abdominal  discomfort  and  self-limited  diarrhea,  with  symptom severity dependent on the amount of meat consumed [5]. Onset of diarrhea is generally rapid (in some subjects 3-6 hours post-ingestion), normally within 48 hours of ingestion. Illness is typically brief and self-limited, usually resolving within 36 hours of onset. A segmental, eosinophilic, necrotizing enteritis attributed to sexual forms of Sarcocystis has  been reported;  however, causation in  these  cases was not definitely established [9]. The intensity of symptoms may be related to the infectious dose of sarcocysts ingested, rather than the infecting species of Sarcocystis .
+Cyst in muscle cells
+INTERMEDIATE HOSTS
+Bovine and swine
+Gametes
+Unsporulated oocyst
+Sporocyst
+FIGURE 103.1 Schematic representation of the lifecycle of Sarcocystis hominis and Sarcocystis suihominis . (reproduced with  permission  from  Murrell  KD,  Fayer  R,  Dubey  JP.  Parasitic Organisms.  Advances  in  Meat    Research.  West  Port,  CT:  AVI Publishing Co.; 1986.)
+TABLE 103-1 Parasite Development and Disease Manifestations in Humans
+
+============================================================
+CHUNK 5
+============================================================
+ENTERIC INFECTION
+Source of infection, Muscular infection = Water or food contaminated with feces from unknown carnivore or omnivore. Source of infection, Intestinal infection = Raw or undercooked meat. Infective stage, Muscular infection = Oocyst or free sporocysts. Infective stage, Intestinal infection = Sarcocyst containing bradyzoites. Developmental stages, Muscular infection = Intravascular schizonts (not seen); intramuscular sarcocysts. Developmental stages, Intestinal infection = Sexual stages in lamina propria; oocysts excreted in feces. Time from ingestion of infective stage to symptoms, Muscular infection = Weeks to months, lasting months to years. Time from ingestion of infective stage to symptoms, Intestinal infection = 3-6 h, lasting 36 h. Symptoms, Muscular infection = Musculoskeletal pain, fever, rash, cardiomyopathy, bronchospasm, subcutaneous swelling. Symptoms, Intestinal infection = Nausea, loss of appetite, vomiting, stomachache, bloat, diarrhea, dyspnea, and tachycardia. Diagnosis, Muscular infection = Biopsy specimen containing sarcocyst; antibodies to bradyzoites. Diagnosis, Intestinal infection = Oocysts or sporocysts in feces, beginning 5-12 days after ingestion. Therapy (none approved), Muscular infection = Co-trimoxazole, furazolidone, albendazole, anticoccidials, pyrimethamine, anti-in;ammatories. Therapy (none approved), Intestinal infection = None
+SCW
+bz
+
+============================================================
+CHUNK 6
+============================================================
+ENTERIC INFECTION
+FIGURE 103.2 Photomicrographs of Sarcocystis muris. (A) Developing sarcocyst in muscle tissue. Immature metrocytes (mc) and mature bradyzoites (bz) are enclosed by the sarcocyst wall (scw). (B) Two sporulated oocysts. Sporozoites (sz) and residuum bodie (rb) are enclosed by the prominent sporocysts wall (spw) which, in turn, are paired within the oocyst wall (ow). In many instances, unpaired sporocysts will be recovered owing to rupture of the oocysts wall. The scale bar denotes 20 microns.
+
+============================================================
+CHUNK 7
+============================================================
+MUSCLE INFECTION
+As with gastrointestinal involvement, muscular  sarcocystosis is usually, but not always, asymptomatic. When humans ingest sporocysts,  and  thus  become  intermediate  hosts,  the  release  of  meronts to the endothelium and subsequent merozoite invasion of striated muscle  can  correlate  with  vasculitic  and/or  musculoskeletal  symptomatology. In an outbreak of eosinophilic myositis in a 15-man U.S. military unit operating in Malaysia, an acute illness consisting of fever, myalgias, bronchospasm, fleeting pruritic rashes, transient lymphadenopathy, and subcutaneous nodules associated  with eosinophilia, elevated erythrocyte sedimentation rate, and elevated levels of hepatic enzymes and muscle creatinine kinase were reported in 7 out of the 10 exposed personnel [10]. One patient had serious, chronic sequelae; the  other  team  members  had  milder,  self-limited  illnesses.  Muscle tissue  biopsy  of  the  index  case  showed  an  unidentified Sarcocystis species.
+When cases  are  symptomatic,  painful  muscle  swellings,  measuring 1-3 cm  in  diameter  and  initially  associated  with  erythema  of  the overlying skin, occur episodically, and last from 2 days to 4 weeks. Sometimes, lesions are accompanied by fever, diffuse myalgia, muscle tenderness, weakness, eosinophila, and bronchospasm. A discharging sinus, painful swelling with erythema, an ill-defined mass, and chronic pain with ulceration have been reported from New Zealand [1 1].
+
+============================================================
+CHUNK 8
+============================================================
+DIAGNOSIS
+Sporulated sporocysts, each containing four sporozoites, and oocysts containing two sporocysts enclosed by a protective wall, can be visualized microscopically in freshly voided stool specimens with the aid of  flotation  procedures  (Fig.  103.2B). Sarcocystis oocysts  resemble Isospora oocysts - they are acid-fast and contain two sporocysts. Generally, parasite species cannot be differentiated microscopically for clinical practice; however, variation in the 18S rDNA provides a basis to discriminate  among  excreted  parasites  [12].  Oocysts  measure  15  x 20 μ m and sporocysts measure 12 x 6 μ m. Owing to the fragile nature of the oocyst wall, individual sporocysts may also be detected in stool. Infection  can  also  be  confirmed  by  visualizing  trophozoites  or bradyzoites in biopsy tissue.
+Definitive diagnosis of sarcocystis myositis is by muscle biopsy. Other muscle cyst-forming organisms, such as Toxoplasma gondii and Trypanosoma cruzi , must be excluded. Sarcocysts are septate and the cell wall is distinct ultrastructurally. Bradyzoites of Sarcocystis and T. gondii are periodic acid-Schiff positive, but T. cruzi is not. Intact sarcocysts can measure up to 100 μ m in diameter and 325 μ m in length, but are more often in the 20-60 μ m range and are not generally accompanied by an inflammatory reaction in the surrounding tissue. However, if  pain is a major complaint, then mild inflammatory reactions are often seen [1 1].
+In  the  absence  of  muscle  biopsy,  eosinophila  in  the  presence  of  a compatible clinical syndrome and epidemiologic exposure support a probable  diagnosis,  especially  if  other  diagnoses  can  be  excluded. Serology is difficult to obtain and of uncertain value. Seroprevalence of 10-20% has been described in adults in rural areas of Laos and Tibet [13].
+
+============================================================
+CHUNK 9
+============================================================
+TREATMENT
+Because Sarcocystis organisms in muscle and intestine are fully formed, terminal stages in the host and parasites will not spread to new cells - treatment directed towards the muscle and enteric infection is unsatisfactory.  Although  various  treatments  have  been  used  for  symptomatic muscular infection (see Table 103-1) none can be recommended and there is no specific treatment for Sarcocystis infection described. Treatment is symptomatic and palliative - corticosteroids should palliate episodic allergic inflammatory reactions following cyst rupture or to alleviate more chronic, systemic symptoms. Because the intracystic bradyzoites are not capable of infecting new cells in the host, there is no risk of recrudescence.
+
+============================================================
+CHUNK 10
+============================================================
+PREVENTION
+Muscle involvement can be prevented by avoiding  food and  water that are potentially contaminated with feces of predatory carnivores. Enteric infection can  be prevented by avoiding ingestion  of raw or undercooked beef and pork. Sporocysts are hardy, resisting treatment with bleach, chlorhexidine, and the iodophore Betadyne [14]. Most frozen ( -20°C) or well-cooked meats are safe, however.
+
+============================================================
+CHUNK 11
+============================================================
+PUBLIC HEALTH BURDEN
+The public health burden of human sarcocystosis remains unknown. Although veterinary data implicate immune suppression as a clinical risk factor for sarcocystosis, and although pregnancy and AIDS markedly exacerbate toxoplasmosis (caused by a closely related zoonotic parasite), less is currently known about how vulnerability to sarcocystosis may vary among individuals [15].
+Intensive  transmission  should  be  limited  to  those  who  routinely consume  uncooked  meat  and  live  where  untreated  human  wastes routinely expose livestock to renewed exposure [9]. Indeed, epidemics have been documented where such circumstances prevail. However, the population at risk for such infections has never been defined with certainty.  Prevalent S.  hominis in  European  cattle  [16],  but  not  in American cattle [17],  suggest  that  geographic variation in risk may occur, even among developed countries.
+
+============================================================
+CHUNK 12
+============================================================
+REFERENCES
+1. Murrell  KD,  Fayer  R,  Dubey  JP.  Parasitic  Organisms.  Advances  in  Meat Research. West Port, CT: AVI Publishing Co.; 1986.
+2. Wilairatana P, Radomyos P, Radomyos B, et al. Intestinal sarcocystosis in Thai laborers. Southeast Asian J Trop Med Public Health 1996;27:43-6.
+3. Wong KT, Pathmanathan R. High prevalence of human skeletal muscle sarcocystosis in southeast Asia. Trans R Soc Trop Med Hyg 1992;86:631-2.
+4. Dubey JP, Fayer R. Sarcocystosis. Br Vet J 1983;139:371-7.
+5. Fayer  R. Sarcocystis spp.  in  human  infections.  Clin  Microbiol  Rev  2004;17: 894-902.
+6. Dubey JP, Speer CA, Fayer R. Sarcocystosis of animals and man. Boca Raton: CRC Press; 1989.
+7. Jeffrey HC. Sarcosporidiosis in man. Trans R Soc Trop Med Hyg 1974;68:17-29.
+8. Beaver PC, Gadgil K, Morera P. Sarcocystis in man: a review and report of five cases. Am J Trop Med Hyg 1979;28:819-44.
+9. Bunyaratvej S, Unpunyo P, Pongtippan A. The Sarcocystis -cyst containing beef and  pork  as  the  sources  of  natural  intestinal  sarcocystosis  in  Thai  people. J Med Assoc Thai 2007;90:2128-35.
+10.  Arness  MK,  Brown  JD,  Dubey  JP,  et  al.  An  outbreak  of  acute  eosinophilic myositis  attributed  to  human Sarcocystis parasitism.  Am  J  Trop  Med  Hyg 1999;61:548-53.
+11.  Mehrotra R, Bisht D, Singh PA, et al. Diagnosis of human Sarcocystis infection from biopsies of the skeletal muscle. Pathology 1996;28:281-2.
+12.  Xiang Z, Chen X, Yang L, et al. Non-invasive methods for identifying oocysts of Sarcocystis spp. from definitive hosts. Parasitol Int 2009;58:293-6.
+
+============================================================
+CHUNK 13
+============================================================
+REFERENCES
+13.  Giboda M, Ditrich O, Scholz T, et al. Current status of food-borne parasitic zoonoses  in  Laos.  Southeast  Asian  J  Trop  Med  Public  Health  1991;22 (suppl.):56-61.
+14.  Dubey  JP,  Saville  WJ,  Sreekumar  C,  et  al.  Effects  of  high  temperature  and disinfectants  on  the  viability  of Sarcocystis neurona  sporocysts.  J  Parasitol 2002;88:1252-4.
+15.  Velá squez JN, Di Risio C, Etchart CB, et al. Systemic sarcocystosis in a patient with acquired immune deficiency syndrome. Hum Pathol 2008;39:1263-7.
+16.  Vangeel L, Houf K, Chiers K, et al. Molecular-based identification of Sarcocystis hominis in Belgian minced beef. J Food Prot 2007;70:1523-6.
+17.  Pritt B, Trainer T, Simmons-Arnold L, et al. Detection of Sarcocystis parasites in retail beef: a regional survey combining histological and genetic detection methods. J Food Prot 2008;71:2144-7.
+

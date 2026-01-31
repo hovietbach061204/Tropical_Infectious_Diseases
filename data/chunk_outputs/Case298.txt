@@ -1,0 +1,98 @@
+============================================================
+CHUNK 0
+============================================================
+63
+
+============================================================
+CHUNK 1
+============================================================
+KEY FEATURES
+- Mycobacterium ulcerans causes chronic skin ulcers, referred to as Buruli ulcers.
+- transmission is unknown.
+- mycolactone toxin, a plasmid-encoded polyketide molecule.
+- polymerase chain reaction (PCR)-based analysis is also used.
+- clarithromycin.
+- physiotherapy, can prevent disabilities.
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+Buruli ulcer is a neglected tropical disease caused by skin infection with Mycobacterium ulcerans. It  is  of  considerable  importance in rural parts of West and Central Africa, where it affects children and  young  adults  and  causes  an  economic  burden  on  farming mycolactone secreted by M. ulcerans, a pathogenesis not seen with other mycobacteria.
+
+============================================================
+CHUNK 3
+============================================================
+EPIDEMIOLOGY AND TRANSMISSION
+Buruli ulcer is a disease of high focal prevalence mainly within countries in West Africa (Fig. 63.1), but sporadic cases have been reported in many countries with high humidity in tropical wetlands. Buruli ulcer has been seen among people living in more than 30 countries around the world (Fig. 63.2), including French Guiana, Peru, Mexico, Papua New Guinea, Japan, and southern China. Outbreaks are also observed in temperate south eastern Australia, where the association of M. ulcerans with Buruli (Bairnsdale) ulcer was  {rst  recognized  in  1948.  Disturbance  of  water  systems  by mining, deforestation, or |ooding has been associated with increased incidence of disease.  Newly arrived migrants in endemic zones are susceptible to infection, as demonstrated by the occurrence of Buruli ulcer among displaced Rwandans in the Kinyara refugee camps in Uganda in the 1960s. These refugees had come from a non-endemic zone and developed ulcers within 4 to 10 weeks of arrival, suggesting the disease's incubation period.
+M. ulcerans has  been identi{ed in skin lesions of wild koalas and ringtail possums in Australia and of mice in West Africa. It is  dif{cult  to  culture,  although  it  has  been  isolated  from  fresh water  bugs  in  endemic  zones  after  serial  passage  in  mice. 1 M. ulcerans probably exists in an ecologic niche related to slow|owing or stagnant water in West Africa, but how it is transmitted it can be transmitted from infected water bugs to mice by biting. 2 In Australia, DNA from M. ulcerans was detected in mosquitoes
+
+============================================================
+CHUNK 4
+============================================================
+Buruli Ulcer
+Mark H. Wansbrough-Jones, Richard O. Phillips from an affected area but not in mosquitoes from a non-infected area, as well as in possum feces; however, the signi{cance of these observations is unclear.
+Buruli ulcer can affect people of all ages, but in West Africa it predominantly affects children aged 5 to 15 years, and in southeast Australia, it affects elderly residents in retirement towns.
+
+============================================================
+CHUNK 5
+============================================================
+CLINICAL PRESENTATION
+Most patients with Buruli ulcer present with a chronic ulcer, often of a few months' duration. Patients fail to present early because the lesions are painless, and affected individuals often live in remote rural  areas  lacking  easy  access  to  affordable  health  care. 3 The disease manifests as a 1- to 5-cm, painless, subcutaneous nodule attached  to  the  overlying  skin  (Fig.  63.3A).  In  Australia,  early lesions are often papular. More extensive indurated plaques may also occur, the margins of which are dif{cult to de{ne. Nodules, plaques, and ulcers may be associated with edema in surrounding tissue (10%-15% in Ghana), which spreads outwards (Fig. 63.3B). Ulceration spreads from the initial lesion into edematous areas. The patient remains well, and there is no fever or pain unless secondary bacterial infection occurs. Occasionally, osteomyelitis occurs in bone adjacent to a skin lesion, but involvement of other organs is rare.
+The distinguishing features of Buruli ulcers are that they are painless and that the edges are undermined so that a swab can be pushed a few millimeters (or sometimes centimeters) under the surrounding  skin  (Fig.  63.3C). The  ulcer  border  is  not  raised. Tissue destruction is caused by cytotoxic mycolactone toxin that also prevents the development of an in|ammatory response. 4 The process is chronic, and histologic examination of affected tissue often shows a mixture of scar formation; featureless necrosis around clumps of proliferating acid-fast mycobacteria; and acute, chronic, and granulomatous in|ammation. Organisms are rarely seen within macrophages in untreated lesions, but careful immunohistologic studies  have  demonstrated  that  intracellular  organisms  can  be observed during antibiotic treatment when the effect of mycolactone is lost. 5
+In  90% of cases, ulcers  involve the limbs, but they can  also involve the head, neck, or trunk. When scarring occurs close to a joint, there is often limitation of joint movement; large lesions on the trunk may inhibit spinal movement. Buruli ulcers recognize no anatomic boundaries and may involve critical sites, such as the face, breast, and genital area.
+
+============================================================
+CHUNK 6
+============================================================
+DIAGNOSIS
+Diagnosis is usually based on clinical recognition. Buruli ulcers on the lower extremities may be dif{cult to distinguish from diabetic or venous stasis ulcers. Acid-fast bacilli can be detected in about 40%  of  ulcers  when  a  swab  is  taken  from  the  base,  close  to undermined areas.  Cultures (on Löwenstein-Jensen medium at 32°C) are more sensitive (up to 60% positive), yielding mycobacterial  growth  when  performed  in  a  laboratory  near  the  endemic area, but it can take 6 weeks or more for mycobacterial growth to  be  detectable.  Histologic  examination  can  be  85%  sensitive but is not available in many endemic areas. The most sensitive diagnostic test (98%) is polymerase chain reaction (PCR) for the
+N
+Incidence per
+10,000 people
+0.1 - 0.5
+0.5 - 1.0
+1.0 - 2.5
+2.5 - 5.0
+5.0 - 13.5
+Upper West
+Fig. 63.1 Buruli ulcer incidence in Ghana during 2008. (Map created by Julie Clennon, Rollins School of Public Health, from data provided by Edwin Ampadu and William Opare, Ghana National BU Control Programme. Funded by National Institute of Environmental Health Sciences grants #R01ES015525 and #T32ES012160.)
+Fig. 63.2 New cases of Buruli ulcer reported to the WHO in 2016. (Provided by Dr. Kingsley Asiedu, WHO.)
+Upper East
+Fig. 63.3 Clinical forms of Buruli ulcer disease. (A) Subcutaneous, firm, painless nodule attached to the skin. (B) Extensive edema of the left arm and leg and genitalia with ulceration on the left arm and knee. (C) Partially debrided ulcer on the right knee with further ulceration on the leg and foot. All the ulcers were probably connected subcutaneously.
+IS2404 repeat sequence  of M. ulcerans. PCR can be applied to swabs, punch biopsies (3-4 mm diameter), and {ne needle aspirates. The latter approaches may be helpful  in diagnosing  individual nodules,  plaques,  and  edematous  lesions  that  have  not  yet ulcerated. 6
+
+============================================================
+CHUNK 7
+============================================================
+MANAGEMENT
+Daily treatment under observation with rifampin 10 mg/kg (up to 600 mg per day) orally and streptomycin 15 mg/kg intramuscularly for 8 weeks results in healing of all forms of M. ulcerans disease with few exceptions. 7 Recurrence after antibiotic treatment is rare (0%-2.5%). A controlled trial has shown that clarithromycin can  be  substituted  for  streptomycin  in  the  second  4  weeks  of treatment without loss of ef{cacy, 8 and recently a controlled trial comparing rifampin plus clarithromycin for 8 weeks with rifampin plus streptomycin for 8 weeks has been completed. Preliminary results  show  equivalent  results  for  the  fully  oral  regimen,  and because streptomycin is no longer available routinely, the World Health Organization (WHO) expert advisors have now recommended rifampin 10 mg/kg (up to maximum 600 mg daily) orally combined with clarithromycin 15 mg/kg orally daily if extended release  preparation,  or  divided  into  two  doses  if  not  extended release up to a maximum of 500 mg orally twice a day for 8 weeks. Fluoroquinolone antibiotics also have some activity. The standard dressing  is  gauze  coated  with  Vaseline  which  is  changed  daily. Most lesions heal without surgical intervention, but occasionally debridement and split-skin grafting are needed for large ulcers.
+
+============================================================
+CHUNK 8
+============================================================
+COMPLICATIONS
+Chronic ulceration leads to dis{guring scars and signi{cant loss -tion, particularly when there is concurrent osteomyelitis. Secondary bacterial  infection  of  a  Buruli  ulcer  may  cause  life-threatening septicemia.
+Paradoxical reactions, characterized by increased in|ammation and lesion size or the appearance of new lesions, occur in up to 10% of patients. A |uctuant mass may appear close to the initial lesion during antibiotic treatment, and purulent discharge that is usually  sterile  can  be  aspirated.  These  lesions  resolve  without additional antibiotic treatment.
+When a Buruli ulcer is close to a joint, there may be limitation of joint movement and an increased risk of scarring. Functional limitation can be prevented by simple physiotherapy that can be taught to the patient and family when treatment is started.
+
+============================================================
+CHUNK 9
+============================================================
+PREVENTION
+Understanding how M. ulcerans infection is transmitted to humans is a priority, as this information could lead to preventive strategies. near endemic villages is a risk factor for developing Buruli ulcer, but reducing exposure, particularly of children, to such sources is impractical in rural West Africa.
+No effective vaccine is currently available, although Bacillus Calmette-Guérin (BCG) vaccine has been associated with shortlived  protection  in  small  trials.  Outreach  programs  to  educate communities in endemic areas to recognize early Buruli lesions is vital for prevention of severe forms of the disease.
+
+============================================================
+CHUNK 10
+============================================================
+REFERENCES
+1.  Portaels  F ,  Meyers  WM,  Ablordey  A,  et al.  First  cultivation  and characterization  of  Mycobacterium  ulcerans  from  the  environment. PLoS Negl Trop Dis 2008;2(3):e178.
+2.  Marsollier L, Robert R, Aubry J, et al. Aquatic insects as a vector for
+3. Ghana: a three-year review. Am J T rop Med Hyg 1998;59(6):1015-22.
+4.  Demangel C, Stinear TP, Cole ST. Buruli ulcer: reductive evolution enhances pathogenicity of Mycobacterium ulcerans. Nat Rev Microbiol 2009;7(1):50.
+5. of highly organized lymphoid structures in Buruli ulcer lesions after treatment  with  rifampicin  and  streptomycin.  PLoS  Negl  T rop  Dis 2007;1(1):e2.
+6.  Phillips R, Sarfo F, Osei-Sarpong F , et al. Sensitivity of PCR targeting Mycobacterium ulcerans by use of {ne-needle aspirates for diagnosis of Buruli ulcer. J Clin Microbiol 2009;47(4):924-6.
+7.  Chauty  A,  Ardant  M-F,  Adeye  A,  et al.  Promising  clinical  ef{cacy of  streptomycin-rifampin  combination  for  treatment  of  buruli  ulcer (Mycobacterium  ulcerans  disease).  Antimicrob  Agents  Chemother 2007;51(11):4029-35.
+8.  Nienhuis WA, Stienstra Y, Thompson WA, et al. Antimicrobial treatment for early, limited Mycobacterium ulcerans infection: a randomised controlled trial. Lancet 2010;375(9715):664-72.
+

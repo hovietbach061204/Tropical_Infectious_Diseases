@@ -1,0 +1,174 @@
+============================================================
+CHUNK 0
+============================================================
+Key features
+- Histoplasmosis is a widely distributed infection caused by Histoplasma capsulatum , a dimorphic fungus
+- Individuals from endemic areas are often infected subclinically, whereas symptomatic disease depends upon interplay between the intensity of infection and the host's immune status
+- Clinical syndromes include acute pulmonary infection following heavy exposure, chronic cavitary pulmonary infection in persons with underlying chronic obstructive pulmonary disease and disseminated infection usually in immunosuppressed individuals. In Central and West Africa, a variety of histoplasmosis due to Histoplasma duboisii causes skin and bone infection
+- Diagnosis is through demonstration of typical budding yeast in sputum or biopsy, culture, DNA probes, or antigen detection
+- Although an immunocompetent person with mild-tomoderate pulmonary infection can be managed symptomatically, those with severe pulmonary infection or disseminated disease should be treated with amphotericin %owed by itraconazole
+
+============================================================
+CHUNK 1
+============================================================
+INTRODUCTION
+Histoplasmosis is a widely distributed infection caused by Histoplasma capsulatum ,  a  dimorphic  fungus.  Darling,  who  first  described  the pathology  of  histoplasmosis  in  1905,  named  the  organism Histoplasma capsulatum because the small yeasts within the cytoplasm of macrophages resembled encapsulated parasites.
+Histoplasma  capsulatum var. capsulatum generally  causes  subclinical infection in persons from endemic areas [1]. However, following high exposure,  symptomatic  pulmonary  infection  can  occur  and  debilitated  or  immunocompromised  persons  can  present  with  disseminated  disease.  Infections  caused  by H.  capsulatum var. duboisii are restricted to West and Central Africa [2]. African histoplasmosis classically presents with cutaneous and skeletal involvement.
+
+============================================================
+CHUNK 2
+============================================================
+Histoplasmosis 80
+Eileen E Navarro, Thomas J Walsh, Roderick J Hay
+
+============================================================
+CHUNK 3
+============================================================
+EPIDEMIOLOGY
+In the USA, the Mississippi and Ohio river valleys are endemic. Infections are associated with outdoor activities and exposure to starling roost or soil upheaval.
+The  tropical  presence  of H.  capsulatum was  established  from  a description  of  the  post-mortem  pathology  of  construction  workers building the Panama canal. Skin testing [3] indicates high prevalence throughout  Latin  America;  however,  few  population-based  studies are  available  from  other  tropical  areas.  In  the  tropics,  conditions that support the growth of H. capsulatum occur in bat roosting sites, including caves, where exposure in the confined space has resulted in epidemics.
+With the environmental isolation of H. capsulatum in Southeast Asia, the Indian continent, and the Middle East, the increase in immunocompromising therapies in the developing world and the AIDS pandemic,  there  has  been  a  rise  in  symptomatic  histoplasmosis  in  all areas  in  the  tropics  including  sub-Saharan  Africa  [4,  5].  Imported infections have also been acquired by travellers.
+
+============================================================
+CHUNK 4
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Histoplasma capsulatum grows in its mycelial form at lower temperatures (25-30°C) [1]. This phase, characterized by hyphae with slender conidiophores  and  characteristic  tuberculate  macroconidia,  is  the saprobic state found in the environment. When incubated at 37°C on an enriched medium, the conidia germinate into yeast - the phase also found in host tissue.
+Histoplasmosis is acquired by the respiratory route; conidia are aerosolized  from  soil  containing  bat  or  bird  guano  and  inhaled  into alveoli. Alveolar macrophages, modulated by T lymphocytes, contain this initial infection, resulting in localized granulomatous inflammation. This self-limiting process is evidenced by  the development of delayed-type skin reactions and the production of specific antibodies, as well as asymptomatic calcification in the lung, spleen, and mediastinal lymph nodes. A small percentage of these episodes advance to progressive pulmonary or disseminated infection, often in the immunocompromised [6].
+
+============================================================
+CHUNK 5
+============================================================
+CLINICAL FEATURES
+Histoplasmosis can be classified by site (pulmonary, extrapulmonary, or disseminated), by duration (acute, subacute, and chronic) and by pattern (primary versus reactivation). Most infections in normal hosts are asymptomatic; even symptomatic primary infection can be underdiagnosed given its brief, mild nature [7].
+Asymptomatic  fungemia  occurs  with  the  primary  infection,  as  evidenced by splenic and pulmonary calcifications. Unrecognized dissemination  permits  subsequent reactivation  at  pulmonary  and extrapulmonary sites if the host becomes immunocompromised [8]. Acute disseminated disease is often reported in young children and infants, or in patients with cellular immune deficiency, and can be a fulminant, fatal disease.
+
+============================================================
+CHUNK 6
+============================================================
+PULMONARY HISTOPLASMOSIS
+Acute primary pulmonary histoplasmosis (APPH) develops in immunocompetent hosts exposed to a heavy inoculum. A history of environmental exposure should be sought and public health authorities notified if a source is identified. Symptoms of APPH often resemble those of an influenza-like illness [7]. The sudden onset of fever, erythema  nodosum  or  multiforme,  and  a  brassy  cough  secondary  to airway compression from lymphadenopathy can be accompanied, in severe cases,  by pericarditis, nights sweats,  cyanosis, hemoptysis, or disseminated  disease.  Chest  x-ray  demonstrates  a  diffuse  alveolarinterstitial infiltrative or reticulonodular pattern. Radiographic changes resolve slowly or leave a miliary pattern. Features that can differentiate this from tuberculosis are the pattern of grouped calcification in paratracheal nodes and larger calcifications ( > 4 mm in the parenchyma and > 1 cm in the mediastinum). In patients with active pulmonary histoplasmosis, yeast can be observed on direct examination of sputum, often within pulmonary alveolar macrophages.
+
+============================================================
+CHUNK 7
+============================================================
+CHRONIC CAVITARY PULMONARY HISTOPLASMOSIS (CCPH)
+This is an indolent, progressive respiratory infection of patients with underlying  chronic  obstructive  pulmonary  disease  that  is  rarely described in the tropics. These patients are usually elderly, cigarettesmoking  males  who  suffer  progressive  deterioration  of  pulmonary function, most likely caused by a combination of chronic lung disease and histoplasmosis [7].
+
+============================================================
+CHUNK 8
+============================================================
+Acute Disseminated Histoplasmosis
+This  can  occur  with  primary  infection,  often  in  young  children  or infants, or in the immunosuppressed host. The disease varies in severity, clinical manifestations and course from a fulminant, fatal disease marked by shock, to a subacute disease with little systemic inflammation and focal, organ-specific signs and symptoms [1].
+The  most  severely  compromised  hosts  present  with  hectic  fever, cough, dyspnea, and pulmonary infiltrates and adenopathy. Weight loss, infiltration of the reticuloendothelial system and bone marrow, diffuse cutaneous lesions and central nervous system (CNS) involvement reflect systemic spread. Rapidly fatal overwhelming infections marked by disseminated intravascular coagulation (DIC), adult respiratory  distress  syndrome  (ARDS),  bone  marrow  suppression  and multi-organ failure occur in a minority. Children often have marked hepatosplenomegaly,  gastrointestinal  bleeding,  and  anemia.  AIDS patients  present  with  lymphadenopathy,  CNS  manifestations,  and skin lesions that vary from erythematous macules, purpura and ulcers, to papules resembling molluscum contagiosum [6, 9].
+
+============================================================
+CHUNK 9
+============================================================
+Chronic Progressive Disseminated Histoplasmosis
+Patients have wasting and fatigue with painful nodules on the tongue or gingiva and ulcers in the buccal mucosa or nasal vestibule that can be mistaken for malignancy. Biopsy reveals abundant yeast with very little  granulomatous  reaction.  In  subacute  forms,  constitutional symptoms are prominent, with abdominal pain and diarrhea, masses in the terminal ileum and cecum, bowel obstruction or perforation and, occasionally, massive bleeding. Chronic basilar leptomeningitis with  vasculitis  and  small  cerebral  granulomas  or  ring-enhancing cerebral  mass  lesions  characterize  CNS  involvement.  Endocarditis with  large  vegetations  of  the  aortic  and  mitral  valve  can  occur.
+Histopathology of valvular lesions reveals extracellular yeast and mycelial elements. Adrenal involvement is common [8].
+
+============================================================
+CHUNK 10
+============================================================
+COLLECTION AND TRANSPORT OF SPECIMENS [1]
+Most diagnostic specimens will be sputum, bronchoalveolar lavage, transtracheal  aspirates,  or  lung  biopsy.  Specimens  should  be  transported and processed promptly to avoid overgrowth by bacteria or saprophytic fungi. Mycelial conidia are highly infectious and  easily transmissible by aerosolization. When cultures are handled for identification or sent to reference laboratories, they must be sealed.
+
+============================================================
+CHUNK 11
+============================================================
+DIRECT EXAMINATION
+Histoplasma capsulatum should be examined with special stains. The budding  yeast  of H.  capsulatum (2-4 μ m)  in  a  calcofluor  white or  potassium  hydroxide  preparation  of  sputum  can  be  too  small for  reliable  detection  and  can  be  confused  with Candida  glabrata (Fig. 80.1).
+Bone  marrow  aspirates,  buffy  coat  smears  and  peripheral  blood smears are valuable in disseminated disease. Touch preparations of bone marrow biopsies, lymph nodes, and other tissues can also detect fungi. Giemsa or Wright stain reveals yeast within circulating monocytes  or  tissue  macrophages.  Staining  of  a  paraffin-embedded  clot section  of  bone  marrow  aspirate  by  periodic  acid-Schiff  (PAS), Gomori methenamine stain (GMS), Giemsa and Wright stains allows visualization in granulomas.
+
+============================================================
+CHUNK 12
+============================================================
+CULTURE [10]
+Plating and study of cultures should be performed within a biosafety cabinet. Isolation media for sputum samples should contain
+FIGURE  80.1 Histoplasma  capsulatum .  Slender  conidiophore  bearing characteristic  tuberculate  macroconidia  (arrow)  may  be  mistaken  for Sepedomium spp.  The  occurrence  of  microconidia  and  the  dimorphic nature  of H.  capsulatum di6erentiates  it  from Sepedomium (Sabouraud dextrose agar, x600).
+FIGURE 80.2 (A) Small, intracellular yeasts packed in tissue macrophages from a patient with classic histoplasmosis ( Histoplasma capsulatum var. capsulatum ; hematoxylin and eosin, X 400). (B) Histoplasma capsulatum var. duboisii infection revealing aggregates of giant cells with large ovoid yeast cells (hematoxylin and eosin, x310) (images courtesy of the Armed Forces Institute of Pathology Photograph Neg. Nos. 54-17185 and 54-19426, respectively).
+antibiotics and cycloheximide to inhibit saprophytic fungi. Normally, sterile specimens can be inoculated directly onto blood agar, brainheart infusion (BHI) agar, Sabouraud glucose agar (SGA) and enriched broth, such as BHI broth. Cultures should be incubated at 25-30°C under humidified, aerobic conditions for 4-8 weeks.
+Cultures  at  25-30°C  reveal  a  slowly  growing  colony  with  aerial mycelia that vary in color from white to buff to brown. During early growth,  microconidia  (2-5 μ m in  diameter)  are  present  and,  with continued  growth,  the  mold  develops  slender  conidiophores  and characteristic macroconidia (Fig. 80.2) measuring 8-16 μ m in diameter. Conversion to the yeast occurs after incubating mycelia at 37°C on enriched medium, such as BHI agar with cysteine. Spherical-tooval budding yeast cells (2-5 μ m in diameter) develop in 7-10 days. Yeast  can  also  be  isolated  on  blood  agar  or  other  enriched  media incubated at 37°C.
+
+============================================================
+CHUNK 13
+============================================================
+NUCLEIC ACID PROBES
+A recent advance in the identification of H. capsulatum from cultures, are  nucleic  acid  probes,  commercially  available  in  kit  format  (e.g. AccuProbe). The procedure takes approximately 1 hour and provides early testing on young cultures, rapid processing, easy interpretation of results and high accuracy.
+
+============================================================
+CHUNK 14
+============================================================
+ANTIGEN DETECTION [10]
+Detection in serum and urine of a galactomannan of H. capsulatum can be used in the diagnosis and therapeutic monitoring of disseminated histoplasmosis, particularly in HIV-infected patients.
+
+============================================================
+CHUNK 15
+============================================================
+SEROLOGY AND SKIN TESTING
+Of the serologic tests, complement fixation against the yeast phase is more sensitive and immunoprecipitating antibodies to the H antigen are more specific [1]. Antibodies become positive weeks after infection  and  titers  generally  wane  several  months  after  uncomplicated infection, correlate with severity of illness and are present in low levels in  the  general  population  in  an  endemic  area.  The  utility  of  skin testing is limited to documentation  of prior exposure to H. capsulatum .
+
+============================================================
+CHUNK 16
+============================================================
+DIFFERENTIAL DIAGNOSIS
+Histoplasmosis can resemble tuberculosis and other granulomatous pulmonary  processes,  such  as  sarcoidosis.  Cutaneous  lesions  have been mistaken for molluscum contagiosum or varicella , Leishmania, Rochalimea , herpes simplex, and systemic mycoses such as Penicillium marneffei and Cryptococcus neoformans . The reticuloendothelial proliferation and bone marrow infiltration can suggest neoplasia, visceral leishmaniasis, brucellosis, or malaria.
+
+============================================================
+CHUNK 17
+============================================================
+TREATMENT
+Treatment  of  pulmonary  histoplasmosis  depends  on  the  immune status of the host and extent of disease [1, 1 1].
+While amphotericin B continues to be the drug of choice for severe, refractory  or  relapsing  infections,  the  azoles  (particularly  itraconazole) have expanded the treatment alternatives for milder infections and suppressive therapy (see Chapter 87).
+Immunocompetent patients with mild-to-moderate acute pulmonary histoplasmosis usually have self-limiting disease that can be managed with supportive care [12]. Patients with acute pulmonary histoplasmosis who are elderly, less than 2 years old, debilitated or immunocompromised  can  be  treated  with  itraconazole  (administered  as  a loading dose of 400 mg b.i.d. for 3 days followed by 200 mg b.i.d.).
+Itraconazole (200 mg t.i.d. daily for 3 days, then 200 mg qd or b.i.d.) for 6- to 12-month courses is the preferred agent for chronic cavitary histoplasmosis.
+Profoundly immunocompromised patients, those with severe pulmonary  histoplasmosis  or  life-threatening  extrapulmonary  disease  are treated  with  amphotericin  B  at  a  dose  of  0.7-1.0 mg/kg/day  (or  a lipid  formulation)  for  1-2  weeks  followed  by  itraconazole.  Shortterm corticosteroid therapy can be considered for patients with severe respiratory compromise.
+Patients with acute disseminated histoplasmosis and AIDS should be treated  with amphotericin B 1 mg/kg/day (or liposomal amphotericin B) until stable, followed by itraconazole at 200 mg twice a day for prevention of relapse. Patients with AIDS and mild-to-moderate
+disseminated histoplasmosis have been successfully treated with itraconazole alone; ketoconazole has  been associated with failure and relapse.  Therapeutic  response,  particularly  in  HIV-infected  patients who have a high H. capsulatum antigen burden, can be monitored by serial urine and serum samples.
+
+============================================================
+CHUNK 18
+============================================================
+TREATMENT
+Histoplasma meningitis can be refractory to treatment with frequent relapses, even with intrathecal amphotericin B. Surgical resection of valves in endocarditis with systemic amphotericin B affords the best chance for cure.
+
+============================================================
+CHUNK 19
+============================================================
+PREVENTION
+There is no practical environmental control, although it is useful to post warning notices in caves known to contain the organism. Spraying  contaminated  soil  with  3%  cresol  or  formalin  may  eliminate viable organisms
+
+============================================================
+CHUNK 20
+============================================================
+AFRICAN HISTOPLASMOSIS
+African  histoplasmosis  is  an  uncommon  illness  restricted  to  the African continent. It is most prevalent in West Africa and has not been recognized north of the Sahara Desert or in countries south of the Zambesi River [2]. Although the portal  of entry is presumed to  be respiratory, cases with pulmonary involvement are rare. Histoplasmin surveys  cannot  estimate  the  risk  of  subclinical  exposure  because classic  histoplasmosis  can  be  endemic in  the  same  areas and both organisms are antigenically related.
+The most common clinical sites for African histoplasmosis are skin and  bone  [2,  13].  Skin  lesions  present  as  small  papules  that  can develop  an  umbilicated  center,  nodules,  abscesses,  or  ulcers.  With larger lesions, underlying bone deposits are common. Bone deposits are  well  circumscribed  and  lytic,  and  typically  found  in  the  long bones  and  skull.  Patients  presenting  with  African  histoplasmosis should be investigated radiologically  for occult  bone  foci.  Involvement of lung, lymph nodes, and gastrointestinal tract is less common. Multi-organ  invasion  rarely  occurs  and  is  associated  with  a  poor prognosis.
+The diagnosis is made by biopsy, smears, and cultures taken from skin or  bone  lesions. Histoplasma  duboisii are  larger  than H.  capsulatum measuring 8-15 μ m in diameter, round or oval in shape with thick walls, and located within giant cells (Fig. 80.2B). The place of serology in African histoplasmosis is not established.
+Solitary cutaneous lesions  can be surgically removed and, in  many cases, do not recur. Oral itraconazole (200-600 mg daily) is effective in  most  cases [13],  either  on  its  own  or  in  addition  to  surgery.  In widespread infection, amphotericin B may be necessary (Chapter 87). Reasonable responses have also been seen with ketoconazole. Relapse after therapy is common.
+
+============================================================
+CHUNK 21
+============================================================
+REFERENCES
+1. Kauffman CA. Histoplasmosis: a clinical and laboratory update. Clin Microbiol Rev 2007;20:115-32.
+2. Cockshott WP, Lucas AO. Histoplasma duboisii. Q J Med 1964;33:223-38.
+3. Edwards PQ, Billings EL. Worldwide pattern of skin sensitivity to histoplasmosis. Am J Trop Med Hyg 1971;20:288-319.
+4. Ajello L, Manson-Bahr PEC, Moore JC. Amboni caves, Tanganyika, a new epidemic area for Histoplasma capsulatum . Am J Trop Med Hyg 1960;9:633-8.
+5. Suzuki A, Kimura M, Kimura S, et al. An outbreak of acute pulmonary histoplasmosis among travellers to a bat inhabited cave in Brazil. J Jpn Assoc Infect Dis 1995;69:444-6.
+6. Wheat JD, Connolly-Springfield PA, Baker RL, et al. Disseminated histoplasmosis in the acquired immune deficiency syndrome; Clinical findings, diagnosis, and treatment, and review of the literature. Medicine 1990;69:361-74.
+7. Goodwin RA, Lloyd JE, Des Prez RM. Histoplasmosis in normal hosts. Medicine 1981;60:231-66.
+8. Wang TL,  Cheah  JS,  Holmberg  K.  Case  report  and  review  of  disseminated histoplasmosis in South East Asia: Clinical and epidemiological implications. Trop Med Internal Health 1996;1:35-42.
+9. Barton  EN,  Roberts  L,  Ince  WE,  et  al.  Cutaneous  histoplasmosis  in  the acquired immunodeficiency syndrome: a report of three cases from Trinidad. Trop Geogr Med 1988;40:153-7.
+10.  Wheat  JD,  Kohler  R,  Tewari  L.  Diagnosis  of  disseminated  histoplasmosis detection of H istoplasma capsulatum antigen in serum and urine specimens. N Engl J Med 1986;314:83-8.
+
+============================================================
+CHUNK 22
+============================================================
+REFERENCES
+11.  Wheat JD, Hafrier R, Korzun AH, et al. Itraconazole treatment of disseminated histoplasmosis  in  patients  with  the  acquired  immunodeficiency  syndrome. Am J Med 1995;98:336-42.
+12.  Wheat LJ, Freifeld AG, Kleiman MB, et al. Clinical practice guidelines for the management of patients with histoplasmosis: 2007 update by the Infectious Diseases Society of America. Clin Infect Dis 2007;45:807-25.
+13.  Velho GC, Cabral JM, Massa A. African histoplasmosis: therapeutic efficacy of itraconazole. J Eur Acad Dermatol Venereol 1998;10:77-80.
+

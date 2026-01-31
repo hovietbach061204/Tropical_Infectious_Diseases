@@ -1,0 +1,276 @@
+============================================================
+CHUNK 0
+============================================================
+KEY FEATURES
+- extrinsic disease affecting the genitourinary tract; urinalysis with microscopy and renal/bladder ultrasound can facilitate diagnosis even in remote environments.
+- one of the most common genitourinary problems in both children and adults; antimicrobial resistance patterns should be considered before treatment, and recurrent or recalcitrant infections warrant further evaluation of the genitourinary tract.
+- more commonly in tropical regions include schistosomiasis (hematuria), tuberculosis (sterile pyuria and delayed stricture disease), {lariasis (chyluria and {larial hydroceles), Echinococcus (renal hydatid cysts), untreated Neisseria gonorrhoeae (urethral stricture disease), and HIV/AIDS (prostatic abscesses, nephropathy, and opportunistic infections of the external genitalia and inguinal region).
+- and includes injuries from motor vehicle accidents and violence (blunt and penetrating), as well as obstetric injury leading to vesicovaginal {stula disease.
+- regions and can cause nephropathy, papillary necrosis with hematuria, priapism, and a rare but lethal form of renal cancer.
+- and diseases of aging are becoming more prevalent as people live longer and assume elements of the Westernized lifestyle; in parallel, congenital anomalies of the genitourinary tract will be increasingly identi{ed as diagnostic technology becomes more widely available and infant mortality declines.
+This chapter focuses on genitourinary (GU) diseases that occur commonly in tropical regions. These are divided into those with etiologies related to endemic infectious diseases and those with non-infectious causes (T able 6.1).
+
+============================================================
+CHUNK 1
+============================================================
+KEY FEATURES
+The chapter addresses pathology affecting structural aspects of the kidneys, collecting system, ureters, bladder, prostate, urethra, and external genitalia. However, intrinsic renal disease (T able 6.2) may present with similar signs as urologic conditions, including hematuria, hypertension, and acute renal failure. In many cases, the underlying etiology can be differentiated with a renal/bladder ultrasound and urine microscopy. Table 6.3 summarizes normal renal ultrasound {ndings and those typical of obstructive uropathy or intrinsic renal disease. Additional information about red cell morphology on urine microscopy can distinguish intrinsic renal disease  from  urologic  abnormalities. A  history  of  recent  upper respiratory  tract or  gastrointestinal  infection,  new  medications, use of herbal remedies, a family history of kidney disease or sickle
+
+============================================================
+CHUNK 2
+============================================================
+Genitourinary Diseases
+Briony K. Varda, Alan B. Retik cell, or a known HIV infection may further help distinguish intrinsic renal disease.
+
+============================================================
+CHUNK 3
+============================================================
+Bacterial Cystitis and Pyelonephritis
+Urinary  tract  infections  (UTIs)  occur  in  approximately  3%  of children, 1 whereas rates are much higher among sexually active 2 and post-menopausal women,  with > 50% experiencing at least one UTI in her lifetime. 3 In contrast, men experience a 14% risk of UTI in their lifetime, with elderly males ( > 85 years old) the most frequently affected. 4 Boys less than 6 months old also have a heightened risk of febrile UTIs, but the incidence dramatically decreases  by  age  1.  Circumcision  has  been  associated  with  a decreased  risk  of  UTI  in  boys,  but  is  primarily  recommended after a {rst UTI in the setting of a known anatomic abnormality. 5 In  older  men,  UTIs  should  raise  the  suspicion  of  a  functional abnormality (such as poor bladder emptying associated with benign prostatic hyperplasia) or bladder stones.
+Acute bacterial cystitis is more common than pyelonephritis. Causes of UTIs include colonization by uropathogens from fecal |ora and entry into the bladder with ascension to the kidneys in the case of pyelonephritis. The most commonly seen uropathogens include Escherichia  coli,  Klebsiella,  Enterobacter,  Enterococcus, and Staphylococcus saprophyticus. Pseudomonal infections are harbingers of GU pathology, and urea-splitting organisms may be associated with  struvite  stones.  Candidal  UTIs  are  uncommon,  except  in infants and immunocompromised individuals. Contamination of the urine with Candida is quite common and does not represent a true infection in the majority of cases.
+
+============================================================
+CHUNK 4
+============================================================
+Bacterial Cystitis and Pyelonephritis
+Symptoms  of  acute  bacterial  cystitis  are  urinary  frequency, urgency,  dysuria,  and/or  supra-pubic  or  low  back  pain.  In  the absence of vaginal discharge, these symptoms are highly predictive of true infection in women. Pyelonephritis is characterized by a triad of {ndings: fever ( > 101°F), |ank pain, and evidence of UTI on urinalysis. The workup of a suspected UTI starts with a urinalysis. A urine dipstick may be positive for leukocyte esterase, blood, and nitrites, and a urine microscopy will yield pyuria ( > 5 WBCs/hpf) with associated microscopic hematuria ( > 3-5 RBCs/ hpf) and bacteria. A urine culture is the gold standard for diagnosing a UTI, as well as identifying the causative bacteria and its antibiotic susceptibility.
+Recommendations  for  management  of  UTIs  are  summarized  in T able  6.4. Acute bacterial cystitis among post-pubertal women is considered an 'uncomplicated' infection and typically requires  only  a  short  course  of  oral  antibiotics.  In  young  men with  signs  and  symptoms  of  UTI,  suspicion  for  a  chlamydial or gonorrheal infection should be high, with testing performed and empiric treatment initiated. A true UTI in a young male is rare and raises the suspicion of an anatomic problem; functional problems  affecting  bladder  emptying  should  be  considered  in older  males  with  a  UTI.  It may  take  several  days  for a  patient with pyelonephritis to defervesce even with adequate treatment. In  patients  who  do  not  improve,  the  correct  antibiotic  choice should  be  ensured  and  consideration  given  to  ultrasound  for evaluation  of  abscesses  (e.g.,  renal  or  prostatic)  or  obstructive processes.
+
+============================================================
+CHUNK 5
+============================================================
+Bacterial Cystitis and Pyelonephritis
+TABLE 6.1 Genitourinary Diseases Commonly Seen in Tropical Regions
+
+Parasitic Schistosomiasis Filariasis Hydatid disease Malaria Bacterial Neisseria gonorrhoeae Tuberculosis Uropathogens (e.g., Escherichia coli ) Viral HIV BK virus, Non-communicable = Congenital anomalies Hypospadias Undescended testicles Hernias/hydroceles Hydronephrosis Genetic Sickle cell disease Metabolic Urolithiasis Trauma Vesicovaginal fistula Urethral stricture Diseases of aging Benign prostatic hypertrophy Underactive bladder Pelvic organ prolapse Prostate cancer
+TABLE 6.2 Examples of Intrinsic Renal Disease Commonly Seen in Tropical Regions
+Acute renal failure Hemolytic uremic syndrome Malaria acute kidney injury (MAKI) Post-infectious glomerulonephritis Chronic kidney disease Diabetic nephropathy HIV nephropathy Sickle cell nephropathy Focal segmental glomerulosclerosis Medication-induced renal injury Toxin-induced renal injury
+Xanthogranulomatous  pyelonephritis  and  emphysematous pyelonephritis  are  two  types  of  complicated  renal  infections. Xanthogranulomatous pyelonephritis is typically associated with a central renal stone resulting in chronic and recurrent infections. Patients may have prolonged waxing and waning constitutional symptoms, but ultimately can become septic. In untreated cases, nephrocutaneous  {stulae  will  develop,  particularly  with  past attempts at percutaneous decompression or stone-related obstruction. 6 If  focal,  IV  antibiotic  treatment  may  be  successful,  but de{nitive  management  of  a  diffuse  process  is  nephrectomy. Emphysematous pyelonephritis is a gaseous infection of the kidney strongly  associated  with  diabetes  mellitus.  Imaging  suggests  a gaseous infection and may show areas of necrosis with |uid collections. When greater than a third of the kidney is affected, the mortality rate reaches 70%. 7 Urgent nephrectomy is the management of choice in these cases.
+
+============================================================
+CHUNK 6
+============================================================
+Schistosomiasis
+According to the World Health Organization, an estimated 200 million people in 74 countries have schistosomiasis. Schistosoma haematobium is  speci{cally  associated  with  GU  involvement. It  is  endemic  to  sub-Saharan  Africa,  Egypt,  and  the  Arabian Peninsula.
+Patients with schistosomal infections may present with lower urinary  tract  symptoms  and  hematuria.  Diagnosis  is  made  by demonstrating ova on urine microscopy. Treatment is with praziquantel, which is most effective in killing mature worms. Oral steroids can be used to lessen the symptoms of the acute infection. A majority of infected individuals have transient symptoms and
+spontaneous  regression;  however,  approximately  10%  develop chronic urinary tract involvement. 8
+Because mature worms migrate to the pelvic venous plexus, the distal ureters and bladder are affected. The prostate and seminal vesicles  (Fig.  6.1B)  may  also  be  infected;  however,  the  kidneys and genitalia are usually spared. Ova deposited in the submucosal veins of the bladder trigger an immune reaction leading to the formation of perioval granulomas. This can lead to ischemic mucosal lesions, cystitis cystica, calci{cations in the bladder wall (Fig. 6.1A), {brosis, and squamous metaplasia and can be associated with lower urinary tract symptoms (urinary frequency, urgency, and incontinence). In severe cases, the patient can develop a poorly compliant, low-capacity bladder associated with vesicoureteral re|ux and renal damage (Fig. 6.1D). A {brotic, thickened bladder can also cause ureterovesical obstruction or bladder outlet obstruction. Ureteral scarring can lead to stricture (Fig. 6.1C).
+
+============================================================
+CHUNK 7
+============================================================
+Schistosomiasis
+Chronic in|ammation with squamous metaplasia puts patients at  an  increased  risk  for  developing  bladder  cancer.  Bilharzialrelated  bladder  cancer  is  most  often  squamous  cell  carcinoma (SCC;  54%-77%),  though  transitional  cell  carcinoma  (TCC) or  adenocarcinoma  (AC)  can  also  occur.  Bilharzial-associated bladder cancer has a similar natural history and prognosis to that of classic TCC, with a 5-year incidence of distant metastases in 23% (15% SCC, 39% TCC, and 58% AC). After cystectomy, loco-regional  recurrence  occurs  in  5%  to  31%  of  patients. Intravesical  bacillus  Calmette-Guerin  (BCG)  therapy,  which is  typically  used  for  high-grade  non-muscle  invasive  bladder cancer  (NMIBC)  caused  by  TCC,  works  poorly  in  SCC  and AC. Therefore high-grade NMIBC with or without carcinoma in  situ  and  any  muscle-invasive  bladder  cancer  requires  early cystectomy. 9
+Many of the GU manifestations are seen on plain {lms, as well as  bladder  ultrasound  (particularly  if  there  are  calci{cations  or urinary tract dilation). In obstruction, either ureteral or bladder neck, patients with concomitant pyelonephritis or acute renal failure
+
+TABLE 6.4 Recommendations for the Management of Urinary Tract Infections
+
+============================================================
+CHUNK 8
+============================================================
+Schistosomiasis
+ACUTE BACTERIAL CYSTITIS Infants ( < 2 months)*, 1 = Amoxicillin PO Cephalexin PO. ACUTE BACTERIAL CYSTITIS Infants ( < 2 months)*, 2 = 20-40 mg/kg Per day divided into 3 doses × 3-5 days 50-100 mg/kg qid Per day divided into 4 doses × 3-5 days. ACUTE BACTERIAL CYSTITIS Infants ( < 2 months)*, 3 = . Children, 1 = Trimethoprim-sulfamethoxazole PO. Children, 2 = 6-12 mg/kg trimethoprim 30-60 mg/kg sulfamethoxazole Per day divided into 2 doses × 3-5 days. Children, 3 = Not for use in infants or patients with G6PD deficiency. Women, uncomplicated, 1 = Nitrofurantoin PO Trimethoprim-sulfamethoxazole Pivmecillinam Fosfomycin PO Ciprofloxacin PO Amoxicillin-clavulanate. Women, uncomplicated, 2 = 100 mg bid x5 days 160/800 mg bid x3 days 400 mg bid 3-7 days 3 g single dose 500 mg bid × 3 days 500 mg bid × 3 days. Women, uncomplicated, 3 = First line Second line. Older, complicated, 1 = As above. Older, complicated, 2 = As above, lengthen duration to 5-7 days. Older, complicated, 3 = . PYELONEPHRITIS, 1 = . PYELONEPHRITIS, 2 = . PYELONEPHRITIS, 3 = . Infants & children, 1 = Ceftriaxone IV Ceftazidime IV Gentamicin IV Piperacillin-tazobactam IV. Infants & children, 2 = 50-75 mg/kg daily × 7-14 days 100-150 mg/kg Per day divided into 3 doses × 7-14 days 7.5 mg/kg Per day divided into 3 doses × 7-14 days 80 mg/kg/dose divided into 3 doses × 7-14 days. Infants & children, 3 = . Women, low risk, 1 = Ciprofloxacin PO. Women, low risk, 2 = 500 mg bid × 7 days ( ± 1 dose 40 mg IV ciprofloxacin) ( ± 1 dose
+
+============================================================
+CHUNK 9
+============================================================
+Schistosomiasis
+1g IV ceftriaxone). Women, low risk, 3 = Only in regions with < 10% community resistance. Older men and high-risk women, 1 = Ceftriaxone IV Cefepime IV Ceftazidime IV Ciprofloxacin IV Ertapenem IV Piperacillin-tazobactam IV Ampicillin-sulbactam IV. Older men and high-risk women, 2 = 1g daily × 7-14 days 1-2 g bid × 7-14 days 500 mg bid × 7-14 days 500 mg bid × 7-14 days 1 g IV daily × 7-14 days 3.375-4.5 g qid × 7-14 days 3 g IV q6h × 14 days. Older men and high-risk women, 3 = Transition to PO antibiotics when afebrile > 24-48 h
+*Infants typically present with pyelonephritis; oral antibiotics should be initiated only after clinical improvement following initial parenteral treatment and bacterial speciation with antibiotic sensitivities.
+- This does not include adjustments for hepatic or renal insufficiency. All antibiotic regimens should be tailored to urine culture results. In young males, empiric treatment for chlamydia/gonorrhea should precede empiric management of UTI.
+AAFP , American Academy of Family Physicians; AAP , American Academy of Pediatrics; IDSA , Infectious Diseases Society of America; bid , twice daily; qid , four times daily.
+Adapted from the 2010 IDSA Clinical Practice Guidelines, AAFP guidelines for UTIs in Adults, and the 2011 AAP guidelines for UTIs in young children. Gupta K, Hooton TM, Naber KG, et al. International clinical practice guidelines for the treatment of acute uncomplicated cystitis and pyelonephritis in women: A 2010 update by the Infectious Diseases Society of America and the European Society for Microbiology and Infectious Diseases. Clin Infect Dis 2011;52(5):e103-20. Subcommittee on Urinary Tract Infection, Steering Committee on Quality Improvement and Management, Roberts KB. Urinary tract infection: clinical practice guideline for the diagnosis and management of the initial UTI in febrile infants and children 2 to 24 months. Pediatrics 2011;128(3):595-610.
+
+============================================================
+CHUNK 10
+============================================================
+Schistosomiasis
+need immediate decompression. Ureteral stenting or placement of a percutaneous nephrostomy tube is ideal for the upper tract, whereas  urethral  dilation  with  Foley  catheter  placement  or  a supra-pubic tube can be used for the lower tract. A patient with a  history of  schistosomiasis who  develops microscopic or  gross hematuria  should  be  evaluated  for  bladder  cancer-preferably with urine cytology, cystoscopy, and computed tomography (CT) urogram (though renal ultrasound is acceptable in resource-limited settings).
+
+============================================================
+CHUNK 11
+============================================================
+Filariasis
+Scrotal  and  genital  involvement  secondary  to  {lariasis  may  be under-reported  due  to  patient  modesty  or  stigma.  Infection  is caused by entry of adult worms into the super{cial lymphatics in the inguinoscrotal (labial) region, resulting in a local in|ammatory response and ultimately lymphangiectasia. Obstruction of the local lymphatic drainage leads to lymphatic |uid collections, skin  thickening,  and  subsequent  bacterial  skin  infections  and further  tissue  damage. Although  many  cases  are asymptomatic, over 50% of men with a {larial infection will develop a scrotal hydrocele.
+Preventive chemotherapy with albendazole and ivermectin or diethylcarbamazine help to prevent the spread of disease but do little to treat adult worms. For those with chronic {larial hydroceles, surgical management is necessary by draining the hydrocele |uid and  resecting  thickened  scrotal  skin  and  underlying  tissues. Depending on severity, the patient may require local split-thickness skin grafts for adequate coverage. These cases are associated with poor wound healing and high rates of infection, recurrence, and hematoma  due  to  the  poor  quality  of  the  affected  tissue. 10-12 Nonetheless, management options are limited, and surgery may be the only possibility of resolving disability.
+
+============================================================
+CHUNK 12
+============================================================
+Tuberculosis
+In  2015,  there  were  an  estimated  10.4  million  new  cases  of tuberculosis  (TB)  in  the world,  with  six  countries representing 60% of these cases: India, Indonesia, China, Nigeria, Pakistan, and South Africa. 13
+R
+P.M
+Fig. 6.1 Radiologic images of genitourinary manifestations of schistosomiasis. (A) Bladder wall and ureter calcification. (B) Seminal vesical calcification. Arrowheads indicate the seminal vesicles bilaterally. The arrow indicates calcification caused by TB. (C) Hydroureteronephrosis related to a distal ureteral stricture. (D) Hydroureternephrosis related to dilating reflux. (With permission from Shebel HM, Elsayes KM, Abou El, et al.: Genitourinary schistosomiasis: life cycle and radiologic-pathologic findings. Radiographics 2012;32(4):1031-1046.)
+Although extra-pulmonary TB occurs in approximately 20% of patients, the GU tract is affected in only 4% to 8% of patients with TB infections. 14 It typically presents many years (even decades) after infection and represents reactivation of dormant disease. As a result, it is rarely seen in children. The infection may affect any part of the GU tract, but it is more frequently seen in the epididymis and the kidney. Infections of the ureters and bladders arise from infections in the kidney; ureteral TB is most commonly seen in the distal ureter. 15 Less commonly affected are the urethra, prostate, and testicles. 14,15
+Chronic, unexplained symptoms of pain or lower urinary tract symptoms  with  a  history  of  TB  should  prompt  investigation. Common {ndings on urinalysis are pyuria (80%) and microscopic hematuria  (50%) 15 ; detection  of  acid-fast  bacilli  is  variable. Con{rmation of the diagnosis is based on urine culture or tissue analysis. For the highest detection, several early morning specimens
+should  be  cultured  on  Lowenstein-Jensen  and  pyruvic  egg medium 15 ; if  available, polymerase chain reaction (PCR) can be helpful. 14,16 A  positive  skin  tuberculin  test  can  assist  with  the diagnosis, but a negative one does not rule out the presence of extra-pulmonary TB.
+
+============================================================
+CHUNK 13
+============================================================
+Tuberculosis
+Patients  with  TB  epididymitis  have  concomitant  GU  tract abnormality 50% to 75% of the time. 15 Plain {lms will demonstrate large calci{cations, particularly in the kidney. A pathognomonic {nding  of  TB  is  the  'putty  kidney,'  which  is  a  large  area  of homogeneous,  ground  glass-like  calci{cation  seen  on  x-ray. 17 Ultrasound, intravenous pyelogram (IVP), or CT (with delayed imaging) may be useful to identify ureteral stricture disease and any dilatation. Cystoscopy with retrograde pyelography may help further delineate stricture disease. The European Urologic Association recommendations for the evaluation of suspected GU-TB are shown in T able 6.5.
+Medical management parallels that of pulmonary TB and is summarized in Table 6.6 and in Chapter 43. Multi-drug-resistant TB should be considered. Surgical management may be necessary for disease eradication or for the management of chronic symptoms. Indications for nephrectomy include a poorly functioning kidney with extensive disease or co-existing hypertension or carcinoma. Partial nephrectomy may be used for polar lesions. Epididymectomy may be necessary if refractory to anti-TB agents. Correction of ureteral  strictures  depends  on  the  location  and  length  of  the stricture.
+
+============================================================
+CHUNK 14
+============================================================
+Hydatid Disease
+Echinococcosis ( Echinococcus granulosus ), a tapeworm infection of dogs, is most commonly seen in stockbreeding regions (sheep and cattle) of North Africa, the Middle East, South America, Australia, New Zealand, Alaska, and northern China. 18,19 Larval infection
+TABLE 6.5 EUA Diagnostic Algorithm for the Workup of Suspected GU-TB
+Obtain TB infection history
+Assess symptoms
+Perform physical examination
+Tuberculin skin test
+Assess the urinalysis
+Radiologic imaging
+CT (if available)
+Intravenous pyelogram (second option)
+Urine cultures with PCR; or tissue cultures with acid-fast stain and/or PCR
+EUA, European Urologic Association.
+Adapted from Cek M, Lenk S, Naber KG, et al. EAU guidelines for the management of genitourinary tuberculosis. European Urology 2005;48(3):353-262. Epub 2005 Mar 16.
+TABLE 6.6 Medical Management of Uncomplicated GU-TB
+
+3 months, Maintenance Phase = 3 months. INH, RMP, EMB (or SM) daily, Maintenance Phase = INH, RMP twice or thrice per week. 2 months, Maintenance Phase = 4 months. INH, RMP, PZA, EMB daily, Maintenance Phase = INH, RMP twice or thrice per week
+EMB, Ethambutol; INH, isoniazid; RMP, rifampin; SM, streptomycin. Adapted from Cek M, Lenk S, Naber KG, et al. EAU guidelines for the management of genitourinary tuberculosis. European Urology 2005;48(3):353-362.
+in humans typically occurs in the liver and lungs, but in 1% to 5% of cases the kidneys are affected, 18-20 resulting in cystic masses that can rupture into the renal collecting system.
+Most patients  with  renal  hydatid  disease  present  with  nonspeci{c symptoms of lumbar or upper abdominal pain, malaise, and  episodic  fevers.  Less  than  a  third  of  patients  have  frank hydaturia that is marked by the passage of small, white, grapelike structures. 19,21
+
+============================================================
+CHUNK 15
+============================================================
+Hydatid Disease
+The initial workup includes urinalysis and renal ultrasonography. Imaging will reveal a cystic lesion (either simple or multi-loculated; Fig. 6.2) that can have associated |oating debris, daughter cysts, and hydatid sand. A majority of cysts will be > 5 cm in size, with nearly a third > 10 cm. 19 The WHO classi{cation for renal ultrasound {ndings is based on signs of active, transitional, and inactive hydatid  disease. 22 Serology  has  a  high  false-negative  rate,  with nearly half of infected individuals testing negative. 19
+The management of an active renal hydatid cyst is surgical. Medical management with anti-helminth agents and percutaneous aspiration  is  associated  with  high  rates  of  recurrence.  Surgery entails opening the cyst and removing the endocyst, including the hydatid membrane and daughter cysts. Thoroughly rinsing the cavity with saline or a scolicidal agent, such as hydrogen peroxide, may prevent recurrence. 18,19 Spillage of endocyst material carries the risk of a systemic anaphylactic reaction. The use of albendazole may reduce the risk of recurrence. 23
+
+============================================================
+CHUNK 16
+============================================================
+Neisseria gonorrhoeae and Urethral Stricture Disease
+In  the  developing  world,  gonorrhea  causes  a  majority  of  male urethral  stricture, 24-26 with  the  bulbar  urethra  most  frequently affected. Urethral narrowing can cause dysuria, frequency, hematuria,  straining,  acute  urinary  retention,  over|ow incontinence, and recurrent UTIs. Severe cases can lead to bilateral upper tract dilation and obstructive nephropathy. Gonorrheal stricture is most frequently seen in young and middle-aged men. 25
+The evaluation for stricture includes questions about sexually transmitted infections (STIs), trauma, and urinary symptoms. Renal ultrasound will reveal if there is upper tract dilation and can show a large-capacity bladder that does not empty after voiding. Diagnosis can be made with a retrograde urethrogram by injecting contrast into the penile urethra while taking oblique |uoroscopic images (Fig. 6.3).
+Urethral dilation can be performed via cystoscopy, if available. However, strictures that recur after dilation should be managed with de{nitive reconstructive surgery, as the failure rate increases with  each  dilation.  Open  repair  requires  surgical  experience, particularly with long or multi-focal strictures, but can be performed with instruments and sutures common to most operating rooms. In the event of acute urinary retention, a supra-pubic tube can be placed as a temporizing measure.
+
+============================================================
+CHUNK 17
+============================================================
+HIV/AIDS
+In 2016 there were an estimated 36.9 million people living with HIV and 940,000 deaths due to AIDS worldwide. 27 The majority of the GU manifestations in HIV infection occur when there are low CD4 counts and the patient is immunosuppressed. Any disseminated atypical infection (fungal, parasitic, mycobacterial, or viral) can affect the GU tract.
+UTIs are slightly more common among individuals with HIV and signi{cantly more common among patients with AIDS. In addition to normal uropathogens, others include Salmonella (which should  be  treated  and  followed  by  long-term  prophylaxis)  and cytomegalovirus (CMV) cystitis, which can be treated with ganciclovir or foscarnet. 28
+Prostatitis and prostatic abscesses are more common in HIVinfected patients. They are caused by common uropathogens or
+Detenarada turnthrnaram fe 4 em hillhor urnthroll
+Fig. 6.2 A left renal hydatid cyst (asterisk) on axial CT imaging. (With permission from Ishimitsu DN, Saouaf R, Kallman C, Balzer BL: Best cases from the AFIP: renal hydatid disease. Radiographics 2010;30(2):334-337.)
+Fig. 6.3 Retrograde urethrogram of a 1-cm bulbar urethral stricture.
+Salmonella, but atypical organisms can occur in severely immunocompromised individuals. The signs of a prostatic infection may include perineal pain, fevers, and bacteremia. Urinalysis and culture  may  be  equivocal  if  the  patient  is  taking  suppressive antibiotics such as trimethoprim-sulfamethoxazole. A digital rectal examination  will  reveal  a  tender  prostate  and  in  some  cases  a |uctuant mass. De{nitive diagnosis can be made with transrectal ultrasound or pelvic contrast-enhanced CT or magnetic resonance imaging (MRI), where available. Depending on local resources, the abscess may be unroofed endoscopically. 29
+
+============================================================
+CHUNK 18
+============================================================
+HIV/AIDS
+Infections in HIV/AIDS patients that affect the external genitalia and  inguinal  region  include  genital  ulcer  disease  (e.g.,  herpes simplex virus, lymphogranuloma venereum, or Haemophilus ducreyi ), condyloma  acuminatum,  molluscum  contagiosum,  and Candida balanitis.  Giant  condyloma  acuminatum,  known  as  a BuschkeLowenstein tumor, tends to be locally aggressive and may recur in immunocompromised patients. Patients with advanced AIDS may present  with  genital  lesions  due  to  Kaposi's  sarcoma  and  are also  at  an  increased  risk  of  penile  cancer-particularly  when uncircumcised.
+Patients with HIV/AIDS being treated with a protease inhibitor may be at an increased risk for urolithiasis. Indinavir  has  been associated  with  stone  formation  in  4%  to  13%  of  cases. 30,31 Indinavir stones are radiolucent and may require contrast during an  IVP  to  help  outline  them.  Atazanavir  has  also  been  associated  with  urolithiasis 32 ;  concomitant  liver  or  renal  disease  may potentiate this risk. 33 Atazanavir  crystals are rodlike and mildly birefringent  under  light  microscopy,  whereas  indinavir  crystals may be crystal-like or fan-shaped. Conservative management with |uids, pain control (in particular non-steroidal anti-in|ammatory drugs [NSAIDs]), and an alpha-blocker will manage most stone cases.  Adequate  hydration  may  help  prevent  stone  formation. Tenofovir, a nucleotide reverse transcriptase inhibitor, used both for  prevention  (pre-exposure  prevention or  PrEP)  and therapy of HIV, has been associated with renal dysfunction. Renal function  should  be  screened  before  use  and  intermittently  while on therapy.
+
+============================================================
+CHUNK 19
+============================================================
+Congenital Abnormalities
+The three most common GU congenital abnormalities observed in  the  United  States  and  abroad  are  pre-natal  hydronephrosis, undescended testicles, and penile hypospadias. Pre-natal screening will  improve  detection  of  hydronephrosis,  which  is  present  in approximately 1% of pregnancies. In most children this {nding is benign and will self-resolve. However, some children will have
+an underlying anatomic abnormality (e.g., ureteropelvic junction obstruction, vesicoureteral re|ux, ureterovesical junction obstruction, or posterior urethral valves). Bilateral hydronephrosis in a male  fetus  requires  immediate  post-natal  follow-up  because  it may  indicate  posterior  urethral  valves-a  lethal  disease  if  left untreated. Otherwise, the fetus can be followed post-natally with an ultrasound between 1 and 2 months after birth. If the baby develops a febrile UTI, further imaging and prophylactic antibiotics are recommended. The evaluation and management of antenatal hydronephrosis  is  detailed  by  the  American  Society  of  Fetal Urology. 34
+
+============================================================
+CHUNK 20
+============================================================
+Congenital Abnormalities
+Cryptorchidism occurs in 3%  of full-term pregnancies and  upwards  of  20%  to  30%  of  premature  births.  Surgical management, preferably within the {rst 18 months of life, will decrease the risk of cancer and improve semen parameters. 35 The presence  of  intra-abdominal  testicles  poses  a  risk  of  cancer  if uncorrected  in  post-pubertal  patients.  Surgical  treatment  may also reduce the risk of torsion or trauma to the ectopic testicle. Ultrasound  has  a  poor  sensitivity  and  speci{city  for  detecting undescended testicles;  typically  a  physical  examination  is  more useful.  In  older  or  obese  children  in  whom  an  examination may be dif{cult, inguinal-scrotal ultrasound can be considered. Bilateral  cryptorchidism,  particularly  in  association  with  severe hypospadias, is a sign of a more serious condition. These patients should  be  evaluated  for  conditions  associated  with  ambiguous genitalia with a karyotype (in resource-limited settings, a blood sample may need to be sent to another country for evaluation), pelvic ultrasound, serum electrolytes, and testosterone. The most important initial diagnosis to rule out is salt-wasting congenital adrenal hyperplasia, which can be lethal if untreated. Evaluation and management of cryptorchidism and ambiguous genitalia are available. 36,37
+Penile hypospadias occur in approximately 1/250 births. Surgical repair  is  delicate,  particularly  in  more  severe  cases,  which  are associated with a high rate of complications (including urethrocutaneous {stulae, dehiscence, and strictures). The condition may be  associated  with  social  stigma  and  can  affect  fertility  and urination. 38
+
+============================================================
+CHUNK 21
+============================================================
+Genetic Diseases
+Sickle cell disease (SCD) has a genetic prevalence of 25% to 50% in some West African areas. Relative hypoxia in the renal medulla leads  to  sickling,  with  obliteration  of  the  vasa  recta,  papillary necrosis, and macroscopic hematuria. Patients with SCD have an increased susceptibility to bacterial infections, and renal failure is the cause of death in about 14% of cases. A common GU problem in  men  with  SCD  is  priapism-a  prolonged  painful  erection. Priapism occurs in 3.6% of children and upwards of 42% of adult men. 39 Acute ischemic priapism requires immediate management with saline irrigation and aspiration, and potentially phenylephrine injection.  In  addition,  patients  with  SCD  may  bene{t  from intravenous hydration  and supplemental oxygen. Prevention of stuttering  priapism  may  be  achieved  with  on-demand  pseudoephedrine in the SCD population. 39
+
+============================================================
+CHUNK 22
+============================================================
+Metabolic Diseases
+Dehydration, which is encountered more frequently in tropical environments  due  to  heat,  limited  access  to  clean  water,  and increased rates of diarrheal disease, remains one of the strongest risk factors for kidney stones. However, changes in diet, in particular, increased  salt  and  carbohydrate  intake,  compounds  underlying risk factors for stones. Prevention relies on increased |uid consumption and decreased salt intake. In adults with an acute stone < 10 mm, initial management includes |uids, NSAIDs and an alpha-blocker. Larger stones and infected stones require surgical management, preferably endourologic surgery, if possible.
+
+============================================================
+CHUNK 23
+============================================================
+Trauma
+Trauma to the GU tract from road traf{c injuries include renal contusion or laceration and urethral injury and/or bladder rupture associated with pelvic fracture. Although most kidney injuries can be managed with observation, urethral injury may lead to complex, posterior urethral stricture disease. Penetrating trauma related to violence typically requires surgical exploration and repair.
+Birth trauma can lead to post-partum vesicovaginal {stulas in areas  where  obstetric  services  are  inadequate.  Many  are  large, complex {stulae involving the continence mechanism or adjacent ureter. Vaginal repair can be performed under spinal anesthesia by adequately trained staff; however, currently, thousands of women remain untreated due to lack of personnel and resources.
+
+============================================================
+CHUNK 24
+============================================================
+Diseases of Aging
+As people are  living longer  in  tropical  regions,  GU  conditions related to aging will become more prevalent. Common conditions include benign prostatic hypertrophy (BPH), underactive bladder, pelvic organ prolapse, prostate cancer, and other urologic cancers. To adequately address this growing burden of disease, sub-specialist training is increasingly important.
+
+============================================================
+CHUNK 25
+============================================================
+REFERENCES
+1.  Freedman AL, Urologic Diseases in America Project. Urologic diseases in North America Project: trends in resource utilization for urinary tract infections in children. J Urol 2005;173(3):949-54.
+2.  Hooton  TM,  Scholes  D,  Hughes  JP,  et al.  A  prospective  study  of risk factors for symptomatic urinary tract infection in young women. N Engl J Med 1996;335(7):468-74.
+3.  Griebling TL. Urologic diseases in America project: trends in resource use  for  urinary  tract  infections  in  women.  J  Urol  2005;173(4): 1281-7.
+4.  Griebling TL. Urologic diseases in America project: trends in resource use for urinary tract infections in men. J Urol 2005;173(4):1288-94.
+5.  Singh-Grewal D, Macdessi J, Craig J. Circumcision for the prevention of urinary tract infection in boys: a systematic review of randomised trials and observational studies. Arch Dis Child 2005;90(8):853-8.
+6.  Parsons MA, Harris SC, Grainger RG, et al. Fistula and sinus formation in xanthogranulomatous pyelonephritis. A clinicopathological review and report of four cases. Br J Urol 1986;58(5):488-93.
+7.  Huang JJ, T seng CC. Emphysematous pyelonephritis: clinicoradiological classi{cation, management, prognosis, and pathogenesis. Arch Intern Med 2000;160(6):797-805.
+8.  Khalaf I, Shokeir A, Shalaby M. Urologic complications of genitourinary schistosomiasis. World J Urol 2012;30(1):31-8.
+9.  Zaghloul MS. Bladder cancer and schistosomiasis. J Egypt Natl Canc Inst 2012;24(4):151-9.
+
+============================================================
+CHUNK 26
+============================================================
+REFERENCES
+10.  Beard JH. Hernia and Hydrocele. Essential Surgery: DCP , vol. 1. 3rd ed. Washington (DC): The International Bank for Reconstruction and Development / The World Bank; 2015 Apr 2. [chapter 9].
+11.  Salako AA, Olabanji JK, Oladele AO, et al. Surgical Reconstruction of Giant Penoscrotal Lymphoedema in sub-Saharan Africa.Urology 2018;112:181-5.
+12.  Singh V , Sinha RJ, Sankhwar SN, Kumar V . Reconstructive surgery for penoscrotal {larial lymphedema: a decade of experience and follow-up. Urology 2011;77(5):1228-31.
+13.  World Health Organization. 2015 data on tuberculosis: http://www. who.int/tb/en/.
+14.  Lenk  S,  Schroeder  J.  Genitourinary  tuberculosis.  Curr  Opin  Urol 2001;11(1):93-8.
+15.  Cek M, Lenk S, Naber KG, et al. EAU guidelines for the management of genitourinary tuberculosis. Eur Urol 2005;48(3):353-62.
+16.  Moussa OM, Eraky I, El-Far MA, et al. Rapid diagnosis of genitourinary tuberculosis by polymerase chain reaction and non-radioactive DNA hybridization. J Urol 2000;164(2):584-8.
+17.  Bell  DJ,  Stanislavsky  A,  et al.  Putty  Kidney.  Radiopoedia.  https:// radiopaedia.org/articles/putty-kidney.
+18.  Rexiati M, Mutalifu A, Azhati B, et al. Diagnosis and surgical treatment of  renal  hydatid  disease:  a  retrospective  analysis  of  30  cases.  PLoS ONE 2014;9(5):e96602.
+
+============================================================
+CHUNK 27
+============================================================
+REFERENCES
+19.  Horchani A, Nouira Y, Kbaier I, et al. Hydatid cyst of the kidney. A report of 147 controlled cases. Eur Urol 2000;38(4):461-7.
+20.  Osman E, Khan Z, Abualsel A, Bhatty T. An undiagnosed giant right renal hydatid cyst treated laparoscopically: Case  report and review of literature. Urol Ann 2016;8(4):471-3.
+21.  Shukla  S,  Singh  SK.  Pujani  M.  Multiple  disseminated  abdominal hydatidosis  presenting  with  gross  hydatiduria:  a  rare  case  report. Indian J Pathol Microbiol 2009;52(2):213-14.
+22.  World Health Organization Informal Working Group. International classi{cation  of  ultrasound  images  in  cystic  echinococcosis for application  in clinical and  {eld epidemiological settings. Acta T rop 2003;85:253-61.
+23.  Arif SH, Shams-Ul-Bari, Wani NA, et al. Albendazole as an adjuvant to the standard surgical management of hydatid cyst liver. Int J Surg 2008;6(6):448-51.
+24.  Fenton AS, Morey AF, Aviles R, Garcia C. Anterior urethral strictures: etiology and characteristics. Urology 2005;65:1055-8.
+25.  Fall B, Sow Y, Mansouri I, et al. Etiology and current clinical characteristics of male urethral stricture disease: experience from a public teaching hospital in Senegal. Int Urol Nephrol 2011;43(4):969-74.
+26.  Lumen N, Hoebeke P , Willemsen P , et al. Etiology of urethral stricture in the 21st century. J Urol 2009;182:983-7.
+27.  World Health Organization. HIV/AIDS Fact Sheet. 19th July 2018. https://www.who.int/en/news-room/fact-sheets/detail/hiv-aids.
+
+============================================================
+CHUNK 28
+============================================================
+REFERENCES
+28.  Heyns CF, Groeneveld AE, Sigarroa NB. Urologic complications of HIV and AIDS. Nat Clin Pract Urol 2009;6(1):32-43. Erratum in: Nat Clin Pract Urol. 2010;7(4):178.
+29.  Heyns CF, Fisher M. The urological management of the patient with acquired immunode{ciency syndrome. BJU Int 2005;95(5):709-16.
+30.  Wu DS, Stoller ML.  Indinavir urolithiasis. Curr Opin  Urol 2000;10(6):557-61.
+31.  Saltel E, Angel JB, Futter NG, et al. Increased prevalence and analysis of risk factors for indinavir nephrolithiasis. J Urol 2000;164(6):1895-7.
+32.  Izzedine H, Lescure FX, Bonnet F. HIV medication-based urolithiasis. Clin Kidney J 2014;7(2):121-6.
+33.  Chan-Tack KM, Truffa MM, Struble KA, et al. Atazanavir-associated nephrolithiasis: cases from the US Food and Drug Administration's Adverse Event Reporting System. AIDS 2007;21:1215-18.
+34.  Nguyen HT, Herndon CD, Cooper C, et al. The Society for Fetal Urology consensus statement on the evaluation and management of antenatal hydronephrosis. J Pediatr Urol 2010;6(3):212-31.
+35.  Pastuszak  AW,  Lipshultz  LI.  AUA  guideline  on  the  diagnosis  and treatment of cryptorchidism. J Urol 2014;192(2):346-9.
+36.  Kolon TF, Herndon CD, Baker LA, et al. American Urological Assocation. Evaluation and treatment of cryptorchidism: AUA guideline. J Urol 2014;192(2):337-45.
+37.  Lambert SM,  Vilain EJ, Kolon  TF.  A practical approach to ambiguous  genitalia  in  the  newborn  period.  Urol  Clin  North Am 2010;37(2):195-205.
+
+============================================================
+CHUNK 29
+============================================================
+REFERENCES
+38.  Metzler  IS,  Nguyen  HT,  Hagander  L,  et al.  Surgical  outcomes and  cultural  perceptions  in  international  hypospadias  care.  J  Urol 2014;192(2):524-9.
+39.  Salonia A, Eardley I, Giuliano F , et al. European Association of Urology guidelines on priapism. Eur Urol 2014;65(2):480-9.
+

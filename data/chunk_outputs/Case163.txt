@@ -1,0 +1,110 @@
+============================================================
+CHUNK 0
+============================================================
+Key features
+- Brucellosis is a common zoonotic infection worldwide with signi(cant medical, veterinary, and economic consequences
+- The disease is transmitted by direct contact with, or consumption of, products of a variety of domestic and wild animals
+- Human disease can manifest in myriad ways, including prolonged fever, granulomatous hepatitis, uveitis, endocarditis, and osteoarticular or genitourinary involvement
+- Infection is often characterized by its chronicity
+- Treatment involves combination antimicrobial therapy and should be administered for a minimum of 6 weeks
+- There is no vaccine commercially available for use in humans. Prevention is usually targeted to risk factor reduction and behavioral modi(cations, for example avoidance of consumption of unpasteurized dairy products
+- Synonyms: Malta fever, Undulant fever, Bang's disease
+
+============================================================
+CHUNK 1
+============================================================
+INTRODUCTION
+Brucellosis is a zoonotic infection with worldwide distribution that is caused by species of the genus Brucella including Brucella melitensis, Brucella  abortus,  Brucella  suis ,  and Brucella  canis .  Brucellosis  is  an ancient disease with lesions attributed to possible brucellosis recently recognized in a 2.4-2.8-million-year-old hominid [1]. In the late 19th century, the pathogen was implicated in human disease and isolated from goat milk by Sir David Bruce (hence the name Brucella) and his colleagues in Malta.
+
+============================================================
+CHUNK 2
+============================================================
+EPIDEMIOLOGY
+An estimated half a million new cases of brucellosis occur each year worldwide, with four major high-risk zones delineated by recent epidemiologic  data  [2]:  the  Middle  East,  Central  Asia,  parts  of  Latin America, and the Mediterranean, with particularly increasing trends observed in the Balkan Peninsula (Fig. 70.1). There is limited information about the extent of disease prevalence in sub-Saharan Africa because of limited veterinary surveillance and diagnostic facilities for the detection of human disease. In India, the disease remains endemic; in Southeast Asia known burden is unknown, with confirmed cases being limited to case reports. Disease distribution strongly correlates with  general  socioeconomic  status  and  exposure  to  animals  and animal products [2].
+
+============================================================
+CHUNK 3
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Brucella  species  are,  in  general,  host-specific.  The  vast  majority  of human disease is attributed to B. melitensis , the natural reservoirs of which are sheep and goats. Brucella abortus (bovine brucellosis) causes a significant percentage of cases, particularly in countries with a tradition  in  cow-raising.  Both  these  species  can  also  reside  in  camels. Brucella suis (swine brucellosis) and B. canis (canine brucellosis) are rare  causes  of  human  disease,  although  there  is  concern  about  the former's presence in wild boars and the subsequent risk for hunters [3]. Brucella ovis (also found in sheep) and Brucella neotomae (found in rodents) are not human pathogens. Additional species have also been recently identified, including Brucella ceti and Brucella pinnipedialis (causing  brucellosis  in  marine  mammals)  [4], Brucella  microti (found in wild foxes of Central Europe) and Brucella inopinata , a novel species recently isolated from a human case [5].
+Humans are infected through direct contact with infected animals or animal products. Shepherds and abattoir workers are at occupational risk of infection. Humans also become infected through the ingestion of contaminated animal products, such as unpasteurized dairy products, or through the inhalation of aerosolized particles [6]. The latter mode of transmission, often overlooked, lies behind the potential use of Brucella spp. in biological warfare (although its significance in such settings  is  largely  historical)  [7],  but  also  explains  why  brucellosis remains a common laboratory-acquired infection in microbiologists and laboratory technicians [8].
+Brucella reside within  infected macrophages and, potentially, other phagocytes and establish latent and chronic infection [9]. The components of protective immunity are poorly understood [10].
+
+============================================================
+CHUNK 4
+============================================================
+CLINICAL FEATURES AND DIAGNOSIS
+Clinical brucellosis can present in myriad ways. The commonest presentation is nonspecific, with fever and malaise. Typically, symptoms are  mild  and  are  often  reported  from  patients  for  weeks  prior  to diagnosis.  Physical  examination  can  reveal  lymphadenopathy  and hepatosplenomegaly in a minority of patients. Focal disease involving osteoarticular structures is common, including peripheral arthritis or sacroiliitis (the latter predominantly in younger patients), or spondylitis.  Epididymo-orchitis  is  common  in  male  patients.  Table  70-1 lists other clinical characteristics of uncomplicated, or focal, brucellosis.
+Involvement of the bone marrow can lead to mild pancytopenia; relative lymphocytosis is common. Liver function tests are often moderately abnormal. Lactic acid levels may be increased in joint fluid of affected joints [1 1] and radiographic evidence of spondylitis is highly suggestive of brucellosis [12].
+Definitive diagnosis rests on isolation of the pathogen, but diagnosis usually rests on serologic analysis. Blood cultures should be incubated for up to 4 weeks. Serologic analysis usually involves the use of serum agglutination  tests  (SAT),  with  a  titer  equal  to  or  above  1  :  320
+FIGURE  70.1 Global  endemicity  of  brucellosis. Reproduced from: Gutierrez Ruiz C, Miranda JJ, Pappas G (2006) A 26-year-old man  with  sternoclavicular arthritis.  PLoS Med 3(8): e293 and derived from Ariza J, Bosilkovski M, Cascio A, et al. Perspectives for the treatment of brucellosis in the 21st century: the Ioannina recommendations. PLoS Med. 2007 Dec;4(12):e317 and Pappas G, Papadimitriou P, Akritidis N, Christou L, Tsianos EV  (2006)  The  new  global  map  of  human  brucellosis. Lancet Infect Dis 6:91-99.
+
+============================================================
+CHUNK 5
+============================================================
+CLINICAL FEATURES AND DIAGNOSIS
+TABLE 70-1 Clinical Manifestations of Brucellosis (Focal Complications in Descending Order of Frequency)
+
+General, Manifestations = Fever, malaise, anorexia. Reticuloendothelial system, Manifestations = Lymphadenopathy, hepatosplenomegaly. Osteoarticular, Manifestations = Spondylitis. Osteoarticular, Manifestations = Peripheral arthritis. Osteoarticular, Manifestations = Sacroiliitis. Genitourinary, Manifestations = Epididymo-orchitis in males. Genitourinary, Manifestations = Possible increased risk of abortion in pregnant females. Liver, Manifestations = Moderate and rarely severe hepatitis, granuloma formation, chronic suppurative disease, decompensation of pre-existing liver pathology. Hematologic, Manifestations = Lymphocytosis, pancytopenia, rarely hemophagocytosis. Skin, Manifestations = Various rashes, vasculitis. Respiratory, Manifestations = Pneumonia/bronchitis. Gastrointestinal, Manifestations = Vomiting and diarrhea, rarely peritonitis, cholecystitis, colitis. Central nervous system, Manifestations = Meningitis/meningoencephalitis, myelitis, radiculopathy, rarely peripheral neuropathy. Cardiovascular, Manifestations = Endocarditis, mycotic aneurysms. Ocular, Manifestations = Uveitis
+TABLE 70-2 DiFerential Diagnosis of Brucellosis
+Clinical syndrome, 1 = Di5erential diagnosis (in descending order of frequency). Fever with nonspeciEc constitutional symptoms, 1 = Lymphoma; malaria in endemic areas; Q fever; typhoid fever; tularemia; rheumatic/autoimmune syndromes; viral infections including mononucleosis. Osteoarticular disease, 1 = Septic arthritis/spondylitis; tuberculous spondylitis; rheumatic/autoimmune syndromes. Chronic complaints with nonspeciEc Endings, 1 = Psychiatric disorders; chronic fatigue syndrome; hypothyroidism
+
+============================================================
+CHUNK 6
+============================================================
+CLINICAL FEATURES AND DIAGNOSIS
+considered positive, even in endemic areas. ELISAs are available, but analysis has not been standardized. PCR assays for brucellosis are also available  and  real-time  PCR,  in  particular,  has  been  shown  to  be extremely sensitive and specific in numerous settings [8, 13, 14].
+Table 70-2 summarizes important differential diagnostic considerations for the commonest clinical patterns of human brucellosis.
+
+============================================================
+CHUNK 7
+============================================================
+TREATMENT
+Antibiotic  regimens  to  treat  individuals  with  brucellosis  usually contain at least two agents and treatment should be continued for weeks.  Consensus recommendations for uncomplicated disease are summarized in Table 70-3 [15]. Doxycycline and streptomycin may be  microbiologically  optimal  but,  because  of  convenience, doxycycline and rifampin are usually the drugs of choice for treating individuals with non-spondylitic brucellosis. Doxycycline and gentamycin are also being used.
+There  is  evidence  to  suggest  that  doxycycline-streptomycin  is  the combination of choice for patients with brucellosis complicated by
+
+============================================================
+CHUNK 8
+============================================================
+TREATMENT
+TABLE 70-3 Consensus 'Ioannina Recommendations' for the Treatment of Human Brucellosis
+
+Doxycycline and streptomycin (DOX + STR), Dose = DOX: 100 mg twice daily for 6 weeks STR: 15 mg/kg daily intramuscularly for 2-3 weeks. Doxycycline and streptomycin (DOX + STR), Notes = . Doxycycline and rifampin (DOX + RIF), Dose = DOX: 100 mg twice daily for 6 weeks RIF: 600-1200 mg daily for 6 weeks, one morning dose. Doxycycline and rifampin (DOX + RIF), Notes = . Doxycycline and gentamycin (DOX + GENT), Dose = DOX: 100 mg twice daily for 6 weeks GENT: 5 mg/kg daily parenterally in a single dose for 7 days. Doxycycline and gentamycin (DOX + GENT), Notes = . Trimethoprim-sulfamethoxazole (TMP - SMX)-containing regimens, Dose = TMP-SMX: 800 + 160 mg twice daily for 6 weeks. Trimethoprim-sulfamethoxazole (TMP - SMX)-containing regimens, Notes = Can be used in children less than 8 years old, including with aminoglycoside. Quinolone-containing combination regimens, Dose = OGoxacin: 400 mg twice daily/ CiproGoxacin: 500 mg twice daily, both for 6 weeks. Quinolone-containing combination regimens, Notes = Can be used as second agent in patients intolerant of aminoglycosides, tetracyclines or rifampin.
+From Ariza J, Bosilkovski M, Cascio A, et al. Perspectives for the treatment of brucellosis in the 21st century: the Ioannina recommendations. PLoS Med 2007;4:e317.
+
+============================================================
+CHUNK 9
+============================================================
+TREATMENT
+spondylitis  (but  not  other  osteoarticular  complications)  and  that treatment in such patients should be extended possibly to 12 weeks [16]. Many clinicians use at least three drugs to treat individuals with brucellosis involving the central nervous system and individuals with brucella-associated endocarditis usually require surgical intervention. Young children with brucellosis are usually treated with rifampin and trimethoprim-sulfamethoxazole.
+Even  with  effective  drug  treatment,  relapses  occur  in  5-10%  of patients, usually in the early post-treatment period. Relapses tend to be  mild and  can  be  re-treated  with  the  same,  or  another,  first-line regimen.
+A minority of patients complain of malaise and nonspecific depressive symptoms following completion of effective drug regimens. Brucella have occasionally been isolated from such patients years after treatment, underscoring the potential chronicity of brucellosis [9, 17]. Currently,  there  is  no  vaccine  commercially  available  for  use  in humans. Prevention is usually targeted to risk factor reduction and behavioral modifications, for example avoidance of the consumption of unpasteurized dairy products.
+
+============================================================
+CHUNK 10
+============================================================
+REFERENCES
+1. D'Anastasio  R,  Zipfel  B,  Moggi-Cecchi  J,  et  al.  Possible  brucellosis  in  an early hominin skeleton from Sterkfontein, South Africa. PLoS One 2009;4:e6439.
+2. Pappas G, Papadimitriou P, Akritidis N, et al. The new global map of human brucellosis. Lancet Infect Dis 2006;6:91-9.
+3. Centers  for  Disease  Control  and  Prevention  (CDC). Brucella  suis infection associated with feral swine hunting-three states, 2007-2008. MMWR Morb Mortal Wkly Rep 2009;58:618-21
+4. Foster G, Osterman BS, Godfroid J, et al. Brucella  ceti sp.  nov.  and Brucella pinnipedialis sp.  nov.  for  Brucella  strains  with  cetaceans  and  seals  as  their preferred hosts. Int J Syst Evol Microbiol 2007;57:2688-93.
+5. De BK, Stauffer L, Koylass MS, et al. Novel Brucella strain (BO1) associated with a prosthetic breast implant infection. J Clin Microbiol 2008;46:43-9.
+6. Almuneef MA, Memish ZA, Balkhy HH, et al. Importance of screening household members of acute brucellosis cases in endemic areas. Epidemiol Infect 2004;132:533-40.
+7. Pappas G, Panagopoulou P, Christou L, Akritidis N. Brucella as a biological weapon. Cell Mol Life Sci 2006;63:2229-36.
+8. Bouza E, Sá nchez-Carrillo C, Hernangó mez S, et al. Laboratory-acquired brucellosis: a Spanish national survey. J Hosp Infect 2005;61:80-3.
+9. Vrioni G, Pappas G, Priavali E, et al. An eternal microbe: Brucella DNA load persists for years after clinical cure. Clin Infect Dis 2008;46:e131-6.
+
+============================================================
+CHUNK 11
+============================================================
+REFERENCES
+10.  Pappas G, Akritidis N, Bosilkovski M, Tsianos E. Brucellosis. N Engl J Med 2005;352:2325-36.
+11.  Mavridis AK, Drosos AA, Tsolas O, Moutsopoulos HM. Lactate levels in Brucella arthritis. Rheumatol Int 1984;4:169-71.
+12.  Colmenero JD, Jimé nez-Mejías ME, Sá nchez-Lora FJ, et al. Pyogenic, tuberculous,  and  brucellar  vertebral  osteomyelitis:  a  descriptive  and  comparative study of 219 cases. Ann Rheum Dis 1997;56:709-15.
+13.  Navarro  E,  Segura  JC,  Castañ o  MJ,  Solera  J.  Use  of  real-time  quantitative polymerase chain reaction to monitor the evolution of Brucella melitensis DNA load during therapy and post-therapy follow-up in patients with brucellosis. Clin Infect Dis 2006;42:1266-73.
+14.  Queipo-Ortuñ o  MI,  Colmenero  JD,  Reguera  JM,  et  al.  Rapid  diagnosis  of human brucellosis by SYBR Green I-based real-time PCR assay and melting curve analysis in serum samples. Clin Microbiol Infect 2005;11:713-8.
+15.  Ariza J, Bosilkovski M, Cascio A, et al. Perspectives for the treatment of brucellosis  in  the  21st  century:  the  Ioannina  recommendations.  PLoS  Med 2007;4:e317.
+16.  Pappas G, Seitaridis S, Akritidis N, Tsianos E. Treatment of brucella spondylitis:  lessons  from  an  impossible  meta-analysis  and  initial  report  of  efficacy of  a  fluoroquinolone-containing  regimen.  Int  J  Antimicrob  Agents  2004; 24:502-7.
+17.  Castañ o MJ, Solera J. Chronic brucellosis and persistence of Brucella melitensis DNA. J Clin Microbiol 2009;47:2084-9.
+18.  Gutierrez Ruiz C, Miranda JJ, Pappas G. A 26-year-old man with sternoclavicular arthritis. PLoS Med 2006;3:e293.
+

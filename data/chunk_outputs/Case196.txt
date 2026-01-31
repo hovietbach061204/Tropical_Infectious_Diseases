@@ -1,0 +1,225 @@
+============================================================
+CHUNK 0
+============================================================
+Key features
+- Microsporidia are a diverse group of obligate intracellular eukaryotic parasites most closely related to fungi
+- Microsporidia form characteristic spores that are diagnostic for the phylum. Spores possess a unique organelle-the polar tubule or polar 1lament-which is coiled inside the spore
+- Spores of species associated with human infection measure 1-4 μ m
+- While Microsporidia can infect immunocompetent hosts, they are more commonly seen in the setting of cellmediated immune dysfunction
+- The most common manifestations of infection are diarrhea and keratoconjunctivitis; however, Microsporidia can infect virtually any organ, causing a variety of symptoms, including disseminated disease, hepatitis, myositis, kidney and urogenital infection, ascites, cholangitis, and asymptomatic carriage
+- Examination of stool or urine specimens using special stains is a practical method for the diagnosis of microsporidiosis. De1nitive species diagnosis requires transmission electron microscopy visualization of spore ultrastructure or molecular methods (PCR)
+- Albendazole is the drug of choice to treat gastroenteritis caused by Encephalitozoon intestinalis and to treat disseminated microsporidiosis with or without local manifestations ( Encephalitozoon hellem , Encephalitozoon cuniculi , E. intestinalis , Pleistophora sp., Trachipleistophora sp., Brachiola vesicularum )
+- Fumagillin is the drug of choice to treat gastroenteritis and disseminated infection caused by Enterocytozoon bieneusi , but is associated with thrombocytopenia
+- The treatment of choice for ocular microsporidiosis ( E. hellem , E. cuniculi , Vittaforma corneae ) is oral albendazole plus topical fumagillin. Corneal infections with V. corneae often do not respond to chemotherapy and may require keratoplasty
+
+============================================================
+CHUNK 1
+============================================================
+INTRODUCTION
+First recognized by Nageli in 1857 as the cause of disease in silkworms, microsporidia were not suspected as being a cause of human disease until 1959, when they were found in a child with encephalitis. Conclusive evidence of Microsporidia as pathogens dates to 1973, when a 4-month-old athymic boy died with severe diarrhea and malabsorption caused by Nosema (now Anncaliia ) connori (Fig. 104.1). Interest and knowledge of microsporidia as parasites of man have expanded dramatically since they  were first described  as  a  cause  of persistent diarrhea and systemic disease in persons with AIDS [1].
+Microsporidia are obligate intracellular parasites which are classified in  a  separate  phylum-the  Microsporidia-consisting  of  approximately 170 genera and more than 1200 species [2, 3]. They are classified  based  on  their  ultrastructural  features,  including  size  and morphology of the spores, number of coils of the polar tube, developmental lifecycle and host-parasite relationship [4]. Molecular data, based primarily on small subunit RNA genes, have also been used to define taxonomic relationships and for the diagnosis of these pathogens.  Although  traditionally  believed  to  be  'primitive'  protozoa, molecular phylogenetic analysis has suggested that the Microsporidia are instead related to the Fungi [5, 6]. The genome size of the Microsporidia varies from 2.3 to 19.5 Mb with that of the Encephalitizoonidae  being  less  than  3.0  Mb,  making  them  among  the  smallest eukaryotic nuclear genomes so far identified.
+
+============================================================
+CHUNK 2
+============================================================
+EPIDEMIOLOGY
+The Microsporidia infect virtually all animal phyla, including other protists. They have a worldwide distribution and are important agricultural  parasites  in  insects,  fish,  and  mammals.  They  have  been found in every tissue and organ, and spores are common in environmental sources [2]. Many human infections are likely zoonotic and/ or transmitted by water [7]. Domestic and wild animals may be naturally infected with E. cuniculi , E. intestinalis , and Enterocytozoon bieneusi . Birds, especially parrots (parakeets, love birds, budgies), are naturally infected  with E.  hellem . Enterocytozoon  bieneusi and V.  corneae have
+FIGURE  104.1 Anncaliia  (Nosema)  connori (arrow)  in  a  human  infant ( × 1260) (courtesy  of  Drs  Daniel  Connor  and  Ann  Cali,  and  the  Armed  Forces Institute of Pathology, Photograph Neg. No. 71-5882).
+been identified  in  surface  waters,  and  spores  of Nosema sp.  (likely Anncaliia  algerae )  have  been  identified  in  ditchwater.  Human-tohuman transmission is likely although not proven.
+Prevalence of microsporidiosis varies from not detected to over 80% depending on the geographic region, method of diagnosis and demographic characteristics of the population being studied. Microsporidiosis is increasingly recognized in non-HIV-infected populations, such as travelers, children, the elderly and organ transplant recipients. Most infections  in  immunocompetant  and  naïve  hosts  are  likely  selflimited or asymptomatic. Current understanding suggests that Microsporidia are as common in humans as they are in other mammals, and are associated with travel or residence in developing nations [8]. Microsporidal  keratitis  is  increasingly  recognized  in  endemic  areas and is likely associated with exposure to soil, muddy water and minor trauma, with higher incidence during the rainy season [9].
+
+============================================================
+CHUNK 3
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+The Microsporidia are single-cell, intracellular parasites containing a nucleus  with  a  nuclear  envelope,  an  intracytoplasmic  membrane system, chromosome separation on mitotic spindles, a vesicular Golgi and a mitochondrial 'remnant' . The infectious spore is characteristic of  the  phylum:  it  is  unicellular  with  an  environmentally-resistant spore wall, one or two nuclei and an extrusion apparatus consisting of a single polar tube with an anterior attachment complex. During germination, the polar tube rapidly everts forming a hollow tube that both transports and inoculates the sporoplasm into the host cell [2].
+Most  microsporidial  infections  occur  when  infectious  spores  are ingested  or  inhaled. Enterocytozoon  bieneusi ,  the  most  frequently encountered intestinal microsporidia in patients with AIDS, primarily causes  intestinal  infections  with  less  frequent  extra-intestinal  infections.  Like E.  bieneusi , Encephalitozoon  intestinalis may infect enterocytes and cause chronic diarrhea. However, through the infection of macrophages, E. intestinalis can disseminate to different organs, especially the kidneys, from which spores are shed in the urine.
+
+============================================================
+CHUNK 4
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+The  lifecycle  of  microsporidia  begins  when  the  spores  germinate, resulting in the extrusion of its polar tubule and infects a host epithelial cell or is phagocytosed by a host cell. The spore injects the infective sporoplasm into the eukaryotic host cell or into a parasitophorous vacuole  through  the  polar  tubule.  Inside  the  cell,  the  sporoplasm undergoes  extensive  multiplication  either  by  merogony  (binary fission) or schizogony (multiple fission). This development can occur either in direct contact with the host cell cytoplasm (e.g. E. bieneusi ) or inside a parasitophorous vacuole (e.g. E. intestinalis ). Either free in the  cytoplasm  or  inside  a  parasitophorous  vacuole,  microsporidia develop by sporogony to mature spores. During sporogony, a thick wall is formed around the spore, which provides resistance to adverse environmental conditions. When the spores increase in number and completely fill the host cell cytoplasm, the cell membrane is disrupted and releases the spores to the surroundings. These free mature spores can infect new cells, thus continuing the cycle.
+Within their hosts, most species infect the digestive tract, but reproductive, respiratory, muscular, excretory and nervous system infections are well documented [2]. Microsporidiosis in humans is most often identified in the setting of immune deficiencies (especially in patients with AIDS) [7]. A strong humoral response occurs during infection and includes antibodies that react with the spore wall and polar tube. The immunosuppressed states associated with microsporidiosis (e.g. AIDS  and  transplantation)  are  characterized  by  defects  in  cellmediated  immunity.  Spontaneous  cure  of  microsporidiosis  can  be induced by immune reconstitution with combination anti-retroviral treatment (cART) [10].
+
+============================================================
+CHUNK 5
+============================================================
+CLINICAL FEATURES
+Microsporidian genera associated with human disease and their site of infection are described in Table 104-1. Human microsporidiosis represents an important and emerging opportunistic disease, occurring  mainly,  but  not  exclusively,  in  severely  immunocompromised patients with AIDS. Additionally, cases of microsporidiosis in immunocompromised persons not infected with HIV, as well as in immunocompetent  persons,  also  have  been  reported.  Microsporidia  is likely  a  common enteric pathogen causing self-limited disease and asymptomatic carriage. The clinical manifestations of microsporidiosis  are  very  diverse,  varying  according  to  the  causal  species,  with chronic  or  persistent  diarrhea  being  the  most  common  presenting syndrome. Microsporidiosis can also present as keratoconjunctivitis, disseminated disease, hepatitis, myositis, kidney and urogenital infection, ascites and/or cholangitis.
+The genus Microsporidium is used to designate Microsporidia of uncertain  taxonomic status. No one genus is uniquely associated with a specific  clinical  syndrome;  rather,  there  is  considerable  overlap  in clinical disease across species.
+
+============================================================
+CHUNK 6
+============================================================
+INFECTIONS IN IMMUNE COMPETENT PATIENTS
+Chronic diarrhea and ocular infections are the most common presentations  in  immunocompetent  hosts. Enterocytozoon  bieneusi has been identified as a cause of self-limited diarrhea in immunocompetent  patients  and  travelers,  and  has  been  found  in  up  to  10%  of African children with diarrhea. Encephalitozoon intestinalis was found in 8% of the stools of patients in a survey for the etiology of diarrhea in Mexico and has been seen in travelers with chronic diarrhea (Fig. 104-2). Cerebral infections owing to Encephalitozoon sp. were identified serologically in a 3-year-old boy with seizures and hepatomegaly and a 9-year-old Japanese boy with headache, vomiting, spastic convulsions and recurrent fever. An unidentified Microsporidia responsive to albendazole was described causing multiple cerebral lesions in a 33- year-old man in Japan. Pleistophora spp . have been identified in the skeletal muscle of an HIV-negative patient with myositis.
+Ocular infections with ulcer or deep cornea stroma infection associated with eye pain have been reported in immune-competent patients [1 1].  In  1973  and  1981,  two  cases  were  documented  in  immune
+FIGURE 104.2 Encephalitozoon intestinalis gastrointestinal tract infection. As  can  be  seen  in  this  tissue  section  stained  with  a  modiFed  trichrome stain, this organism is present on the apical and basal surface as well as in the  lamina  propria.  This  is  consistent  with  a  disseminating  infection (courtesy of Drs Donald P. Kotler and Jan M. Orensten).
+
+TABLE 104-1 Microsporida IdentiFed as Pathogenic in Humans
+
+============================================================
+CHUNK 7
+============================================================
+INFECTIONS IN IMMUNE COMPETENT PATIENTS
+Genus Encephalitozoon, Clinical manifestation (syndromes in bold described in immunocompetent hosts) = . Encephalitozoon intestinalis ( syn. Septata intestinalis), Clinical manifestation (syndromes in bold described in immunocompetent hosts) = Chronic diarrhea , intestinal perforation, keratoconjunctivitis, cholangitis, nephritis, osteomyelitis of the mandible and upper respiratory infections. Encephalitozoon cuniculi, Clinical manifestation (syndromes in bold described in immunocompetent hosts) = Chronic diarrhea, encephalitis (with seizures) , peritonitis, urethritis, cellulitis, prostatitis, sinusitis, keratoconjunctivitis, cholangitis, cystitis, hepatitis, nephritis and disseminated infection with fever. Encephalitozoon hellem, Clinical manifestation (syndromes in bold described in immunocompetent hosts) = Keratoconjunctivitis, sinusitis, pneumonitis, nephritis, cystitis, urethritis, prostatits, diarrhea and disseminated infection. Genus Enterocytozoon, Clinical manifestation (syndromes in bold described in immunocompetent hosts) = . Enterocytozoon bieneusi, Clinical manifestation (syndromes in bold described in immunocompetent hosts) = Chronic diarrhea , acalculous cholecystitis, wasting syndrome, sinusitis, rhinitis and can invade cholangioepithelium leading to sclerosing cholangitis, cholangiopathy and cholecystitis. Genus Trachipleistophora, Clinical manifestation (syndromes in bold described in immunocompetent hosts) = . Trachipleistophora anthropophthera, Clinical manifestation (syndromes in bold described in immunocompetent hosts) = Disseminated infection, keratoconjunctivits, encephalitis. Trachipleistophora hominis, Clinical manifestation (syndromes in bold described in immunocompetent hosts) = Myositis, stromal keratitis, (probably
+
+============================================================
+CHUNK 8
+============================================================
+INFECTIONS IN IMMUNE COMPETENT PATIENTS
+disseminated infection). Genus Pleisitophora, Clinical manifestation (syndromes in bold described in immunocompetent hosts) = . Pleistophora ronnea%ei and Pleistophora sp., Clinical manifestation (syndromes in bold described in immunocompetent hosts) = Myositis. Genus Anncaliia (syn. Brachiola ), Clinical manifestation (syndromes in bold described in immunocompetent hosts) = . A. vesicularum, Clinical manifestation (syndromes in bold described in immunocompetent hosts) = Myositis. A. connori, Clinical manifestation (syndromes in bold described in immunocompetent hosts) = Disseminated infection. A. algerae, Clinical manifestation (syndromes in bold described in immunocompetent hosts) = Keratoconjunctivits, myositis, cellulitis. Genus Nosema/Vittaforma, Clinical manifestation (syndromes in bold described in immunocompetent hosts) = . Nosema ocularum, Clinical manifestation (syndromes in bold described in immunocompetent hosts) = Keratoconjunctivitis. Vittaforma (Nosema) corneae, Clinical manifestation (syndromes in bold described in immunocompetent hosts) = Keratoconjunctivitis , urinary tract infections. Genus Microsporidium, Clinical manifestation (syndromes in bold described in immunocompetent hosts) = . Microsporidium africanus, Clinical manifestation (syndromes in bold described in immunocompetent hosts) = Corneal ulcer. Microsporidium ceylonensis, Clinical manifestation (syndromes in bold described in immunocompetent hosts) = Corneal ulcer
+
+============================================================
+CHUNK 9
+============================================================
+INFECTIONS IN IMMUNE COMPETENT PATIENTS
+competent patients from Botswana ( Microsporidium africanus ) and Sri Lanka ( M. ceylonesis) . Other cases of keratitis have since been identified to be caused by Nosema ocularum and N . corneum (now V. cornea ). Treatment of these infections has often required surgery (keratoplasty and/or corneal transplant). Encephalitozoon spp. and Trachipleistophora anthropophthera corneal  infections  have  been  described  in  contact lens-wearers. These infections have responded to topical therapy. In a report from India on 40 immune competent patients, epidemic keratoconjuctivits has been associated with Microsporidia [12]. Many of these resolved without specific treatment.
+
+============================================================
+CHUNK 10
+============================================================
+INFECTIONS IN PATIENTS WITH IMMUNE DEFICIENCIES
+While the majority of reported infections have been in patients with AIDS (and CD4 counts less than 100 cells/mm 3 ), infections have been seen in organ transplantation patients, patients with various hematologic malignancies and those being treated with immunosuppressive medications (especially antibodies to tumor necrosis factor [TNF]α ). Gastrointestinal infection usually involves chronic diarrhea of 3-10 bowel movements per day, anorexia, weight loss and bloating without associated fever. It is usually caused by E. bieneusi and, occasionally,
+E.  intestinalis; however, other microsporida have also been demonstrated in cases of diarrheal disease (e.g. Anncaliia connori , Vittaforma spp.,  E.  hellem,  E.  cuniculi ).  In  patients  undergoing  liver  and  bone marrow transplantation, clinical manifestations have included watery, non-bloody diarrhea; nausea; and diffuse abdominal pain. Kotler and Orenstein found that 39% of patients with HIV and diarrhea, presenting  to  a  gastroenterology  clinic  had  microsporidosis  and  that  the presence of Microsporidia was associated with wasting, a mean CD4 count of 28 cells/mm 3 and an abnormal D-xylose test result, whereas only  2.6%  of  HIV-infected  patients  without  diarrhea  had  microsporidiosis [13]. Coyle and colleagues, using PCR employing primers to the small subunit rRNA gene of E. bieneusi , also found a significant association  between the  presence of  diarrhea  and Microsporidia in patients with AIDS [1 1].
+Ocular infection in immune compromised hosts has been restricted to the superficial epithelium of the cornea and conjunctiva (i.e. superficial keratoconjunctivitis) (Fig. 104.3). This keratitis rarely progresses to  corneal  ulceration.  Most  patients  present  with  bilateral  coarse punctate epithelial keratopathy and conjunctival inflammation resulting in redness, foreign body sensation, photophobia and changes in visual  acuity  [14].  Biopsy  specimens  examined  with  transmission electron microscopy (TEM) have revealed numerous microsporidian
+
+============================================================
+CHUNK 11
+============================================================
+INFECTIONS IN PATIENTS WITH IMMUNE DEFICIENCIES
+FIGURE 104.3 Encephalitozoon  hellem keratoconjunctivitis. (A) Slit  lamp  examination  demonstrating  punctuate  keratoconjunctivitis, (B) conjunctival scraping stained with Giemsa demonstrating organisms with typical morphology of microsporidia, (C) conjunctival scraping stained with calcoGuor white demonstrating Guorescent spores, (D) TEM of Encephalitozoon hellem in  conjunctival  tissue from a  patient with keratoconjunctivitis. The characteristic coiled polar tube is present in cross section (arrows).
+spores within the corneal and conjunctival epithelium. Of the reports in the literature of microsporidian keratitis caused by Encephalitozoonidae, all but three have been attributed to E. hellem , including three cases originally classified as E. cuniculi. Trachipleistophora spp. has also been associated with keratoconjunctivitis in patients with AIDS and Anncaliia algerae in a patient with hematological malignancy. Ocular disease is usually associated with disseminated disease and examination of urine sediments for can confirm microsporidian spores. Physical  examination  reveals  conjunctival  hyperemia  with  superficial punctate  keratopathy.  Slit  lamp  examination  usually  demonstrates punctate epithelial opacities, granular epithelial cells (with irregular flourescein uptake),  conjunctival  injection,  superficial  corneal  infiltrates and an inflamed anterior chamber.
+
+============================================================
+CHUNK 12
+============================================================
+INFECTIONS IN PATIENTS WITH IMMUNE DEFICIENCIES
+Several  species  of  Microsporidia  have  been  described  as  causing myositis in patients with immune deficiencies, often with associated disseminated  infections.  These  cases  have  presented  with  myalgias, weakness,  elevated  serum  creatinine  phosphokinase  and  aldolase levels, and abnormal electromyography consistent with an inflammatory myopathy. Trachipleistophora hominis has been described in several patients with AIDS as a cause of disseminated disease with an associated  myositis. Trachipleistophora  anthropophthera was  described  in several patients with AIDS having encephalitis associated with myositis. Anncaliia ( Brachiola ) vesicularum and Pleistophora  ronneafiei have been reported as isolated cases of myositis. Myositis was documented to  be  caused  by A.  algerae in  a  patient  with  rheumatoid  arthritis treated with steroids and monoclonal antibody to TNFα (Fig. 104.4). Systemic infection with V. corneae has been reported in a patient with AIDS. In a child with leukemia, skin infection with involvement of the  cellular  elements  of  the  dermis  caused  by A.  algerae has  been reported.
+
+============================================================
+CHUNK 13
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+A confirmed diagnosis of microspordiosis requires parasitologic confirmation of the parasite in a clinical specimen with an appropriate laboratory test. There are several methods useful for diagnosing suspected microsporidiosis.
+FIGURE 104.4 Anncaliia  (Bracheola)  algerae myositis. The  organisms  are found in muscle Fbers (arrow) with inGammatory cells in the surrounding supporting tissue.
+Examination of stool specimens by light microscopy using modified trichrome  stain  (chromotrope  2R)  (Fig.  104.5),  Uvitex  2B  or  calcofluor white is the standard method for diagnosing gastrointestinal microsporidiosis. Overall, the sensitivity of Uvitex 2B and calcofluor white is slightly higher than that of modified trichrome stain; however, the  specificity  of  the  chemofluorescent  stains  is  lower.  Microscopy does not allow identification of microsporidia to the species level.
+
+TABLE 104-2 Treatment Options for Microspordiosis
+
+============================================================
+CHUNK 14
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+All disseminated (systemic) Microsporidian Infections except Enterocytozoon bieneusi, Preferred therapy = Albendazole*. All disseminated (systemic) Microsporidian Infections except Enterocytozoon bieneusi, Dose and duration = 400 mg twice daily × 4 weeks. All disseminated (systemic) Microsporidian Infections except Enterocytozoon bieneusi, Other options/issues = ● If patient has AIDS, initiate or optimize cART regimens with goal of immune reconstitution to CD4 > 100 cells/ μ L. In patients with AIDS and low CD4 counts, immune reconstitution with optimized cART should be considered the intervention of choice along with the concurrent initiation of albendazole. Continue albendazole treatment until CD4 > 200 cells/ μ L ● Fluid support in patients with diarrhea resulting in severe dehydration ● Nutritional supplement for patients with severe malnutrition and wasting ● The pediatric dose of albendazole is 10mg/kg/day not to exceed the adult dose of 800 mg per day. ● Duration of treatment for microsporidiosis is not well established. Relapse may occur on discontinuation of albendazole. Prolonged treatment may be required. Gastrointestinal infections caused by Enterocytozon bieneusi, Preferred therapy = Oral fumagillin. Gastrointestinal infections caused by Enterocytozon bieneusi, Dose and duration = 20 mg three times daily or 60 mg once daily. Gastrointestinal infections caused by Enterocytozon bieneusi, Other options/issues = ● Fumagillin is not available in the USA. Use requires IND to import to the US. Consult with SanoF-Adventis, France ● There is no known pediatric dose adjustment for oral fumagillin ● Thrombocytopenia is a known drug-related adverse reaction ● Oral albendazole results in modest clinical improvement in about 50% of patients in some studies and no improvement in others. Ocular infections, Preferred therapy = Fumagillin solution (Fumidil B 3mg/mL in saline or fumagillin 70 μ g/ml). Ocular infections, Dose and duration = Two drops every 2 hours for 4 days; then 2 drops 4 times daily. Ocular
+
+============================================================
+CHUNK 15
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+infections, Other options/issues = ● Treatment for ocular infection should be continued indeFnitely ● Chronic maintenance therapy may be discontinued if patients: (1) remain asymptomatic with regards to signs and symptoms of microsporidiosis; and (2) sustained CD4 + T-lymphocyte counts > 200 cells/ μ L for ≥ 6 months on ART ● Pediatric dose is topical therapy as per the adult dose ● Ocular infection frequently accompanied by disseminated infection, may also require oral albendazole. *Although albendazole is a Food and Drug Administration-approved drug, there is no approved indication for microsporididosis. Adapted from Wittner M, Weiss LM. The Microsporidia and Microsporidiosis. Washington, DC: ASM Press; 1999:xvii,1:1-553. cART, combined anti-retroviral therapy; IND, investigational new drug application., Preferred therapy = *Although albendazole is a Food and Drug Administration-approved drug, there is no approved indication for microsporididosis. Adapted from Wittner M, Weiss LM. The Microsporidia and Microsporidiosis. Washington, DC: ASM Press; 1999:xvii,1:1-553. cART, combined anti-retroviral therapy; IND, investigational new drug application.. *Although albendazole is a Food and Drug Administration-approved drug, there is no approved indication for microsporididosis. Adapted from Wittner M, Weiss LM. The Microsporidia and Microsporidiosis. Washington, DC: ASM Press; 1999:xvii,1:1-553. cART, combined anti-retroviral therapy; IND, investigational new drug application., Dose and duration = *Although albendazole is a Food and Drug Administration-approved drug, there is no approved indication for microsporididosis. Adapted from Wittner M, Weiss LM. The Microsporidia and Microsporidiosis. Washington, DC: ASM Press; 1999:xvii,1:1-553. cART, combined anti-retroviral therapy; IND, investigational new drug application.. *Although albendazole is a Food and Drug Administration-approved drug, there is
+
+============================================================
+CHUNK 16
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+no approved indication for microsporididosis. Adapted from Wittner M, Weiss LM. The Microsporidia and Microsporidiosis. Washington, DC: ASM Press; 1999:xvii,1:1-553. cART, combined anti-retroviral therapy; IND, investigational new drug application., Other options/issues = *Although albendazole is a Food and Drug Administration-approved drug, there is no approved indication for microsporididosis. Adapted from Wittner M, Weiss LM. The Microsporidia and Microsporidiosis. Washington, DC: ASM Press; 1999:xvii,1:1-553. cART, combined anti-retroviral therapy; IND, investigational new drug application.
+FIGURE 104.5 Enterocytozoon bieneusi in a fecal specimen, visualized with modiFed trichrome stain (chromotrope 2R).
+
+============================================================
+CHUNK 17
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+The  most  widely  used  staining  technique  is  the  Chromotrope  2R method or its modifications. This technique stains the spore and the spore wall a bright pinkish red. Often, a belt-like stripe, which also stains pinkish red, is seen in the middle of the spore. However, this technique is lengthy and time consuming, requiring about 90 min. The 'Quick-Hot Gram Chromotrope technique' cuts down the staining time to less than 10 minutes and provides a good differentiation from the lightly stained background fecal materials so that the spores stand out for easy visualization [15]. The spores stain dark violet and the belt-like stripe is enhanced. In some cases, dark staining Grampositive granules are also clearly seen. Chemofluorescent agents, such as  Calcofluor  white,  are  also  useful  in  the  quick  identification  of spores in fecal smears. The spores measure 0.8-1.4 μ m in the case of E. bieneusi and 1.5-4 μ m in B. algerae , Encephalitozoon spp., V. corneae , and Nosema spp.  If  stool  examination  is  negative  in  the  setting  of chronic  diarrhea  (more  than  two  months'  duration),  endoscopy should be performed. In patients with enteric microsporidiosis undergoing endoscopy, the small intestine has provided the highest diagnostic  yield,  but  organisms  have  also  been  seen  in  colonic  biopsy material.
+Definitive  species  diagnosis  of  microsporidiosis  currently  requires TEM visualization of spore ultrastructure (Fig. 104.3D) and developmental stages or molecular methods (PCR). TEM is expensive, timeconsuming  and  not  feasible  for  routine  diagnosis.  Species-specific rRNA primers for PCR have been described and are available in reference  laboratories  [e.g.  Centers  for  Disease  Control  and  Prevention (CDC)]. Thus, molecular diagnosis with species-specific PCR primers is  commonly believed to be the gold standard for identification of microsporidian species [16].
+
+============================================================
+CHUNK 18
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+As renal involvement with shedding of spores in the urine is common in all of the species of Microsporidia that disseminate, urine specimens should be obtained whenever the diagnosis of microsporidiosis is considered. This has therapeutic implications, as the Microsporidia that disseminate (e.g. Encephalitozoon ) are usually sensitive to albendazole, whereas those that do not disseminate (e.g. E.  bieneusi )  are resistant. In tissue sections (Figs 104.2 and 104.5), touch preparations or corneal scrapings (Figs 104.3B, C), Microsporidia are discernible with  hematoxylin-eosin,  Giemsa,  tissue  Gram  or  chromotrope  2R stains.  Histologically,  microsporidian  spores  are  easily  discernible with a modified tissue chromotrope 2R or tissue Gram stain (BrownHopp or Brown-Brenn) in sections prepared from fixed tissue using routine procedures.
+
+============================================================
+CHUNK 19
+============================================================
+TREATMENT (Table 104-1)
+Microsporidiosis is primarily an opportunistic infection in the immunocompromised host.
+Studies  have  demonstrated  that  immune  reconstitution  can  result in  clinical  response  in  patients  with  microsporidiosis  secondary  to immune dysfunction. Immune reconstitution with cART in patients with AIDS or reversal of iatrogenic immunosuppression, when possible, is an important management principle [2].
+Immune  reconstitution  syndrome  (IRIS)  has  been  reported  in a  patient  with  microsporidiosis  treated  with  anti-retroviral  therapy [17]; however, based on clinical experience, IRIS reactions are not common in this setting. Aspartyl protease inhibitors of HIV have  been  shown  to  inhibit  replication  of E.  intestinalis in  tissue culture.
+Albendazole is a benzimidazole effective against many helminths and protozoa that inhibits  microtubule  assembly.  Albendazole  was initially shown effective in severely immunosuppressed ( < 50 CD4 cells/ ml) patients with AIDS with systemic disease, disseminated infection with E. intestinalis and chronic diarrhea. Treatment with albendazole 400 mg twice daily resulted in a dramatic and rapid clinical resolution of diarrhea and transient elimination of the organism from feces and urine  [18]. In a subsequent small, randomized, double-blind, controlled trial, albendazole at 400 mg twice daily for three weeks led to rapid  clinical  improvement  and  elimination  of  the  pathogen  [19]. Prevention of relapse is best accomplished by immune reconstitution but  albendazole  at  400mg  twice  daily  was  shown  to  significantly delay relapse [19]. Treatment with albendazole for intestinal disease caused by E. bieneusi in patients with AIDS has not proven effective. Albendazole at 400 mg twice daily for one month in patients with chronic diarrhea, weight loss and malabsorption did not clear infection, although there was a statistically significant decrease in bowel movements from seven per day to four per day [20].
+
+============================================================
+CHUNK 20
+============================================================
+TREATMENT (Table 104-1)
+Albendazole  has  also  been  used  for  the  treatment  of  clinical  syndromes caused by microsporidia other than E.  intestinalis although clinical trial data is lacking. Clinical and radiographic improvement was seen in a case of chronic sinusitis caused by E. hellem treated with albendazole 400 mg bid. Marked clinical improvement with albendazole occurred in a patient with disseminated infection caused by E. cuniculi involving the conjunctiva, sinuses, kidneys and lungs. Resolution  of  myositis  was  noted  in  patients  infected  with  a Nosema -like microsporidian and in a case of disseminated infection with myositis caused by T . hominis treated with albendazole. Albendazole as a systemic agent is indicated if the organism is demonstrated in the urine or in nasal smears of patients with keratoconjunctivitis.
+Albendazole is recommended for the treatment of acute microsporidial infections in  immunocompetant non-immune  children in endemic areas and also returning travelers. In a randomized, open study  in  Costa  Rica,  albendazole  at  15 mg/kg/day  twice  a  day  for seven days was effective in improving clinical symptoms and decreasing duration of illness from 10 days to 5 days in children ages 6-36 months [21].The data in returning adult travelers are less robust but if  microsporidial  spores  are  detected  in  a  patent  with  persistent diarrhea, a trial of albendazole would be indicated [22].
+
+============================================================
+CHUNK 21
+============================================================
+TREATMENT (Table 104-1)
+Fumagillin, an antibiotic derived from the fungus Aspergillus fumigatus ,  have in  vitro and in vivo activity against E. cuniculi , E. hellem , E. intestinalis , E. bieneusi , Nucleospora ( Ent .) salmonis , and V. corneae . Fumagillin has been demonstrated in a dose-escalation trial, case reports and a randomized clinical trial to be effective for  the treatment  of human infection with E. bieneusi at a dose of 60 mg/day (20 mg three times daily) for 2 weeks [23]. The main limiting toxicity of treatment was  thrombocytopenia  beginning  about  a  week  after  initiation  of treatment and reaching a nadir three days after the end of treatment. Thrombocytopenia was reversible in 1-2 weeks on stopping fumagillin  treatment.  Complete  blood  counts  should  be  monitored  every other  day  and  the  drug  discontinued  if  platelet  counts  fall  below 75,000 per cubic millimeter. Oral fumagillin at 20 mg/kg 3 or 4 times daily  for  7-10  days  is  also  recommended  in  transplant-associated microsporidiosis  caused  by E.  bienusi ,  although  the  optimal  dose regimen has not been defined [24].
+Solutions of the soluble salt, Fumidil B (fumagillin bicylohexylammonium), applied topically have been demonstrated to be nontoxic to the cornea and treatment of ocular microsporidiosis can be accomplished using a 3-mg/ml solution of Fumidil B in saline (fumagillin 70 μ g/ml) [1 1]. Treatment should probably be continued indefinitely, as recurrence has been reported upon stopping the drops.
+The efficacy of imidazole compounds on microsporidiosis is variable. Other medications used without success in the treatment of gastrointestinal microsporidiosis are azithromycin, metronidazole, paromomycin, sulfamethoxazole and quinacrine.
+
+============================================================
+CHUNK 22
+============================================================
+TREATMENT (Table 104-1)
+Microsporidal keratitis with and without systemic involvement is a specialized clinical manifestation that requires management in conjunction with an ophthalmologist. Topical flouroquinolones as monotherapy or in combination with topical fumagillin, topical steroids and systemic albendazole may all be appropriate depending on the extent of infection [25].
+For a review of drugs used in microsporidiosis in humans and animals see Costa and Weiss [26]. Neither oral nor topical fumagillin is an approved drug by the United States Food and Drug Administration (FDA) and are not easily available in the USA.
+
+============================================================
+CHUNK 23
+============================================================
+PREVENTION
+As  the  Microsporida  that  infect  humans  are  likely  food-  or  waterborne pathogens, standard sanitary measures that prevent contamination of food and water with the urine and feces of animals should decrease the chance for infection. Hand-washing and general hygienic habits probably reduce the chance for contamination of the conjunctiva  and  cornea  in  contact  lens-wearers.  The  presence  of  infective spores in various bodily fluids suggests that universal precautions in healthcare settings and general attention to hand-washing and other personal hygiene measures should be useful in preventing primary infections.  Immune  compromised  patients  may  wish  to  consider using bottled or filtered water in some settings. No prophylactic antiparasitic agents have been identified for these organisms.
+
+============================================================
+CHUNK 24
+============================================================
+REFERENCES
+1. Desportes I, Le Charpentier Y, Galian A, et al. Occurrence of a new microsporidan: Enterocytozoon bieneusi n.g.,  n.  sp.,  in  the  enterocytes  of  a  human patient with AIDS. J Protozool 1985;32:250-4.
+2. Wittner M, Weiss LM. The Microsporidia and Microsporidiosis. Washington, DC: ASM Press; 1999:xvii,1:1-553.
+3. Didier  ES.  Microsporidiosis:  an  emerging  and  opportunistic  infection  in humans and animals. Acta Trop 2005;94:61-76.
+4. Sprague V, Becnel JJ, Hazard EI. Taxonomy of the phylum Microspora. Crit Rev Microbiol 1992;18:285.
+5. Weiss LM, Vossbrinck CR. Microsporidiosis: molecular and diagnostic aspects. Adv Parasitol 1998;40:351-95.
+6. Lee SC, Corradi N, Byrnes EJ, 3rd, et al. Microsporidia evolved from ancestral sexual fungi. Curr Biol 2008;18:1675-9.
+7. Weber R, Bryan RT, Schwartz DA, Owen RL. Human microsporidial infections. Clin Microbiol 1994;7:426.
+
+============================================================
+CHUNK 25
+============================================================
+REFERENCES
+8. Didier  ES,  Stovall  ME,  Green  LC,  et  al.  Epidemiology  of  microsporidiosis: sources and modes of transmission. Vet Parasitol 2004;126:145-66.
+9. Sharma S, Das S, Joseph J, et al. Microsporidial keratitis: need for increased awareness. Surv Ophthalmol 2011;56:1-22.
+10.  Khan  I,  Moretto  M,  Weiss  LM.  Immune  response  against Encephalitozoon cuniculi infection. Microbes Infect 2001;3:401-5.
+11.  Coyle CM, Wittner M, Kotler DP, et al. Prevalence of microsporidiosis (Enterocytozoon bieneusi and Encephalitozoon  [Septata]  intestinalis) in  AIDS related diarrhea as determined by the polymerase chain reaction to microsporidian small subunit ribosomal RNA. Clin Infect Dis 1996;23:1002.
+12.  Das S, Sharma S, Sahu SK, et al. New microbial spectrum of epidemic keratoconjunctivitis: clinical and laboratory aspects of an outbreak. Br J Ophthalmol 2008;92:861-2.
+13.  Kotler  DP,  Orenstein  JM.  Prevalence  of  intestinal  microsporidiosis  in  HIV infected individuals referred for gastroenterological evaluation. Am J Gastroenterol 1994;89:1998.
+14.  Rastrelli  PD,  Didier  ES,  Yee  RW.  Microsporidial  keratitis.  Ophthalmol Clin North Am 1994;7:617.
+15.  Moura H, Schwartz DA, Bornay-Llinares F, et al. A new and improved 'quickhot Gram-chromotrope' technique that differentially stains microsporidian spores in clinical samples, including paraffin-embedded tissue sections. Arch Pathol Lab Med 1997;121:888-93.
+16.  Weiss LM, Vossbrinck CR. Microsporidiosis: molecular and diagnostic aspects. Adv Parasitol 1998;40:351-95.
+
+============================================================
+CHUNK 26
+============================================================
+REFERENCES
+17.  Sriaroon C, Mayer CA, Chen L, et al. Diffuse intra-abdominal granulomatous seeding as a manifestation of immune reconstitution inflammatory syndrome associated  with  microsporidiosis  in  a  patient  with  HIV.  STDS  2008;22: 611-12.
+18.  Molina JM, Oksenhendler E, Beauvais B, et al. Disseminated microsporidiosis due to Septata intestinalis in patients with AIDS: Clinical features and response to albendazole therapy. J Infect Dis 1995;171:245.
+19.  Molina JM, Chastang C, Goguel J, et al. Albendazole for treatment and prophylaxis of microsporidiosis due to Encephalitozoon intestinalis in patients with AIDS:  a  randomized  double-blind  controlled  trial.  J  Infect  Dis  1998;177: 1373-7.
+20.  Dieterich DT, Lew EA, Kotler DP, et al. Treatment with albendazole for intestinal disease due to Enterocytozoon bieneusi in patients with AIDS. J Infect Dis 1994;169:178-83.
+21.  Tremoulet  AH,  Avila-Aguero  ML,  París  MM,  et  al.  Albendazole  therapy  for Microsporidium diarrhea in immunocompetent Costa Rican children. Pediatr Infect Dis J 2004;23:915-18.
+22.  Wichro  E,  Hoelzl  D,  Krause  R,  et  al.  Microsporidiosis  in  travel-associated chronic diarrhea in immune-competent patients. Am J Trop Med Hyg 2005; 73:285-7.
+23.  Molina JM, Tourneur M, Sarfati C, et al. Fumagillin treatment of intestinal microsporidiosis. N Engl J Med 2002;346:1963-9.
+24.  Lanternier  F,  Boutboul  D,  Menotti  J,  et  al.  Microsporidiosis  in  solid  organ transplant recipients: two Enterocytozoon bieneusi cases and review. Transpl Infect Dis 2009;11:83-8.
+
+============================================================
+CHUNK 27
+============================================================
+REFERENCES
+25.  Loh RS, Chan CM, Ti SE, et al. Emerging prevalence of microsporidial keratitis in Singapore: epidemiology, clinical features, and management. Ophthalmology 2009;116:2348-53.
+26.  Costa SF, Weiss LM. Drug treatment of microsporidiosis. Drug Resist Update 2000;3:384-99.
+

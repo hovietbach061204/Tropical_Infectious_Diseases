@@ -1,0 +1,909 @@
+============================================================
+CHUNK 0
+============================================================
+33.1 Yellow Fever
+J Erin Staples, Marc Fischer
+
+============================================================
+CHUNK 1
+============================================================
+Key features
+- Yellow fever is a mosquito-borne viral disease
+- Yellow fever virus is endemic to sub-Saharan Africa and tropical South America and is estimated to cause 200,000 disease cases and 30,000 deaths annually
+- Yellow fever can result in jaundice and hemorrhagic manifestations and is fatal in 20-50% of persons with severe disease
+- Because no treatment exists for yellow fever, prevention through vaccination and the use of personal protective measures is critical to lower disease risk and mortality
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+Yellow fever virus  (YFV),  a  mosquito-borne  flavivirus,  is  present  in tropical areas of Africa and South America (Figure 33.1.1). In humans, the  majority  of  YFV  infections  are  asymptomatic.  Clinical  disease varies from a mild, undifferentiated febrile illness to severe disease with  jaundice  and  hemorrhage.  Because  no  specific  antiviral  treatment exists for yellow fever, prevention is critical to lower disease risk and mortality.
+
+============================================================
+CHUNK 3
+============================================================
+EPIDEMIOLOGY
+The  World  Health  Organization  (WHO)  estimates that YFV  causes 200,000 cases of clinical disease and 30,000 deaths each year. However, the majority of cases and deaths are not recognized because of the predominantly rural nature of the disease and inadequate surveillance and reporting. Over the past few decades, hundreds of cases have been reported annually in South America, primarily among men with occupational exposures in forested areas. In Africa, the number of cases reported  annually varies substantially  (range:  1-5000 cases)  and is likely  attributable  to  variations  in  recognition  and  reporting.  The natural occurrence of disease can also fluctuate, being absent in certain areas  for  years  before  re-appearing.  Delineation  of  affected  areas depends on surveillance for animal reservoirs and vectors, accurate diagnosis and prompt reporting of all human cases [1].
+
+============================================================
+CHUNK 4
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+YFV is a positive-sense RNA virus that belongs to the genus Flavivirus (Family Flaviviridae ). It is antigenically related to West Nile, St Louis encephalitis and Japanese encephalitis viruses. YFV has three transmission  cycles:  jungle,  savannah  and  urban  [2].  The  jungle  cycle involves transmission of the virus between nonhuman primates and tree-hole-breeding mosquito species (i.e. Aedes or Haemagogus spp.) found in the forest canopy. The virus is transmitted via mosquitoes from monkeys to humans when they encroach into the jungle during occupational  or  recreational  activities.  In  Africa,  a  savannah  cycle involves transmission of the virus from tree-hole-breeding Aedes spp. to  humans  living  or  working  in  jungle  border  areas.  In  this  cycle, mosquitoes may also transmit the virus between humans. The urban cycle involves transmission of the virus between humans and urban mosquitoes, primarily Aedes aegypti . Humans infected with YFV experience the highest levels of viremia and are infectious to mosquitoes shortly before the onset of fever and for 3-5 days thereafter. Direct person-to-person transmission of YFV has not been documented, but might theoretically occur through blood transfusion, organ transplantation, intrauterine transmission or breastfeeding.
+
+============================================================
+CHUNK 5
+============================================================
+CLINICAL FEATURES
+The majority of people infected with YFV remain asymptomatic. For those with clinical disease, the incubation period is usually 3-6 days. In its mildest form, yellow fever is a self-limited infection characterized by acute onset of fever and headache. A subset of patients experience other symptoms, including chills, myalgias, lumbosacral pain, anorexia, nausea, vomiting and dizziness [3]. Physical examination may demonstrate  relative  bradycardia  in  relation  to  elevated  body temperature (Faget's sign). The patient is usually viremic during this period, which lasts for approximately 3 days. Most have an uneventful recovery but, in approximately 15% of cases, the illness recurs in a more  severe  form  within  48  hours  following  the  viremic  period. Symptoms  include  fever,  vomiting,  epigastric  pain,  jaundice,  renal insufficiency  and  cardiovascular  instability.  The  virus  is  generally absent from the blood during this phase of symptom recrudescence. A bleeding diathesis with hematemesis, melena, metrorrhagia, hematuria, petechiae, ecchymoses and epistaxis. Physical findings include scleral  and  dermal  icterus,  hemorrhages  and  epigastric  tenderness without hepatic enlargement.
+
+============================================================
+CHUNK 6
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+Laboratory findings in patients with yellow fever vary based on the severity and stage of illness. In the first week, leukopenia may occur; however, during the second week there may be leukocytosis. Hyperbilirubinemia may be present as early as the  third  day  but  usually peaks towards the end of the first week of illness. Elevations of serum transaminase  levels  occur  in  severe  hepatorenal  disease  and  may remain  elevated  for  up  to  2  months  after  onset.  Patients  with
+FIGURE 33.1.1 Areas at risk for yellow fever transmission-Africa (A) and South America (B) , 2009.
+hemorrhagic  manifestations  often  have  elevated  prothrombin  and partial thromboplastin times, decreased platelet counts and fibrinogen, and presence of fibrin-split products.
+Laboratory diagnosis is generally accomplished by testing serum for virus-specific IgM and IgG antibodies. Serologic cross-reactions occur with other flaviviruses (e.g. West Nile or dengue viruses), so positive results  should  be  confirmed  with  a  more  specific  test  (e.g.  plaquereduction neutralization test). During the first 3-4 days of illness, the virus  may  be  detectable  in  the serum  by  isolation  or  reverse transcription (RT)-PCR. However, by the time a diagnosis of yellow fever  is  considered,  the  virus  or  viral  RNA  usually  is  undetectable. Therefore, virus isolation and RT-PCR should not be used for excluding the diagnosis of yellow fever. Immunohistochemical staining of formalin-fixed material can detect YFV antigen in pathologic specimens. Healthcare providers should contact their state or local health department  or  national  laboratories  for  assistance  with  diagnostic testing for YFV infections.
+
+============================================================
+CHUNK 7
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+Preliminary diagnosis is based on the patient's clinical features, yellow fever vaccination status and travel history, including location, time of year and activities [1]. Mild yellow fever cannot be clinically distinguished from a range of other infections. Cases of yellow fever with jaundice must be differentiated from viral hepatitis, malaria, leptospirosis, Congo-Crimean hemorrhagic fever, Rift Valley fever, typhoid, Q fever and typhus, as well as drug-induced and toxic causes of jaundice. Other viral hemorrhagic fevers, which usually present without jaundice,  include:  dengue  hemorrhagic  fever;  Lassa  fever;  Marburg and Ebola virus diseases; and Bolivian, Argentinean and Venezuelan hemorrhagic fevers.
+
+============================================================
+CHUNK 8
+============================================================
+TREATMENT AND PREVENTION
+Although multiple drugs have been evaluated or empirically used for yellow  fever,  none  has  shown  specific  benefit  [4].  Management  is supportive and based on symptoms and the organ systems involved. Rest,  fluids  and  nonsteroidal anti-inflammatory drugs  (NSAIDs) or acetaminophen can relieve milder symptoms of fever and myalgias. Aspirin  should  be  avoided  because  of  the  risk  for  hemorrhagic complications.
+Because  no  treatment  exists,  prevention  through  use  of  personal protective measures and vaccination is critical  to lower disease risk and  mortality.  Mosquito  prevention  measures  that  may  lower  the risk  for  yellow  fever  and  other  vector-borne  infectious  diseases include using insect repellent,  wearing  permethrin-impregnated clothing  and  staying  in  accommodation  with  screened  or  airconditioned rooms.
+A live-attenuated yellow fever vaccine is recommended for those ≥ 9 months  of  age  who  are  traveling  to,  or  living  in,  areas  of  South America  and  Africa  with  a  risk  of  YFV  transmission.  International Health Regulations allow some countries to require proof of yellow fever vaccination (at least 10 days earlier) as a condition of entry for travelers arriving from certain countries to prevent importation and indigenous transmission of YFV. The yellow fever vaccination certificate for international travel is valid for 10 years.
+The  most  common  adverse  events  reported  following  vaccination include fever, headache, myalgias and injection site reactions [5]. Rare, but serious, adverse events following vaccine administration include immediate  hypersensitivity  or  anaphylactic  reactions,  yellow  fever vaccine-associated neurologic disease and  yellow  fever vaccineassociated viscerotropic disease [1]. To minimize the risk for serious adverse  events,  healthcare  providers  should  vaccinate  only  persons who are at risk for exposure to YFV or who require proof of vaccination for country entry, and observe the contraindications and consider the precautions before administering yellow fever vaccine.
+
+============================================================
+CHUNK 9
+============================================================
+REFERENCES
+1.  Centers for Disease Control and Prevention. Yellow fever vaccine: Recommendations  of  the  Advisory  Committee  on  Immunization  Practices  (ACIP). MMWR 2010;59:1-27.
+2.  Barrett AD, Monath TP. Epidemiology and ecology of yellow fever virus. Adv Virus Res 2003;61:291-315.
+3.  Tuboi SH, Costa ZGA, Vasconcelos PFC, Hatch D. Clinical and epidemiological characteristics of yellow fever in Brazil: analysis of reported cases 1998-2002. Trans Roy Soc Trop Med Hyg 2007;101:169-75.
+4.  Monath TP. Treatment of yellow fever. Antiviral Res 2008;78:1 16-24.
+5.  Monath T, Cetron MS, Teuwen DE. Yellow fever vaccine. In: Plotkin SA, Orenstein  WA,  Offit  PA,  eds.  Vaccines,  5th  edn.  Philadelphia:  Saunders  Elsevier; 2008:959-1055.
+
+============================================================
+CHUNK 10
+============================================================
+33.2 Lassa Fever
+Aulasa J Camerlin, Joseph B McCormick
+
+============================================================
+CHUNK 11
+============================================================
+Key features
+- Lassa virus causes Lassa fever, a hemorrhagic disease characterized by fever, generalized weakness, muscle pain, nausea and vomiting with mucosal bleeding
+- Fatality occurs in about 15-30% of hospitalized patients; fatality is associated with endothelial dysfunction leading to intractable hypovolemic shock, gross edema of the head and neck with pulmonary edema, and respiratory distress
+- Lassa fever is endemic to West Africa through persistent infection of Mastomys natalensis , a peridomestic rodent
+- Transmission occurs via direct contact with infected rodents or their secretions, or by close person-to-person contact causing nosocomial spread
+- An estimated 300,000-500,000 cases occur annually in West Africa with approximately 5000 deaths per year
+- The disease can be successfully treated, particularly within the Hrst week of illness, by the antiviral drug ribavirin
+- Synonyms: Lassa virus, Lassa fever
+
+============================================================
+CHUNK 12
+============================================================
+INTRODUCTION
+Lassa virus, a member of the genus Arenavirus (family Arenaviridae ), is the etiologic agent of the hemorrhagic disease Lassa fever. The virus is naturally maintained by peridomestic rodent hosts in which persistent,  lifelong  infection  is  established.  High  titers  of  the  virus  are present in rodent urine and exposed humans may become infected as  accidental  hosts.  The  virus  may  be  transmitted  from  person-toperson. Lassa fever is endemic to West Africa, but, occasionally, cases occur in non-endemic areas among returning travelers. An estimated 300,000-500,000  cases  occur  annually,  resulting  in  approximately 5000 deaths per year. Although Lassa fever was first described in West Africa in the 1950s, the virus was not isolated until 1969 [1-4].
+
+============================================================
+CHUNK 13
+============================================================
+EPIDEMIOLOGY
+Seroconversion to Lassa virus ranges from 5-22% annually among susceptible  (seronegative)  populations  in  endemic  areas.  Among seroconverters,  9-26%  develop  acute  illness.  Between  1  and  18 percent are re-infections. Estimates of prevalence of antibody to Lassa virus  range  from  4-52%  among  populations  in  endemic  areas. Viruses from different geographic areas may vary in virulence. Case fatality rate among the general population can be as low as 1-2%; however, rates increase among hospitalized patients (15 to 30%). At least 20 imported cases of Lassa fever have been seen in the USA, the UK, Germany, the Netherlands, Israel, Japan and Canada [5].
+Lassa virus affects people of all ages, races and gender. However, the only  confirmed  reservoir  of  Lassa  virus  is Mastomys  natalensis ;  the disease is endemic to West Africa. Transmission is suspected to occur through direct contact with infected rodents or their secretions. Transmission  is  highly  associated  with  indiscriminate  food  storage  and catching of rodents. Person-to-person transmission occurs via direct contact  with  fluid  or  secretions  from  infected  persons  including blood, urine, sputum and seminal fluid on exposed cuts or abrasions, or mucous membranes. Nosocomial transmission is usually caused by  injuries  with  needles  and  other  sharp  instruments,  ill-advised surgery on infected patients or exposure to bodily fluids [1-4, 6, 7].
+Symptoms of Lassa fever include: fever; sore throat; cough; vomiting; diarrhea; conjunctivitis;  facial  swelling;  proteinuria;  mucosal bleeding; and pain in the back, abdomen and chest. Neurologic symptoms include loss of hearing, tremors and encephalitis.
+
+============================================================
+CHUNK 14
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+Fatal Lassa fever is directly associated with uncontrolled viral replication  and  severe  intravascular  events,  including  leaky  capillary  syndrome, pulmonary edema and hypovolemic shock. In general, high titers  of  replicating  virus  in  all  organs  are  associated  with  fatality, whereas a rapid drop in viremia and viral clearance is correlated with survival. There is apparently suppressed cellular immune response in fatalities, whereas recovery from Lassa fever is associated with strong adaptive immune responses characterized by a high number of activated circulating monocytes and T cells, as well as Lassa virus-specific CD4 + and CD8 + T cells [1-4, 8, 9].
+The critical events in fatal disease are: intractable hypovolemic shock; convulsions; bleeding; and gross edema of the head and neck with pulmonary edema and respiratory distress. Respiratory distress and/ or convulsions with precipitous drop in body temperature and blood pressure indicate impeding death. Some of these manifestations are caused by disturbances in the intravascular compartment, particularly increased  endothelial  cell  permeability.  Disseminated  intravascular coagulation is not a significant  component of fatal  Lassa fever. No clear  evidence  of  virus  replication  and  microscopic  damage  to endothelium has been demonstrated. An inhibitor of platelet function  has  been  identified  in  the  serum  of  patients  and  nonhuman primates  with  severe  Lassa  fever,  suggesting  that  the  underlying pathology in fatal infections is a disordered cytokine and chemokine response, as has been shown in Ebola and other fatal viral infections [1-4, 9, 10].
+Lassa  virus-specific  IgM  antibodies  are  detected  9-12  days  postinfection; IgG antibodies are seen 12-16 days post-infection. However, antibody titers are not directly associated with viral clearance. Neutralizing antibodies are detected only after recovery and do not appear to be associated with immunity to reinfection [1-4].
+
+============================================================
+CHUNK 15
+============================================================
+CLINICAL FEATURES
+Following an incubation period of 7-18 days, Lassa fever insidiously begins with fever, weakness and malaise. More than 50% of patients experience joint and lumbar pain, and 60% or more have a nonproductive  cough.  Most  patients  also  have  severe  headache,  usually frontal, and a painful sore throat. Many also develop severe retrosternal chest pain and about half have vomiting or diarrhea and abdominal pain. On physical examination, respiratory rate, temperature and pulse rate are elevated and blood pressure may be low. About a third have conjunctivitis and more than two thirds have pharyngitis, half of whom have exudates with diffusely inflamed and swollen posterior pharynx and tonsils but with few, if any, petechiae [1-4].
+Up to a third of hospitalized patients progress to a prostrating illness 6-8 days after onset of fever. They are often dehydrated on admission, with elevated hematocrit. Bleeding occurs in only 15-20% of patients, limited primarily to the mucosal surfaces or, occasionally, conjunctival hemorrhages or gastrointestinal or vaginal bleeding. Edema of the face and neck occurs in severe disease and carries a poor prognosisthis may indicate capillary leakage, rather than cardiac dysfunction or impaired  venous  return.  Approximately  half  of  all  patients  have diffuse abdominal tenderness, but there are no localizing signs and bowel sounds are usually active. On more than one occasion, surgery
+has been performed which is contraindicated. Proteinuria occurs in two thirds of patients and blood urea nitrogen levels may be moderately elevated [1-4].
+
+============================================================
+CHUNK 16
+============================================================
+CLINICAL FEATURES
+Crepitations  in  the  lungs,  and  pleural  and  pericardial  rubs  usually develop in early convalescence in about 20% of patients, occasionally in  association  with  congestive  heart  failure.  Severe  retrosternal  or epigastric pain  seen  in  many patients may be caused by pleural  or pericardial involvement. Most patients have abnormal electrocardiographies  (ECGs)  and  changes  include  nonspecific  ST-segment  and T-wave abnormalities, ST-segment elevation, generalized low-voltage complexes  and  changes  reflecting  electrolyte  disturbance.  None  of these abnormalities correlate with clinical severity of disease, serum aminotransferase  levels  or  eventual  outcome.  Neurologic  signs  are infrequent  but  also  carry  a  poor  prognosis,  progressing  from  fine tremors and confusion to severe encephalopathy  with, or without, generalized seizures but without focal signs. The cerebrospinal fluid (CSF) is usually normal, but there may be a few lymphocytes. Virus titers  are  lower  in the  CSF than  in  the serum. The most significant hematologic changes are in platelet function. Thrombocytopenia is moderate,  even  in  severely  ill  patients,  and  function  is  markedly depressed, or even absent. This abnormality is usually maximal on admission to the hospital and is characteristically present, even when circulating platelet numbers remain normal. A circulating inhibitor of platelet function has been associated with severe disease. The mean white  blood  cell  count  in  Lassa  fever  on  admission  to  hospital  is 6000/mm 3  and there is characteristically early lymphopenia, relative thrombocytopenia  and  sometimes  a  relative,  or  absolute,  neutrophilia.  Neutrophil  counts  as  high  as  30,000/mm 3 have  been recorded in severe disease [1-4, 1 1, 12].
+
+============================================================
+CHUNK 17
+============================================================
+CLINICAL FEATURES
+Serum aminotransferase levels > 150 IU/L  on  admission are  associated with a case-fatality rate of 50%. The level of viremia [blood virus level > 1 X 10 3 mL, median tissue culture infective dose (TCID50) per milliliter] is also associated with increased case fatality. The synergistic effect of both factors is a mortality risk of 80%. Other indicators of poor prognosis include: shock; bleeding; neurologic manifestations; thrombocytopenia; lymphopenia; and leukocytosis with neutrophilia [1-4].
+Lassa fever is a common cause of maternal mortality in many areas of West Africa. In Sierra Leone, Lassa virus accounts for 25% of all maternal deaths. Case fatality rates in pregnancy are as high as 40%, with the worst prognosis occurring in the third trimester. This is true even for women who receive adequate obstetric care. Prognosis for the mother improves with uterine evacuation at any stage of gestation; the highest case fatality rates occur in women with a fetus in utero . Spontaneous  abortion  occurs  in  80%  of  women  who  are  infected with Lassa virus during the first or second trimesters of pregnancy. Stillbirth and neonatal death occur in 75% of maternal cases in the third trimester. Virus titers in the placenta are as high as 10 9 TCID50/ mL. Virus is also shed in milk from infected mothers and is believed to be transmitted through breastfeeding [13].
+Up to 30% of patients with Lassa fever experience an acute loss of hearing in one or both ears; in two-thirds of these patients, the loss is  permanent. Unlike other viral infections that are known to cause hearing loss during the acute stage of infection, hearing loss associated  with  Lassa virus often occurs during the convalescent  stage of infection,  or  even  after  apparent  recovery,  and  is  thought  to  be immune-mediated; early administration of ribavirin has little effect on hearing outcomes [14].
+
+============================================================
+CHUNK 18
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, DIFFERENTIAL DIAGNOSIS AND VACCINATION
+All  persons  performing  procedures  must  wear  adequate  personal protective  equipment  (e.g.  gloves,  mask,  and  gown).  Additionally, freshly made disinfectant (e.g. 10% hypochlorite) must be on site for immediate  disinfection  of  contaminated  materials.  Particular  care must be taken with all sharp instruments. Specimens should be drawn into a vacuum tube system, if available, to minimize risk of spills. Blood should be allowed to clot at room temperature and serum should be separated and placed in a plastic vial with exterior screw cap for storage and/or  transfer.  Urine  should  be  mixed  with  an  equal  amount  of bovine serum albumin at pH 7.4 before freezing. Other fluids should be frozen undiluted. All of these specimens keep best if they are frozen at -70°C or in liquid nitrogen as soon as possible [1-4].
+Lassa fever is difficult to diagnose because its manifestations are not specific  and  easily  confused  with  early  manifestations  of  many common infections (e.g. malaria, arbovirus infections and typhoid fever). In young babies, marked edema has been reported. In older children,  the  disease  may  manifest  as  diarrhea,  pneumonia  or  an unexplained prolonged fever. Among adults in an endemic area, fever with pharyngitis, proteinuria and retrosternal chest pain has a positive predictive  value  for  Lassa  fever  of  81%  and  a  specificity  of  89%. However, this triad's diagnostic sensitivity is only 50%. Bleeding and sore throat have a sensitivity and specificity for fatal outcome of about 90% [1-4].
+
+============================================================
+CHUNK 19
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, DIFFERENTIAL DIAGNOSIS AND VACCINATION
+The standard field  method  for  the  laboratory  over  many years  has been detection of virus-specific antibody by indirect fluorescent antibody  (IFA).  Slides  of  inactivated  Lassa  virus-infected  tissue  culture cells may be stored at -20°C for 6 months or at -70°C for several years. Generally, an IgG titer of at least 16 and an IgM titer of 4 are considered  specific  for  Lassa  infection.  At  least  50%  of  Lassa  fever patients  have  measurable  IgG  or  IgM  IFA  antibodies  by  day  5  of illness, and virtually all have antibodies by days 12-14. The IgG antibodies are directed against the glycoprotein and nucleocapsid of Lassa virus;  they  are  often  present  simultaneously  with  high  levels  of viremia and during the most severe stage of illness. Alternatives to IFA include  indirect  ELISA  to  detect  IgG  and/or  IgM  antibodies  using either recombinant antigens or tissue culture, or reverse ELISA where the  amount  of  antibody  can  be  measured  using  a  directly  labeled antigen or by a labeled monoclonal antibody. Reverse transcription (RT)-PCR techniques detecting fragments of the S gene of the virus coding  for  the  glycoprotein  have  also  been  used  successfully.  This technique is rapid, accurate and sensitive. RNA extraction techniques effectively inactivate the virus, so the procedure carries minimal laboratory hazards [15, 16].
+Lassa  virus  isolation  requires  laboratory  Biosafety  Level  4  (BSL-4) facilities and may easily be isolated in cell culture (the E6 clone of vero  cells)  or  suckling  mice.  It  has  also  been  isolated  from  throat swabs during acute illness, breast milk, spinal fluid, pleural and pericardial transudate, and autopsy material. Virus may be recovered for 1-2 months in urine during convalescence, albeit at low titer [15].
+
+============================================================
+CHUNK 20
+============================================================
+TREATMENT
+Ribavirin, a guanosine analog, is the only antiviral drug that has been successfully used in humans to treat acute Lassa fever. When administered within the first 6 days of illness, ribavirin decreases the case fatality rate from 55% to 5%. A smaller, but still significant, decrease in  fatality  has  also  been  demonstrated  in  patients  treated  later  in illness. Patients treated with ribavirin undergo a significant reduction in viremia, regardless of outcome. The drug is most successful when given  intravenously  as  a  2-g loading  dose,  followed by  1 g  every  6 hours for 4 days, and then 0.5 g every 8 hours for 6 more days. There is some evidence that oral ribavirin may also be effective, particularly when given early in milder cases. Alternatives to ribavirin are currently under investigation. Certain HIV antivirals have been effective in treating Lassa virus infection in cell culture or animal models. Tetherin, a membrane-associated protein that prevents HIV-1 release by retaining progeny  virions  on  cell-surfaces,  inhibits  Lassa  virus-like  particle release in vitro . Zidampidine, an aryl phosphate derivative of azidothymidine (AZT), significantly improves the survival rates of mice challenged with Lassa virus. Stampidine, a nucleoside analog known for its strong antiviral activity against HIV-1 and HIV-2, has also proven effective against Lassa virus in mouse models. Other antiviral strategies include T-705, a pyrazine derivative currently under clinical development for treatment of influenza virus, as well as interferonα and -γ therapies [17-24].
+Fluid, electrolyte, respiratory and osmotic imbalances should be corrected to prevent clinical shock. However, even vigorous support of this kind may be insufficient to prevent fatal progression of advanced disease when antiviral treatment is started late in infection. Furthermore, the tendency of patients to develop pulmonary edema may be exacerbated by injudicious fluid replacement [1-4].
+
+============================================================
+CHUNK 21
+============================================================
+VACCINATION
+Lassa vaccine strategies have evolved from killed to live vaccines. The early killed vaccines invoked good humoral response to Lassa virus proteins, but failed to protect Lassa virus-challenged nonhuman primates. Focus then shifted to activating cellular response. A comprehensive  study  involving  44  nonhuman  primates  evaluated  the efficacy of  recombinant vaccinia viruses  expressing Lassa virus proteins.  The  vaccine  was  highly successful in protecting against lethal disease;  however,  the  vaccinia  platform  was  found  unsuitable  for human use as a result of  potential side  effects,  particularly  among immunosuppressed individuals. The safety profile of another recombinant  vaccine,  vesicular  stomatitis  virus  expressing  the  complete Lassa virus GPC, has yet to be sufficiently explored. The most viable strategy appears to be a reassortment vaccine, ML29, which encodes the NP and GPC of Lassa virus and the Z and L proteins from the Mopeia virus (a non-pathogenic arenavirus). ML29 successfully protected mice, guinea pigs and small nonhuman primates challenged with  Lassa  virus.  Further  safety  studies  must  be  undertaken  to examine the potential dangers of natural re-assortment in this vaccine [25-29].
+
+============================================================
+CHUNK 22
+============================================================
+REFERENCES
+1. McCormick JB. Epidemiology and control of Lassa fever. Curr Top Microbiol Immunol 1987;134:69-78.
+2. McCormick  JB,  Fisher-Hoch  SP.  Lassa  fever.  Curr  Top  Microbiol  Immunol 2002;262:75-109.
+3. McCormick JB, King IJ, Webb PA, et al. A case-control study of the clinical diagnosis and course of Lassa fever. J Infect Dis 1987;155:455.
+4. McCormick JB, Webb PA, Krebs JW, et al. A prospective study of the epidemiology and ecology of Lassa fever. J Infect Dis 1987;155:437-44.
+5. Macher  AM,  Wolfe  MS.  Historical  Lassa  fever  reports  and  30-year  clinical update. Emerg Infect Dis 2006;12:835-7.
+6. Fisher-Hoch SP, Price ME, Craven RB, et al. Safe intensive-care management of a severe case of Lassa fever with simple barrier nursing techniques. Lancet 1985;2:1227-9
+7. Fisher-Hoch  SP,  Tomori  O,  Nasidi  A,  et  al.  Review  of  cases  of  nosocomial Lassa fever  in  Nigeria:  The  high  price  of  poor  medical  practice.  BMJ  1995; 311:857.
+8. Baize S, Marianneau P, Loth P, et al. Early and strong immune responses are associated with control of viral replication and recovery in Lassa virus-infected cynomolgus monkeys. J Virol 2009;83:5890-903.
+10.  Fisher-Hoch SP, Mitchell SW, Sasso DR, et al. Physiologic and immunologic disturbances associated with shock in a primate model of Lassa fever. J Infect Dis 1987;155:465-74.
+11.  Cummins D, Bennett D, Fisher-Hoch SP, et al. Electrocardiographic abnormalities in patients with Lassa fever. J Trop Med Hyg 1989;92:350-5.
+12.  Cummins D, Fisher-Hoch SP, Walshe KJ, et al. A plasma inhibitor of platelet aggregation in patients with Lassa fever. Br J Haematol 1989;72:543-8.
+
+============================================================
+CHUNK 23
+============================================================
+REFERENCES
+13.  Price ME, Fisher-Hoch SP, Craven RB, McCormick JB. A prospective study of maternal and fetal outcome in acute Lassa fever infection during pregnancy. Br Med J 1988;297:584-7.
+14.  Cummins D, McCormick JB, Bennett D, et al. Acute sensorineural deafness in Lassa fever. JAMA 1990;264:2093-6.
+15.  Bausch  DG,  Rollin  PE,  Demby  AH,  et  al.  Diagnosis  and  clinical  virology of Lassa fever as evaluated by enzyme-linked immunosorbent assay, indirect fluorescent-antibody  test,  and  virus  isolation.  J  Clin  Microbiol  2000;38: 2670-7.
+16.  Emmerich P, Thome-Bolduan C, Drosten C, et al. Reverse ELISA for IgG and IgM antibodies to detect Lassa virus infections in Africa. J Clin Virol 2008; 37:277-81.
+17.  Asper M, Sternsdorf T, Hass M, et al. Inhibition of different Lassa virus strains by  alpha  and  gamma  interferons  and  comparison  with  a  less  pathogenic arenavirus. J Virol 2004;78:3162-9.
+18.  Baize S, Kaplon J, Faure C, et al. Lassa virus infection of human dendritic cells and macrophages is productive but fails to activate cells. J Immunol 2004; 172:2861-9.
+19.  Baize S, Pannetier D, Faure C, et al. Role of interferons in the control of Lassa virus  replication  in  human dendritic cells  and  macrophages.  Microb  Infect 2006;8:1194-202.
+20.  Gowen BB, Smee DF, Wong MH, et al. Treatment of late stage disease in a model of arenaviral  hemorrhagic fever: T-705  efficacy and  reduced toxicity suggests an alternative to ribavirin. PLoS One 2008;3:e3725
+21.  Gowen BB, Wong MH, Jung KH, et al. In vitro and in vivo activities of T-705 against arenavirus and bunyavirus infections. Antimicrob Agents Chemother 2007;51:3168-76.
+
+============================================================
+CHUNK 24
+============================================================
+REFERENCES
+22.  McCormick JB, King IJ, Webb PA, et al. Lassa fever: effective therapy with ribavirin. N Engl J Med 1986;314:20-6.
+23.  Sakuma  T,  Noda  T,  Urata  S,  et  al.  Inhibition  of  Lassa  and  Marburg  virus production by tetherin. J Virol 2008;83:2382-5.
+24.  Uckun FM, Venkatachalam TK, Erbeck D, et al. Zidampidine, an aryl phosphate derivative of AZT: in vivo pharmacokinetics, metabolism, toxicity, and anti-viral efficacy against hemorrhagic fever caused by Lassa virus. Bioorg Med Chem 2005;13:3279-88.
+25.  Carrion R, Patterson JL, Johnson C, et al. A ML29 reassortant virus protects guinea pigs against a distantly-related Nigerian strain of Lassa virus and can provide sterilizing immunity. Vaccine 2007;25:4093-102.
+26.  Fisher-Hoch SP, McCormick JB. Lassa fever vaccine: a review. Expert Rev Vaccines 2004;3:103-11.
+27.  Geisbert TW, Jones S, Fritz EA, et al. Development of a new vaccine for the prevention of Lassa fever. PLoS Med 2005;2:e183.
+28.  Lukashevich  IS,  Carrion  R,  Salvato  MS,  et  al.  Safety,  immunogenicity,  and efficacy of the ML29 reassortant vaccine for Lassa fever in small non-human primates. Vaccine 2008;26:5246-54.
+9. Khan SH, Goba A, Chu M, et al. New opportunities for field research on the pathogenesis  and  treatment  of  Lassa  fever.  Antiviral  Research  2008;78: 103-15.
+29.  Lukashevich IS, Patterson UJ, Carrion R, et al. A live attenuated vaccine for Lassa fever made by reassortment of Lassa and Mopeia viruses. J Virol 2005; 79:13934-42.
+
+============================================================
+CHUNK 25
+============================================================
+33.3 South American Hemorrhagic Fevers
+Slobodan Paessler
+
+============================================================
+CHUNK 26
+============================================================
+Key features
+- South American hemorrhagic fevers are a series of similar, geographically restricted hemorrhagic fever syndromes caused by several related "Old World" arenaviruses: Junin virus causes Argentine hemorrhagic fever; Machupo virus causes Bolivian
+hemorrhagic fever; Guanarito virus causes Venezuelan
+hemorrhagic fever; and Sabia virus causes Brazilian
+hemorrhagic fever
+
+============================================================
+CHUNK 27
+============================================================
+Key features-cont'd
+- South American hemorrhagic fever has a 6-14-day prodromic phase and 8-12 days after onset about 20-30% of patients advance to the neurologic and hemorrhagic phase
+- Symptoms include confusion, convulsions, coma and bleeding from body oriHces
+
+============================================================
+CHUNK 28
+============================================================
+INTRODUCTION
+South American arenaviruses cause chronic infections of rodents and severe  disease  in  humans.  Junin  virus  (JUNV),  for  example,  causes Argentine hemorrhagic fever, a disease mostly endemic to the pampas region of Argentina, with about five million people at risk. In addition, increased traveling to and from endemic regions may lead to the importation  of  hemorrhagic  fever  into  non-endemic  metropolitan areas of various countries. In addition to its impact on public health, some of the viruses such as JUNV, possess features that might make them potential biological weapons; JUNV is very stable, highly infectious  and  exhibits  high  morbidity  and  significant  mortality  at  low doses.
+Argentine hemorrhagic fever was first described in 1953 and the virus was  isolated  several  years  later.  A  similar  disease  was  reported  in Bolivia  in  1959  and  the  causative  agent,  Machupo  virus,  was  first isolated in 1965. In 1989, an outbreak of Venezuelan hemorrhagic fever  occurred  among  a  rural  population;  the  isolated  virus  was named Gunarito virus. The most recent isolate  of  South American hemorrhagic fever viruses occurred in Brazil in 1990 where Sabia virus (a causative agent of Brazilian hemorrhagic fever) was isolated. All of these viruses belong to the family of Arenaviridae.
+
+============================================================
+CHUNK 29
+============================================================
+EPIDEMIOLOGY
+South American hemorrhagic fever viruses cause chronic infections of rodents,  with  a  wide  regional  distribution.  Infected  rodents  move freely  in  their  natural  habitat  and  may  invade  human  dwellings. Humans are  infected  through  mucosal  exposure  to  aerosols  or  by direct  contact  of  abraded  skin  with  infectious  material.  Person-toperson transmission is very rare and may occur via direct contact with infected body fluids (e.g. sexual transmission) of a viremic patient; nosocomial infections have also been reported. Nevertheless, agricultural  workers  (mostly  male  adults)  have  historically  been  at  the highest risk for infection while working around potentially infected rodents in fields.
+
+============================================================
+CHUNK 30
+============================================================
+ARGENTINE HEMORRHAGIC FEVER
+Epidemics predominantly occur during the major sugar cane harvesting season in Argentina, with a peak incidence in the month of May, at  the  end  of  the  Argentine  summer.  The  disease  is  four  times  as prevalent in males as in females, and is more prevalent among rural workers  than  in  urban  populations  [1].  The  annual  incidence  of Argentine hemorrhagic fever is positively correlated with local population densities of the reservoir. This epidemiologic pattern is being further modified through vaccination of high-risk populations.
+
+============================================================
+CHUNK 31
+============================================================
+BOLIVIAN HEMORRHAGIC FEVER
+The reservoir for Machupo virus is a species of the genus Calomys. The host species resides in habitats where grassland intergrades into forest and, unlike C. musculinus , thrives in villages and near human habitations. Bolivian hemorrhagic fever tends to be a seasonal disease, with more cases occurring in the dry season, at the peak of agricultural activity. Epidemics in towns may occur during epizootic conditions when rodent densities reach unusually high levels and rodents invade towns  or  villages.  In  1963-1964,  a  Bolivian  hemorrhagic  fever
+- Survivors have a long convalescence period of 1-3 months duration
+- The causative agents of South American hemorrhagic fevers have a signiHcant impact on public health within their endemic regions, with case fatality rates of 10-30%
+epidemic occurred in the village of San Joaquin resulting in 637 cases and 1 13  deaths  among  the  town's  3000 residents [2]. Under  these conditions, transmission to humans is likely from the inhalation of infectious aerosols; however, direct contact of broken skin or mucous membranes  with  rodent  excreta  or  contaminated  fomites,  such  as food,  should  also  be  considered.  Person-to-person  transmission, likely via direct  contact  with  infectious  body  fluids,  may  occur  in familial  or  nosocomial  settings.  Transmission  by  intimate  contact during convalesence is also possible [3].
+
+============================================================
+CHUNK 32
+============================================================
+VENEZUELAN HEMORRHAGIC FEVER
+In 1989, a severe hemorrhagic fever was recognized in the municipality of Guanarito, Guanarito State, Venezuela. The causative agent was soon isolated and shown to be an arenavirus (Guanarito). Guanarito virus is specifically associated with Zygodontomys brevicauda ,  while a second arenavirus, Pirital virus, is associated with co-occurring Sigmodon  alstoni .  While  cases  have  been  observed  throughout  the  year, epidemics appear to have a seasonal peak from November to January, coinciding with maximum agricultural activity in the endemic region. As for Argentine hemorrhagic fever, the highest risk is among adult male agricultural workers. Thus, transmission to humans likely occurs outside the home and is potentially related to agricultural activities [4]. Person-to-person transmission or nosocomial infection has not been observed in Venezuelan hemorrhagic fever patients.
+
+============================================================
+CHUNK 33
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+Usually, hemorrhage is present in many organs and effusions can be found in serous cavities. There is widespread necrosis, which may be present  in  any  organ  system,  varying  from  modest  and  focal  to massive in extent. Liver and lymphoid systems are usually extensively involved,  and  the  lung  regularly  has  varying  degrees  of  interstitial pneumonitis, diffuse alveolar damage and hemorrhage. The inflammatory  response  is  usually  minimal.  Argentine  hemorrhagic  fever during  pregnancy  is  rare;  however,  congenital  malformations,  fetal death and death of neonates have been reported [5]. Children tend to have a milder clinical course but severe, and even fatal, disease has been seen.
+
+============================================================
+CHUNK 34
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+South American hemorrhagic fevers resemble one another but Argentine  hemorrhagic  fever  is  the  best  described.  The  onset  of  clinical disease is insidious, with malaise, anorexia, chills, headache, myalgias and  fever  (38-39°C).  A  few  days  later,  patients  develop  constitutional,  gastrointestinal,  neurologic  and  cardiovascular  signs  and symptoms.  Low  backache,  retro-orbital  pain,  nausea  or  vomiting, epigastric  pain,  photophobia,  dizziness,  and  constipation  or  mild diarrhea might be present in patients. Common absence of productive cough or nasal congestion is helpful in distinguishing the initial symptoms of Argentine hemorrhagic fever from those of influenza or other acute respiratory infections.
+As with many other infectious diseases, the first  clinical  manifestations of South American hemorrhagic fevers are nonspecific and can be confused with several acute febrile conditions, therefore the history of potential exposure to infected rodents is critical in the case of South American hemorrhagic fevers. Among the infectious diseases, the differential diagnosis includes typhoid fever, hepatitis, infectious mononucleosis,  leptospirosis,  hantavirus  pulmonary  syndrome,  dengue, dengue hemorrhagic fever and rickettsioses. Malaria should also be considered in endemic areas. Diseases presenting with hematologic or  neurologic  alterations,  such  as  intoxications,  rheumatic  diseases and blood dyscrasias may also be mistaken for hemorrhagic fever. In the respective endemic areas, or in patients with a history of travel to the specific geographic regions, a febrile syndrome with proteinuria, leukopenia and thrombocytopenia is suspicious of one of the South American hemorrhagic fever [6, 7].
+
+============================================================
+CHUNK 35
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+Laboratory diagnosis . Final diagnosis depends on demonstration of the infecting virus, or one of its products, in acute serum samples. Reverse transcription-PCR is usually the most sensitive and produces amplicons that can be sequenced for genetic analysis. In general, viremia and  antigenemia  are  readily  detected  during  the  acute  phase  and disappear as the patient recovers. The presence of viral nucleic acid can be detected during the same period and, perhaps, one or two days afterwards. Seroconversion, mainly IgM antibodies, may be detectable during illness and usually appears early in convalescence. Diagnosis of initial  patients  in  any  outbreak,  particularly  if  there  are  unusual features, benefits from the study of virus isolates and classic serology. Most of the hemorrhagic fever viruses are hazardous and should only be isolated or studied under biosafety level 4 (BSL4) containment. Ideally, blood samples from patients should be collected early in the course of illness, and both serum and blood clot should be frozen as soon as possible.  A  second  sample  should be  obtained before discharge for comparative serology. In fatal cases, a full autopsy should be performed, if possible, with a complete set of organ biopsy material  collected  in  formalin  for  diagnostic  studies:  spleen,  liver  and lymph nodes should be collected frozen for virus isolation. Classic histopathology  is  often  useful  if  yellow  fever,  Rift  Valley  fever  or  a filovirus infection are suspected as it can distinguish between them; it  is  also  helpful  in  diagnosing  some  of  the  confounding  diseases. Immunohistochemistry on fixed tissues can usually make a definitive diagnosis possible.
+Precautions  appropriate  to  each  virus  should  be  taken  to  prevent infection while processing samples or performing a necropsy. Frozen samples  should  be  appropriately  packed  and,  whenever  possible, shipped on dry ice, although diagnoses can sometimes be made on mishandled specimens. The receiving laboratory should be advised of the shipment, its estimated time of arrival and the waybill number to allow for tracing the materials if, as often happens, there is a delay en route .
+
+============================================================
+CHUNK 36
+============================================================
+TREATMENT
+Argentine  hemorrhagic fever has a 6-14-day prodromic phase and 8-12 days following its onset, about 20-30% of patients advance to the  neurologic  and  hemorrhagic  phase  which  involves  symptoms such as confusion, convulsions, coma and bleeding from body orifices  [6,  7].  At  this  point,  the  case  fatality  rate  can  be  variable  but overall it is 10-30% and survivors of this phase enter a long convalescence  period  of  1-3  months'  duration  [6,  7].  Current  recommended therapy of Argentine hemorrhagic fever involves treatment with immune plasma from convalescent patients; this is very effective if started in the first week of disease.
+
+============================================================
+CHUNK 37
+============================================================
+SUPPORTIVE TREATMENT
+Supportive  treatment  consists  of  adequate  hydration,  symptomatic measures  and  proper  management  of  the  neurologic  alterations, blood loss, shock and additional, superimposed infections. Intramuscular and subcutaneous injections are contraindicated because of the risk of hematomas.
+In  the  Argentine  hemorrhagic  fever-endemic  area,  several  observations have been made. Pneumonia is the most common secondary bacterial infection and is often accompanied by radiographic changes and an increase in fever, but not by leukocytosis; it usually responds to  antibiotics.  Transfusions  are  occasionally  required  but  most  of the severe forms are neurologic. It is useful to sedate agitated patients with diphenhydramine or diazepam; diazepam also gives some protection  against  seizures.  Cerebral  edema  may  require  both  steroids and mannitol.
+
+============================================================
+CHUNK 38
+============================================================
+ANTIVIRAL THERAPY
+Immune  plasma  therapy  can  ameliorate  the  immediate  disease symptoms and reduce mortality if administered during the prodromic phase but in about 10% of cases it results in a late neurologic syndrome  caused  by  unknown  mechanisms  [6,  7].  Further  limitations  to  the  current  use  of  this  treatment  are  dictated  by  a  short supply of plasma. Both in vitro and in vivo studies have documented the  prophylactic  and  therapeutic  value  of  the  nucleoside  analogue ribavirin against several arenaviruses, including JUNV [8, 9]. Importantly,  ribavirin  reduced  both  morbidity  and  mortality  in  humans associated  with  JUNV  infections  if  given  early  in  the  course  of clinical  disease  [10].  The  mechanisms  by  which  ribavirin  exerts  its anti-arenaviral action remain poorly understood, but likely involve targeting  different  steps  of  the  virus  life  cycle.  Some  limitations  of the  use  of  ribavirin  are:  (i)  its  often,  and  significant  side  effects, including  anemia  and  congenital  disorders;  and  (ii)  the  need  for intravenous administration for optimal efficacy. Several inhibitors of inosine monophosphate dehydrogenase, the S-adenosylhomocysteine hydrolase,  a  variety  of  sulfated  polysaccharides,  phenotiazine  compounds,  brassinosteroids  and  myristic  acid  have  been  reported  to have  anti-arenaviral  activity.  However,  these  compounds  display only modest and  rather non-specific  effects associated with  significant toxicity.
+
+============================================================
+CHUNK 39
+============================================================
+PREVENTIVE MEDICINE
+The observation that the prototype XJ strain of JUNV lost virulence for  guinea pigs  after serial  passages in newborn mice led to efforts aimed at developing a live-attenuated vaccine against Argentine hemorrhagic  fever.  This  resulted  in  the  generation  of  Candid1,  which was derived from the 44th mouse brain passage of the XJ strain of JUNV and found to be attenuated in guinea pigs. Preclinical studies at  the  United  States  Army  Medical  Research  Institute for  Infectious Diseases  (USAMRIID)  supported  the  safety,  immunogenicity  and protective  efficacy  of  Candid1  in  both  guinea  pigs  and  rhesus macaques, showing median protective doses of 34 and < 16 plaque forming units (pfu) in guinea pigs and rhesus macaques, respectively. Subsequent  clinical  studies  involving  agricultural  workers  in  the JUNV endemic area have shown Candid1 to be an effective and safe vaccine in humans [1 1]. In 2006, the regulatory agency of Argentina granted this Candid 1 vaccine approval for human use exclusively in Argentina.
+Studies  addressing  long-term  immunity  and  safety  have  not  been conducted  in  the  USA.  Experimental  data  also  exist  that  would support the cross-protection of this vaccine against Machupo virus; however, no clinical studies were performed.
+
+============================================================
+CHUNK 40
+============================================================
+REFERENCES
+1. Mills,JN, Ellis BA, Childs JE, et al. Prevalence of infection with Junin virus in rodent populations in the epidemic area of Argentine hemorrhagic fever. Am J Trop Med Hyg 1994;51:554-62.
+2. Johnson KM, Halstead SB, Cohen SN. Hemorrhagic fevers of Southeast Asia and  South  America:  a  comparative  appraisal.  Prog  Med  Virol  1967;9: 105-58.
+3. Douglas R, Wiebenga N, Couch R. Bolivian hemorrhagic fever probably transmitted by personal contact. Am J Epidemiol 1965;82:8591.
+4. Salas R, Pacheco ME, Ramos B, et al. Venezuelan haemorrhagic fever. Lancet 1991;338:1033-6.
+5. Briggiler A, Levis S, Enria DA, Maiztegui JI. Argentine hemorrhagic fever in pregnant women. Medicina (Buenos Aires) 1990;50:443.
+6. Enria DA, Barrera Oro, JG. Junin virus vaccines. Curr Top Microbiol Immunol 2002;263:239-61.
+7. Peters  CJ.  Human  infection  with  arenaviruses  in  the  Americas.  Curr  Top Microbiol Immunol 2002;262: 65-74.
+8. Damonte EB, Coto CE. Treatment of arenavirus infections: from basic studies to the challenge of antiviral therapy. Adv Virus Res 2002;58:125-55.
+10.  McKee KT, Jr,  Huggins JW, Trahan  CJ, Mahlandt  BG. Ribavirin  prophylaxis and therapy for experimental argentine hemorrhagic fever. Antimicrob Agents Chemother 1988;32:1304-9.
+11.  Maiztegui JI, Kelly T, McKee KT, Jr, et al. Protective efficacy of a live attenuated vaccine against Argentine hemorrhagic fever. AHF Study Group. J Infect Dis 1998;177:277-83.
+9. Andrei G, De Clercq E. Molecular approaches for the treatment of hemorrhagic fever virus infections. Antiviral Res 1993;22:45-75.
+
+============================================================
+CHUNK 41
+============================================================
+33.4 Ebola and Marburg Virus Infections
+Amy L Hartman
+
+============================================================
+CHUNK 42
+============================================================
+Key features
+- The filoviruses Ebola and Marburg cause sporadic outbreaks of severe viral hemorrhagic fever
+- Mortality among infected patients ranges from 40-90%
+- Filoviruses are transmitted by contact of mucous membranes with infected bodily fluids
+- Disease begins abruptly with high fever, myalgia and possible hemorrhagic symptoms, including rash and bleeding from mucosal and venipuncture sites. Late-stage symptoms include delirium, convulsions, shock and coma
+- Isolation of suspected patients and barrier nursing practices should be strictly followed to prevent nosocomial transmission. Samples from suspected patients should be handled following Biosafety Level (BSL)-3 precautions. Once filovirus infection is confirmed, both patients and samples should only be handled under BSL-4 conditions
+- Supportive therapy and maintenance of fluid and electrolyte balance are the only recommended treatments at this time
+
+============================================================
+CHUNK 43
+============================================================
+INTRODUCTION
+Ebola and Marburg viruses are the causative agents of a severe form of  viral  hemorrhagic  fever.  Both  viruses  belong  to  the Filoviridae family, which contains two genera and a newly proposed 3rd genus: Ebolavirus,  Marburgvirus, and Cuevavirus (tentative)  [1]. The  genome of all filoviruses is a linear, non-segmented, single-stranded RNA molecule that is of a negative polarity. The Ebolavirus genus consists of five species: Zaire, Sudan, Reston, Tai Forest and the newly discovered Bundibugyo; the Marburgvirus genus  contains  only  one  species,  termed Marburg marburgvirus (MARV) [2, 3]. The proposed Cuevavirus genus contains one species ( Lloviu cuevaviru ).
+All filoviruses are classified as Category A Select Agent pathogens in the USA owing to the fact that they are easily transmitted between humans,  cause  high  mortality  with  the  potential  for  major  public health  impact,  can  cause  public  panic  and  disruption,  and  require special  action  for  public  health  preparedness.  Filoviruses  are  also infectious by aerosol under experimental settings, which adds to the concern for their use  as  a  bioterror  weapon  [4,  5].  Possession  and use of these viruses in the research setting is tightly regulated in the
+USA  by  the  Centers  for  Disease  Control  and  Prevention  (CDC) Select  Agent  Program  following  the  guidelines  of  the  Select  Agent Regulations.  As  a  result  of  these  biosafety  concerns,  research  with filoviruses is approved for use only at Biosafety Level (BSL)-4, which provides  the  highest  level  of  protection  for  both  the  laboratory worker and the environment.
+
+============================================================
+CHUNK 44
+============================================================
+EPIDEMIOLOGY
+Filovirus outbreaks occur sporadically in Africa and are characterized by high mortality and a high incidence of nosocomial transmission (Table 33.4-1)[2]. The first disease caused by a filovirus was Marburg hemorrhagic fever, which broke out in 1967 in Germany and Yugoslavia after laboratory workers contracted the virus from infected primates  recently  imported  from  Uganda.  A  total  of  3 1  cases  were identified and the mortality among these cases was 23%. Outbreaks of Marburg hemorrhagic fever have occurred sporadically since the original discovery. The largest known Marburg hemorrhagic fever outbreak occurred in northeastern  Angola in the spring of 2005, with over 250 cases identified and 90% mortality.
+Ebola  hemorrhagic  fever  was  first  identified  in  two  separate  large outbreaks occurring simultaneously in 1976-one in the Democratic Republic  of  the  Congo  and  the  other  in  Sudan.  These  two  initial outbreaks were later identified as being caused by two separate species of virus: Zaire ebolavirus (EBOV) and Sudan ebolavirus (SUDV). These two viruses have been responsible for the majority of Ebola outbreaks since 1976, with EBOV generally being the most deadly of all Ebola species (Table 33.4-1).
+The  remaining  three  species  of  Ebola  virus  ( Tai  Forest  ebolavirus (TAFV), Reston ebolavirus (RESTV), and Bundibugyo ebolavirus (BDBV)) have occurred less frequently. TAFV has only been known to cause a single  nonfatal  infection  acquired  during  the  necropsy  of  a  dead chimpanzee. The newly identified, and genetically distinct, BDBV was responsible  for  an  outbreak  in  2007-2008  in  Uganda,  resulting  in over 100 cases with a fatality of 42% [6].
+
+============================================================
+CHUNK 45
+============================================================
+EPIDEMIOLOGY
+RESTV was discovered during an investigation of hemorrhagic fever deaths  in  primates  in  a  quarantine  facility  in  Reston,  Virginia  in 1989. Primates imported from a single export facility in the Philippines were responsible for this and several subsequent outbreaks in primate facilities in the USA and Italy. Nine workers in the affected USA and Filippino facilities were identified as having been infected with the virus, but none of the workers developed disease, suggesting that RESTV may be less virulent or non-pathogenic in humans. RESTV  was  also  recently  detected  in  pigs  on  commercial  farms  in the Philippines, with no known cases of disease in humans.
+The natural  reservoir  for  filoviruses  has  remained  elusive  for  some time, but, historically, bats have been a suspected reservoir. A number
+
+============================================================
+CHUNK 46
+============================================================
+EPIDEMIOLOGY
+Zaire ebolavirus, TABLE 33.4-1 List of Filovirus Outbreaks.Location = . Zaire ebolavirus, # of Cases = . Zaire ebolavirus, Fatality (%) = . 1976, TABLE 33.4-1 List of Filovirus Outbreaks.Location = Democratic Republic of the Congo. 1976, # of Cases = 318. 1976, Fatality (%) = 88. 1977, TABLE 33.4-1 List of Filovirus Outbreaks.Location = Democratic Republic of the Congo. 1977, # of Cases = 1. 1977, Fatality (%) = 100. 1994, TABLE 33.4-1 List of Filovirus Outbreaks.Location = Gabon. 1994, # of Cases = 49. 1994, Fatality (%) = 65. 1995, TABLE 33.4-1 List of Filovirus Outbreaks.Location = Democratic Republic of the Congo. 1995, # of Cases = 315. 1995, Fatality (%) = 88. 1996 (spring), TABLE 33.4-1 List of Filovirus Outbreaks.Location = Gabon. 1996 (spring), # of Cases = 37. 1996 (spring), Fatality (%) = 57. 1996 (autumn), TABLE 33.4-1 List of Filovirus Outbreaks.Location = Gabon. 1996 (autumn), # of Cases = 60. 1996 (autumn), Fatality (%) = 75. 2001-02, TABLE 33.4-1 List of Filovirus Outbreaks.Location = Gabon. 2001-02, # of Cases = 123. 2001-02, Fatality (%) = 79. 2003 (spring), TABLE 33.4-1 List of Filovirus Outbreaks.Location = Republic of Congo. 2003 (spring), # of Cases = 143. 2003 (spring), Fatality (%) = 90. 2003 (autumn), TABLE 33.4-1 List of Filovirus Outbreaks.Location = Republic of Congo. 2003 (autumn), # of Cases = 35. 2003 (autumn), Fatality (%) = 83. 2005, TABLE 33.4-1 List of Filovirus Outbreaks.Location = Republic of Congo. 2005, # of Cases = 12. 2005, Fatality (%) = 75. 2007, TABLE 33.4-1 List of Filovirus Outbreaks.Location = Democratic Republic of
+
+============================================================
+CHUNK 47
+============================================================
+EPIDEMIOLOGY
+the Congo. 2007, # of Cases = 264. 2007, Fatality (%) = 71. 2008, TABLE 33.4-1 List of Filovirus Outbreaks.Location = Democratic Republic of the Congo. 2008, # of Cases = 32. 2008, Fatality (%) = 47. Sudan ebolavirus, TABLE 33.4-1 List of Filovirus Outbreaks.Location = . Sudan ebolavirus, # of Cases = . Sudan ebolavirus, Fatality (%) = . 1976, TABLE 33.4-1 List of Filovirus Outbreaks.Location = Sudan. 1976, # of Cases = 284. 1976, Fatality (%) = 53. 1979, TABLE 33.4-1 List of Filovirus Outbreaks.Location = Sudan. 1979, # of Cases = 34. 1979, Fatality (%) = 65. 2000-01, TABLE 33.4-1 List of Filovirus Outbreaks.Location = Uganda. 2000-01, # of Cases = 425. 2000-01, Fatality (%) = 53. 2004, TABLE 33.4-1 List of Filovirus Outbreaks.Location = Sudan. 2004, # of Cases = 17. 2004, Fatality (%) = 42. Tai Forest ebolavirus, TABLE 33.4-1 List of Filovirus Outbreaks.Location = . Tai Forest ebolavirus, # of Cases = . Tai Forest ebolavirus, Fatality (%) = . 1994, TABLE 33.4-1 List of Filovirus Outbreaks.Location = Cote d'Ivoire. 1994, # of Cases = 1. 1994, Fatality (%) = 0. Bundibugyo ebolavirus, TABLE 33.4-1 List of Filovirus Outbreaks.Location = . Bundibugyo ebolavirus, # of Cases = . Bundibugyo ebolavirus, Fatality (%) = . 2007-08, TABLE 33.4-1 List of Filovirus Outbreaks.Location = Uganda. 2007-08, # of Cases = 131. 2007-08, Fatality (%) = 42. Reston ebolavirus, TABLE 33.4-1 List of Filovirus Outbreaks.Location = . Reston ebolavirus, # of Cases = . Reston ebolavirus, Fatality (%) = . 1989-90, TABLE
+
+============================================================
+CHUNK 48
+============================================================
+EPIDEMIOLOGY
+33.4-1 List of Filovirus Outbreaks.Location = USA. 1989-90, # of Cases = 4. 1989-90, Fatality (%) = 0. 1992, TABLE 33.4-1 List of Filovirus Outbreaks.Location = Italy. 1992, # of Cases = 0. 1992, Fatality (%) = 0. 1996, TABLE 33.4-1 List of Filovirus Outbreaks.Location = USA. 1996, # of Cases = 0. 1996, Fatality (%) = 0. 2008, TABLE 33.4-1 List of Filovirus Outbreaks.Location = Philippines. 2008, # of Cases = 6. 2008, Fatality (%) = 0. Marburg marburgvirus, TABLE 33.4-1 List of Filovirus Outbreaks.Location = . Marburg marburgvirus, # of Cases = . Marburg marburgvirus, Fatality (%) = . 1967, TABLE 33.4-1 List of Filovirus Outbreaks.Location = Germany/Yugoslavia. 1967, # of Cases = 31. 1967, Fatality (%) = 23. 1975, TABLE 33.4-1 List of Filovirus Outbreaks.Location = South Africa. 1975, # of Cases = 3. 1975, Fatality (%) = 33. 1980, TABLE 33.4-1 List of Filovirus Outbreaks.Location = Kenya. 1980, # of Cases = 2. 1980, Fatality (%) = 50. 1987, TABLE 33.4-1 List of Filovirus Outbreaks.Location = Kenya. 1987, # of Cases = 1. 1987, Fatality (%) = 100. 1998-2000, TABLE 33.4-1 List of Filovirus Outbreaks.Location = Democratic Republic of the Congo. 1998-2000, # of Cases = 154. 1998-2000, Fatality (%) = 83. 2005, TABLE 33.4-1 List of Filovirus Outbreaks.Location = Angola. 2005, # of Cases = 252. 2005, Fatality (%) = 90. 2007, TABLE 33.4-1 List of Filovirus Outbreaks.Location = Uganda. 2007, # of Cases = 4. 2007, Fatality (%) = 25. 2007, TABLE 33.4-1 List of Filovirus Outbreaks.Location = Uganda. 2007, # of Cases = 1.
+
+============================================================
+CHUNK 49
+============================================================
+EPIDEMIOLOGY
+2007, Fatality (%) = 0. 2008, TABLE 33.4-1 List of Filovirus Outbreaks.Location = Uganda. 2008, # of Cases = 1. 2008, Fatality (%) = 100
+of outbreaks of EBOV and MARV in humans have been associated with  bat  caves  in  both  Uganda  and  Gabon.  Recently,  MARV  was isolated from Egyptian fruit bats in a cave in Uganda; the circulating bat  isolates  were  genetically  similar  to  the  virus  found  in  humans infected  in  that  region  [7].  While  EBOV  has  not  yet  been  isolated from bats, Ebola genetic sequences have been detected by PCR and Ebola-specific IgG antibodies have been detected in a number of bat species [8, 9]. The mechanism by which bats shed and transmit the viruses to humans is currently under investigation.
+
+============================================================
+CHUNK 50
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+Filoviruses  spread  through  the human  population by  close contact with sick patients [10]. Virus-containing bodily fluids include blood, vomitus, saliva, stool, semen, breast milk and tears. Transmission of filoviruses requires close proximity, such as handling fomites or direct contact  with  blood  or  bodily  fluids  leading  to  mucous  membrane exposure.  No  true aerosol  transmission  between  humans  has  been documented, but both viruses cause disease in primates after experimental aerosol infection [4, 5]. Virus transmission has not been documented during the asymptomatic incubation period.
+In Africa, deficient barrier nursing practices, poor sanitary conditions and frequent re-use of needles has caused transmission of filoviruses to  healthcare  workers.  Unfortunately,  nosocomial transmission  has contributed  significantly  to  the  spread  of  filovirus  outbreaks  [1 1]. In addition, traditional healers have been implicated in the spread of both Ebola and Marburg viruses through the use of unsterilized blades or needles [1 1, 12]. Another potential source of virus transmission during filoviral outbreaks is known to occur during traditional burial ceremonies [1 1, 12], as family members wash and prepare the deceased body for burial.
+The severe disease caused by filoviruses can be attributed to rapid viral replication, host immune suppression induced by the virus and vascular  dysfunction  [13].  Macrophages  and  dendritic  cells  appear  to play a key role because they support high levels of virus replication and  initiate  virus  dissemination  from  the  site  of  infection  to  the lymph  nodes.  The  virus  replicates  rapidly  in  a  variety  of  organs, including the liver and spleen, causing extensive cell death. Infected dendritic cells are dysfunctional in their ability to present viral antigens and co-stimulate T cells. Infected macrophages secrete high levels of  inflammatory  cytokines,  resulting  in  immune  dysregulation. Finally,  macrophages  over-express  tissue  factor which is thought to contribute to disseminated intravascular coagulation and the vascular impairment seen in filovirus-infected patients [14].
+
+============================================================
+CHUNK 51
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+Pathologic  investigations  performed  on  patients  with  Ebola  and Marburg infection all reveal extensive necrosis in a variety of organs, including the liver, spleen, kidney, thymus, lymph nodes and reproductive organs [15]. In the liver, hepatocellular necrosis is widespread and an exceedingly large number of virus particles are present. Inclusion bodies are often visible in intact cells.
+
+============================================================
+CHUNK 52
+============================================================
+CLINICAL FEATURES
+The  incubation  period  for  filoviruses  can  be  as  short  as  2  days  or as  long as 2 1 days [3].  Illness begins abruptly with nonspecific flulike symptoms (chills, fever, myalgia, general malaise) (Fig. 33.4.1). Subsequent  symptoms  often  include  lethargy,  nausea,  vomiting, abdominal pain, anorexia, diarrhea, coughing, headache and hypotension. Hemorrhagic manifestations are not universal and generally develop during the time of peak illness. These include a rash, easy bruising, nosebleeds, bleeding from venipuncture sites and bleeding from mucosal sites, especially the gastrointestinal and genitourinary tracts.
+Early  symptoms  are  similar  in  survivors  and  non-survivors.  Subsequently, fatal cases progress to more severe symptoms by 7-14 days after the onset of illness, while survivors begin to recover at this time. Survivors  also  have  100-  to  1000-fold  lower  levels  of  viremia  and
+FIGURE  33.4.1 Symptoms  of  viral  hemorrhagic  fever  caused  by  Ebola and Marburg Viruses.
+higher levels of virus-specific antibodies compared  with  fatal  cases. Shock and coma often precede death in fatal cases.
+Survivors of filoviral infections experience a prolonged convalescence which is characterized by myalgia, arthralgia, muscle weakness, hepatitis, ocular disease, myelitis, hearing loss and even psychosis. During early  convalescence,  virus  can  be  detectable  in  immunologically protected sites of the body, particularly the uveal and seminal tracts. While long-term viral shedding is not thought to occur in filovirusinfected patients, infectious virus can be detected in genital secretions for up to 80 days post-onset of illness [3]. Recovering patients should be counseled to take adequate precautions to prevent sexual transmission during this time period.
+
+============================================================
+CHUNK 53
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+In patients presenting with a history of travel to an area of Africa with an ongoing filovirus outbreak, the following clinical criteria should be considered in suspected cases: high fever ( > 38°C for less than 3 weeks' duration), muscle pain and at least two of the following hemorrhagic symptoms: rash, nosebleed, vomiting of blood, coughing of blood,  or  blood  in  stools  [16].  Laboratory  workers  with  a  known occupational exposure (needlestick, animal bite) should be isolated until further testing can be conducted.
+As  nosocomial  transmission  of  filoviruses is  a  primary  mechanism of outbreak amplification [1 1],  the utmost  caution  should be  used when  treating  suspected  cases.  Clinical  care  of  suspected  filovirus patients should follow BSL-3 practices at a minimum, which requires the use of  barrier gowns, two  pairs of gloves, eye  protection and  a mask or N95 respirator. Airborne precautions and negative-pressure rooms should be used, if available. The use of double-gloves followed by  hand-washing  immediately  after  interaction  with  patients  is critical  in  preventing  potential  exposure  of  mucous  membranes. Impermeable liquid-barrier gowns should be worn along with leg and shoe covers. The use of face shields and/or eye goggles is highly recommended. Surgical masks and/or N95 respirators should be used, if available. Splashes of bodily fluids to the eyes or mouth have proven to  be  the  unfortunate  source  of  many  nosocomial  transmission events.
+Local and state health departments should be notified of suspected cases.  Diagnostic  confirmation  can  only  be  obtained  by  sending samples to an international reference laboratory. Samples from suspected patients should be handled minimally and with the utmost caution. A class II biosafety cabinet should be used to process clinical specimens and, at a minimum, BSL-3 practices should be used. Once filovirus  infection  is  confirmed  by  a  reference  laboratory,  samples should be handled only at BSL-4.
+International reference laboratories have a range of assays available for testing  and identifying filovirus  samples [2]. Routine laboratory tests used to diagnose suspected patients include ELISA (to detect viral antigen or the presence of IgM or IgG antibodies), virus isolation and reverse  transcription  (RT)-PCR.  Blood  and  serum  are  the  samples most preferred for diagnostic testing; however, oral and nasal swabs are sufficient [17].
+
+============================================================
+CHUNK 54
+============================================================
+DIFFERENTIAL DIAGNOSIS
+The  differential  diagnosis  for  filovirus  infections  is  extensive  as  a result  of  the  generalized  early  symptoms.  Malaria,  shigellosis  and typohoid fever are the most common causes of acute febrile illness in the areas of sub-Saharan Africa where filoviruses are endemic. Other diagnoses to consider include yellow fever, chickungunya fever, fulminant viral hepatitis, plague, typhus, leptospirosis and meningococcal septicemia.
+
+============================================================
+CHUNK 55
+============================================================
+TREATMENT
+There  are  currently  no  licensed  vaccines  or  therapeutic  treatments available  for  filovirus  infections. To  date,  strategies for treating filovirus-infected  patients in an outbreak setting have proven unsuccessful [18]. Ribavirin has been shown to be an ineffective treatment. In animal models, a number of therapies have been tried, but none have been able to reverse the fatal outcome once disease has begun. Recent research studies have identified a number of promising filovirus vaccine candidates [19], although none have yet become licensed as either a preventative or post-exposure vaccine.
+Until  an  effective  vaccine  or  post-exposure  therapy  is  licensed,  the prognosis for patients infected with Ebola and Marburg is grim. Based on the known outbreaks, the case fatality ratios range from 42-90%, depending  on  the  viral  species  and  outbreak.  Filovirus-infected patients should be monitored closely with supportive care, including providing  supplemental  oxygen  and  monitoring  hydration,  circulatory volume  and  blood  pressure.  Administration  of  steroids, non-steroidal  anti-inflammatory  drugs  (NSAIDs),  aspirin  and  anticoagulant therapies are contraindicated [16].
+
+============================================================
+CHUNK 56
+============================================================
+REFERENCES
+1. Kuhn JH, Becker S, Ebihara H, et al. Proposal for a revised taxonomy of the family Filoviridae: classification, names of taxa and viruses, and virus abbreviations. Arch Virol 2010;155(12)2083-103.
+2. Hartman AL, Towner JS, Nichol ST. Ebola and marburg hemorrhagic fever. Clin Lab Med 2010;30:161-77.
+3. Sanchez A, Geisbert TW, Feldmann H. Filoviridae: Marburg and Ebola Viruses. In:  Knipe BM, Howley PM, Griffen DE, et al. eds. Fields Virology, 5th edn. Philadelphia: Lippincott-Raven; 2007:1409-48.
+4. Alves DA, Glynn AR, Steele KE, et al. Aerosol exposure to the angola strain of marburg virus causes lethal viral hemorrhagic fever in cynomolgus macaques. Vet Pathol 2010;47:831-51.
+5. Geisbert TW, Daddario-Dicaprio KM, Geisbert JB, et al. Vesicular stomatitis virus-based  vaccines  protect  nonhuman  primates  against  aerosol  challenge with Ebola and Marburg viruses. Vaccine 2008;26:6894-900.
+6. Towner  JS,  Sealy  TK,  MKhristova  ML,  et  al.  Newly  discovered  ebola  virus associated with hemorrhagic fever outbreak in Uganda. PLoS Pathog 2008;4: e1000212.
+7. Towner  JS,  Amman  BR,  TSealy  TK,  et  al.  Isolation  of  genetically  diverse Marburg viruses from Egyptian fruit bats. PLoS Pathog 2009;5:e1000536.
+8. Pourrut X, Souris M, Towner JS, et al. Large serological survey showing cocirculation of Ebola and Marburg viruses in Gabonese bat populations, and a high seroprevalence of both viruses in Rousettus aegyptiacus . BMC Infect Dis 2009;9:159.
+9. Towner JS, Pourrut X, Albarino CG, et al. Marburg virus infection detected in a common African bat. PLoS ONE 2007;2:e764.
+
+============================================================
+CHUNK 57
+============================================================
+REFERENCES
+10.  Bausch DG, Towner JS, Dowell SF, et al. Assessment of the risk of Ebola virus transmission  from  bodily  fluids  and  fomites.  J  Infect  Dis  2007;196(suppl. 2):S142-7.
+11.  Georges AJ, Leroy EM, Renaut AA, et al. Ebola hemorrhagic fever outbreaks in Gabon, 1994-1997: epidemiologic and health control issues. J Infect Dis 1999;179(suppl. 1):S65-75.
+12.  World Health Organization. Marburg Hemmorrhagic Fever in Angola-Update 26.  2005.  Available  at:  http://www.who.int/csr/don/2005_1 1_07a/en/index. html.
+13.  Mohamadzadeh M, Chen L, Schmaljohn AL. How Ebola and Marburg viruses battle the immune system. Nat Rev Immunol 2007;7:556-67.
+14.  Geisbert TW, Young HA, Jahrling PB, et al. Mechanisms underlying coagulation abnormalities in ebola hemorrhagic fever: overexpression of tissue factor in  primate  monocytes/macrophages  is  a  key  event.  J  Infect  Dis  2003;188: 1618-29.
+15.  Zaki SR, Goldsmith CS. Pathologic features of filovirus infections in humans. Curr Top Microbiol Immunol 1999;235:97-116.
+16.  Borio L, Inglesby T, Peters CJ, et al. Hemorrhagic fever viruses as biological weapons:  medical  and  public  health  management.  JAMA  2002;287:2391405.
+17.  Towner JS, Khristova ML, Sealy TK, et al. Marburgvirus genomics and association  with  a  large  hemorrhagic  fever  outbreak  in  Angola.  J  Virol  2006;80: 6497-516.
+18.  Bausch DG, Sprecher AG, Jeffs B, Boumandouki P. Treatment of Marburg and Ebola hemorrhagic fevers: a strategy for testing new drugs and vaccines under outbreak conditions. Antiviral Res 2008;78:150-61.
+
+============================================================
+CHUNK 58
+============================================================
+REFERENCES
+19.  Reed  DS,  Mohamadzadeh  M.  Status  and  challenges  of  filovirus  vaccines. Vaccine 2007;25:1923-34.
+
+============================================================
+CHUNK 59
+============================================================
+33.5 Crimean-Congo Hemorrhagic Fever
+Christine E Mathews, Susan Fisher-Hoch
+
+============================================================
+CHUNK 60
+============================================================
+Key features
+- Crimean-Congo hemorrhagic fever (CCHF) is a tick-borne, viral hemorrhagic fever found in more than 30 countries throughout Eastern Europe, Asia the Middle East and Africa
+- Transmission primarily occurs through bites of infected ticks or through contamination by blood or infected material from infected ticks, animals or other humans. This disease is known for causing nosocomial outbreaks
+- Incubation can last 1-6 days depending on host, viral load and route of exposure, and is followed by pre-hemorrhagic and hemorrhagic phases
+- Case fatality rates usually range from 30-50%, although rates as high as 90% have been reported in outbreaks
+- The use of ribavirin (oral or injectable) for treatment of CCHF is currently recommended by the World Health Organization (WHO)
+- Synonyms include: khungribta, khunymuny or karakhalak in Uzbekistan, and Xinjiang fever in China
+
+============================================================
+CHUNK 61
+============================================================
+DEFINITION AND HISTORY
+Crimean-Congo  hemorrhagic  fever  (CCHF)  is  a  tick-borne  viral disease first described in the 1940s during an outbreak among 200 Soviet military recruits in the Crimean peninsula following World War II. The earliest accounts of CCHF are believed to be traced back to a 12th century physician from what is currently known as Tajikistan. Reports  of  a  disease  that  matches  CCHF  have  been  described  for centuries in present Southern Uzbekistan under the names khungribta, khunymuny and karakhalak . A virus isolated in 1967 from an ill child in what is now Kisangani, Democratic Republic of Congo, was later found to be identical to a virus from the Crimea, hence the name Crimean-Congo hemorrhagic fever virus. This disease is now known to  occur  in  30  countries  from  Eastern  Europe  through  Asia,  the Middle East, the steppes and dry subtropics of middle Asia, and all of  Africa.  In  China,  the  Xinjiang  strain  of  CCHF  virus  causes  the disease known locally as Xinjiang fever [1-4].
+
+============================================================
+CHUNK 62
+============================================================
+ETIOLOGY
+CCHF virus is a member of the Nairovirus genus of the Bunyaviridae ; like  other  nairoviruses  it  contains  three  segments  of  negative-sense RNA. There are 34 viral strains of nairoviruses, with the CCHF serogroup being the most important in relation to human disease. Surface glycoproteins may play a role in the pathogenicity of CCHF virus in humans,  as  a  highly  variable  region  of  the  glycoprotein  precursor resembles a domain found to be associated with increased vascular permeability and hemorrhage in Ebola hemorrhagic fever [4-6].
+
+============================================================
+CHUNK 63
+============================================================
+VECTORS AND RESERVOIRS
+CCHF virus is a zoonotic agent naturally found in a cycle between ixodid ticks and vertebrates. CCHF viruses have been isolated from
+31 species and subspecies of ixodid ticks, as well as one species of biting midge ( Culicoides spp.). The best-studied tick hosts and most important vectors to humans are Hyalomma spp., which appear to be the most efficient transmitters of the virus. The worldwide distribution of CCHF appears to closely mirror the geographic distribution of Hyalomma species .
+Tick bites are the source of CCHF virus for many domestic and wild animals, in all of which the infections are apparently asymptomatic. Transport  of  infectious  ticks  by  birds  may  have  contributed  to the  migration  of  CCHF  virus  over  a  wide  geographic  distribution [3, 4, 7, 8].
+
+============================================================
+CHUNK 64
+============================================================
+TRANSMISSION
+Transmission of CCHF virus to humans occurs from bites of infected ticks or through contamination by blood or infected material from infected ticks, animals or other humans. In endemic areas, the high prevalence of anti-CCHF antibodies in domestic animals and the relatively  lower  prevalence  in  humans  indicates  transmission  from animals to humans is infrequent. Although tick bites are frequent in those living among domestic animals in CCHF endemic areas, the relatively low frequency of primary human CCHF infection suggests that a minority of these bites result in infection [9, 10]. Avoidance of tick bites or contact with blood from infected, engorged ticks is the most effective strategy to prevent infection.
+
+============================================================
+CHUNK 65
+============================================================
+PREVALENCE OF DISEASE
+Most  primary  CCHF  infections  are  sporadic  and  can  be  traced  to agricultural  practices.  Increases  in  prevalence  of  CCHF  have  been proposed to be caused by changes in climate and agricultural land use. Prevalence may also be influenced by the spread of immature ticks  via  migratory  birds  or  movements  of  wild  mammals  [4,  1 1]. Seasonality  of  CCHF  depends  on  climate  and  local  tick  hosts [4, 10, 12].
+
+============================================================
+CHUNK 66
+============================================================
+HUMAN DISEASE
+Most primary infections are from tick bites or animal blood exposure. Case fatality rates are usually described as ranging from 30-50%, but these rates appear to vary in different locations reflecting, in part, a variable availability of medical and diagnostic services. Case fatality rates of 72.7% were documented during a 1994-1995 outbreak in the United Arab Emirates. In southern Russia, where disease surveillance is more complete, milder disease forms are often noted and case fatality rates rarely exceed 5-10%. In South Africa from 1981-1986, the  case-fatality  rate  ranged  up  to  90%  in  some  reports  [2,  10, 12-14].
+
+============================================================
+CHUNK 67
+============================================================
+OCCUPATIONAL EXPOSURE
+Occupational exposure is greatest for those involved in agricultural practices  handling  cattle  or  sheep,  including  milking,  slaughtering, shearing, castrating or tail docking. Owing to the peridomestic nature of the disease, CCHF equally infects males and females and persons of all age groups in central Asia and Iraq.
+Although they constitute only a minority of cases, the most noticeable infections result from nosocomial transmission. CCHF has repeatedly infected unwary surgeons, nursing staff and other medical attendants. In  all  reported  outbreaks,  direct contact with  blood, needlestick or other  injury,  or  failure  to  observe  simple  barrier  techniques  were recorded. Airborne spread in a hospital setting is not considered a risk [2, 3, 7, 15-17].
+
+============================================================
+CHUNK 68
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+The mechanisms of CCHF pathology have yet to be well described. Historically,  outbreaks  of  CCHF  have  occurred  sporadically  and  in areas where facilities cannot support laboratory diagnosis in required Biosafety Level 4 (BSL-4) containment facilities. As humans and suckling  mice  are  the  only  known  hosts  to  display  disease  pathology, research has been limited because of a lack of an appropriate animal model for disease. Thus, most information on disease pathology has been  determined  from  observational  data  and  data  collected  from CCHF patients [3].
+
+============================================================
+CHUNK 69
+============================================================
+NATURAL HISTORY
+Incubation can last 1-6 days depending on the host, viral load and route of exposure. Exposure through an infected tick has the shortest incubation time (1-3 days) while incubation after exposure to human blood  can  last  5-6  days.  Nosocomial  infections  generally  have  an incubation period of 4-9 days, but there is at least one report of as few as 48 hours elapsing between medical personnel administering mouth-to-mouth  resuscitation  to  a  bleeding  patient  and  onset  of fever. Incubation is often much shorter in fatal cases.
+The  pre-hemorrhagic  phase  lasts  3-6  days  and  is  characterized  by sudden onset of severe headache, high fever, chills, myalgia strongly localized  to  the  lower  back,  joint  pains  and  epigastric  pain.  Conjunctivitis  and  a  mild  flushing  of  the  face  and  chest,  pharyngeal hyperemia, and petechiae on the palate are frequent; bradycardia is typical.
+The hemorrhagic phase is characterized by petechiae and ecchymoses, hematuria,  nosebleeds  and  bleeding  from  the  gut.  In  severe  cases, hemorrhage may begin as early as 3-5 days. Bleeding may occur at any mucosal surface, as well as from venipuncture sites. Some patients develop uncontrolled bleeding and may have severe hepatic impairment. Hemorrhages are widely distributed in many organs and death may be partially attributable to  blood  loss. Pulmonary  edema and hypovolemic  shock,  caused  by  capillary  leakage  and  blood  loss, portend a fatal outcome.
+The  pathology  of  CCHF  most  closely  resembles  that  of  Marburg and Ebola, both of which can be considered differential diagnoses, along with other diseases listed in Table 33.5-1. As with other viral hemorrhagic  fevers,  marked  weight  loss  with  generalized  muscle wasting  occurs  over  a  period  of  just  a  few  days.  The  convalescent recovery  phase  can  be  slow  and  prolonged,  with  disease  sequelae affecting vision, hearing or memory. Relapse is not known to occur [4, 12, 18].
+
+============================================================
+CHUNK 70
+============================================================
+PATIENT EVALUATION
+The  white  blood  cell  count  is  low  ( < 2000/mm 3 )  early  in  illness with  proteinuria  and  hematuria. Lymphopenia persists throughout the  illness  and  a  later  rise  in  neutrophils  may  be  observed.  Severe thrombocytopenia with counts  of < 20,000/mm 3   is  encountered  in 60-100%  of  cases.  Aspartate  transaminase  (AST)  is  always  raised. Prothrombin  times  and  alanine  transaminase  (ALT)  are  generally normal, underscoring that the disease process is not primarily hepatic, despite liver involvement. Factors that have been associated with fatal outcome include: a platelet count of ≤ 20 x 10 9 /L; partial  thromboplastin  time  of ≥ 60  seconds;  AST  of ≥ 200 IU/L; ALT of ≥ 150 IU/L; hematemesis; melena; somnolence; and a low-to-complete absence of measurable anti-CCHF virus IgM and IgG antibodies [4, 17, 18].
+
+============================================================
+CHUNK 71
+============================================================
+DIAGNOSIS
+CCHF  is  a  disease  that  develops  rapidly  following  infection  and patients  frequently  die  before  the  development  of  an  antibody
+
+TABLE 33.5-1 Di`erential Diagnoses of CrimeanCongo Hemorrhagic Fever Based on Region of Patient Presentation
+
+============================================================
+CHUNK 72
+============================================================
+DIAGNOSIS
+Global, DiNerential diagnoses of consideration = Q-fever. , DiNerential diagnoses of consideration = Leptospirosis. , DiNerential diagnoses of consideration = Brucellosis. , DiNerential diagnoses of consideration = Viral hepatitis (HAV, HBV, HCV, HEV). , DiNerential diagnoses of consideration = Seoul virus-hemorrhagic fever with renal syndrome. Northern hemisphere, DiNerential diagnoses of consideration = Tick-borne encephalitis. North America, DiNerential diagnoses of consideration = Hantavirus pulmonary syndrome (HPS). South America, DiNerential diagnoses of consideration = South American hemorrhagic fevers. Eastern and Western Europe, Russia, China, DiNerential diagnoses of consideration = Lyme disease. Scandinavia, western Europe and Russia, DiNerential diagnoses of consideration = Puumala virus-hemorrhagic fever with renal syndrome. Balkans, DiNerential diagnoses of consideration = Dobrava virus-hemorrhagic fever with renal syndrome. Western Siberia, DiNerential diagnoses of consideration = Omsk hemorrhagic fever. Eastern Asia (China, Russia, Korea), DiNerential diagnoses of consideration = Hantavirus-hemorrhagic fever with renal syndrome. Africa, DiNerential diagnoses of consideration = Yellow Fever. Africa (Democratic Republic of the Congo, Gabon, Sudan, the Ivory Coast (broad leaf tropical rainforest regions), Uganda, and the Congo), DiNerential diagnoses of consideration = Ebola. Africa (Uganda, Zimbabwe, the Democratic Republic of the Congo, Kenya and Angola (savannah regions)), DiNerential diagnoses of consideration = Marburg. West Africa, DiNerential diagnoses of consideration = Lassa fever. Africa, Saudi Arabia, Yemen, DiNerential diagnoses of consideration = Rift Valley fever. Africa, Middle East, Asia, DiNerential diagnoses of consideration = Malaria. Southern India, DiNerential diagnoses of consideration = Kyasanur Forest disease. HAV, hepatitis A virus; HBV, hepatitis B virus; HCV, hepatitis C virus; HEV, hepatitis E virus., DiNerential diagnoses of consideration = HAV, hepatitis A virus; HBV, hepatitis B virus; HCV, hepatitis C virus; HEV, hepatitis E virus.
+
+============================================================
+CHUNK 73
+============================================================
+DIAGNOSIS
+response. Rapid diagnosis of acute disease rests on detection of the agent in blood or biopsy material. The use of reverse transcription (RT)-PCR techniques (RT-PCR) to amplify relatively well-conserved sequences in the S segment allows for rapid diagnosis with both high sensitivity and specificity, even in seronegative cases. Real-time PCR provides even more sensitive and specific results than conventional RT-PCR within an hour.
+
+============================================================
+CHUNK 74
+============================================================
+VIRUS DETECTION
+Intracerebral inoculation of suckling mice is the most reliable method for  primary  virus  isolation.  In  comparison,  virus  isolation  in  cell culture  is  faster  and  more  easily  accomplished,  although  generally regarded as less sensitive as it can only detect high levels of virus. Virus can be isolated from blood and organs (e.g. liver biopsy) in susceptible cell lines including Vero-E6, LLC-MK2, BHK-21 and SW-13. The virus is fairly stable but only in blood for up to 10 days at 4°C. Transport at -70°C or lower is important for preservation of live virus or RNA for PCR [4, 7].
+
+============================================================
+CHUNK 75
+============================================================
+ANTIBODY DETECTION
+Virus-specific IgM or IgG antibodies in survivors may be present 7-10 days after infection with CCHF virus. Neutralizing antibodies appear by days 14-16 and persist for many years. Recently, a new method of detecting CCHF IgG antibodies was developed using a recombinant nucleoprotein-IFA and ELISA and may prove useful for CCHF diagnosis or epidemiologic studies [4].
+
+============================================================
+CHUNK 76
+============================================================
+SPECIFIC MEASURES
+Ribavirin, a drug that is effective against several RNA viruses, is active against CCHF virus in vitro and in vivo and has been used to treat acute CCHF. The use of ribavirin is currently recommended by the WHO for treatment of CCHF. Treatment regimens should deliver an initial 30 mg/kg dose followed by 15 mg/kg every 6 hours for 4 days, then 7.5 mg/kg every 8 hours for 6 days. The dose can be tolerated over a short period, given the life-threatening nature of this disease.
+CCHF-specific  purified  immunoglobulin  has  been  successful  in  a small number of patients in Bulgaria and type I interferon has shown promise in patients and animal models for other hemorrhagic fevers. Immune plasma therapy has not been found to be efficacious.
+Efficacy  of  the  antiviral  depends  on  rapid  institution  of  therapy.  A delay in referral for antiviral treatment was found to be significantly associated with CCHF fatality rates in Turkey during 2004-2008 [19]. Care should be taken to encourage awareness of CCHF clinical signs, symptoms and treatment options for healthcare practitioners, particularly in endemic areas [14, 17, 20-21].
+
+============================================================
+CHUNK 77
+============================================================
+SUPPORTIVE
+In addition to the careful management of fluid and electrolyte dynamics during the acute stages of disease, whole blood, platelets and fresh plasma may be indicated. Care must be taken to avoid over-hydrating patients because the disease may be associated with a leaky capillary syndrome [17, 20].
+
+============================================================
+CHUNK 78
+============================================================
+PATIENT ISOLATION
+Together with Lassa, Marburg and Ebola viruses, CCHF is the hemorrhagic fever virus best known for nosocomial and intrafamilial secondary infections. Infectious blood and vomitus are the most likely vehicles of such transmission. Surgery and needlestick injuries must be  avoided.  Strict  isolation,  restriction  and  education  of  attendant personnel and visitors combined with observance of simple precautions are the essentials. Procedures, including mouth-to-mouth resuscitation,  that  have  been  featured  in  published  reports  of  CCHF outbreaks must be avoided. In poor communities where families are culturally  and  out of  necessity  involved  in direct  patient care, time must be given to educating and equipping people to protect themselves [7, 15, 16].
+
+============================================================
+CHUNK 79
+============================================================
+PROPHYLAXIS
+Post-exposure  prophylaxis  with  oral  ribavirin  should  be  offered  to anyone with a high-risk history of exposure to CCHF virus. High risk constitutes  direct  exposure  to  blood,  either  on  cuts  or  abrasions, mucous membranes, or by needlestick or other penetrating injury [4, 7, 17].
+
+============================================================
+CHUNK 80
+============================================================
+VACCINE
+A formalin-inactivated CCHF vaccine produced from brains of suckling  mice  has  been  used  in  Bulgaria  in  high-risk  groups,  such  as farmers and border guards. The vaccine was found to produce high antibody titers; however,  no  efficacy  trials  have  been  performed  to date [22].
+
+============================================================
+CHUNK 81
+============================================================
+REFERENCES
+1. Yen YC, Kong LX, Lee L, et al. Characteristics of Crimean-Congo hemorrhagic fever  virus  (Xinjiang  strain)  in  China.  Am  J  Trop  Med  Hyg  1985;34:1 17982.
+2. Hoogstraal H. The epidemiology of tick-borne Crimean-Congo hemorrhagic fever in Asia, Europe, and Africa. J Med Entomol 1979;15:307-417.
+3. Flick R, Whitehouse CA. Crimean-Congo hemorrhagic fever virus. Curr Mol Med 2005;5:753-60.
+4. Whitehouse CA. Crimean-Congo hemorrhagic fever. Antiviral Res 2004;64: 145-60.
+5. Haferkamp  S,  Fernando  L,  Schwarz  TF,  et  al.  Intracellular  localization  of Crimean-Congo Hemorrhagic Fever (CCHF) virus glycoproteins. Virol J 2005; 2:42.
+6. Weber F, Mirazimi A. Interferon and cytokine responses to Crimean Congo hemorrhagic fever virus; an emerging and neglected viral zonoosis. Cytokine Growth Factor Rev 2008;19:395-404.
+7. Vorou R, Pierroutsakos IN, Maltezou HC. Crimean-Congo hemorrhagic fever. Curr Opin Infect Dis 2007;20:495-500.
+8. Shepherd  AJ,  Swanepoel  R,  Leman  PA,  Shepherd  SP.  Field  and  laboratory investigation of Crimean-Congo haemorrhagic fever virus (Nairovirus, family Bunyaviridae)  infection  in  birds.  Trans  R  Soc  Trop  Med  Hyg  1987;81: 1004-7.
+9. Mild M, Simon M, Albert J, Mirazimi A. Towards an understanding  of the migration of Crimean-Congo hemorrhagic fever virus. J Gen Virol 2010;91: 199-207.
+10.  Swanepoel R, Shepherd AJ, Leman PA, et al. Epidemiologic and clinical features of Crimean-Congo hemorrhagic fever in southern Africa. Am J Trop Med Hyg 1987;36:120-32.
+
+============================================================
+CHUNK 82
+============================================================
+REFERENCES
+11.  World Health Organization. Crimean-Congo haemorrhagic fever. 2001. Available at: http://www.who.int/mediacentre/factsheets/fs208/en/, 2010.
+12.  Schwarz TF, Nsanze H, Ameen AM. Clinical features of Crimean-Congo haemorrhagic fever in the United Arab Emirates. Infection 1997;25:364-7.
+13.  Swanepoel R, Shepherd AJ, Leman PA, et al. A common-source outbreak of Crimean-Congo haemorrhagic fever on a dairy farm. S Afr Med J 1985;68: 635-7.
+14.  Sharifi-Mood  B,  Metanat  M,  Ghorbani-Vaghei  A,  et  al.  The  outcome  of patients  with  Crimean-Congo  hemorrhagic  fever  in  Zahedan,  southeast  of Iran: a comparative study. Arch Iran Med 2009;12:151-3.
+15.  Centers for Disease Control (CDC). Management of patients with suspected viral  hemorrhagic  fever.  MMWR  Morb  Mortal  Wkly  Rep  1988;37(suppl. 3):1-16.
+16.  Centers for Disease Control and Prevention (CDC). Update: management of patients with suspected viral hemorrhagic fever-United States. MMWR Morb Mortal Wkly Rep 1995;30;44:475-9.
+17.  Fisher-Hoch SP, Khan JA, Rehman S, et al. Crimean Congo-haemorrhagic fever treated with oral ribavirin. Lancet 1995;346:472-5.
+18.  Swanepoel R, Gill DE, Shepherd AJ, et al. The clinical pathology of CrimeanCongo hemorrhagic fever. Rev Infect Dis 1989;11(suppl. 4):S794-800.
+19.  Ergonul O, Celikbas A, Dokuzoguz B, et al. Characteristics of patients with Crimean-Congo hemorrhagic fever in a recent outbreak in Turkey and impact of oral ribavirin therapy. Clin Infect Dis 2004;39:284-7.
+20.  Ergonul  O.  Treatment  of  Crimean-Congo  hemorrhagic  fever.  Antiviral  Res 2008;78:125-31.
+
+============================================================
+CHUNK 83
+============================================================
+REFERENCES
+21.  Tasdelen Fisgin N, Ergonul O, Doganci L, Tulek N. The role of ribavirin in the therapy of Crimean-Congo hemorrhagic fever: early use is promising. Eur J Clin Microbiol Infect Dis 2009;28:929-33.
+22.  Vassilenko SM, Vassilev TL, Bozadjiev LG, et al. Specific intravenous immunoglobulin for Crimean-Congo haemorrhagic fever. Lancet 1990;335: 791-2.
+
+============================================================
+CHUNK 84
+============================================================
+Diseases Caused by Hantaviruses
+Tony Schountz
+
+============================================================
+CHUNK 85
+============================================================
+Key features
+- Hantaviruses are estimated to cause about 150,000 cases of disease each year
+- Two diseases are caused by hantaviruses: hantavirus pulmonary syndrome (HPS, sometimes also known as hantavirus cardiopulmonary syndrome) and hemorrhagic fever with renal syndrome (HFRS), which, in its milder form, is known as nephropathia epidemica
+- Pathogenic hantaviruses are hosted by multiple rodent reservoirs
+- The most important ones are Hantaan (HTNV) virus, found across Asia and central Europe; Seoul virus (SEOV), which is found in many port cities because of its reservoir Rattus norvegicus ; Dobrava virus (DOBV); and Puumala virus (PUUV)
+- The diseases are principally immune-mediated inIammation
+
+============================================================
+CHUNK 86
+============================================================
+INTRODUCTION
+During the Korean War (1950-1953) more than 3000 United Nations personnel developed Korean hemorrhagic fever, now termed hemorrhagic fever with renal syndrome (HFRS). Early efforts to identify the etiologic agent suggested a virus, which was first isolated in 1978 [1]. The virus, named Hantaan virus (HTNV) after the Hantan River valley in South Korea, defined a new genus, Hantavirus , in the family Bunyaviridae .  Hantaviruses  are  enveloped,  negative-strand  RNA  viruses with tripartite genomes. Historical descriptions of diseases with features  similar  to  HFRS  date  back  more  than  a  millennia  to  ancient China; the earliest documented cases were described in 1913 in Russia [2].  Reports  of  other  diseases  associated  with  20th  century  warfare suggest that hantaviruses caused substantial morbidity and mortality during such conflicts. It is likely that hantaviruses have caused substantial morbidity and mortality for much of human history [3].
+The  natural  host  for  HTNV  is  the  striped  field  mouse  ( Apodemus agrarius ) that is found in Asia and through central Europe. It is thought that  transmission  between  rodents  occurs  through  aggressive  male behaviors (e.g. biting) and aerosols during communal nesting. Seoul virus (SEOV), the agent of urban HFRS, is found in many port cities throu  ghout the world as maritime commerce resulted in the dissemination of its reservoir-the brown or Norway rat ( Rattus norvegicus ). Two  other  hantaviruses  are  agents  of  HFRS:  Dobrava  virus  and Puumala virus, which cause a typically milder form of the disease, nephropathia epidemica. It is thought that about 150,000 cases of HFRS  occur  globally  each  year,  the  majority  of  which  are  in  East Asia [4].
+
+============================================================
+CHUNK 87
+============================================================
+INTRODUCTION
+In 1993, an outbreak of a highly fatal, acute respiratory distress syndrome,  termed  hantavirus  (cardio-)pulmonary  syndrome  (HPS  or HCPS) occurred in the Four Corners region of the USA [5, 6]. A novel hantavirus, Sin Nombre virus, was identified as the etiologic agent, with its reservoir host being the deer mouse ( Peromyscus maniculatus ). In South America, most HPS cases are caused by the related Andes virus, which is hosted by the long-tailed pygmy rice rat ( Oligoryzomys longicaudatus ). Several other New World hantaviruses have been discovered, many of which cause HPS and are hosted by rodents of the Neotominae and Sigmodontinae subfamilies (Table 33.6-1) [4].
+
+============================================================
+CHUNK 88
+============================================================
+EPIDEMIOLOGY
+Most cases of hantavirus disease occur in rural settings near agricultural communities and where rodents are abundant; however, urban HFRS is associated with Seoul virus because its principal reservoir, R. norvegicus , was introduced to port cities by the shipping trade and has since become established in most urban areas [4]. Transmission to humans is thought to primarily  occur  through inhalation  of  dried rodent excrement-peri-domestic contact with rodents usually occurs in  outbuildings  and  other  permanent  structures.  A  significant  risk factor  is  the  cleaning  of  rodent-infested  buildings  without  proper decontamination procedures and respiratory protection. Humans are terminal hosts for hantaviruses; however, Andes virus has had demonstrated nosocomial and person-to-person transmission (and possibly sexual transmission) that caused several deaths from HPS [7].
+
+============================================================
+CHUNK 89
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+Hantaviruses  have  been  isolated  on  all  continents  except  Australia (where seropositive rodents have been identified) and Antarctica [5]. Most are not known to cause human disease. Pathogenic hantaviruses are hosted by rodent reservoirs, while hantaviruses hosted by shrews and moles, which are substantially divergent from rodents, are not known to be pathogenic to humans. Each hantavirus species is associated  with  a  single  reservoir  host  species,  although  spillover  events have been documented with several hantaviruses. Infection of reservoir rodents (and presumably shrews and moles) appears to be lifelong and apathogenic, likely because of favorable regulatory immune responses that permit persistence without pathology to the host [8, 9]. As in humans, the principal target of infection in reservoirs is the capillary endothelium, without conspicuous cytopathic effects; virus can be detected in many tissues, with shedding through excrement. For the reservoir hosts and their hantaviruses, this relationship may have evolved to limit inflammatory pathology but also compromise the antiviral immune response to an innocuous infection, thus contributing to persistence and ecology of the viruses.
+Human infection follows inhalation of virus. Inhalation introduces virus to  the alveoli of the lungs, but how it transits to the vascular endothelium  is  unknown.  Entry  into  vascular  endothelial  cells  is thought  to  be  via β 3-integrin  (CD61),  a  surface  transmembrane protein found on several cell types,  including  capillary  endothelial cells. Some dendritic cells are susceptible to hantavirus infection and it may be that pulmonary dendritic cells become infected and traffic to regional lymph nodes and further replication introduces virus to its principal target, capillary endothelial cells [10]. In contrast to the natural  rodent  hosts,  pathology  in  humans  is  largely  immunemediated, with  the production  of  pro-inflammatory  cytokines  that lead to vascular leakage and severe hypotension.
+
+============================================================
+CHUNK 90
+============================================================
+CLINICAL FEATURES
+Infection leads to vascular leakage, edema, severe hypotension, hemoconcentration, vasodilation, thrombocytopenia, mobilization of CD8 + T cells and increased leukocyte counts with increased numbers of immature leukocytes; the epithelium remains intact with no histologic evidence of viral damage to the cells [10]. It is evident that the host immune response is substantially involved in the pathogenesis of  hantavirus  diseases,  but  a  principal  difficulty  in  understanding pathogenic mechanisms is the lack of suitable animal models. While reservoir models are readily available, they do not have pathogenic
+
+TABLE 33.6-1 Pathogenic Hantaviruses
+
+============================================================
+CHUNK 91
+============================================================
+CLINICAL FEATURES
+Murinae, Rodent species = Apodemus agrarius. Murinae, Virus = Hantaan virus. Murinae, Abbreviation = HTNV. Murinae, Distribution = China, South Korea, Russia. Murinae, Disease = HFRS. , Rodent species = Apodemus Javicollis. , Virus = Dobrava-Belgrade virus. , Abbreviation = DOBV. , Distribution = Balkans. , Disease = HFRS. , Rodent species = Rattus norvegicus. , Virus = Seoul virus. , Abbreviation = SEOV. , Distribution = Worldwide. , Disease = HFRS. , Rodent species = Apodemus agrarius. , Virus = Saaremaa virus. , Abbreviation = SAAV. , Distribution = Europe. , Disease = HFRS. , Rodent species = Apodemus peninsulae. , Virus = Amur virus. , Abbreviation = AMRV. , Distribution = Far East Russia. , Disease = HFRS. Arvicolinae, Rodent species = Clethrionomys glareolus. Arvicolinae, Virus = Puumala virus. Arvicolinae, Abbreviation = PUUV. Arvicolinae, Distribution = Europe, Asia, Americas. Arvicolinae, Disease = HFRS/NE. Neotominae, Rodent species = Peromyscus maniculatus. Neotominae, Virus = Sin Nombre virus. Neotominae, Abbreviation = SNV. Neotominae, Distribution = North America. Neotominae, Disease = HPS. , Rodent species = Peromyscus leucopus. , Virus = Monogahela virus. , Abbreviation = MGLV. , Distribution = North America. , Disease = HPS. , Rodent species = Peromyscus leucopus. , Virus = NewYork virus. , Abbreviation = NYV. , Distribution = North America. , Disease = HPS. Sigmodontinae, Rodent species = Sigmodon hispidus. Sigmodontinae, Virus = Black Creek Canal virus. Sigmodontinae, Abbreviation = BCCV. Sigmodontinae, Distribution = North America. Sigmodontinae, Disease = HPS. , Rodent species = Oryzomys palustris. , Virus = Bayou virus. , Abbreviation = BAYV. , Distribution = North
+
+============================================================
+CHUNK 92
+============================================================
+CLINICAL FEATURES
+America. , Disease = HPS. , Rodent species = Olygoryzomys fulvescens. , Virus = Choclo virus. , Abbreviation = (not assigned). , Distribution = Panama. , Disease = HPS. , Rodent species = Oligoryzomys longicaudatus. , Virus = Andes virus. , Abbreviation = ANDV. , Distribution = Argentina, Chile. , Disease = HPS. , Rodent species = Oligoryzomys chocoenis. , Virus = Bermejo virus. , Abbreviation = BMJV. , Distribution = Argentina. , Disease = HPS. , Rodent species = Oligoryzomys Javescens. , Virus = Lechiguanas virus. , Abbreviation = LECV. , Distribution = Argentina. , Disease = HPS. , Rodent species = Bolomys obscurus. , Virus = Maciel virus. , Abbreviation = MCLV. , Distribution = Argentina. , Disease = HPS. , Rodent species = Oligoryzomys longicaudatus. , Virus = Oran virus. , Abbreviation = ORNV. , Distribution = Argentina. , Disease = HPS. , Rodent species = Calomys laucha. , Virus = Laguna Negra virus. , Abbreviation = LANV. , Distribution = Paraguay, Bolivia, Argentina. , Disease = HPS. , Rodent species = Bolomys lasiurus. , Virus = Araraquara virus. , Abbreviation = (not assigned). , Distribution = Brazil. , Disease = HPS. , Rodent species = Oligoryzomys nigripes. , Virus = Juquitiba virus. , Abbreviation = (not assigned). , Distribution = Brazil. , Disease = HPS
+NE, neuropathica epidemica.
+Adapted from Jonsson CB, Figueiredo LT, Vapalahti O. A global perspective on hantavirus ecology, epidemiology, and disease. Clin Microbiol Rev 2010;23:412-41.
+
+============================================================
+CHUNK 93
+============================================================
+CLINICAL FEATURES
+outcomes. The Syrian golden hamster ( Mesocricetus auratus ) infected with Andes or Maporal viruses is a model for HPS; however, very little work  has  been  conducted  to  assess  the  role  of  immuopathology because  of  a  lack  of  hamster-specific  reagents.  In  addition,  both models must be conducted at Biosafety Level (BSL)-4, which limits research activity and productivity. Small animal models for HFRS are currently unavailable.
+
+============================================================
+CHUNK 94
+============================================================
+HEMORRHAGIC FEVER WITH RENAL SYNDROME
+The range of disease is from febrile to acute hemorrhagic shock and death.  HFRS  occurs  in  five  phases:  febrile  (3-5  days);  hypotensive (hours to two days); oliguric (days to two weeks); polyuric; and convalescent phase. Manifestations of HFRS initiate as a febrile illness and, for many patients, progresses no further. Patients with severe HFRS usually present with an erythematous flush of the face and upper torso, with blanching on pressure. The disease is preceded by a 2-3 week incubation followed by flu-like symptoms of the febrile phase, including fever, chills, dizziness, nausea, vomiting, headache and myalgia. Conjunctivitis  and  blurred  vision  are  reported  by  some  patients.
+Petechiae, ecchymoses, hematemesis, epitaxis, hematuria, melena and intracranial hemorrhages are common, and disseminated intravascular  coagulation  occurs  in  some  patients.  The  vascular  syndrome  is followed by the hypotension and shock that can lead to death. Longterm sequelae in some surviving patients include renal dysfunction.
+Laboratory findings of acute severe HFRS show development of progressive thrombocytopenia and leukocytosis during the febrile phase that  continues  into  the  hypotensive  phase.  Proteinuria  with  isosthenuria (production of urine with the specific gravity of plasma) is usually detected within the first five days of onset and hemoconcentration occurs, followed by electrolyte abnormalities and renal insufficiency during the oliguric phase.
+The milder nephropathia epidemica shares many of the features of HFRS, including sudden onset of fever, chills, nausea and headache, but is rarely fatal; those that are fatal are usually associated with leukocytosis and shock [1 1]. Urban HFRS is also a less severe disease, with a fatality rate of about 1% [12]. However, as it is found in urban areas,  it  is  possible  that  large  outbreaks  could  occur  and  is  thus  a public health concern.
+
+============================================================
+CHUNK 95
+============================================================
+HEMORRHAGIC FEVER WITH RENAL SYNDROME
+At  presentation,  patients  typically  have  developed  an  immune response and IgM is usually detectable; neutralizing antibodies to the viral  N-  and  C-terminal  glycoproteins  (G N/GC)  are  often  found  in convalescent sera [13]. Neutralizing antibodies to N are not found;
+B
+however,  protective  N-specific  cytotoxic  T  cells  have  been  isolated from blood. Inflammatory cytokines, including tumor necrosis factor (TNF), interleukin-6 (IL-6) and IL-10 have been detected, which are thought to contribute to vascular permeability. The presence of TNF in kidney biopsy samples has been shown to correlate with leukocyte infiltrates.  Collectively,  these  data  suggest  a  prominent  role  for  the immune response in HFRS.
+
+============================================================
+CHUNK 96
+============================================================
+HANTAVIRUS PULMONARY SYNDROME OHPSP
+Because of the non-descript symptoms of HPS, it is essential that clinicians consider hantavirus infection in regions where the viruses are endemic  [14].  Thrombocytopenia  occurs  in  nearly  80%  of  HPS patients at presentation and all patients during the course of disease. Leukocytosis with left shift and increased white blood cell counts also occur,  and  the  circulating  immunoblastoid  lymphocytes  include plasma cells. Hemoconcentration is thought to result from the plasma leakage. Chest radiography usually reveals interstitial edema and peribronchial  cuffing;  many  patients  develop  hypoxemia.  All  patients develop  pleural  effusions  as  the  disease  progresses.  Patients  that develop these symptoms should be presumed to have HPS because of  the  rapid  progression  of  the  disease  and  appropriate  treatment regimens employed. An IgM ELISA is used to confirm infection.
+HPS typically follows a pattern of four phases: prodrome, pulmonary edema  and  shock,  diuresis  and  convalescence.  Clinical  symptoms appear between 10 days to several weeks, with a prodromal period of 3-6 days that includes symptoms of other less severe infectious diseases,  such  as  fever,  chills,  cough,  tachypnea,  tachycardia,  nausea, headache, myalgia and gastrointestinal symptoms; dyspnea can occur and is  often  an  indicator  of  imminent  respiratory  failure  [14,  15]. While a small  number  of  individuals  recover  from  acute  infection without  cardiopulmonary  disease,  most  patients  rapidly  progress from the prodrome to cardiopulmonary manifestations, with most deaths occurring within 24 hours. This phase typically lasts 3-6 days, followed  by  rapid  progression  through  diuresis  in  24-48  hours. During this phase, patients exhibit  high  urine  flow rates and enter convalescence.  Most  patients  that  survive  to  this  phase  have  a  full recovery in a few weeks; however, some patients require up to two years for recovery.
+
+============================================================
+CHUNK 97
+============================================================
+HANTAVIRUS PULMONARY SYNDROME OHPSP
+The infected vascular endothelium presents with a capillary leak syndrome  and  edema.  Conspicuous  cytopathic  effects  are  not  usually present  but  most  cases  present  with  interstitial  pneumonitis  and mononuclear infiltrates, including immunoblasts (Fig. 33.6.1). Several  pro-inflammatory  cytokines,  including  TNF,  lymphotoxin, IL-4,  interferonγ and  IL-1  are  detected  in  many  of  these  cells  at autopsy  and  suggest  a  prominent  role  for  the  immune  response in  the  pathology  of  the  disease  [16].  Collectively,  it  appears  that inflammatory cells recruited from the pulmonary vasculature induce immunopathology to an otherwise seemingly innocuous infection. Convalescence occurs slowly, with weakness and fatigue commonly reported.  Without  intervention,  the  mortality  rate  can  be  70%  or more, while early diagnosis and treatment results in survival of most patients.
+
+============================================================
+CHUNK 98
+============================================================
+TREATMENT
+Treatment is principally supportive, with strict management of fluid balance, avoiding dangerous over-hydration in particular, and electrolytes  to minimize the inflammatory process [12]. Ribavirin therapy has been shown to reduce the risk of death from HTNV-associated disease when administered early in infection. Intensive care of patients with severe HFRS has reduced fatalities and, when severe hypotension occurs,  the  use  of  vasopressor  agents  and  colloidal  solutions  can maintain blood pressure. Drugs that impact renal function should be avoided and dialysis may be required.
+No antiviral or immunosuppressive therapy is currently available for HPS and treatment is largely supportive [14]. The use of extracorpor-
+FIGURE  33.6.1 Histologic  features  of  post-mortem  lung  sections. (A) Section from autopsy of normal lung. (B) Section from HPS autopsy lung.
+eal  membrane  oxygenation  (ECMO)  has  dramatically  improved survival rates. ECMO supports the heart and lungs and, with pharmacologic  intervention,  facilitates  patient  survival  during  transition to convalescence.  Patients  must be  carefully monitored for  shock and respiratory failure, for which an arterial catheter is required to monitor blood pressure. Unlike  HFRS, vassopressors  should  be  avoided  for HPS because they increase cardiac afterload. Patients should be intubated if a downward trend in arterial blood gases occurs.
+
+============================================================
+CHUNK 99
+============================================================
+IMMUNIZATION
+Most  efforts  for  hantavirus  vaccine  development  have  focused  on HFRS because of the substantially greater impact the disease has relative  to  the  fewer  cases  of  HPS  [17].  A  HTNV  formalin-inactivated suckling-mouse brain vaccine, Hantavax, has been available in Korea for more than 10 years. While the vaccine elicits antibody responses, it fails to produce neutralizing antibodies in about half of immunized individuals and its efficacy is unknown. In China, formalin-inactivated cell culture-derived vaccines for HTNV and SEOV induce neutralizing antibody responses in the great majority of recipients who received two or three doses.
+Recent approaches in vaccine development have focused on genetically engineered vaccines. A recombinant vaccinia virus expressing the S and M segments of HTNV was developed, but, in trials, many vaccinia virus-immune  recipients  failed  to  produce  a  neutralizing  antibody response to HTNV and further work with the vaccine has ceased.
+Another molecular approach uses DNA vaccines delivered by gene gun. This technology is attractive because of the rapidity of vaccine development, the potential ability to mix cocktails of plasmids containing genes of various hantaviruses and the relative ease of producing large quantities of vaccine DNA. A significant limitation of this technology is its cost to implement, thus it will be necessary to devise economic strategies for its use in the developing world, where many are at risk of hantavirus diseases. A Phase 1 clinical study is currently being conducted with volunteers receiving multiple doses of DNAcoated gold beads into dermal tissue.
+Another  study  demonstrated  a  neutralizing  antibody  response  in Rhesus macaques immunized with an Andes virus M segment DNA vaccine [18]. While not a pathology model, the level of antibodies produced was similar to those found in convalescent serum samples of HPS survivors. The antibodies also neutralized Sin Nombre virus and suggest the vaccine may be cross-protective. Of note, the vaccine did not protect hamsters from challenge with Andes virus; however, post-infection adoptive transfer of macaque antibodies to hamsters protected them from Andes virus-induced death, suggesting passive antibody therapy may also be useful.
+
+============================================================
+CHUNK 100
+============================================================
+IMMUNIZATION
+Considering  the  immunopathologic  nature  of  human  hantavirus infections, careful assessment of candidate vaccines will be required to  ensure  immunization  does  not  prime  a  pathogenic  immune response after natural infection. There is no evidence of such responses with the current Hantavax vaccine, suggesting the risk of such adverse events may be minimal. With HCPS, a strong neutralizing antibody response  is  associated  with  favorable  outcome,  while  low  titer responses  are  associated  with  severe  disease  [19].  Because  hantaviruses  replicate  slowly,  the  presence  of  neutralizing antibodies from immunization  will  likely  confer  protection  without  pathogenic inflammatory responses.
+
+============================================================
+CHUNK 101
+============================================================
+REFERENCES
+1. Lee  HW,  Lee  PW,  Johnson  KM.  Isolation  of  the  etiologic  agent  of  Korean Hemorrhagic fever. J Infect Dis 1978;137:298-308.
+
+============================================================
+CHUNK 102
+============================================================
+33.7 Rift Valley Fever
+Brian H Bird, Jean-Marc Reynes, Stuart T Nichol
+The opinions expressed herein are those of the authors alone and not necessarily those of the Centers for Disease Control and Prevention.
+
+============================================================
+CHUNK 103
+============================================================
+Key features
+- Mosquito-borne viral zoonosis found in Africa and the western Arabian Peninsula
+- A high-consequence disease of livestock (sheep and cattle); wild ruminants are also affected, but to a lesser extent
+- Contact with sick animals and animal tissues (especially aborted fetuses and fluids) are major risk factors for human infection
+2. Lee HW. Korean hemorrhagic fever. Prog Med Virol 1982;28:96-113.
+3. Johnson  KM.  Hantaviruses:  history and  overview.  Curr  Top  Microbiol Immunol 2001;256:1-14.
+4. Jonsson CB, Figueiredo LT, Vapalahti O. A global perspective on hantavirus ecology, epidemiology, and disease. Clin Microbiol Rev 2010;23:412-41.
+5. Duchin  JS,  Koster  FT,  Peters  CJ,  et  al.  Hantavirus  pulmonary  syndrome:  a clinical description of 17 patients with a newly recognized disease. The Hantavirus Study Group. N Engl J Med 1994;330:949-55.
+6. Nichol  ST,  Spiropoulou  CF,  Morzunov  S,  et  al.  Genetic  identification  of  a hantavirus associated with an outbreak of acute respiratory illness. Science 1993;262:914-17.
+7. Ferres M, Vial P, Marco C, et al. Prospective evaluation of household contacts of persons with hantavirus cardiopulmonary syndrome in chile. J Infect Dis 2007;195:1563-71.
+8. Easterbrook JD, Zink MC, Klein SL. Regulatory T cells enhance persistence of the  zoonotic pathogen Seoul virus in  its  reservoir host. Proc Natl  Acad Sci USA 2007;104:15502-7.
+9. Schountz T, Prescott J, Cogswell AC, et al. Regulatory T cell-like responses in deer mice persistently infected with Sin Nombre virus. Proc Natl Acad Sci USA 2007;104:15496-501.
+10.  Schonrich  G,  Rang  A,  Lutteke  N,  et  al.  Hantavirus-induced  immunity  in rodent reservoirs and humans. Immunol Rev 2008;225:163-89.
+
+============================================================
+CHUNK 104
+============================================================
+Key features
+11.  Valtonen M, Kauppila M, Kotilainen P, et al. Four fatal cases of nephropathia epidemica. Scand J Infect Dis 1995;27:515-17.
+12.  Linderholm M, Elgh F. Clinical characteristics of hantavirus infections on the Eurasian continent. Curr Top Microbiol Immunol 2001;256:135-51.
+13.  Vapalahti O, Lundkvist A, Vaheri A. Human immune response, host genetics, and severity of disease. Curr Top Microbiol Immunol 2001;256:153-69.
+14.  Simpson SQ, Spikes L,  Patel S,  Faruqi  I.  Hantavirus  pulmonary  syndrome. Infect Dis Clin North Am 2010;24:159-73.
+15.  Zaki  SR,  Greer  PW,  Coffield  LM,  et  al.  Hantavirus  pulmonary  syndrome. Pathogenesis of an emerging infectious disease. Am  J Pathol 1995; 146:552-79.
+16.  Mori M, Rothman AL, Kurane I, et al. High levels of cytokine-producing cells in  the  lung  tissues  of  patients  with  fatal  hantavirus  pulmonary  syndrome. J Infect Dis 1999;179:295-302.
+17.  Schmaljohn C. Vaccines for hantaviruses. Vaccine 2009;27(suppl. 4):D61-4.
+18.  Custer DM, Thompson E, Schmaljohn CS, et al. Active and passive vaccination against  hantavirus  pulmonary  syndrome  with  Andes  virus  M  genome segment-based DNA vaccine. J Virol 2003;77:9894-905.
+19.  Bharadwaj M, Nofchissey R, Goade D, et al. Humoral immune responses in the hantavirus cardiopulmonary syndrome. J Infect Dis 2000;182:43-8.
+- Human infections are generally self-limiting, but can progress to hepatitis, retinitis or a hemorrhagic syndrome
+- Hospitalized case fatality can be 10-30%; high virus loads are predictive of fatal outcomes
+- Delayed-onset neurologic signs (confusion, ataxia, seizures, coma) can present 7-28 days after resolution of acute illness
+
+============================================================
+CHUNK 105
+============================================================
+INTRODUCTION
+Rift Valley fever virus (RVFV) is a mosquito-borne pathogen of livestock  and  humans  that  has  historically  been  responsible  for  widespread outbreaks of severe livestock and human disease throughout Africa and the western Arabian Peninsula [1]. Rift Valley fever  outbreaks often occur in arid or semi-arid regions following unusually heavy  rainfall  and  flooding,  allowing  the  abundant  emergence  of mosquito vectors. Hallmarks of Rift Valley fever epizootics/epidemics include  extensive  losses  of  livestock  due  to  abortion  'storms'  and neonatal mortality approaching 100% in sheep and cattle that often go unreported and precede large numbers of human cases.
+
+============================================================
+CHUNK 106
+============================================================
+EPIDEMIOLOGY
+RVFV is a notorious cause of illness among herdsmen, veterinarians and others with direct contact with infected animals, especially during routine  slaughtering,  veterinary  post-mortem  and  obstetric  procedures. Men and working-aged persons are at greater risk of infection because of higher occupational exposure to livestock and mosquitoes. Wildlife could be affected by the virus, especially wild ruminants, even during interepizootic periods [2, 3]. Although abortion 'storms' are a hallmark of livestock infections, there have been no reported cases of human abortion caused by RVFV infection. However, vertical transmission of virus to two newborn infants has been recently reported [4,  5].  Nosocomial  transmission  has  not  been  documented,  but patients  often  have  high  viremias,  suggesting  that  standard  barrier nursing  techniques  and  universal  blood  precautions  be  followed, especially during invasive procedures or while attending births from infected mothers.
+
+============================================================
+CHUNK 107
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+The  RVFV  (family Bunyaviridae ;  genus Phlebovirus )  is  an  enveloped virus with a segmented RNA genome. RVFV was first isolated in the 1930s following a large outbreak among sheep in the Rift Valley of Kenya. Today, it is found in over 30 countries where significant outbreaks occur periodically (Fig. 33.7.1) Human infections can result in  isolated  individual  cases  or  extensive  epidemics  with  infections numbering  tens  of  thousands.  Mosquitoes  are  the  primary  vector, although experimental infection of sandflies and ticks has been documented. Humans can be directly  infected  by  mosquito  bite  or  via contact with infected animals (especially livestock) and animal fluids and  tissues,  including:  aborted  fetuses,  amniotic  fluids,  uncooked meat and possibly unpasteurized milk [6].
+The primary target tissue for the virus is the liver. In fatal cases, extensive hepatocellular necrosis is evident with or without focal inflammatory  cell  infiltrates  [7].  Generally,  positive  immunostaining  for virus antigen can be found in hepatocytes and Kupffer cells and renal tubular epithelial cells. However, RVFV is promiscuous and can infect a wide variety of cell types and tissues. There are no detailed pathologic  descriptions  of  human  Rift  Valley  fever  neurologic  disease. Experimental animal studies suggest that direct neuron infection and cellular infiltrates contribute to the disease process. In hemorrhagic cases, the exact molecular mechanisms causing alterations in vascular permeability  are  unknown  but  are  likely  mediated  by  secondary cytokine/chemokine  perturbations  of  endothelial  cell  barrier  functions  rather  than  direct  virus  infection  and  the  cytopathic  effect  of endothelial  cells.  Among  fatal  RVFV  human  cases,  RVFV  does  not appear to widely infect endothelial cells, even in the later stages of the disease, unlike some other hemorrhagic fever viruses (e.g. Ebola, Marburg,  Crimean-Congo  hemorrhagic  fever,  and  the  arenavirus hemorrhagic fevers) [3].
+
+============================================================
+CHUNK 108
+============================================================
+CLINICAL FEATURES
+Following an incubation period of 2-6 days, most cases present with abrupt  onset  of  fever,  malaise,  myalgia  and  arthralgia.  A  high
+FIGURE 33.7.1 Rift  Valley  fever  geographic distribution. Countries  highlighted in dark blue have periodic widespread epidemics of human and/ or  livestock  disease.  Countries  highlighted  in  mid-blue  have  occasional reports of Rift Valley fever virus infection.
+proportion of patients report nausea, vomiting, abdominal pain and diarrhea;  symptoms can  clinically  resemble  other  acute  viral  infections, thus complicating early differential diagnosis [8]. (Fig. 33.7.2, Table 33.7-1). Upper respiratory signs are notably absent in Rift Valley fever cases. A small percentage of infected individuals (1-2%), may develop  jaundice,  hepatitis,  and/or  a  hemorrhagic  syndrome.  Case fatalities among hospitalized patients with coagulopathy range from 10-30%. In some patients, retinitis may develop with potential longterm sequelae including scotomas, other vision abnormalities or total blindness [9]. In the largest reported study of laboratory-confirmed hospitalized  patients  (n = 683,  Saudi  Arabia  2000-2001)  hemorrhagic complications included: thrombocytopenia (38.4%); hematemesis  (3.6%);  petechiae  (2.8%);  melena  (1.8%);  epistaxis  (1.2%); excessive  bleeding  from  puncture  sites  (2.4%);  and  disseminated intravascular coagulation with multiple organ dysfunction, including renal failure (7.5%) [10]. Laboratory abnormalities included marked elevations  of  serum  transaminases  [aspartate  transaminase  (AST), alanine  transaminase  (ALT),  gamma-glutamyl  transferase  (GGT)], lactate dehydrogenase (LDH), creatinine phosphokinase (CPK) and creatinine with moderate-to-severe anemia and marked thrombocytopenia.  High  virus  loads  (mean  titer, > 1.0  X  10 6 plaque-forming units/mL  of  blood)  are  significantly  linked  to  fatal  outcomes  [1 1]. Resolution  of  the  acute  phase  can  be  followed  7-28  days  later  by delayed-onset encephalitis.
+
+============================================================
+CHUNK 109
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSES
+Frequent  mosquito  exposure  and/or  contact  with  sick  livestock  in sub-Saharan Africa or the western Arabian Peninsula should raise a
+
+TABLE 33.7-1 Clinical Signs among Hospitalized Rift Valley Fever Cases (Percent A`ected)
+
+============================================================
+CHUNK 110
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSES
+General signs, Sudan 2006-07 * = . General signs, Saudi Arabia 2000-01 † = . Fever, Sudan 2006-07 * = 90. Fever, Saudi Arabia 2000-01 † = 93. Nausea, Sudan 2006-07 * = n.r. Nausea, Saudi Arabia 2000-01 † = 60. Vomiting, Sudan 2006-07 * = 0. Vomiting, Saudi Arabia 2000-01 † = 53. Abdominal pain, Sudan 2006-07 * = 2. Abdominal pain, Saudi Arabia 2000-01 † = 38. Diarrhea, Sudan 2006-07 * = 3. Diarrhea, Saudi Arabia 2000-01 † = 22. Jaundice, Sudan 2006-07 * = 35. Jaundice, Saudi Arabia 2000-01 † = 18. Central nervous system abnormalities, Sudan 2006-07 * = 11. Central nervous system abnormalities, Saudi Arabia 2000-01 † = 17. Confusion, Sudan 2006-07 * = 5. Confusion, Saudi Arabia 2000-01 † = 8. Vertigo, Sudan 2006-07 * = n.r.. Vertigo, Saudi Arabia 2000-01 † = 3. Ataxia, Sudan 2006-07 * = n.r.. Ataxia, Saudi Arabia 2000-01 † = 0.6. Convulsions, Sudan 2006-07 * = 1. Convulsions, Saudi Arabia 2000-01 † = 0.6. Coma, Sudan 2006-07 * = 11. Coma, Saudi Arabia 2000-01 † = 3. Hemorrhagic manifestations, Sudan 2006-07 * = 36. Hemorrhagic manifestations, Saudi Arabia 2000-01 † = 7. Hematemesis, Sudan 2006-07 * = 36. Hematemesis, Saudi Arabia 2000-01 † = 4. Petechiae, Sudan 2006-07 * = 2. Petechiae, Saudi Arabia 2000-01 † = 3. Gingival bleeding, Sudan 2006-07 * = 21. Gingival bleeding, Saudi Arabia 2000-01 † = 1.4. Epistaxis, Sudan 2006-07 * = 36. Epistaxis, Saudi Arabia 2000-01 † = 1.2. Conjunctival hemorrhage, Sudan 2006-07 * = 10. Conjunctival hemorrhage, Saudi Arabia 2000-01 † = 1.2. Hematuria, Sudan 2006-07 * = 16.
+
+============================================================
+CHUNK 111
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSES
+Hematuria, Saudi Arabia 2000-01 † = n.r.. *N = 194 patients [14]., Sudan 2006-07 * = . *N = 194 patients [14]., Saudi Arabia 2000-01 † = . †N varies between 475 to 532 patients depending on clinical sign [10]., Sudan 2006-07 * = †N varies between 475 to 532 patients depending on clinical sign [10].. †N varies between 475 to 532 patients depending on clinical sign [10]., Saudi Arabia 2000-01 † = †N varies between 475 to 532 patients depending on clinical sign [10].
+high index of suspicion for Rift Valley  fever [12]. Initial Rift Valley fever presentation is often nonspecific and similar to severe malaria, leptospirosis  or  other  viral  hemorrhagic  fevers,  including  Ebola, Marburg, Crimean-Congo hemorrhagic fever, Lassa fever, Yellow fever or Dengue fever. Patient contact with ticks, rodents, bats and nonhuman primates are not thought to be significant risk factors for Rift Valley fever and may be more indicative of Crimean-Congo hemorrhagic fever (ticks)  or  leptospirosis  and  Lassa  (rodents),  Ebola and Marburg (bats and nonhuman primates).
+Diagnosis can be accomplished by serology and nucleic acid amplification  testing  [reverse  transcription  (RT)-PCR]  or  virus  isolation from whole blood or serum. Post-mortem tissues can be submitted for immunohistochemical staining. Owing to safety concerns, postmortem examinations should be performed only after consultation with  national  diagnostic  reference  centers.  Handling  of  laboratory specimens and virus culture should only be performed in Biosafety Level (BSL)-3 + - or BSL-4-capable laboratories by trained personnel. RVFV  is  labile  and  decontamination  can  be  accomplished  by  use of  strong  detergents  or  10%  solutions  of  sodium  hypochlorite (bleach).
+
+============================================================
+CHUNK 112
+============================================================
+Expected clinical signs
+FIGURE  33.7.2 A  timeline  indicating  the  onset  and  duration  of  the major expected clinical signs of Rift Valley fever.
+
+============================================================
+CHUNK 113
+============================================================
+TREATMENT AND PREVENTION
+Treatment of Rift Valley fever patients is primarily symptomatic. For the majority of patients, the disease is self-limiting. Drugs that may have potential hepatotoxic, nephrotoxic or negative effects on coagulation  factors and platelet  function  should be avoided. Ribavirin,  a guanosine analogue, is a potent antiviral drug and may be of benefit among severely affected Rift Valley fever patients [13]. However, an efficacy trial undertaken during the Rift Valley fever outbreak in Saudi Arabia in 2000 was terminated because of adverse events. The data were suggestive that ribavirin may potentiate the neurologic form of Rift Valley fever. Pharmacokinetic studies have shown that the drug has  poor  central  nervous  system  penetration  and  Rift  Valley  fever animal  models  also  suggest  that  treatment  increases  the  risk  of delayed-onset neurologic complications. A safe and effective formalininactivated vaccine was developed for human use in the 1970s, but is no longer available. There are no currently licensed veterinary vaccines for  use  in  North  America  or  the  European  Union.  Live-attenuated vaccines are available for use in endemic areas, but are  contraindicated  in  young  or  pregnant  animals  as  a  result  of  teratogenic  and abortifacient properties. Several novel human and veterinary vaccine candidates  (recombinant  live-attenuated,  virus-like  particle,  DNAbased and subunit approaches) are under development, but none are commercially available at this time.
+
+============================================================
+CHUNK 114
+============================================================
+REFERENCES
+1. Bird BH, Ksiazek TG, Nichol ST, Maclachlan NJ. Rift Valley fever virus. J Am Vet Med Assoc 2009;234:883-93.
+2. Evans  A,  Gakuya  F,  Paweska  JT,  et  al.  Prevalence  of  antibodies  against  Rift Valley fever virus in Kenyan wildlife. Epidemiol Infect 2008;136:1261-9.
+3. Swanepoel R, Coetzer JAW. Rift Valley fever. In: Infectious diseases of livestock. Oxford: Oxford University Press; 2004:1037-70.
+4. Adam I, Karsany MS. Case report: Rift Valley Fever with vertical transmission in a pregnant Sudanese woman. J Med Virol 2008;80:929.
+5. Arishi HM, Aqeel AY, Al Hazmi MM. Vertical transmission of fatal Rift Valley fever in a newborn. Ann Trop Paediatr 2006;26:251-3.
+6. Pepin  M,  Bouloy  M,  Bird  BH,  et  al.  Rift  Valley  fever  virus  (Bunyaviridae: Phlebovirus): an update on pathogenesis, molecular epidemiology, vectors, diagnostics and prevention. Vet Res. 2010;41:61.
+7. Shieh  WJ,  Paddock  CD,  Lederman  E,  et  al.  Pathologic  studies  on  suspect animal  and  human  cases  of  Rift  Valley  fever  from  an  outbreak  in  Eastern Africa, 2006-2007. Am J Trop Med Hyg 2010;83(suppl. 2):38-42.
+8. Kahlon SS, Peters CJ, Leduc J, et al. Severe Rift Valley fever may present with a characteristic clinical syndrome. Am J Trop Med Hyg 2010;82:371-5.
+9. Al-Hazmi  A,  Al-Rajhi  AA,  Abboud  EB,  et  al.  Ocular  complications  of Rift Valley fever  outbreak  in  Saudi  Arabia.  Ophthalmology  2005;112: 313-18.
+
+============================================================
+CHUNK 115
+============================================================
+REFERENCES
+10.  Madani TA, Al-Mazrou YY, Al-Jeffri MH, et al. Rift Valley fever epidemic in Saudi  Arabia:  Epidemiological, clinical,  and  laboratory  characteristics.  Clin Infect Dis 2003;37:1084-92.
+11.  Bird BH, Bawiec DA, Ksiazek TG et al. Highly sensitive and broadly reactive quantitative reverse transcription-PCR assay for high-throughput detection of Rift Valley fever virus. J Clin Microbiol 2007;45:3506-13.
+12.  Anyangu AS, Gould LH, Sharif SK, et al. Risk factors for severe Rift Valley fever infection in Kenya, 2007. Am J Trop Med Hyg 2010;83(suppl. 2):14-21.
+13.  Peters CJ, Reynolds JA, Slone TW. Prophylaxis of Rift Valley fever with antiviral drugs,  immune  serum,  an  interferon  inducer,  and  a  macrophage  activator, Antiviral Res 1986;6:285-97.
+14.  El Imam MM, El Sabiq M, Omran A, et al. Acute renal failure associated with the Rift Valley fever: a single center study. Saudi J Kidney Dis Transpl 2009;20: 1047-52.
+

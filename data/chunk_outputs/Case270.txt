@@ -1,0 +1,150 @@
+============================================================
+CHUNK 0
+============================================================
+37.5
+
+============================================================
+CHUNK 1
+============================================================
+KEY FEATURES
+- tick-borne viral hemorrhagic fever occurring infrequently in Africa, Asia, and Europe. Modern synonyms include Central Asian hemorrhagic fever, Kara mikh typhoid fever ( ميخ ه قر Ϫ حصب ) in Iran, and X ī nji ā ng hemorrhagic fever ( ) in China.
+- hemorrhagic fever virus (CCHFV).
+- Hyalomma tick bites or through direct contact with infected mammals, including humans or their tissues, excretions, or secretions. Infected mammals may be asymptomatic despite viremia and may transmit the virus during this period to ticks or other mammals, including humans.
+- viral hemorrhagic fever with severe hemorrhage subsequent to a short incubation period (3-6 days) and a pre-hemorrhagic phase.
+- including severity of hemorrhage, viral load, patient access to health care facilities, standard of supportive care, and availability of (candidate) anti-virals.
+- experts, but is recommended by the World Health Organization (WHO). A vaccine to prevent CCHFV infection is only available in Bulgaria.
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+The disease now known as Crimean-Congo hemorrhagic fever (CCHF) has  probably  been  encountered  by  humans  since  the early 12th century in the area of what today is T ajikistan. 1 The disease was {rst described in the medical literature in 1945 as a tick-borne viral hemorrhagic fever that affected Crimean peasants during the 1944 crop-harvesting season. 2 The virus responsible for these cases was {rst isolated in 1967 in laboratory mice. In 1969, this virus was shown to be identical to a virus isolated in 1956  from  a  febrile  child  in  Stanleyville,  Belgian  Congo. The disease name CCHF was chosen to honor these linked discoveries, and this name has been maintained to the present by the World Health  Organization's  (WHO)  International  Classi{cation  of Disease 10 (ICD-10: A98.0). 3 T oday, Crimean-Congo hemorrhagic fever virus (CCHFV) is classi{ed as the only member of the species Orthonairovirus in the family Nairoviridae , order Bunyavirales .
+
+============================================================
+CHUNK 3
+============================================================
+EPIDEMIOLOGY
+CCHF cases have been reported in Africa (Burkina Faso, Democratic Republic of the Congo, Kenya, Mauritania, Republic of the Congo,  Senegal,  South Africa,  Sudan, T anzania,  Uganda),  Asia (Afghanistan,  Armenia, China, Georgia, India, Iran, Iraq, Kazakhstan, Kuwait, Kyrgyzstan, Oman, Pakistan, Russia, Saudi Arabia, T ajikistan, Turkey, Turkmenistan, United Arab Emirates, Uzbekistan), and
+
+============================================================
+CHUNK 4
+============================================================
+Crimean-Congo Hemorrhagic Fever
+Maryam Keshtkar-Jahromi, Jens H. Kuhn, Marzieh Keshtkar-Jahromi
+Europe (Albania, Bulgaria, Greece, Hungary, Kosovo, Macedonia, Russia, Serbia, Spain, Serbia, T urkey, Ukraine). 1,3-6 Furthermore, evidence exists for CCHFV endemicity in countries from which cases have not yet been reported (Algeria, Benin, Central African Republic, Egypt, Ethiopia, Kuwait, Madagascar, Morocco, Nigeria, Romania, Somalia, Tunisia,  Zimbabwe).  However,  the  absolute annual CCHV case numbers and frequency of occurrence and/or transmission of CCHFV infections remain unclear for many of the listed countries due to lack of robust surveillance systems and/or the lack of diagnostic capabilities beyond reliance on clinical presentation and serologic assays. 3,6 .  The only very recent discovery of CCHFV in Spain indicates that CCHFV must be viewed as an emerging pathogen that ought to be considered in the differential diagnosis even in countries that currently are not known to be endemic.
+
+============================================================
+CHUNK 5
+============================================================
+ECOLOGY AND TRANSMISSION
+In  nature,  CCHFV  is  maintained  trans-ovarially  (to  the  next generation)  or  trans-stadially  (among  developmental  stages)  in predominantly hard (ixodid) ticks of the genus Hyalomma. The geographic distribution of these and other infected ticks determines areas of risk for human infection. 1 Infected ticks may transmit the virus to hares, hedgehogs, and ground squirrels (susliks), but also to cattle, goats, ostriches, and sheep, all of which typically remain asymptomatic.  Naïve  ticks  feeding  on  infected  livestock  then complete the infectious cycle. The role of migratory birds in the CCHFV transmission cycle is unclear because, typically, they are refractory to CCHFV infection, but these birds can potentially transfer infected ticks from one location to another. Humans may become accidental virus hosts after tick bites or after having direct contact with infected animals, including humans, or their tissues, excretions,  or  secretions  (Fig.  37.5.1A).  Consequently,  certain human populations are at high risk of CCHFV infection. These populations  include health care professionals who are in touch with asymptomatically infected people or with CCHF patients, burial professionals, individuals who are active outdoors in tickinfested  areas,  household  contacts  of  CCHFV-infected  people, veterinarians, butchers, and abattoir workers. 3
+
+============================================================
+CHUNK 6
+============================================================
+DISEASE PRESENTATION
+CCHF typically has an incubation phase of  1 to 13 days. The disease begins suddenly with a pre-hemorrhagic (in|uenza-like) phase  characterized  by  high  fever,  rigors,  headache,  dizziness, photophobia, malaise, nausea, abdominal pain, vomiting, arthralgia, myalgia, sore throat, and non-bloody diarrhea (Fig. 37.5.1B). In severe cases, the disease progresses around days 3 to 6 after disease onset to a rapidly developing hemorrhagic phase with a duration of 2 to 3 days. Hemorrhagic signs (associated with a poor prognosis) include  petechiae  on  trunk  and  limbs  to  extended  ecchymosis (Fig. 37.5.1C), epistaxis, frank hemorrhage from mucosal membranes (vaginal, gastrointestinal), hematemesis, hematuria, melena, and hemoptysis. Patients may show signs of disseminated intravascular  coagulation  (DIC),  circulatory  shock,  and  end-organ damage, including kidney and liver impairment. CCHF patients are typically characterized by increased alanine aminotransferase (ALT), aspartate aminotransferase (AST), creatine kinase (CK), γ -glutamyl transferase (GGT), and lactate dehydrogenase (LDH) concentrations;  prolonged  prothrombin  and  activated  partial
+A
+B
+Enzootic cycle
+Adult
+Incubation
+3-7 days
+Eggs
+Larva
+Nymph
+---- Platelets
+White blood cells
+Aspartate aminotransferase
+Alanine aminotransferase
+PCR: first 9 days
+Myalgia
+Fever
+Nausea, vomiting
+Diarrhea
+Prehemorrhagic period
+1-7 days
+Enzootic-epidemic cycle
+?
+
+============================================================
+CHUNK 7
+============================================================
+DISEASE PRESENTATION
+Fig. 37.5.1 (A) Virus ecology. CCHFV is maintained in an enzootic transmission cycle in predominantly ixodid ticks, which may change location via migratory birds that do not get infected. Ticks may transmit CCHFV to non-primate mammals and ostriches or directly to people; people can also become infected by having direct contact with infected animals, including humans. (B) Typical clinical course of CCHF. 7 (C) CCHF patients with ecchymosis on arm (hemorrhagic phase) and erythema nodosum on legs (convalescent period).
+thromboplastin times; increased bilirubin and creatinine concentrations;  leukocytosis;  thrombocytopenia;  and  presence  of  {brin degradation products. Survivors may develop sequelae, including labile pulse, anorexia, tachycardia, temporary complete alopecia, polyneuritis,  dyspnea,  xerostomia,  poor  vision,  loss  of  hearing, and poor memory. 3,7
+
+============================================================
+CHUNK 8
+============================================================
+PATHOGENESIS
+The pathogenesis of CCHF is not well understood but is hypothesized to be similar to the pathogenesis of other viral hemorrhagic fevers. Accordingly, CCHFV would {rst replicate locally in monocytoid and other cells before spreading to lymph nodes and then throughout the body via the blood and lymphatic systems. Dysregulation of the vascular system, lymphoid organs, and host immune response are thought to be the direct result of CCHFV replication in the liver and adrenals,  which  often become  necrotic. The resulting coagulopathy and increased endothelial permeability are due to CCHFV  replication  in  blood  vessel  endothelia.  Alternatively, CCHFV-induced up-regulation of cytokines that increase vascular permeability, immune complex deposition, and complement activation  could  explain  the  hemorrhagic  phase  of  CCHF,  including hypovolemic shock.  Hemophagocytosis  has  been  observed  and could explain the CCHF-typical cytopenias during the acute phase. 3,8
+
+============================================================
+CHUNK 9
+============================================================
+LABORATORY DIAGNOSIS
+The laboratory  diagnosis  of  CCHF  is  complicated  by  the  fact that CCHFV is classi{ed as a World Health Organization (WHO) Risk Group 4 pathogen, therefore requiring maximum containment laboratory settings for live virus culture (typically in Vero cells), animal inoculation (typically intra-cerebral into suckling laboratory
+mice), or examination of non-sterilized materials. Thus, reverse transcriptase polymerase chain reaction (RT-PCR) and quantitative RT-PCR  using  inactivated  samples  are  the  gold  standards  of diagnosis, but PCR diagnosis is still not available in many rural laboratories of countries where CCHFV may be endemic. In these cases, anti-CCHFV IgG and IgM can be detected by (relatively insensitive)  immuno|uorescence  assay  (IFA)  or  enzyme-linked immunosorbent assay (ELISA), usually within 7 days after onset of infection. A single positive IgM test or a paired fourfold increase in  IgG titer during the course of disease is a good indicator of acute CCHFV infection. 3,9
+
+============================================================
+CHUNK 10
+============================================================
+DIFFERENTIAL DIAGNOSIS
+The  differential  diagnosis  of  CCHF  is  complex  and  is  highly dependent on where the disease is recognized and the availability of travel and occupational histories. The pre-hemorrhagic phase of CCHF has an etiology-independent presentation, and differential diagnosis therefore includes any acute febrile illness. A history of a tick bite should trigger the inclusion of borrelioses, ehrlichiosis, rickettsioses, and Q fever in the differential diagnosis. The hemorrhagic phase may be an indication of any viral hemorrhagic fever, including  Alkhurma  hemorrhagic  fever,  Ebola  virus  disease, hemorrhagic fever with renal syndrome, Kyasanur Forest disease, Marburg virus disease, Lassa fever, Rift Valley fever, severe dengue, severe fever with thrombocytopenia syndrome, and yellow fever. 3,10 General sepsis may also mimic CCHF, as may other conditions such as  malaria,  leptospirosis,  viral  hepatitis,  congenital  coagulopathies, poisonings, or snake bites.
+
+============================================================
+CHUNK 11
+============================================================
+TREATMENT
+Due  to  the  absence  of  approved  CCHFV-speci{c  anti-virals, treatment almost always has to be supportive in nature. The degree of supportive care is necessarily based on disease severity and the available standard of care in hospitals. Some CCHF patients may only need |uid hydration and/or electrolyte replacement, whereas others  may  require  blood,  platelet,  and/or  fresh  frozen  plasma transfusions. Patients in the hemorrhagic phase of CCHF may develop hypovolemic shock and, therefore, require aggressive |uid replacement and administration of vasopressors in intensive-care settings. End-organ damage may be a consequence of shock and require hemodialysis, long-term ventilation, or even organ replacement. Endoscopy and minor or major surgeries might be indicated to  control  bleeding.  Finally,  antimicrobials  might  have  to  be administered to treat superinfections. The administration of the generic anti-viral ribavirin is hotly debated as a means to control CCHFV infection. Finally, hyperimmune globulin may be ef{cacious against CCHF, but is not readily available. 3,11,12
+
+============================================================
+CHUNK 12
+============================================================
+PREVENTION
+The most effective measure to prevent CCHFV infection is the avoidance of tick-infested areas, donning of proper clothing and other measures to prevent tick bites (including arthropod repellents); regular screening for tick bites with rapid and proper removal of  the  tick;  and  donning  of  appropriate  personal  protective equipment in professional settings such as hospitals, butcheries, and  abattoirs.  Local  educational  campaigns  can  and  should  be undertaken to increase knowledge and awareness regarding the modes of CCHFV transmission and simple and effective ways to prevent infection. Patient isolation and contact tracing in outbreak settings can help reduce case numbers and, together with preventive measures, ultimately can terminate outbreaks. 3,13
+
+============================================================
+CHUNK 13
+============================================================
+POST-EXPOSURE PROPHYLAXIS
+Thus far, ribavirin is the only measure that has been experimentally used as post-exposure prophylaxis after  potential  CCHFV exposure. 3,11
+
+============================================================
+CHUNK 14
+============================================================
+VACCINES
+A U.S. Food and Drug Administration-approved human vaccine is not available, but a Soviet vaccine has been licensed and used in  Bulgaria  since  1974  for  military  personnel  and  medical  and agricultural workers. 13,14 The ef{cacy of this vaccine has not been established by randomized clinical trials and is, therefore, in doubt. Modern vaccine development has been severely hindered by the absence of suitable CCHF animal models. 11,15
+
+============================================================
+CHUNK 15
+============================================================
+Disclaimer
+The content of this publication does not necessarily re|ect the views or policies of the U.S. Department of Health and Human Services or of the institutions and companies af{liated with the authors. This work was also supported in part through Battelle Memorial Institute's prime contract with the U.S. National Institute of Allergy and Infectious Diseases (NIAID) under Contract No. HHSN272200700016I (JHK).
+
+============================================================
+CHUNK 16
+============================================================
+REFERENCES
+1.  Hoogstraal  H.  The  epidemiology  of  tick-borne  Crimean-Congo hemorrhagic  fever  in  Asia,  Europe,  and  Africa.  J  Med  Entomol 1979;15(4):307-417.
+2. Č umakov MP. Krymskaâ gemorragi č eskaâ lihoradka (ostryj infekcionnyj kapillârotoksikoz). Simferopol, USSR: Izdanie Otdel'noj Primorskoj Armii; 1945.
+3.  Ergonul O, Whitehouse CA. Crimean-Congo hemorrhagic fever: a global perspective. Amsterdam, The Netherlands: Springer; 2007.
+4.  Av š i č -Županc T. Epidemiology and current geographical distribution of Crimean-Congo haemorrhagic fever. Arbo-Zoonet Newsl 2009;(2):8-15.
+5.  Pigott DM, Deshpande A, Letourneau I, et al. Local, national, and regional  viral  haemorrhagic  fever  pandemic  potential  in  Africa:  a multistage analysis. Lancet 2017;390(10113):2662-72.
+6.  Al-Abri SS, Abaidani IA, Fazlalipour M, et al. Current status of CrimeanCongo haemorrhagic fever in the World Health Organization Eastern Mediterranean Region: issues, challenges, and future directions. Int J Infect Dis 2017;58:82-9.
+7.  Ergönül O. Crimean-Congo haemorrhagic fever. Lancet Infect Dis 2006;6(4):203-14.
+8.  Akıncı E, Bodur H, Leblebicioglu H. Pathogenesis of Crimean-Congo hemorrhagic fever. Vector Borne Zoonotic Dis 2013;13(7):429-37.
+9.  Burt FJ. Laboratory diagnosis of Crimean-Congo hemorrhagic fever virus infections. Future Virol 2011;6(7):831-41.
+10.  T ezer H, Polat M. Diagnosis of Crimean-Congo hemorrhagic fever. Expert Rev Anti Infect Ther 2015;13(5):555-66.
+
+============================================================
+CHUNK 17
+============================================================
+REFERENCES
+11.  Keshtkar-Jahromi M, Kuhn JH, Christova I, et al. Crimean-Congo hemorrhagic  fever:  current  and  future  prospects  of  vaccines  and therapies. Antiviral Res 2011;90(2):85-92.
+12.  Leblebicioglu H, Bodur H, Dokuzoguz B, et al. Case management and supportive treatment for patients with Crimean-Congo hemorrhagic fever. Vector Borne Zoonotic Dis 2012;12(9):805-11.
+13.  Mirazimi A, Weinbach J, Weidmann M, et al. The Crimean Congo Hemorrhagic Fever European Consortium: modern approaches to diagnostics,  epidemiology,  prevention,  therapy  and  preparedness. Antiviral Res 2011;90(2):A59.
+14.  Christova  I,  Kovacheva  O,  Georgieva  G,  et al. Vacine  [sic]  against Congo-Crimean haemorhagic fever virus-Bulgarian input in {ghting the disease. Probl Infect Parasit Dis 2010;37(1):7-8.
+15.  Dowall SD, Carroll MW, Hewson R. Development of vaccines against Crimean-Congo haemorrhagic fever virus. Vaccine 2017;35(44):6015-23.
+

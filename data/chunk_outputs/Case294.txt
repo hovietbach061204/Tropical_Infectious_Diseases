@@ -1,0 +1,286 @@
+============================================================
+CHUNK 0
+============================================================
+58
+
+============================================================
+CHUNK 1
+============================================================
+KEY FEATURES
+- administration of parenteral antibiotics saves lives.
+- especially in infants and young children.
+- seeding or spread from contiguous sites (otitis, sinusitis).
+- meningitis is lumbar puncture with Gram stain and culture.
+- Streptococcus pneumoniae, Haemophilus inRuenzae, and Neisseria meningitidis. Causative agents in neonates include group B streptococci and gram-negative organisms. Listeria monocytogenes can cause meningoencephalitis, usually in immunocompromised, elderly, and pregnant individuals.
+- meningitis may present with similar clinical features to that of cryptococcal meningitis and tuberculous meningitis (i.e., a more indolent presentation).
+- low-income countries.
+- (likely) causative agent(s), but in resource-limited settings usually involves the use of a third-generation cephalosporin such as ceftriaxone. In non-resourcelimited settings, ampicillin should also be administered to individuals at risk of listeriosis, and vancomycin should be added in areas with ceftriaxone-resistant pneumococci. Neonates in non-resource-limited settings are usually treated with ampicillin and gentamicin, ceftriaxone, or cefotaxime.
+- preventable by currently available vaccines, but use of these vaccines is not universal in resource-limited settings.
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+Acute  bacterial  meningitis  is  de{ned  as  in|ammation  of  the meninges  secondary  to  bacterial  infection.  Infection  of  the meninges  arises  secondary  to  colonization  of  the  nasopharynx followed  by  mucosal  invasion,  bacteremic  spread,  and  {nally crossing  the  blood-brain  barrier  into  the  subarachnoid  space. The highest burden of disease  from bacterial  meningitis exists in tropical and resource-limited areas, where the infrequent use of vaccines targeting the common causative agents of acute bacterial meningitis, coupled with the HIV/AIDS pandemic, has ampli{ed the problem. Bacterial meningitis is usually fatal without treatment. Therefore prompt and accurate diagnosis, coupled with the timely administration of parenteral antibiotics, is necessary in order to
+
+============================================================
+CHUNK 3
+============================================================
+Acute Bacterial Meningitis
+Michael J. Griffiths, Rathi Guhadasan, Enitan D. Carrol save lives. 1 The presenting clinical features of bacterial meningitis may be similar to those of other central nervous system (CNS) infections, such as tuberculous meningitis, cryptococcal meningitis, and viral meningitis. Historically, most reports of bacterial meningitis in sub-Saharan Africa describe epidemics of meningococcal meningitis  caused  by  serogroup  A,  occurring  approximately every decade. More recently, other serogroups, such as W, have been  reported  in  Africa,  although  serogroup  A  continues  to predominate. 2
+
+============================================================
+CHUNK 4
+============================================================
+EPIDEMIOLOGY
+The annual incidence of acute bacterial meningitis is 4 to 6 per 100,000 in high-income countries and 10-fold higher in developing countries. There is a high case fatality rate in developing countries (10%-50%) that is augmented by pre-existing comorbidities (e.g., malnutrition, HIV infection, and sickle cell disease); late presentation to health services; emerging antibiotic resistance; and lack of  appropriate  antibiotics,  medical  expertise,  and  the  use  of conjugate vaccines against the main three pathogens: Streptococcus pneumoniae,  Haemophilus  inRuenzae, and Neisseria  meningitidis. HIV-exposed but uninfected infants are at increased risk of invasive pneumococcal disease (IPD; including pneumococcal meningitis) than HIV-unexposed and uninfected infants. This is a growing population of susceptible infants in the era of antiretroviral therapy in sub-Saharan Africa. 3
+N. meningitidis -associated meningitis occurs across the globe, but N. meningitidis can  also  cause  large  outbreaks, especially in crowded conditions and in the 'meningitis belt' of Africa (Fig. 58.1), where epidemics occur every 5 to 15 years in the Harmattan season (dry and dusty with a strong wind between November and March) and are associated with up to 10% mortality. 4
+Although  outbreaks  of  meningitis  due  to N.  meningitidis are  known  to  occur,  there  have  also  been  reported  outbreaks of  pneumococcal  meningitis, 5,6 including  a  recent  outbreak in  older  children  and  adults  in  Ghana  outside  the  meningitis belt  after  pneumococcal  conjugate  vaccine  (PCV)  introduction in infants. 7
+The peak incidence for S. pneumoniae and H. inRuenza e (Hib) meningitis occurs in children. Hib meningitis is rare over the age of 5 years, but pneumococcal and meningococcal meningitis can occur in all age groups. 4
+
+============================================================
+CHUNK 5
+============================================================
+EPIDEMIOLOGY
+In studies from sub-Saharan Africa in the Hib vaccine era, the most common organisms in children under 5 years of age were S.  pneumoniae, non-typhoidal  salmonellae,  and  Hib. 8,9 In  older children and adults, S. pneumoniae was the most common pathogen. In  Southeast Asia, S.  suis is  a  frequent  cause  of  acute  bacterial meningitis  in  adults.  In  HIV-endemic  regions,  cryptococcal, tuberculous and pneumococcal meningitis are among the leading causes of meningitis in adults.
+
+============================================================
+CHUNK 6
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+The  most  common bacteria  causing  acute  bacterial  meningitis ( S. pneumoniae, N. meningitidis, and H. inRuenza e) have neurotrophic potential, which allows them to invade the host mucosal epithelium,
+multiply in the bloodstream, and cross the blood-brain barrier into  the  cerebrospinal  |uid  (CSF).  The  bacteria  colonize  the nasopharyngeal epithelium by adhering to the epithelial lining of the respiratory tract-the mechanisms of which vary depending on the organism. N. meningitidis and other gram-negative bacteria adhere  via  pili; S.  pneumoniae binds  by  pneumococcal  surfaceassociated  proteins,  such  as  pneumococcal  surface  adhesion  A (PsaA)  or  choline-binding  protein A  (CbpA). 10 Y oung  children mount inadequate immune responses to bacterial capsular polysaccharides, rendering them particularly vulnerable to these infections. 11 Bacteria  cross  the  blood-brain  barrier  by  a  number  of processes  that  include  (1)  disruption  of  the  tight  junctions;  (2) transcellular migration by transcytosis; and (3) surviving within phagocytes using a 'Trojan horse' mechanism, as well as speci{c bacteria-host interactions involving cell signal transduction pathways  with  effects  on  actin  cytoskeleton  rearrangements. 12 Survival within the bloodstream depends on the bacteria avoiding host  defense  mechanisms,  particularly  complement-dependent killing. N. meningitidis and S. pneumoniae both recruit complement factor H, the main regulator of the alternative complement pathway that controls early activation of the complement  cascade. N.  meningitidis produces  factor  H  binding  protein,  and  the S. pneumoniae proteins CbpA and pneumococcal surface protein C (PspC) bind complement factor H.
+
+============================================================
+CHUNK 7
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+There appear to be two prerequisites for pathogens to cause bacterial meningitis: a high and/or sustained level of bacteremia and an ability to interact with cellular components of the bloodCNS barriers. 13 Longer duration of bacteremia and  young age (which  itself  is  inversely  related  to  bacterial  load)  increase  the likelihood of meningeal invasion. If bacteria cross the blood-CNS barrier at the choroid plexus, then they interact with the choroid ependymal monolayer. If they cross at the blood-brain barrier, then the bacteria must adhere to brain endothelium. 13  High CSF pneumococcal bacterial loads are associated with a worse outcome in children but not adults. 14,15
+Once within the CSF, bacteria enter a sanctuary site with relatively low concentrations of complement and antibody. Bacteria and  bacterial  products  (resulting  from  autolysis)  stimulate  an in|ammatory response of pro- and anti-in|ammatory cytokines.
+In turn, the pro-in|ammatory cells stimulate the release of chemokines. Neuronal cell death occurs via a mixture of apoptosis and  necrosis.  White  matter  injury  also  occurs,  secondary  to small-vessel vasculitis, focal ischemia, or venous thrombosis. The process is summarized in Fig. 58.2.
+
+============================================================
+CHUNK 8
+============================================================
+CLINICAL FEATURES
+In infants and young children, clinical features are very non-speci{c and  include  fever,  lethargy,  irritability,  poor  feeding,  seizures, respiratory distress, vomiting and diarrhea, and a bulging fontanelle, 16,17 and older children and adults have headache (80%-95%), photophobia  (30%-50%),  neck  stiffness  (50%-90%),  lethargy, confusion, and positive Kernig's sign (resistance to knee extension upon passive hip |exion; 5%) and Brudzinski's sign (hip |exion upon  passive  neck  |exion;  5%). 1,17 Adults  with  acute  bacterial meningitis usually present with features of fever, neck stiffness, and altered mental status. Van de Beek and colleagues proposed that this triad should be a quartet of fever, neck stiffness, headache, and altered mental status. T wo out of four of these features are present in 95% of adults with acute bacterial meningitis. 18  More advanced disease may include opisthotonus, focal neurologic de{cit (20%-30%), seizures (15%-30%), and a reduced level of consciousness (Fig. 58.3).
+A rash may be present in 10% to 15% of cases of acute bacterial meningitis-most commonly this is the purpuric rash of meningococcal meningitis with septicemia, but a purpuric rash may also be caused by other pathogens. Shock and disseminated intravascular coagulation occur in meningococcemia. Cushing's triad of systemic hypertension, bradycardia, and respiratory depression occurs late and indicates raised intracranial pressure and shift of brain compartments. 17 HIV-positive children with acute bacterial meningitis are more  likely  to  present  in  extremis  and  have  pneumococcal meningitis, seizures, or a focus of infection, such as otitis media. They  take  longer  to  defervesce  and  are  more  likely  to  die  or experience recurrence.
+Patients should be monitored closely for dehydration, shock, seizures, altered consciousness level, or rising intracranial pressure. Cerebrovascular events, such as infarction and/or edema, obstructive
+
+============================================================
+CHUNK 9
+============================================================
+CLINICAL FEATURES
+Fig. 58.2 Pathogenesis of bacterial meningitis. 1. Adherence and colonization of mucosa; 2. Invasion of bloodstream; 3. Multiplication in bloodstream; 4. Increased permeability of blood-brain barrier and bacteria cross blood-brain barrier; 5. Infiltration of CSF by white cells; 6. Release of pro-inflammatory cytokines; 7. Uncontrolled replication of bacteria in sanctuary site, CSF; 8. Bacterial products stimulate inflammatory cascade; 9. Activated leukocytes lead to production of matrix metalloproteinase (MMP) and oxidants.
+Fig. 58.3 Opisthotonus in a Malawian child with bacterial meningitis.
+or communicating hydrocephalus, epidural abscess, and subdural empyema are uncommon complications. Immune complex-mediated arthritis occurs late in Hib or meningococcal illness. Neurologic sequelae, such as deafness, cognitive impairment, and developmental delay, occur in 5% to 40% of survivors. 17
+
+============================================================
+CHUNK 10
+============================================================
+Patient Evaluation
+Initial evaluation should include a thorough history to elicit information on duration of illness, history of seizures, antiretroviral or anti-tuberculous treatment, HIV status, and previous antibiotics or anti-malarials. Examination should include assessment of nutritional status, presence of a rash, examination of the fontanelle, and eliciting neck stiffness. In the tropics, features of acute bacterial meningitis often  overlap  with  those  of  severe  malaria  or  cerebral  malaria, leading to dif{culties in the early recognition of acute bacterial meningitis in children. Several predictor algorithms to assist in establishing the diagnosis of acute bacterial meningitis have been derived, most of which include laboratory data. Only two of these have been evaluated in resource-poor settings. In children, Berkley et al. reported that the presence of one or more of the following is an indication for lumbar puncture 19 : bulging fontanelle, neck stiffness,  cyanosis,  impaired  consciousness,  partial  seizures,  and seizures outside the febrile convulsions age range. Thwaites et al. described a weighted diagnostic score to distinguish acute bacterial meningitis from tuberculous meningitis in adults, which included age, white blood cell count, duration of history of illness, CSF white cell count, and CSF percentage neutrophils. 20 In areas with a high incidence of HIV infection, S. pneumoniae is the most common cause of acute bacterial meningitis; however, tuberculous meningitis and cryptococcal meningitis are also commonly associated with HIV infection-the presenting clinical features of all three diseases are very similar. 1 A clinical algorithm for the management of CNS infections in adults has been described for use in resource-poor settings with a high prevalence of HIV; it demonstrated reduced time to diagnosis and treatment of cryptococcal meningitis. 21
+
+============================================================
+CHUNK 11
+============================================================
+Diagnosis
+Lumbar puncture (LP) is the key investigation. LP enables rapid con{rmation  of  meningitis  and  type  of  infecting  organism. Diagnostic yield of LP can be diminished, particularly for Mycobacterium, by collecting small CSF volumes. 22,23
+CSF cell count can be a rapidly informative test. Pleocytosis indicates meningeal in|ammation, of which infection is the most common cause. Van de Beek and colleagues reported that > 90% of  adults  with  bacterial  meningitis  had  a  CSF  leukocyte  count > 100 cells/ μ L. 24 Absence of pleocytosis makes meningitis less likely,
+but does not completely rule it out. Positive pathogen detection with an absent pleocytosis more frequently occurs among children, those who are immunocompromised, and those pre-treated with antibiotics or with mycobacteria TB infection. 25
+CSF leukocyte differential can guide which type of pathogen is causing infection. Neutrophil predominance suggests bacterial infection,  whereas  lymphocyte  predominance  suggests  viral. However, there are several exceptions to this. For example, antibiotic pre-treatment can result in a lymphocytic-predominant CSF. In contrast, early viral infection can be associated with neutrophilpredominant CSF.
+In terms of CSF biochemistry, CSF glucose is normally around two-thirds  the  plasma  concentration.  CSF  glucose  tends  to  be lower  during  infection.  A  CSF:blood  glucose  ratio < 0.36  is  an accurate marker for distinguishing bacterial from viral meningitis. 26
+CSF protein is normally < 0.4 g/L. Elevated protein suggests infection. In one study, a CSF protein < 0.6 g/L effectively ruled out bacterial infection. 26
+CSF parameters have been successfully combined into tools to  guide  diagnosis  of  bacterial  meningitis.  One  prediction tool accurately  distinguished  bacterial  from  viral  meningitis  in  two adult patient populations, based on retrospective data (area under the curve 0.97). 27,28 Clinical prediction tools (including CSF , laboratory, and clinical features) also exhibit high accuracy when tested retrospectively in child populations. 29
+
+============================================================
+CHUNK 12
+============================================================
+Pathogen Detection
+CSF  microscopy  with  Gram  stain  (or  an  acid-fast  stain  for Mycobacterium  tuberculosis )  can  rapidly  detect  bacteria.  It  has  a sensitivity between 50% and 99%. 24 Detection of Mycobacterium is enhanced by collection of 10 mL or more of CSF and subsequent cytospin. 22
+CSF culture is regarded as the 'gold standard' for bacterial meningitis  diagnosis.  It  is  diagnostic  in  70%  to  85%  of  cases before antibiotic exposure. Sensitivity falls by 20% after antibiotic pre-treatment. CSF sterilization can occur within 2 to 4 hours of antibiotic  administration  for  meningococci  and  pneumococci, respectively. 28 LP  should  be  performed  as  soon  as  possible  to optimize pathogen detection.
+CSF polymerase chain reaction (PCR), using pathogen-speci{c nucleic acid sequences, can detect bacteria with high sensitivity. PCR is increasingly relied upon in bacterial meningitis. It has far greater sensitivity than culture in invasive meningococcal disease. 30 CSF PCR is particularly valuable in patients who receive antibiotics before LP.  PCR for 16S ribosomal RNA (present in almost all bacteria) enables a broad screen for bacteria, but has lower sensitivity than pathogen-speci{c PCR. 26,28
+Blood cultures are positive in 50% to 80% of bacterial meningitis cases. 28 Blood cultures can be useful when antibiotics are started before  LP .  Blood  PCR  is  increasingly  important,  especially  as PCR detects bacteria several days after antibiotic initiation. 30 Blood PCR increases the con{rmation in meningococcal disease. 31
+Blood biomarkers, such as procalcitonin and C-reactive protein, have been reported to accurately distinguish bacterial from viral meningitis in adults. 32,33
+
+============================================================
+CHUNK 13
+============================================================
+Pathogen Detection
+Latex agglutination tests are simple and rapid to perform, but their  cost  is  still  prohibitive  for  resource-limited  settings  and refrigeration is required for the kits. Studies have shown that they do not add much to the microbiologic diagnosis of acute bacterial meningitis in areas with microbiologic capability. In contrast, the sensitivity and speci{city of cryptococcal latex agglutination tests are high, and this may help to rapidly differentiate between bacterial and cryptococcal etiology in areas of high HIV incidence. A duplex rapid  diagnostic  test  for N.  meningitidis has  been  evaluated  on CSF samples from Niger and reported very good sensitivities and speci{cities for serogroup A and serogroup W. 34
+
+============================================================
+CHUNK 14
+============================================================
+Brain Imaging
+An urgent computed tomography scan should be performed if there  are  clinical  signs  of  raised  intracranial  pressure.  Clinical features  indicative  of  raised  intracranial  pressure  include  focal neurologic signs, papilledema, uncontrolled seizures, and reduced Glasgow Coma Scale (GCS) scores. 26 Patients with a GCS ≤ 12 should be considered for critical care, intubation assessment, and neuroimaging. Imaging, particularly when contrast is used, may exhibit meningeal enhancement. Unnecessarily performing neuroimaging before LP is associated with delays in commencing antibiotics, which in turn can lead to increased mortality. 23,35
+
+============================================================
+CHUNK 15
+============================================================
+TREATMENT
+If  a  patient  exhibits  signs  of  airway,  breathing,  or  circulatory dif{culties (e.g., in co-existing sepsis), management should initially focus  on  stabilization  of  these  systems.  In  the  UK,  the  Royal College of Physicians recommends consultant review for all acute medical patients within 14 hours of admission. Urgency of review should be assessed using the National Early Warning Score. The GCS should be recorded for its prognostic value and to enable changes  to  be  monitored.  Presence  of  a  rash  and  use  of  preadmission antibiotics should also be recorded. 26
+Based  on  signi{cant  bene{t  in  surgical  patients,  Rivers  and colleagues  showed  that  the  early  (within  6  hours)  systematic application  of  goal-directed  therapies  (GDT)  to  stabilize  adult patients  with  sepsis  signi{cantly  improved  mortality. 36,37 T wo important aspects of a GDT protocol include early initiation of the therapeutic measures, together with speci{c (hemodynamic) targets. In 2014 a meta-analysis of 13 trials in sepsis patients again concluded early GDT improved mortality. 38 However, one of the largest single randomized controlled trials (RCT s) of GDT, the ProCESS (Protocolized Care for Early Septic Shock) trial, published in 2014, did not show any difference in mortality, in contrast to many earlier studies. 39 It has been proposed the lack of impact of GDT in the ProCESS trial may have been due to acceptance of the principal interventions and the subsequent Surviving Sepsis Campaign guidelines. This was illustrated by the fact that in the ProCESS trial, all groups received, on average, more than 2 L of |uid before randomization and more than 75% of patients received antibiotics before randomization. In addition, mortality rate was much lower in the ProCESS trial than in preceding trials.
+Comparable RCTs of GDT in critically ill patients in resourcepoor settings are desperately needed. A study by Maitland and colleagues showed no bene{t of IV |uid resuscitation in children severely ill with malaria. 40 Recently a longitudinal pre- and postinterventional study by Wall and colleagues among Malawian adults with acute bacterial meningitis again showed no bene{t of GDT on mortality. 41 The evidence, therefore, from resource-poor settings is that aggressive |uid resuscitation in individuals with suspected sepsis, with or without meningitis, is likely to be detrimental.
+
+============================================================
+CHUNK 16
+============================================================
+Antibiotics
+Beyond stabilization and supportive management, antibiotics are the cornerstone of acute bacterial meningitis treatment. Untreated, acute bacterial meningitis is almost always fatal; early treatment improves clinical outcome. 17 When acute bacterial meningitis is suspected, high-dose empirical intravenous antibiotic treatment based on the likely organisms for the patient's age and susceptibility patterns of that region should be commenced without delay (Table 58.1). 1,17
+Ceftriaxone is recommended by the World Health Organization (WHO)  as  {rst-line  therapy. 1 Intravenous  and  intramuscular administration routes are equally effective, as is once-daily dosing. 1 However, chloramphenicol (in oily suspension) remains the {rst choice for treatment in many low-income settings as it is cheap
+
+============================================================
+CHUNK 17
+============================================================
+Antibiotics
+and readily available. It is contraindicated in infants under 2 months of age. 17 The WHO recommends a single intramuscular injection of ceftriaxone or oily chloramphenicol to treat epidemic meningococcal meningitis, 4,42 although longer courses are advised if the child has fever, seizures, or coma after the {rst 24 hours of treatment. 1,4,42 Single  dosing  is  reasonably safe  during  epidemics,  as 95% of cases are expected to be caused by meningococcus, which responds well to this treatment; however, a single dose is absolutely contraindicated in non-epidemic situations or for babies under 2 months of age, where the risk of partial treatment of pneumococcal, Hib, or group B streptococcal meningitis is high. 4 In all categories, the WHO recommends regular clinical reassessment and referral if there is no improvement after 48 hours, or coma or repeated seizures. 4 An RCT compared 4- and 7-day ceftriaxone treatment courses in Chilean children and showed rapid initial recovery in both groups (the most common pathogens in this study were Hib and meningococcus). 43 A large multi-country, double-blind, placebo-controlled, randomized equivalence study of 5 versus 10 days  of  treatment  with  ceftriaxone  in  1004  children  concluded that  in  children  beyond  the  neonatal  age  group  with  purulent meningitis  caused  by S.  pneumoniae,  H.  inRuenzae type  b,  or N. meningitidis who are stable by day 5 of ceftriaxone treatment, there was no difference in relapse or bacteriologic failure rates between the two groups. 44
+High rates of Hib and pneumococcal chloramphenicol resistance occur in Africa (10%-13%) and Southeast Asia. 3,16 Pneumococcal resistance to cephalosporins is a growing global concern; as many as 41% of isolates worldwide (5% in Africa) demonstrate cephalosporin and penicillin resistance, 1,4,45 necessitating the addition of vancomycin or rifampin. 46
+
+============================================================
+CHUNK 18
+============================================================
+Antibiotics
+TABLE 58.1 WHO-Recommended Empirical Antibiotic Treatment in Non-Epidemic Situations in Resource-Poor Settings Without Laboratory Support
+
+0-2 months, Likely Pathogens = Streptococcus agalactiae Streptococcus pyogenes Enterobacteria. 0-2 months, Treatment = Ceftriaxone 100 mg/kg/ day o.d.. 0-2 months, Duration of Treatment = 7 days 21 days for gram- negative bacilli ( Escherichia coli, non- typhoidal Salmonella ). 2-23 months, Likely Pathogens = Streptococcus pneumoniae Haemophilus influenzae b Neisseria meningitidis Enterobacteria. 2-23 months, Treatment = Ceftriaxone 100 mg/kg/ day o.d.. 2-23 months, Duration of Treatment = 5 days 21 days. 2-5 years, Likely Pathogens = S. pneumoniae H. influenzae b N. meningitidis. 2-5 years, Treatment = Ceftriaxone 100 mg/kg/ day o.d.. 2-5 years, Duration of Treatment = 5 days. 5-14 years, Likely Pathogens = S. pneumoniae N. meningitidis. 5-14 years, Treatment = Ceftriaxone 100 mg/kg/ day o.d. (max. 2 g). 5-14 years, Duration of Treatment = 5 days. > 14 years, Likely Pathogens = S. pneumoniae N. meningitidis. > 14 years, Treatment = Ceftriaxone 2 g/day o.d.. > 14 years, Duration of Treatment = 5 days. Elderly, Likely Pathogens = S. pneumoniae N. meningitidis. Elderly, Treatment = Ceftriaxone 2 g/day. Elderly, Duration of Treatment = 5 days
+o.d., Once daily.
+From World Health Organization. Standardised treatment of bacterial meningitis in Africa in epidemic and non-epidemic situations; 2007. Available at: http://apps.who.int/iris/bitstream/handle/10665/69475/ WHO_CDS_EPR_2007.3_eng.pdf?sequence=1&isAllowed=y.
+
+============================================================
+CHUNK 19
+============================================================
+Antibiotics
+In  non-resource-limited  settings,  ampicillin  should  also  be administered  to  individuals  at  risk  of  listeriosis;  neonates  in non-resource-limited settings are usually treated with ampicillin and gentamicin, ceftriaxone, or cefotaxime. In epidemics, empiric treatment  usually  involves  ceftriaxone  in  any  age  group  and irrelevant of pregnancy status, or oily chloramphenicol in children over 2 years of age and non-pregnant adults. 4
+
+============================================================
+CHUNK 20
+============================================================
+Adjuvant Therapies
+Dexamethasone  use  among  patients  with  meningitis  has  been associated with decreases in complications of hearing loss, neurologic sequelae, and mortality. A Cochrane review in 2007 of 18 RCTs examining dexamethasone versus placebo among Hib and pneumococcal  meningitis  patients,  predominantly  from  studies undertaken in high-income settings, reported an overall decrease in complications of hearing loss, neurologic sequelae, and mortality. However,  sub-analysis  showed  the  decrease  in  mortality  and neurologic  sequelae  was  only  observed  in  adults.  Further  subanalyses showed the decrease in hearing loss in children was only observed in studies undertaken in high-income settings. 47 A repeat Cochrane review in 2015, of 25 studies, again showed dexamethasone use was associated with signi{cant decrease in complications of  hearing  loss  and  neurologic  sequelae,  as  well  as  a  trend  for reduced mortality among adult patients with Hib and pneumococcal meningitis  in  high-income  settings.  It  also  showed  a  trend  for reduced  mortality  among  adult  patients  with  meningococcal meningitis in high-income settings. In children, dexamethasone use was associated with signi{cant decrease in hearing loss among those with Hib meningitis in high-income settings. Dexamethasone was  not  shown  to  have  any  bene{t  among  patients  in  studies undertaken in resource-poor settings. 48 Similarly, a meta-analysis of  individual  patient  data  from  {ve  trials,  predominantly  from resource-poor settings (Vietnam, South America, Malawi [ n = 2] and Europe [ n = 1]), concluded dexamethasone appeared to reduce hearing loss among survivors, but when all patients were analyzed, there  was  no  overall  improvement  in  hearing  loss,  neurologic sequelae, or mortality associated with dexamethasone use. 49 Several potential reasons have been suggested as to why dexamethasone shows limited  impact  in  resource-poor  settings  compared  with resource-rich settings; these include later presentation for clinical care,  higher  pre-hospital  antibiotic  use,  higher  HIV  rates,  and malnutrition among the former patients. 16
+
+============================================================
+CHUNK 21
+============================================================
+Adjuvant Therapies
+Osmotic agents have been shown  to reduce cerebral edema and improve brain perfusion. Glycerol (1,2,3-propanetriol) is the only  osmotic  agent  that  has  been  assessed  in  an  RCT  among meningitis patients. Glycerol is attractive to the low-income setting, as it is cheap, easily available, and administered orally. 17,43 Although one study suggested that oral glycerol therapy prevented severe neurologic  sequelae  in  childhood  bacterial  meningitis, 43 other studies,  including  meta-analyses,  showed  no  signi{cant  bene{t over dexamethasone. 44,45,50
+In  suspected  bacterial  meningitis  in  high-income  settings, dexamethasone should be started either shortly before or simultaneously with antibiotics. Up until 12 hours after antibiotic initiation, dexamethasone can still be started, although the impact of this on mortality has not been studied. If pneumococcal meningitis is probable, dexamethasone should continue for 4 days. 26 In suspected tuberculous meningitis, dexamethasone provision should follow the recommended guidelines. 22 Once another cause of meningitis is identi{ed, dexamethasone should be stopped.
+
+============================================================
+CHUNK 22
+============================================================
+Fluid Management
+Routine |uid restriction is not recommended and may be detrimental. 44 A Cochrane review of three trials comparing unrestricted and restricted |uid regimens recommended maintenance of intravenous |uids  in  settings  where  children  present  late  and  where  acute
+bacterial meningitis mortality is high. 51 A third of children with acute bacterial meningitis are hyponatremic; therefore resuscitation with isotonic |uids is advocated where appropriate. Intravenous |uids are preferable to the nasogastric route, but may be expensive and the expertise required to deliver them may be lacking in some settings. A trial in Papua New Guinea showed no signi{cant difference in mortality whether children with acute bacterial meningitis were resuscitated with intravenous |uids at 100% maintenance or nasogastric |uids at 60% maintenance, although convulsions in the {rst 72 hours were higher in the nasogastric |uids group. 52
+
+============================================================
+CHUNK 23
+============================================================
+VACCINATION
+Conjugate vaccines have substantially reduced the incidence of Hib, pneumococcus, and meningococcus group C meningitis in high-income countries, and of Hib and pneumococcal meningitis in  the  African  countries  where  these  have  been  introduced. 1 Conjugate vaccines are the most effective form of immunization for those under 2 years of age who are particularly vulnerable to bacterial meningitis. Hib conjugate vaccines are being administered in an increasing number of countries, with global coverage of at least three doses of 70%. Pneumococcal conjugate vaccine is also being delivered in many countries, with current vaccine coverage rates of approximately 40%. PCV reduces the incidence of vaccineserotype and antibiotic-resistant IPD in HIV-infected children. 53 As HIV-exposed but uninfected infants are still at increased risk of IPD and mortality from IPD compared with HIV-unexposed and uninfected children, this group of children, whose numbers are  continuing  to  increase  in  sub-Saharan  Africa,  should  be especially targeted for PCV along with HIV-infected infants and children. 3 PCV  protects  HIV-infected  adults  from  recurrent pneumococcal infection caused by vaccine serotypes 54 and induces more persistent and functional antibody responses in individuals on antiretroviral therapy. 55 High-income countries have reported an increase in IPD from non-vaccine serotypes with the introduction  of  PCV .  Therefore  enhanced  surveillance  is  essential  in resource-poor countries where PCV has been introduced.
+Single  (group  A)  and  quadrivalent  capsular  polysaccharide meningococcal vaccines have been used in the African meningitis belt, and a conjugate meningococcus group A vaccine (MenAfriVac) has been rolled out in several African countries in the meningitis belt (www.meningvax.org). 1,16
+
+============================================================
+CHUNK 24
+============================================================
+RISK OF SEVERE SEQUELAE AND DEATH FROM BACTERIAL MENINGITIS
+Severe sequelae from bacterial meningitis results from neuronal injury  arising  from  a  number  of  mechanisms.  These  include in|ammatory mediators, vasculitis, ischemia, edema, hypoperfusion, and acidosis.
+In children, impaired consciousness or coma at presentation, weight below the second centile, and longer duration of illness are associated with increased risk of death and severe sequelae. 56,57 HIV co-infection is associated with increased risk of death but not of developing severe sequelae. 9,57,58 Pneumococcal meningitis is  associated  with  increased  risk  of  severe  sequelae. 57 A  recent systematic review demonstrated that bacterial meningitis is associated with a clinically signi{cant reduction in verbal and performance IQ and with developmental delay in survivors. 59
+In adults in a high-HIV seroprevalence, resource-poor setting, CSF culture positivity for S. pneumoniae, lower CSF white blood cell count, lower hemoglobin, lower GCS, and higher pulse rate were found to be associated with increased risk of death. 60
+
+============================================================
+CHUNK 25
+============================================================
+REFERENCES
+1.  Scarborough  M, Thwaites  GE. The  diagnosis and management  of acute bacterial meningitis in resource-poor settings. Lancet Neurol 2008;7(7):637-48.
+2.  Harrison  LH,  T rotter  CL,  Ramsay  ME.  Global  epidemiology  of meningococcal disease. Vaccine 2009;27(Suppl. 2):B51-63.
+3.  von Mollendorf C, von Gottberg A, T empia S, et al. Increased risk for and mortality from invasive  pneumococcal disease in HIV-exposed but uninfected infants aged < 1 year in South Africa, 2009-2013. Clin Infect Dis 2015;60(9):1346-56.
+4.  World  Health  Organisation.  Standardized  treatment  of  bacterial meningitis in Africa in epidemic and non epidemic situations 2007. http://apps.who.int/iris/bitstream/handle/10665/69475/WHO_CDS _EPR_2007.3_eng.pdf?sequence=1&isAllowed=y.
+5.  Yaro  S,  Lourd  M,  T raore  Y,  et al.  Epidemiological  and  molecular characteristics of a highly lethal pneumococcal meningitis epidemic in Burkina Faso. Clin Infect Dis 2006;43(6):693-700.
+6.  Antonio M, Hakeem I, Awine T, et al. Seasonality and outbreak of a predominant Streptococcus pneumoniae serotype 1 clone from The Gambia: expansion of ST217 hypervirulent clonal complex in West Africa. BMC Microbiol 2008;8:198.
+7.  Kwambana-Adams BA, Asiedu-Bekoe F, Sarkodie B, et al. An outbreak of  pneumococcal  meningitis  among  older  children  (≥  5  years)  and adults after the implementation of an infant vaccination programme with the 13-valent pneumococcal conjugate vaccine in Ghana. BMC Infect Dis 2016;16(1):575.
+
+============================================================
+CHUNK 26
+============================================================
+REFERENCES
+8.  Wall EC, Everett DB, Mukaka M, et al. Bacterial meningitis in Malawian adults, adolescents, and children during the era of antiretroviral scale-up and Haemophilus in|uenzae type b vaccination, 2000-2012. Clin Infect Dis 2014;58(10):e137-45.
+9.  Nansera D, Max I, Annet K, Gessner BD. Bacterial meningitis among children under the age of 2 years in a high human immunode{ciency virus  prevalence  area  after  Haemophilus  in|uenzae  type  b  vaccine introduction. J Paediatr Child Health 2012;48(4):324-8.
+10.  Koedel U, Scheld WM, P{ster HW. Pathogenesis and pathophysiology of pneumococcal meningitis. Lancet Infect Dis 2002;2(12):721-36.
+11.  Riordan A. The implications of vaccines for prevention of bacterial meningitis. Curr Opin Neurol 2010;23(3):319-24.
+12.  Kim KS. Pathogenesis of bacterial meningitis: from bacteraemia to neuronal injury. Nat Rev Neurosci 2003;4(5):376-85.
+13.  Coureuil M, Lecuyer H, Bourdoulous S, Nassif X. A journey into the brain: insight into how bacterial pathogens cross blood-brain barriers. Nat Rev Microbiol 2017;15(3):149-59.
+14.  Carrol ED, Guiver M, Nkhoma S, et al. High Pneumococcal DNA Loads Are Associated With  Mortality in  Malawian  Children With Invasive Pneumococcal Disease. Pediatr Infect Dis J 2007;26(5):416-22.
+15.  Wall EC, Gritzfeld JF , Scarborough M, et al. Genomic pneumococcal load and CSF cytokines are not related to outcome in Malawian adults with meningitis. J Infect 2014;69(5):440-6.
+
+============================================================
+CHUNK 27
+============================================================
+REFERENCES
+16.  Lin  AL,  Safdieh  JE.  The  evaluation  and  management  of  bacterial meningitis: current practice and emerging developments. Neurologist 2010;16(3):143-51.
+17.  Kim KS. Acute bacterial meningitis in infants and children. Lancet Infect Dis 2010;10(1):32-42.
+18.  van de Beek D, de Gans J, Spanjaard L, et al. Clinical features and prognostic factors in adults with bacterial meningitis. N Engl J Med 2004;351(18):1849-59.
+19.  Berkley JA, Versteeg AC, Mwangi I, et al. Indicators of acute bacterial meningitis in children at a rural Kenyan district hospital. Pediatrics 2004;114(6):e713-19.
+20.  Thwaites  GE,  Chau TT,  Stepniewska  K,  et al.  Diagnosis  of  adult tuberculous meningitis by use of clinical and laboratory features. Lancet 2002;360(9342):1287-92.
+21.  Cohen DB, Zijlstra EE, Mukaka M, et al. Diagnosis of cryptococcal and tuberculous meningitis in a resource-limited African setting. T rop Med Int Health 2010;15(8):910-17.
+22.  Thwaites G, Fisher M, Hemingway C, et al. British Infection Society guidelines for the diagnosis and treatment of tuberculosis of the central nervous system in adults and children. J Infect 2009;59(3):167-87.
+23.  Moxon CA, Zhao L, Li C, et al. Safety of lumbar puncture in comatose  children  with  clinical  features  of  cerebral  malaria.  Neurology 2016;87(22):2355-62.
+24.  van de Beek D, de Gans J, Spanjaard L, et al. Clinical Features and Prognostic Factors in Adults with Bacterial Meningitis. N Engl J Med 2004;351:1849-59.
+25.  Hase R, Hosokawa N, Yaegashi M, Muranaka K. Bacterial meningitis in the absence of cerebrospinal |uid pleocytosis: a case report and review of the literature. Can J Infect Dis Med Microbiol 2014;25(5):249-51.
+
+============================================================
+CHUNK 28
+============================================================
+REFERENCES
+26.  McGill F, Heyderman RS, Michael BD, et al. The UK joint specialist  societies  guideline  on  the  diagnosis  and  management  of  acute
+- meningitis and meningococcal sepsis in immunocompetent adults. J Infect 2016;72(4):405-38.
+27.  Spanos A, Harrell FE Jr, Durack DT. Differential diagnosis of acute meningitis. An analysis of the predictive value of initial observations. JAMA 1989;262(19):2700-7.
+28.  Brouwer MC, Thwaites GE, Tunkel AR, van de Beek D. Dilemmas in  the  diagnosis of  acute  community-acquired  bacterial meningitis. Lancet 2012;380(9854):1684-92.
+29.  Nigrovic LE, Kuppermann N, Macias CG, et al. Clinical prediction rule  for  identifying  children with  cerebrospinal |uid pleocytosis at very low risk of bacterial meningitis. JAMA 2007;297(1):52-60.
+30.  Heinsbroek E, Ladhani S, Gray S, et al. Added value of PCR-testing for con{rmation of invasive meningococcal disease in England. J Infect 2013;67(5):385-90.
+31.  Newcombe  J,  Cartwright  K,  Palmer  WH,  McFadden  J.  PCR  of peripheral  blood  for  diagnosis  of  meningococcal  disease.  J  Clin Microbiol 1996;34(7):1637-40.
+32.  Morales  Casado  MI,  Moreno Alonso  F,  Juarez  Belaunde AL,  et al. Ability of procalcitonin to predict bacterial meningitis in the emergency department. Neurologia 2016;31(1):9-17.
+33.  Vikse J, Henry BM, Roy J, et al. The role of serum procalcitonin in the  diagnosis  of  bacterial  meningitis  in  adults:  a  systematic  review and meta-analysis. Int J Infect Dis 2015;38:68-76.
+34.  Chanteau S, Dartevelle S, Mahamane AE, et al. New rapid diagnostic tests for Neisseria meningitidis serogroups A, W135, C, and Y. PLoS Med 2006;3(9):e337.
+
+============================================================
+CHUNK 29
+============================================================
+REFERENCES
+35.  Proulx N, Frechette D, T oye B, et al. Delays in the administration of antibiotics are associated with mortality from acute bacterial meningitis. QJM 2005;98:291-8.
+36.  Rivers  E,  Nguyen  B,  Havstad  S,  et al.  Early  goal-directed  therapy in  the  treatment  of  severe  sepsis  and  septic  shock.  N  Engl  J  Med 2001;345(19):1368-77.
+37.  Cecconi M, Corredor C, Arulkumaran N, et al. Clinical review: Goaldirected therapy-what is the evidence in surgical patients? The effect on different risk groups. Crit Care 2013;17(2):209.
+38.  Gu WJ, Wang F, Bakker J, et al. The effect of goal-directed therapy on mortality in patients with sepsis - earlier is better: a meta-analysis of randomized controlled trials. Crit Care 2014;18(5):570.
+39.  Y ealy DM, Kellum JA, Huang DT, et al. A randomized trial of protocolbased care for early septic shock. N Engl J Med 2014;370(18):1683-93.
+40.  Maitland K, Kiguli S, Opoka  RO,  et al. Mortality after |uid bolus  in  African  children  with  severe  infection.  N  Engl  J  Med 2011;364(26):2483-95.
+41.  Wall EC, Mukaka M, Denis B, et al. Goal directed therapy for suspected acute bacterial meningitis in adults and adolescents in sub-Saharan Africa. PLoS ONE 2017;12(10):e0186687.
+42.  Molyneux EM, T embo M, Kayira K, et al. The effect of HIV infection on paediatric bacterial meningitis in Blantyre, Malawi. Arch Dis Child 2003;88(12):1112-18.
+43.  Roine I, Ledermann W, Foncea LM, et al. Randomized trial of four vs. seven days of ceftriaxone treatment for bacterial meningitis in children with rapid initial recovery. Pediatr Infect Dis J 2000;19(3):219-22.
+
+============================================================
+CHUNK 30
+============================================================
+REFERENCES
+44.  Molyneux E, Nizami SQ, Saha S, et al. 5 versus 10 days of treatment with ceftriaxone for bacterial meningitis in children: a double-blind randomised equivalence study. Lancet 2011;377(9780):1837-45.
+45.  Deghmane  AE,  Alonso  JM,  T aha  MK.  Emerging  drugs  for  acute bacterial meningitis. Expert Opin Emerg Drugs 2009;14(3):381-93.
+46.  Yogev R, Guzman-Cottrill J. Bacterial meningitis in children: critical review of current concepts. Drugs 2005;65(8):1097-112.
+47.  van de Beek D, de Gans J, McIntyre P , Prasad K. Corticosteroids for acute bacterial meningitis. Cochrane Database Syst Rev 2007;(1):CD004405.
+48.  Brouwer MC, McIntyre P , Prasad K, van de Beek D. Corticosteroids for acute bacterial meningitis. Cochrane Database Syst Rev 2015;(9):CD004405.
+49.  van de Beek D, Farrar JJ, de Gans J, et al. Adjunctive dexamethasone in bacterial meningitis: a meta-analysis of individual patient data. Lancet Neurol 2010;9(3):254-63.
+50.  Vaziri S, Mansouri F , Sayad B, et al. Meta-analysis of studies comparing adjuvant dexamethasone to glycerol to improve clinical outcome of bacterial meningitis. J Res Med Sci 2016;21:22.
+51.  Maconochie I, Baumer H, Stewart ME. Fluid therapy for acute bacterial meningitis. Cochrane Database Syst Rev 2008;(1):CD004786.
+52.  Duke T,  Mokela  D,  Frank  D,  et al.  Management  of  meningitis  in children with oral |uid restriction or intravenous |uid at maintenance volumes: a randomised trial. Ann T rop Paediatr 2002;22(2):145-57.
+
+============================================================
+CHUNK 31
+============================================================
+REFERENCES
+53.  Klugman  KP ,  Madhi  SA,  Huebner  RE,  et al.  A  trial  of  a  9-valent pneumococcal conjugate vaccine in children with and those without HIV infection. N Engl J Med 2003;349(14):1341-8.
+54.  French  N,  Gordon  SB,  Mwalukomo T,  et al. A  trial  of  a  7-valent pneumococcal conjugate vaccine  in HIV-infected  adults. N Engl  J Med 2010;362(9):812-22.
+55.  Nunes  MC,  Madhi  SA.  Safety,  immunogenicity  and  ef{cacy  of pneumococcal conjugate vaccine in HIV-infected individuals. Hum Vaccin Immunother 2012;8(2):161-73.
+56.  Pelkonen T,  Roine I, Monteiro L, et al. Risk  factors for death and severe  neurological  sequelae  in  childhood  bacterial  meningitis  in sub-Saharan Africa. Clin Infect Dis 2009;48(8):1107-10.
+57.  McCormick  DW,  Wilson  ML,  Mankhambo  L,  et al.  Risk  factors for  death  and  severe  sequelae  in  Malawian  children  with  bacterial meningitis, 1997-2010. Pediatr Infect Dis J 2013;32(2):e54-61.
+58.  Nyasulu P ,  Cohen C, De  Gouveia L,  et al. Increased  risk of  death in  human immunode{ciency virus-infected children  with pneumococcal  meningitis  in  South Africa,  2003-2005.  Pediatr  Infect  Dis  J 2011;30(12):1075-80.
+59.  Christie  D,  Rashid  H,  El-Bashir  H,  et al.  Impact  of  meningitis  on intelligence and development: a systematic review and meta-analysis. PLoS ONE 2017;12(8):e0175024.
+60.  Wall EC, Mukaka M, Scarborough M, et al. Prediction of outcome from adult bacterial meningitis in a High-HIV-Seroprevalence, resource-poor setting using the Malawi adult meningitis score (MAMS). Clin Infect Dis 2017;64(4):413-19.
+

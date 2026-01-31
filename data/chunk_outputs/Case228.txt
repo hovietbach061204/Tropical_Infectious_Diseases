@@ -1,0 +1,286 @@
+============================================================
+CHUNK 0
+============================================================
+Key features
+- Protein-energy malnutrition (PEM) is the most common childhood ailment in the world and is primarily caused by de-ciency of energy, protein and micronutrients
+- PEM manifests as underweight (low body weight compared with healthy peers), stunting (poor linear growth), wasting (acute weight loss) or edematous malnutrition (kwashiorkor)
+- Case fatality rates among children hospitalized with severe wasting or edema (also known as severe acute malnutrition [SAM]) range from 5% to 30%
+- All forms of PEM are associated with increased risk of infectious illnesses and cognitive de-cit
+- Management of most forms of PEM can be done in the community setting by improving household food security, promoting appropriate complementary food, providing micronutrients, providing anti-helminthic treatment and preventing (e.g. by vaccines) and treating infectious illnesses
+- Children with SAM and associated acute illnesses should be treated in a hospital setting using World Health Organization (WHO) guidelines. Children with SAM who are not acutely ill and have an appetite can be managed in the community using ready-to-use-therapeutic foods, preferably made locally
+
+============================================================
+CHUNK 1
+============================================================
+INTRODUCTION
+Protein-energy  malnutrition  (PEM)  includes  a  number  of  distinct disorders of growth in children primarily caused by deficiency of nutrients, notably protein and energy. Micronutrient deficiencies are also common in these disorders. PEM includes the following conditions:
+- Underweight: a child with a body weight less than that of normal children of same age and sex (more than two standard deviations [SD]  below  the  median  weight  of  World  Health  Organization [WHO] growth standards).  Severe  underweight  is  defined  as  a body weight less than -3SD.
+- Stunting: a child with a height or length less than that of normal children  of  same  age  and  sex  (more  than  two  SD  below  the median height or length of WHO growth standards). Severe stunting is defined as a height or length less than -3SD.
+- Wasting: a child has wasting if the body weight is more than two SDs below the median weight of normal children of same height or length of WHO growth standards. A child has severe wasting if the weight-for-height (WHZ)/length is less than -3SD.
+- Severe acute malnutrition (SAM): a serious condition characterized  by  the  presence  of  any  of  the  following  features  -  severe
+
+============================================================
+CHUNK 2
+============================================================
+Tahmeed Ahmed, M Iqbal Hossain, Munirul Islam, AM Shamsir Ahmed, M Jobayer Chisti
+wasting, bilateral pedal edema and a mid-upper arm circumference (MUAC) of less than 11.5 cm. It includes marasmus, kwashiorkor and marasmic kwashiorkor.
+Chronic  deprivation  of  nutrients  usually  results  in  stunting,  while wasting occurs when there is an acute deprivation of nutrients over a short interval. An underweight child may also have wasting and stunting. Wasting and stunting are commonly seen in children between the ages of 1 and 2 years, but by 3-4 years of age, children in developing countries are more stunted than wasted. This indicates that these children  have  stopped  growing  in  height,  but  may  have  a  normal WHZ. The earliest account of kwashiorkor - a severe form of PEM characterized  by  edema  -  was  published  in  1865  by  Hinajosa  in Mexico. The acuteness of kwashiorkor has been the focus of attention of  nutritionists  and  as  many  as  70  names  have  been  given  to  this condition in different parts of the world. Cicely Williams first introduced the name kwashiorkor in 1935, which in the Ga language of West Africa  means 'the disease  of the deposed child' . This literally refers  to  the  child  who  develops  edema  after  being  weaned  with starchy gruels following the birth of a sibling who is breastfed.
+
+============================================================
+CHUNK 3
+============================================================
+EPIDEMIOLOGY AND CONSEQUENCES
+About one-third of all children under the age of five years in developing countries are stunted, while 20% are underweight. An estimated 178  million  children  are  stunted  and,  of  them,  74  million  live  in south-central Asia (Fig.  138.1).  A total  of  36 countries  account  for 90% of all stunted children worldwide; India alone has more than 61 million stunted children. Most of these children are from the poorest segments of the population. Wasting, which is also known as moderate acute malnutrition (MAM), has a global prevalence of 10% (55 million children affected).
+Underweight, stunting and  wasting contribute  to  19%, 14.5%  and 14.6% of deaths respectively, among children under the age of five years  in  the  developing  world.  Case  fatality  rates  among  children admitted to a hospital with severe acute malnutrition are very high and  range  from  5%  to  30%.  Among  survivors,  comorbidities  are common. Because of reduced immunocompetence (impaired delayed hypersensitivity to antigens, selective B cell and complement malfunction),  prevalence  and  severity  of  infections,  notably  the  infectious diarrheas,  are  greater  compared  with  well  nourished peers. Impairment of cognitive function commonly occurs in malnourished children and this may be irreversible. For every 10% increase in stunting, the proportion of children reaching the final grade of primary school drops by 7.9%.
+
+============================================================
+CHUNK 4
+============================================================
+CAUSES OF PROTEIN-ENERGY MALNUTRITION (PEM)
+Malnutrition because of lack of food and the interplay of infections is  known  as  primary  malnutrition,  which  is  responsible  for  most malnutrition seen in the developing world. However, there is a host of basic and underlying causes of malnutrition that operate at national and societal levels (Fig. 138.2). The root causes of malnutrition are
+138
+FIGURE 138.1 Global prevalence of stunting in children under 5 years of age. Most of the burden of stunting is in South Asia and sub-Saharan Africa. (From [1]).
+FIGURE 138.2 Framework of causes of maternal and child malnutrition. (From [1]).
+FIGURE  138.3 Severe  wasting  occurs  when  there  is  loss  of  body  fat, subcutaneous tissues and muscles.
+political in nature interlaced with issues of social and gender inequity, particularly of income and education. Civil conflicts and social inequalities are important precipitating factors. Malnutrition occurring as a result of chronic diseases, such as chronic kidney, liver or heart disease, is known as secondary malnutrition.
+
+============================================================
+CHUNK 5
+============================================================
+CLINICAL FEATURES
+Thinness  and  short  stature  may  be  the  only  features  of  moderate underweight, stunting and wasting. The manifestation of severe acute malnutrition can be quite dramatic and the major signs include severe wasting,  edema,  skin  changes  or  dermatosis,  and  eye  signs.  Severe wasting occurs when there is loss of body fat, subcutaneous tissues and muscles. In a severe case, the body appears to have only skin and bones with wrinkling of the skin, the head looks disproportionately large and the ribs are markedly visible (Fig. 138.3). The skin becomes redundant on the severely wasted buttocks, giving a 'baggy pants' appearance (Fig. 138.4). A WHZ of less than -3SD and a MUAC less than 1 1.5 cm indicate severe wasting.
+In the absence of other causes of edema, such as nephrotic syndrome, the presence of bilateral pedal edema is a sign of SAM. A decrease in serum albumin level is partly responsible for development of edema. Other factors that contribute to the development of edema in SAM include decreased body potassium and reduced inactivation of antidiuretic hormone. Edema is detected by pressing on the dorsum of the foot for 3-5 seconds; an indentation on release of pressure indicates pedal edema (Fig. 138.5).
+Based on severity, there are three categories of edema:
+Mild: both feet (can include ankles), grade + ; Moderate:  both  feet,  lower  legs,  hands  or  lower  arms,  grade + + ; Severe: generalized bilateral pitting edema including both feet, legs, hands, arms and face, grade + + + .
+Dermatosis is a skin condition that is common in severe acute malnutrition. A child with dermatosis may have patches of skin that are abnormally light or dark in color, shedding of skin in scales or sheets, and ulceration of the skin of the perineum, groin, limbs, behind the ears and in the armpits. There may be weeping lesions. There may be severe  rash in the  distribution of a  diaper.  Secondary infection can occur.
+FIGURE  138.4 'Baggy  pants'  appearance  in  severe  wasting  or  severe acute malnutrition.
+FIGURE 138.5 Detection of pedal edema.
+The extent of dermatosis is described in the following way:
+
+============================================================
+CHUNK 6
+============================================================
+CLINICAL FEATURES
+Mild: discoloration or a few rough patches of skin, grade + ; Moderate: multiple patches on arms and/or legs, grade ++ ; Severe: flaking skin, raw skin,  fissures (openings in the skin), grade +++ .
+Clinical terms describing severe PEM are used mostly in hospital settings. A child with a weight-for-age of less than -3SD and no edema is  said  to  have  'marasmus',  while a  child  with a weight-for-age of more than -3SD and bilateral pedal edema has 'kwashiorkor' . 'Marasmic kwashiorkor' is the condition where weight-for-age is less than -3SD and edema is present.
+Marasmus  has  been  recognized  for  centuries.  It  is  usually  seen  in infancy and is characterized by severe weight reduction, gross wasting of  muscle  and  tissue  beneath  the  skin,  stunting  and  no  edema.
+FIGURE 138.6 Bilateral pedal edema in a child with kwashiorkor.
+Usually, the child is irritable. Marasmus occurs as a result of severe deficiency  of  energy,  protein,  vitamins  and  minerals,  although  the primary  cause  is  inadequate  energy  intake.  This  deficiency  often results when there is a decrease or absence of breastfeeding, feeding on diluted milk formula or a delay in introducing solid foods in the diet. In marasmus, the body generally adapts itself to the deficiency of energy and protein. The muscles provide amino acids leading to the  production  of  proteins  including  albumin  and β -lipoprotein. Adequate amounts of albumin and β -lipoprotein prevent the development of edema and fatty enlargement of the liver in marasmus.
+Kwashiorkor, which occurs mostly in children 1-3 years of age, results from a deficiency of dietary protein and is usually associated with an infection. Typically, there are skin lesions (pigmented or de-pigmented areas with or without ulceration), scanty lustre-less hair, loss of interest in the surroundings and loss of appetite (Fig. 138.6). The edema is usually noticed in the feet, but can also occur in other parts of the body. β -lipoprotein is not produced in adequate amounts, resulting in impaired transport of fat and an enlarged fatty liver.
+
+============================================================
+CHUNK 7
+============================================================
+CLINICAL FEATURES
+A  child  with  marasmic  kwashiorkor  has  clinical  findings  of  both marasmus and kwashiorkor. There may be mild hair and skin changes, and an enlarged, fatty liver.
+
+============================================================
+CHUNK 8
+============================================================
+MANAGEMENT OF MILD OR MODERATE MALNUTRITION
+Mildly- or moderately-malnourished children account for the major burden of malnutrition  in  any  developing  country.  These  children have an increased susceptibility to infections and have impaired intellectual capabilities. They can progress to severe malnutrition so management  of  these  children  is,  therefore,  important  from  a  public health  perspective.  Management  of  these  children  takes  place  at household and community levels. The focus should be on the counseling of parents on health and nutrition education so that the diet of the child is improved through breastfeeding and appropriate complementary  feeding;  that  proper  care  is  taken  during  common  illnesses,  including  diarrhea;  that  micronutrients  are  provided,  either through  food  or  by  supplementation;  that  routine  vaccines  are administered;  and,  in  many  countries,  that  periodic  deworming  is done. This is commonly done in developing countries by a strategy called  growth  monitoring  and  promotion  (GMP)  where  children under  the  age  of  five  years  are  weighed  at  regular  intervals  and  a package of interventions provided at the visits for promoting growth. Potential strengths of GMP are that it provides frequent contact with health workers and a platform for child health interventions. However, the success of GMP depends on how sincerely the promotion part, particularly counseling for changing behavior, is carried out by community health workers.
+There is now an increased interest in improving water quality, sanitation and hygiene as a means of reducing malnutrition. This is based on the premise that children in developing countries are continuously exposed  to  pathogenic  bacteria.  These  bacteria  may  not  result  in enteric disease, but colonize the small intestine causing atrophy of the intestinal villi. As a result, there is malabsorption and malnutrition. This condition is called environmental enteropathy and is believed to be responsible for 40% of childhood malnutrition in some countries. Food supplementation through large scale programs has also been tried with limited success in reducing moderate acute malnutrition. However, the ultimate goal in the management of moderate malnutrition is to reduce food insecurity through  increased availability and access to food and its utilization.
+
+============================================================
+CHUNK 9
+============================================================
+PHASES OF MANAGEMENT OF SEVERE ACUTE MALNUTRITION ASAMB
+The  management of  children  with  SAM  can  be  divided  into  three phases.
+1. Acute phase: problems that endanger life, such as hypoglycemia or an  infection,  are  identified  and  treated.  Feeding and  correction  of  micronutrient  deficiencies  are  initiated during  this  phase.  Small,  frequent  feeds  are  given  (about 100 kcal/kg and 1-1.5 g protein/kg per day). Broadspectrum antibiotics are started. The main objective of this phase is to stabilize the child. Case fatality is highest during this  phase  of  management,  the  principal  causes  of  death being  hypoglycemia,  hypothermia,  infection  and  waterelectrolyte  imbalance.  Most  deaths  occur  within  the  first 1-2 days of admission. This treatment phase usually takes about 3-5 days.
+2. Nutritional rehabilitation: the aim of this phase is to recover lost  weight  by  intensive  feeding.  The  child  is  stimulated emotionally  and  physically,  and  the  mother  is  trained  to continue care at home. Around 150-250 kcal/kg and 3-5 g protein/kg are provided daily during this phase. Micronutrients,  including  iron,  are  continued.  The  mothers  are counseled  on  health  and  nutrition.  This  phase  takes  2-4 weeks if the criterion of discharge is WHZ -2 without edema. It can take longer if the child is managed on an outpatient basis.
+3. Follow-up:  follow-up  is  done  to  prevent  relapse  of  severe malnutrition  and  to  ensure  proper  physical  growth  and mental development of the child. The likelihood of relapse into  SAM  is  highest  within  one  month  of  discharge. Follow-up  visits  should  be  fortnightly  initially  and  then monthly until the child has achieved WHZ > -1. Nutritional status and general condition are assessed and the care givers counseled. Common illnesses are treated.
+
+============================================================
+CHUNK 10
+============================================================
+STEP 1: TREAT/PREVENT HYPOGLYCEMIA
+Hypoglycemia and hypothermia usually occur together and are signs of infection. The child should be tested for hypoglycemia on admission or whenever lethargy, convulsions or hypothermia are found. If blood glucose cannot be measured, all children with SAM suspected to have hypoglycemia should be treated accordingly.
+If the child is conscious and blood glucose is < 3mmol/l or 54mg/dl:
+50 ml bolus of 10% glucose or 10% sucrose solution (1 rounded teaspoon of sugar in 3.5 tablespoons water) is given orally or by nasogastric (NG) tube. The starter diet F-75 (see Step 7) is given  every  30 min  for  two  hours  (giving  one  quarter  of  the two-hourly  feed  each  time).  Thereafter,  two-hourly  feeds  are continued for first 24-48 hours.
+If the child is unconscious, lethargic or convulsing:
+sterile  10% glucose (5 ml/kg) is given intravenously (IV), followed by 50 ml of 10% glucose or sucrose by NG tube. Then the starter diet F-75 is given as above (Box 138.1).
+
+============================================================
+CHUNK 11
+============================================================
+BOX 138.1  Recipes for F-75 and F-100
+If you have cereal Cour and cooking facilities, use one of the top three recipes for F-75:
+If you have dried skimmed milk, Ingredients = Dried skimmed milk Sugar Cereal Hour Vegetable oil Mineral mix* Water to make 1000 ml. If you have dried skimmed milk, Amount for F-75 = 25 g 70 g 35 g 30 g 20 ml 1000 ml **. If you have dried whole milk, Ingredients = Dried whole milk Sugar Cereal Hour Vegetable oil Mineral mix* Water to make 1000 ml. If you have dried whole milk, Amount for F-75 = 35 g 70 g 35 g 20 g 20 ml 1000 ml **. If you have fresh cow's milk, or full-cream (whole) long life milk, Ingredients = Fresh cow's milk, or full- cream (whole) long life milk Sugar Cereal Hour Vegetable oil Mineral mix* Water to make 1000 ml. If you have fresh cow's milk, or full-cream (whole) long life milk, Amount for F-75 = 300 ml 70 g 35 g 20 g 20 ml 1000 ml **
+
+============================================================
+CHUNK 12
+============================================================
+BOX 138.1  Recipes for F-75 and F-100
+If you have dried skimmed milk, If you do not have cereal Cour, or there are no cooking facilities, use one of the following recipes for F-75:.Ingredients = Dried skimmed milk Sugar Vegetable oil Mineral mix* Water to make 1000 ml. If you have dried skimmed milk, If you do not have cereal Cour, or there are no cooking facilities, use one of the following recipes for F-75:.Amount for F-75 = 25 g 100 g 30 g 20 ml 1000 ml **. If you have dried skimmed milk, No cooking is required for F-100:.Amount for F-100 = 80 g 50 g 60 g 20 ml 1000 ml **. If you have dried whole milk, If you do not have cereal Cour, or there are no cooking facilities, use one of the following recipes for F-75:.Ingredients = Dried whole milk Sugar Vegetable oil Mineral mix* Water to make 1000 ml. If you have dried whole milk, If you do not have cereal Cour, or there are no cooking facilities, use one of the following recipes for F-75:.Amount for F-75 = 35 g 100 g 20 g 20 ml 1000 ml **. If you have dried whole milk, No cooking is required for F-100:.Amount for F-100 = 110 g 50 g 30 g 20 ml 1000 ml **. If you have fresh cow's milk, or full-cream (whole) long life milk, If you do not have cereal Cour, or there are no cooking facilities, use one of the following recipes for F-75:.Ingredients = Fresh cow's milk, or full- cream (whole) long life milk Sugar Vegetable oil Mineral mix* Water to make 1000 ml. If you have fresh cow's milk, or full-cream (whole) long life milk, If you do not have cereal Cour, or there are no cooking facilities, use one of the following recipes for F-75:.Amount for F-75 = 300 ml 100 g 20 g 20 ml 1000 ml **. If you have fresh cow's milk, or full-cream (whole) long life milk, No cooking is required for F-100:.Amount for F-100 = 880 ml 75 g 20 g 20 ml 1000 ml **
+
+============================================================
+CHUNK 13
+============================================================
+BOX 138.1  Recipes for F-75 and F-100
+*Contents of mineral mix are given in Appendix 4 of the manual. Alternatively, a commercial product called Combined Mineral Vitamin Mix (CMV) may be used.
+(From  World  Health  Organization.  Management  of  Severe  Malnutrition:  A  Manual  for  Physicians  and  Other  Senior  Health  Workers.  Geneva:  World  Health  Organization; 1999).
+**Important note about adding water: Add just the amount of water needed to make 1000 ml of formula. (This amount will vary from recipe to recipe, depending on the other ingredients.) Do not simply add 1000 ml of water, as this will make the formula too dilute. A mark for 1000 ml should be made on the mixing container for the formula, so that water can be added to the other ingredients up to this mark.
+
+============================================================
+CHUNK 14
+============================================================
+BOX 138.2  Recipe for ReSoMal
+Water (boiled and cooled), Amount = 1.7 liters. WHO-ORS (hypo-osmolar), Amount = One 1 liter sachet. Sugar, Amount = 40 g. Electrolyte/mineral solution*, Amount = 33 ml
+ReSoMal contains approximately < 45 mmol/l sodium, 40 mmol/l potassium and 3 mmol/l magnesium.
+- Every 30 minutes for Irst 2 hours, ReSoMal 5 ml/kg body weight is given orally or by NG tube.
+- Then, in alternate hours for up to 10 hours, ReSoMal is given 5-10 ml/kg/h  (the  amount  to  be  given  should  be  determined by  how much the child wants, and stool loss  and vomiting).  F-75  is  given  in  alternate  hours  during  this period until the child is rehydrated.
+*See Box 138.3.
+NG,  nasogastric;  WHO-ORS,  World  Health  Organization-Oral  Rehydration Solution.
+
+============================================================
+CHUNK 15
+============================================================
+STEP 2: TREAT/PREVENT HYPOTHERMIA
+If  the  axillary  temperature  is < 35.0 ° C  or  the  rectal  temperature  is < 35.5 ° C, the child is given feeds and re-warmed by covering with a warm blanket or placing the child on the mother's bare chest (skinto-skin) and covering them with a blanket. A heater or lamp may be placed nearby. The child must be kept dry and away from drafts.
+
+============================================================
+CHUNK 16
+============================================================
+STEP 3: TREAT/PREVENT DEHYDRATION
+Assessment of dehydration can be difficult in a severely malnourished child. All children with watery diarrhea should be assumed to have dehydration  and  given  ReSoMal,  a  special  rehydration  solution for children with SAM. It contains less sodium and more potassium and  glucose  than  the  standard  oral  rehydration  solution  (ORS) (Box 138.2).
+If  diarrhea  is  severe,  then  the  standard  hypo-osmolar  WHO-ORS (75 mmol sodium/l) may be used as loss of sodium in stool is high and  symptomatic  hyponatremia  can  occur  with  ReSoMal.  Severe diarrhea can be caused by cholera or rotavirus infection, and is usually defined as stool output > 5 ml/kg/hr.
+Return  of  tears,  moist  mouth,  eyes  and  fontanelle  appearing  less sunken, and improved skin turgor are signs that rehydration is proceeding. It should be noted that many severely malnourished children will  not  show  these  changes,  even  when  fully  rehydrated.  Signs  of over-hydration are increasing respiratory rate and pulse rate, increasing edema and puffy eyelids. If these signs occur, fluids are stopped immediately and the child reassessed after one hour. IV rehydration should be used only in case of shock, infusing slowly to avoid overloading the heart.
+
+============================================================
+CHUNK 17
+============================================================
+STEP 4: CORRECT ELECTROLYTE IMBALANCE
+All  severely  malnourished  children have excess body sodium,  even though serum  sodium  may  be  low. Deficiencies  of  potassium  and magnesium  are  also  present  and  may  take  at  least  two  weeks to  correct.  Edema  is  partly  caused  by  these  imbalances  and  must never be treated with a diuretic. The following are given to a child with SAM:
+- extra potassium 3-4 mmol/kg/day;
+- extra magnesium 0.4-0.6 mmol/kg/day.
+Potassium chloride, Amount (g) = 224. Potassium chloride, Molar content of 20 ml = 24 mmol. Tripotassium citrate, Amount (g) = 81. Tripotassium citrate, Molar content of 20 ml = 2 mmol. Magnesium chloride, Amount (g) = 76. Magnesium chloride, Molar content of 20 ml = 3 mmol. Zinc acetate, Amount (g) = 8.2. Zinc acetate, Molar content of 20 ml = 300 μ mol. Copper sulphate, Amount (g) = 1.4. Copper sulphate, Molar content of 20 ml = 45 μ mol. Water up to, Amount (g) = 2500 ml. Water up to, Molar content of 20 ml = 
+The extra potassium and magnesium are not required if electrolyte/ mineral  solution  is  used  in  preparing  ReSoMal  and  the  feeds (Box 138.3).
+
+============================================================
+CHUNK 18
+============================================================
+STEP 5: TREAT INFECTION
+In severe malnutrition, the usual signs of infection, such as fever, are often  absent.  Therefore,  broad-spectrum  antibiotics  based  on  local antimicrobial resistance patterns are given routinely on admission.
+If the child appears to have no complications:
+- oral amoxicillin 15 mg/kg eight-hourly for five days
+If the child appears sick or lethargic, or has complications (hypoglycemia,  hypothermia,  skin  lesions,  respiratory  tract  or  urinary  tract infection):
+- ampicillin 50 mg/kg intramuscularly (IM)/IV six-hourly for two days, then oral amoxicillin 15 mg/kg eight-hourly for five days;
+- gentamicin 7.5 mg/kg IM/IV once daily for seven days.
+If  the  child  fails  to  improve  clinically  by  48  hours  or  deteriorates after  24  hours,  a  third-generation  cephalosporin  (e.g.  ceftriaxone 50-75 mg/kg/day  IV  or  IM  once  daily  may  be  started  with  gentamicin). Ceftriaxone, if available, should be the preferred antibiotic in cases of septic shock or meningitis. Anti-malarial treatment is provided  if  the  child  has  a  peripheral  blood  film  positive  for  malaria parasites.
+
+============================================================
+CHUNK 19
+============================================================
+STEP 6: CORRECT MICRONUTRIENT DEFICIENCIES
+All  severely  malnourished  children have  vitamin  and  mineral deficiencies.  Although  anemia  is  common,  iron  is  not  given  until  the child has a good appetite and starts gaining weight (usually by the second week). Vitamin A should be given orally on day 1 (for age > 12 months, 200,000 IU; for age 6-12 months, 100,000 IU; for age 0-5 months, 50,000 IU) unless there is definite evidence that a dose has been given in the last month. If the child has xerophthalmia, the same doses  of  vitamin  A  are  repeated  on  days  2  and  14,  or  on  day  of discharge.
+The following micronutrients are provided daily for the entire period of nutritional rehabilitation (at least four weeks):
+- multivitamin supplements;
+- folic acid 1 mg/day (5 mg on day 1);
+- zinc 2 mg/kg/day;
+- copper 0.3 mg/kg/day;
+- iron 3 mg/kg/day, but only when gaining weight.
+A combined electrolyte/mineral/vitamin mix for severe malnutrition is  available  commercially.  This  can  replace  the  electrolyte/mineral solution and multivitamin and folic acid supplements mentioned in
+TABLE 138-1 Frequency and Volume of F-75 During Acute Phase of Treatment, 1 = TABLE 138-1 Frequency and Volume of F-75 During Acute Phase of Treatment. TABLE 138-1 Frequency and Volume of F-75 During Acute Phase of Treatment, 2 = TABLE 138-1 Frequency and Volume of F-75 During Acute Phase of Treatment. TABLE 138-1 Frequency and Volume of F-75 During Acute Phase of Treatment, 3 = TABLE 138-1 Frequency and Volume of F-75 During Acute Phase of Treatment. Days, 1 = Frequency. Days, 2 = Vol/kg/feed. Days, 3 = Vol/kg/day. 1-2, 1 = 2-hourly. 1-2, 2 = 11 ml. 1-2, 3 = 130 ml. 3-5, 1 = 3-hourly. 3-5, 2 = 16 ml. 3-5, 3 = 130 ml. 6-7 +, 1 = 4-hourly. 6-7 +, 2 = 22 ml. 6-7 +, 3 = 130 ml
+
+============================================================
+CHUNK 20
+============================================================
+STEP 6: CORRECT MICRONUTRIENT DEFICIENCIES
+Steps 4 and 6. However, the large single dose of vitamin A and folic acid on day 1 are still given.
+
+============================================================
+CHUNK 21
+============================================================
+STEP 7: START CAUTIOUS FEEDING
+During  the  stabilization  phase,  a  cautious  approach  is  required because of the child's fragile physiologic state and reduced capacity to handle large feeds. Feeding should be started as soon as possible after admission. The WHO-recommended starter formula, F-75, contains  75 kcal/100 ml  and 0.9 g protein/100 ml.  Very weak  children may be fed by spoon, dropper or syringe. Breastfeeding is encouraged between  the  feeds  of  F-75.  A  recommended  schedule  in  which volume  is  gradually  increased  and  feeding  frequency  gradually decreased is shown in Table 138-1. If intake does not reach 80 kcal/ kg/day  despite  frequent  feeds,  coaxing  and  re-offering,  give  the remaining feed by nasogastric tube.
+
+============================================================
+CHUNK 22
+============================================================
+Criteria for Increasing Volume/Decreasing Frequency of F-75 Feeds
+1. If vomiting, lots of diarrhea or poor appetite, continue twohourly feeds.
+2. If  little,  or  no  vomiting,  modest  diarrhea  (less  than  five watery stools per day) and finishing most feeds, change to three-hourly feeds.
+3. After  a  day  on  three-hourly  feeds  (if  no  vomiting,  less diarrhea and finishing most feeds), change to four-hourly feeds.
+In  case  of  SAM  infants  less  than  6  months  old,  feeding  should  be initiated with F-75. During the nutritional rehabilitation phase, F-75 can be continued and, if possible, re-lactation should be done.
+
+============================================================
+CHUNK 23
+============================================================
+STEP 8: ACHIEVE CATCH-UP GROWTH
+During  the  nutritional  rehabilitation  phase,  feeding  is  gradually increased to  achieve  a  rapid  weight  gain  of > 10 g  gain/kg/day.  The recommended milk-based F-100 contains 100 kcal and 2.9 g protein/ 100 ml.  Modified  porridges  or  modified  family  foods  can  be  used provided they have comparable energy and protein concentrations. Readiness to enter the rehabilitation phase is signaled by a return of appetite - usually about one week after admission. A gradual transition  is  recommended  to  avoid  the  risk  of  heart  failure,  which  can occur if children suddenly consume huge amounts.
+To change from starter to catch-up formula:
+1. replace  F-75  with  the  same  amount  of  catch-up  formula F-100 every 4 hours for 48 hours;
+2. then, increase each successive feed by 10 ml until some feed remains  uneaten.  The  point  when  some  remains  unconsumed after most feeds is likely to occur when intakes reach about 30 ml/kg/feed (200 ml/kg/day).
+If weight gain is:
+- poor ( < 5 g/kg/day): the child requires full reassessment for other underlying illnesses, for example tuberculosis (TB);
+- moderate (5-10 g/kg/day): check whether intake targets are being met or if infection has been overlooked;
+- good ( > 10 g/kg/day): continue to praise staff and mothers.
+
+============================================================
+CHUNK 24
+============================================================
+STEP 9: PROVIDE SENSORY STIMULATION AND EMOTIONAL SUPPORT
+In severe malnutrition there is delayed mental and behavioral development. Just giving diets will improve physical growth, but mental development will remain impaired. This  is improved by providing tender loving care and a cheerful, stimulating environment. The play sessions should make use of toys made of discarded material.
+
+============================================================
+CHUNK 25
+============================================================
+STEP 10: PREPARE FOR FOLLOW-UP AFTER RECOVERY
+A  child  who  has  achieved  WHZ  -2SD  can  be  considered  to  have improved. At this point, the child is still likely to have a low weightfor-age because of stunting. Good feeding practices and sensory stimulation should be continued at home. Parents or care givers should be counseled on:
+- feeding energy- and nutrient-dense foods;
+- providing structured playtimes for the children;
+- bringing the child back for regular follow-up checks;
+- ensuring that booster immunizations are given;
+- ensuring that vitamin A and anti-helminthic drugs are given every six months.
+
+============================================================
+CHUNK 26
+============================================================
+TREATMENT OF COMPLICATIONS
+Children  with  SAM  may  experience  a  number  of  severe  complications;  supportive  treatment  for  shock,  very  severe  anemia,  vitamin deficiencies,  dermatoses,  parasitic  infection,  TB  and  lactose  intolerance are often required.
+
+============================================================
+CHUNK 27
+============================================================
+COMMUNITYDBASED MANAGEMENT OF SAM
+In countries with a heavy burden of SAM, facilities and resources for taking care of such children are far from being adequate. It is now agreed that children with SAM who have good appetites but no complications can be treated at the community level. Because the number of  facilities  is  always  sub-optimal  in  developing  countries,  facilitybased treatment cannot cater to the huge numbers of severely malnourished  children  living  in  the  community.  In  addition,  feeding therapeutic  diets  including  F-75  and  F-100  at  home  is  not  recommended because of the propensity of these liquid diets to become contaminated in the home environment. To overcome this problem, ready-to-use-therapeutic food (RUTF) has been developed and used in field situations. If prepared as per prescription, RUTF has the nutrient  composition  of  F-100  but  is  more  energy  dense  and  does  not contain any water. Bacterial contamination, therefore, does not occur and the food is also safe for use in home conditions. The prototype RUTF is made of peanut paste, milk powder, vegetable oil, mineral and vitamin mix as per WHO recommendations. It is available as a paste in a sachet, does not require any cooking and children can eat directly from the sachet.
+RUTF seems to play an important role in the management of severe malnutrition  in  disaster  and  emergency  settings.  A  supplementary feeding program providing food rations to families of affected children  should  be  in  place.  A  stabilization  center  for  taking  care  of acutely ill, severely malnourished children who need inpatient care based on WHO guidelines should also be provided. For countries in Asia,  including  India,  Bangladesh  and  Pakistan,  which  have  the highest burden of child malnutrition, there is a need for research on cost-effectiveness and sustainability of management of severe malnutrition using RUTF. To make a program cost-effective and sustainable, RUTF made of locally-available food ingredients and pertaining to the characteristics of an ideal RUTF is always preferable.
+Children with SAM being considered for outpatient nutritional rehabilitation must fulfill the following attributes:
+- free of any acute illness;
+- have a good appetite;
+
+============================================================
+CHUNK 28
+============================================================
+COMMUNITYDBASED MANAGEMENT OF SAM
+TABLE 138-2 Minimum Amount of RUTF a Child Should Consume to Pass the Appetite Test
+
+Weight of the child (kg), 1 = Minimum amount of 1 RUTF sachet the child should consume willingly within 30 min (92 g sachet giving 500 kcal). < 4, 1 = 1 8. 4-9.9, 1 = 1 4. 10-14.9, 1 = 1 2. 15 kg and above, 1 = 3 4. RUTF, ready-to-use-therapeutic food., 1 = RUTF, ready-to-use-therapeutic food.
+- have a care giver at home;
+- live within a reasonable distance from the outpatient facility.
+Testing for a good appetite is done by offering RUTF to the child in a quiet room. If the child consumes a certain amount of RUTF within 30 minutes, it is assumed that the child has a good appetite (Table 138-2).
+
+============================================================
+CHUNK 29
+============================================================
+DOSE OF READY-TO-USE-THERAPEUTIC FOOD (RUTF)
+A child should be given RUTF to provide 200 kcal/kg/day. The care giver is counseled to offer the daily ration of RUTF in 5-6 divided doses and to provide potable water during feeding. Rations of RUTF
+should be provided weekly or fortnightly, depending on staff availability as well as the distance of the child's residence. At the start of treatment, oral amoxicillin should be provided, as well as vitamin A and folic acid. There should be adequate facilities in the out-patient department  for  counseling  regarding  preparation  and  offering  of homemade nutritious foods, as well as recognition of danger signs of acute illnesses.
+
+============================================================
+CHUNK 30
+============================================================
+REFERENCE
+1.  Black R, Allen LH, Bhutta ZA, et al, for the Maternal and Child Undernutrition Study Group. Maternal and child undernutrition: global and regional exposures and health consequences. Lancet 2008;371:243-60.
+
+============================================================
+CHUNK 31
+============================================================
+FURTHER READING
+- Ahmed T, Ali M, Ullah M, et al. Mortality in severely malnourished children with diarrhoea and use of a standardised management protocol. Lancet 1999;353: 1919-22.
+- Ahmed T, Begum B, Badiuzzaman, et al. Management of severe malnutrition and diarrhea. Ind J Pediatr 2001;68:45-51.
+- Collins S. Treating severe acute malnutrition seriously. Arch Dis Child 2007;92: 453-61.
+- Sattar S, Ahmed T, Rasul CH, et al. Efficacy of a high-dose in addition to daily low-dose  vitamin  A  in  children  suffering  from  severe  acute  malnutrition with other illnesses. PLoS ONE 2012;7(3):e331 12. doi:10.1371/journal.pone. 0033112.
+- World Health Organization. Management of Severe Malnutrition: A Manual for Physicians and Other Senior Health Workers. Geneva: World Health Organization; 1999.
+- World Health Organization. Management of the Child with a Serious Infection or Severe Malnutrition: Guidelines for Care at the First-Referral Level in Developing  Countries  (WHO/FCH/CAH/00.1).  Geneva:  World  Health  Organization; 2000.
+

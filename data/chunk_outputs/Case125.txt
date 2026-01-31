@@ -1,0 +1,698 @@
+============================================================
+CHUNK 0
+============================================================
+32.1 Dengue and Dengue Hemorrhagic Fever
+Daniel H Libraty
+
+============================================================
+CHUNK 1
+============================================================
+Key features
+- Dengue is the most common and signiGcant arboviral disease throughout the world. It is caused by infection with any one of the four dengue virus serotypes (DENV 1-4)
+- The clinical manifestations of a DENV infection can range from an inapparent or mild febrile illness, to the more symptomatic and well-described dengue fever, to the most severe, and sometimes fatal, form of illness, dengue hemorrhagic fever
+- The distinguishing characteristic of dengue hemorrhagic fever is a vascular leakage syndrome that develops around the time of defervescence. The relative risk for developing dengue hemorrhagic fever is increased with sequential heterologous DENV infections
+- Patients with dengue, or suspected dengue, who manifest predeGned 'warning signs' require close monitoring and supportive care during the critical phase of illness
+- The case-fatality rate for severe dengue is < 1% with early recognition and appropriate supportive care and management
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+Dengue  is  the  most  prevalent  and  widespread  human  arboviral disease in the 21st century. Dengue is caused by infection with any one  of  the  four  dengue  viruses  (DENV1-4),  single-stranded  RNA viruses  that  belong  to  the  family Flaviviridae ,  genus Flavivirus .  The DENVs are transmitted to humans through the bite of infected urban and peri-urban mosquitoes. The principal mosquito vector throughout the world is Aedes aegypti ; the next most common mosquito vector is Aedes albopictus . Outbreaks of dengue-like illnesses were recognized and recorded in the 17th and 18th centuries, and perhaps even earlier [1]. There has been a dramatic increase in the incidence and global spread of dengue over the past 50 years [2, 3]. Today, dengue is poised as the vector-borne disease of globalization. The increased movement of  people  and  goods  across  borders  promotes  the  mix  of  DENVs, mosquitoes  and  people.  Increased  urbanization  and  growing  economic power bring with them the discarded accessories of modern life and provide the breeding sites for Aedes mosquitoes.
+
+============================================================
+CHUNK 3
+============================================================
+EPIDEMIOLOGY
+The  global  distribution  of  dengue  essentially  corresponds  to  the global  distribution  of  the A.  aegypti mosquito  (Fig.  32.1.1).  In  the Asian tropics, all four DENV serotypes co-circulate continuously, creating a large region of hyperendemicity. Dengue outbreaks occur with predictable seasonality and periodicity. The majority of dengue cases are seen during the rainy season in a given year, when Aedes mosquito breeding and activity are at their highest levels. Through a complex interplay of population immunity, vector biology and environmental conditions, a shift in the dominant circulating DENV serotype typically  occurs  every  4-6  years.  The  shift  in  the  dominant  circulating DENV serotype often leads to waves of large-scale epidemic dengue activity [4]. Historically, the Americas were characterized by isolated and interspersed dengue outbreaks of a single infecting serotype. Over the past several decades, there has been introduction of 'Asian genotype'  DENV  strains  into  the  Americas,  increased  co-circulation  of multiple DENV serotypes and geographic spread of dengue activity [5].  As  such,  the  dengue  disease  and  transmission  patterns  in  the Americas are shifting towards the Asian hyperendemic patterns.
+DENV infections produce clinical illness in tens of millions each year throughout the Asian and American tropics and subtropics. This is estimated to produce  severe morbidity in approximately 2 million persons/year and approximately 20,000 deaths/year, predominantly in children [6]. Severe dengue is a major cause of hospitalization in children and often strains the healthcare systems of endemic countries during large outbreaks.
+
+============================================================
+CHUNK 4
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+The human dengue cycle is maintained by DENV transmission back and forth between mosquito vectors and viremic individuals. Following the bite of a DENV-infected mosquito, there is local viral replication in Langherhan's cells and cutaneous dendritic cells, and spread to regional lymph nodes. Thereafter, the virus rapidly disseminates throughout  the  reticuloendothelial system  and  skin  leading  to viremia.  The  primary  target  cells  for  viral  replication  appear  to  be
+FIGURE 32.1.1 Global distribution of the Aedes aegypti mosquito as at 1 November 2008 (redrawn with permission from WHO map. Public Health Information and Geographic Information Systems (GIS) WHO).
+those of myeloid lineage-dendritic cells, macrophages and monocytes. The incubation period between the mosquito bite and onset of symptoms varies from 3-10 days. Viremia generally lasts for 4-5 days and the disappearance of  virus  from  the blood  correlates  with  the resolution of fever [5, 7].
+
+============================================================
+CHUNK 5
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+The  most  severe,  and  sometimes  fatal,  form  of  dengue  is  dengue hemorrhagic fever. The distinguishing pathophysiologic characteristic of  dengue  hemorrhagic  fever  is  a  transient  and  rapid  increase  in vascular  permeability.  The  plasma  leakage  syndrome  is  most  often characterized  by  hemoconcentration  and  transudate  accumulation across  serosal  surfaces  (i.e . pleural  effusions  and  ascites).  In  its extreme form (dengue shock syndrome), hypovolemic shock ensues [8,  9].  The  plasma  leakage  syndrome  that  distinguishes  dengue hemorrhagic fever/dengue  shock syndrome develops rapidly at the time  of  defervescence  and  clearance  of  viremia,  and  is  transient (hours to days). Primary infection with a DENV serotype produces long-term protective immunity against re-infection with the homologous serotype (homotypic immunity), but only short-term protective immunity  against  heterologous  serotypes  (heterotypic  immunity) [10, 1 1].  The  relative  risk  of  developing  dengue  hemorrhagic fever/ dengue shock syndrome is increased 15- to 100-fold with sequential heterologous  DENV  infections  compared  with  a  primary  DENV infection [12-14]. Primary DENV infections in infants < 12 months old  also  appear  more  likely  to  lead  to  dengue  hemorrhagic  fever/ dengue shock syndrome than primary DENV infections in children or  adults  [15].  The  prevailing  hypothesis  to  explain  the  apparent immunopath  ogenesis of dengue hemorrhagic fever has been antibody-dependent  enhancement  of  DENV  infection  [3,  16,  17]. The  antibody-dependent  enhancement  model  for  dengue  hemorrhagic  fever  proposes  that  anti-DENV  IgG,  either  actively  acquired from a previous heterolog  ous DENV infection or passively acquired in infants born to dengue-immune mothers, enhances DENV infection  of  Fc  receptor-bearing  cells  and  triggers  a  cytokine  storm  that leads to dengue hemorrhagic fever. The antibody-dependent enhancement  hypothesis  for  dengue  hemorrhagic  fever/dengue  shock syndrome immunopathogenesis remains controversial [18-20], and other  contributing  factors  to  dengue  hemorrhagic  fever  immunopathogenesis are being investigated.
+
+============================================================
+CHUNK 6
+============================================================
+CLINICAL FEATURES
+The most likely outcome of a primary or secondary DENV infection in all age groups is either asymptomatic infection or a mild, undifferentiated febrile illness  of  short duration. The mild febrile illness is  often  characterized  by  nonspecific  constitutional  and  respiratory symptoms.  This  is  particularly  true  in  children,  whereas  DENV infections may be more likely to present as classic dengue fever in adults [5].
+Classic  dengue  fever  begins  with  the  abrupt  onset  of  fever,  retroorbital headache, backache and severe myalgias ('breakbone fever') [5, 2 1, 22]. The febrile illness typically lasts for 5-7 days and can be accompanied by anorexia, nausea/vomiting and prolonged asthenia. There  is  accompanying  leukopenia,  thrombocytopenia  and  often mild hepatic transaminase elevation. Petechiae may develop spontaneously, but, most commonly, can be elicited in a positive tourniquet test ( > 10 or 20 petechiae/square inch on the forearm after inflation of  a  blood  pressure  cuff)  [23].  Clinically  significant  bleeding  (e.g . epistaxis, gastrointestinal hemorrhage, menorrhagia/metrorrhagia) is much less common, but can occasionally be severe or life-threatening. Towards the end of the febrile period, the classic rash of dengue may appear (Herman's rash). It is a confluent erythematous macular rash over the extremities with scattered, well-circumscribed areas of sparing ('a sea of red with islands of normal skin'). The appearance of this rash is essentially pathognomonic for a DENV infection.
+
+============================================================
+CHUNK 7
+============================================================
+CLINICAL FEATURES
+Dengue  hemorrhagic  fever  is  the  dengue  clinical  syndrome  whose distinguishing feature is abrupt plasma leakage from the intravascular to  the  extravascular  space.  When  severe,  the  decrease  in  plasma volume leads to hypotension and shock (dengue shock syndrome). The World Health Organization (WHO) clinical case definition for dengue hemorrhagic fever incorporates three additional clinical criteria beyond dengue fever and established a grading scale of I-IV for dengue hemorrhagic fever  severity (Table 32.1-1) [22].  Despite  the moniker 'hemorrhagic fever', most often the hemorrhagic manifestations may only be a positive tourniquet test, or spontaneous skin or mucosal petechiae. Severe coagulopathy is nearly always seen in the context of profound shock and multi-organ failure. Recently, WHO guidelines have moved away from the dengue hemorrhagic fever clinical  case  definition and,  instead,  proposed  a case definition  termed 'severe dengue' (Table 32.1-1) [24]. Whether defined as dengue hemorrhagic fever or severe dengue, the overwhelming majority of serious morbidity and mortality caused by DENV infections is caused by a vascular leakage syndrome leading to hypotension and shock. Clinically significant hemorrhage can sometimes occur in the absence of vascular leakage, particularly in adults. Other uncommon, but serious, complications  of  DENV  infections  have  also  been  recognized  and include hepatic necrosis, encephalopathy or encephalitis, and chorioretinitis [8, 25].
+TABLE 32.1-1 Case Deanitions for Dengue Hemorrhagic Fever/Dengue Shock Syndrome, Severe Dengue and Warning Signs for Severe Dengue
+
+============================================================
+CHUNK 8
+============================================================
+CLINICAL FEATURES
+Signs/symptoms of dengue fever and: 1. thrombocytopenia (platelet count < 100,000/mm 3 ), and 2. evidence of plasma leakage (hematocrit rise ≥ 20% from baseline, pleural e`usion, or ascites), and 3. hemorrhagic manifestation (see below) • DHF Grade I = Criteria 1 + 2 + positive tourniquet test • DHF Grade II = Criteria 1 + 2 + spontaneous bleeding • DHF Grade III = DHF Grade I/II criteria + circulatory failure (hypotension, weak pulse) • DHF Grade IV = DHF Grade I/II criteria + profound shock, Case deNnition for 'severe dengue' = Probable or laboratory-conarmed dengue and: 1. severe plasma leakage (shock or buid accumulation with respiratory distress), or 2. severe hemorrhage (as evaluated by clinician), or 3. severe organ impairment: a. liver: AST or ALT ≥ 1000 U/ml b. central nervous system: impaired consciousness c. heart and other organs. Signs/symptoms of dengue fever and: 1. thrombocytopenia (platelet count < 100,000/mm 3 ), and 2. evidence of plasma leakage (hematocrit rise ≥ 20% from baseline, pleural e`usion, or ascites), and 3. hemorrhagic manifestation (see below) • DHF Grade I = Criteria 1 + 2 + positive tourniquet test • DHF Grade II = Criteria 1 + 2 + spontaneous bleeding • DHF Grade III = DHF Grade I/II criteria + circulatory failure (hypotension, weak pulse) • DHF Grade IV = DHF Grade I/II criteria + profound shock, Warning signs for severe dengue = • Abdominal pain or tenderness • Persistent vomiting • Clinical buid accumulation • Mucosal bleed • Lethargy, restlessness • Liver enlargement > 2 cm • Increase in hematocrit concurrent with rapid decrease in platelet count. ALT, alanine aminotransferase; AST, aspartate transaminase., Case deNnition for 'severe dengue' = . ALT, alanine aminotransferase; AST, aspartate transaminase., Warning signs for severe dengue
+
+============================================================
+CHUNK 9
+============================================================
+CLINICAL FEATURES
+= 
+
+============================================================
+CHUNK 10
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Dengue should be considered in all individuals, particularly children, presenting  with  an  abrupt-onset febrile  illness  in  endemic  regions. Dengue can be effectively excluded if the fever lasts more than 10-14 days. Otherwise, the initial clinical findings in DENV infections are fairly  nonspecific  and  can  be  difficult  to  distinguish  from  other common febrile illnesses in the tropics. The differential diagnosis for dengue-like illnesses includes typhoid fever, leptospirosis, rickettsial infections  or  malaria.  In  the  appropriate  clinical  setting,  measles, influenza, other childhood viral illnesses and Chikungunya are also possibilities.  Early  in  the  febrile  course,  the  suspicion  for  a  DENV infection can be heightened by the presence of leukopenia, thrombocytopenia, mild aspartate aminotransferase elevation, and a positive tourniquet  test  or  spontaneous  petechiae.  The  positive  predictive value for combinations of these early clinical findings has generally been  good  when  dengue  is  highly  prevalent  (i.e . during  the  rainy season  in  DENV  hyperendemic  regions)  [23,  26].  Their  utility  in distinguishing dengue from other acute febrile illnesses in other settings has not been well established. Among infants, an early macular rash  and  infantile febrile  seizures  should  also raise  suspicion for  a DENV infection [27].
+The  critical  phase  of  any  DENV  infection  is  the  24-48  hours  surrounding  defervescence-generally  around  days  5-7  of  the  febrile illness. This is the time period when plasma leakage will take place in  patients  developing  dengue  hemorrhagic  fever.  A  challenge  in patients with dengue, or suspected dengue, is to identify those at risk for  severe  disease  before  the  critical  phase  is  reached.  A  group  of warning signs and symptoms have been identified in DENV-infected patients  (mostly  children)  that  often  presage  the  deterioration  to dengue hemorrhagic fever or severe dengue (Table 32.1-1) [24]. These patients always require close monitoring and supportive care during the critical phase of illness.
+
+============================================================
+CHUNK 11
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Laboratory  diagnosis  remains  the  most  reliable  way  to  identify  a DENV infection. Reverse transcription (RT)-PCR can detect viral RNA in the blood for up to 5-7 days after the onset of fever in primary infections and 3-4 days after in secondary infections. However, DENV RT-PCR is not routinely available in most clinical settings. Viremia can also be detected by antigen-detection assays that measure circulating  levels  of  a  DENV nonstructural  protein,  NS1.  The  most widely used serologic assay for dengue is IgM/IgG ELISA. A single positive dengue IgM or high titer IgG can only provide a presumptive diagnosis of dengue. Definitive serologic diagnosis requires paired acute and convalescent sera. Anti-DENV IgM antibody levels do not generally become  positive  until  the  fifth  or  sixth  day  of  illness  and  can  be affected  by  other  flavivirus  infections  (e.g.  Japanese  encephalitis virus).  Therefore,  the  diagnostic  sensitivity  and  specificity  of  antiDENV IgM ELISA assays often depend on the timing of the blood sample, co-circulating flaviviruses in the region and the manufacturer [28]. Ideally, a  laboratory approach to identifying DENV infections should incorporate more than method.
+
+============================================================
+CHUNK 12
+============================================================
+TREATMENT
+There  are  no  specific  antiviral  therapies  available  for  dengue.  The vast majority of uncomplicated dengue can be managed on an outpatient basis with rest, oral fluids and oral rehydration solution, and analgesia/antipyretics. The  use of aspirin or nonsteroidal antiinflammatory drugs (NSAIDs) should be avoided as they can exacerbate  platelet  dysfunction  and  mucosal  bleeding.  Patients  and  the parents of affected children should be notified of the warning signs and symptoms that should prompt an immediate return to medical attention.
+The key to minimizing the morbidity and case-fatality rate of dengue is  close  monitoring,  frequent  re-assessment,  and  appropriate  supportive  care  of  patients  with  early  suspicion  of  severe  illness  or impending deterioration. In-hospital management should be arranged  for  patients  with  the  predefined  warning  signs,  early  evidence of plasma leakage (including narrow pulse pressure), bleeding or severe hematologic abnormalities, comorbid conditions, or those with unreliable access to outpatient follow-up care. For hospitalized patients without frank hypotension or shock, the key aspect of supportive  therapy  is  judicious  intravascular  volume  replacement  as the  critical  phase  is  entered.  This  is  accomplished  by  the  careful administration  of  intravenous  isotonic  crystalloid  solutions  (e.g. 0.9%  saline,  Ringer's  lactate,  Hartmann's  solution)  with  frequent re-assessment of  intravascular volume status and urine output. The overly aggressive use of intravenous fluids or the failure to adequately monitor therapy can lead to serious complications of fluid overload during  the  critical  phase  of  illness.  For  hospitalized  patients  with compensated or uncompensated hypotensive shock, more aggressive fluid  resuscitation  and  monitoring  are  indicated.  Treatment  guidelines are shown in Figure 32.1.2.
+
+============================================================
+CHUNK 13
+============================================================
+TREATMENT
+Prophylactic  platelet  transfusions  have  not  proven  to  be  useful  in dengue and should be avoided. Platelet transfusions can be considered  in  patients  with  thrombocytopenia  and  clinically  significant hemorrhage. Similarly, packed red blood cell and whole blood transfusions  should  be  used  based  on  bleeding  severity.  Intramuscular injections,  multiple  large-bore  intravenous  lines  and  diagnostic  or prophylactic placement of nasogastric tubes should be avoided, except as needed in the most severe cases. If possible, complicated, or unusual, severe  dengue  cases  should  be  transferred  to  experienced  referral centers in the area. The case-fatality rate for severe dengue is < 1% with early recognition and appropriate supportive care and management.
+
+============================================================
+CHUNK 14
+============================================================
+PREVENTION
+Dengue  prevention  can  be  approached  by  strategies  to  minimize human-vector  contact  and  control  mosquito  vector  populations (especially A.  aegypti ).  Functioning  window  and  door  screens,  and insecticide-treated bed nets for daytime sleeping (e.g . in infants) can reduce  mosquito  vector  contact  indoors.  Personal  measures  that afford some protection against the daytime biting habits of female A. aegypti include  wearing  clothing  that  minimizes  skin  exposure  and appropriate use of repellants on exposed skin or clothing. Effective repellants  should  contain  N,N-diethyl-3-methylbenzamide (DEET), 3-(N-acetyl-N-butyl)-aminopropionic  acid  ethyl  ester  (IR3535)  or 1-piperidinecarboxylic  acid,  2-(2-hydroxyethyl)-1-methylpropylester (Icaridin) [24].
+At the public health level, a sustained and integrated vector control strategy is generally needed to consistently reduce A. aegypti population  densities. Aedes  aegypti mosquitoes  proliferate  in  many  peridomestic  water-containing  habitats.  These  include  purposely  filled man-made containers  (e.g.  water  storage  barrels,  flowerpots/vases), rain-filled solid waste containers (e.g. used tires, plastic bottles) and natural habitats (e.g. tree holes, rock holes). Successful vector control programs  against A.  aegypti have  combined  the  identification  and environmental management of productive breeding containers and the  targeted  application  of  larvicides  (chemical  and/or  biological) and adulticides [24]. Novel strategies being explored for vector control and management include the release of genetically modified male A. aegypti that cannot produce viable offspring and the use of microbes to shorten the lifespan of adult female A. aegypti .
+
+============================================================
+CHUNK 15
+============================================================
+PREVENTION
+Dengue vaccine development has moved forward with encouraging advances.  Given  the  potential  for  increased  disease  severity  upon sequential  infection  with  heterologous  DENV  serotypes,  a  general consensus has been that effective vaccination strategies will require simultaneous immunization to the four DENV serotypes (tetravalent vaccines). A chimeric, live-attenuated viral vaccine strategy, where the envelope proteins from DENVs1-4 have been engineered onto the yellow fever (YF)-17D vaccine backbone, has advanced to late-stage clinical trials. Other approaches in preclinical and early-stage clinical trials include chimeric, live-attenuated vaccines on a DENV backbone, inactivated virus vaccines and recombinant protein vaccines. In the future, the potential combination of effective dengue vaccination with
+FIGURE 32.1.2 Treatment guidelines for dengue and dengue hemorrhagic fever.
+FIGURE 32.1.2, cont'd
+vector  control  strategies  will  open  up  the  possibility  of  severely halting,  or  even eradicating, DENV  transmission  in many  endemic regions.
+
+============================================================
+CHUNK 16
+============================================================
+REFERENCES
+1. Vasilakis N, Weaver SC. The history and evolution of human dengue emergence. Adv Virus Res 2008;72:1-76.
+2. Kyle JL, Harris E. Global spread and persistence of dengue. Annu Rev Microbiol 2008; 62:71-92.
+3. Halstead SB. Dengue. Lancet 2007;370:1644-52.
+4. Cummings  DA,  Irizarry  RA,  Huang  NE,  et  al.  Travelling  waves  in  the occurrence  of  dengue  haemorrhagic  fever  in  Thailand.  Nature  2004;427: 34 -7.
+5. Rigau-Perez JG, Clark GG, Gubler DJ, et al. Dengue and dengue haemorrhagic fever. Lancet 1998;352:971-7.
+6. International Vaccine Institute. Global Burden of Dengue; 2009. Available at: http://www.pdvi.org/about_dengue/GBD.asp. (accessed 16 July 2009).
+7. Halstead SB. Pathogenesis of dengue: challenges to molecular biology. Science 1998;239:476-81.
+8. Nimmannitya S. Dengue hemorrhagic fever: diagnosis and management. In: Gubler DJ, Kuno G, eds. Dengue and Dengue Hemorrhagic Fever. New York: CAB International; 1997.
+9. Wills BA, Oragui EE, Dung NM, et al. Size and charge characteristics of the protein leak in dengue shock syndrome. J Infect Dis 2004;190:810-18.
+10.  Sabin A. Research on dengue during World War II. Am J Trop Med Hyg 1952; 1:30-50.
+11.  Halstead SB. Pathogenesis of dengue: challenges to molecular biology. Science 1988;239:476-81.
+12.  Burke DS, Nisalak A, Johnson D, Scott RM. A prospective study of dengue infections in Bangkok. Am J Trop Med Hyg 1988;38:172-80.
+13.  Guzman MG, Kouri GP, Bravo J, et al. Dengue hemorrhagic fever in Cuba. Am J Trop Med Hyg 1990;42:179-84.
+
+============================================================
+CHUNK 17
+============================================================
+REFERENCES
+14.  Halstead SB, Nimmannitya S, Cohen SN. Observations related to pathogenesis of dengue hemorrhagic fever. IV. Relation of disease severity to antibody response and virus recovered. Yale J Biol Med 1970;42;31 1-28.
+
+============================================================
+CHUNK 18
+============================================================
+32.2 Chikungunya Fever
+Mala Chhabra, Veena Mittal
+
+============================================================
+CHUNK 19
+============================================================
+Key features
+- Chikungunya fever is a re-emerging arboviral disease characterized by the abrupt onset of fever with severe arthralgia followed by constitutional symptoms and rash lasting for 1-7 days
+- It is transmitted by the bite of infected Aedes aegypti and, to some extent, by Aedes albopictus mosquitoes
+- The disease is nearly always self-limited and rarely fatal. There is no specific treatment. Supportive care with rest is indicated during the acute symptoms
+- As there is not yet an effective vaccine, preventive efforts focus on the avoidance of mosquito bites and mosquito vector control
+
+============================================================
+CHUNK 20
+============================================================
+INTRODUCTION
+Chikungunya  (CHIK)  fever  is  an  arboviral  disease  transmitted  by Aedes aegypti and Aedes albopictus mosquitoes. Its name is derived from
+
+============================================================
+CHUNK 21
+============================================================
+INTRODUCTION
+15.  Halstead SB, Lan NT, Myint TT, et al. Dengue hemorrhagic fever in infants: Research opportunities ignored. Emerg Infect Dis 2002;8:1474-79.
+16.  Halstead SB. Antibody, macrophages, dengue virus infection, shock, and hemorrhage: a pathogenetic cascade. Rev Infect Dis 1989;1 1(suppl. 4):S830-9.
+17.  Takada A, Kawaoka Y. Antibody-dependent enhancement of viral infection: molecular  mechanisms  and  in  vivo  implications.  Rev  Med  Virol  2003; 13:387-98.
+18.  Kliks SC, Nisalak A, Brandt WE, et al. Antibody-dependent enhancement of dengue virus growth in human monocytes as a risk factor for dengue hemorrhagic fever. Am J Trop Med Hyg 1989;40:444-51.
+19.  Laoprasopwattana K, Libraty DH, Endy TP, et al. Dengue Virus (DV) enhancing  antibody  activity  in  preillness  plasma  does  not  predict  subsequent disease severity or viremia in secondary DV infection. J Infect Dis 2005;192: 510-19.
+20.  Libraty DH, Acosta LP, Tallo V, et al. A prospective nested case-control study of  Dengue  in  infants:  rethinking  and  refining  the  antibody-dependent enhancement dengue hemorrhagic fever model. PLoS Med 2009;6:e1000171.
+21.  Rothman AL, Ennis FA. Toga/Flaviviruses: Immunopathology. In: Cunningham M, Fujinami R, eds. Effects of Microbes on the Immune System. Philadelphia, PA: Lippincott Williams & Wilkins; 2000.
+22.  Anonymous.  Dengue  haemorrhagic  fever:  diagnosis,  treatment,  prevention and control, 2nd edn. Geneva: World Health Organization; 1997.
+23.  Kalayanarooj S, Vaughn DW, Nimmannitya S, et al. Early clinical and laboratory indicators of acute dengue illness. J Infect Dis 1997;176:313-21.
+24.  Dengue:  guidelines  for  diagnosis,  treatment,  prevention  and  control-new edition. France: World Health Organization; 2009.
+
+============================================================
+CHUNK 22
+============================================================
+INTRODUCTION
+25.  Nimmannitya S. Clinical spectrum and management of dengue haemorrhagic fever. Southeast Asian J Trop Med Public Health 1987;18:392-7.
+26.  Potts  JA,  Rothman  AL.  Clinical  and  laboratory  features  that  distinguish dengue from other  febrile illnesses  in  endemic  populations.  Trop  Med  Int Health 2008;13:1328-40.
+27.  Capeding RZ, Brion JD, Caponpon MM, et al. The incidence, characteristics, and presentation of dengue virus infections during infancy. Am J Trop Med Hyg 2010;82:330-6.
+28.  Hunsperger EA, Yoksan S, Buchy P, et al. Evaluation of commercially available anti-dengue  virus  immunoglobulin  M  tests.  Emerg  Infect  Dis  2009;15: 436-40.
+the Makonde (African language) word meaning 'that which bends up' in reference to the stooped posture that develops as a result of the arthritic symptoms of the disease. The sudden onset of the febrile illness (fever, chills, headache, nausea, vomiting, low back pain and rash) accompanied by crippling arthralgias (Fig. 32.2.1) and frequent arthritis  is  clinically  distinctive.  The  disease  is  nearly  always  selflimiting and rarely fatal [1]. CHIK virus (CHIKV) is a single-stranded positive-sense RNA virus belonging to the family Togaviridae ,  genus Alphavirus . Molecular characterization has demonstrated two distinct strain lineages that cause epidemics in Africa and Asia. A single point mutation in the viral envelope protein gene was associated with A. albopictus rather than A. aegypti transmission during an outbreak in La Reunion in 2005-6.
+
+============================================================
+CHUNK 23
+============================================================
+EPIDEMIOLOGY
+A few centuries ago, CHIK virus was probably an infection of primates in the forests and savannahs of Africa. It continues to be maintained in a  nonhuman primate cycle by sylvatic Aedes mosquitoes. Today, however, CHIK is also responsible for extensive A. aegypti -transmitted urban disease in the cities of Africa and has produced major epidemics in Asia.
+The African and Asian genotypes of CHIKV exhibit differences in their transmission cycles. In Africa, the virus is predominantly maintained in a nonhuman  primate  sylvatic cycle, whereas in Asia, the
+predominant virus lifecycle is between humans and A. aegypti or A. albopictus mosquitoes.
+CHIKV is known to cause epidemics after periods of quiescence. The first  recorded  epidemic  occurred  in  Tanzania  in  1952-53.  In  Asia, CHIKV was first isolated in Bangkok, Thailand, in 1958. Virus transmission continued until 1964. After a hiatus, virus activity re-appeared in the mid 1970s and declined by 1976. In India, well-documented outbreaks occurred in 1963 and 1964 in Calcutta and Southern India respectively. Thereafter, a small outbreak of CHIK was reported from the Sholapur district, Maharashtra in 1973. The virus emerged in the islands  of  the  southwest  Indian  Ocean  viz.  French  island  of  La Reunion, Mayotee, Mauritius and Seychelles, in February 2005. After three  decades  of  quiescence,  CHIKV  then  re-emerged  in  India  in December 2005. The 2005-2006 outbreak in India involved approximately  1.35  million  suspected  cases  in  12  states.  The  attack  rate reached up to 45% owing to the lack of herd immunity and a large susceptible population [1].
+Imported cases of CHIK infection have been reported from Europe and  the USA in returning travelers  from  areas with  high  incidence rates. Aedes albopictus ,  a  competent  vector  for  CHIK  virus,  has been introduced into several  European  countries,  Central  America,
+FIGURE  32.2.1 Inability to  stand or  walk  without  support  due  to involvement of joints in a chikungunya case (stooped posture).
+Brazil and the USA through the trade in used tires and ornamental plants [2].
+
+============================================================
+CHUNK 24
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+Following  the  bite  of  an  infected  mosquito,  the  virus  replicates leading to a viremia that can be very high; the skin, joints and muscles are especially affected-the nervous system, heart and liver less frequently. Monocytes appear to be the main target of infection during the viremic phase. More severe symptoms relate to a higher viral titer, and stronger pro-inflammatory response. Chronic arthralgia is associated with high levels of interleukin-6 and granulocyte macrophage colony-stimulating factor (GM-CSF). There is little pathologic information available because the disease is rarely fatal.
+
+============================================================
+CHUNK 25
+============================================================
+CLINICAL FEATURES
+Chikungunya is an acute infection of abrupt onset, heralded by fever and severe arthralgia, and followed by other constitutional symptoms and rash lasting for a period of 1-7 days. The incubation period is usually 2-3 days, with a range of 1-12 days. Fever rises abruptly, often reaching 39-40°C accompanied by intermittent shaking chills. This acute phase lasts 2-3 days. The temperature may remit for 1-2 days after a gap of 4-10 days, resulting in a 'saddle back' fever curve that is characteristic of arthropod-borne virus infections.
+The arthralgias are polyarticular, migratory and predominantly affect the small joints of the hands, wrists, ankles and feet (Fig. 32.2.2) with lesser involvement of larger joints. During the acute phase, patients complain bitterly of pain when asked to move. They characteristically lie still in the attitude of flexion. Pain on movement is worse in the morning, improved by mild exercise and exacerbated by strenuous exercise. Swelling may occur but fluid accumulation is uncommon. Patients with milder articular manifestation are usually symptom-free within a few weeks, but more severe cases require months to resolve entirely [1, 3]. A study indicated that over 12% of patients develop chronic joint symptoms. Generalized myalgias, as well as back and shoulder pain is common [4].
+Cutaneous  manifestations  are  typical  with  many  patients.  Initially, many present with facial and trunk flushing. This is usually followed by a maculopapular rash. The trunk and limbs are commonly involved (Fig. 32.2.3), but the face, palms and soles may also show lesions. The rash may simply fade or desquamate. Petechiae may occur alone or in association with the rash.
+During the acute phase, most patients will have headache, but it is not  usually  severe.  Photophobia  and  retro-orbital  pain  may  also
+FIGURE 32.2.2 Maculopapular rash on lower extremities (A) and upper extremities (B) in cases of chikungunya fever.
+FIGURE 32.2.3 Swelling of ankle joints (A) and small joints of hands (B) in cases of chikungunya fever.
+
+============================================================
+CHUNK 26
+============================================================
+CLINICAL FEATURES
+occur. Conjunctival redness is present in some cases. Some patients complain of a sore throat and have pharyngitis on examination [3]. CHIKV infection infrequently produces a meningoencephalitis, particularly in newborns [5, 6] and those with pre-existing medical conditions.  Pregnant  women  can  pass  the  virus  to  their  infant.  The Reunion South Hospital Group observed 84 pregnant women who had laboratory-confirmed CHIK infection. In 88% of these women (all  involving  infections  relatively  distant  from  delivery),  the  newborns appeared asymptomatic. Conversely, 10 newborns had severe attacks  soon  after  birth  (4  with  meningoencephalitis  and  3  with intravascular  coagulation)  and  required  intensive  care  support.  No infant  died;  however,  one  suffered  from  intracerebral  hemorrhage after severe thrombocytopenia [7]. Severe cases of CHIK can occur in the elderly, newborns and immunocompromised individuals. CHIK outbreaks typically result in several hundreds or thousands of cases, but deaths are rarely encountered.
+
+============================================================
+CHUNK 27
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+Symptoms  of  CHIKV  infection  can  be  clinically  indistinguishable from dengue fever. Dual infection of CHIK and dengue fever has been reported [1, 2]. Other acute febrile illnesses in the differential diagnosis  of  CHIK  include  O'nyong-nyong  virus  infection  and  Sindbis virus infection [1-3].
+The clinical laboratory findings in CHIK are not remarkable. A few patients  may  present  with  leukopenia  with  relative  lymphocytosis; however, most patients will have normal blood counts. The platelet count may be moderately depressed. The erythrocyte sedimentation rate  and  C-reactive  protein  levels  are  elevated  in  acute  cases  [3].  A definitive diagnosis can only be made by laboratory means, but CHIK should be suspected when epidemic disease occurs with the characteristic triad of fever, rash and arthralgia.
+Virus-specific IgM antibodies can be readily detected by 5-7 days of illness using capture ELISA in patients recovering from CHIK infection; they decline within 3-6 months. Diagnosis can be confirmed by virus isolation or reverse transcription (RT)-PCR by amplifying a fragment of the E-2 gene. Combined detection and genotyping of CHIKV targeting nsP1 and E1 genes has been developed [8]. Blood samples for virus isolation and RT-PCR should be collected within the first 5 days of illness when viremia is detectable.
+
+============================================================
+CHUNK 28
+============================================================
+TREATMENT
+There is no specific treatment for  CHIK. The illness  is usually selflimiting and resolves with time. Supportive care with rest is indicated
+FIGURE 32.2.4 Aedes breeding in water storing containers at home.
+during the acute joint symptoms. Movement and mild exercise tend to improve stiffness and morning arthralgia, but heavy exercise may exacerbate rheumatic symptoms. Aspirin and other nonsteroidal antiinflammatory drugs (NSAIDs) are recommended for chronic pain. In unresolved arthritis refractory to NSAIDs, Chloroquine 250 mg has proved to be useful [9].
+A  vaccine  or  specific  medication  is  not  yet  available  against  CHIK infection.  Thus,  vector  control  is  very  important  in  controlling  or preventing  CHIKV  transmission.  Elimination  of  breeding  sites  or source  reduction  is  an  effective  method  of  control. Aedes  aegypti is typically a container-habitat species (Fig. 32.2.4) and breeds primarily in artificial containers and receptacles. Therefore, all water tanks, cisterns, barrels, trash containers, etc. need to be covered tightly with a lid. Old tires, tin cans, buckets, drums, bottles, etc. should be removed as mosquitoes may breed in these containers if they accumulate water. In  ornamental  garden  water  tanks,  larvivorous  fish  (e.g . gambusia, guppy) can be introduced. Weeds and tall grass should be cut shortadult mosquitoes look for these shady places to rest during the hot daylight hours. In case water containers cannot be emptied on a daily or weekly basis, Temephos (1 ppm) should be applied.
+Aedes mosquitoes  are  principally  day-time  biters.  Thus,  children should sleep under an insecticide-treated bed net during the daytime. Insecticide spraying should be done to kill mosquitoes. For knockdown, well-planned fogging  operations are  strongly  recommended with 2% pyrethrum space spray in high-risk villages/wards and where clustering of cases has been reported. Insect repellant containing N , N -diethyl-m-toluamide (DEET) or another registered active ingredient should be applied on exposed skin. People should be advised to wear long sleeves and pants and have secure screens on windows and doors to keep mosquitoes out.
+
+============================================================
+CHUNK 29
+============================================================
+TREATMENT
+Infected persons should be protected from further mosquito exposure (staying  indoors  and/or  under  a mosquito net during  the  first  few days  of  illness)  so  that  they  cannot  contribute  to  the  transmission cycle.
+A  vaccine  or  specific  medication  is  not  yet  available  against  CHIK infection. Vector control is thus very important in controlling or preventing CHIKV transmission.
+
+============================================================
+CHUNK 30
+============================================================
+REFERENCES
+1.  Chhabra M, Mittal V, Bhhatacharya D, et al. Chikungunya Fever: A reemerging viral infection. Indian J Med Microbiol 2008;26:5-12
+
+============================================================
+CHUNK 31
+============================================================
+32.3 O'nyong Nyong Fever
+Gregory Deye
+
+============================================================
+CHUNK 32
+============================================================
+Key features
+- Alphavirus transmitted by anophiline mosquitoes in sub-Saharan Africa
+- Typically occurs in large epidemics with high attack rates. Endemic or sporadic cases are rare with almost no disease activity between epidemics
+- Fever and severe symmetrical arthralgias are nearly universal. Pruritic maculopapular rash is common
+- Lymphadenitis (especially posterior cervical) is common but cannot help to differentiate it from other arboviral infections
+- Diagnosis is by PCR in the first 3 days or by serology
+- Treatment is supportive, with acute symptoms resolving in 5-7 days
+
+============================================================
+CHUNK 33
+============================================================
+INTRODUCTION
+O'nyong  nyong  fever  (ONN)  is  an  arboviral  disease  caused  by  an alphavirus of the Semliki Forest complex and most closely related to chikungunya virus  (CHIKV).  Like  other  members  of  this  complex, ONN causes a febrile arthalgic illness. It is unique among alphaviruses in its adaptation to anopheles mosquito vectors, which are primarily responsible for its transmission.
+The disease was undescribed prior to 1959 when an epidemic began in the Acholi district in northwestern Uganda. By the end of the epidemic in 1962, it had involved 2 million people in a band-like distribution  across  Uganda,  Kenya and Tanzania.  Investigation  of  this
+
+============================================================
+CHUNK 34
+============================================================
+INTRODUCTION
+2.  Pialoux G, Gaüzère B-A, Jauréguiberry S. Chikungunya, an epidemic arbovirosis. Michel Strobel. Lancet Infect Dis 2007;7:319-27
+3.  Fields BN, Knipe DM, Howley PM, eds. Alphaviruses. In: Fields Virology, 3rd edn, Vol. 1. Philadelphia: Lippincott-Raven Publishers; 1996:858-98.
+4.  Brighton  SW.  Chloroquine  phosphate  treatment  of  chronic  Chikungunya arthritis: An open pilot study. S Afr Med J 1984;66:217-18.
+5.  Chatterjee SN, Chakravarti SK, Mitra AC, Sarkar JK. Virological investigation of cases with neurological complications during the outbreak of haemorrhagic fever in Calcutta. J Indian Med Assoc 1965;45:314-16.
+6.  Schuffenecker I, Iteman  I, Michault A, et  al.  Genome  microevolution of  Chikungunya viruses causing the  Indian Ocean  outbreak. Plos Medicine. Available at: http://www.plosmedicine.org/article/info:doi/10.1371/journal. pmed.0030263.
+7.  Robillard PY, Boumahni B, Gerardin P, et al. Vertical maternal fetal transmission of the chikungunya virus. Presse Med 2006;35:785-8
+8.  Hasebe F, Parquet MC, Pandey BD, et al. Combined detection and genotyping of  Chikungunya  virus  by  a  specific  reverse  transcription  polymerase  chain reaction. J Med Virol 2002;67:370-4.
+9.  Brighton  SW.  Chloroquine  phosphate  treatment  of  chronic  Chikungunya arthritis: An open pilot study. S Afr Med J 1984;66:217-18
+epidemic led to the discovery of the novel virus, which was named after an Acholi term meaning 'the joint breaker' [1].
+
+============================================================
+CHUNK 35
+============================================================
+EPIDEMIOLOGY
+ONN has generally been described  in epidemics  occurring  in  subSaharan Africa. Sporadic cases outside of epidemic settings have occasionally been described. After the end of the initial epidemic in 1962, no  clinical  cases  were  recognized  until  a  subsequent  epidemic occurred in Uganda in 1996-97 resulting in several hundred cases. An  illness  with  clinical  features  very  similar  to  ONN  had  been described in 1967 in Nigeria. The causative agent was isolated and named Igbo Ora virus. Subsequent studies have shown that Igbo Ora is actually a strain of ONN [2]. The genetic similarities of Igbo Ora and the 1996-97 ONN virus to the 1959 ONN virus, together with serosurveys  from  Kenya,  Cameroon  and  West  Africa,  indicate  that unrecognized endemic transmission may occur during interepidemic periods. During epidemics, rates of infection of up to 68% have been seen in affected villages [3].
+The virus is principally transmitted by Anopheles funestus and Anopheles gambiae , both of which also serve as important vectors of malaria. No vertebrate reservior has been identified. Risk factors for infection are likely to be related to risk of mosquito exposure and are likely to be similar to risk factors associated with malaria.
+
+============================================================
+CHUNK 36
+============================================================
+CLINICAL FEATURES
+The ratio of symptomatic to inapparent infections is roughly 2  :  1 [3]. After an incubation period of about 8 days, clinical symptoms begin with sudden onset of fever and joint pains. Joint involvement is generally  symmetrical,  involving  knees  (90%),  ankles  (83%),  elbows (75%),  wrists  (75%)  or  fingers  (63%)  [4].  Joint  pain  lasts  for  an average of 6 days, although durations as long as 90 days have been reported. Arthralgia was sufficiently severe to lead to immobilization
+in 78% of cases for an average of 4 days, although there was considerable variability in the reported durations, with immobility lasting as long as 28 days reported [4]. Additional symptoms include headache, a generalized pruritic maculopapular rash, cervical lymphadenopathy and conjunctival suffusion.
+A mild neutropenia has been reported during the acute phase of the illness [5]. In both the 1959-62 epidemic and the 1996-97 epidemic, there were no reported fatalities, despite a total of more than 2 million cases.
+
+============================================================
+CHUNK 37
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+Although some clinical features, such as the presence of cervical lymphadenopathy may be suggestive, ONN cannot be differentiated from similar arboviruses, such as CHIKV and dengue on clinical grounds alone. Careful history and physical exam should be directed at excluding other illnesses, as well as finding supportive features such as rash. Virus  can  be  detected  in  whole  blood  by  molecular  amplification (PCR) with greatest sensitivity during the first 3 days after the onset of illness. Serology can help to establish the diagnosis which can be made by the detection of specific IgM or by paired acute and convalescent  sera  showing  development  of  specific  IgG.  IgM  titers  peak roughly 21 days after the onset of illness and remain elevated for over 60 days. IgG titers begin to rise by day 21 and are long-lasting [6]. Care must be taken in the interpretation of serologic results because of  a  well-known,  one-way  cross-reactivity  with  CHIKV  (i.e.  ONN patients will display antibodies to CHIK, but CHIK patients will not usually react to ONN) [7].
+
+============================================================
+CHUNK 38
+============================================================
+32.4 Ross River Virus Disease
+David Harley, Andreas Suhrbier
+
+============================================================
+CHUNK 39
+============================================================
+Key features
+- Synonyms include epidemic polyarthritis and Ross River fever
+- Endemic/epidemic transmission in Australia and Papua New Guinea, with a mean of ~4000 cases per annum in Australia
+- Notable clinical features include peripheral symmetrical polyarthralgia/arthritis, predominantly involving small joints. Illness is self-limiting and usually progressively resolves over 3-6 months
+- Diagnosis is made by specific IgM/IgG ELISA
+
+============================================================
+CHUNK 40
+============================================================
+INTRODUCTION
+Ross River virus (RRV) is a mosquito-borne virus that, in Australia, causes several thousand cases per year with polyarthralgia or polyarthritis  being  the  predominant  clinical  feature.  This  single-stranded, positive-sense  RNA  virus  (~1 1.8 kb  genome)  belongs  to  the  genus Alphavirus and the family Togaviridae . The virus was first isolated from Aedes vigilax mosquitoes trapped beside the Ross River in Queensland
+
+============================================================
+CHUNK 41
+============================================================
+TREATMENT AND CONTROL
+The illness is self-limited, but therapy with nonsteroidal antiinflamatory drugs (NSAIDs) may benefit joint symptoms. Preventive measures against exposure to malaria  vectors, for example insecticide-treated bed nets and indoor residual insecticides, should also be effective in controlling epidemic ONN.
+
+============================================================
+CHUNK 42
+============================================================
+REFERENCES
+1.  O'nyong-nyong. Lancet 1962;279:363-4.
+2.  Powers AM, Brault AC, Tesh RB, Weaver SC. Re-emergence of Chikungunya and O'nyong-nyong viruses: evidence for distinct geographical lineages and distant evolutionary relationships. J Gen Virol 2000;81:471-9.
+3.  Sanders EJ,  Rwaguma EB, Kawamata J, et al. O'nyong-nyong fever in southcentral  Uganda,  1996-1997:  description  of  the  epidemic  and  results  of  a household-based seroprevalence survey. J Infect Dis 1999;180:1436-43.
+4.  Kiwanuka N, Sanders EJ, Rwaguma EB, et al. O'nyong-nyong fever in southcentral Uganda, 1996-1997: clinical features and validation of a clinical case definition for surveillance purposes. Clin Infect Dis 1999;29:1243-50.
+5.  Shore H. O'nyong-Nyong fever: an epidemic virus disease in East Africa; III. Some clinical and epidemiological observations in the Northern Province of Uganda. Trans R Soc Trop Med Hyg 1961;55:361-73.
+6.  Bessaud M, Peyrefitte CN, Pastorino BAM, et al. O'nyong-nyong Virus, Chad. Emerg Infect Dis 2006;12:1248-50.
+7.  Blackburn  NK,  Besselaar  TG,  Gibson  G.  Antigenic  relationship  between chikungunya virus strains and o'nyong nyong virus using monoclonal antibodies. Res Virol 1995;146:69-73.
+(Fig. 32.4.1) in 1959 [1]. Following a series of outbreaks, the disease was originally called 'epidemic polyarthritis' [2, 3] .
+
+============================================================
+CHUNK 43
+============================================================
+EPIDEMIOLOGY
+RRV  disease  is  notifiable  to  public  health  authorities  in  Australia. There has been a mean of ~4,000 (range 1454-5650) reported cases per year, equating to a yearly incidence of 7-26 per 100,000 between 2000-2009 [4] . Disease typically occurs in adults between 25 and 39 years old, with no clear predominance in males or females. Symptomatic infections are rare, or absent, in children [1].
+RRV is endemic in Australia and Papua New Guinea. Most cases occur in  northern  Australia  during  the  wet  season  (usually  DecemberFebruary) and individuals with high exposure to mosquitoes are at greatest risk [3]. In 1979-80, RRV also caused a large epidemic in the South Pacific (Fig. 32.4.1).
+
+============================================================
+CHUNK 44
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+RRV is transmitted in enzootic cycles with macropods (kangaroos and wallabies) as the natural vertebrate hosts. The virus is transmitted to humans from vertebrate hosts (and/or other humans during epidemics)  by  mosquitoes, principally A.  vigilax , Aedes  camptorhynchus and Culex annulorostris [1].
+FIGURE 32.4.1 The agure shows the course of the 1979-80 epidemic in the Paciac islands (arrows); the blue shaded areas show where RRV is endemic. The range of incidence rates per 100,000 per annum and the mean percentage of total Australian cases (for 2007-9) are given for each state/territory of Australia. Data was obtained from the Communicable Disease Network Australia Communicable Diseases Network Australia. Available at:  http://www9.health.gov.au/ cda/Source/Rpt_4_sel.cfm.
+Rheumatic disease is believed to arise from adaptive and/or innate immune  responses  directed  at  RRV  antigens  persisting  in  affected tissues. These responses produce classical arthrogenic proinflammatory mediators [5]. Joint effusions predominantly contain mononuclear cells and RRV has been detected in synovial fluids by PCR [6]. However, joint aspirations and PCR have limited value for diagnosis  [3].  RRV  infections  can  be  subclinical,  with  the  asymptomatic/ symptomatic ratio estimated to be between 1.2  :  1 and 3  :  1 [1].
+Virus-specific antibodies, probably neutralizing antibodies, are believed to be the principal protective adaptive immune response to RRV  [7].  Immunity  appears  to  be  life-long,  with  no  reports  of re-infection.
+
+============================================================
+CHUNK 45
+============================================================
+CLINICAL FEATURES
+The incubation period for RRV is usually 7-9 days, with a possible range of 3-21 days [1]. Acute disease typically presents as a triad of constitutional  symptoms,  joint  involvement  and  rash  [1,  3,  8]. Arthralgia/arthritis occurs in nearly all patients. The joints most commonly affected are  multiple  peripheral  small  joints and  the  knees, usually with a symmetrical pattern (Table 32.4-1). Effusions are often present but are usually small [8]. There may be tendonitis. Rash occurs in  ~50%  of  patients,  most  commonly  presenting  as  erythematous macules and papules (1-5 mm diameter). Fatigue, myalgia, fever and lymphadenopathy are common constitutional features. Fatigue typically  affects  over  50%  of  patients  and  is  often  protracted.  Myalgia occurs  in  up  to  58% of  patients.  Fever  affects 33-50% of patients. Encephalitis or meningitis may occur, but is rare [1, 8].
+There is a popular misconception that RRV disease, particularly rheumatic  symptoms,  last  for  years.  However,  prospective  studies  using validated questionnaires illustrated that, in patients with RRV disease (and no other diagnoses), rheumatic symptoms usually progressively resolve over 3-6 months with no long-term sequelae [9, 10].
+
+============================================================
+CHUNK 46
+============================================================
+CLINICAL FEATURES
+TABLE 32.4-1 Joint Involvement in Ross River Virus Disease. The Percentage of Patients Who Have Arthritis/ Arthralgia in the Indicated Joint(s) is Shown with the Range Rebecting the Data Obtained from Several Studies
+
+Wrist, Percent with involvement = 36-100. Knee, Percent with involvement = 39-100. Ankle, Percent with involvement = 50-97. Interphalangeal (angers), Percent with involvement = 50-81. Elbow, Percent with involvement = 17-71. Cervical spine, Percent with involvement = 12-70. Shoulder, Percent with involvement = 38-62. Interphalangeal (thumb), Percent with involvement = 53-58. Thoracolumbar spine, Percent with involvement = 36-56. Tarsus, Percent with involvement = 36-49. Interphalangeal (toes), Percent with involvement = 47. 'Hand' including metacarpophalangeal joints, Percent with involvement = 45. Hip, Percent with involvement = 4-27. Temporomandibular joint, Percent with involvement = 10-15
+Data from Harley D, Sleigh A, Ritchie S. Ross River virus transmission, infection, and disease: a cross-disciplinary review. Clin Microbiol Rev 2001;14:909-32, and papers cited therein.
+
+============================================================
+CHUNK 47
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+A detailed history is helpful, especially with regard to geographical location,  season  and  mosquito  exposure.  Rapid  onset  of  arthritic symptoms is usual, with pain on movement, tenderness and slight swelling (that can be hard to detect) the most common signs. Tenderness, swelling, heat, redness and intolerance to movement or pressure can be extreme. Rash usually occurs within a few days after the onset of symptoms and resolves within 5-10 days, but can persist or recur. Rash distribution varies considerably, with the trunk and limbs most affected. The face is less affected and, rarely, the rash may be confined to palms, soles and/or digital webs. Lymphadenopathy is frequently present,  if  sought.  Aside  from  fatigue,  constitutional  symptoms usually resolve within a week [1, 8].
+Diagnosis  is  usually  made  by  a  primary-care  physician  aided  by  a commercial serodiagnostic ELISA-based test (widely available in Australia).  Paired  serologic  testing  at  least  10-14  days  apart  is  recommended.  Peripheral  blood  counts  are  usually  normal  except  for  a possible slight  neutrophilia.  An  elevated  erythrocyte  sedimentation rate  can occur,  but decreases within a few weeks.  Serum C  reactive protein levels are rarely elevated. Erosive changes in x-rays are generally not seen [8].
+The  differential  diagnoses  at  initial  disease  presentation  include related  Old  World  alphaviruses  (e.g.  chikungunya,  Barmah  Forest or  Sindbis  virus.  [6]),  dengue  and  Epstein-Barr  virus.  Other  viral arthritides may  also be considered, for example rubella or parvovirus B19 [5, 8]. Drug reactions, autoimmune  arthritides (e.g. rheumatoid  arthritis  and  systemic  lupus  erythematosis)  and  other infectious arthritides may also be among the differential diagnoses. Persistent distinct monoarticular arthritis is not consistent with RRV disease [8].
+
+============================================================
+CHUNK 48
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+In patients diagnosed with RRV disease, but in whom symptoms last longer  than  3-6  months,  other  differential  diagnoses  should  be actively  sought. In  a  survey of RRV  disease patients,  about half the patients reported disease lasting longer than six months. However, in nearly  all  these  patients,  other  rheumatic  conditions  (primarily autoimmune) or depression were subsequently diagnosed [9]. There is  no  evidence  that  RRV  disease  predisposes  to  other  rheumatic diseases  [9],  but  it  may  contribute  to  post-infective  depression  or fatigue [1 1].
+
+============================================================
+CHUNK 49
+============================================================
+32.5 Oropouche Virus
+Marcio RT Nunes, Pedro FC Vasconcelos
+
+============================================================
+CHUNK 50
+============================================================
+Key features
+- The most prevalent arboviral disease in South America, after dengue fever
+- Over 30 epidemics reported in the last three decades in the Brazilian Amazon region, Peru, Panama and Trinidad and Tobago, with an estimated occurrence of over 500,000 infections
+- Clinical picture caused by Oropouche fever virus is an acute febrile disease with headache, chills, myalgia, nausea/vomiting, retro-ocular pain and dizziness
+- Some patients develop aseptic meningitis and virus can be recovered from blood but also from cerebrospinal fluid. Four
+
+============================================================
+CHUNK 51
+============================================================
+TREATMENT
+RRV disease is generally treated with nonsteroidal anti-inflammatory drugs  (NSAIDs),  with  most  patients  being  satisfied  with  this  treatment  [9,  10].  Anecdotal  experience  suggests  different  NSAIDs  may need to be tried [8]. Risk factors and contraindications for NSAID use should also be considered [12]. Aspirin and/or paracetamol are also used  by  some  patients  [9,  10].  Steroids  are  not  generally  recommended [13]. There is some observational evidence for rest and physical therapies. There is currently no commercially available vaccine and preventative measures include avoiding mosquito bites in endemic areas [7].
+
+============================================================
+CHUNK 52
+============================================================
+REFERENCES
+1. Harley D, Sleigh A, Ritchie S. Ross River virus transmission, infection, and disease: a cross-disciplinary review. Clin Microbiol Rev 2001;14:909-32.
+2. Johnston RE, Peters CJ. Alphaviruses. In: Fields BN, Knipe DM, Howley PM, eds. Fields Virology, 3rd edn. Philadelphia, PA: Lippincot-Raven; 1996:843-98.
+3. Barber  B,  Denholm  JT,  Spelman  D.  Ross  River  virus.  Aust  Fam  Physician 2009;38:586-9.
+4. Communicable  Diseases  Network  Australia.  Available  at:  (http://www9. health.gov.au/cda/Source/Rpt_4_sel.cfm).
+5. Suhrbier A, Mahalingam S. The immunobiology of viral arthritides. Pharmacol Ther 2009;124:301-8.
+6. Suhrbier A, La Linn M. Clinical and pathologic aspects of arthritis due to Ross River virus and other alphaviruses. Curr Opin Rheumatol 2004;16:374-9.
+7. Kistner O, Barrett N, Bruhmann A, et al. The preclinical testing of a formaldehyde  inactivated  Ross  River  virus  vaccine  designed  for  use  in  humans. Vaccine 2007;25:4845-52.
+8. Fraser J, Marshall I. Epidemic polyarthritis handbook. Canberra: Department of Community Services and Health; 1989.
+9. Mylonas  AD,  Brown  AM,  Carthew  TL,  et  al.  Natural  history  of  Ross  River virus-induced epidemic polyarthritis. Med J Aust 2002;177:356-60.
+10.  Harley D, Bossingham D, Purdie DM, et al. Ross River virus disease in tropical Queensland: evolution of rheumatic manifestations in an inception cohort followed for six months. Med J Aust 2002;177:352-5.
+11.  Hickie I, Davenport T, Wakefield D, et al. Post-infective and chronic fatigue syndromes precipitated by viral and non-viral pathogens: prospective cohort study. BMJ 2006;333:575.
+
+============================================================
+CHUNK 53
+============================================================
+REFERENCES
+12.  Tielemans MM, Eikendal T, Jansen JB, van Oijen MG. Identification of NSAID users at risk for gastrointestinal complications: a systematic review of current guidelines and consensus agreements. Drug Safety 2010;33:443-53.
+13.  Mylonas AD, Harley D, Purdie DM, et al. Corticosteroid therapy in an alphaviral arthritis. J Clin Rheumatol 2004;10:326-30.
+14. genotypes of Oropouche fever virus (I, II, Ill and IV) are recognized
+- Urban cycle is responsible for outbreaks' transmission and is transmitted by the midge Culicoides paraensis
+16. Diagnosing of Oropouche fever virus is by IgM-ELISA, virus isolation and molecular biology techniques [mainly reverse transcription (RT)-PCR] and nucleotide sequencing
+- There is no vaccine available to prevent Oropouche fever virus and personal protection is recommended during epidemics
+
+============================================================
+CHUNK 54
+============================================================
+INTRODUCTION
+Oropouche virus (OROV), a member of the Orthobunyavirus genus in the Bunyaviridae family, is the causative agent of Oropouche fever [1, 2]. The first case of Oropouche fever was described in 1955, when the virus was isolated from the blood sample of a febrile patient in the West Indies and from a pool of Coquillettidia  venezuelensis mosquitoes. A large epidemic was recorded in the 1960s in Belém, Brazil involving an estimated 1 1,000 people [1]. Over the past five decades, it is estimated that more than half a million people have been infected by the virus in the tropical areas of South and Central America, mainly in the Amazon region [3, 4].
+
+============================================================
+CHUNK 55
+============================================================
+EPIDEMIOLOGY
+OROV has been found in Brazil, Panamá, Peru and  Trinidad, and is  basically  maintained  by  two  different  lifecycles.  One  occurs  in urban  areas  of  tropical  cities  in  the  Amazon  region  and  involves humans as the  vertebrate  hosts  with Culicoides  paraensis midges  as the major vector. The other described lifecycle is  sylvatic, involving wild mammals and birds as the vertebrate hosts. The arthropod vector in  the  sylvatic  life  cycle  is  unknown,  but  may  include C.  paraensis [1, 2].
+Many outbreaks of Oropouche fever have been characterized by epidemics spreading in numerous villages within one geographic area and over a short period of time. The spread of the virus is probably a consequence of the circulation of viremic people in localities where the transmitting vector can be found and where there is a large concentration of susceptible individuals [4].
+
+============================================================
+CHUNK 56
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+Oropouche is a self-limiting febrile illness with no fatalities recorded. Using  molecular  typing  methods,  four  different  OROV  genotypes have been described in the Americas [3-5]. Little is known about the pathogenesis of the Oropouche fever in humans-most of the information on pathogenesis has been obtained in golden hamsters. As in humans, the viremic period in these animals is brief and reaches titers high enough to easily infect C. paraensis midges [2]. In lethal infections in hamsters, an intense encephalitis is observed with a prominent hepatitis [1].
+
+============================================================
+CHUNK 57
+============================================================
+CLINICAL FEATURES
+Clinical Oropouche fever is characterized by the sudden onset of high fever,  headache,  myalgia,  arthralgia,  anorexia,  dizziness,  chills  and
+
+============================================================
+CHUNK 58
+============================================================
+32.6 · Mayaro Virus
+Pedro FC Vasconcelos, Marcio RT Nunes
+
+============================================================
+CHUNK 59
+============================================================
+Key features
+- Mayaro fever virus is an alphavirus responsible for sporadic cases and several outbreaks of illness with fever, arthralgia and rash in northern South America
+- Some infected patients develop severe arthralgia during the defervescence period that can last up to a year
+- Two Mayaro fever virus genotypes are recognized
+photophobia. Some patients present with a morbilliform exanthem that resembles rubella. Nausea, vomiting, diarrhea, conjuntival congestion,  epigastric  and  retro-ocular  pain,  and  other  constitutional symptoms are also common [1]. Some patients may display a picture of aseptic meningitis. A recrudescence of mild symptoms several days after waning of the initial febrile episode is commonly seen (biphasic illness).  Recovery  is  complete  in  all  individuals  without  apparent sequelae, even in the most severe cases. There are no reports of proven lethality caused by Oropouche fever [2].
+
+============================================================
+CHUNK 60
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+The  differential  includes  other  causes  of  febrile  illness,  particularly dengue fever and malaria. Blood samples collected during the acute phase of illness (up to 5 days after the onset of the symptoms) can be used for virus detection methods. The most commonly applied molecular method is reverse transcription (RT)-PCR [3-5]. Virus isolation can be attempted in newborn mice (1-3 days), or in Vero or C6/36  cell  cultures.  For  viral  identification,  suspensions  prepared from brains of mice or supernatants of infected Vero or C6/36 cells are used as antigens in complement fixation or immunofluorescence assays with OROV hyperimmune serum. For specific identification of OROV, neutralization and hemagglutination inhibition tests can be also performed [2].
+
+============================================================
+CHUNK 61
+============================================================
+TREATMENT
+Treatment is supportive.
+
+============================================================
+CHUNK 62
+============================================================
+REFERENCES
+1.  Pinheiro FP, Travassos da Rosa APA, Travasssos da Rosa JFS, et al. Oropouche virus. I. A review of clinical, epidemiological and ecological findings. Am J Trop Med Hyg 1981;30:149-60.
+2.  Pinheiro  FP,  Travassos  da  Rosa  APA,  Vasconcelos  PFC.  Oropouche fever.  In: Feigin RD, ed. Textbook of Pediatric Infectious Diseases, 5th edn. Philadelphia: Saunders; 2004:2418-23.
+3.  Nunes  MRT,  Vasconcelos  HB,  Medeiros  DBA,  et  al.  A  Febre  do  Oropouche: Uma Revisão dos Aspectos Epidemiológicos e Moleculares na Amazônia Brasileira. Cad Saúde Colet 2007;15:303-18 [in Portuguese].
+4.  Vasconcelos HB, Azevedo RSS, Nunes MRT, et al. Oropouche fever epidemic in Northern Brazil: Epidemiology and molecular characterization of isolates. J Clin Virol 2008;44:129-33.
+5.  Saeed MF, Wang H, Nunes MRT, et al. Nucleotide sequences and phylogeny of the nucleocapsid gene of Oropouche virus. J Gen Virol 2000;81:743-8.
+- Mayaro fever virus is transmitted by Haemagogus mosquitoes, particularly Haemagogus janthinomys
+- The vertebrate hosts are nonhuman primates
+- In the Brazilian Amazon, the specific antibody rate ranges from 5-60%; it is higher among closed communities (South America Indians) in the forests
+
+============================================================
+CHUNK 63
+============================================================
+INTRODUCTION
+Mayaro  virus is  a  single-stranded,  positive-sense,  arthropod-borne RNA  virus  in  the  family Togaviridae ,  genus Alphavirus .  Typically,  it causes Mayaro fever, an acute fever, arthralgia and rash syndrome [1]. It typically causes sporadic cases or small outbreaks in forest workers, but  has  caused  a  few  larger  epidemics,  particularly  in  Brazil  and nearby South American countries. The first isolation of Mayaro virus occurred in Trinidad in 1954 from the blood of febrile patients. Two major epidemics were described in the Brazilian Amazon region [2]; smaller epidemics have been recognized since then in other parts of Brazil and in Santa Cruz, Bolivia [3, 4]. Mayaro virus is maintained in nature in a cycle involving mammals, birds and arhropods. New World nonhuman primates and marmosets have been implicated as natural hosts [5]. The virus has been isolated several times from Haemagogus spp.  mosquitoes,  mainly  from Haemagogus  janthinomys species, which is considered the primary potential vector. There are two distinct genotypes of virus. In addition, a unique strain of Mayaro virus has been recovered from Coquillettidia venezuelensis in Trinidad, two others from Sabethes spp. and one from Culex spp.
+
+============================================================
+CHUNK 64
+============================================================
+EPIDEMIOLOGY
+Mayaro virus has been isolated from patient residents in tropical areas of Central and South America, mainly in Brazil, Trinidad, Bolivia and Surinam. The virus has also been isolated in French Guiana, Colombia, Panama and Peru. Detection of antibodies to the virus has been also demonstrated in certain populations of these countries, as well as  in  Guyana,  Colombia  and  Peru  [2].  Most  cases  occur  in  forest workers, who are typically adult males. In the Brazilian Amazon, the specific antibody rate ranges from 5-60%; it is higher among closed communities (South American Indians).
+Only a few major Mayaro fever epidemics have been reported in the Americas: two in Brazil, one in Bolivia and one in Peru [2, 6]. Between 1955 and 1991, epidemics of Mayaro fever were restricted to Brazil, beginning in the municipality of Guamá, Pará state (1955), spreading toward to  other  localities  in  the  São  Miguel  do  Pará  state,  such  as Belterra  (1978),  Conceição  do  Araguaia  (1981),  Itaruma  in  Goias state, Central region of Brazil (1981), Benevides, Pará state (1991) and Peixe, Tocantins state (1991). In the following years, the agent reached other Peruvian Amazon counties (Tumbes, Aucayacu and Huanuco in 1995) [6]. In 2008, the virus re-emerged in Pará state causing an outbreak in the Municipality of Santa Bárbara, Pará State, 50 km from Belém in northern Brazil [4].
+
+============================================================
+CHUNK 65
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+Little is known about the pathogenesis of Mayaro fever in humans, as the virus has not been associated with deaths. Thus, no material is available for histopathologic examination [1]. The data regarding its pathogenesis are a result of experimental in vitro studies using Vero cell cultures. These have indicated intense cytopathic effects and cell death with casein kinase 2 (CK2) having an important role during the Mayaro virus infection cycle [7].
+
+============================================================
+CHUNK 66
+============================================================
+CLINICAL FEATURES
+Mayaro  fever  is  clinically  characterized  as  an  acute  febrile  illness, generally accompanied by headache, myalgia, chills and photophobia. Dizziness, eye pain, nausea and vomiting are less frequently  reported.  Arthralgia,  predominantly  affecting  the  wrists, fingers,  ankles  and  toes,  as  well  as  a  cutaneous  rash  are  also  commonly observed [2, 3]. Occasionally, there may also be painful joint swelling that may persist. In some patients, arthralgia lasts up to a year.
+
+============================================================
+CHUNK 67
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+Leukopenia is a common finding in unspecific laboratory tests within the first week of illness, and a white cell count of about 2500/mm 3 is observed; platelet counts and liver function tests are usually normal. The differential diagnosis includes other causes of fever, arthralgia and rash, particularly  dengue. The laboratory diagnosis of Mayaro fever either depends on virus isolation attempts and serologic diagnostic and molecular methods  for  genome  detection.  For  virus  isolation, biologic samples (serum or blood) obtained from viremic patients (up to 5 days after the onset of the symptoms) are used for inoculation in newborn mice or in Vero cells. Suspensions prepared from brains of mice or supernatants of infected cells are used as antigens in either complement fixation tests or an immunofluorescence assay against hyperimmune sera of different arboviruses circulating in the region.  Specific  identification  of  Mayaro  virus  is  carried  out  using neutralization  and  hemagglutination  inhibition  tests  [1]  and  by reverse transcription (RT)-PCR [3, 4].
+
+============================================================
+CHUNK 68
+============================================================
+TREATMENT AND PREVENTION
+Treatment is supportive. Some patients require hospitalization but no deaths  have  been  reported.  In  theory,  personal  protection  against mosquito bites (insect repellent and long sleeves and trousers) should be protective, but this is not practical for most forest workers. Bed nets and window screens are of little benefit because Haemagogus mosquitoes are day-biters.
+
+============================================================
+CHUNK 69
+============================================================
+REFERENCES
+1.  Pinheiro  FP,  LeDuc  JW.  Mayaro  vírus  disease.  In:  Monath  TP,  ed.  The Arboviruses-Epidemiology  and  Ecology,  Vol.  III.  Boca  Raton:  CRC  Press; 1986:137-50.
+2.  Pinheiro FP, Freitas RB, Travassos da Rosa JFS, et al. An outbreak of Mayaro virus disease in Belterra, Brazil. I. Clinical and virological findings. Am J Trop Med Hyg 1981;30:674-81.
+3.  Powers AM, Aguilar PV, Chandler LJ, et al. Genetic relationships among Mayaro and Una viruses suggest distinct patterns of transmission. Am J Trop Med Hyg 2006;75:461-9.
+4.  Azevedo RSS, Nunes MRT, Silva EPV, et al. Mayaro fever virus outbreak, Santa Barbara, Pará State, Brazilian Amazon. Emerg Infect Dis 2009;15:1830-2.
+5.  Watts DM, Ramirez G, Cabezas C, et al. Arthropod-borne viral diseases in Peru. In:  Travassos da Rosa APA, Vasconcelos PFC, Travassos da Rosa JFS, eds. An overview of arbovirology in Brazil and neighbouring countries. Belem: Instituto Evandro Chagas; 1998:193-218.
+6.  Woodall JP. Virus research in Amzônia. In: Lent H, ed. Atas Simpósio Biota Amazônica,  Vol.  6.  Rio  de  Janeiro:  Conselho  Nacional  de  Pesquisas;  1967: 31-63.
+7.  Barroso MMS, Lima CS, Silva-Neto MAC, Da Poian AT. Mayaro virus infection cycle relies  on casein kinase  2  activity.  Biochem  Biophys  Res  Comm 2002;5:1334-9.
+
+============================================================
+CHUNK 70
+============================================================
+32.7 Sandby Fever
+Remi N Charrel, Xavier de Lamballerie
+
+============================================================
+CHUNK 71
+============================================================
+Key features
+- Phlebovirus infections are transmitted by sandIies
+- Synonyms: pappataci fever, phlebotomus fever or 3-day fever
+- High seroprevalence rates indicate that the majority of cases are unrecognized, possibly owing to asymptomatic or mild disease
+- Clinical disease generally manifests as an undiHerentiated systemic febrile illness
+- One phlebovirus, Toscana virus, is neurotropic and may cause meningitis, encephalitis and peripheral neuropathy
+- All countries where Phlebotomus perniciosus , Phlebotomus per-liewi and Phlebotomus papatasi are present (Mediterranean basin and beyond) are at risk for sandIytransmitted phlebovirus infections
+
+============================================================
+CHUNK 72
+============================================================
+INTRODUCTION
+The viral etiology of the nonspecific febrile illness, sandfly fever, was recognized during World War II in Allied troops affected after landing in Southern Italy [1]. Within the group of sandfly-transmitted phleboviruses, three Old World viruses are recognized as etiologic agents of  symptomatic  human  infections:  Sicilian,  Naples  and  Toscana viruses; the latter two belonging to sandfly fever Naples virus (SFNV), whilst the former belongs to the genetically and antigenically distinct sandfly fever Sicilian viruses (SFSV). Toscana virus is the only one of these viruses known to cause central nervous system (CNS) manifestations [2, 3] and data from Italy, France and Spain indicate that it is among the three leading causes of aseptic meningitis during periods of sandfly activity [4]. The other viruses are associated with systemic febrile illnesses but not CNS infections.
+Chagres and Punta Toro viruses ('new world phleboviruses') have been isolated  in  Panama  from  the  sandflies Lutzomyia  trapidoi and Lutzomyia ylephilator . Candiru and Alenquer viruses have been isolated in  Brazil. Lutzomyia  tarpidoi is  a  highly  anthropophilic  species.  The seroprevalence  of antibodies to Chagres  and  Punta Toro  viruses  in residents of Panama has been reported to be as high as 17% and 35% respectively. However, only sporadic cases of illness have been recognized in this region.
+
+============================================================
+CHUNK 73
+============================================================
+EPIDEMIOLOGY
+Phlebotomine flies are present in most of the countries surrounding the  Mediterranean  and  extend  towards  the  east  (Fig.  32.7.1).  For countries where clinical and epidemiologic studies were conducted, the imbalance between high seroprevalence rates and low numbers of clinical cases suggests that the majority of infections produce mild or asymptomatic disease, or are not diagnosed when they cause severe disease [5].
+Phlebotomine flies are active during the warm season (April-October in  the  Mediterranean basin).  Only  the  adult  females bite:  they  are small  (2-3 mm)  and  readily  pass  through  bed  nets  and  screens intended to protect from mosquitoes. Sandfly fever viruses are transmitted in transovarial and transstadial fashion in their vector species.
+In  some  endemic  areas,  high  rates  of  virus-infected  sandflies  are common (1 : 100-1 :  200) with equal numbers of males and females. Traditionally, Phlebotomus  papatasi is  the  principal  vector  of  Naples and Sicilian  virus,  and Phlebotomus  perniciosus and Phlebotomus  perfiliewi are the chief vectors of Toscana virus. Most recently, Sicilian-like viruses were detected  in  sandflies  other than P.  papatasi ,  such  as P. perniciosus and Phlebotomus longicuspis . Investigations to identify a vertebrate reservoir have so far failed but need to be pursued.
+
+============================================================
+CHUNK 74
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+There are currently less than 50 articles referenced in PubMed corresponding  to  clinical  cases  of  Toscana  virus  infections  and  other sandfly transmitted phlebovirus infections.  Therefore,  clinicians are often  unaware  of  sandfly-transmitted  phleboviruses  as  a  possible cause of febrile illness, with or without CNS symptoms-at least in the  Old  World.  As  cases  are  rarely  fatal,  there  is  little  information about pathogenesis or pathology. The quality of clinical specimens and timing of sampling is of great importance for diagnosis as the duration of viremia is short (less than a week) and the viral load in cerebrospinal fluid (CSF) is modest.
+
+============================================================
+CHUNK 75
+============================================================
+CLINICAL FEATURES
+Current clinical knowledge is based on the description of case reports or small series, and likely does not represent the entire spectrum of syndromes caused by these viruses.
+Sandfly fever is a typical arboviral fever, presenting with high fever, headache, muscle and joint aches. This may be preceded by generalized  fatigue,  abdominal  pain  and  chills.  There  may  also  be  facial flushing and tachycardia. Rarely, bradycardia and hypotension may follow, but all patients make a complete recovery.
+In Toscana virus infection, after an incubation period ranging from a few  days  to  2  weeks,  disease  onset  is  abrupt  with  headache,  fever, nausea and vomiting in most patients; some also have myalgia [2, 3]. Physical examination may show Kernig's sign and neck rigidity in the majority, with depressed levels of consciousness in about 10% and, rarely, nystagmus, tremors and paresis. CSF analysis usually demonstrates  a  mild  pleocytosis  ( > 5-10  cells)  with  normal  glucose  and protein levels.  Blood  samples may  show  leukocytosis  or,  less  commonly, leukopenia. The mean duration of the disease is 7 days and the outcome is usually favorable. However, a small number of severe cases have been reported in the literature. To date, there is no published data  to suggest  that  Toscana  virus  causes  other  clinical manifestations.
+
+============================================================
+CHUNK 76
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+The lack of knowledge about infections caused by sandfly-transmitted phleboviruses is  largely because  of  a  lack  of  diagnostic  means and laboratory detection.
+Serodiagnosis is performed using either indirect immunofluorescence or ELISA assays looking for seroconversion and detection of IgG and IgM.  There  is  almost  no  antigenic  cross-reactivity  between  viruses within the SFNV group and those within the SFSV group. Ultimate serologic confirmation of specific virus infection relies on neutralizing antibody  assays,  but  only  a  handful  of  laboratories  perform  these techniques. Virus isolation from either CSF or blood can be achieved
+FIGURE 32.7.1 Distribution of sandbies in the Old World.
+through inoculation onto  mammalian  Vero,  BHK-21  or CV-1 cells.  Molecular  techniques,  mostly  real-time  reverse  transcription (RT)-PCR assays, are now the technique of choice for diagnostics [6, 7].  Interestingly,  during  the  three  last  decades,  no  human  case  of Naples virus has been reported, suggesting that this virus may have become extinct for unknown reasons.
+Recent years have witnessed the discovery of novel sandfly-transmitted phleboviruses through  studies  conducted in  previously  unexplored geographic areas,  such  as Algeria,  Tunisia and Turkey [8-1 1].  Their role in human disease remains unknown.
+
+============================================================
+CHUNK 77
+============================================================
+TREATMENT
+Treatment is largely supportive. There are no specific antiviral treatments or vaccines for these infections. There has been little research
+
+============================================================
+CHUNK 78
+============================================================
+32.8 Sindbis Fever
+Gregory Deye
+
+============================================================
+CHUNK 79
+============================================================
+Key features
+- Self-limited febrile illness with rash and polyarthropathy
+- Arthritis may persist for longer than 12 months
+- Broad geographic range
+
+============================================================
+CHUNK 80
+============================================================
+INTRODUCTION
+Sindbis virus is an alphavirus within the Western Equine Encephalitis Virus complex. Like other alphaviruses, it has a single-stranded, positive-sense genome contained within a small, enveloped virion. The virus was first isolated in 1952 from Culex univittatus mosquitoes trapped in the Sindbis district of Egypt. Although seroprevalence surveys had previously suggested human infections occur, Sindbis virus was first identified as a human pathogen when it was isolated from febrile patients in Uganda in 1961. An epidemic in South Africa in 1974 caused hundreds of cases. During the 1980s, Ockelbo disease (Sweden), Karelian fever (Russia) and Pogosta disease (Finland), into prevention, but control of sandfly proliferation in areas where people are highly exposed has been suggested and personal protective measures against sandfly bites in areas known to be affected is advised.
+
+============================================================
+CHUNK 81
+============================================================
+REFERENCES
+1. Hertig M, Sabin AB. Sand fly fever. In: Preventive Medicine in World War II, Vol. VII. Washington: Office of the Surgeon General, Department of the Army; 1964:109-74.
+2. Braito  A,  Corbisiero  R,  Corradini  S,  et  al.  Toscana  virus  infections  of  the central  nervous  system  in  children:  A  report  of  14  cases.  J  Pediatr  1998; 132:144-8.
+3. Cusi MG, Savellini GG, Zanelli G. Toscana virus epidemiology: from Italy to beyond. Open Virol J 2010;4:22-8.
+4. Charrel RN, Gallian P, Navarro-Mari JM, et al. Emergence of Toscana virus in Europe. Emerg Infect Dis 2005;1 1:1657-63.
+5. De  Lamballerie  X,  Tolou  H,  Durand  JP,  et  al.  Prevalence  of  Toscana  virus antibodies  in  volunteer  blood  donors  and  patients  with  central  nervous system infections in southeastern France. Vector Borne Zoonotic Dis 2007;7:275-7.
+6. Pérez-Ruiz M, Collao X, Navarro-Marí JM, et al. Reverse transcription, realtime PCR assay for detection of Toscana virus. J Clin Virol 2007;39:276-81.
+7. Weidmann M, Sanchez-Seco MP, Sall AA, et al. Rapid detection of important human pathogenic phleboviruses. J Clin Virol 2008;41:138-42.
+8. Moureau G, Bichaud L, Salez N, et al. Molecular and serological evidence for the presence of novel phleboviruses in sandflies from northern Algeria. Open Virol J 2010;4:15-21.
+9. Collao X, Palacios G, de Ory F, et al. Granada virus: a natural phlebovirus reassortant of the sandfly fever Naples serocomplex with low seroprevalence in humans. Am J Trop Med Hyg 2010;83:760-5.
+
+============================================================
+CHUNK 82
+============================================================
+REFERENCES
+10.  Charrel RN, Moureau G, Temmam S, et al. Massilia virus, a novel Phlebovirus (Bunyaviridae)  isolated  from  sandflies  in  the  Mediterranean.  Vector  Borne Zoonotic Dis 2009;9:519-30.
+11.  Papa A, Velo E, Bino S. A novel phlebovirus in Albanian sandflies. Clin Microbiol Infect 201 1;17:585-7.
+which have nearly identical clinical presentations were shown to be caused by Sindbis virus infection. Although Sindbis virus antigenic variations have been described in Australia, Europe and Africa, these have not been correlated with clinical differences.
+
+============================================================
+CHUNK 83
+============================================================
+EPIDEMIOLOGY
+The virus is typically transmitted in an avian-mosquito cycle with the participation of various Culex species as the principal vector in different locations. Aedes cinereus and Aedes communis may function as bridging vectors from infected birds to humans. Numerous passerine avian species have been shown to be effective viral amplifiers.
+Sindbis fever is principally recognized in Africa, the Middle East and Northern Europe, but sporadic cases and viral isolates have been reported from Australia and Asia. In South Africa and Europe, disease incidence tends to be clustered in discrete outbreaks occurring on a background of sporadic endemic cases. The seasonality of cases mirrors changes in local Culex mosquito populations. Cases in Scandanvia generally occur from July to September, whereas outbreaks in South Africa have occurred during the austral summer from December to April. Sindbis fever outbreaks occasionally occur in conjunction with outbreaks of West Nile Virus infection as they share the same Culex mosquito vectors.
+Although  Sindbis  virus  is  the  most  widely  distributed  mosquitoborne virus collected in Australia and New Guinea, human cases in these areas are rarely recognized.
+Seroprevelance rates vary dramatically within endemic areas, ranging from 9-17% in Finland [1] and up to 23% in endemic areas of South Africa. Age distribution has been reported in Sweden, with an incidence greatest between the fourth and seventh decades of life, and a similar incidence for males and females [2].
+
+============================================================
+CHUNK 84
+============================================================
+CLINICAL FEATURES
+The  incubation  period  is  around  8-9  days.  The  majority  of  infections result in asymptomatic or subclinical infection, with approximately  6%  of  cases  manifesting  clinical  symptoms  [3].  Disease manifestations primarily consist of fever, rash and polyarthropathy, although  malaise,  headache,  myalgia,  conjunctivitis  and  pharyngitis  have  also  been  described.  Fever  is  present  in  about  half  of cases and typically  has a sudden  onset  and persists for less than  2 days [4].
+A maculopapular rash occurs in the majority of cases, usually beginning  within  days  after  the  onset  of  fever.  The  rash  is  occasionally pruritic and may vesiculate. The trunk and lower extremities are most frequently  involved,  although  distribution  can include  all  four extremities, including palms and soles; the face is usually spared. The rash may perisist for more than 5 days.
+Symmetric  oligoarthropathy  is  nearly  universally  present  with  or without joint effusions. The joints most commonly involved include ankles, knees, fingers and wrists, with less frequent involvement of hips, shoulders, neck and back. Joint symptoms are typically present during the acute illness and can persist often as long as 3 years, and may cause a significant degree of disability [5].
+
+============================================================
+CHUNK 85
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+Clinical  presentation  can  be  difficult  to  distinguish  from  infection with other arboviruses, particularly those that cause fever, arthralgia and  rash,  such  as  dengue,  chikungunya  and  Ross  River  virus; however,  the  importance  of  these  various  viruses  differs  according to  the  geographical location. Reactive arthritis  should  also  be considered.
+Virus can be amplified by reverse transcription (RT)-PCR from whole blood or skin biopsy from only a minority of patients, even when samples are obtained within the acute illness. Diagnosis is typically based on serologic confirmation. Elevation of specific IgM is typically detectable within 1 week of symptom onset and persists for up to 6 months. IgG is generally elevated 8-9 days after symptom onset and is persistent.
+
+============================================================
+CHUNK 86
+============================================================
+TREATMENT
+There are no specific therapies. Symptomatic therapy with nonsteroidal  anti-inflammatory  drugs (NSAIDs) and rest may provide  some relief,  although  effectiveness  may  vary  in  individuals.  Preventative measures include avoidance of the bites of Culex mosquitoes.
+
+============================================================
+CHUNK 87
+============================================================
+REFERENCES
+1.  Laine  M,  Vainionpää  R,  Oksi  J,  et  al.  The  prevalence  of  antibodies  against Sindbis-related  (Pogosta)  virus  in  different  parts  of  Finland.  Rheumatology (Oxford) 2003;42:632-6.
+2.  Lundstrom JO, Vene S, Espmark A, et al. Geographical and temporal distribution of Ockelbo disease in Sweden. Epidemiol Infect 1991;106:567-74.
+3.  Brummer-Korvenkontio  M,  Vapalahti  O,  Kuusisto  P,  et  al.  Epidemiology  of Sindbis  virus  infections  in  Finland  1981-96:  possible  factors  explaining  a peculiar disease pattern. Epidemiol Infect 2002;129:335-45.
+4.  Kurkela S, Manni T, Myllynen J, et al. Clinical and laboratory manifestations of Sindbis virus infection: prospective study, Finland, 2002-2003. J Infect Dis 2005;191:1820-9.
+5.  Kurkela S, Helve T, Vaheri A, Vapalahti O. Arthritis and arthralgia three years after  Sindbis  virus  infection:  clinical  follow-up  of  a  cohort  of  49  patients. Scand J Infect Dis 2008;40:167-73.
+

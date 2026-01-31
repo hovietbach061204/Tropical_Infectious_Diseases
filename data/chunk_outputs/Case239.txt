@@ -1,0 +1,197 @@
+============================================================
+CHUNK 0
+============================================================
+Key features
+- The demography of international adoption is in constant %ux
+- Growth failure is the most common medical problem on arrival
+- Tuberculosis infection is the most serious medical diagnosis commonly identi$ed
+- Young international adoptees may be acutely infected, asymptomatic and shedding HAV
+- Ninety per cent of international adoptees need catch-up immunizations
+- International adoptees are at risk for developmental delay
+
+============================================================
+CHUNK 1
+============================================================
+INTRODUCTION
+Between 25,000 and 40,000 children are adopted each year by citizens from a country other than the child's country of birth [1]. Underlying reasons for loss of parents remain constant and include extreme poverty, death of one or both parents, abandonment due to gender or  disability,  armed  conflict  resulting  in  separation  from  parents, maternal substance abuse, or other social or cultural determinants. The HIV epidemic has led to an increase in the number of orphaned children,  particularly  on  the  African  continent.  One  hundred  and forty-three million children are estimated to have been orphaned by one or both parents [2].
+The demography of international adoption is in constant flux. Consequently, the epidemiology of diseases in this population of children shifts from year to year. For example, in 1990, United States citizens adopted children predominantly from South Korea (38%), Colombia (9%), the Philippines (6%) and Peru (6%). In 2009, China (24%), Ethiopia (18%), Russia (12%), South Korea (8.5%) and Guatemala (6%) were the predominant countries of birth [3]. Individual health risks  vary  depending  on  intrauterine  exposure  to  infections  and toxins, genetic heritage, congenital anomalies, caregiver environment (foster care versus institutional care), food security, exposure to infection,  circumstances  leading  to  the  loss  of  parental  care,  and  birth region.
+Common medical problems for international adoptees (IA) include chronic malnutrition, anemia, latent tuberculosis infection, and intestinal  parasites.  Approximately  50%  of  IA  will  experience  an  acute infection within the first month following arrival in the US. Most can be  successfully  treated  as  outpatients.  Upper  respiratory  infections and diarrhea are common. Skin conditions such as scabies, impetigo, and molluscum contagiosum are relatively common. Evaluation of the  sick  IA  depends  on  both  the  epidemiology  of  diseases  in  the country of origin and on the medical and social history of the child.
+
+============================================================
+CHUNK 2
+============================================================
+Cynthia R Howard
+Birth family history and immunization records may be unavailable or unreliable.
+Growth failure is the most common medical problem children have on  arrival.  Psychosocial  deprivation,  particularly  long-term  institutionalization,  adversely  affects  growth  in  height,  weight  and  head circumference [4]. Children may arrive with a low weight-for-height secondary to lack of protein and calories. In a study of 869 children adopted between 1986 and 2001 from 33 different countries, 28% were chronically malnourished, and 5% were acutely malnourished [5]. In Miller's study of 452 IA from China, z-scores of ≤-2 were found for 39% of children for height, 24% for head circumference and 18% for  weight.  Although  some  children  arrive  from  Ethiopia  with  a history  of  severe  protein-energy  malnutrition,  they  appear  to  be growing better than their peers who arrive from long-term orphanage care [6]. Micronutrient deficiencies including zinc, vitamin D and iron deficiency have been documented in children from all countries.
+Lead  toxicity  is  well  documented,  particularly  among  children adopted from Asia, with children from China at highest risk. In one study, 13% of children from China had elevated lead levels ranging from 1 1.1 to 51 μ g/dL [7].
+Internationally adopted children come from countries with a high or intermediate prevalence of tuberculosis, hepatitis A, and hepatitis B. They are routinely screened for hepatitis B, tuberculosis, and HIV in their  birth  countries.  However,  the  reliability  of  the  pre-adoption screens varies from country to country. In one study, 50% of newly arrived  children  had  an  undiagnosed  medical  condition.  Of  these, more than 50% were diagnosed with an infectious disease [8].
+
+============================================================
+CHUNK 3
+============================================================
+TUBERCULOSIS
+Tuberculosis is one of the most serious medical diagnoses identified among IA. In one study of 527 IA, 21% had a positive tuberculin skin test (TST) on arrival. Of those who were negative initially, 46.9% were retested at 3 months or more after arrival, and 20% of these initially negative skin tests had converted to positive. No active cases of tuberculosis were found in this group [9]. Possible explanations for conversion  include  exposure  immediately  prior  to  departure  from  birth country, and improvement in nutritional status with boosting of the skin test. Interferon-gamma release assays (IGRA), which can distinguish BCG immunity from tuberculosis infection, are being studied in children. QuantiFERON GOLD is currently recommended as an alternative method of diagnosing infection in children ≥ 5 years old.
+In a study of 869 IA from 33 different countries between 1986 and 2001, 12% had evidence of M. tuberculosis infection (TST ≥ 10 mm) on initial screening and no active disease. The frequency of positive TST screens did not depend on birth region or nutritional status [5]. The continent of  Africa  was not represented in that  study.  International adoption in significant numbers of children from African countries, particularly Ethiopia, began in 2004. A 2008 study reported a positive TST for 16% of 54 Ethiopian children [6].
+Screening for tuberculosis should be done for all children older than 3  months  of  age.  TSTs  may  be  negative  in  young  infants,  if  their
+150
+
+============================================================
+CHUNK 4
+============================================================
+TUBERCULOSIS
+exposure to tuberculosis was recent, they are malnourished or otherwise  immunocompromised,  or  they  recently  received  a  live-virus vaccine. The TST should take place within 2 weeks of arrival and be repeated  within  3  to  6  months  for  those  children  who  had  a  TST < 10 mm on arrival [5,9]. The TST should be placed regardless of BCG vaccination status. QuantiFERON GOLD may be substituted for the TST in children 5 years of age or older. A physical examination and chest radiograph to assess for extrapulmonary and pulmonary tuberculosis are indicated for every child with a positive TST. A child with a positive TST but no evidence of active disease should be treated with isoniazid for latent tuberculosis infection. If positive for active disease, every effort should be made to isolate the organism, particularly if the child is from a region  of  the  world  with  a  high  rate  of  multidrugresistant TB, such as Eastern Europe, Russia, Asia, or certain countries in Africa, e.g., South Africa.
+Children ≥ 2  years  old  arriving  from  countries  highly  endemic  for tuberculosis are required to be evaluated for TB prior to entering the US [10]. However, following natural disasters such as the January 2010 earthquake in Haiti, orphans may not have received routine screening prior to arrival in the adoptive country.
+
+============================================================
+CHUNK 5
+============================================================
+HEPATITIS A
+Infants  and  young  children  from  hepatitis  A  (HAV)-endemic  areas may be acutely infected, asymptomatic and shedding virus with the potential  to  infect  nonimmune  adoptive  families  and  others  with whom they may come in contact (e.g. day care). Serology has proven useful in identifying these children. In 2009, the Advisory Committee on Immunization Practices (ACIP) recommended that people anticipating close contact with an IA within 60 days after arrival from a country known for intermediate or high rates of hepatitis A should be vaccinated against hepatitis A [1 1]. Among IA < 6 years of age, the prevalence of total HAV antibody ranges from 10% (among Chinese children) to 55-72% (of Ethiopian children) [12].
+
+============================================================
+CHUNK 6
+============================================================
+HEPATITIS B
+Hepatitis B (HBV) infection in the IA can be silent or acutely symptomatic. The prevalence of hepatitis B among IA ranges from 1% to 5%. In a study of 1282 IA between 1999 and 2006, 1.1% were identified with acute or chronic infection. An additional 2.9% had evidence of  resolved  infection.  The  highest  rates  were  among  children  from Ethiopia and Bulgaria [13]. Children found to be hepatitis B surface antigen  (HBsAg)-positive  must  be  tested  again.  Persistence  of  the surface antigen for 6 months or more indicates chronic hepatitis B infection. Children who initially test negative for hepatitis B surface antibody and antigen must be retested within 6 months. All members of  the  household adopting a  child who is  HBV-infected should be immunized and should have post-immunization antibody titers to determine whether levels are consistent with protection.
+
+============================================================
+CHUNK 7
+============================================================
+HEPATITIS C
+Hepatitis C (HCV) seroprevalence among IA is less than 1%. Routine screening is not recommended. The AAP recommends consideration of  HCV  screening  for  children  from  Russia,  Eastern  Europe,  and China.  Screening  of  children  from  other  regions  may  be  indicated depending on the prevalence of HCV in the country of origin, history of blood transfusions, and maternal drug history [14].
+
+============================================================
+CHUNK 8
+============================================================
+SYPHILIS
+Screening for Treponema pallidum is  recommended. Though uncommon among IA, a prevalence of 1.7% or less has been reported [15]. If prior sexual abuse is suspected, a syphilis screen should be repeated 1 month after arrival. Children from tropical regions may have positive tests due to spirochete infections other than syphilis, but differentiation  between  syphilis  and  other  treponeme  infections  (yaws, pinta, and bejel) may be impossible unless active lesions are present. Care must be taken in the interpretation of either the treponemal or nontreponemal test result. If syphilis cannot be excluded satisfactorily, a full evaluation for disease must be undertaken and appropriate treatment given.
+
+============================================================
+CHUNK 9
+============================================================
+HIV
+Despite the increasing number of children orphaned due to HIV, the prevalence  of  HIV  infection  among  IA  has  been  low  in  multiple studies  [15].  In  the  future,  increasing  numbers  of  IA  will  likely  be HIV-positive as adoptive parents more favorably consider adopting children who have the infection. All children should be screened on arrival for HIV antibodies. If they are less than 6 months of age they also should have HIV DNA PCR done. Some experts recommend a follow-up antibody screen 6 months post arrival to detect infection that  may  have  occurred  immediately  prior  to  departure  from  the country of origin.
+
+============================================================
+CHUNK 10
+============================================================
+INTESTINAL PATHOGENS
+Diarrhea  and  abdominal  distention  are  common  among  newly arrived children. In one study, > 25% of IA had one or more intestinal parasites  [16].  Other  common  stool  pathogens  include Blastocystis hominis,  Dientamoeba  fragilis ,  and Hymenolepis  nana .  Stool  samples should be cultured for enteric bacteria in any child with diarrhea.
+Helicobacter pylori must be considered in the evaluation of abdominal pain, anemia, or growth failure. Risk factors include orphanage residence (versus foster care), older age at adoption, and intestinal parasite infection.  Stool for H. pylori antigen  is a  noninvasive screening method [17].
+Screening for malaria parasites should be considered for all IA coming from areas where malaria is holoendemic (Haiti or most countries in sub-Saharan Africa). In a small study of Liberian immigrant children in Minnesota, 28 of 43 (65%) were positive for a Plasmodium species, but one-third were asymptomatic and one-third had splenomegaly as the only sign of infection [18].
+
+============================================================
+CHUNK 11
+============================================================
+EOSINOPHILIA
+An  absolute  eosinophil  count  greater  than  450  requires  etiologic investigation. This should include stool for ova and parasites, although this test alone is insufficient if the eosinophilia is persistent or high. Serologic tests for Strongyloides stercoralis , Schistosomia spp., lymphatic filariasis, Toxocara canis , echinococcosis, Entamoeba histolytica , and visceral or cutaneous larval migrans are indicated as guided by history, physical examination and country of birth. Patients with eosinophilia often are asymptomatic. Empiric treatment with albendazole or ivermectin  is  recommended  for  the  patient  who  has  persistent  eosinophilia without a cause [18].
+
+============================================================
+CHUNK 12
+============================================================
+IMMUNIZATIONS
+More than 90% of IA need catch-up immunizations to meet standards in the US. Availability and reliability of pre-adoption immunization records  are  variable.  Practitioners  can  choose  from  two  clinically sound  approaches:  (a)  either  screening  for  quantitative  antibody levels to verify immunity in the infant > 6 months of age based on vaccine record and/or knowledge of immunizations available in the birth country; or  (b)  immunization  according  to  age and catch-up schedule [19]. Typically measles vaccine as a single antigen is administered in most birth countries rather than full MMR. MMR is recommended over serologic testing for measles antibody. Varicella testing for  children  coming  from  tropical  countries  is  not  recommended prior  to  12  years  of  age  unless  there  is  a  history  of  disease.  In  the tropics, varicella is a disease of adolescents and adults.
+
+============================================================
+CHUNK 13
+============================================================
+CONCLUSIONS
+IA come from countries with a high prevalence of endemic diseases that  are  potentially  life-threatening.  All  IA  should  be  screened  for
+
+============================================================
+CHUNK 14
+============================================================
+CONCLUSIONS
+INITIAL VISIT, TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = STOOL. INITIAL VISIT, TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = Ova and parasites. INITIAL VISIT, TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA).Notes = Three early-morning stools separated by 24 h. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = . , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = Giardia-speciEc antigen. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA).Notes = One early-morning stool; note: if child has watery diarrhea, add stool studies for Cryptosporidium , routine stool culture, and stool culture for Yersinia . Recheck stool 2-3 weeks after completion of treatment. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = URINE. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = Helicobacter pylori antigen. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA).Notes = Consider for IA with persistent abdominal pain and/or refractory iron deEciency anemia. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = . , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = CCU or bag urine for urinalysis. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA).Notes = Urinalysis is a simple screen for renal and systemic disease. Schistosoma haematobium should be considered in the older IA who has asymptomatic hematuria if the country of origin is located in Africa. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = BLOOD. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = Hemogram. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA).Notes = Include red blood cell indices and white blood cell diFerential. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International
+
+============================================================
+CHUNK 15
+============================================================
+CONCLUSIONS
+Adoptees (IA). = . , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = Ferritin, serum iron, iron saturation, transferrin. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA).Notes = . , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = . , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = Vitamin D. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA).Notes = 25 OH Total. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = . , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = Calcium. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA).Notes = . , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = . , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = Phosphorous. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA).Notes = . , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = . , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = Hgb electrophoresis. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA).Notes = If sickle cell disease is prevalent in country of birth or RBC indices indicate thalassemia. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = . , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = Thyroid-stimulating hormone, free thyroxine. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA).Notes = . , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = . , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = G6PD. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA).Notes = If G6PD deEciency is common in country of birth or if
+
+============================================================
+CHUNK 16
+============================================================
+CONCLUSIONS
+prescribing primaquine. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = . , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = Hepatitis A IgG antibody. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA).Notes = If positive, then hepatitis A core IgM antibody. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = . , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = Hepatitis B testing. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA).Notes = HBsAg, HBcAb (if positive IgM), HBsAb. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = . , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = Hepatitis C antibody. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA).Notes = Perform if history suggests possible exposure. If positive, then hepatitis C RNA by PCR. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = . , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = HIV types 1 and 2 antibodies. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA).Notes = HIV DNA PCR if < 6 months old. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = . , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = RPR, ART or VDRL. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA).Notes = Treponemal test to conErm (MHA-TP or FTA-ABS). , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = . , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = Newborn metabolic screen. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA).Notes = For infants (0-12 months). , TABLE 150-1 Clinical Screening Protocol Recommended for Newly
+
+============================================================
+CHUNK 17
+============================================================
+CONCLUSIONS
+Arrived International Adoptees (IA). = . , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = Malaria PCR or thin and thick smears for malaria parasites. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA).Notes = If country is endemic for malaria. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = . , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = Lead. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA).Notes = . , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = . , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = Diphtheria anti-toxoid antibody. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA).Notes = If ≥ 6 months old. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = . , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = Tetanus anti-toxoid antibody. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA).Notes = If ≥ 6 months old. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = . , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = Poliovirus types I, II, and III neutralizing antibody. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA).Notes = If ≥ 6 months old; note that neutralizing antibodies must be ordered unless acute infection is suspected. Titer to type III often not predictive of protective level, and repeating vaccine is not recommended. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = . , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = Varicella. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA).Notes = For children > 12 years old or with history of infection. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = . , TABLE
+
+============================================================
+CHUNK 18
+============================================================
+CONCLUSIONS
+150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = Measles, mumps and rubella antibodies. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA).Notes = If MMR is documented. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = . , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = Tuberculin skin test. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA).Notes = CXR and treat if ≥ 10 mm(see Box 150.1). , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = TST. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = Hepatitis B panel. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA).Notes = Only if child did not have immunity at initial visit Repeat at 6 months after initial testing if initial serology results are negative (no anti-HBs IgG) or if child is < 12 months of age at initial testing. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = . , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = Hepatitis C antibody. , TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA).Notes = Repeat if history suggests exposure. 6 MONTHS POST INITIAL, TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = BLOOD. 6 MONTHS POST INITIAL, TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = HIV types 1 and 2 antibody Iron studies. 6 MONTHS POST INITIAL, TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA).Notes = Some experts recommend repeating at 6 months post arrival. VISIT, TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = . VISIT, TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA). = Tuberculin skin test. VISIT, TABLE 150-1 Clinical Screening Protocol Recommended for Newly Arrived International Adoptees (IA).Notes = Only if Erst test was negative
+
+============================================================
+CHUNK 19
+============================================================
+CONCLUSIONS
+ART, automated reagin test; FTA-ABS, Guorescent treponemal antibody absorption; HBcAb, hepatitis B core antibody; HBsAb, hepatitis B surface antibody; HBsAg, hepatitis B surface antigen; MHA-TP, microhemagglutination test for Treponema pallidum ; RPR, rapid plasma regain; VDRL, Venereal Disease Research Laboratories.
+
+============================================================
+CHUNK 20
+============================================================
+BOX 150.1  De7nition of a Positive Tuberculin Skin Test (TST) in Internationally Adopted Children
+Induration ≥ 5 mm if:
+- evidence of immunosuppression
+- history of contact with active tuberculosis
+- signs and symptoms of tuberculosis
+- abnormal chest radiograph
+Induration ≥ 10 mm in all other internationally adopted children
+Reprinted from Brunette GW, ed. The Yellow Book, Health Information for International Travel. Atlanta: Mosby Elsevier; 2009.
+TABLE 150-2 Growth and Development Risk Factors and Potential Outcomes in Internationally Adopted Children*
+Prenatal alcohol exposure, Potential outcome = Fetal alcohol spectrum disorders. Low birthweight ( < 2500 g), Potential outcome = Behavioral and academic problems. Small head circumference ≤- 2.8 SD, Potential outcome = Mental retardation. Vision and hearing issues, Potential outcome = Fine motor and speech delay; hearing and vision screens are recommended for all new arrivals. Social neglect, Potential outcome = Sensory processing delay, global delay. Malnutrition, Potential outcome = Underweight, stunting, gross motor delay. Micronutrient deEciency: iron, Potential outcome = Cognitive delay. Long-term institutional care, Potential outcome = Cognitive delay, attachment disorder. Lack of play/sensory experiences, Potential outcome = Global delay. Multiple transitions, Potential outcome = Attachment delay, behavioral problems, sleep disturbance. Transition to a second language, Potential outcome = Language delay. History of physical and/or sexual abuse, Potential outcome = Depression, personality disorders. Early deprivation of physical/social needs, Potential outcome = Early puberty in girls. Previously undiagnosed medical conditions, Potential outcome = Complex neurobehavioral problems
+*Most newly arrived international adoptees (IA) are underweight and will catch up within 6 months of arrival. The majority of IA have developmental delays, and most will catch up quickly. To mitigate long-term eFects, developmental screening is recommended at arrival and 6 months post arrival. Vision and hearing screening is recommended within 3 months of arrival.
+acute  and  infectious  diseases  as  noted  above.  Likewise,  family members,  including  the  extended  family  and  childcare  providers, should be current on their routine immunizations. Protection against hepatitis A, hepatitis B, and measles should be ensured.
+
+============================================================
+CHUNK 21
+============================================================
+BOX 150.1  De7nition of a Positive Tuberculin Skin Test (TST) in Internationally Adopted Children
+Children  with  previously  unidentified  chronic  medical  conditions may appear healthy. Therefore, specialized laboratory screening and examination by a professional skilled in caring for this population are needed to identify and treat potential long-term issues. IA are at risk for developmental delays, fetal alcohol spectrum disorders, and failure to thrive. Orphans are at increased risk for neglect of physical and social needs and physical abuse, placing them at increased risk for  mental  illness.  In  addition,  congenital  anomalies  and  genetic disorders must be considered on examination. The initial examination is recommended within 2 weeks of arrival, or sooner if the child is acutely ill with fever or diarrhea. A thorough history and physical examination should be performed with particular attention to specific details (Table 150-1 & Box 150.1).
+A detailed developmental examination that includes sensory evaluation by an occupational therapist is necessary. Consultation with a child  psychologist  experienced  in  international  adoption  issues  is recommended if there is a history of multiple transitions, physical signs of fetal alcohol syndrome, long-term institutional care, known mental health issues, acute attachment issues, birth parent depression, physical or sexual abuse, or if the child is older than 4 years at the time of adoption (Table 150-2).
+
+============================================================
+CHUNK 22
+============================================================
+REFERENCES
+1. Department  of  Economic  and  Social  Affairs,  Population  Division.  Child adoption: trends and policies. United Nations Population Newsletter 2008; 85:1-2.
+2. UNICEF/UNAIDS/USAID. Children on the brink 2004. A joint report of new orphan  estimates and a framework  for action. http://www.unicef.org/ publications/files/cob_layout6-013.pdf (accessed 25 March 2010).
+3. U.S. Department of State. IR3 - IH3 - IR4 - IH4 Visa Issuances for FY-2009. http://adoption.state.gov/pdf/adoption_visa_issuance_2009.pdf (accessed 25 March 2010).
+4. Johnson DE. Long-term medical issues in international adoptees. Pediatr Ann 2000;29:234-41.
+5. The author has extensive experience in international adoption, having founded the first  international  adoption  clinic in  the  United  States  in  1986  that  offered  both pre-  and  post-adoption  services.  The  concise,  descriptive  review  of  major  medical problems is an excellent follow-up to articles written by the same author 10 years earlier. However, the data reviewed were collected prior to the arrival of significant numbers of international adoptees from Africa.
+5. Mandalakas AM, Kirchner HL, Iverson S, et al. Predictors of Mycobacterium tuberculosis infection  in  international  adoptees.  Pediatrics  2007;120:e61016.
+7. The lead author is an expert in pediatric tuberculosis. The retrospective chart review examines risk factors, including the impact of malnutrition, region of birth, and age, among a large number of internationally adopted children. One must keep in mind that children from Africa are not represented in this review.
+6. Miller LC, Tseng B, Tirella LG, et al. Health of children adopted from Ethiopia. Matern Child Health J 2008;12:599-605.
+9. This  descriptive  article,  the  only  one  of  its  kind  published  to  date,  examines  the medical findings of 54 children adopted from Ethiopia. The risk of active hepatitis A virus shedding, potentially infecting non-immune adoptive family members, is not addressed. Dr Miller has also authored a comprehensive, practical manual intended for  the  practicing  clinician,  The  Handbook  of  International  Adoption  Medicine (Oxford University Press, 2005).
+
+============================================================
+CHUNK 23
+============================================================
+REFERENCES
+7. Miller LC, Hendrie NW. Health of children adopted from China. Pediatrics 2000;105:e76.
+8. Hostetter MK, Iverson SI, Dole K, Johnson DE. Unsuspected infectious diseases  and  other  medical  diagnoses  in  the  evaluation  of  internationally adopted children. Pediatrics 1989;83:559-64.
+9. Trehan I,  Meinzen-Derr JK, Jamison L, Staat MA. Tuberculosis screening in internationally adopted children: the need for initial and repeat testing. Pediatrics 2008;122:e7-14.
+10.  Centers  for  Disease  Control.  CDC  immigration  requirements:  technical instructions  for  tuberculosis  screening  and  treatment:  using  cultures  and directly observed therapy. 2009:1-1-35.
+11.  Centers for Disease Control. Updated recommendations from the Advisory Committee on Immunization Practices (ACIP) for use of hepatitis A vaccine
+
+============================================================
+CHUNK 24
+============================================================
+REFERENCES
+- in close contacts of newly arriving international adoptees. http://www.cdc.gov/ mmwr/preview/mmwrhtml/mm5836a4.htm (accessed 8 June 2010).
+12.  Sharapov  UM,  Teshale  E.  Viral  hepatitis  A  among  international  adoptees. Presented at: Adoption Stakeholders Meeting, Center for Disease Control and Prevention October 5, 2009.
+13.  Stadler LP, Mezoff AG, Staat MA. Hepatitis B virus screening for internationally adopted children. Pediatrics 2008;122:1223-8.
+14.  American  Academy  of  Pediatrics.  Medical  evaluation  of  internationally adopted children for infectious diseases. In: Pickering LK, Baker CJ, Kimberlin DW, Long SS, eds. Red Book: 2009 Report of the Committee on Infectious Diseases, 28th ed. 2009:183.
+15.  Murray TS, Groth ME, Weitzman C, Cappello M. Epidemiology and management  of  infectious  diseases  in  international  adoptees.  Clin  Microbiol  Rev 2005;18:510-20.
+16.  Staat  MA.  Infectious  disease  issues  in  internationally  adopted  children. Pediatr Infect Dis J 2002;21:257-8.
+17.  Miller LC, Kelly N, Tannemaat M, Grand RJ. Serologic prevalence of antibodies  to Helicobacter  pylori in  internationally  adopted  children.  Helicobacter 2003;8:173-8.
+18.  Stauffer  WM,  Kamat  D,  Walker  PF.  Screening  of  international  immigrants, refugees, and adoptees. Prim Care 2002;29:879-905.
+19.  Barnett  ED.  Immunizations  for  internationally  adopted  children.  Vaccine Quarterly 2009;3:3-4.
+

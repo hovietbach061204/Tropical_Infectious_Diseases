@@ -1,0 +1,232 @@
+============================================================
+CHUNK 0
+============================================================
+Lynne S Garcia
+This chapter discusses the less common intestinal amebae, flagellates and ciliates that parasitize humans (Table 94-1). Most change their form and function from the active, feeding trophozoites to the resting, more resistant cyst form, which is primarily responsible for transmission, These protozoa are most often transmitted through food, water or other materials that are contaminated with fecal material; prevalence  is  often  correlated  with  socioeconomic  conditions.  Most produce  nonspecific  intestinal  symptoms,  thus  diagnosis  requires microscopic  identification  of  the  organisms  present.  Fecal  immunoassays and molecular methods  are  becoming  available  for  these protozoa; however, their use remains somewhat limited.
+The microscopic examination of the stool specimen, normally called the ova and parasite examination (O&P), consists of three separate techniques:  the direct  wet smear (on very soft  or liquid  fresh stool only),  the  concentration  (wet  mount  of  concentrate  sediment  is examined) and  the permanent stained smear (the most  important part of the O&P for the identification of intestinal protozoa). Microscopic  identification  is  based  on  specific  characteristics  of  the  trophozoites and cysts, most of which are best seen in the permanent stained  fecal  smear  [1,  2].  Key  characteristics  of  the  trophozoites include the type of motility (not commonly seen), cytoplasm inclusions and the number and morphology of the nuclei. Distinguishing features of the cysts include the size and shape, number and morphology of the nuclei, type of cytoplasmic inclusions (chromatoidal bars) and the presence and size of vacuoles.
+
+============================================================
+CHUNK 1
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Cysts can remain viable for weeks in moist feces and contaminated soil.  After ingestion, excystation occurs in the bowel and the trophozoites live in the large intestine, where they remain asymptomatic  in  the  lumen  or  invade  the  intestinal  mucosa,  producing abscesses beneath the surface or ulcers (Fig. 94.1).
+
+============================================================
+CHUNK 2
+============================================================
+CLINICAL FEATURES
+Balantidium infection takes three forms:  asymptomatic infection; chronic non-bloody diarrhea, often with halitosis; and severe invasive disease with dysentery similar to amebiasis. The diarrhea may persist for weeks to months prior to the development of dysentery.
+
+============================================================
+CHUNK 3
+============================================================
+Key features
+- The less common intestinal protozoa Balantidium coli, Dientamoeba fragilis, Entamoeba polecki , and Blastocystis hominis are considered pathogenic and are often associated with symptoms
+- Dientamoeba fragilis can be di$cult to identify, even on a permanent stained smear; laboratories using skilled microscopists and permanent stained smears often report seeing more D. fragilis than Giardia lamblia ( intestinalis, duodenalis )
+- Blastocystis hominis remains one of the most common protozoans found in human fecal specimens and may be present more often than either D. fragilis or G. lamblia
+- As the various strains or subspecies of B. hominis look very similar (some of which are pathogenic and some are non-pathogenic), this explains the ongoing controversy regarding the pathogenicity of ' B. hominis '-a controversy that may eventually be resolved at the molecular level
+- Entamoeba polecki can often be confused with other organisms in the genus Entamoeba ; these amebae are probably often misidenti%ed or missed during routine diagnostic testing
+
+============================================================
+CHUNK 4
+============================================================
+INTRODUCTION
+Balantidiasis is an intestinal infection caused by Balantidium coli , a pathogenic ciliated protozoan [2, 3].
+
+============================================================
+CHUNK 5
+============================================================
+EPIDEMIOLOGY
+Balantidium  coli is  widely  distributed  in  domestic  pigs,  which serve  as  the  main  reservoir  for  human  infection.  Transmission  is fecal-oral  (e.g.  through  contaminated  food  or  water).  Human infection  occurs  worldwide  but  has  mostly  been  reported  from Southeast Asia, the Western Pacific islands and rural South America. Pig  farmers  or  abattoir  workers  are  at  particular  risk.  Sporadic reports exist of epidemics in institutionalized groups in developed countries.  Transmission  from  nonhuman  primates  and  rats  may also occur.
+94
+B
+
+============================================================
+CHUNK 6
+============================================================
+EPIDEMIOLOGY
+FIGURE 94.1 Balantidium coli . Tissue section of a colon biopsy specimen showing necrosis and organisms within an ulcerated area.
+
+TABLE 94-1, 1 = Miscellaneous Intestinal Protozoa. TABLE 94-1, 2 = Miscellaneous Intestinal Protozoa. TABLE 94-1, 3 = Miscellaneous Intestinal Protozoa. TABLE 94-1, 4 = Miscellaneous Intestinal Protozoa. Organism, 1 = Pathogenicity. Organism, 2 = Organism stage. Organism, 3 = Organism stage. Organism, 4 = Organism stage. , 1 = . , 2 = Trophozoite. , 3 = Cyst. , 4 = Other. Amebae, 1 = . Amebae, 2 = . Amebae, 3 = . Amebae, 4 = . Entamoeba polecki, 1 = +. Entamoeba polecki, 2 = +. Entamoeba polecki, 3 = +. Entamoeba polecki, 4 = . Flagellates, 1 = . Flagellates, 2 = . Flagellates, 3 = . Flagellates, 4 = . Dientamoeba fragilis, 1 = +. Dientamoeba fragilis, 2 = +. Dientamoeba fragilis, 3 = -. Dientamoeba fragilis, 4 = . Ciliates, 1 = . Ciliates, 2 = . Ciliates, 3 = . Ciliates, 4 = . Balantidium coli, 1 = +. Balantidium coli, 2 = +. Balantidium coli, 3 = +. Balantidium coli, 4 = . Other (may be reclassiFed), 1 = . Other (may be reclassiFed), 2 = . Other (may be reclassiFed), 3 = . Other (may be reclassiFed), 4 = . Blastocystis hominis, 1 = +. Blastocystis hominis, 2 = -. Blastocystis hominis, 3 = -. Blastocystis hominis, 4 = Multiple forms
+
+============================================================
+CHUNK 7
+============================================================
+EPIDEMIOLOGY
+There may be tremendous fluid loss, with a type of diarrhea similar to that seen in cholera or in some coccidial or microsporidial infections.  Rarely,  extra-intestinal  disease  has  been  reported  involving the lung, appendix, liver, peritoneum and genitourinary tracts, particularly in immunocompromised persons.
+FIGURE 94.2 Balantidium coli. (A) trophozoite from a fecal specimen (note the  large  macronucleus); (B) cyst  from  a  fecal  specimen  (note  the  large macronucleus). Organisms in wet preparations may be easier to see;  occasionally  in  stained  preparations  that  are  stained  too  dark,  the organisms may resemble large debris.
+
+============================================================
+CHUNK 8
+============================================================
+DIAGNOSIS
+Wet preparation examinations of fresh and concentrated fecal material (O&P examination) will demonstrate the organisms (Fig. 94.2). Organism recognition and identification on a permanent stained smear is difficult; these ciliates are so large that they tend to stain very darkly, thus obscuring any internal morphology.
+
+============================================================
+CHUNK 9
+============================================================
+TREATMENT
+Treatment generally involves tetracycline, 500 mg four times a day for 10 days, or doxycycline. Metronidazole 750 mg po tid for 5 days [4] or iodoquinol, 650 mg, three times a day for 20 days have also been used.
+
+============================================================
+CHUNK 10
+============================================================
+INTRODUCTION
+Dientamoeba fragilis is  an  ameboflagellate closely related to Histomonas and Trichomonas spp. (Fig. 94.3) [2,5,6].
+
+============================================================
+CHUNK 11
+============================================================
+EPIDEMIOLOGY
+Dientamoeba fragilis is  found  worldwide and past surveys  provide incidence  rates  of  1.4-19%.  Much  higher  incidence  figures  have been  reported  for  mental  institution  inmates,  missionaries  and Native  Americans  in  Arizona.  In  some  laboratories  in  countries such as Canada and the Netherlands, D. fragilis is the most common protozoa  found  on  stool  ova  and  parasite  examination.  The  life cycle and mode of transmission of D. fragilis have not been confirmed, although transmission via helminth eggs such as those of Ascaris and Enterobius spp. has been postulated. The cyst stage has not been confirmed to date.
+
+============================================================
+CHUNK 12
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Dientamoeba fragilis is  assumed  to  be  noninvasive  and  thus  elicit symptoms by epithelial irritation. The significance of two genetically distinct forms of D. fragilis may, ultimately, serve to clarify the issues of virulence and clinical perceptions regarding pathogenicity. In some cases, the organism has been found in the biliary tree.
+
+============================================================
+CHUNK 13
+============================================================
+CLINICAL FEATURES
+Although its pathogenic status is still not well defined, D. fragilis has  been  associated  with  diarrhea  and  a  number  of other  symptoms,  including  intermittent  diarrhea,  abdominal  pain,  nausea, anorexia,  malaise,  fatigue,  poor  weight  gain,  and  unexplained
+eosinophilia.  The  most  common  symptoms  in  patients  infected with this parasite appear to be intermittent diarrhea and fatigue. A number of studies have even incriminated D. fragilis as a cause of irritable bowel syndrome and allergic colitis.
+
+============================================================
+CHUNK 14
+============================================================
+DIAGNOSIS
+Diagnosis of D. fragilis infections depends on proper stool collection (a minimum of three fecal specimens, one collected every other day) and processing techniques. Although the survival time for this parasite has been reported as 24-48 h, the survival time in terms of morphology is limited, and stool specimens must be examined immediately or preserved  in a  suitable  fixative  soon  after defecation. It is very important that permanently-stained smears of stool material be examined with the oil immersion objective (100 × , total magnification  1000 × ).  These  organisms  have  been  recovered  in formed stool; therefore, a permanent stained smear must be prepared for every stool sample submitted for a parasite examination (O&P). Organisms seen in direct wet mounts may appear as refractile,  round  forms;  the  nuclear  structure  cannot  be  seen  without examination of the permanent stained smear. Although the organisms  can  be  isolated  in  culture,  this  approach  is  not  a  routine procedure in most clinical laboratories.
+
+============================================================
+CHUNK 15
+============================================================
+TREATMENT
+We recommend treatment in individuals with persistent symptoms and D. fragilis infection, particularly if D. fragilis is the only pathogen found. No clinical trials have been performed to evaluate therapies against D. fragilis . Clinical improvement has been observed in adults  receiving  tetracycline,  diiodohydroxyquin,  metronidazole and paromomycin. We favor paromomycin at a dosage of 500 mg three times a day for 7 days because this is the shortest course and appears effective.
+FIGURE 94.3 Dientamoeba fragilis . (A) trophozoite from stool (one nucleus, note the nuclear chromatin is getting ready to fragment); (B) trophozoite (one nucleus, nuclear chromatin has already fragmented); (C) trophozoite (two nuclei with fragmented chromatin). No known cyst form.
+
+============================================================
+CHUNK 16
+============================================================
+INTRODUCTION
+Entamoeba polecki is an infrequently pathogenic ameba commonly found in the intestines of pigs and monkeys [2,7,8].
+
+============================================================
+CHUNK 17
+============================================================
+EPIDEMIOLOGY
+The organism is found worldwide and highly prevalent in certain areas  of  the  world  such  as  Papua  New  Guinea.  Transmission  is likely human-human or from pigs, monkeys or domestic animals.
+
+============================================================
+CHUNK 18
+============================================================
+CLINICAL FEATURES
+Although the majority of cases diagnosed with E. polecki infection have  been  asymptomatic,  several  cases  have  been  documented in which the patients were symptomatic. Symptoms included anorexia,  diarrhea,  mucoid  stools,  abdominal  pain,  malaise  and eosinophilia.
+
+============================================================
+CHUNK 19
+============================================================
+DIAGNOSIS
+Differentiation of this organism from either E. histolytica/E. dispar/ E. moshkovskii or E. coli is rarely accomplished on the basis of a wet preparation examination and is difficult even with the permanent stained smear (Fig. 94.4). The nuclear morphology of the trophozoite  is  almost  a  composite  of  those  of E.  histolytica / E.  dispar, E. moshkovskii and E. coli . Without some of the cyst stages for comparison, it would be very difficult to identify this organism to the species level  on the basis  of the  trophozoite alone.  The cyst  normally  has  only  a  single  nucleus,  chromatoidal  material  like  that seen in E. histolytica and, frequently, an inclusion body. This mass tends to be round or oval and is not sharply defined on the edges.
+
+============================================================
+CHUNK 20
+============================================================
+INTRODUCTION
+Recently, this organism has been removed from the protozoa and reclassified  in  a  separate  group,  the  Stramenopila,  and  there  are multiple subtypes at the protein or DNA level [10-12]. Analysis of 10  stocks  of B.  hominis isolated  from  human  stools  revealed  two distinct subtypes, which may partially explain why some patients are asymptomatic and some have clinical symptoms.
+
+============================================================
+CHUNK 21
+============================================================
+EPIDEMIOLOGY
+Blastocystis hominis is  found worldwide with a prevalence in some studies as high as 58% and generally exceeds that of other organisms; even 15% of stool submitted in the USA for O&P examination may  be  positive.  Fecal-oral  transmission  is  postulated.  Studies suggest the existence of numerous zoonotic isolates with frequent animal-to-human  and  human-to-animal  transmission  and  of  a large potential reservoir in animals for infections in humans. The pathogenicity  of B.  hominis has  long  been  controversial.  Several case-control  analyses  show  no  increase  in  prevalence  in  patients with diarrhea, with high carriage rates in asymptomatic individuals. Many patients infected with Blastocystis also carry other pathogens; endoscopic studies have not found intestinal pathology, thus causality can be difficult to discern.
+
+============================================================
+CHUNK 22
+============================================================
+CLINICAL MANIFESTATIONS
+In  some  studies, Blastocystis has  been  associated  with  diarrhea, cramps, nausea, fever, vomiting and abdominal pain. An
+The  material,  which  is  not  glycogen,  remains  on  the  permanent stained  smear  and  stains  less  intensely  than  nuclear  material  or chromatoidal bars.
+
+============================================================
+CHUNK 23
+============================================================
+TREATMENT
+As for E. histolytica , metronidazole 750 mg three times a day for 10 days, often followed by diloxanide furoate, 500 mg three times a day for 10 days, has been used to eradicate the organism.
+FIGURE  94.4 Entamoeba  polecki .  Uninucleate  cyst  in  stool.  Note  the prominent inclusion, chromatoidal bars and single nucleus (morphology of the nucleus is a composite of all the Entamoeba species nuclei).
+association  with irritable bowel syndrome and intestinal obstruction has also been reported. One case of Blastocystis arthritis has also been reported.
+
+============================================================
+CHUNK 24
+============================================================
+DIAGNOSIS
+Routine  stool  examinations  are  very  effective  in  recovering  and identifying B. hominis , although the permanent stained smear is the procedure of choice. The examination of wet preparations may not easily reveal the organism; morphology can be difficult to see at the lower magnifications. If the fresh stool is rinsed in water before fixation (for the concentration method), B.  hominis organisms, other than  the  cysts,  will  be  destroyed,  thus  possibly  yielding  a  falsenegative report. The organisms should be quantitated on the report form, i.e. as rare, few, moderate or many. The classic form that is usually seen in the human stool specimen varies tremendously in size,  from 6-40 μ m, and is characterized by a large central body, which  may  be  involved  with  carbohydrate  and  lipid  storage (visually  appearing  like  a  large  vacuole)  (Fig.  94.5).  The  more amebic  form  is  occasionally  seen  in  diarrheal  fluid  but  may  be extremely difficult to recognize. Generally, B. hominis will be identified  on  the  basis  of  the  more  typical  round  form  with  the central body.
+Quantitation of Blastocystis in stool ( > 5 organisms per oil immersion  field)  has  been  proposed  to  inform  whether Blastocystis is  a pathogen, but this also remains controversial and poorly studied. ELISA and fluorescent-antibody tests have been developed for detection of serum antibody to B. hominis infections.
+FIGURE 94.5 Blastocystis hominis . Central body forms from stool. Note the small nuclei around the periphery; also note the organism on the left (A) is dividing.
+
+============================================================
+CHUNK 25
+============================================================
+TREATMENT
+Routine treatment of asymptomatic Blastocystis infection is not recommended. It reasonable to treat symptomatic Blastocystis infection if no other pathogens are found, particularly if repeat stool studies confirm the parasite. Treatment is most commonly attempted with metronidazole  at  the  amebiasis  dose  of  750 mg  TID  for  5-10 days.  Successful  treatment  with  nitazoxanide  and  trimethoprimsulfamethoxazole has also been reported. Parasitologic and clinical cure rates are relatively low at ~70%.
+
+============================================================
+CHUNK 26
+============================================================
+94.5 Non-pathogenic Intestinal Protozoa
+A  number  of  non-pathogenic  amebae  and  flagellates  are  often found during the routine O&P stool examination, including E. coli, Endolimax nana, Iodamoeba bü tschlii , Chilomastix mesnili and Pentatrichomonas (formerly trichomonsa) hominis (Tables 94-2 and 94-3). Although these are non-pathogens, this finding indicates the patient
+
+TABLE 94-2 Trophozoites of Miscellaneous Intestinal Protozoa
+
+============================================================
+CHUNK 27
+============================================================
+94.5 Non-pathogenic Intestinal Protozoa
+Entamoeba polecki, Size * μ m (normal range) = 8-15 (10-12). Entamoeba polecki, Motility = Same as E. coli. Entamoeba polecki, Stained nucleus (number) = DiGcult to see in unstained preparations (1); intermediate between E. histolytica and E. coli. Entamoeba polecki, Peripheral chromatin ;agella; or cilia = Fine and large granules; even or uneven arrangement; karyosome usually central. Entamoeba polecki, Cytoplasm = Finely granular. Entamoeba polecki, Inclusions = Bacteria. Dientamoeba fragilis, Size * μ m (normal range) = Shaped like amebae 5-15 (9-12). Dientamoeba fragilis, Motility = Usually nonprogressive. Dientamoeba fragilis, Stained nucleus (number) = Usually not visible in unstained preparations; 40% one nucleus; 60% two nuclei; karyosome composed of cluster of 4-8 granules. Dientamoeba fragilis, Peripheral chromatin ;agella; or cilia = Internal Hagella not visible, even in stained preparations. Dientamoeba fragilis, Cytoplasm = Tremendous variability in size and shape; Fnely granular; usually vacuolated. Dientamoeba fragilis, Inclusions = Bacteria, yeasts, other debris. Balantidium coli, Size * μ m (normal range) = Ovoid with tapering anterior end; 50-100 (40-70) longby 40-50 wide. Balantidium coli, Motility = Rotary, boring, may be rapid. Balantidium coli, Stained nucleus (number) = One large kidney- shaped macronucleus; one small, round micronucleus (very diGcult to see even in stained preparation). Balantidium coli, Peripheral chromatin ;agella; or cilia = Cilia may be seen in unstained or stained preparations. Balantidium coli, Cytoplasm = Cytoplasm may be vacuolated. Balantidium coli, Inclusions = Small debris
+
+============================================================
+CHUNK 28
+============================================================
+94.5 Non-pathogenic Intestinal Protozoa
+*These measurements refer to wet preparation measurements. After permanent staining (including dehydration), some trophozoite measurements may be 1-1.5 microns less. In general, shrinkage is more obvious and greater with the cyst forms.
+has come in contact with something contaminated with fecal material  containing  infective  cysts.  If  the  patient  is  symptomatic,  it  is important to perform additional testing to detect possible pathogens that might also be present.
+
+TABLE 94-3 Cysts of Miscellaneous Intestinal Protozoa
+
+============================================================
+CHUNK 29
+============================================================
+94.5 Non-pathogenic Intestinal Protozoa
+Entamoeba polecki, Size * μ m (normal range) = 5-11. Entamoeba polecki, Shape = Usually spherical. Entamoeba polecki, Stained nucleus (number); karyosome = Mature cyst (1), rarely more; morphology similar to that seen in trophozoite. Entamoeba polecki, Peripheral chromatin; ;agella; or cilia = Similar to trophozoite. Entamoeba polecki, Cytoplasm = Granular. Entamoeba polecki, Inclusions = Many chromatoidal bars with pointed ends; half of cysts contain spherical or ovoid'inclusion mass'. Blastocystis hominis **, Size * μ m (normal range) = 6-40; tremendous size variation in a single specimen. Blastocystis hominis **, Shape = Usually round. Blastocystis hominis **, Stained nucleus (number); karyosome = Large central body (looks like large vacuole) surrounded by small, multiple nuclei. Blastocystis hominis **, Peripheral chromatin; ;agella; or cilia = No peripheral chromatin. Blastocystis hominis **, Cytoplasm = Large vacuole (central body area). Blastocystis hominis **, Inclusions = More amebic form seen in diarrheal Huid, but is extremely diGcult to identify; may be confused with yeast cells. Dientamoeba fragilis, Size * μ m (normal range) = No cyst form. Dientamoeba fragilis, Shape = . Dientamoeba fragilis, Stained nucleus (number); karyosome = . Dientamoeba fragilis, Peripheral chromatin; ;agella; or cilia = . Dientamoeba fragilis, Cytoplasm = . Dientamoeba fragilis, Inclusions = . Balantidium coli, Size * μ m (normal range) = 50-70 (50-55). Balantidium coli, Shape = Spherical or oval. Balantidium coli, Stained nucleus (number); karyosome = One large, kidney- shaped macronucleus;
+
+============================================================
+CHUNK 30
+============================================================
+94.5 Non-pathogenic Intestinal Protozoa
+one small, round micronucleus (very diGcult to see even in stained preparation). Balantidium coli, Peripheral chromatin; ;agella; or cilia = Cilia more diGcult to see in the cyst form. Balantidium coli, Cytoplasm = Vacuoles very small. Balantidium coli, Inclusions = Small debris, no inclusions
+*These sizes refer to the wet preparation measurements. When organisms are stained/dehydrated, often the measurements from the permanent stained smear may be 1-1.5 micron smaller in size.
+** Blastocystis hominis is now classiFed in the Stramenopila kingdom (no longer in the Protozoa kingdom) [12].
+
+============================================================
+CHUNK 31
+============================================================
+REFERENCES
+1. Beaver PC, Jung RC, Cupp EW. Clinical Parasitology, 9th edn. Philadelphia: Lea & Febiger; 1984.
+2. Garcia LS. Diagnostic Medical Parasitology, 5th edn. Washington: ASM Press; 2007.
+3. Schuster  FL, Ramirez-Avila  L.  Current  world status of Balantidium  coli .  Clin Microbiol Rev 2008;21:626-38.
+4. Garcia-Laverde A, de Bonilla L.Clinical trials with metronidazole in human balantidiasis. Am J Trop Med Hyg 1975;24:781-3.
+5. Johnson  EH,  Windsor  JJ,  Clark  CG.  Emerging  from  obscurity:  biological, clinical  and  diagnostic  aspects  of Dientamoeba  fragilis .  Clin  Microbiol  Rev 2004;17:563-70.
+6. Stark DJ, Beebe N, Marriott D, et al. Dientamoebiasis: clinical importance and recent advances. Trends Parasitol 2006;22:92-6.
+7. Gay JD, Abell TL, Thompson JH, et al. Entamoeba polecki infection in Southeast Asian refugees: Multiple cases of a rarely reported parasite. Mayo Clin Proc 1985;60:523.
+8. Salaki JS, Shirey JL, Strickland GT. Successful treatment of symptomatic Entamoeba polecki infection. Am J Trop Med Hyg 1979;28:190.
+9. Verweij JJ, Polderman AM, Clark CG. Genetic variation among human isolates of  uninucleated  cyst-producing Entamoeba species.  J  Clin  Microbiol  2001; 39:1644-6.
+10.  Sohail MR, Fischer PR. Blastocystis hominis and travelers. Travel Med Infect Dis 2005;3:33-8.
+11.  Tan TC, Suresh KG, Smith HV. Phenotypic and genotypic characterization of Blastocystis hominis isolates implicates subtype 3 as a subtype with pathogenic potential. Parasitol Res 2008;104:85-93.
+
+============================================================
+CHUNK 32
+============================================================
+REFERENCES
+12.  Cox FEG. Taxonomy  and classification of human  parasitic protozoa and helminths. In:  Versalovic J, Carroll KC, Funke G, et al. (eds). Manual of Clinical Microbiology, 10 th ed, Section VIII Parasitology. ASM  Press, Washington, DC, 2011:2041-6.
+

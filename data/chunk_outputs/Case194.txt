@@ -1,0 +1,171 @@
+============================================================
+CHUNK 0
+============================================================
+102
+
+============================================================
+CHUNK 1
+============================================================
+Key features
+- Naegleria fowleri causes an acute and fulminating primary amebic meningoencephalitis (PAM) in children and young adults with a history of recent aquatic activities and leads to death within a week
+- Acanthamoeba spp. cause chronic but fatal granulomatous amebic encephalitis (GAE) and disseminated infections of the skin and other organs in immunocompromised people; they can also cause Acanthamoeba keratitis, most frequently in association with soft or hard contact lenses
+- Balamuthia mandrillaris causes a chronic but fatal granulomatous amebic encephalitis in both immunocompromised and immunocompetent people
+
+============================================================
+CHUNK 2
+============================================================
+DEFINITION
+Acanthamoeba spp., Balamuthia mandrillaris and Naegleria  fowleri are pathogenic and opportunistic free-living amebae (POFLA) that primarily cause central nervous system (CNS) infections in humans and other animals. Acanthamoeba spp. and B. mandrillaris cause a chronic infection  called  granulomatous  amebic  encephalitis  (GAE)  lasting from 2 weeks to 2 years. GAE is often associated with dissemination to the skin, lungs, kidney, thyroid and liver. Cases of GAE occur at any time of the year without relation to seasonality. Acanthamoeba can also cause keratitis. N. fowleri causes an acute and fulminating infection  called  primary  amebic  meningoencephalitis  (PAM)  leading  to death  within  7-10  days.  PAM  usually  occurs  during  the  summer months when the ambient temperature is high [1-3]. Recently, Sappinia  pedata (previously  identified  as S.  diploidea ),  a  saprophytic ameba normally isolated from soil contaminated with fecal material of lizards, elk and bison, was identified in a brain biopsy specimen of a previously healthy 38-year-old man who developed meningoencephalitis, suggesting that other POFLA besides Acanthamoeba , Balamuthia and Naegleria spp. may also cause human disease [2,4,5].
+
+============================================================
+CHUNK 3
+============================================================
+HISTORY AND ETIOLOGY
+The concept that POFLA, particularly Acanthamoeba spp., may cause human disease was developed by C. G. Culbertson in 1958 when he isolated an ameba from a control monkey kidney cell culture used during  the  development  of  polio  vaccine.  This  ameba,  now  called Acanthamoeba culbertsoni , produced meningoencephalitis in cortisonetreated monkeys and mice upon intranasal instillation [1-3]. The first documented  human  cases  were  reported  by  Fowler  and  Carter  in 1965 [6].
+The life cycle of Acanthamoeba spp. consists of two stages: a trophozoite stage and a resistant cyst. The trophozoite measures 15-45 μ m and  is  uninucleate  with  a  centrally  placed,  large,  densely  staining
+
+============================================================
+CHUNK 4
+============================================================
+Govinda S Visvesvara
+nucleolus (see Fig. 102.2). The free-living trophozoite feeds on bacteria and environmental organic debris. Cysts measure 10-25 μ m and are  uninucleate  and double-walled:  the  outer  wall  (the  ectocyst) is wrinkled and contains protein; the inner wall (the endocyst) is usually stellate,  polygonal,  oval  or  spherical  and  contains  cellulose.  Pores covered by opercula are present at the point of contact between the ectocyst and the endocyst [1-3]. Both trophozoite and cyst stages are presumed to be capable of causing human infection.
+B.  mandrillaris ,  previously  called  leptomyxid  ameba,  also  has  two stages in its life cycle. The trophozoite is irregular in shape, uninucleate,  and measures from 12 to 60 μ m. The nucleus contains a large centrally placed nucleolus. Occasionally, in infected human tissues, trophic stages containing a large nucleus with two or three nucleoli seen (which helps differentiate it from Acanthamoeba ). Cysts are also uninucleate, more or less spherical, range in size from 12 to 30 μ m, and appear to be double-walled with a wavy ectocyst and a spherical endocyst under light microscopy. Ultrastructurally, the cysts are tripartite with an outer thin, irregular ectocyst, an inner thick endocyst, and a middle amorphous fibrillar mesocyst [2].
+
+============================================================
+CHUNK 5
+============================================================
+Govinda S Visvesvara
+N. fowleri has three stages in its life cycle: a trophozoite, a cyst and a flagellated form. It is thus also described as an ameboflagellate. Naegleria differentiates into this pear-shaped biflagellate stage in response to sudden changes in the ionic concentration of the environment. The trophozoite measures 10-25 μ m and is uninucleate; the nucleus is spherical and contains a large, centrally placed, dense nucleolus. Cysts are  round,  measure  7-14 μ m and contain a single  nucleus  with  a central dense nucleolus; the dense cyst walls are plugged with one or more flat pores [1,2]. Acanthamoeba spp.  and N.  fowleri ,  but  not B. mandrillaris , can be cultivated on non-nutrient agar plates coated with suitable Gram-negative bacteria such as Escherichia coli or Enterobacter aerogenes . The amebae will feed on the bacteria, multiply and differentiate into cysts within a few days. All three amebae can be grown axenically  without  bacteria  as  well  as  on  mammalian  cell  cultures [1-3].
+
+============================================================
+CHUNK 6
+============================================================
+EPIDEMIOLOGY
+The POFLA are ubiquitous and occur worldwide. Acanthamoeba and Naegleria fowleri have been isolated from a wide range of aquatic and environmental niches as well as from dust in the air and even the nasal passages and throats of healthy individuals. B. mandrillaris has also been isolated from the soil. Acanthamoeba spp. can harbor pathogenic microorganisms such as Legionella spp., Mycobacteria , Francisella tularensis , E. coli O157, Burkholderia , Parachlamydia and mimiviruses and hence may be of additional public health importance [1-3].
+
+============================================================
+CHUNK 7
+============================================================
+PRIMARY AMEBIC MENINGOENCEPHALITIS (PAM)
+PAM has a worldwide distribution [1,2], occurring in active healthy children and young adults with a history of recent contact with fresh water.  The ameba enters through the nasal passages, penetrates the cribriform  plate,  reaches  the  subarachnoid  space,  then  invades  the brain parenchyma. The incubation period of PAM varies from 2 to 15
+days. PAM is characterized clinically by the sudden onset of bifrontal or  bitemporal  headaches,  fever,  nausea,  vomiting  and  stiff  neck. Nuchal rigidity usually occurs with positive Kernig's and Brudzinski's signs.  Other signs and  symptoms include abnormalities in taste  or smell, cerebellar ataxia, and photophobia. Signs of increased intracranial pressure, lethargy, and confusion ensue, leading to generalized seizures, coma and death within a week to 10 days.
+
+============================================================
+CHUNK 8
+============================================================
+DIAGNOSTIC MICROBIOLOGY
+The CSF is characterized by pleocytosis, with predominance of polymorphonuclear leukocytes but with an absence of bacteria. The CSF pressure  is  elevated  (100-600 mmHg). Glucose concentration may be  slightly  reduced  or  normal,  but  the  protein  content  is  elevated, ranging from 100 mg/100 mL to 1000 mg/100 mL. Differentiation of PAM from acute pyogenic or bacterial meningoencephalitis is made by recognizing motile amebae in direct wet mount examination of the CSF. Smears of CSF should also be stained with Giemsa or trichrome in order to  detect  the  characteristic Naegleria nuclear  morphology  [1,2].  Neuroimaging  can  be  nonspecific  but  can  include edema, basilar meningeal enhancement, and obliteration of the cisterns  around  the  midbrain  and  the  subarachnoid  space  [7].  Many cases  have  been  diagnosed  postmortem  based  on  examination  of hematoxylin and eosin (H&E)-stained sections, immunohistochemical tests and PCR assay. Recently, a real-time multiplex PCR has been developed which identifies N. fowleri DNA in the CSF within 5 hours, thus greatly facilitating rapid and accurate diagnosis [8].
+Little information exists on the antibody response to N. fowleri infection,  probably  because  most  patients  die  before  serum  antibodies become detectable. However, in one patient who survived PAM, an antibody titer of 1  :  4096 to N. fowleri was demonstrated by immunofluorescence  in  serum  samples  obtained  at  7,  10  and  42  days  of hospitalization [2]. Low levels of antibodies to N. fowleri and other Naegleria species  in  sera  of  hospitalized  patients  and  in  apparently healthy  people  have  been  reported.  Apparently,  normal  human serum,  but  not  heat-inactivated  serum,  stimulates  production  of protein  kinases  in N.  fowleri ,  which  may be  effective  in  destroying complement  and  protecting  amebae  from  the  membrane-attack complex of the complement cascade [2].
+
+============================================================
+CHUNK 9
+============================================================
+PATHOLOGIC FEATURES
+At autopsy, the cerebral hemispheres are swollen and edematous. The olfactory bulbs and the orbitofrontal cortices are necrotic and hemorrhagic.  The  arachnoid  membrane  is  severely  congested  with  scant purulent exudate. Amebic trophozoites, but not cysts, are usually seen within the Virchow-Robin spaces with minimal or no inflammatory reaction (Fig. 102.1) [1,2].
+
+============================================================
+CHUNK 10
+============================================================
+MANAGEMENT
+The few patients who have survived this infection have done so primarily  because  of  early  diagnosis  and  aggressive  treatment  with intrathecal and/or intravenous amphoterecin B, miconazole and oral rifampin [2,9]. Amphotericin B and azithromycin were found to be synergistic in vitro and in a mouse model [10].
+
+============================================================
+CHUNK 11
+============================================================
+PREVENTION
+The trophic and the cyst forms of N. fowleri are susceptible to chlorine and are killed at 2 mg/L. It is therefore important for swimming pools to  be  maintained  properly  with  adequate  chlorination  at  all  times [1,2]. Warning signs should be posted in geographic areas with warm, freshwater bodies of water, particularly during the summer months.
+
+============================================================
+CHUNK 12
+============================================================
+GRANULOMATOUS AMEBIC ENCEPHALITIS (GAE)
+GAE caused by Acanthamoeba spp.  usually  occurs in  chronically  ill, debilitated  individuals,  in  immunosuppressed  patients  including those who have AIDS, or in those who have received broad-spectrum
+FIGURE  102.1 Central  nervous  system  section  of  a  primary  amebic meningoencephalitis (PAM) case, demonstrating numerous trophozoites of Naegleria  fowleri (H&E; × 400). Note  the  absence  of  cysts. Inset: trophozoites  showing  large  nucleus  with  densely  staining  nucleolus ( × 1000).
+antibiotics  or  chemotherapeutic  medications  [1-3]. B.  mandrillaris causes  infection  in  both  immunodeficient  and  immunocompetent individuals [2]. GAE is an insidious disease and has a long and protracted  clinical  course.  Clinical  signs  can  progress  from  personality changes, headache, low-grade fever, nausea and vomiting, to lethargy, diplopia, hemiparesis, seizures, depressed levels of consciousness and coma.  Third  and  sixth  cranial  nerve  palsies  may  be  seen  in  some patients.  GAE may mimic bacterial leptomeningitis, tuberculous or viral meningitis, or single or multiple space-occupying lesions. Pneumonitis may also occur.
+
+============================================================
+CHUNK 13
+============================================================
+DIAGNOSTIC MICROBIOLOGY
+CSF  in  patients  with  GAE  reveals  a  lymphocytic  pleocytosis  with mildly elevated protein and normal levels of glucose. Neuroimaging studies can reveal single or multiple heterogeneous, hypodense, nonenhancing, space-occupying lesions involving the basal ganglia, cerebral cortex, subcortical white matter, cerebellum and pons, suggesting abscess, tumor or intracerebral hematoma. Brain and skin biopsies are  important  diagnostic procedures.  Molecular techniques  such as PCR and real-time PCR have also been used recently to identify Acanthamoeba in the CSF, brain and corneal tissue as well as in tear fluid. Acanthamoeba spp.  can  be  easily  cultured  from  infected  tissue  on bacterially  seeded  agar  plates  [1-3]. B.  mandrillaris can  be  isolated from the CNS by inoculating monkey kidney cell culture with brain tissue [2].
+
+============================================================
+CHUNK 14
+============================================================
+PATHOLOGIC FEATURES
+The  cerebral  hemispheres  are  edematous.  Encephalomalacia  with multifocal areas of cortical softening and hemorrhagic necrosis may be  seen.  Multifocal  necrotic  lesions  often  accompanied  by Acanthamoeba trophozoites  and  cysts  (Fig.  102.2)  may  also  be  seen  in the  posterior  fossa  structures,  midbrain,  thalamus,  brainstem  and cerebellum.  Occasionally,  angiitis  may  be  seen  with  perivascular cuffing by inflammatory cells, chiefly lymphocytes, a few plasma cells and macrophages. In patients with AIDS, ulcerations of the skin with acute  and  chronic  inflammation  and  trophozoites  and  cysts  may be seen. The kidneys, prostate gland, adrenal glands, lungs and liver may  also  be  involved,  suggesting  hematogenous  dissemination. Recently,  two  clusters  of  transmission  of B.  mandrillaris infection through solid organ transplantation were reported, further suggesting that  the route of  invasion to  the brain is via  the bloodstream [1 1]. Histopathologically, Balamuthia can  be  differentiated  from Acanthamoeba since the nucleus of Balamuthia sometimes  contains
+FIGURE 102.2 Central nervous system section of a granulomatous amebic encephalitis  (GAE)  case  due  to Acanthamoeba ,  demonstrating  many trophozoites and a cyst (Masson's trichrome; × 1000).
+FIGURE 102.3 Central nervous system section of a granulomatous amebic encephalitis (GAE) case due to Balamuthia mandrillaris , showing numerous trophozoites of B. mandrillaris (H&E; × 100). Inset: more than one nucleolus can be seen within the nucleus of the trophozoite ( × 1000).
+multiple nucleoli (Fig. 102.3). Immunohistochemical analysis using rabbit antiAcanthamoeba spp. or antiB. mandrillaris sera can also differentiate the two amebae [1-3].
+
+============================================================
+CHUNK 15
+============================================================
+MANAGEMENT
+There is no effective treatment for GAE and therefore the prognosis is poor. Diagnosis of GAE is often made postmortem. A few patients diagnosed pre-mortem and a few with cutaneous infections without CNS involvement have been successfully treated with a combination of  antimicrobials  including  pentamidine  isethionate,  sulfadiazine, flucytosine, fluconazole or itraconazole, and miltefosine [12,13].
+Although the majority of patients with Balamuthia GAE have died, a few  patients  have  survived  the  infection.  Notably,  two  transplant recipients have survived after treatment with a combination of pentamidine isethionate, sulfadiazine, a macrolide (azithromycin or clarithromycin), fluconazole, 5-fluorocytosine and miltefosine [2,8,1 1,14].
+Two  Peruvian  patients  with  cutaneous  lesions  recovered  after  prolonged therapy with albendazole and itraconazole [2].
+
+============================================================
+CHUNK 16
+============================================================
+Prevention
+Since Acanthamoeba spp.  can  grow  and  colonize  hot  water  tanks, jacuzzis, filters used in HVAC units, and in-line filters used for purifying portable water supplies and eye wash stations, periodic inspection and cleaning of these systems is recommended.
+
+============================================================
+CHUNK 17
+============================================================
+ACANTHAMOEBA KERATITIS (AK)
+AK  is  a  sight-threatening  inflammation  of  the  cornea  caused  by amebae introduced by ocular trauma or by contact lens wear and the use of nonsterile homemade saline solution that has been contaminated. Acanthamoeba present in the environment or the contaminated lens solution adhere to corneal epithelial cells and secrete proteolytic and collagenolytic enzymes that contribute to the pathogenesis of AK. According  to  recent  studies,  the  initial  process  of  invasion  occurs when a 136-kDa mannose-binding protein (MBP), a lectin expressed on the surface of Acanthamoeba , adheres to mannose glycoproteins on the surface of the epithelial cells and destroys them [15]. Acanthamoeba trophozoites may also produce 'food cups' with which they directly ingest epithelial cells. The hallmark of AK is severe ocular pain, photophobia, a central or paracentral 360° stromal ring infiltrate, and a recurrent  breakdown  of  corneal  epithelium,  with  a  waxing  and waning clinical course. The lesion is refractory to the usual antibacterial,  antiviral  and  antimycotic  medications  with  which  it  is  often presumptively treated. If proper treatment is not provided, AK may lead  to  a  vascularized  scar  within  a  thin  cornea,  causing  impaired vision or perforation of the cornea and loss of the eye [2,3,15].
+The first case of AK in the US was reported in 1975 in a farmer from south Texas with ocular trauma of the right eye. Subsequently, contact lens use (particularly soft hydrogel lenses) and the use of nonsterile homemade saline solutions have been identified as additional risk factors  for AK.  Recently, an epidemiologic survey conducted by the Centers for  Disease Control and Prevention (CDC) of a multistate outbreak of Acanthamoeba keratitis revealed that the national increase in the number of Acanthamoeba keratitis cases was associated with the use of Advanced Medical Optics Complete® MoisturePlus™ multipurpose contact lens solution, leading to an international recall by the manufacturer [16].
+
+============================================================
+CHUNK 18
+============================================================
+DIAGNOSTIC MICROBIOLOGY
+Accurate diagnosis of AK requires deep corneal scrapings and biopsy. Unfixed  specimens  should  be  cultured  on  bacterially  seeded  agar plates (as above). Smears should also be prepared and stained with Giemsa-Wright, Hemacolor, or with Wheatly's or Masson's trichrome stain which help differentiate trophozoites of Acanthamoeba spp from host corneal cells. Confocal microscopy has also been used recently to diagnose AK [2,3].
+
+============================================================
+CHUNK 19
+============================================================
+MANAGEMENT
+Unlike with GAE, successful treatment of AK is feasible, using aggressive  topical  application  of  polyhexamethylene  biguanide  or  chlorhexidine  gluconate  in  combination  with  propamidine  isethionate (Brolene)  and  neomycin.  Debridement  of  the  cornea,  penetrating keratoplasty and corneal grafting has also been performed with good results  in  some  patients.  Recurrence  of  AK  has  been  reported  after corneal transplantation because of persistence of Acanthamoeba cysts in the corneal stroma [15].
+
+============================================================
+CHUNK 20
+============================================================
+Prevention
+Eye-care professionals need to educate patients about the proper care and use of contact lenses. Contact lenses and contact lens paraphernalia, particularly the solutions, should be kept meticulously clean. Contact lens wearers should follow the directions and recommendations of the manufacturers and eye-care professionals. Contact lens use should be avoided during swimming or other water sports.
+
+============================================================
+CHUNK 21
+============================================================
+DISCLAIMER
+The findings and conclusions in this report are those of the authors and do not necessarily represent the views of the Centers for Disease Control and Prevention.
+
+============================================================
+CHUNK 22
+============================================================
+REFERENCES
+1. Martinez AJ, Visvesvara GS. Free-living, amphizoic and opportunistic amebas. Brain Pathol 1997;7:583-98.
+2. Visvesvara GS, Moura H, Schuster FL. Pathogenic and opportunistic free-living amoebae: Acanthamoeba spp., Balamuthia mandrillaris, Naegleria fowleri ,  and Sappinia diploidea . FEMS Immunol Microbiol 2007;50:1-26.
+3. Marciano-Cabral  F,  Cabral  G. Acanthamoeba spp.  as  agents  of  disease  in humans. Clin Microbiol 2003;16:273-307.
+4. Gelman BB, Popov V, Cahlijub G, et al. Neuropathological and ultrastructural features of amebic encephalitis caused by Sappinia diploidea .  J  Neuropathol Exp Neurol 2003;62:990-8.
+5. Qvarnstrom Y, da Silva AJ, Schuster FL, et al. Molecular confirmation of Sappinia  pedata as  causative  agent  of  amebic  encephalitis.  J  Infect  Dis  2009; 199:1139-42.
+6. Fowler M, Carter RF. Acute pyogenic meningitis probably due to Acanthamoeba sp.: a preliminary report. Br Med J 1965;2:740-3.
+7. Singh P, Kochhar R, Vashishta RK, et al. Amebic meningoencephalitis: spectrum of imaging findings. Am J Neuroradiol 2006;27:1217-21.
+8. Qvarnstrom Y, Visvesvara  GS, Sriram R, Da  Silva AJ.  A  multiplex  real-time PCR assay for simultaneous detection of Acanthamoeba spp., Balamuthia mandrillaris and Naegleria fowleri . J Clin Microbiol 2006;44:3589-95.
+9. Seidel  JS,  Harmatz  P ,  Visvesvara  GS,  et  al.  Successful  treatment  of  primary amebic meningoencephalitis. N Engl J Med 1982;306:346-8.
+
+============================================================
+CHUNK 23
+============================================================
+REFERENCES
+10.  Soltow SM, Brenner GM. Synergistic activities of azithromycin and amphotericin B against Naegleria fowleri in vitro and in a mouse model of primary amebic meningoencephalitis. Antimicrob Agents Chemother 2007;51:23-7.
+11.  Centers for Disease Control 2010. Balamuthia mandrillaris transmitted through organ  transplantation  -  Mississippi,  2009.  MMWR  Morb  Mortal  Wkly Rep 2010;59:1165-70
+12.  Slater CA, Sickel JZ, Visvesvara GS, et al. Successful treatment of disseminated Acanthamoeba infection in an immunocompromised patient. N Engl J Med 1994;331:85-7.
+13.  Aichelberg AC, Walochnik J, Assadian O, et al. Successful treatment of disseminated Acanthamoeba infection and granulomatous amoebic encephalitis in an immunocompromised patient with military tuberculosis and tuberculous meningitis with miltefosine, an alkylphosphocholine. Emerg Infect Dis 2008;14:1743-6.
+14.  Deetz  TR, Sawyer MH, Billman G, et al. Successful treatment of Balamuthia amoebic  encephalitis:  presentation  of  two  cases.  Clin  Infect  Dis  2003;37: 1304-12.
+15.  Dart JKG, Saw VPJ, Kilvington S. Acanthamoeba keratitis: diagnosis and treatment update. Am J Ophthalmol 2009;148:487-99.
+16.  Verani J, Lorick S, Yoder JS, et al. National outbreak of Acanthamoeba keratitis associated with use of a contact lens solution, United States. Emerg Infect Dis 2009;15:1236-42.
+

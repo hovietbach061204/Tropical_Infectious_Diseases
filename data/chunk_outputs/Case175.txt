@@ -1,0 +1,124 @@
+============================================================
+CHUNK 0
+============================================================
+Key features
+- Chronic progressive form: oropharyngeal ulcers, granulomatous laryngitis, chronic respiratory disease, skin ulcers, and adrenal insu'ciency
+- Acute form of juvenile type: patient of less than 30 years of age, fever, adenomegalies, hepatosplenomegaly, diarrhea, and loss of body weight
+- Rural population of tropical regions in South America
+- Mixed granuloma, epithelioid and suppurative, showing multibudding yeast-like cells
+- Synonyms: South American blastomicosis and Lutz's mycosis
+
+============================================================
+CHUNK 1
+============================================================
+INTRODUCTION
+Paracoccidioidomycosis is a systemic mycosis endemic in South and Central  America  caused  by  a  dimorphic  fungus, Paracoccidioides brasiliensis.
+This mycosis was discovered by Adolfo Lutz in Brazil in 1908. Alfonso Splendore (1912) published several cases in São Paulo (Brazil) and described the etiologic agent. Floriano P. de Almeida (1930) clearly separated this mycosis from coccidioidomycosis [1-3].
+
+============================================================
+CHUNK 2
+============================================================
+EPIDEMIOLOGY
+Paracoccidioidomycosis is endemic in humid tropical and subtropical areas of Latin America, from Southern Mexico to 34° South in Argentina and Uruguay (Fig. 83.1). It is frequent in Brazil, where 80% of all patients are detected, and where it is the eighth leading cause of death.  This  mycosis  also  occurs  in  Argentina,  Colombia,  Ecuador, Paraguay, and Venezuela [4].
+The  endemic  zones  have  acid  soils,  rich  in  organic  material,  with many streams and rivers, and exuberant vegetation. The habitat of P. brasiliensis is  not well known; it probably lives in soil near water. It has been isolated from different natural sources, but these isolations have not been replicated. Beside humans, infection has been observed in armadillos and squirrel monkeys. Animal-to-human and humanto-human transmission have not been confirmed [2-4].
+Infection  is  most  likely  acquired  by  airborne  inhalation  of  conidiae;  primary infections of skin or mucosa are rare. Primary pulmonary  infection  is  often  asymptomatic  or  mild  and  self-limited (paracoccidioidomycosis-infection) [5].
+Reactivation  of  latent  pulmonary  or  extrapulmonary  foci  leads  to progressive  clinical  forms  that  are  severe  (paracoccidioidomycosis disease).  This  presentation  is  frequently  observed  in  adult  males above  35  years  of  age,  the  majority  of  whom  are  rural  workers;
+
+============================================================
+CHUNK 3
+============================================================
+Ricardo Negroni
+genetics, smoking and alcoholism seem to be risk factors. The juvenile type of paracoccidioidomycosis is less common (only 3-5% of clinical cases). It has an acute course and affects both sexes equally [4, 5].
+The  incidence  and  prevalence  of  paracoccidioidomycosis  are  not known because there is no compulsory reporting.
+
+============================================================
+CHUNK 4
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+In infected tissue and culture at 37°C, P. brasiliensis appears as spherical cells of 10-40 μ m in diameter with a thick bi-refringent cell wall and several peripheral buds, like a pilot wheel. Mother cells with a single blastoconidium and short chains of three to four budding cells are often found (Fig. 83.2). In Sabouraud dextrose agar and in yeast extract agar at 25°C, P. brasiliensis grows very slowly and yields cottonlike, whitish colonies that exhibit microscopically branched, septated and hyaline hyphae with chlamidospores and aleurioconidiae. This fungal species is genetically heterogeneous and a new species, with the same morphologic characteristics, named Paracoccidiodes lutzi , has been proposed [1, 3, 6]. This strain was isolated from southwest Brazil.
+Infection  occurs  following  inhalation  of  aleurioconidiae  that  turn into yeast-like elements inside alveolar macrophages. A nonspecific inflammatory reaction is initially observed. In a few days these inflammatory  changes  progress  to  epithelioid  cell  granuloma  with  giant cells, plasmacytes, and lymphocytes. Microabscesses are common and caseous necrosis is observed in lymph nodes. Tissue repair involves fibrosis. Cell-mediated immunity, with a predominant Th1 cytokine response  (INFγ ,  IL 12 ,  IL 2 ,  TNFα ),  is  the  most  important  defense mechanism, this type of reaction is genetically controlled. Antibodies are also produced during progressive disease but their significance in the control of the infection is not well understood [7].
+Progressive paracoccidioidomycosis may be the result of reactivation of a latent focus of infection (in chronic forms) or the lack of control of the primary infection (in the acute juvenile type) [5].
+
+============================================================
+CHUNK 5
+============================================================
+NONPROGRESSIVE INFECTIONS
+Primary  infections  are  often  asymptomatic  or  subclinical  and  selflimited.  Symptomatic  primary  infections  are  rare,  calcifications  of lung or lymph node foci are infrequent and 6-50% of inhabitants of endemic regions have positive paracoccidioidin skin tests as evidence of a prior subclinical infection [5].
+
+============================================================
+CHUNK 6
+============================================================
+Acute form of Juvenile Type
+This  clinical  form in  children  and  adolescents  has  an  acute  course marked  by  toxemia,  fever,  asthenia,  anorexia,  weight  loss,  subcutaneous  abscesses,  diffuse  lymphadenopathy,  hepatosplenomegaly,
+FIGURE 83.1 Geographic distribution of paracoccidiodomycosis (courtesy of Flavio de Queiroz Telles).
+FIGURE  83.2 Acute  disseminated  form  of  juvenile  type  with  enlarged lymph nodes in the neck.
+diarrhea, jaundice, anemia, and leukocytosis with eosinophilia. Radiographic alterations of the lungs and mucous membrane lesions are rarely observed. Acneiform lesions of the skin, scrofuloderma, osteomyelitis, and gastrointestinal involvement are often present. Moderate cases with stable general condition and localized lymph node involvement occur (Fig. 83.3) [2-4].
+FIGURE  83.3 Chest x-ray of a patient su4ering  chronic  adult-type paracoccidiodomycosis. Disseminated interstitial disease is observed.
+
+============================================================
+CHUNK 7
+============================================================
+Chronic form of Adult Type
+This clinical form usually occurs in adult males. The onset is insidious with asthenia, loss of weight, and exertional dyspnea being the prominent features, lesions may be unifocal or multifocal [5].
+In 25% of cases, only pulmonary involvement is detected, characterized by low-grade fever, cough, mucopurulent expectoration, hemoptysis,  and  dyspnea.  Chest  x-ray  studies  show  bilateral  symmetric lesions, generally perihiliar in distribution, resembling the wings of the  butterfly  and  formed  by  infiltrates,  micronodular  and  linear shadows (Fig. 83.4). Death occurs after several years,  as a  result of cachexia or respiratory impairments [2, 4].
+Multifocal  presentation  is  observed  in  more  than  70%  of  patients; skin,  mucous  membranes,  lungs,  lymph  nodes,  adrenal  glands, abdominal  organs,  and  central  nervous  system  (CNS)  are  often involved. Typical oropharyngeal lesions are ulcers with hemorrhagic granulomatous foci and an infiltrated hard base (mulberry-like stomatitis) (Fig. 83.5). A firm red-violet edema is frequently observed in the lips and gingival mucosa (thromboid-like lip) [2]. These lesions make eating and drinking painful. Laryngeal attacks cause dysphonia, obstructive dyspnea, and dysphagia.
+Skin  lesions  include  papules,  nodules,  and  ulcers;  they  are  often located at the face and neck (Fig. 83.6). Some ulcers become vegetative  and papillomatous.  Cervical  lymph nodes are  generally hypertrophic  and  firm,  but  sometimes  they  are  suppurative  or  necrotic, opening to the skin and causing a scrofula-like lesion. Adrenal glands involvement occurs in more than 15% of chronic cases and when severe, causes Addisons disease. CNS compromise is observed in 10% of  cases;  abscessed  granulomas  located  in  the  posterior  fosse  and
+28 Fel
+08:52
+FIGURE  83.4 Granulomatous  ulcerated  lesion  of  the  oral  mucosa  in  a patient with a chronic progressive paracoccidiodomycosis.
+
+============================================================
+CHUNK 8
+============================================================
+Chronic form of Adult Type
+FIGURE  83.5 Ulcerated  lesion  of  the  skin,  a  typical  granulomatous hemorrhagic lesion is observed.
+FIGURE  83.6 Computed  tomography  of  the  brain  of  a  granulomatous lesion on the parietal lobe.
+FIGURE 83.7 Bronchoalveolar lavage smear stained by Grocott methenamine  silver.  Typical  yeast-like  elements  of P.  brasiliensis are observed (400 × ).
+subacute meningoencephalitis have been reported (Fig. 83.7). Other locations  can  be  testicles,  epidydimis,  prostate,  bones,  liver,  and spleen.  Death  may  occur  from  respiratory  failure,  malnutrition,  or intercurrent infections [2, 3, 5].
+After effective treatment some lesions remain latent and relapses can occasionally occur [2].
+- AIDS-related paracoccidioidomycosis. This association has been observed  frequently  only  in  Brazil.  The  majority  of  patients present with acute disseminated juvenile type; the mortality rate is approximately 30% in treated cases.
+- Paracoccidioidomycosis  is  associated  with  tuberculosis  in  1012% of cases.
+- The incidence of neoplasms, especially lung cancer, seems to be more common among the paracoccidioidomycosis patients [5, 8].
+
+============================================================
+CHUNK 9
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Diagnosis  is  confirmed  by  finding  typical  yeast-like  elements  of P. brasiliensis in microscopic examination of wet preparations of specimens submitted for mycologic studies (Fig. 83.2). Cultures should be done in yeast extract agar without glucose, brain-heart infusion agar and  Sabouraud  dextrose  agar  with  antibiotics  and  incubated  for 4 weeks at 25°C and 37°C. The fungus grows slowly and its isolation is difficult. Inoculation of clinical specimens in laboratory animals is rarely done [1, 2].
+Histopathologic  specimens  should  be  stained  with  periodic  acid Schiff or Grocott methenamine-silver [2, 5].
+In  the  progressive  forms  of  paracoccidioidomycosis,  specific  antibodies can be detected by immunodiffusion in agar gel, counterimmunoelectrophoresis, complement fixation test, and ELISA. A specific glycoprotein of 43 kDa (gp 43), as well as other antigens, have been used in these tests [9]. Titers are proportional to severity of the infection and with cure they decline or became negative. In severe cases antigen can be detected in serum and urine by ELISA using monoclonal antibodies against gp 43 [3].
+Paracoccidioidin  skin  test  has little  diagnostic  value  for progressive paracoccidioidomycosis. It is valuable in epidemiologic studies; most infected people without active lesions have positive reactions [2].
+In patients with severe disease, serology is positive with high titers, paracoccidioidin skin test is often negative, polyclonal hypergammaglobulinemia, and eosinophilia and low CD4-positive cell counts are
+frequently  detected.  All  these  alterations  may  revert  with  clinical improvement [2, 3, 5, 7].
+The differential diagnosis depends upon the clinical manifestation. Chronic disseminated disease can be confused with tuberculosis, histoplasmosis,  leishmaniasis,  carcinoma,  and  sarcoidosis;  acute  disseminated  disease  presents  with  clinical  characteristics  similar  to tuberculosis, malaria, leukemia, and lymphomas.
+
+============================================================
+CHUNK 10
+============================================================
+TREATMENT
+Sulfonamides, ketoconazole, itraconazole, and amphotericin B have been successfully used in the  treatment of paracoccidioidomycosis. Accepted treatment schedules are: ketoconazole 200-400 mg/day for 12 months; itraconazole 100-200 mg/day for 6 months; and amphotericin  B  given  intravenously  at  daily  dose  of  0.7-0.8/kg,  up  to  a maximum total dose of 35 mg/kg. The azoles are administered by oral route after a meal. Amphotericin B is indicated in severe cases where there is malabsorption. Itraconazole is the treatment of choice and is effective in more than 95% of cases. However, its absorption requires gastric acid and its effect can be reduced by involvement of mesenteric  lymph  nodes,  especially  in  acute  disseminated  form.  It should not be used for  patients  with tuberculosis  under  treatment with rifampin.
+Co-trimoxazole is still frequently used in Brazil, especially in recently diagnosed  patients  with  no  previous  therapy,  in  chronic  unifocal progressive disease, and as maintenance after a course of amphotericin B. It is given to adults every 12 hours, at a dosage of 160 mg of trimethoprim and 800 mg of sulfamethoxazole, for 2-3 years [3, 7].
+Children  suffering  paracoccidiodomycosis  are  usually  treated  with amphotericin  B  intravenously  at  daily  dose  of  0.7 mg/kg  of  body weight or sulfadiazine 200 mg/kg/day by oral route, often because of the difficulty they  have in taking oral medication and  the frequent involvement of mesenteric lymph nodes [3, 7].
+Other drugs that have been successfully used are voriconazole, posaconazole, and terbinafine, but clinical experience with them remains limited.
+Paracoccidiodomycosis is always a severe infection that requires prolonged treatment. Relapses are common and cure often leaves incapacitating  sequelae,  for  example  laryngeal  and  tracheal  stenosis, buccal atresia, and pulmonary fibrosis.
+
+============================================================
+CHUNK 11
+============================================================
+TREATMENT
+Although  several  antigens  have  been  studied  as  inmunogens  to prevent paracoccidiodomycosis in laboratory animals, none of them have been used in human beings and there is no measure to avoid the risk of infection [3, 7, 8].
+
+============================================================
+CHUNK 12
+============================================================
+REFERENCES
+1. Brummer  E,  Castañ eda  E,  Restrepo  A.  Paracoccidioidomycosis;  an  update. Clin Microbiol Rev 1993;6:89-117.
+2. Negroni  R.  Paracoccidioidomycosis  (South  American  blastomicosis,  Lutz's Mycosis). Intern J Dermatol 1993;32:847-59.
+3. Restrepo Moreno A. Paracoccidioidomycosis. In: Dismukes W, Pappas P, Sobel JD, eds. Medical Mycology. Oxford: Oxford University Press; 2003:328-45.
+4. Wanke  B,  Londero  AT. Paracoccidioides  brasiliensis .  In:  Ajello  L,  Hay  R  eds. Medical Mycology. Topley and Wilson's Microbiology and Microbial Infections, 9th edn, Vol. 4. London, Sydney, Auckland: Arnold; 1998:395-407.
+5. de Franco MF, Lacaz C da S, Restrepo-Moreno A, Del Negro G, eds. Paracoccidioidomycosis. Boca Raton. Ann. Arbor, London, Tokyo: C.R.C. Press; 1994.
+6. Felipe  MS,  Teixeira  MM.  Is Paracoccidioides  brasiliensis an  unique  species? Biomédica 2008;28:136.
+7. Calich VLG, da Costa TA, Felonato M, et al. Innate immunity to Paracoccidioides brasiliensis infection. Mycopathologia 2008;165:223-36.
+8. Negroni R. Paracoccidioides brasiliensis . In: Yu V, Weber R, Raoult D, eds. Antimicrobial Therapy and Vaccines, 2nd edn. New York: Apple Trees Production LLC; 2002:1097-105.
+9. Camargo  ZP  de,  Franco  MF  de.  Current  knowledge  on  pathogenesis  and immunodiagnosis  of  paracoccidioidomycosis.  Rev  Iberoamer  Micol  2000; 17:41-8.
+

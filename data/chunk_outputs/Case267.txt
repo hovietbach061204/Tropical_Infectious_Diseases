@@ -1,0 +1,135 @@
+============================================================
+CHUNK 0
+============================================================
+KEY FEATURES
+- characterized by fever, generalized weakness and muscle pain, and nausea and vomiting with mucosal bleeding.
+- patients; fatality is associated with endothelial dysfunction leading to intractable hypovolemic shock, gross edema of the head and neck with pulmonary edema, and respiratory distress.
+- infection of Mastomys natalensis, a peridomestic rodent.
+- rodents or their secretions or by close person-to-person contact.
+- West Africa with approximately 5000 deaths per year.
+- within the {rst week of illness, by the anti-viral drug ribavirin.
+
+============================================================
+CHUNK 1
+============================================================
+INTRODUCTION
+Lassa virus, an arenavirus , is the etiologic agent of the hemorrhagic disease Lassa fever. The virus is naturally maintained by peridomestic  rodent  hosts  in  which  persistent,  lifelong  infection  is established. High titers of the virus are present in rodent urine, and  exposed humans  may become  infected  as  accidental  hosts. The virus may be transmitted from person to person. Lassa fever is endemic to West Africa. An estimated 300,000 to 500,000 cases occur annually, resulting in approximately 5000 deaths per year. Although clinical Lassa fever was {rst described in West Africa in the 1950s, the virus was not isolated until 1969. 1-4
+
+============================================================
+CHUNK 2
+============================================================
+EPIDEMIOLOGY
+Lassa fever is endemic in several West African countries stretching from Senegal to Cameroon. Although there are periodic increases in cases, much of that is associated with seasonality and rodent movement. 4-7 Many outbreaks have been associated with nosocomial outbreaks or large gatherings at funerals. In 2018 a large number of infections with Lassa virus occurred in Nigeria. In the {rst 3 months of 2018, the World Health Organization (WHO) reported 1495 suspected cases and 119 deaths from 19 states in Nigeria. A reported 376 patients were laboratory con{rmed, and of these, there were 95 deaths for a case fatality rate of 24.7%. The occurrence of infection in 17 health care workers may support the use of ribavirin for prophylaxis during this outbreak. 8,9 Seroconversion to Lassa virus ranges from 5% to 22% annually among susceptible (seronegative) populations in endemic areas. Among seroconverts, 9%  to  26%  develop  acute  illness.  Between  1%  and  18%  are reinfections. Estimates of prevalence of antibody to Lassa virus range  from  4%  to  52%  among  populations  in  endemic  areas. Viruses  from  different  geographic  areas  may  vary  in  virulence. Case fatality rate among the general population can be as low as 1% to 2%; however, rates increase among hospitalized patients
+Joseph B. McCormick
+(15%-30%). At least 20 imported cases of Lassa fever have been seen in  the  United States, the United Kingdom, Germany, the Netherlands, Israel, Japan, and Canada. 10
+
+============================================================
+CHUNK 3
+============================================================
+EPIDEMIOLOGY
+Lassa  virus  affects  people  of  all  ages,  races,  and  genders. However, the only con{rmed reservoir of Lassa virus is Mastomys natalensis, a  peridomestic  rodent,  and  the disease is  endemic to West Africa. Recently the disease was reported for the {rst time in  T ogo. 11,12 T ransmission  is  suspected  to  occur  through  direct contact with infected rodents or their secretions. T ransmission is highly associated with poor housing, indiscriminate food storage, and catching of rodents. 4-7 Person-to-person transmission occurs via direct contact with |uid or secretions from infected persons, including blood, urine, sputum, and seminal |uid on exposed cuts or abrasions or mucous membranes. Nosocomial transmission is usually due to injuries with needles and other sharp instruments, ill-advised  surgery  on  infected  patients,  or  exposure  to  bodily |uids. 1-4,9,13-15
+
+============================================================
+CHUNK 4
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Fatal  Lassa  fever  is  directly  associated  with  uncontrolled  viral replication and severe intravascular events, including leaky capillary syndrome,  pulmonary  edema,  and  hypovolemic  shock.  In  both humans and non-human primates, histologic lesions have been found  among  the fatally  infected  along  with  lymphadenopathy and,  though  relatively  uncommon,  splenomegaly.  Additionally, microscopic  {ndings  have  revealed  substantial  in{ltration  of mononuclear cells, mainly macrophages. In general, high  titers of replicating virus in all organs are associated with fatality, whereas a  rapid  drop  in  viremia  and  viral  clearance  is  correlated  with survival. There is apparently suppressed cellular immune response in fatalities, whereas recovery from Lassa fever is associated with strong adaptive immune responses characterized by a high number of activated circulating monocytes and T cells, as well as Lassa virus-speci{c CD4 + and CD8 + T cells. 1-4,16-19
+
+============================================================
+CHUNK 5
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+The critical events in fatal disease are intractable hypovolemic shock, convulsions, bleeding, and gross edema of the head and neck with pulmonary edema and respiratory distress. A recent report from an extensive study in Nigeria also pinpoints the presence of renal damage as an important risk for fatal disease. The heavy albuminuria may also be related to the extensive facial and neck edema noted in severe disease. 2,17,20 Respiratory distress  and/or convulsions with precipitous drop in body temperature and blood pressure indicate impending death. Some of these manifestations are due to disturbances in the intravascular compartment, particularly increased endothelial cell permeability. Although circulating platelet  numbers  are  moderately  well  conserved  (usually  about 100,000 × 10 9 /L),  platelet  dysfunction  correlates  with  severity of illness, and a marked decrease in prostacyclin production by endothelium  has  been  measured  in  primates  infected  by  Lassa virus. Disseminated intravascular coagulation is not a signi{cant component of fatal Lassa fever; circulating platelet numbers are maintained, and in primates with severe Lassa infection, platelet and {brinogen turnover have been normal with no increase in {brinogen breakdown products in humans. No clear evidence of virus replication and microscopic damage to endothelium has been demonstrated, so it must be concluded that shock and bleeding are due to disturbances in the functional homeostatic mechanisms within the intravascular compartment, rather than simple activation of the coagulation cascade. An inhibitor of platelet function has
+been identi{ed in the serum of patients and non-human primates with severe Lassa fever, suggesting that  the underlying pathology  in  fatal  infections  is  a  disordered  cytokine  and  chemokine response,  as  has  been  shown  in  Ebola  and  other  fatal  viral infections. 16,18,20,21
+Lassa  virus-speci{c  immunoglobulin  (Ig)M  antibodies  are detected 9 to 12 days post-infection. Glycoprotein (GP)1-, GP2-, and nucleoprotein-speci{c IgG antibodies are seen 12 to 16 days post-infection. However, antibody titers are not directly associated with  viral  clearance.  Neutralizing  antibodies  are  detected  only long  after  recovery  and  do  not  appear  to  be  associated  with immunity to reinfection.
+
+============================================================
+CHUNK 6
+============================================================
+CLINICAL FEATURES
+Symptoms of Lassa fever include fever, sore throat, cough, vomiting, diarrhea, conjunctivitis, facial swelling, proteinuria,  mucosal bleeding, and pain in the back, abdomen, and chest. Neurologic symptoms include loss of hearing, tremors, and encephalitis. After an incubation period of 7 to 18 days, Lassa fever begins insidiously with  fever,  weakness,  and  malaise.  More  than  50%  of  patients experience joint and lumbar pain, and 60% or more have a nonproductive cough. Most patients also have severe headache, usually frontal,  and  a  painful  sore  throat.  Many  also  develop  severe retrosternal chest pain, and about half have vomiting or diarrhea and abdominal pain. On physical examination, respiratory rate, temperature, and pulse rate are elevated and blood pressure may be low. About a third have conjunctivitis and more than two-thirds have pharyngitis, half of whom have exudates with diffusely in|amed and  swollen posterior  pharynx  and tonsils but  with  few, if  any, petechiae. 2,17,20
+Up to one-third of hospitalized patients progress to a prostrating illness 6 to 8 days after onset of fever. They are often dehydrated on admission with elevated hematocrit. Bleeding occurs in only 15% to 20% of patients, limited primarily to the mucosal surfaces or occasionally conjunctival hemorrhages or gastrointestinal or vaginal bleeding. In severe disease, edema of the face and neck carries a poor prognosis. In the absence of peripheral edema, this may indicate capillary leakage, rather than cardiac dysfunction or impaired venous return. Approximately half of all patients have diffuse  abdominal  tenderness,  but  there are  no localizing  signs and bowel sounds are usually active. On more than one occasion surgery has been performed, which is contraindicated. Proteinuria occurs in two-thirds of patients, and blood urea nitrogen levels may be  moderately  elevated.  More  recently  studies  in  Nigeria have shown that renal damage is a high risk for death in a series of patients with Lassa fever. 20
+
+============================================================
+CHUNK 7
+============================================================
+CLINICAL FEATURES
+Crepitation in the lungs and pleural and pericardial rubs develop usually in early convalescence in about 20% of patients, occasionally in association with congestive heart failure. Severe retrosternal or epigastric  pain  seen  in  many  patients may be  due  to  pleural  or pericardial involvement. Most patients have abnormal electrocardiograms (ECGs), and changes include non-speci{c ST-segment and  T-wave  abnormalities,  ST-segment  elevation,  generalized low-voltage complexes, and changes re|ecting electrolyte disturbance. 22 None of the abnormalities correlated with clinical severity of  disease,  serum  aminotransferase  levels,  or  eventual  outcome. Central nervous system (CNS) signs are infrequent but also carry a poor prognosis, progressing from {ne tremors and confusion to severe encephalopathy with or without generalized seizures but without focal signs. 23 Cerebrospinal |uid (CSF) is usually normal, but there may be a few lymphocytes. Virus titers are lower in the CSF than in the serum. 24 The most signi{cant hematologic changes are in platelet function. Thrombocytopenia is moderate even in severely ill patients, and function is markedly depressed or even absent. This abnormality is usually maximal on admission to the hospital,  and  is  characteristically  present  even  when  circulating platelet numbers remain normal. A circulating inhibitor of platelet function  has  been  associated  with  severe  disease;  it  speci{cally inhibits platelet-dense granule and adenosine triphosphate release, relatively sparing the thromboxane pathways. 17,25 The mean white blood cell (WBC) count in Lassa fever on admission to hospital is  6000/mm 3 and  there  is  characteristically  early  lymphopenia, relative thrombocytopenia, and sometimes a relative or absolute neutrophilia. Neutrophil counts as high as 30,000/mm 3 have been recorded in severe disease. The inhibitor activity of platelet function is also associated with poor generation of the chemotactic peptide N -formyl-methionyl-leucyl-phenylalanine (FMLP)-induced superoxide  generation  in  neutrophils.  These  observations
+
+============================================================
+CHUNK 8
+============================================================
+CLINICAL FEATURES
+are consistent with disordered innate immune response and inappropriate cytokine and chemokine secretions, as described earlier. 21,25,26
+Serum aminotransferase levels > 150 IU/L on admission are associated with a case fatality rate of 50%. The level of viremia (blood virus level > 1 × 10 3 mL, median tissue culture infective dose [TCID50] per milliliter) is also associated with increased case fatality. The synergistic effect of both factors is a mortality risk of 80%. Other indicators of poor prognosis include shock, bleeding, neurologic manifestations, thrombocytopenia, lymphopenia, and leukocytosis with neutrophilia, and renal failure. 17,20,21
+Lassa fever is a common cause of maternal mortality in many areas  of West Africa. In Sierra Leone, Lassa  virus accounts for 25% of all maternal deaths. Case fatality rates in pregnancy are as high as 40%, with the worst prognosis occurring in the third trimester.  This  is  true  even  for  women  who  receive  adequate obstetric  care.  Prognosis for the mother improves with uterine evacuation at any stage of gestation; the highest case fatality rates occur in women with a fetus in utero . Spontaneous abortion occurs in 80% of women who are infected with Lassa virus during the {rst  or  second  trimester  of  pregnancy.  Stillbirth  and  neonatal death occur in 75% of maternal cases in the third trimester. 27,28 Virus titers in the placenta are as high as 10 9  TCID50/mL. Virus is also shed in milk from infected mothers and is believed to be transmitted through breastfeeding. 24,28
+Up to 30% of patients with Lassa fever experience an acute loss of hearing in one or both ears; in two-thirds of these patients, the loss is permanent. Unlike other viral infections that are known to cause hearing loss during the acute stage of infection, hearing loss associated with Lassa virus often occurs during the convalescent stage of infection; additional hearing loss may develop over time, even after full recovery. It is believed that viremia is not responsible for hearing loss in patients, but rather, immune-mediated injury. This hypothesis is supported by the fact that early administration of ribavirin has little effect on hearing outcomes. 29,30
+
+============================================================
+CHUNK 9
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+All persons performing procedures must wear adequate personal protective equipment (e.g., gloves, mask, and gown). Additionally, freshly made disinfectant (e.g., 10% hypochlorite) must be on site for immediate disinfection of contaminated materials. Particular care must be taken with all sharp instruments. Specimens should be drawn into a vacuum tube system, if available, to minimize risk of spills. Urine should be mixed with an equal amount of bovine serum albumin at pH 7.4 before freezing. Other |uids should be frozen  undiluted.  All  of  these  specimens  keep  best  if  they  are frozen at -70°C or in liquid nitrogen as soon as possible. 21,24
+Lassa fever may be dif{cult to diagnose clinically because its manifestations, especially in the early days of illness, are not speci{c and easily confused with early manifestations of many common infections (e.g., malaria, arbovirus infections, and typhoid fever). In young babies, marked edema has been reported. In older children, the disease may manifest as diarrhea, pneumonia, or an unexplained prolonged fever. 31,32 Among adults in an endemic area, fever with pharyngitis, proteinuria, and retrosternal chest pain has a positive predictive value for Lassa fever of 81% and a speci{city of 89%.
+However, this triad's diagnostic sensitivity is only 50%. Bleeding and sore throat have a sensitivity and speci{city for fatal outcome of about 90%.  The case fatality  of infections with renal damage  is 60%. 20
+
+============================================================
+CHUNK 10
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+The standard {eld method for the laboratory diagnosis over many years was detection of virus-speci{c antibody by indirect |uorescent antibody (IFA). Generally, an IgG titer of at least 16 and an IgM titer of 4 are considered speci{c for Lassa infection. At least 50% of Lassa fever patients have measurable IgG or IgM IFA antibodies by day 5 of illness, and virtually all have antibodies by  days  12  to  14. The  IgG  antibodies  are  directed  against  the glycoprotein and nucleocapsid of Lassa virus; they are often present simultaneously with high levels of viremia and during the most severe  stage  of  illness.  In  more  recent  years,  enzyme-linked immunosorbent assay (ELISA) has  replaced IFA to detect IgG and/or IgM antibodies using either recombinant antigens or tissue culture,  or  reverse  ELISA  where  amount  of  antibody  can  be measured using a directly labeled antigen or by a labeled monoclonal antibody. 33-35 Reverse  transcriptase  polymerase  chain  reaction (RT-PCR) techniques detecting fragments of the S gene of the virus coding for the glycoprotein are now used in many situations but may be a challenge in poorer rural areas where Lassa fever tends to occur in West Africa. This technique is rapid, accurate, and  sensitive.  RNA  extraction  techniques  effectively  inactivate the virus, so the procedure carries minimal laboratory hazards. 35-38
+
+============================================================
+CHUNK 11
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Lassa virus isolation requires laboratory biosafety level 4 (BSL4) facilities. The virus may easily be isolated in cell culture (the E6 clone  of  vero  cells)  or  suckling  mice.  It  has  also  been  isolated from throat swabs during acute illness, breast milk, spinal |uid, pleural  and  pericardial  transudate,  and  autopsy  material.  Virus may be recovered for 1 to 2 months in urine during convalescence, albeit at low titer. Virus has now been isolated from semen in a few instances, raising the possibility of sexual transmission if virus persists. The virus may be inactivated for safe laboratory manipulation for  antibody  studies  by  using  heat  (56°C  for 30  minutes), β -propiolactone,  formalin,  and  ultraviolet  radiation.  Antigenic properties are best conserved by inactivation with gamma irradiation.  Disinfection  can  be  accomplished  by  washing  with  0.5% phenol  in  detergent  (e.g.,  Lysol),  10%  hypochlorite  solution, formaldehyde, or peracetic acid. 24,39
+
+============================================================
+CHUNK 12
+============================================================
+TREATMENT
+Ribavirin, a guanosine analog, has been successfully used in humans to treat acute Lassa fever. When administered within the {rst 6 days of illness, ribavirin decreases the case fatality rate from 55% in  the  highest-risk  group  to  5%. A  smaller  but  still  signi{cant decrease in fatality has also been demonstrated in patients treated later in illness. Patients treated with ribavirin undergo a signi{cant reduction  in  viremia,  regardless  of  outcome. The  drug  is  most successful when given intravenously as a 2-g loading dose, followed by 1 g every 6 hours for 4 days, and then 0.5 g every 8 hours for 6 more days. There is some evidence that oral ribavirin may also be effective, particularly when given early in milder cases, as well as prophylactically. 40-43 Alternatives to ribavirin are currently under investigation, and favipiravir has now been successfully used in a few situations along with ribavirin. 40
+Fluid, electrolyte, respiratory, and osmotic imbalances should be corrected to prevent clinical shock. However, even vigorous support of this kind may be insuf{cient to prevent fatal progression of  advanced disease when anti-viral treatment is  started  late in infection.  Furthermore,  the  tendency  of  patients  to  develop pulmonary  edema  may  be  exacerbated  by  injudicious  |uid replacement.
+
+============================================================
+CHUNK 13
+============================================================
+TREATMENT
+Lassa vaccine strategies have evolved from killed to live vaccines. The early killed vaccines invoked good humoral response to Lassa virus proteins but failed to protect Lassa virus-challenged nonhuman primates. Focus then shifted to activating cellular response. A comprehensive study involving 44 non-human primates evaluated the ef{cacy of recombinant vaccinia viruses expressing Lassa virus proteins. The vaccine was highly successful in protecting against lethal disease; however, the vaccinia platform was found unsuitable for  human  use  due  to  potential  side  effects,  especially  among immunosuppressed  individuals.  The  safety  pro{le  of  another recombinant  vaccine,  vesicular  stomatitis  virus  expressing  the complete Lassa virus GPC, has yet  to be suf{ciently  explored. The most viable strategy appears to be a reassortment vaccine, ML29, which encodes the NP and GPC of Lassa virus and the Z and L proteins from the Mopeia virus (a non-pathogenic arenavirus). ML29 successfully protected mice, guinea pigs, and small non-human primates challenged with Lassa virus. Further safety studies must be undertaken to examine the potential dangers of natural reassortment in this vaccine. However, similar to the situation with Ebola vaccine, a Lassa vaccine for humans has not been developed  or  tested  even  in  phase  I  trials,  despite  the  obvious need for such a vaccine. 40,43-55
+
+============================================================
+CHUNK 14
+============================================================
+REFERENCES
+1.  McCormick JB. Epidemiology and control of Lassa fever. Curr T op Microbiol Immunol 1987;134:69-78.
+2.  McCormick  JB,  King  IJ,  Webb  PA,  et al.  A  case-control  study of  the  clinical  diagnosis  and  course  of  Lassa  fever.  J  Infect  Dis 1987;155(3):445-55.
+3.  McCormick  JB,  Webb  PA,  Krebs  JW,  et al.  A  prospective  study of  the  epidemiology  and  ecology  of  Lassa  fever.  J  Infect  Dis 1987;155(3):437-44.
+4.  McCormick  JB,  Fisher-Hoch  SP .  Lassa  fever.  Curr T op  Microbiol Immunol 2002;262:75-109.
+5.  Keenlyside RA, McCormick JB, Webb PA, et al. Case-control study of Mastomys natalensis and humans in Lassa virus-infected households in Sierra Leone. Am J Trop Med Hyg 1983;32(4):829-37.
+6.  Bonwitt J, Saez AM, Lamin J, et al. At home with Mastomys and Rattus: human-rodent interactions and potential for primary transmission of Lassa virus in domestic spaces. Am J T rop Med Hyg 2017;96(4):935-43.
+7.  Marien J, Kourouma F, Magassouba N, et al. Movement patterns of small rodents in Lassa fever-endemic villages in Guinea. Ecohealth 2018.
+8.  World Health Organization. Lassa fever - Nigeria. https://www.who.int/ csr/don/20-april-2018-lassa-fever-nigeria/en/.
+9.  Roberts L. Nigeria hit by unprecedented Lassa fever outbreak. Science 2018;359(6381):1201-2.
+10.  Macher AM, Wolfe MS. Historical Lassa fever reports and 30-year clinical update. Emerg Infect Dis 2006;12(5):835-7.
+11.  Safronetz D, Sogoba N, Diawara SI, et al. Annual incidence of Lassa virus infection in Southern Mali. Am J T rop Med Hyg 2017;96(4):944-6.
+
+============================================================
+CHUNK 15
+============================================================
+REFERENCES
+12.  Patassi AA, Landoh DE, Mebiny-Essoh T challa A, et al. Emergence of Lassa fever disease in northern T ogo: report of two cases in Oti district in 2016. Case Rep Infect Dis 2017;2017:8242313.
+13.  Grahn A, Brave A, T olfvenstam T, Studahl M. Absence of nosocomial transmission of imported Lassa fever during use of standard barrier nursing methods. Emerg Infect Dis 2018;24(6):978-87.
+14.  Fisher-Hoch  SP,  T omori  O,  Nasidi  A,  et al.  Review  of  cases  of nosocomial Lassa fever in  Nigeria: the  high price of  poor  medical practice. BMJ 1995;311(7009):857-9.
+15.  Fisher-Hoch  SP ,  Price  ME,  Craven  RB,  et al.  Safe  intensive-care management of a severe case of Lassa fever with simple barrier nursing techniques. Lancet 1985;2(8466):1227-9.
+16.  Baize S, Marianneau P , Loth P , et al. Early and strong immune responses are associated with control of viral replication and recovery in Lassa virus-infected cynomolgus monkeys. J Virol 2009;83(11):5890-903.
+17.  Fisher-Hoch SP, McCormick JB. Pathophysiology and treatment of Lassa fever. Curr T op Microbiol Immunol 1987;134:231-9.
+18.  Khan SH, Goba A, Chu M, et al. New opportunities for {eld research on  the  pathogenesis  and  treatment  of  Lassa  fever.  Antiviral  Res 2008;78(1):103-15.
+19.  Russier M, Reynard S, T ordo N, Baize S. NK cells are strongly activated by Lassa and Mopeia virus-infected human macrophages in vitro but do not mediate virus suppression. Eur J Immunol 2012;42(7):1822-32.
+
+============================================================
+CHUNK 16
+============================================================
+REFERENCES
+20.  Okokhere  P ,  Colubri  A,  Azubike  C,  et al.  Clinical  and  laboratory predictors of Lassa fever outcome in a dedicated treatment facility in Nigeria: a retrospective, observational cohort study. Lancet Infect Dis 2018;18(6):684-95.
+

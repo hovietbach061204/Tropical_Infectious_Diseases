@@ -1,0 +1,339 @@
+============================================================
+CHUNK 0
+============================================================
+64
+
+============================================================
+CHUNK 1
+============================================================
+KEY FEATURES
+- by occupation or leisure to water in a {sh tank, swimming pool, aquaria, vivarium, or seawater with infected {sh and/or amphibians.
+- infected {sh or water. The 'sporotrichoid' distribution of non-healing nodules frequently involves {ngers, hands, and the rest of the upper limbs unilaterally and with proximal dissemination.
+- treatment occur in the immunocompromised host.
+- cutaneous leishmaniasis, sarcoidosis, and cutaneous tuberculosis, among other differential diagnoses.
+- and the variable presence of granulomatous in|ammation on histology are the gold standards for diagnosis. The isolation or identi{cation of Mycobacterium marinum in the laboratory, which can be dif{cult, con{rms the etiologic diagnosis.
+- M. marinum is a multi-drug-resistant organism; however, cure can be achieved in ≈ 85% of cases with combinations of rifampin, ethambutol, tetracyclines, macrolides, |uoroquinolones, amikacin, or imipenem. Relapse is not uncommon.
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+Mycobacterium  marinum is  an  environmental  mycobacterium ubiquitous in fresh, brackish, and sea waters. It infects more than 150 species of {sh and also causes clinical illness in frogs, eels, oysters, toads, and snakes. It is responsible for human granulomatous cutaneous infection through direct inoculation into the skin. Currently, it is an uncommon human disease manifested sporadically, and most cases respond to treatment with combinations of antimycobacterial drugs.
+
+============================================================
+CHUNK 3
+============================================================
+EPIDEMIOLOGY
+The disease is uncommon and usually presents as sporadic individual cases,  although  outbreaks  involving  dozens  of  individuals  have been reported after contact and exposure to a common source of infection. It can be acquired in fresh or sea water. Humans acquire the infection most commonly when handling fresh water in aquaria
+
+============================================================
+CHUNK 4
+============================================================
+Mycobacterium marinum Infection: Fish Tank Granuloma
+Francisco Vega-López or when harvesting, and infection represents an occupational risk for biologists, veterinary doctors, and {shermen.
+
+============================================================
+CHUNK 5
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Inoculation of M. marinum takes place through skin abrasion or injury while handling infected {sh or water. Skin lesions appear at the inoculation site 2 to 8 weeks after introduction and tend to spread proximally on the affected limb. Sporotrichoid nodules may  develop.  Spontaneous  resolution  has  been  observed,  and relapse  is  not  uncommon  after  weeks or  months  of  apparently successful treatment. The clinical features can last for many years if  left  untreated.  Glycin-rich  proteins  have  been  identi{ed  as contributors to bacterial virulence, and corresponding pathogenic loci have been determined for M. marinum . 1 The genomic diversity of M. marinum has been associated with variation in host response and pathogenicity.
+Histologic examination may reveal chronic, non-speci{c in|ammation or a mixed in|ammatory picture with granuloma formation. Typical advanced cases may  reveal well-formed  epithelioid tuberculoid granulomas, and intra-cellular acid-fast bacilli can be observed by special stains in a small proportion of cases.
+
+============================================================
+CHUNK 6
+============================================================
+CLINICAL FEATURES
+A single erythematous papule or small nodule, with a smooth or warty surface, may appear at the inoculation site, commonly on the dorsal aspect of a {nger. Dissemination takes place during the following weeks, and nodular lesions can be observed following the  lymphatic  track  (Fig.  64.1).  The  lesions  are  commonly asymptomatic but may become tender and pyogenic if suprainfection occurs (Fig. 64.2). Extensive skin involvement or frank dissemination can occur in immunocompromised individuals. Septic arthritis, nose and facial mutilation, and nodular vasculitis have been described. 2
+
+============================================================
+CHUNK 7
+============================================================
+DIAGNOSIS
+The diagnosis  is  usually  made  on  clinical  grounds,  taking  into account appropriate exposures, clinical manifestations, duration, histology,  and  microbiology.  Polymerase  chain  reaction  (PCR) assays are available.
+
+============================================================
+CHUNK 8
+============================================================
+TREATMENT
+Therapy  usually  involves  clarithromycin  and  ethambutol  or rifampin  (Fig.  64.3)  for  1  to  2  months  after  resolution.  T reatment courses usually are in the 3- to 4-month range. Relapse can occur. 3 Simple localized disease may be successfully treated with single  agents  (clarithromycin,  trimethoprim-sulfamethoxazole, or doxycycline), although most experts would usually treat with two agents.
+Fig. 64.1 Sporotrichoid dissemination in fish tank granuloma.
+Fig. 64.2 Erythematous and flesh-colored nodules on the right upper limb in a fish tank owner.
+Fig. 64.3 (A) M. marinum infection acquired at home from repeated injury handling a fish tank for several years. (B) The same patient after 5 months' treatment with oral rifampin and clarithromycin.
+
+============================================================
+CHUNK 9
+============================================================
+REFERENCES
+1.  Mohandas P , Budell WC, Mueller E, et al. Pleiotropic consequences of  gene  knockouts  in  the  phthiocerol  dimycocerosate  and  phenolic glycolipid biosynthetic gene cluster of the opportunistic human pathogen Mycobacterium marinum . FEMS Microbiol Lett 2016;363(5):fnw016.
+2.  Johnson MG, Stout JE. T wenty-eight cases of Mycobacterium marinum infection:  retrospective  case  series  and  literature  review.  Infection 2015;43(6):655-62.
+3.  Eberst E,  Dereure O, Guillot B, et al. Epidemiological, clinical, and therapeutic pattern of Mycobacterium marinum infection: a retrospective  series  of  35  cases  from  southern  France.  J  Am  Acad  Dermatol 2012;66(1):e15-16.
+65
+
+============================================================
+CHUNK 10
+============================================================
+Anthrax
+Arthur M. Friedlander, Nicholas J. Vietri
+
+============================================================
+CHUNK 11
+============================================================
+KEY FEATURES
+- herbivorous animals.
+- Bacillus anthracis that persists in the environment as dormant spores and may be transmitted to humans by inoculation, inhalation, or ingestion.
+- the skin; only very rarely are the respiratory and gastrointestinal tracts affected.
+- of a papule followed by a black eschar, often surrounded by signi{cant edema. It may be complicated by septicemia and death in 5% to 20% of untreated cases.
+- characterized by regional lymphadenitis and septicemia, have a mortality rate approaching 100% if untreated and ≈ 50% even with antimicrobial therapy and supportive care.
+
+============================================================
+CHUNK 12
+============================================================
+INTRODUCTION
+Anthrax is an acute bacterial zoonosis, predominantly of herbivores, caused b y Bacillus anthracis. Animal anthrax is rare in developed nations as a result of intensive surveillance and control. However, the disease remains endemic in animals and is not uncommon in humans in many developing countries. Humans become infected after contact with infected animals or contaminated animal products by inoculation, ingestion, or inhalation. A major concern is the use of anthrax to intentionally cause disease, as occurred in 2001 with the mailing of letters containing anthrax spores.
+
+============================================================
+CHUNK 13
+============================================================
+Incidence of Human Anthrax
+Human  infection  with B.  anthracis is  infrequent  in  developed countries. Approximately 20,000 to 100,000 cases of human anthrax are  estimated  to  occur  annually  worldwide,  although  accurate {gures are impossible to obtain. However, anthrax is ubiquitous in agricultural nations dependent on animal husbandry. Epidemics of human anthrax are rare. Large outbreaks of cutaneous anthrax occurred during wars in Zimbabwe in 1978 to 1980 and in Chad in 1988. The largest epidemic of inhalational anthrax occurred in 1979  in  Sverdlovsk  (Ekaterinburg),  Russia,  resulting  from  the accidental release of spores from a military facility. In 2001, 22 cases of bioterrorism-related anthrax (11 inhalational) occurred after envelopes containing spores were mailed through the U.S. Postal Service.
+
+============================================================
+CHUNK 14
+============================================================
+Zoonotic Anthrax
+Anthrax is chie|y a disease of herbivores. Animals are infected via the gastrointestinal tract by grazing on contaminated pasture and rarely by contact with other infected animals. Before death, animals  often  contaminate  the  soil  with  infected  saliva,  blood, urine, or feces. Soil, forage, and, to a lesser extent, groundwater are major reservoirs of anthrax.
+
+============================================================
+CHUNK 15
+============================================================
+Geographic Occurrence
+Outbreaks are sporadic in developed nations, whereas disease remains endemic in parts of Africa, India, Southeast Asia, the Middle East, Greece, Albania, southern Italy, Romania, the former Soviet Union, and  Central  and  South America  (Fig.  65.1). B.  anthracis spores germinate in soil at 20° to 44°C in areas with > 85% humidity. Germinated bacilli are destroyed by other soil microbes. Therefore in many tropical regions, animal anthrax occurs predominantly in the dry season, with some persistence into the wet season. It is likely that persistence in soil results from ampli{cation caused by growth in infected animals and sporulation in  animal carcasses with subsequent contamination of the soil. Vultures and non-biting |ies may be responsible for dissemination of anthrax.
+
+============================================================
+CHUNK 16
+============================================================
+Human Anthrax
+Human anthrax is traced to agricultural, industrial, or, rarely, laboratory acquisition. Only two cases of human-to-human transmission have been reported involving contact with a cutaneous case.
+
+============================================================
+CHUNK 17
+============================================================
+Industrially Acquired Anthrax
+In economically developed countries, industrial acquisition accounts for ≈ 80% of cutaneous anthrax and almost all inhalational anthrax, and occurs predominantly among tanners or leather, hair, wool, or bone-meal fertilizer workers. Sub-clinical infection and seroconversion among workers in these industries may be more common than overt illness. Infections in developed countries are acquired from contaminated animal hides, hair, or bones imported from developing countries with zoonotic anthrax. Leather goods and drums from Haiti and West Africa have been vehicles of anthrax transmission. Recently cutaneous cases have been seen in heroin addicts in four European countries.
+
+============================================================
+CHUNK 18
+============================================================
+Agricultural Anthrax
+In developed countries, contact with infected animals by farmers, butchers, and veterinarians is implicated in ≈ 20% of cutaneous cases.  T ransmission  by  biting  insects  has  been  suspected  and bone-meal fertilizer implicated in sporadic cases of inhalational anthrax among gardeners.
+
+============================================================
+CHUNK 19
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Anthrax  bacilli  are  large  (1.0-1.5 μ m  by  3-8 μ m),  non-motile, gram-positive rods. Abundant in smears of blood and tissues, bacilli occur singly or in short chains. B. anthracis also develops spores in culture or soil, but not in vivo unless exposed to ambient air. Spores are resistant to heat and  many disinfectants. Spores are destroyed by boiling for 10 minutes, dry heat (140°C) for 3 hours, or autoclaving (121°C) for 15 minutes, but remain viable for years in dry soil. Cattle have become infected by grazing in {elds where animals died of anthrax decades before. 1
+Fig. 65.1 Geographic distribution of anthrax. (Reproduced with permission from World Health Organization.)
+
+============================================================
+CHUNK 20
+============================================================
+Bacillus anthracis Virulence Factors
+B.  anthracis possesses  three  major  virulence  factors:  a  polyγ -D-glutamic acid capsule and two protein exotoxins. The capsule is  anti-phagocytic, enabling the bacillus to resist killing by leukocytes. The  anthrax  toxins  are  composed  of  a  eukaryotic  cell receptor-binding protein and a second protein possessing cytotoxic activity.  The  cell  receptor-binding  protein  protective  antigen combines with edema factor, a calmodulin-dependent adenylate cyclase,  to  produce  edema  toxin  or,  with  lethal  factor,  a  zinc metalloprotease, to produce a lethal toxin. Protective antigen is necessary for binding and translocation of the cytotoxic proteins. Edema toxin raises intracelluar levels of cyclic adenosine monophosphate (cAMP), interfering with cell function, whereas lethal factor inactivates mitogen-activated protein (MAP)  kinases, interfering  with  signal  transduction. 2 The  toxins  interfere  with innate immunity, having been shown in vitro to impair the function of  neutrophils,  macrophages,  lymphocytes,  and  dendritic cells. 3 Additional effects of toxins occur in vivo because toxin receptors are expressed on many cells, including those of the cardiovascular system and liver. 4
+
+============================================================
+CHUNK 21
+============================================================
+Cutaneous Anthrax
+Cutaneous anthrax follows inoculation of spores into skin. Spores then germinate, and the bacilli multiply and elaborate their virulence factors.  Hematogenous dissemination follows in 5% to 20% of untreated cases. Cutaneous lesions may demonstrate satellite bullous lesions in which gram-positive bacilli can be observed; pus is not present.
+
+============================================================
+CHUNK 22
+============================================================
+Inhalational Anthrax
+Inhalational anthrax follows the inhalation of spores of 1 to 5 μ m in  diameter.  Larger  particles  are  cleared  by  the  mucociliary mechanism of the lungs. Spore aerosols may be encountered by workers handling contaminated batches of hair, wool, or bone-meal fertilizer. The aerosol infective dose for human infection is high: in wool mills, non-immune workers inhaled as many as 510 spores of 5 μ m or less in diameter per 8-hour shift without becoming ill.  Animal  studies  indicate  that  inhaled  spores  are  ingested  by alveolar phagocytes and carried to tracheobronchial and mediastinal lymph nodes. There, the spores germinate into bacilli with the production of capsule and toxins. Hemorrhagic edema and necrosis of mediastinal lymph nodes ensue. Alveoli show a hemorrhagic exudate  and  only  rarely  bacilli;  neutrophils  are  usually  absent. Alveolar capillaries contain {brin thrombi and bacilli. 5 Hemorrhagic pleural effusions commonly occur. Hematogenous dissemination to the meninges, spleen, and intestine can occur.
+
+============================================================
+CHUNK 23
+============================================================
+Gastrointestinal Anthrax
+Oropharyngeal and intestinal anthrax follow ingestion of poorly cooked, contaminated meat. 6 An ulcer in the stomach, terminal ileum, or cecum may be present, and hemorrhage and edema of regional lymphatics occur.
+
+============================================================
+CHUNK 24
+============================================================
+Septicemic Anthrax
+Generalized  sepsis  may  follow  cutaneous  anthrax  and,  almost invariably, accompanies inhalational and gastrointestinal anthrax. Vascular injury may result from the proliferation of bacteria in the  blood  and  effects  of  the  exotoxins  acting  directly  on  the endothelium or indirectly through other mediators. Widespread capillary thrombosis, circulatory failure, and shock occur before death. Adrenocortical hemorrhage can occur. In addition, anthrax bacteremia may lead to hemorrhagic meningitis. The leptomeninges reveal scant in|ammation but widespread hemorrhages. The brain has hemorrhages and generalized cerebral edema. Sub-arachnoid hemorrhage may also occur.
+
+============================================================
+CHUNK 25
+============================================================
+Cutaneous Anthrax
+Cutaneous anthrax accounts for > 95% of human infections and commonly involves areas of the face, neck, hands, and arms. 7 The incubation period is 12 hours to 7 (mean 3) days. The initial lesion
+Fig. 65.3 Chest x-ray of a case of inhalational anthrax showing mediastinal widening and a small left pleural effusion. (Reproduced
+with permission from Jernigan JA, Stephens DS, Ashford DA, et al:
+Bioterrorism-related inhalational anthrax: the first 10 cases reported in the United States. Emerg Infect Dis 2001;7:933-944.)
+Fig. 65.3 Chest x-ray of a case of inhalational anthrax showing mediastinal widening and a small left pleural effusion. (Reproduced with permission from Jernigan JA, Stephens DS, Ashford DA, et al: Bioterrorism-related inhalational anthrax: the first 10 cases reported in the United States. Emerg Infect Dis 2001;7:933-944.)
+Fig. 65.2 This patient was admitted to the hospital with cutaneous anthrax of the face demonstrating the massive edema that may occur. The lesion healed over the course of several weeks with IV penicillin. (Reproduced with permission from Peck RN, Fitzgerald DW. Cutaneous anthrax in the Artibonite Valley of Haiti:  1992-2002. Am J Trop Med Hyg 2007;77:806-811.)
+
+============================================================
+CHUNK 26
+============================================================
+Cutaneous Anthrax
+is  a  small,  erythematous  macule  or  papule.  It  turns  brown  and develops a ring of erythema and a vesicle. Vesicular satellite lesions may appear (Fig. 65.2) and, after a few days, the clear, vesicular |uid becomes blue-black from hemorrhage. The papule ulcerates, developing a black eschar by the {fth to seventh day. Non-pitting, gelatinous edema may be prominent, occasionally extending to the iliac crest from lesions of the head and neck. This so-called malignant edema, together with a black eschar, is pathognomonic for anthrax. Patients have few symptoms, most commonly malaise, headache, and low-grade fever.
+
+============================================================
+CHUNK 27
+============================================================
+Inhalational Anthrax
+Inhalational anthrax accounts for < 5% of reported cases. Nonspeci{c  symptoms  of  mild  fever,  malaise,  fatigue,  and  myalgia develop 1 to 5 days after exposure; non-productive cough is often reported.  In  cases  occurring  in  the  2001  epidemic,  nausea  or vomiting was common, 8 and some had extreme fatigue and severe headache. Patients may have transient improvement after several days  or  may  directly  develop  severe  respiratory  distress  with cyanosis,  diaphoresis,  increased  fever,  and  tachycardia.  Stridor, diffuse rales, and basilar dullness may be heard. Chest radiographs reveal  symmetric,  characteristic  mediastinal  widening;  pleural effusions; and, in some cases, patchy in{ltrates (Fig. 65.3). Massive, super{cial edema of the head and neck may occur. Meningitis, often  hemorrhagic,  occurs  in ≈ 50% of  cases.  Pleural  effusions may also be hemorrhagic. B. anthracis is usually isolated in cultures of blood, pleural |uid, and cerebrospinal |uid.
+
+============================================================
+CHUNK 28
+============================================================
+Gastrointestinal Anthrax
+Oropharyngeal and gastrointestinal anthrax account for < 5% of cases. Oropharyngeal anthrax presents with sore throat, an ulcer in the oral cavity, dysphagia, cervical and  sub-mandibular lymphadenopathy, and often dramatic neck edema. Gastrointestinal anthrax develops after an incubation period of 2 to 5 days. Patients have generalized abdominal pain, anorexia, nausea, vomiting, and, in some cases, hematemesis. Severe prostration accompanies the development  of  ascites,  bloody  diarrhea,  toxemia,  and  shock. Subcutaneous edema may extensively involve the lower trunk.
+
+============================================================
+CHUNK 29
+============================================================
+Central Nervous System Anthrax
+Anthrax meningitis follows bacteremia from a cutaneous, pulmonary, or intestinal source. Patients usually present with fever, meningismus, and rapidly deteriorating mental status. Lumbar puncture reveals  spinal  |uid  containing  gram-positive  rods  and  is  often hemorrhagic.  Bacteremia  occurs  in  70%  of  patients;  the  usual survival is 2 to 4 days. In very rare cases, patients present with isolated meningitis without other evidence of disease.
+
+============================================================
+CHUNK 30
+============================================================
+Differential Diagnosis
+The epidemiologic  background of  an  industrial  or  agricultural exposure, the evolution of a pruritic then painless lesion without cellulitis  or  lymphangitis,  and  the  dramatic  appearance  of  the black eschar and extensive non-pitting edema help to distinguish anthrax  from  other  skin  infections.  The  initial,  non-speci{c symptoms of inhalational anthrax may resemble in|uenza, bronchitis, or the common cold; however, there are no upper respiratory symptoms in inhalational  anthrax. 9 The  later  stage  may  mimic congestive cardiac failure, but should be suggested by mediastinal widening  on  chest  radiographs  in  the  setting  of  occupational exposure. Anthrax meningitis may be confused with other forms of bacterial meningitis or sub-arachnoid hemorrhage. Intestinal anthrax with fever and severe abdominal pain will only be recognized pre-surgery or pre-mortem if the appropriate epidemiologic history is obtained.
+
+============================================================
+CHUNK 31
+============================================================
+Direct Smear and Culture Diagnosis
+In  cutaneous  anthrax,  encapsulated  bacilli  can  be  identi{ed  on gram- or Giemsa-stained smears and readily cultured. Bacilli may
+also  be  abundant  in  cerebrospinal  or  pleural  |uid  in  cases  of inhalational  anthrax.  Direct  |uorescent  antibody  stains  for  cell wall and capsule are available for de{nitive, early identi{cation of B.  anthracis from  vesicular |uid, tissue, or culture. On sheep blood agar, 3- to 5-mm, gray-white, opaque, rough, non-hemolytic colonies become evident within 24 hours. In the presence of carbon dioxide, the organism produces a capsule and the colony is round and mucoid. Identi{cation is con{rmed immunologically by the presence of the capsule, susceptibility to speci{c bacteriophage, and  testing  by  polymerase  chain  reaction  (PCR)  for  toxin  and capsule genes.
+
+============================================================
+CHUNK 32
+============================================================
+Serologic Diagnosis
+Antibody to protective antigen or capsule, measured by enzymelinked immunosorbent assay (ELISA), develops in 67% to 94% of cases of cutaneous or oropharyngeal anthrax and in 100% of inhalational anthrax cases, but is only useful retrospectively. Rapid diagnostic tests for the detection of protective antigen, lethal factor, and capsule in body |uids have been developed and shown to be of value in non-human primate models and one human case.
+
+============================================================
+CHUNK 33
+============================================================
+TREATMENT
+Consensus treatment recommendations for both adults and children are available and have recently been updated. 10,11
+
+============================================================
+CHUNK 34
+============================================================
+Cutaneous Anthrax
+Untreated cutaneous anthrax can progress to septicemia, shock, renal  failure,  and,  in  5%  to  20%  of  cases,  death.  Almost  all cutaneous  cases  are  cured  with  effective  antimicrobial  therapy. Treatment with an oral |uoroquinolone (cipro|oxacin, levo|oxacin, or moxi|oxacin) or doxycycline for 7 to 10 days is recommended by the U.S. Centers for Disease Control and Prevention (CDC) for uncomplicated cases of naturally acquired cutaneous anthrax, 10
+although  a  study  conducted  in  T urkey  suggests  that  antibiotic treatment for 3 to 5 days is as effective as 7 to 10 days. Clindamycin is  an  alternative  option  if  |uoroquinolones  or  doxycycline  is unavailable or contraindicated. Oral therapy with amoxicillin or penicillin  VK  can  be  used  for  penicillin-sensitive  isolates.  For cutaneous  anthrax  associated  with  a  bioterrorism  attack,  the duration  of  treatment  is  60  days,  due  to  potential  exposure  to airborne spores. Amoxicillin can be used to complete the 60-day course for penicillin-sensitive isolates. Recommended antibiotics and  doses  for  both  adults  and  children  for  the  treatment  of cutaneous  anthrax  are  shown  in  T able  65.1. 10,11 T reatment  for severe  cutaneous  anthrax  with  bacteremia  is  the  same  as  for inhalational and gastrointestinal anthrax, which require intravenous antibiotics as described later.
+
+============================================================
+CHUNK 35
+============================================================
+Other Anthrax Syndromes
+Historically, the treatment for systemic anthrax, which includes cutaneous anthrax with bacteremia and inhalational and gastrointestinal anthrax, was high-dose intravenous penicillin. However, the recently updated CDC anthrax treatment guidelines, based on experience derived from the 2001 cases, recommend a multi-drug regimen of intravenous antibiotics for systemic anthrax. 10,11 The speci{c antibiotics recommended are based on whether meningitis is suspected, con{rmed, or ruled out. If meningitis has not been ruled out, the guidelines recommend three or more antimicrobial drugs with activity against B. anthracis, including a |uoroquinolone, a β -lactam, and a protein synthesis inhibitor. All the antimicrobial agents should have good central nervous system (CNS) penetration. The duration of IV antibiotic treatment is for ≥ 2 weeks or until the patient is clinically stable, whichever is longer. The treatment of systemic anthrax where meningitis has been ruled out is similar to the treatment with meningitis, with the following exceptions. First  two  or  more antimicrobial drugs should be used. At least one  of  these  should  have  bactericidal  activity  and  at  least  one should be a protein synthesis inhibitor. If the B. anthracis infecting
+
+============================================================
+CHUNK 36
+============================================================
+Other Anthrax Syndromes
+Ciprofloxacin 500 mg PO q12h or Doxycycline 100 mg PO q12h or Levofloxacin 750 mg PO q24h or Moxifloxacin 400 mg PO q24h or Clindamycin 600 mg PO q8h or Amoxicillin (1) 1 g PO q8h or Penicillin VK (1) 500 mg PO q6h, Systemic Anthrax With Possible or Confirmed Meningitis = Ciprofloxacin 400 mg IV q8h or Levofloxacin 750 mg IV q24h or Moxifloxacin 400 mg IV q24h PLUS Meropenem 2 g IV q8h or Imipenem 1 g IV q6h or Doripenem 500 mg IV q8h or Penicillin G (1) 4 million units IV q4h or Ampicillin (1) 3 g IV q6h PLUS Linezolid 600 mg IV q12h or Clindamycin 900 mg IV q8h or Rifampin 600 mg IV q12h or Chloramphenicol 1 g IV q6-8h. Ciprofloxacin 500 mg PO q12h or Doxycycline 100 mg PO q12h or Levofloxacin 750 mg PO q24h or Moxifloxacin 400 mg PO q24h or Clindamycin 600 mg PO q8h or Amoxicillin (1) 1 g PO q8h or Penicillin VK (1) 500 mg PO q6h, Systemic Anthrax When Meningitis Has Been Excluded = Ciprofloxacin 400 mg IV q8h or Levofloxacin 750 mg IV q24h or Moxifloxacin 400 mg IV q24h or Meropenem 2 g IV q8h or Imipenem 1 g IV q6h or Doripenem 500 mg IV q8h or Vancomycin 60 mg/kg/d IV divided q8h or Penicillin G (1) 4 million units IV q4h or Ampicillin (1) 3 g IV q6h PLUS Clindamycin 900 mg IV q8h or Linezolid 600 mg IV q12h or Doxycycline 200 mg IV initially, then 100 mg IV q12h or Rifampin 600 mg
+
+============================================================
+CHUNK 37
+============================================================
+Other Anthrax Syndromes
+IV q12h
+
+TABLE 65.1 Treatment of Anthrax in Adults and Children-cont'd
+
+============================================================
+CHUNK 38
+============================================================
+Other Anthrax Syndromes
+Cutaneous Anthrax Ciprofloxacin 30 mg/kg/day PO divided q12h (max 500 mg/dose) or Doxycycline < 45 kg: 4.4 mg/kg/day PO divided q12h (max 100 mg/ dose); ≥ 45 kg: 100 mg/dose PO given q12h or Clindamycin 30 mg/kg/day PO divided q8h (max 600 mg/dose) or Levofloxacin (2) < 50 kg: 16 mg/kg/day PO divided q12h (max 250 mg/ dose); > 50 kg: 500 mg PO given q24h or Amoxicillin (1) 75 mg/kg/day PO divided q8h (max 1 g/dose) or Penicillin VK (1) 50-75 mg/kg/day PO divided q6 to 8 h, Systemic Anthrax With Possible or Confirmed Meningitis = Ciprofloxacin 30 mg/kg/day IV divided q8h (max 400 mg/dose) or Levofloxacin < 50 kg: 16 mg/kg/day IV divided q12h (max 250 mg/dose); > 50 kg: 500 mg IV given q24h or Moxifloxacin 3 mo to < 2 yr: 12 mg/kg/day IV divided q12h (max 200 mg/ dose); 2-5 yr: 10 mg/kg/day IV divided q12h (max 200 mg/dose); 6 to 11 yr: 8 mg/kg/day IV divided q12h (max 200 mg/dose); 12 to 17 yr, ≥ 45 kg body weight: 400 mg IV q day; 12-17 yr, < 45 kg body weight: 8 mg/kg/day IV divided q12h (max 200 mg/dose) PLUS Meropenem 120 mg/kg/day IV divided q8h (max 2 g/dose) or Imipenem/cilastatin 100 mg/kg/day IV divided q6h (max 1 g/dose) or Doripenem 120 mg/kg/day IV divided q8h (max 1 g/dose) or Vancomycin 60 mg/kg/day IV divided q8h or Penicillin G (1) 400,000 U/kg/day IV divided
+
+============================================================
+CHUNK 39
+============================================================
+Other Anthrax Syndromes
+q4h (max 4 MU/dose) or Ampicillin (1) 400 mg/kg/day IV divided q6h (max 3 g/dose) PLUS Linezolid < 12 years old: 30 mg/kg/day IV divided q8h; > 12 years old: 30 mg/kg/day IV divided q12h (max 600 mg/dose) or Clindamycin 40 mg/kg/day IV divided q8h (max 900mg/dose) or Rifampin 20 mg/kg/day IV divided q12h (max 300 mg/dose) or Chloramphenicol. Cutaneous Anthrax Ciprofloxacin 30 mg/kg/day PO divided q12h (max 500 mg/dose) or Doxycycline < 45 kg: 4.4 mg/kg/day PO divided q12h (max 100 mg/ dose); ≥ 45 kg: 100 mg/dose PO given q12h or Clindamycin 30 mg/kg/day PO divided q8h (max 600 mg/dose) or Levofloxacin (2) < 50 kg: 16 mg/kg/day PO divided q12h (max 250 mg/ dose); > 50 kg: 500 mg PO given q24h or Amoxicillin (1) 75 mg/kg/day PO divided q8h (max 1 g/dose) or Penicillin VK (1) 50-75 mg/kg/day PO divided q6 to 8 h, Systemic Anthrax When Meningitis Has Been Excluded = Ciprofloxacin 30 mg/kg/day IV divided q8h (max 400 mg/ dose) or Meropenem 60 mg/kg/day IV divided q8h (max 2 g/dose) or Levofloxacin < 50 kg: 20 mg/kg/day IV divided q12h (max 250 mg/dose); > 50 kg: 500 mg IV given q24h or Imipenem/cilastatin 100 mg/kg/day IV divided q6h (max 1 g/dose) or Vancomycin 60 mg/kg/day IV divided q8h or Penicillin G (1) 400,000 U/kg/day IV divided q4h (max 4 MU/dose) or Ampicillin (1) 200 mg/kg/day IV
+
+============================================================
+CHUNK 40
+============================================================
+Other Anthrax Syndromes
+divided q6h (max 3 g/dose) PLUS Clindamycin 40 mg/kg/day IV divided q8h (max 900 mg/ dose) or Linezolid < 12 years old: 30 mg/kg/day IV divided q8h; > 12 years old: 30 mg/kg/day IV divided q12h (max 600 mg/dose) or Doxycycline < 45 kg: 4.4 mg/kg/day IV, loading dose (not to exceed 200 mg), then 4.4 mg/kg/day IV, divided q12h (max 100 mg/dose); > 45 kg: 200 mg IV loading dose, then 100 mg IV given q12h or Rifampin 20 mg/kg/day IV divided q12h (max 300 mg/dose)
+(1) For penicillin-susceptible strains.
+(2) Safety data for levofloxacin use longer than 14 days in the pediatric population are limited.
+Duration of PO therapy for non-systemic cutaneous anthrax is 7 to 10 days.
+Duration of IV therapy of anthrax with possible or confirmed meningitis is ≥ 2 weeks or until clinically stable, whichever is longer.
+Duration of IV therapy for anthrax when meningitis has been excluded is ≥ 2 weeks or until clinically stable, whichever is longer.
+All patients exposed to aerosolized spores will require prophylaxis to complete an antimicrobial drug course of 60 days from onset of illness. Preferred antimicrobial agents are in bold font.
+
+============================================================
+CHUNK 41
+============================================================
+Other Anthrax Syndromes
+strain is susceptible to penicillin, then penicillin G is considered to be equivalent to the |uoroquinolones as the bactericidal agent. Finally,  antimicrobial  drug  penetration  into  the  CNS  is  not  as important. Recommended antibiotics and doses for the treatment of systemic anthrax, with and without suspected meningitis, for both adults and children are given in T able 65.1. 10,11 T o complete a  60-day  course  of  therapy,  treatment  can  be  switched  to  oral medicines  when  the  patient  is  stable.  There  are  no  controlled studies for human inhalational anthrax to determine the optimal duration of  treatment  and  if  a  shorter  period  is  adequate-the suggested 60-day course of antibiotics is based  on  the possible germination  of  retained  dormant  spores  late  after  infection. Although  historically  viewed  as  invariably  fatal,  data  from  the 2001 inhalational anthrax cases showed that a multi-drug antibiotic regimen  combined  with  supportive  therapy  reduced  mortality to 45%. 12
+
+============================================================
+CHUNK 42
+============================================================
+Anti-Toxin
+The use of an anti-toxin in conjunction with antimicrobial therapy is recommended for the treatment of systemic anthrax, although there are no controlled clinical studies demonstrating its added bene{t. There are three anti-toxins in the CDC Strategic National Stockpile: raxibacumab (GlaxoSmithKline, London, UK), anthrax immune globulin intravenous (AIGIV) (Emergent BioSolutions, Gaithersburg, MD, USA), and obiltoxaximab (Elusys Therapeutics Inc, Pine Brook, NJ, USA).
+
+============================================================
+CHUNK 43
+============================================================
+Supportive Therapy
+The  evolution  of  the  anthrax  skin  lesion  is  not  modi{ed  by antimicrobial treatment. Pleural |uid drainage was likely associated with decreased mortality in the 2001 anthrax cases by reducing toxin levels and decreasing lung compression. Although data in anthrax  are  lacking,  adjunctive  intravenous  dexamethasone  is recommended in addition to antimicrobial therapy for patients suspected of having meningitis.
+
+============================================================
+CHUNK 44
+============================================================
+Isolation of Patients
+Human-to-human transmission has not been observed in inhalational  or  gastrointestinal  anthrax. Therefore  standard  infection control precautions should suf{ce. However, if bloody sputum is present, respiratory isolation should be instituted. Because of the potential infectious nature of an untreated cutaneous anthrax lesion
+TABLE 65.2 Post-exposure Prophylaxis After Bacillus anthracis Exposure in Adults and Children*
+ADULTS Ciprofloxacin 500 mg PO q12h or Doxycycline 100 mg PO q12h or Levofloxacin 750 mg PO q24h or Moxifloxacin 400 mg PO q24h or Clindamycin 600 mg PO q8h or Penicillin VK (1)  500 mg PO q6h or Amoxicillin (1)  1 g PO q8h CHILDREN (1 MONTH OF AGE AND OLDER) Ciprofloxacin 30 mg/kg/day PO divided q12h (max 500 mg/dose) or Doxycycline < 45 kg: 4.4 mg/kg/day PO divided q12h (max 100 mg/ dose); > 45 kg: 100 mg/dose PO given q12h or Levofloxacin (2) < 50 kg: 16 mg/kg/day PO divided q12h (max 250 mg/ dose); > 50 kg: 500 mg PO given q24h or Clindamycin 30 mg/kg/day PO divided q8h (max 900 mg/dose) or Amoxicillin (1)  75 mg/kg/day, PO divided q8h (max 1 g/dose) or
+Penicillin VK (1)  50-75 mg/kg/day PO divided q6-8h
+- (1) For penicillin-susceptible strains.
+- (2) Safety data for levofloxacin use longer than 14 days in the pediatric population are limited.
+3. *The PEP antimicrobial regimen should continue for 60 days, combined with three doses of anthrax vaccine (BioThrax).
+Preferred antimicrobial agents are in bold font.
+or gastrointestinal anthrax, contact and secretion precautions should be used.
+
+============================================================
+CHUNK 45
+============================================================
+Post-Exposure Prophylaxis
+Post-exposure prophylaxis (PEP) requires a different therapeutic approach compared with treatment of established disease. Most spores deposited into the alveolar spaces germinate within a few days.  However,  germination  is  not  synchronous.  Studies  have demonstrated viable spores in the lungs of rhesus macaques 100 days after exposure, and anthrax has occurred several months after exposure in animals given antibiotics for short periods. As spores can remain dormant for long periods and antibiotics act only after spores have germinated, PEP to prevent disease from dormant spores that may subsequently germinate requires either a prolonged course of antibiotics or antibiotics plus vaccination. The current CDC  recommendation  for  PEP  for  exposure  to  aerosolized B.  anthracis spores  is  60  days  of  oral  antibiotics  combined with anthrax vaccine (BioThrax) 0.5 mL given subcutaneously at 0, 2, and 4 weeks. 13,14 Antibiotics recommended for PEP include cipro|oxacin or doxycycline. Levo|oxacin, moxi|oxacin, or clindamycin are recommended as a second-line antibiotic. Penicillins should not be  used  presumptively  for  PEP of anthrax.  However, once the  strain  is  proven  to  be  penicillin-susceptible,  amoxicillin  or penicillin VK can be used to complete the 60-day course of therapy. The recommended antibiotics and doses for anthrax PEP for both adults and children are listed in T able 65.2.
+
+============================================================
+CHUNK 46
+============================================================
+REFERENCES
+1.  T urnbull PCB. Anthrax in humans and animals. 4th ed. Geneva: World Health Organization; 2008.
+2.  Montecucco C, Mock M. Anthrax. Mol Aspects Med 2009;30:345-6.
+3.  T ournier JN, Rossi Paccani S, Quesnel-Hellmann A, Baldari CT . Anthrax toxins: a weapon to systematically dismantle the host immune defenses. Mol Aspects Med 2009;30:456-66.
+4.  Liu S, Moayeri M, Leppla SH. Anthrax lethal and edema toxins in anthrax pathogenesis. Trends Microbiol 2014;22:317-25.
+5.  Grinberg  LM, Abramova  FA, Yampolskaya  OV,  et al.  Quantitative pathology of inhalational anthrax I: quantitative microscopic {ndings. Mod Pathol 2001;14:482-95.
+6.  Kunanusont C, Limpakarnjanarat K, Foy HM. Outbreak of anthrax in Thailand. Ann Trop Med Parasitol 1990;84:507-12.
+7.  Friedlander  AM.  Anthrax  -  Clinical  features,  pathogenesis,  and potential  biological  warfare  threat.  In:  Remington  JS,  Swartz  MN, editors. Current clinical topics in infectious diseases. Malden: Blackwell Science; 2000. p. 335.
+8.  Jernigan  JA,  Stephens  DS, Ashford  DA,  et al.  Bioterrorism-related inhalational anthrax: the {rst 10 cases reported in the United States. Emerg Infect Dis 2001;7:933-44.
+9.  Kuehnert MJ, Dolye TJ, Hill HA. Clinical features that discriminate inhalational anthrax from other acute respiratory illnesses. Clin Infect Dis 2003;36:328-36.
+10.  Hendricks KA, Wright ME, Shadomy SV , Bradley JS, et al. Centers for Disease Control and Prevention Expert Panel on Prevention and T reatment of Anthrax in Adults. Emerg Infect Dis 2014;20(2):doi:10.3201/ eid2002.130687.
+
+============================================================
+CHUNK 47
+============================================================
+REFERENCES
+11.  Bradley JS, Peacock G, Krug SE, et al. AAP Committee on Infectious Diseases and Disaster Preparedness Advisory Council. Pediatric anthrax clinical management. Pediatrics 2014;133(5):e1411-36.
+12.  Holty  JE,  Bravata  DM,  Lui  H,  et al.  Systematic  review:  a  century of  inhalational  anthrax  cases  from  1900  to  2005.  Ann  Intern  Med 2006;144:270-80.
+13.  Centers for Disease Control and Prevention. Use of anthrax vaccine in the United States. Recommendations on the Advisory Committee on Immunization Practices (ACIP), 2009. MMWR 2010;59(RR-6):1-29.
+14.  Schiffer  JM, McNeil MM, Quinn CP. Recent developments in the understanding and use of anthrax vaccine adsorbed: achieving more with less. Expert Rev Vaccines 2016;15:1151-62.
+

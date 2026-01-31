@@ -1,0 +1,189 @@
+============================================================
+CHUNK 0
+============================================================
+47
+
+============================================================
+CHUNK 1
+============================================================
+KEY FEATURES
+- Vibrio species are environmental organisms that are found in freshwater and marine water habitats around the world.
+- Vibrio cholerae O1 and O139 strains that carry the genes encoding cholera toxin.
+- outbreaks is critical.
+- preventing disease in epidemics.
+- causes outbreaks and epidemics in these settings.
+- lifesaving.
+- Vibrio species ('non-cholera' Vibrios ) are less common pathogens and may cause septicemia, soft tissue infection, and gastrointestinal illness.
+
+============================================================
+CHUNK 2
+============================================================
+Introduction
+Historically,  cholera  is  one  of  the  great  scourges  of  mankind. Seven global pandemics have occurred since the early 19th century. 1 The current seventh global pandemic of cholera, caused by Vibrio cholerae O1 biotype El T or, began in Sulawesi, Indonesia, in 1961.
+The history of cholera is closely tied to the history of medicine. In 1854 John Snow made the seminal observation that sewagecontaminated  municipal  water  was  the  source  of  cholera  in  a London community, introducing a concept in the germ theory of disease. Robert Koch isolated the causative bacterium during the {fth pandemic in 1883. Oral rehydration solution (ORS), originally developed for the treatment of cholera, has saved millions of lives and  is  one  of  the  landmark  medical  achievements  of  the  20th century.
+
+============================================================
+CHUNK 3
+============================================================
+Epidemiology
+Today, cholera remains a signi{cant health burden in the developing world. The disease is endemic in Africa, Asia, Central and South America, and now Haiti. 2 The Ganges River Delta is the ancestral epicenter of cholera ('Asiatic cholera'), and predictable seasonal outbreaks occur in this region. Explosive epidemics can occur in areas with limited access to clean drinking water. In Haiti in 2010, cholera  was  introduced  by  a  carrier  from  an  endemic  country, resulting in a deadly outbreak and establishment of endemic cholera on the island. 3
+Precise  estimates  of  global  cholera  incidence  are  lacking; limitations in local surveillance and reporting systems and economic disincentives contribute to the global underreporting of cholera. Fig. 47.1 shows the global distribution of cholera based on cases reported to the World Health Organization (WHO) in 2016.
+
+============================================================
+CHUNK 4
+============================================================
+Cholera and Other Vibrios
+Ana A. Weil, Regina C. LaRocque
+In endemic areas, cholera exhibits a seasonal pattern with periods of high and low incidence. Risk factors for severe disease (cholera gravis) include younger age, lack of pre-existing immunity, and blood group O status. 4
+
+============================================================
+CHUNK 5
+============================================================
+Natural History, Pathogenesis, and Pathology
+Vibrios are  curved,  rod-shaped,  gram-negative  bacteria  that  are highly motile due to the presence of a single polar |agellum. They are found in brackish water environments around the world, often closely associated with zooplankton and other fauna with chitinous exoskeletons. 5 Humans become infected after drinking contaminated water (Fig. 47.2). An extremely high concentration of organisms (up to 100 million bacteria per milliliter) is found in cholera stool. Stool-shed  organisms  are  transiently  hyperinfectious,  and  this adaptation  may  contribute  to  the  explosive  nature  of  cholera epidemics. 6
+Strains  of V.  cholerae are  differentiated  serologically  by  the lipopolysaccharide O antigen. T o date, more than 200 serogroups have been identi{ed. Historically, the O1 serogroup has caused the vast majority of disease and is divided into several phenotypically distinct biotypes: El T or and classical are the most common. Both biotypes can be further subdivided into two serotypes: Inaba and Ogawa. In the past 25 years, the El T or biotype has largely replaced the classical biotype and is the cause of the current seventh global pandemic. The O139 serogroup emerged as a cause of disease in 1992 but has remained limited to areas of Asia.
+Pathogenic  strains  of V.  cholerae possess  two  key  virulence factors-cholera toxin  and  the  toxin  co-regulated  pilus  (TCP). TCP is a surface pilus that aggregates organisms together on the surface of the small intestine. Cholera toxin is a prototypical AB subunit  toxin. The  B  subunit binds  the  toxin  to  the  surface  of epithelial cells, while the enzymatically active A subunit is translocated into the cell. The A subunit increases cyclic AMP activity, leading  to  the  massive  |uid  and  electrolyte  ef|ux  resulting  in diarrhea that is the hallmark of the disease.
+
+============================================================
+CHUNK 6
+============================================================
+Clinical Features
+V.  cholerae incubation  period  varies  with  host  susceptibility  and inoculum size, and ranges from several hours to 3 to 5 days. Most cases are mild or asymptomatic, especially in endemic settings. In severe cholera, the characteristic symptom is the frequent passage of profuse 'rice-water' stool (Fig. 47.3)-a watery stool with |ecks of mucus and a typical {shy odor. Stool output can reach as high as 1 liter per hour in severe cases. Abdominal discomfort, lethargy, and vomiting are other common symptoms,  particularly in the early phases of disease; fever is rare.
+Examination may reveal sunken eyes (Fig. 47.4), dry mouth, cold clammy skin, decreased skin turgor, or wrinkled hands and feet.  Dehydration  and  electrolyte  abnormalities  are  important complications  of  cholera.  Kussmaul  breathing  may  occur  as  a result of acidosis, and muscle cramping and weakness can occur due  to  loss  of  potassium  and  calcium.  The  peripheral  pulse  is rapid and initially thready; it may become dif{cult to palpate as blood pressure drops. Urine output decreases with time, and renal failure due to hypovolemia or acute tubular necrosis may occur. In children, depletion of glycogen stores and inadequate gluconeogenesis can lead to severe hypoglycemia and coma. Bloodstream invasion by the organism is extremely rare. Laboratory testing of
+Fig. 47.1 Global distribution of cholera based on cases reported to the WHO in 2016 (http://gamapserver. who.int/mapLibrary/Files/Maps/Global_Cholera(WER)_2016.png).
+
+============================================================
+CHUNK 7
+============================================================
+Clinical Features
+TABLE 47.1 Assessing Level of Dehydration
+
+Assess degree of dehydration,  = Mentation Eyes Skin turgor Pulse Thirst. Assess degree of dehydration, Degree of Dehydration.None ( < 5%) = Alert Normal Normal recoil Normal Drinks normally. Assess degree of dehydration, Degree of Dehydration.Some (5%-10%) = Restless, irritable Sunken Slow recoil Rapid, low volume Thirsty, drinks eagerly. Assess degree of dehydration, Degree of Dehydration.Severe ( > 10%) = Lethargic or unconscious Sunken Very slow recoil ( > 2 sec) Weak or absent Drinks poorly or unable to drink
+Modified from Harris JB, Larocque RC, Qadri F, et al. Cholera. Lancet 2012;379:2466-76.
+cholera  patients,  when  performed,  may  reveal  hypokalemia, hyponatremia, hypocalcemia, and acidosis.
+'Cholera sicca' is an unusual form of the disease whereby |uid accumulates in the intestinal lumen. Circulatory collapse and even death can occur in the absence of diarrhea.
+
+============================================================
+CHUNK 8
+============================================================
+Patient Evaluation, Diagnosis, and Differential Diagnosis
+Cholera often occurs in outbreaks, and the diagnosis should be quickly suspected in areas of poor sanitation when adults or children over  5  years  of  age  develop  acute  watery  diarrhea  resulting  in profound dehydration. Mild-to-moderate cases of V. cholerae may be indistinguishable from infection with other pathogens, such as enterotoxigenic Escherichia coli, Campylobacter spp., or Salmonella spp.
+V. cholerae O1 or O139 infection is con{rmed by the isolation of the  organism in stool  culture, followed by biochemical tests and serogrouping with speci{c antisera. Thiosulfate citrate bile salts sucrose agar or tellurite taurocholate gelatin agar are used for the selective isolation. An immediate diagnosis of cholera can which has excellent sensitivity but a speci{city between 65% and 85% in  {eld  settings.  Cholera  can  be  rapidly  diagnosed  using direct dark-{eld microscopy of stool where motile Vibrio organisms appear like 'shooting stars.'
+
+============================================================
+CHUNK 9
+============================================================
+Treatment
+Treatment of cholera is simple and inexpensive, and when appropriately  treated  the  case  fatality  rate  approaches  zero.  Most importantly,  the  |uid  de{cit  and  ongoing  |uid  loss  must  be corrected. Antibiotics can be administered to decrease the duration of  illness  and  bacterial  shedding,  thereby  reducing  health  care service utilization and potentially transmission of disease. Complications such as pneumonia and hypoglycemia in children must be recognized and addressed in a timely manner.
+
+============================================================
+CHUNK 10
+============================================================
+Correction of Fluid Loss
+Correction of dehydration through |uid replacement and maintenance remains the cornerstone of cholera treatment.  A cholera patient can lose more than 5% to 10% of their body weight in |uid during the course of the illness. The amount of |uid therapy administered is determined by assessing the level of dehydration (T able 47.1 and Fig. 47.5). Fluid replacement occurs in two phases. In the rescue phase, aggressive |uid replacement is given to replenish the |uid de{cit in a period of 3 to 4 hours. 7 Intravenous |uids should be
+colonize the small intestine
+metoi
+Stool-shed organisms are transiently hyperinfectious
+to the next host and contribute to the explosive nature of
+cholera outbreaks
+Vibrio choler and fresh aq
+Fig. 47.2 Cholera life cycle.
+used for rehydration in cases of severe dehydration, mental status changes with inability to drink, hypovolemic shock, and profuse vomiting. After resuscitation for |uid loss, ongoing assessment of |uid loss is necessary, and stool output should be measured every 4 to 6 hours. Such measurement can be facilitated using a cholera cot (a simple plastic cot with a central hole to facilitate collection of stool in a bucket). In the maintenance phase ,  intravenous |uid or ORS is given to  replenish ongoing |uid losses. Intravenous and oral rehydration |uids are designed to correct the water and electrolyte loss in cholera stool (T able 47.2). The most commonly used intravenous solution is commercially available Ringer's lactate, or locally prepared |uid which contains more potassium than Ringer' s lactate can be used in endemic countries.
+The use of ORS, a readily prepared sugar and salt solution, has revolutionized the treatment of cholera and dehydration caused by other infections. 8 ORS takes advantage of the fact that glucosemediated co-transport of sodium and water across the mucosal surface  of  the  small  intestine  remains  intact  during  diarrhea. Hypo-osmolar  ORS  (Box  47.1)  is  currently  recommended  by the WHO.
+Packets for the easy preparation of ORS are widely available in  developing  countries.  If  ORS  packets  are  not  available,
+Sodium chloride (NaCl)
+Sodium citrate
+
+============================================================
+CHUNK 11
+============================================================
+Correction of Fluid Loss
+Fig. 47.3 Rice-water stool.
+Potassium chloride (KCI)
+1.5 g
+Fig. 47.4 A cholera patient with sunken eyes.
+
+BOX 47.1 Recipe for Making One Liter of Hypo-osmolar ORS 15, 1 = BOX 47.1 Recipe for Making One Liter of Hypo-osmolar ORS 15. Sodium chloride (NaCl), 1 = 2.6 g. Sodium citrate, 1 = 2.9 g. Potassium chloride (KCl), 1 = 1.5 g. Glucose, 1 = 13.5 g
+
+TABLE 47.2 Electrolyte Content of Cholera Stool and Fluids Used in the Treatment of Cholera
+
+============================================================
+CHUNK 12
+============================================================
+Correction of Fluid Loss
+Cholera stool (adult), Electrolyte Concentration (mmol/L).Sodium = 135. Cholera stool (adult), Electrolyte Concentration (mmol/L).Potassium = 15. Cholera stool (adult), Electrolyte Concentration (mmol/L).Chloride = 100. Cholera stool (adult), Electrolyte Concentration (mmol/L).Acetate/Lactate = 40. Cholera stool (adult), Electrolyte Concentration (mmol/L).Other = -. Cholera stool (child), Electrolyte Concentration (mmol/L).Sodium = 100. Cholera stool (child), Electrolyte Concentration (mmol/L).Potassium = 30. Cholera stool (child), Electrolyte Concentration (mmol/L).Chloride = 90. Cholera stool (child), Electrolyte Concentration (mmol/L).Acetate/Lactate = 30. Cholera stool (child), Electrolyte Concentration (mmol/L).Other = -. Ringer's lactate, Electrolyte Concentration (mmol/L).Sodium = 130. Ringer's lactate, Electrolyte Concentration (mmol/L).Potassium = 4. Ringer's lactate, Electrolyte Concentration (mmol/L).Chloride = 111. Ringer's lactate, Electrolyte Concentration (mmol/L).Acetate/Lactate = 29. Ringer's lactate, Electrolyte Concentration (mmol/L).Other = 3 (calcium). Dhaka solution, Electrolyte Concentration (mmol/L).Sodium = 133. Dhaka solution, Electrolyte Concentration (mmol/L).Potassium = 13. Dhaka solution, Electrolyte Concentration (mmol/L).Chloride = 98. Dhaka solution, Electrolyte Concentration (mmol/L).Acetate/Lactate = 48. Dhaka solution, Electrolyte Concentration (mmol/L).Other = -. Standard ORS, Electrolyte Concentration (mmol/L).Sodium = 90. Standard ORS, Electrolyte Concentration (mmol/L).Potassium = 20. Standard ORS, Electrolyte Concentration (mmol/L).Chloride = 80. Standard ORS, Electrolyte Concentration (mmol/L).Acetate/Lactate =
+
+============================================================
+CHUNK 13
+============================================================
+Correction of Fluid Loss
+10. Standard ORS, Electrolyte Concentration (mmol/L).Other = 111 (glucose). Rice-based ORS, Electrolyte Concentration (mmol/L).Sodium = 90. Rice-based ORS, Electrolyte Concentration (mmol/L).Potassium = 20. Rice-based ORS, Electrolyte Concentration (mmol/L).Chloride = 80. Rice-based ORS, Electrolyte Concentration (mmol/L).Acetate/Lactate = 10. Rice-based ORS, Electrolyte Concentration (mmol/L).Other = 88 (rice powder). Hypo-osmolar ORS, Electrolyte Concentration (mmol/L).Sodium = 75. Hypo-osmolar ORS, Electrolyte Concentration (mmol/L).Potassium = 20. Hypo-osmolar ORS, Electrolyte Concentration (mmol/L).Chloride = 65. Hypo-osmolar ORS, Electrolyte Concentration (mmol/L).Acetate/Lactate = 10. Hypo-osmolar ORS, Electrolyte Concentration (mmol/L).Other = 75 (glucose)
+ORS , Oral rehydration solution.
+dehydration can be treated with a solution made with six level teaspoons of sugar and one-half level teaspoon of salt dissolved in one liter of clean water.
+Apart from |uid replacement, the intake of freshly prepared food is encouraged when tolerated, and breastfeeding should be continued where appropriate. For children up to 5 years of age, supplementary administration of zinc (10 mg/day × 2  weeks in children < 6 months; 20 mg/day × 2 weeks in children 6 months to 5 years) has proven effective in reducing the duration of diarrhea, as well as reducing successive diarrhea episodes. 9
+
+============================================================
+CHUNK 14
+============================================================
+Antibiotics
+Antimicrobial therapy is  an  adjunct  to  |uid therapy  in  cholera and has been shown to reduce the duration and volume of diarrheal stool and reduce bacterial shedding. 10  The WHO advocates the use of antibiotics for individuals with severe dehydration, basing choice  on  local  availability  and  susceptibility  pattern. 7 A  wide range of antibiotics, both in single- and multiple-dose regimens, is  used  for  the  treatment  of  cholera,  as  shown  in  T able  47.3.
+Resistance of V. cholerae O1 and O139 to many commonly used antibiotics is an emerging problem, and thus knowledge of the local resistance pattern is  mandatory. Single-dose regimens are preferred  in  outbreak  settings  where  health  care  personnel  are scarce.
+
+============================================================
+CHUNK 15
+============================================================
+Prevention and Vaccines
+A clean water supply is essential to the prevention of cholera, and breastfeeding is protective for young infants in endemic settings. Three oral, whole-cell, killed cholera vaccines are now pre-quali{ed by the WHO and are available in various countries. The WHO recommends use of cholera vaccines in areas of known cholera epidemics and areas at high risk of outbreaks, in conjunction with improved water supplies, adequate sanitation, and health education, 11 and observational data suggest vaccination in epidemic settings is also valuable. 12 Oral cholera vaccines have recently been deployed to prevent epidemics and are increasingly used for this purpose. 13 In 2017 the WHO introduced a global strategy to reduce cholera deaths by 90% by the year 2030. 14
+Fig. 47.5 Approach to fluid management in patients with dehydration.
+
+============================================================
+CHUNK 16
+============================================================
+Prevention and Vaccines
+Tetracycline, TABLE 47.3 Antibiotics for the Management of Cholera.Older Children and Adults = 500 mg every 6 hours for 3 days. Tetracycline, TABLE 47.3 Antibiotics for the Management of Cholera.Child* = 50 mg/kg/day divided every 6 hours for 3 days. Tetracycline, TABLE 47.3 Antibiotics for the Management of Cholera.Comments = In endemic areas, resistance is common. Not recommended in pregnant women and children less than 8 years of age.. Doxycycline, TABLE 47.3 Antibiotics for the Management of Cholera.Older Children and Adults = 300 mg single dose. Doxycycline, TABLE 47.3 Antibiotics for the Management of Cholera.Child* = 4-6 mg/kg single dose. Doxycycline, TABLE 47.3 Antibiotics for the Management of Cholera.Comments = Same as above.. Erythromycin, TABLE 47.3 Antibiotics for the Management of Cholera.Older Children and Adults = 500 mg every 6 hours for 3 days. Erythromycin, TABLE 47.3 Antibiotics for the Management of Cholera.Child* = 50 mg/kg/day divided every 6 hours for 3 days. Erythromycin, TABLE 47.3 Antibiotics for the Management of Cholera.Comments = Widely used in pediatric population.. Azithromycin, TABLE 47.3 Antibiotics for the Management of Cholera.Older Children and Adults = 1 g single dose. Azithromycin, TABLE 47.3 Antibiotics for the Management of Cholera.Child* = 20 mg/kg single dose. Azithromycin, TABLE 47.3 Antibiotics for the Management of Cholera.Comments = Preferred therapy in areas of resistance to fluoroquinolones; reports of resistance are rare.. Ciprofloxacin, TABLE 47.3 Antibiotics for the Management of Cholera.Older Children and Adults = 500 mg twice daily for 3 days OR 1 g single dose. Ciprofloxacin, TABLE 47.3 Antibiotics for the Management of Cholera.Child* = 20 mg/kg body weight single dose. Ciprofloxacin, TABLE 47.3 Antibiotics for the Management of Cholera.Comments = Reduced susceptibility in Asia and Africa.
+
+============================================================
+CHUNK 17
+============================================================
+Prevention and Vaccines
+Trimethoprim/sulfamethoxazole, ampicillin, chloramphenicol, and furazolidone have previously been used for the treatment of cholera but are no longer preferred because of resistance patterns and side effect profiles.
+*Not to exceed adult dose.
+
+============================================================
+CHUNK 18
+============================================================
+Vibrio parahaemolyticus
+V.  parahaemolyticus is  the  most  commonly  isolated  non-cholera Vibrio .  Like V.  cholerae, it  is  found  in  marine  environments. V. parahaemolyticus causes gastroenteritis as a result of consumption of raw or partially cooked food, particularly seafood. V. parahaemolyticus accounts for a large proportion of food-borne illness in Japan, where consumption of seafood is common. The incubation period for V. parahaemolyticus ranges from 4 to 48 hours. Clinical illness tends to be mild, with gastroenteritis symptoms including nausea,  vomiting,  abdominal pain,  and diarrhea. The disease is usually  self-limiting.  Oral  rehydration  is  typically  adequate  for
+treatment, and tetracycline or cipro|oxacin can be administered in severe cases.
+
+============================================================
+CHUNK 19
+============================================================
+Vibrio vulnificus
+Vibrio species have been isolated from wounds exposed to seawater. V. vulniScus is a particularly important pathogen in Vibrio -associated soft tissue infections and sepsis. Immunocompromised individuals and those  with underlying  liver  disease  are especially prone  to septicemia with V. vulniScus. Thrombocytopenia and disseminated intravascular coagulation are common, along with characteristic bullous skin lesions. The mortality rate is greater than 50% if the infection is not promptly treated. T etracycline appears to be effective in conjunction with other supportive treatments. In severe infection, tissue debridement and amputation of the affected limb may be required.
+
+============================================================
+CHUNK 20
+============================================================
+REFERENCES
+1.  Sack  DA,  Sack  RB,  Nair  GB,  Siddique  AK.  Cholera.  Lancet 2004;363(9404):223-33.
+2.  Ali M, Lopez AL, You YA, et al. The global burden of cholera. Bull World Health Organ 2012;90(3):209-218A.
+3.  Chin  CS,  Sorenson  J,  Harris  JB,  et al.  The  origin  of  the  Haitian cholera outbreak strain. N Engl J Med 2011;364(1):33-42.
+4.  Harris JB, Larocque RC, Chowdhury F, et al. Susceptibility to Vibrio cholerae infection in a cohort of household contacts of patients with cholera in Bangladesh. PLoS Negl Trop Dis 2008;2(4):e221.
+5.  Colwell RR. Infectious disease and environment: cholera as a paradigm for waterborne disease. Int Microbiol 2004;7(4):285-9.
+6.  Nelson  EJ,  Harris  JB,  Morris  JG  Jr,  et al.  Cholera  transmission: the host, pathogen and bacteriophage dynamic. Nat Rev Microbiol 2009;7(10):693-702.
+7.  World Health Organization. The treatment of diarrhea: A manual for physicians and other senior health workers; 2005. 4th revision. World Health Organization, Geneva;WHO/FCH/CAH/05.1.
+8.  Guerrant RL, Carneiro-Filho BA, Dillingham RA. Cholera, diarrhea, and oral rehydration therapy: triumph and indictment. Clin Infect Dis 2003;37(3):398-405.
+9.  Roy  SK,  Hossain  MJ,  Khatun  W,  et al.  Zinc  supplementation  in children  with  cholera  in  Bangladesh:  randomised  controlled  trial. BMJ 2008;336(7638):266-8.
+10.  Leibovici-Weissman  Y,  Neuberger  A,  Bitterman  R,  et al.  Antimicrobial  drugs  for  treating  cholera.  Cochrane  Database  Syst  Rev 2014;6:CD008625.
+11.  Cholera vaccines: who position paper - august 2017. Wkly Epidemiol Rec 2017;92(34):477-98.
+
+============================================================
+CHUNK 21
+============================================================
+REFERENCES
+12. in an outbreak in Guinea. N Engl J Med 2014;370(22):2111-20.
+13.  Abubakar A, Azman AS, Rumunu J, et al. The {rst use of the global oral cholera vaccine emergency stockpile: lessons from South Sudan. PLoS Med 2015;12(11):e1001901.
+14.  World Health Organization. Ending Cholera - A Global Roadmap to  2030;  2017.  World  Health  Organization.  https://www.who.int/ cholera/publications/global-roadmap/en/ [Accessed 9 November 2017].
+15.  World Health Organization. The international pharmacopoeia. 4th ed. World Health Organization; 2008.
+

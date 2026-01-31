@@ -1,0 +1,265 @@
+============================================================
+CHUNK 0
+============================================================
+53
+
+============================================================
+CHUNK 1
+============================================================
+Key features
+- Syphilis is an ulcerative treponematosis transmitted through sexual contact caused by Treponema pallidum subsp. pallidum
+- Characterized at microscopic level by obliterative endarteritis
+- A triphasic natural history passing from primary ulcer (chancre) to a secondary stage dominated by &orid skin symptoms and a tertiary stage involving the cardiovascular and nervous systems
+- A major cause of abortion, stillbirth, and low birth weight in developing countries
+- Diagnosis is usually based on clinical recognition and serology
+- Treatment involves the use of penicillin
+- There is no commercially available vaccine
+- Non-venereal treponematoses respond to penicillin treatment and include yaws, pinta, and endemic syphilis
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+The treponematoses form an interesting group of infections caused by a group of closely related spirochetes found in humans and primates. At present, the bacteria responsible for the treponematoses are all  classified  as  subspecies  of Treponema  pallidum ;  commercially available serologic tests remain incapable of differentiating between venereal and non-venereal infections. Some authorities believe that venereal syphilis and the endemic treponematoses are essentially the same disease,  with  the  route  of  transmission  explaining  the  differences in epidemiology and clinical features. Nonetheless, the treponematoses  show  distinct differences in clinical features and  the propensity for visceral involvement and vertical transmission. Recent research points to small, but important, genetic differences and tissue tropisms  in  strains  associated  with  different  clinical  variants.  The Columbian hypothesis posits that syphilis was a new disease introduced to Europe from North America in 1493. A recent phylogenetic study has provided support for both hypotheses by showing a close similarity between sexually transmitted strains of T. pallidum worldwide and two strains obtained from cases of yaws in Guyana [1]. The findings of this study suggest the Old World treponematoses represent the earliest of the treponematoses, and that venereal syphilis evolved from American strains of yaws before being exported back to Europe (Fig.  53.1).  In  affluent  countries,  syphilis  is  predominantly  found among men who have sex with men and migrants from the tropics. In the tropics, it remains highly endemic in many countries, contributing significantly to fetal and neonatal morbidity and mortality, and challenging  physicians  with  a  notoriously  diverse  array  of  clinical presentations in adults.
+
+============================================================
+CHUNK 3
+============================================================
+EPIDEMIOLOGY
+Syphilis  is  found  throughout the  world (Fig.  53.2),  but  prevalence studies indicate marked distinctions between high- and low-income settings.  In  developing  countries,  a  prevalence  of  2-5%  is  often reported in pregnant women (Fig. 53.3) and even higher levels are often observed among female sex workers. Prevalence peaks at the age of greatest sexual activity, i.e. young adults. In high-income countries, syphilis  rates  are  notably  higher  in  white  Caucasian  males,  largely linked to homosexual behavior. Within individual countries, syphilis has shown marked fluctuations over time, with notable peaks occurring at times of war, in the period following the introduction of the oral contraceptive pill until the emergence of HIV and, most recently, following the fall in AIDS mortality that followed improvements in HIV treatment. There have been suggestions that syphilis fluctuates within populations over an 8-1 1-year cycle, correlating with the rises and falls of herd immunity.
+Among adults, syphilis usually presents with either a primary chancre, skin  lesions  of  secondary  syphilis  or  as  a  latent  infection  detected serologically  [2].  Presentations  with  neurologic  or  cardiovascular manifestations of tertiary syphilis (common prior to the introduction of  penicillin  treatment)  are  now  rarely  encountered,  although  an exception  could  be  made  for  the  early  development  of  neurologic involvement among HIV co-infected patients.
+Congenital  syphilis  remains  a significant  public  health  problem in settings where effective screening and treatment for syphilis in pregnancy are not implemented. This results in significant levels of fetal wastage, low birth weight, stillbirth, and congenital syphilis.
+Transmission of syphilis via blood transfusion is prevented by screening donated blood and storage at low temperature.
+
+============================================================
+CHUNK 4
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Treponema pallidum is remarkable for its ability to survive for extended periods in humans. Recent research suggests that the evasion of an effective immune response is attributable to a well-developed mechanism for antigenic variation in the face of immunologic attack. These events are believed to underlie the emergence of secondary syphilis shortly  after  the  clearance  of  bacteria  from  the primary  lesion  and similarly  in  the  transition  from  secondary  to  late  syphilis.  The  key pathologic feature of syphilis, observable at all stages, is an obliterative  endarteritis  and  periarteritis.  Depending  on  the  location,  the endarteritis  can engender  the  formation  of ulcers,  gummata,  aneurysms, and lesions of the nervous system.
+Syphilis is usually initiated when a susceptible individual is exposed to the spirochetes of a sexual partner. After 9-90 days of incubation, primary  lesions  develop-most  commonly  genital-but  lesions  of the mouth, breast, and anus are also well known. A clean, indurated, painless ulcer (termed the primary chancre), accompanied by local adenopathy constitutes the primary stage of infection. Cerebrospinal fluid (CSF) studies at this stage show the presence of spirochetes in
+n
+= number of nucleotide substitutions
+FIGURE 53.1 A network path for four informative substitutions shows that New World subsp. pertenue , or yaws-causing strains, are the closest relatives of modern subsp. pallidum strains. The geographical distribution of the endemic treponemal diseases c.1900 is shown based on a map created by Hackett. Each polymorphism pattern is linked to the sites where the strains that contain it were gathered. Arrows convey the directionality of change, determined from phylogenetic trees. The four substitutions were located in two genes located on separate sides of the genome, tprI and gpd . (Reproduced with permission from Harper KN, Ocampo PS, Steiner BM, et al. On the origin of the treponematoses: a phylogenetic approach. PLoS Negl Trop Dis 2008;2:e148.)
+FIGURE 53.2 Estimated new cases of syphilis among adults by region for 1999. Data from the World Health Organization.
+
+============================================================
+CHUNK 5
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+about 25% of patients, indicating rapid, early dissemination of infection. In the absence of treatment, the primary chancre usually heals spontaneously by 6 weeks. As a new generation of spirochetes evolves, syphilis moves into the secondary stage, during which skin manifestations  predominate,  including  widespread  rashes,  mucosal  lesions, and condylomata lata. Untreated, this phase can last up to 2 years, with alternating periods of activity and latency.
+The final, tertiary stage of syphilis is seldom encountered nowadays. Data from the famous Oslo natural history study suggest that latestage disease may take 10-30 years to emerge. The so-called 'benign'
+tertiary syphilis is characterized by gumma formation affecting skin, bone, or viscera. Cardiovascular syphilis shows a predilection for the ascending aorta, resulting in aneurysm formation and aortic incompetence. The attack of syphilis on the nervous system can take many forms.  The classic forms affect the spinal  cord (tabes  dorsalis) and brain  (general  paresis),  with  psychosis,  seizures,  and  dementia  as prominent  components,  and  the  eye  (optic  neuritis  and  ArgyllRobertson pupils).
+Untreated, syphilis in  pregnancy can  lead  to  a  combined fetal  and perinatal mortality of around 40%. The risk of vertical transmission
+FIGURE 53.3 Prevalence of syphilis among pregnant women  and  incidence  of  congenital  syphilis  per 1000 live births (lb) in countries of South America. BOL,  Bolivia;  COL,  Colombia;  PER,  Peru;  CHI,  Chile; PAR,  Paraguay;  BRA,  Brazil;  ELS,  El  Salvador;  HON, Honduras; PAN, Panama; CUB, Cuba.
+is highest during secondary syphilis, but can linger on into late syphilis. The natural history of congenital syphilis varies from a fulminating early infection leading to rapid death, to an indolent late presenting form, including keratitis, deafness, dental and nasal anomalies, and arthritis.
+
+============================================================
+CHUNK 6
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+It is important to stress that the natural history of syphilis shows much variation from person to person. Infection may terminate at any stage, and a significant number of persons acquire latent infection without manifesting any outward signs. Onward progression, particularly to late syphilis, occurs in a minority (about 30%) of untreated persons. Since the advent of HIV, is has become apparent that immunosuppression can alter clinical presentation, for instance in delaying resolution  of  chancres,  overlap  of  primary  and  secondary  stages,  and higher  frequency  and  earlier  presentation  of  neurosyphilis  and gumma formation.
+
+============================================================
+CHUNK 7
+============================================================
+CLINICAL FEATURES AADULTSB
+Among all diseases, syphilis has a unique reputation for a diversity of clinical manifestations affecting all organ systems of the body and an extraordinary ability to mimic a wide range of other conditions.
+An  important  distinction  is  made  between  early  syphilis  (primary, secondary and latent syphilis of less than 2 years' duration) and late syphilis (post-secondary or of unknown duration) because the singledose treatments recommended for early syphilis are not considered sufficient  for  later-stage  infection  where  organisms  are  believed  to have slower division times. Neurosyphilis can present early during the secondary phase or as a component of late syphilis.
+
+============================================================
+CHUNK 8
+============================================================
+PRIMARY SYPHILIS
+The most characteristic lesion (Fig. 53.4) is a painless, solitary, genital ulcer  of  up  to  3  centimeters  in  diameter  with  an  indurated  base accompanied by non-tender rubbery inguinal adenopathy. The classic locations are the distal penis or vulva, but lesions of the mouth, lips, fingers,  anus,  and  cervix  also  occur.  Occasionally,  more  than  one primary lesion is seen (notably in the presence of HIV) [3]. Extragenital chancres are more likely to be painful.
+
+============================================================
+CHUNK 9
+============================================================
+SECONDARY SYPHILIS
+A florid, non-pruritic, maculo-papular rash involving the trunk, palms (Fig. 53.5), and soles is characteristic. The morphology of the rash is highly variable. In moist skin folds, especially in the ano-genital area, broad-based  condylomata  lata  may  develop  (Fig.  53.6).  Mucosal lesions may be seen on the buccal mucosa ('snail-track ulcers') and genitalia. Non-specific systemic symptoms are common; among the wide array of rarer symptoms described are: patchy alopecia, uveitis, hepatitis, nephritis, gastritis, proctitis, and meningitis.
+FIGURE 53.4 Primary chancre of syphilis.
+FIGURE 53.5 Classic palmar rash of secondary syphilis.
+
+============================================================
+CHUNK 10
+============================================================
+Gummata ('benign' tertiary syphilis)
+The gumma is a necrotic mass lesion that may involve skin (causing ulceration), or bone, joints, cartilage, or viscera (mostly liver or heart) where it may mimic neoplasia.
+FIGURE 53.6 Condylomata lata of secondary syphilis.
+
+============================================================
+CHUNK 11
+============================================================
+BOX 53.1  Classic Features of Neurosyphilis
+Meningovascular syphilis:
+Headache
+Meningitis
+Hemiplegia
+Cranial palsies (especially oculomotor, auditory)
+Parenchymatous neurosyphilis and tabes dorsalis:
+Dementia
+Seizures
+Psychosis
+Argyll-Robinson pupils: irregular pupils, accommodation preserved, light reFexes lost
+Optic neuritis
+Paraesthesiae, lightning pains, ataxia in lower limbs
+Charcot joints
+Trophic ulcers of feet
+Paroxysmal visceral pain (tabetic crises)
+
+============================================================
+CHUNK 12
+============================================================
+Cardiovascular syphilis
+Syphilitic  endarteritis  involving  vasa  vasorum  of  the  aorta  leads  to aneurysm formation in the ascending aorta, aortic incompetence and cardiac  hypertrophy  ('cor  bovinum').  Treatment  of  patients  with syphilitic aortitis carries a risk of reactive coronary ostial occlusion.
+
+============================================================
+CHUNK 13
+============================================================
+NEUROSYPHILIS
+Features  of  neurosyphilis  are  listed  in  Box  53.1.  Meningovascular syphilis can develop in association with secondary syphilis.
+
+============================================================
+CHUNK 14
+============================================================
+CLINICAL FEATURES ACHILDREN AND NEONATESB
+The clinical spectrum encountered in congenital syphilis shows some notable departures from syphilis in adults. Many infections result in abortion, stillbirth, or hydrops fetalis. Infants born alive with severe infection show  low  birth weight, failure to  thrive,  and  multi-organ involvement,  including  hepatosplenomegaly,  rhinitis,  and  anemia.
+FIGURE  53.7 Severe  congenital  syphilis  in  a  neonate  showing  bullous lesions present from birth (photo courtesy of D. McGregor).
+Skin  lesions  may  display  an  atypical  bullous  character  (Fig.  53.7). More commonly, congenital syphilis presents some weeks after birth. Desquamating plantar and palmar lesions similar to those of adults are common. Painful periostitis presenting as 'pseudoparalysis' of a limb  may  develop.  Late  congenital  syphilis  is  rarely  encountered nowadays. The classic features are band keratitis, deafness, notched incisors, 'mulberry' molars, saddle-nose, and knee effusions.
+
+============================================================
+CHUNK 15
+============================================================
+HISTORY AND EXAMINATION
+A careful sexual history is required when syphilis is under diagnostic consideration to determine whether unprotected sexual exposure has occurred with a person at risk of having syphilis, or in a country where syphilis is prevalent. It is important to ascertain the dates of any prior positive  or  negative  serologic  testing  or  treatment  for  syphilis.  Any history of penicillin allergy should be noted. Examination should be thorough, taking in the ano-genital area with regional lymph nodes, and full examination of skin and mouth.
+
+============================================================
+CHUNK 16
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+The first consideration in syphilis diagnosis is whether there are any infectious lesions that could  be  sampled  for the presence of spirochetes. Such lesions might be primary chancres, condylomata lata, or enlarged lymph nodes. The best sample consists of 1-2 mL of serum expressed  from  the  lesion  with  minimal  blood  contamination.  A secure  diagnosis  requires  a  trained  technician  using  a  dark-ground microscope. A more sensitive (but more time-consuming) option is to  use  a  syphilis  PCR  test  on  lesion  material.  PCR  testing  is  more reliable for extragenital sites that can be colonized by non-treponemal spirochetes.  Serologic  testing  for  syphilis  is  recommended  for  all patients.  Confirming  a  diagnosis  of  syphilis  requires  combining  a specific treponemal antibody test (e.g. enzyme immunoassay, T. pallidum particle agglutination or chemiluminescent assay) with a cardiolipin (reagin)  test  which uses  the  antigen 'cardiolipin',  a normal constituent of mammalian cells. The treponemal test alone is insufficient to diagnose a new, active infection, as treponemal bodies are highly  persistent.  The  reagin  tests  (most  commonly  the  Venereal Disease  Research  Laboratory  test  [VDRL]  or  rapid  plasmin  reagin [RPR]) provide a useful marker of active early syphilis and are repeated following treatment to check for a decline in titer. All types of serologic tests can be negative in the earliest stages of primary infection or as a result of the prozone phenomenon, when high titer samples misleadingly test negative when not diluted. Repeat screening at 6 and 12 weeks should be considered after negative tests in patients with significant risks. For syphilis screening in pregnancy, a new generation of  rapid  treponemal immunoassays offers new scope for programs to  control  congenital  syphilis  in  developing  countries.  In  patients presenting with neurologic signs, brain imaging followed by evaluation  of  CSF  cytology  with  serologic  tests  performed  on  CSF  is
+
+============================================================
+CHUNK 17
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+recommended in order to determine whether an intensive neurosyphilis treatment regimen is indicated. Patients diagnosed as having late, latent  syphilis  are  advised  to  have  electrocardiography  (ECG)  and chest x-ray performed to exclude evidence of syphilitic aortitis, which carries potential hazards during treatment. It is recommended that all patients  diagnosed  with  syphilis  are  also  screened  for  co-infection with gonorrhea, chlamydia, and HIV.
+A definitive diagnosis of congenital syphilis requires demonstration of  spirochetes  within  lesions  or  a  positive  test  for  treponemal  IgM antibodies. Treponemal IgG antibodies may come from the mother and can only be considered significant if the titer is four or more times higher than in the mother. Infants testing positive should undergo further  assessment,  including  CSF  studies  and  x-rays  of  the  long bones. To minimize the risk of congenital syphilis, repeat testing or presumptive treatment should be considered.
+
+============================================================
+CHUNK 18
+============================================================
+DIFFERENTIAL DIAGNOSIS
+Primary syphilis needs to be distinguished from the other ulcerative STIs, namely herpes, chancroid, donovanosis, and lymphogranuloma venereum. Pointers to diagnosis are summarized in Table 53-1.
+Secondary syphilis on the trunk is mimicked most strongly by pityriasis  rosea.  The  palmar  and  plantar  lesions  may  resemble  a  pompholyx. The broad-based condylomata lata are liable to be confused with condylomata acuminata caused by human papilloma virus, particularly when these occur in the peri-anal area.
+Syphilis  has  a  certain  notoriety  for  presenting  in  unusual  or  unexpected ways. Good examples of this are syphilis presenting as deafness,  uveitis,  organic  psychosis,  gastritis,  hepatitis,  proctitis,  or  a cerebrovascular accident in a young person.
+
+============================================================
+CHUNK 19
+============================================================
+TREATMENT
+After many decades of use, penicillin remains the mainstay of syphilis treatment.  Resistance  to  penicillin  has  not  been  demonstrated, although  individual  instances  of  treatment  failure  are  not  uncommon. There have been many debates about how to optimize penicillin  treatment,  particularly  in  patients  with  neurologic  disease  and those co-infected with HIV. Nonetheless, a single dose of benzathine penicillin is suitable for early syphilis in the vast majority of patients and prevents adverse pregnancy outcomes caused by syphilis if given before 28 weeks' gestation [4]. Specific multidose regimens of penicillin are recommended for patients with late syphilis, neurosyphilis and congenital syphilis. Whenever treatment for syphilis is administered, patients  should  be  advised  about  the  likelihood  of  the  JarischHerxheimer reaction which causes flu-like symptoms and can aggravate  syphilis  lesions  for  around  24  hours.  Prednisolone  40-60 mg daily  for  3  days  starting  24  hours  prior  to  antibiotic  therapy  is sometimes used to ameliorate the reaction in patients with advanced pregnancy and those with eye or aortic involvement; however, steroid use  in  the  first  trimester  carries  risks  of  teratogenicity.  Benzathine penicillin is a painful injection and some clinicians co-administer the dose with 8 ml of 1% lidocaine. In patients with penicillin allergy, desensitization according to careful protocols is the preferred option in some centers. Doxycycline is the most favored alternative except for in pregnant women. Pregnant women with an allergy to penicillin can be desensitized to penicillin or receive treatment with erythromycin. There is now considerable treatment experience with erythromycin and azithromycin, but an important point mutation that causes full resistance to these drugs has recently emerged on such a significant scale that these drugs can no longer be recommended as a firstline treatment [5]. Patients with late syphilis are given more extended forms  of  treatment  as  spirochetes  are  believed  to  replicate  more slowly. Some experts argue in favor of adopting a similar approach for  any patients  co-infected with HIV. For further details of recommended treatments see Tables 53-2 and  53-3. Post-treatment
+
+============================================================
+CHUNK 20
+============================================================
+TREATMENT
+serologic follow-up should start at one month and continue until reagin titers have reverted to a negative or stable, low level. CSF examination is advised in patients failing to respond to treatment.
+
+============================================================
+CHUNK 21
+============================================================
+INTRODUCTION
+The endemic treponematoses are caused by T. pallidum transmitted by non-sexual contact, mainly between children living in poor hygienic conditions. The epidemiology and clinical features depend on geography,  with yaws being found in hot humid climates and endemic syphilis in dry climates. Pinta, a milder disease, has been described among indigenous people in the Amazon region and Central America [6]. Yaws is caused by T. pallidum subsp. pertenue , endemic syphilis is caused by T. pallidum subsp . endemicum and pinta is caused by T. pallidum subsp. carateum ;  however,  few  isolates  of  these  have  been obtained and it is not clear that they are distinct subspecies.
+
+============================================================
+CHUNK 22
+============================================================
+EPIDEMIOLOGY
+Between 1952 and 1964, the treponematoses control program of the World  Health  Organization  (WHO)  treated  more  than  50  million people in 46 tropical countries with penicillin for endemic treponematoses, reducing the overall disease prevalence by more than 95%. Since the 1960s, when surveillance and treatment were discontinued, there has been a resurgence of yaws in a number of countries in Africa, Asia and South America [7]. The WHO estimates that there are currently 2.5 million cases of yaws and endemic syphilis, of which almost 500,000 are infectious. Most cases of yaws are in West and Central
+TABLE 53-1, 1 = DiHerential Diagnosis of Genital Ulcer. TABLE 53-1, 2 = . TABLE 53-1, 3 = . Infection, 1 = Ulcer characteristics. Infection, 2 = Pattern of regional node involvement. Infection, 3 = Other clinical clues to diagnosis. Syphilis, 1 = Painless, usually solitary, 3 mm-3 cms, induration. Syphilis, 2 = Painless, Grm, rubbery nodes. Syphilis, 3 = Features of secondary syphilis may be apparent. Chancroid, 1 = Usually painful, purulent with undermined edge, often multiple lesions. Chancroid, 2 = Tender nodes, inguinal abscess formation. Chancroid, 3 = Rare outside of areas where these infections remain endemic. Donovanosis, 1 = Hypertrophic granulomatous lesions common. Donovanosis, 2 = Ulceration of skin overlying node is common. Donovanosis, 3 = . Lymphogranuloma venereum, 1 = Small, transient ulcer with nonspeciGc appearance. Lymphogranuloma venereum, 2 = Large, tender nodes, sometimes sinus formation. Lymphogranuloma venereum, 3 = Systemic symptoms common. Herpes simplex virus (HSV), 1 = Multiple small, superGcial, painful, itchy ulcers. Herpes simplex virus (HSV), 2 = Small tender nodes. Herpes simplex virus (HSV), 3 = Systemic symptoms with primary episode, history of prior episodes with recurrent disease
+
+TABLE 53-2 Antibiotics Recommended for Treatment of Syphilis in Adults
+
+============================================================
+CHUNK 23
+============================================================
+EPIDEMIOLOGY
+Early syphilis including HIV co-infected patients, epidemiologic treatment, Recommendation = Benzathine penicillin 2.4 megaunits IM single dose. Early syphilis including HIV co-infected patients, epidemiologic treatment, Strength of evidence (key to grades: see Table 53-4) = Ib. Early syphilis including HIV co-infected patients, epidemiologic treatment, Notes = Co-administration with 1% lidocaine may relieve pain. Alternative regimes use amoxycillin or procaine penicillin.. Early syphilis including HIV co-infected patients, epidemiologic treatment, Recommendation = Doxycycline 100 mg twice by mouth for 14 days. Early syphilis including HIV co-infected patients, epidemiologic treatment, Strength of evidence (key to grades: see Table 53-4) = III. Early syphilis including HIV co-infected patients, epidemiologic treatment, Notes = Used when allergy to penicillin or injection not feasible. Early syphilis including HIV co-infected patients, epidemiologic treatment, Recommendation = Azithromycin 2 g single dose. Early syphilis including HIV co-infected patients, epidemiologic treatment, Strength of evidence (key to grades: see Table 53-4) = Ib. Early syphilis including HIV co-infected patients, epidemiologic treatment, Notes = Resistance identiGed in some regions. Late syphilis, Recommendation = Benzathine penicillin 2.4 megaunits IM weekly x 3. Late syphilis, Strength of evidence (key to grades: see Table 53-4) = III. Late syphilis, Notes = . Late syphilis, Recommendation = Doxycycline 100 mg twice by mouth for 28 days. Late syphilis, Strength of evidence (key to grades: see Table 53-4) = IV. Late syphilis, Notes = . Neurosyphilis, Recommendation = Procaine penicillin 1.8-2.4 MU IM plus probenecid 500 mg four times daily for 17 days. Neurosyphilis, Strength of evidence (key to grades: see Table 53-4) = III. Neurosyphilis, Notes = . Neurosyphilis, Recommendation = Doxycycline 200 mg twice by
+
+============================================================
+CHUNK 24
+============================================================
+EPIDEMIOLOGY
+mouth for 28 days. Neurosyphilis, Strength of evidence (key to grades: see Table 53-4) = III. Neurosyphilis, Notes = . Syphilis in pregnancy, Recommendation = Benzathine penicillin 2.4 megaunits IM single dose. Syphilis in pregnancy, Strength of evidence (key to grades: see Table 53-4) = II. Syphilis in pregnancy, Notes = A second dose may be given if patient is in the third trimester. Fetal monitoring advised if treatment is given after 26 weeks gestation.. Syphilis in pregnancy, Recommendation = Erythromycin 500 mg four times daily for 14 days. Syphilis in pregnancy, Strength of evidence (key to grades: see Table 53-4) = III. Syphilis in pregnancy, Notes = Inferior to penicillin in crossing placenta and blood brain barrier. Treatment of neonate with penicillin recommended.
+Note: this is an abbreviated summary. For fuller recommendations readers should consult STI treatment guidelines, such as those published by Centers for Disease Control and Prevention or by the British Assocation for Sexual Health and HIV.
+TABLE 53-3 Treatment of Congenital Syphilis and Infants Born to Mothers with Syphilis
+
+Congenital syphilis, Treatment = Procaine penicillin 50,000 units/kg IM for 10 days Benzyl penicillin sodium 100,000-150,000 units/ kg daily i.v. (in divided doses given as 50,000 units/kg 12-hourly in the Grst 7 days of life and 8-hourly thereafter ) over 10 days. Congenital syphilis, Strength of evidence (see Table 53-4) = III III. Congenital syphilis, Notes = These regimes are targeted against CNS involvement; less intensive treatments may suIce for mild disease. Infants born to mother's treated for syphilis in last trimester or with non-penicillin regimens, Treatment = Benzathine penicillin 50,000 units/kg IM. Infants born to mother's treated for syphilis in last trimester or with non-penicillin regimens, Strength of evidence (see Table 53-4) = . Infants born to mother's treated for syphilis in last trimester or with non-penicillin regimens, Notes = May be administered to any infant where congenital syphilis has not been diagnosed but where risk is considered high
+
+============================================================
+CHUNK 25
+============================================================
+EPIDEMIOLOGY
+Africa, Indonesia, Papua New Guinea, and Timor L'Este, with smaller foci in Central and South America.
+
+============================================================
+CHUNK 26
+============================================================
+CLINICAL FEATURES
+Clinical  features  of  endemic  treponematoses  can  be  divided  into primary, secondary, and tertiary stages, as with venereal syphilis, but congenital infection rarely, if ever, occurs.
+
+============================================================
+CHUNK 27
+============================================================
+Yaws
+The primary lesion starts as a papule at the site of inoculation, usually on the foot, leg, or buttocks. This enlarges to form a papilloma, which is typically painless, may ulcerate and persists for 3-6 months; there may be regional  lymphadenopathy. Secondary lesions  may  appear before the primary lesion has resolved, or up to 2 years later. They consist of papules and papillomas that exude highly infectious serum, a variety of squamous macular lesions and hyperkeratotic lesions on the palms and soles. The clinical appearance varies by season, with lesions being less profuse during the dry season and more likely to be restricted to moist areas such as the axillae or perineum. Early bone lesions, such  as  painful  osteo-periostitis affecting the arms,  legs, or fingers may occur at this stage. Secondary lesions resolve spontaneously over a period of weeks or months, but relapses may occur.
+Tertiary lesions (gummas) appear in about 10% of cases after a period of latency, involving the skin, subcutaneous tissues (e.g. palmoplantar hyperkeratosis), bones, and joints. Involvement of the facial bones may lead  to  swelling  and  destruction  of  the  nose  and  palate,  and chronic osteitis of the tibia may lead to characteristic curvature (sabre tibia). De-pigmentation of the skin, especially affecting the hands, is
+TABLE 53-4 Key to Levels of Evidence for Treatments
+
+Ia, Type of evidence = Evidence from meta-analysis of randomized controlled trials. Ib, Type of evidence = Evidence from at least one randomized controlled trial. IIa, Type of evidence = Evidence from at least one controlled study without randomization. IIb, Type of evidence = Evidence from at least one other type of quasi- experimental study. III, Type of evidence = Evidence from non-experimental descriptive studies, such as comparative studies, correlation studies and case-control studies. IV, Type of evidence = Evidence from expert committee reports or opinions and/or clinical experience of respected authorities
+another characteristic late feature of yaws. There is some evidence that late yaws may cause aortitis and lesions of the central nervous system (CNS) [8].
+
+============================================================
+CHUNK 28
+============================================================
+Yaws
+Clinically milder forms of yaws (attenuated yaws) have been described in  areas  of  reduced  transmission.  Secondary  lesions  are  fewer  and smaller, and resolve more rapidly. Subclinical infection is common in yaws-endemic communities.
+
+============================================================
+CHUNK 29
+============================================================
+Endemic syphilis
+Primary lesions are rarely seen, but may be seen on the lips. Secondary lesions of the skin and mucous membranes resemble those seen in venereal  syphilis,  and  bone  involvement  may  be  seen,  as  in  yaws. Tertiary lesions are similar to those of yaws, predominantly affecting the skin and bones.
+
+============================================================
+CHUNK 30
+============================================================
+Pinta
+Primary lesions are papules or squamous plaques that enlarge over a period of weeks or months and become hypopigmented at the center. There may be regional lymphadenopathy. Secondary lesions, which appear  months  or  years  later,  are  scaly  papules  that  enlarge  and coalesce to  form psoriasiform plaques ('pintids') that may last for months or years, leaving characteristic hypopigmented scars. The late stage of pinta only involves the skin.
+
+============================================================
+CHUNK 31
+============================================================
+DIAGNOSIS
+The clinical  features  of  endemic treponematoses resemble those of venereal syphilis; the diseases can be impossible to distinguish clinically or microbiologically in endemic communities. Treponema pallidum can be found by dark-field microscopy in serum from primary or secondary lesions; both treponemal and non-treponemal serologic tests are positive after the early primary stage in all the treponemal diseases.
+
+============================================================
+CHUNK 32
+============================================================
+TREATMENT
+Benzathine penicillin by intramuscular injection remains highly effective, as in venereal syphilis. A total of 2.4 million units are given as a single dose to adults, and 1.2 million units to children under 10 years of age. Because of the high prevalence of latent infection, mass treatment has been used to control yaws in communities where the prevalence exceeds 10% and selective mass treatment (patients and their household contacts) where the prevalence is lower. Doxycycline (as for venereal syphilis) is also effective.
+
+============================================================
+CHUNK 33
+============================================================
+REFERENCES
+1. Harper KN, Ocampo PS, Steiner BM, et al. On the origin of the treponematoses: a phylogenetic approach. PLoS Negl Trop Dis 2008;2:e148.
+2. Singh AE, Romanowski B. Syphilis: review with emphasis on clinical, epidemiologic and some biological features. Clin Microb Rev 1999;12:187-209.
+3. Rompalo AM, Joesoef MR, O'Donnell JA, et al. Clinical manifestations of early syphilis by HIV status and gender. Sex Transm Dis 2001;28:158-65.
+4. Watson-Jones D, Gumodoka B, Weiss H, et al. Syphilis in pregnancy in Tanzania.  II.  The  effectiveness  of  antenatal  syphilis  screening  and  single-dose benzathine penicillin treatment for the prevention of adverse pregnancy outcomes. J Infect Dis 2002;186:948-57.
+5. Lukehart SA, Codornes C, Molini BJ, et al. Macrolide resistance in Treponema pallidum in the United States and Ireland. New Engl J Med 2004;351:154-8.
+6. Antal GM, Lukehart SA, Meheus AZ. The endemic treponematoses. Microbes Infect 2002;4:83-94.
+7. Gerstl S, Kiwila G, Dhorda M, et al. Prevalence study of yaws in the Democratic Republic of Congo using the lot quality assurance sampling method. PLoS One 2009;4:e6338.
+8. Roman GC,  Roman LN. Occurrence  of  congenital,  cardiovascular,  visceral, neurologic and neuro-ophthalmologic complications in late yaws: a theme for future research. Rev Infect Dis 1986;8:760-70.
+

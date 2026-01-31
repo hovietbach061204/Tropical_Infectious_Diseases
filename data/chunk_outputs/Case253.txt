@@ -1,0 +1,236 @@
+============================================================
+CHUNK 0
+============================================================
+KEY FEATURES
+- morbidity and mortality.
+- invasive diarrhea, or persistent diarrhea.
+- to make a speci{c etiologic diagnosis to provide appropriate management of diarrheal illness.
+- diarrhea. Oral rehydration solution (ORS) is the preferred mode of |uid therapy in most cases.
+- antibiotics in selected instances and dietary interventions and micro-nutrient supplementation in children to prevent and/or treat malnutrition.
+- conditions is an important part of the approach to the patient presenting with diarrheal illness.
+
+============================================================
+CHUNK 1
+============================================================
+KEY SYNDROMES
+Diarrheal disease is an important cause of morbidity globally, with approximately 2 billion episodes and an estimated 1 million deaths worldwide per year. 1 Furthermore, diarrheal disease is the second most common infectious cause of death worldwide. 2 In children under 5 years of age, diarrheal disease is a particularly important cause of death, and most deaths occur in resource-poor areas. 3,4 Diarrheal disease is also associated with malnutrition, which may cause irreversible de{cits in physical and cognitive development and is the cause of hundreds of thousands of deaths annually. 5
+Diarrhea is de{ned as the passage of loose or watery stools at least three times in a 24-hour period. Diarrheal illness is classi{ed as acute watery diarrhea, invasive diarrhea, or persistent diarrhea. This  classi{cation  scheme  re|ects  differences  in  the  etiology, pathogenesis, and management of each type of diarrheal illness.
+
+============================================================
+CHUNK 2
+============================================================
+Acute Watery Diarrhea
+Infectious  agents  are  the  most  common  cause  of  acute  watery diarrhea. In most cases of acute watery diarrhea, it is not necessary to identify a speci{c microbiologic diagnosis and antibiotics are not  indicated.  An  exception  to  this  is Vibrio  cholerae infection (Chapter  47),  which  often  occurs  in  epidemics.  It  is  useful  to distinguish cholera from other causes of acute watery diarrhea, as patients with severe cholera have rapid |uid losses and bene{t from antibiotic therapy. The diagnosis of cholera is suggested by vomiting and by the passage of voluminous watery diarrhea, which may have a characteristic 'rice-water stool.' Cholera should be suspected when otherwise healthy children over 5 years or adults die of watery diarrhea. Although numerous other pathogens also cause  acute  watery  diarrhea,  the  most  common  etiologies  are
+Ana A. Weil, Jason B. Harris, Regina C. LaRocque rotavirus  in  infants  and enterotoxigenic Escherichia coli (ETEC) in older children and adults. There is increasing recognition of the role of norovirus and other viruses as a major cause of epidemic, and sporadic, acute watery diarrhea in adults and children.
+Although acute watery diarrhea is most often caused by infection of the gastrointestinal tract, other systemic illnesses common in developing countries are also associated with acute watery diarrhea. Systemic viral infections associated with diarrhea include in|uenza, measles, dengue fever, and Ebola. Bacterial infections associated with diarrhea include urinary tract infection, sepsis, pneumonia, and meningitis. Patients with malaria can present with diarrhea. Surgical emergencies, such as intussusception or appendicitis, may also  present  with  diarrhea.  For  these  reasons,  the  presence  of acute watery diarrhea is not suf{cient clinical evidence to exclude other  potentially  life-threatening  infections,  and  a  history  and complete physical examination should be performed on all patients presenting with diarrhea.
+
+============================================================
+CHUNK 3
+============================================================
+Invasive Diarrhea
+Invasive diarrhea, or dysentery, is suggested by the presence of blood in stool. Invasive diarrhea is most often the result of in|ammation of the small bowel or colon in response to invasive bacterial infection or amebiasis. In invasive diarrhea, the stool also typically contains visible mucus. Fecal leukocytes are usually detectable by direct microscopy. Fever usually accompanies invasive diarrhea, also resulting from the pronounced mucosal in|ammatory response.
+Worldwide, Shigella species are the most important bacterial pathogens causing invasive diarrhea (Chapter 48). Shigella Rexneri is the predominant species causing invasive diarrhea in children in resource-limited settings. 6 Shigella dysenteriae serotype 1 (Sd1) is responsible for epidemic dysentery and is the most virulent of the four Shigella species. In addition to the frequent passage of small liquid stools that contain visible blood, abdominal cramps and tenesmus are common in shigellosis. Shigellosis cannot be distinguished  reliably  from  other  causes  of  bloody  diarrhea  on the basis  of  clinical  features  alone.  Other  etiologies  of  invasive diarrhea  include Salmonella  enterica , Campylobacter spp., Yersinia enterocolitica , enterohemorrhagic E. coli , enteroinvasive E. coli , and the protozoan parasite Entamoeba histolytica . Enterohemorrhagic E.  coli may  cause  epidemics of  bloody diarrhea, similar  to Sd1. Patients with enterohemorrhagic E. coli infection often have low, or absent, fever, whereas patients with shigellosis are usually febrile. The distinction is important because administration of antibiotics to patients with shigellosis is bene{cial, whereas administration of antibiotics to patients with enterohemorrhagic E. coli infections is not bene{cial and markedly increases the risk of complications and renal failure.
+
+============================================================
+CHUNK 4
+============================================================
+Multiple Pathogens
+Two large, longitudinal multi-center studies in resource-limited areas endemic for diarrheal disease revealed that multiple pathogens are readily found in the stool of both symptomatic and asymptomatic children using culture and other gold-standard traditional diagnostic tests. 7,8 Therefore  identifying  a  speci{c  causative  pathogen  in children with acute diarrheal disease in resource-limited settings
+can be challenging. Multiplexed assays that allow common etiologies to be evaluated simultaneously have been employed to capture a more complete understanding of the causes of diarrheal disease in these populations, and quanti{cation of pathogen burden with molecular  methods  has  led  to  more  con{dence  in  attributing symptoms to speci{c pathogens in a given situation. In a re-analysis of data from a large study of diarrheal disease in children using these more sensitive nucleic acid-based detection methods, even more pathogens were identi{ed in case and control stools. The six pathogens most often attributed to symptomatic disease and accounting for 78% of disease in children in such resource-limited areas were Shigella ,  rotavirus, adenovirus 40/41, ETEC, Cryptosporidium spp., and Campylobacter spp. 9 Due to the complex nature of identifying the culprit pathogen in diarrheal disease in resourcelimited  settings,  treatment  remains  empiric  and  directed  at hydration for acute watery diarrhea and antibiotics for invasive diarrhea.
+
+============================================================
+CHUNK 5
+============================================================
+Persistent Diarrhea
+Diarrhea lasting longer than 2 to 4 weeks is classi{ed as persistent diarrhea. There are several possible causes of persistent diarrhea. Certain pathogens, including enteroaggregative E. coli or Cryptosporidium hominis/parvum, are associated with persistent diarrhea. Serial stool cultures in children with persistent diarrhea have shown that  sequential  infections  may  be  responsible  for  prolonged symptoms. Persistent diarrhea may also be triggered by an episode of acute gastroenteritis, and diarrhea is then perpetuated by an inability to restore normal resorptive capacity after intestinal barrier disruption. These mechanisms are not exclusive and may co-exist, especially in persons with impaired immunity and malnutrition. 10 For these reasons, persistent diarrhea should also raise suspicion for underlying HIV infection.
+
+============================================================
+CHUNK 6
+============================================================
+CLINICAL EVALUATION
+The evaluation of individuals with acute diarrheal disease should include  a  careful  history  and  physical  examination,  as  well  as classi{cation  of  the  diarrheal  illness  as  acute  watery  diarrhea, invasive  diarrhea,  or  persistent  diarrhea. The  determination  of hydration status provides essential information about the severity of the diarrheal illness and the need for rapid therapy and can be performed based on clinical features. In children, an assessment of  nutritional  status  and  evaluation  for  concomitant  illness  are also essential.
+
+============================================================
+CHUNK 7
+============================================================
+Assessment of Dehydration
+Dehydration is the most important cause of mortality in patients with acute watery diarrhea, but may also contribute to mortality in  patients  with  invasive  and  persistent  diarrhea.  Therefore  an initial assessment of the degree of dehydration, as well as a rapid estimate of ongoing |uid losses, is essential in the evaluation of any patient presenting with diarrhea. T o estimate the initial hydration status, it is always necessary to use a combination of clinical signs  and  symptoms,  because  no  single  sign  or  symptom  is suf{ciently  predictive  of  hydration  status.  The  World  Health Organization  (WHO)  recommends assessment  of  four  clinical signs to estimate the degree of dehydration in children and adults (Fig. 22.1). 11
+
+============================================================
+CHUNK 8
+============================================================
+Assessment of Nutritional Status
+Identi{cation of malnutrition is important in the management of diarrheal illness, especially in children. In children with diarrhea and  severe  malnutrition,  rehydration  therapy  can  lead  to  the development of |uid overload and heart failure. Diarrhea is also associated with vitamin A de{ciency. For these reasons, children presenting with diarrhea in developing countries should be assessed for  clinical  signs  of  protein-energy malnutrition  and vitamin A de{ciency according to WHO standards and should be managed accordingly.
+
+============================================================
+CHUNK 9
+============================================================
+Evaluation for Concomitant Illness
+Children with acute diarrhea, particularly those with malnutrition, should also be assessed for evidence of co-existing infections. Fever is a common presenting feature in patients with invasive diarrhea, but the presence of fever in a patient with acute watery diarrhea should increase suspicion for a co-existing infection. In particular, malaria should be considered in endemic areas.
+Concomitant pneumonia is an important cause of mortality in patients presenting with diarrheal illness. T achypnea is a common {nding in patients with some dehydration (5%-9% percent body weight), but the presence of cough, fever, crackles on chest auscultation,  or  persistent  tachypnea  after  rehydration  therapy  should raise suspicion for pneumonia. Therefore patients presenting with dehydration should be re-evaluated for the presence of pneumonia after rehydration.
+Irritability  is  a  common  {nding  in  moderate  dehydration, whereas  lethargy  and  coma  are  seen  in  severe  dehydration. Encephalopathy is an important complication of shigellosis and may also be seen in systemic Salmonella infections. The differential diagnosis of seizures in a child with diarrhea includes hypoglycemia, hypo- or hypernatremia, encephalopathy, central nervous system (CNS) infection, and febrile seizures. Consideration of a diagnosis of  meningitis  in  children,  especially  infants,  in  whom  typical meningeal signs are often absent, is warranted if there are seizures or abnormal neurologic {ndings on examination.
+
+============================================================
+CHUNK 10
+============================================================
+LABORATORY INVESTIGATIONS
+For most patients  with diarrheal  illness, laboratory  studies and other investigations are not necessary. However, in complex cases, additional studies may be useful. In settings where microbiology laboratory resources are available but limited, they can be utilized judiciously  for  surveillance  to  detect  changing  patterns  in  the etiology  of  diarrheal  illness.  Bacterial  cultures  and  antibiotic susceptibility testing in cases  of severe invasive  diarrhea and in cases that do not respond to empiric antibiotic therapy are also an appropriate use of limited microbiology laboratory resources. Additionally,  nucleic  acid  ampli{cation  testing  and  shiga  toxin immunoassays are recommended rapid methods of detection for shiga toxin-producing E. coli strains. Suspected E. histolytica and Giardia  lamblia can  be  detected  with  species-speci{c  enzyme immunoassays. 12 Multiplex polymerase chain reaction detection of multiple stool pathogens has also been developed and has begun to be used in some clinical settings with laboratory capacity.
+
+============================================================
+CHUNK 11
+============================================================
+Investigations in Acute Watery Diarrhea
+Acute watery diarrhea is most often managed without any laboratory investigations. Assessing  the  degree  of  dehydration  is  a  critical component of the evaluation of patients with diarrhea and can be performed using clinical parameters (see later). Serum and urine indices of dehydration do not provide additional predictive value beyond  the  clinical  examination. 13 Similarly,  determining  the microbiologic etiology of acute watery diarrhea is usually unnecessary. Vibrio cholerae infection is an exception, because patients with cholera  may  bene{t  from  antibiotic  therapy  and  because  the diagnosis  of  cholera  has  public  health  implications.  Cholera  is de{nitively diagnosed based on bacterial culture using selective media; however, in countries where the disease is endemic, it can be diagnosed primarily on clinical grounds (see Chapter 47). A presumptive diagnosis of cholera can also be made using a rapid test  (Crystal VC,  Span  Diagnostics),  which  has  a  sensitivity  of
+Fig. 22.1 WHO-based approaches to the assessment and management of dehydration. Parentheses indicate percentage of body weight lost.
+over 95%, but a speci{city between 65% and 85% in {eld trials. The presence of motile Vibrios, which appear as 'shooting stars' on dark-{eld microscopic evaluation of stool, is a speci{c but less sensitive diagnostic test.
+When concomitant illnesses or life-threatening complications are suspected, the laboratory provides a useful adjunct to clinical evaluation and empiric therapy. Patients with seizures or altered consciousness should have a bedside glucose test and an assessment for electrolyte disturbances. Appropriate laboratory investigations are  warranted  for  children  with  suspected  systemic  infections such  as  pneumonia,  sepsis,  meningitis,  urinary  tract  infection, or malaria.
+
+============================================================
+CHUNK 12
+============================================================
+Investigations in Invasive Diarrhea
+The diagnosis  of  invasive  diarrhea  is  made  by  the  presence  of blood and/or leukocytes in the stool. Direct microscopic examination of the stool, where available, is inexpensive and should support the  clinical  diagnosis  by  demonstrating  abundant  erythrocytes and polymorphonuclear cells in the stool. Most cases of invasive diarrhea in developing countries are caused by Shigella spp., and empiric antibiotics targeting Shigella spp. are warranted for invasive diarrhea.  However,  failure  to  improve  within  48  hours  should prompt consideration of performing a microbiologic analysis of stool, including susceptibility pro{les. Direct microscopy is also appropriate in such circumstances to evaluate for trophozoites of E. histolytica (Chapter 94), which warrants speci{c treatment for amebic dysentery.
+
+============================================================
+CHUNK 13
+============================================================
+Investigations in Persistent Diarrhea
+As with other categories of diarrheal illness, the identi{cation of speci{c etiologic agents is not essential for the management of persistent diarrhea, as most cases will respond to empiric management.  However,  because  of  the  associations  between  persistent diarrhea,  malnutrition,  HIV  infection,  and  bacterial  infections, patients presenting with persistent diarrhea should be evaluated for pneumonia, sepsis, and other non-intestinal infections. Patients with unexplained persistent diarrhea should be tested for HIV .
+
+============================================================
+CHUNK 14
+============================================================
+MANAGEMENT AND OUTCOMES
+Treatment  of  diarrheal  illness  involves  rehydration,  the  use  of antibiotics  in  selected  instances,  and  nutritional  interventions, including micro-nutrient supplementation in children. The WHO provides  guidelines  for  the  management  of  diarrheal  illness  in developing  countries  in The Treatment  of  Diarrhoea: A  Manual for Physicians and Other Senior Health Workers 11 and through the
+
+TABLE 22.1 Composition of Diarrheal Stool and Rehydration Solutions (mmol/L)
+
+============================================================
+CHUNK 15
+============================================================
+MANAGEMENT AND OUTCOMES
+Losses in stool, Solution = Cholera stool-adult. Losses in stool, Na + = 135. Losses in stool, K + = 15. Losses in stool, Cl - = 100. Losses in stool, Base.HCO 3 - = 45. Losses in stool, Base.Citrate = -. Losses in stool, Glucose/.Carbohydrate = -. , Solution = Cholera stool-child. , Na + = 105. , K + = 25. , Cl - = 30. , Base.HCO 3 - = 30. , Base.Citrate = -. , Glucose/.Carbohydrate = -. , Solution = Non-cholera stool-child. , Na + = 52. , K + = 25. , Cl - = 14. , Base.HCO 3 - = 14. , Base.Citrate = -. , Glucose/.Carbohydrate = -. Oral rehydration solutions, Solution = Standard ORS. Oral rehydration solutions, Na + = 90. Oral rehydration solutions, K + = 20. Oral rehydration solutions, Cl - = 80. Oral rehydration solutions, Base.HCO 3 - = -. Oral rehydration solutions, Base.Citrate = 10. Oral rehydration solutions, Glucose/.Carbohydrate = 111. , Solution = Hypo-osmolar ORS*. , Na + = 75. , K + = 20. , Cl - = 65. , Base.HCO 3 - = -. , Base.Citrate = 10. , Glucose/.Carbohydrate = 75. , Solution = ReSoMal**. , Na + = 45. , K + = 40. , Cl - = 76. , Base.HCO 3 - = -. , Base.Citrate = 7. , Glucose/.Carbohydrate = 125. Intravenous, Solution = Ringer's lactate. Intravenous, Na + = 130. Intravenous, K + = 4. Intravenous, Cl - = 111. Intravenous, Base.HCO 3 - = 28. Intravenous, Base.Citrate = -. Intravenous, Glucose/.Carbohydrate = -. fluids, Solution = Normal saline. fluids, Na + = 154. fluids,
+
+============================================================
+CHUNK 16
+============================================================
+MANAGEMENT AND OUTCOMES
+K + = -. fluids, Cl - = 154. fluids, Base.HCO 3 - = -. fluids, Base.Citrate = -. fluids, Glucose/.Carbohydrate = -
+- *Appropriate for rehydration of infants, children, and adults with diarrhea.
+**See Box 22.1.
+
+============================================================
+CHUNK 17
+============================================================
+BOX 22.1 Approach to Rehydration in the Severely Malnourished Child
+- based on the standard WHO clinical criteria is altered. For example, the lack of subcutaneous fat, the presence of edema, and the presence of baseline apathy interfere with assessment of skin turgor and mental status as indicators of dehydration and intravascular volume.
+- urine output are all signs that suggest poor perfusion and indicate that additional fluids are needed to replace intravascular volume losses secondary to dehydration and/or sepsis.
+- approached cautiously because of the risks of fluid overload, hypernatremia, and hypokalemia.
+- composition (ReSoMal-see Table 22.1) and should be given slowly as 70 to 100 mL/kg over 12 hours.
+- malnourished patients in the setting of overt shock.
+Cholera  Outbreak  Training  and  Shigellosis  Program  (http:// www.cotsprogram.com/).
+
+============================================================
+CHUNK 18
+============================================================
+Rehydration
+The goal of rehydration therapy is to replace water and electrolytes lost  in  stool  and  vomitus  (see  Fig.  22.1  and  T able  22.1).  Oral rehydration solution (ORS)-a mixture of water, salts, and glucose administered by mouth-is the preferred mode of replacing these losses. Because |uid loss in acute watery diarrhea can be isonatremic, hyponatremic, or hypernatremic, an advantage of correcting sodium imbalances  with  ORS  is  that  the  correction  occurs  relatively gradually, reducing the risk of neurologic complications that can occur with rapid shifts in osmolarity. Stool potassium losses commonly lead to hypokalemia, which is an important proximate cause of death among patients who die after rehydration therapy. Standard ORS contains more potassium than standard isotonic intravenous |uids,  which  is  another  advantage  of  oral  rehydration.  Hypoosmolar ORS is inexpensive and widely available in developing countries. In rare cases where ORS packets are not available, an acceptable  solution  can  be  prepared  with  6  level  teaspoons  of sugar and 1 2 level  teaspoon of table salt dissolved in 1 liter of safe water. Of note, patients with severe malnutrition require a distinct approach to rehydration (Box 22.1). Rehydration is divided into replacement and maintenance phases.
+
+============================================================
+CHUNK 19
+============================================================
+Replacement Phase
+The goal of the replacement phase is to rapidly correct the initial estimated |uid and electrolyte de{cit. Patients without signs of dehydration  do  not  require  a  speci{c  replacement  phase.  In patients with signs of some dehydration (5%-10%) the patient should be kept under observation and |uid replacement should be  continued  until  all  signs  of  dehydration  have  resolved  and the patient  urinates.  Optimally,  this  is  achieved  within  4  hours of initiating therapy with ORS. However, 2% to 5% of patients presenting with some dehydration do not improve with ORS and have persistent signs of dehydration or progress to more severe dehydration ( > 10%). 14 Failure of oral rehydration may be secondary to profound vomiting (more than twice an hour) or massive ongoing stool losses (more than 10 mL/kg/hour), signs indicative of severe cholera.
+Patients with severe dehydration or hypovolemic shock should be treated emergently with isotonic intravenous |uids whenever possible. Ringer's lactate is the preferred |uid in most instances, but  normal  saline  is  an  acceptable  alternative.  Blood  products, colloids, and hypotonic |uids should never be used for rehydration therapy. ORS should be initiated in addition to intravenous |uids as  soon  as  the  patient  can  drink,  as  isotonic  intravenous  |uid solutions primarily replace water and sodium, but do not replace glucose, potassium, or other electrolyte losses.
+
+============================================================
+CHUNK 20
+============================================================
+Maintenance Phase
+The maintenance phase of rehydration begins once all signs of dehydration are absent. The goal of the maintenance phase is to counter ongoing losses of |uid and electrolytes in the stool and vomitus. Consumption of ORS or other suitable |uids ad libitum is appropriate in most cases. Although ORS is preferable, other suitable acceptable |uids include water, salted drinks, and broths. Medicinal teas, coffee, carbonated beverages, and sweetened juices are not recommended and may exacerbate |uid losses.
+In  cases  of massive ongoing losses, a cholera cot (Fig. 22.2) may facilitate recording of stool  output  in patients with severe diarrhea. Alternatively, stool losses can be estimated as 10 to 20 mL/ kg per stool. The maintenance phase of rehydration is continued until all symptoms of diarrhea resolve.
+
+============================================================
+CHUNK 21
+============================================================
+Antibiotics
+Antibiotics are not indicated for most individuals with acute watery diarrhea. Suspected cholera, particularly in outbreak settings, is an important exception in which antibiotic therapy can be useful in shortening the duration of illness and decreasing the amount of  |uid  resuscitation  that  is  needed.  Resistance  is  increasing in isolates of V. cholerae; hence data on local susceptibility should be  used  to  guide  treatment  in  suspected  cholera  cases  (see Chapter 47).
+Fig. 22.2 Cholera cots, used for collection of fluid losses during diarrhea.
+Adults and children in resource-limited settings with invasive diarrhea should be treated promptly with an antimicrobial that is effective  against Shigella (Chapter  48).  This  is  of  particular importance in patients with higher risks of complications, including children younger than 5 years old, individuals with AIDS, and the elderly. The choice of antimicrobial should be based on recent susceptibility  data  from Shigella strains  isolated  in  the  area,  if available. In general, this will be suf{cient to cover other common bacterial causes of invasive diarrhea. If clinical improvement does not occur within 48 hours after the initiation of antibiotic therapy, additional diagnostic testing for amebic dysentery (which will not respond to therapy directed at shigellosis) and culture with susceptibility testing for antibiotic-resistant Shigella spp. is warranted. Alternatively, an empiric course of metronidazole or other agents directed at E. histolytica (Chapter 94) can be considered in patients with invasive diarrhea who do not respond to an appropriate trial of empiric treatment for shigellosis.
+
+============================================================
+CHUNK 22
+============================================================
+Antibiotics and the Risk of Hemolytic Uremic Syndrome
+Sd1  produces  shiga  toxin,  which  can  cause  hemolytic  uremic syndrome,  de{ned  by  the  simultaneous  occurrence  of  microangiopathic hemolytic anemia, thrombocytopenia, and acute kidney injury. In patients with shigellosis treated with appropriate antibiotics, there does not appear to be an increase in toxin production or  risk  of  hemolytic  uremic  syndrome. 15 This  is  in  contrast  to shiga  toxin-producing strains  of  enterohemorrhagic E.  coli, for which there is an increased risk of hemolytic uremic syndrome when antibiotics are administered. Fortunately, at this time, shiga toxin-producing E. coli remains a relatively rare cause of invasive diarrhea among children in resource-limited settings.
+
+============================================================
+CHUNK 23
+============================================================
+Nutrition
+The goals of nutritional intervention in patients with diarrhea are to identify and treat severe nutritional de{ciencies and to prevent chronic  enteropathy  and  malnutrition  in  otherwise  apparently well-nourished children who are at risk of developing these sequelae after diarrheal illness.
+
+============================================================
+CHUNK 24
+============================================================
+Malnourished Children
+The mortality among children with severe malnutrition and diarrhea may exceed 50%, but can be reduced to less than 10% using a standardized  approach  that  incorporates  the  management  of dehydration, nutrition, hypoglycemia, and treatment of common concomitant  infections.  Because  of  the  increased  risks  of  |uid overload  and  other  complications  of  rehydration  therapy,  an alternative approach to assessing and treating dehydration is needed in  severely  malnourished  patients  (see  Box  22.1).  In  addition, patients with severe malnutrition and diarrhea should be started on  empiric  broad-spectrum  antibiotics  immediately  and  on appropriate macro- and micro-nutrient therapy.
+
+============================================================
+CHUNK 25
+============================================================
+Apparently Well-Nourished Children
+The continuous provision of nutritious food is important for all patients with diarrhea. Small meals should be provided frequently and should be initiated as soon as the patient is able to tolerate oral intake. Breastfeeding should always be continued in infants. Whenever possible, energy-rich food should be provided, including an extra  meal  (one  meal  more than  usual) for  at least  2  weeks after  diarrheal  symptoms  resolve.  In  particular,  children  with persistent diarrhea require a calorie-rich diet. Damage to villous tips due to infection can reduce the enzyme lactase, resulting in post-infectious lactose intolerance.
+
+============================================================
+CHUNK 26
+============================================================
+Micro-nutrient Supplementation
+In children over 6 months of age, zinc supplementation reduces the severity and duration of diarrheal illness, as well as the incidence of subsequent episodes. 16  The WHO recommends zinc supplementation for all children less than 5 years of age with acute or persistent diarrhea (10 mg/day for 10 days for children under 6 months and 20 mg/day for 10 days for children ages 6 months to 5 years). Children with diarrhea are also at increased risk of vitamin A de{ciency and should receive supplementation with vitamin A (administer a single dose; dosage is 100,000 IU for infants aged 6-11 months, and 200,000 IU for children aged 12 months and older). 17
+
+============================================================
+CHUNK 27
+============================================================
+Other Therapies
+Anti-motility agents, including loperamide, diphenoxylate-atropine, and  tincture  of  opium,  may  cause  paralytic  ileus  in  children, whereas anti-emetics, including chlorpromazine, prochlorperazine, promethazine, and metoclopramide, have sedating effects that can interfere  with  rehydration  and  may  cause  extrapyramidal  reactions. Therefore these agents should be particularly avoided in children. In adults, anti-motility agents should be used cautiously, and only when fever is absent and there are no signs of invasive diarrhea. Several studies of probiotics in children and adults have demonstrated modest bene{ts in shortening the duration of illness; however, the exact formulation and dose are not yet known. 18
+
+============================================================
+CHUNK 28
+============================================================
+Prevention
+Most cases of diarrhea are associated with contaminated food and water  sources.  Epidemics  of  diarrhea  may  affect  individuals  in refugee camps and unplanned urban settlements with limited access to water and sanitation facilities. Direct contact with an infected individual may also contribute to the spread of epidemic dysentery caused by Shigella spp . Acute diarrheal diseases can be prevented with measures such as exclusive breastfeeding through 6 months of  age  and  continued  breastfeeding  with  complementary  foods through 2 years of age, handwashing, provision of safe drinking water, appropriate disposal of human waste, safe handling of food, and control of |ies. The WHO Strategic Advisory Group of Experts recommends  that  rotavirus  vaccine  be  included  in  all  national immunization programs, with an emphasis on inclusion of countries where  diarrheal  deaths  account  for ≥ 10% of  mortality  among children aged < 5 years. 19 Cholera vaccines are also being used as part of integrated control programs in communities and populations at high risk for cholera epidemics.
+
+============================================================
+CHUNK 29
+============================================================
+REFERENCES
+1.  Kirk  MD,  Pires  SM,  Black  RE,  et al.  World  Health  Organization estimates of the global and regional disease burden of 22 foodborne bacterial, protozoal, and viral diseases, 2010: a data synthesis. PLoS Med 2015;12:e1001921.
+2.  World Health Organization. T op 10 causes of death, Global health observatory data;  2017.  http://www.who.int/gho/mortality_burden_ disease/causes_death/top_10/en/. [Accessed 20 June 2017].
+3.  Walker  CL,  Rudan  I,  Liu  L,  et al.  Global  burden  of  childhood pneumonia and diarrhoea. Lancet 2013;381:1405-16.
+4.  Liu L, Johnson HL, Cousens S, et al. Global, regional, and national causes of child mortality: an updated systematic analysis for 2010 with time trends since 2000. Lancet 2012;379:2151-61.
+5.  World Health Organization. Global cause speci{c mortality, 2000-2015; 2015. http://www.who.int/healthinfo/global_burden_disease/estimates/ en/index1.html. [Accessed 14 April 2017].
+6.  Livio S, Strockbine NA, Panchalingam S, et al. Shigella isolates from the global enteric multicenter study inform vaccine development. Clin Infect Dis 2014;59:933-41.
+7.  Kotloff KL, Nataro JP, Blackwelder WC, et al. Burden and aetiology of  diarrhoeal  disease  in  infants  and  young  children  in  developing countries (the Global Enteric Multicenter Study, GEMS): a prospective, case-control study. Lancet 2013;382(9888):209-22.
+8.  Platts-Mills JA, Babji S, Bodhidatta L, et al. Pathogen-speci{c burdens of  community  diarrhoea  in  developing  countries:  a  multisite  birth cohort study (MAL-ED). Lancet Glob Health 2015;3:e564-75.
+
+============================================================
+CHUNK 30
+============================================================
+REFERENCES
+9.  Liu  J,  Platts-Mills  JA,  Juma  J,  et al.  Use  of  quantitative  molecular diagnostic  methods  to  identify  causes  of  diarrhoea  in  children: a  reanalysis  of  the  GEMS  case-control  study.  Lancet  2016;388: 1291-301.
+10.  Mondal  D,  Minak J, Alam  M, et al.  Contribution  of  enteric  infection,  altered  intestinal  barrier  function,  and  maternal  malnutrition to  infant  malnutrition  in  Bangladesh.  Clin  Infect  Dis  2012;54: 185-92.
+11.  World  Health  Organization. The  treatment  of  diarrhea:  a  manual for physicians and other senior health workers, 4th revision. Geneva: World Health Organization; 2005. WHO/FCH/CAH/05.1.
+12.  Baron EJ, Miller JM, Weinstein MP, et al. A guide to utilization of the microbiology laboratory for diagnosis of infectious diseases: 2013 recommendations by the Infectious Diseases Society of America (IDSA) and the American Society for Microbiology (ASM)(a). Clin Infect Dis 2013;57:e22-121.
+13.  Steiner MJ, DeWalt DA, Byerley JS. Is this child dehydrated? JAMA 2004;291:2746-54.
+14.  Hartling  L,  Bellemare  S,  Wiebe  N,  et al.  Oral  versus  intravenous rehydration for treating dehydration due to gastroenteritis in children. Cochrane Database Syst Rev 2006;(3):CD004390.
+15.  Bennish  ML,  Khan  WA,  Begum  M,  et al.  Low  risk  of  hemolytic uremic  syndrome  after  early  effective  antimicrobial  therapy  for Shigella dysenteriae type 1 infection in Bangladesh. Clin Infect Dis 2006;42:356-62.
+16.  Lazzerini M. Wanzira H. Oral zinc for treating diarrhoea in children. Cochrane Database Syst Rev 2016;12:CD005436.
+17.  World Health Organization. Vitamin A supplementation for infants and children 6-59 months of age; 2011. http://apps.who.int/iris/bitstrea m/10665/44664/1/9789241501767_eng.pdf?ua = 1&ua = 1. [Accessed 15 April 2017].
+
+============================================================
+CHUNK 31
+============================================================
+REFERENCES
+18.  Allen  SJ,  Martinez  EG,  Gregorio  GV,  Dans  LF.  Probiotics  for treating  acute  infectious  diarrhoea.  Cochrane  Database  Syst  Rev 2010;(11):CD003048.
+19.  World Health Organization Strategic Advisory Group of Experts on Immunization.  Candidate  rotavirus  vaccine  recommendations    for consideration  by  the  WHO  Strategic  Advisory  Group  of  Experts (SAGE) on Immunization; 2009. http://www.who.int/immunization/ sage/2_Candidate_rota_recs_17_3_2009.pdf. [Accessed 20 June 2017].
+

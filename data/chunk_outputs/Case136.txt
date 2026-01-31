@@ -1,0 +1,182 @@
+============================================================
+CHUNK 0
+============================================================
+Debasish Saha, Regina C LaRocque
+Precise estimates of global cholera incidence are lacking; the World Health Organization (WHO) estimates that less than 10% of cholera cases are reported, despite the fact that it is a notifiable disease [2]. Limitations in local surveillance and reporting systems and economic disincentives  contribute  to  the  global  underreporting  of  cholera. Figure 43.1 shows the global distribution of cholera based on cases reported to the WHO in 2008.
+In endemic areas, cholera exhibits a seasonal pattern with periods of high and low incidence. The highest incidence of cholera in endemic regions is among children aged 1-9 years old. In both endemic and epidemic settings, individuals of blood group O with cholera are at much higher risk of developing severe disease (cholera gravis) than persons of other blood groups [3].
+
+============================================================
+CHUNK 1
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+Vibrios are curved, rod-shaped, Gram-negative bacteria that are highly motile owing to  the  presence of a  single  polar  flagellum.  They are found in brackish water environments around the world, often closely associated with zooplankton and other fauna with chitinous exoskeletons  [4].  Humans  become  infected  after  drinking  contaminated water (Fig 43.2). An extremely high concentration of organisms (up to 100 million bacteria per milliliter) is found in cholera stool. Stoolshed organisms are transiently hyperinfectious for the next host-this may contribute to the explosive nature of cholera epidemics [5].
+Strains of V. cholerae are differentiated serologically on the basis of the lipopolysaccharide  O  antigen.  To  date,  more  than  200  serogroups have been identified. Historically, the O1 serogroup has caused the vast  majority  of  disease.  The  O1  serogroup  is  subdivided  into  two phenotypically distinct biotypes: El Tor and classical. Both biotypes can be further subdivided into two serotypes: Inaba and Ogawa. In the past 20 years, the El Tor biotype has largely replaced the classical biotype and is the cause of the current seventh global pandemic. The O139  serogroup  emerged  as  a  cause  of  disease  in  1992,  but  has remained limited to areas of Asia.
+Pathogenic strains of V. cholerae O1 and O139 possess two key virulence factors-cholera toxin and the toxin co-regulated pilus (TCP) [7]. TCP is a surface pilus that aggregates organisms together on the surface  of  the  small  intestine.  Cholera  toxin  is  a  prototypical  AB subunit toxin. The B subunit binds the toxin to the surface of epithelial cells, while the enzymatically active A subunit is translocated into the cell.  The A subunit increases cyclic AMP activity, leading to the massive fluid and electrolyte efflux that is the hallmark of the disease.
+
+============================================================
+CHUNK 2
+============================================================
+CLINICAL FEATURES
+The clinical features of cholera caused by V. cholerae O1 and O139 are similar.  The  incubation  period  varies  with  host  susceptibility  and inoculum size; it can range from several hours to as long as 3-5 days. Most cases are mild or asymptomatic, especially in endemic settings.
+
+============================================================
+CHUNK 3
+============================================================
+Key features
+- Vibrio species are environmental organisms that are found in fresh- and marine-water habitats around the world
+- Cholera is caused by Vibrio cholerae O1 and O139 strains that carry the genes encoding cholera toxin
+- Cholera is spread by contaminated water and food
+- Cholera can spread rapidly in areas with unsafe water and food, and can lead to epidemics
+- Cholera is endemic in over 50 countries and regularly causes outbreaks and epidemics in these settings
+- Treatment of cholera is inexpensive, simple and life-saving
+- Other Vibrio species ('non-cholera' Vibrios) are less common pathogens and may cause septicemia, soft tissue infection and gastrointestinal illness
+
+============================================================
+CHUNK 4
+============================================================
+INTRODUCTION
+Cholera has been one of the great scourges of mankind. Seven global pandemics have occurred since the early 19th century and each has been associated with a tremendous human death toll [1]. The current seventh  global  pandemic  of  cholera,  caused  by Vibrio  cholerae O1 biotype El Tor, began in Sulawesi, Indonesia in 1961.
+The history of cholera is closely tied to the history of medicine. In 1854,  John  Snow  made  the  seminal  observation  that  sewagecontaminated municipal water was the source of cholera in a London community-a key contribution to the germ theory of disease. Robert Koch isolated the causative bacterium during the fifth pandemic in 1883. Oral rehydration solution (ORS), originally developed for the treatment of  cholera, has  saved  millions of lives  and is one  of the landmark medical achievements of the 20th century.
+
+============================================================
+CHUNK 5
+============================================================
+EPIDEMIOLOGY
+Cholera is a substantial health burden in the developing world. The disease is endemic in Africa, Asia and Central and South America. In particular, the Ganges River Delta is the ancestral epicenter of cholera ('Asiatic cholera'), and predictable seasonal outbreaks occur in this region. Explosive epidemics can occur in under-developed areas with inadequate  sanitation,  poor  hygiene  and  limited  access  to  clean drinking water. The most recent example of this is the outbreak of cholera that began in Haiti in October 2010.
+FIGURE 43.1 Global distribution of cholera based on  cases  reported  to  the  WHO  in  2008  (http:// gamapserver.who.int/gho/interactive_charts/atlas. html).
+In severe cholera (cholera gravis), the characteristic symptom is the frequent passage of profuse 'rice-water' stool (Fig. 43.3)-a watery stool with flecks of mucus and a typical fishy odor. Stool output can reach as high as 1 liter per hour in the most severe cases. Abdominal discomfort, borborygmi and vomiting are other common symptoms, particularly in the early phases of disease. Fever is rare.
+Dehydration  and  electrolyte  abnormalities  are  the  most  important complications  of  cholera.  Examination  may  reveal  sunken  eyes (Fig. 43.4), dry mouth, cold clammy skin, decreased skin turgor, or wrinkled  hands  and  feet  ('washer  woman's  hands').  Patients  are frequently apathetic and lethargic. Kussmaul breathing may occur as a result of acidosis. The peripheral pulse is rapid and initially thready; it  may  become  difficult  to  palpate  as  blood  pressure  drops.  Urine output decreases with time and renal failure with acute tubular necrosis may occur. Muscle cramping and weakness caused by the loss of potassium and calcium are common. In children, depletion of glycogen stores and inadequate gluconeogenesis can lead to severe hypoglycemia or even coma. Aspiration pneumonia is a common comorbidity in children. There are no long-term complications of cholera when it is  appropriately  treated.  Blood  stream  invasion  by  the  organism  is rare.  Laboratory  testing  of  cholera  patients,  when  performed,  may reveal hypokalemia, hyponatremia, hypocalcemia and acidosis.
+
+============================================================
+CHUNK 6
+============================================================
+EPIDEMIOLOGY
+'Cholera sicca' is an unusual form of the disease whereby fluid accumulates in the intestinal lumen. Circulatory collapse and even death can occur in the absence of diarrhea.
+
+============================================================
+CHUNK 7
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+Cholera often occurs in outbreaks and hence the diagnosis should be quickly suspected in the appropriate epidemiologic setting. Mild-tomoderate cases of V. cholerae may be indistinguishable from infection with other pathogens, such as enterotoxigenic Escherichia coli , Campylobacter spp. or Salmonella spp.
+Vibrio cholerae O1 or O139 infection is confirmed by the isolation of the  organism  in  stool  culture,  followed  by  biochemical  tests  and serogrouping  with  specific  antisera.  Thiosulfate  citrate  bile  salts sucrose (TCBS) agar or tellurite taurocholate gelatin agar (TTGA) are used for the selective isolation of V.  cholerae .  Cholera  can be more rapidly diagnosed using direct dark field microscopy of stool where motile Vibrio organisms  appear  like  'shooting  stars' .  An  immunochromatographic dipstick test  specific  for V.  cholerae has  also  been developed for rapid testing in field settings without access to laboratory facilities.
+
+============================================================
+CHUNK 8
+============================================================
+TREATMENT
+Treatment of cholera is simple and inexpensive. Most importantly, the fluid  deficit  and  ongoing  fluid  loss  must  be  corrected.  Antibiotics, although not necessary, can be administered to stop multiplication of  the organism and to decrease the duration of illness. Complications need to be recognized and addressed in a timely manner.
+
+============================================================
+CHUNK 9
+============================================================
+CORRECTION OF FLUID LOSS
+Correction  of  dehydration  through  fluid  replacement  and  maintenance remains the cornerstone of cholera treatment. A cholera patient can lose between 5 and 10 percent of their body weight in fluid during the course of the illness. Fluid therapy rests upon assessing the level of dehydration (Fig. 43.5). Fluid replacement occurs in two phases. In the rescue phase ,  aggressive fluid replacement, usually administered intravenously, is given in a short period of time to replace the fluid deficit. In the maintenance phase , intravenous fluid or ORS is given  to  replenish  ongoing  fluid  losses.  Frequent  assessment  of ongoing  fluid  loss  is  necessary.  Stool  output  should  be  measured every 4-6 hours during the maintenance phase. Such measurement can be facilitated by the use of a cholera cot: a simple plastic cot with a central hole to facilitate collection of stool in a bucket. Intravenous and  oral  rehydration  fluids  are  designed  to  correct  the  water  and electrolyte  loss  in  cholera  stool  (Table  43-1).  The  most  commonly used intravenous solution is commercially available Ringer's lactate. Locally prepared 'Dhaka fluid', which contains more potassium than Ringer's lactate, is used in endemic countries like Bangladesh.
+The use of ORS, a readily prepared sugar and salt solution, has revolutionized the treatment of cholera, as well as dehydration caused by other  organisms  [7].  ORS takes  advantage  of  the fact  that  glucosemediated cotransport of sodium and water across the mucosal surface of the small intestine remains intact during cholera. Rice-based ORS involves the use of rice powder instead of glucose and has been shown to be equally effective as standard ORS in adults. Recently, a reduced osmolar ORS that is better tolerated has been developed and is associated  with  lower  rates  of  associated  hypernatremia.  Hypo-osmolar ORS (Box 43.1) is currently recommended by the WHO.
+Packets for the easy preparation of ORS are widely available in developing countries.  If  ORS  packets  are  not  available,  dehydration  can
+colonize the small intestine
+Stool-shed organisms are transiently hyperinfectious
+to the next host and contribute to the explosive nature of
+cholera outbreaks
+Treatme
+Vibrio cho environme
+FIGURE 43.2 Cholera lifecycle.
+
+============================================================
+CHUNK 10
+============================================================
+CORRECTION OF FLUID LOSS
+be  treated  with  a  solution  made  with  six  level  teaspoons  of  sugar and  one-half  level  teaspoon  of  salt  dissolved  in  one  liter  of  clean water.
+Multiple  intravenous  lines  may  be  required  to  infuse  an  adequate amount of fluid to a cholera patient during the rescue phase of rehydration. If an intravenous line cannot be established, fluid should be introduced through a nasogastric tube. In children, an interosseous line in the medial aspect of the tibia can be considered.
+Apart from fluid replacement, the intake of freshly prepared food is encouraged when tolerated and breastfeeding should be continued where appropriate. For children up to 5 years of age, supplementary
+• Hygier administration of zinc (10 mg/day x 2 weeks in children < 6 months; 20 mg/day x 2 weeks in children 6 months-5 years) has proven effective in reducing the duration of diarrhea, as well as reducing successive diarrhea episodes [8].
+
+============================================================
+CHUNK 11
+============================================================
+ANTIBIOTICS
+Antimicrobial therapy is an adjunct to fluid therapy in cholera and has been shown to reduce the duration and volume of diarrheal stool by half. The WHO advocates the use of antibiotics for individuals with severe dehydration, basing choice on local availability and susceptibility  pattern  [2].  A  wide  range  of  antibiotics,  both  in  single-  and
+FIGURE 43.3 Rice-water stool.
+commonly used antibiotics is an emerging problem and, thus, knowl-
+
+============================================================
+CHUNK 12
+============================================================
+ANTIBIOTICS
+Cholera stool (adult), TABLE 43-1 Electrolyte content of cholera stool and Duids used in the treatment of cholera.Electrolyte concentration (mmol/L).Sodium = 135. Cholera stool (adult), TABLE 43-1 Electrolyte content of cholera stool and Duids used in the treatment of cholera.Electrolyte concentration (mmol/L).Potassium = 15. Cholera stool (adult), TABLE 43-1 Electrolyte content of cholera stool and Duids used in the treatment of cholera.Electrolyte concentration (mmol/L).Chloride = 100. Cholera stool (adult), TABLE 43-1 Electrolyte content of cholera stool and Duids used in the treatment of cholera.Electrolyte concentration (mmol/L).Acetate/lactate = 40. Cholera stool (adult), TABLE 43-1 Electrolyte content of cholera stool and Duids used in the treatment of cholera.Electrolyte concentration (mmol/L).Other = -. Cholera stool (child), TABLE 43-1 Electrolyte content of cholera stool and Duids used in the treatment of cholera.Electrolyte concentration (mmol/L).Sodium = 100. Cholera stool (child), TABLE 43-1 Electrolyte content of cholera stool and Duids used in the treatment of cholera.Electrolyte concentration (mmol/L).Potassium = 30. Cholera stool (child), TABLE 43-1 Electrolyte content of cholera stool and Duids used in the treatment of cholera.Electrolyte concentration (mmol/L).Chloride = 90. Cholera stool (child), TABLE 43-1 Electrolyte content of cholera stool and Duids used in the treatment of cholera.Electrolyte concentration (mmol/L).Acetate/lactate = 30. Cholera stool (child), TABLE 43-1 Electrolyte content of cholera stool and Duids used in the treatment of cholera.Electrolyte concentration (mmol/L).Other = -. Ringer's lactate, TABLE 43-1 Electrolyte content of cholera stool and Duids used in the treatment of cholera.Electrolyte concentration (mmol/L).Sodium = 130. Ringer's lactate, TABLE 43-1 Electrolyte content of cholera stool and Duids used in the treatment of cholera.Electrolyte concentration (mmol/L).Potassium
+
+============================================================
+CHUNK 13
+============================================================
+ANTIBIOTICS
+= 4. Ringer's lactate, TABLE 43-1 Electrolyte content of cholera stool and Duids used in the treatment of cholera.Electrolyte concentration (mmol/L).Chloride = 111. Ringer's lactate, TABLE 43-1 Electrolyte content of cholera stool and Duids used in the treatment of cholera.Electrolyte concentration (mmol/L).Acetate/lactate = 29. Ringer's lactate, TABLE 43-1 Electrolyte content of cholera stool and Duids used in the treatment of cholera.Electrolyte concentration (mmol/L).Other = 3 (calcium). Dhaka solution, TABLE 43-1 Electrolyte content of cholera stool and Duids used in the treatment of cholera.Electrolyte concentration (mmol/L).Sodium = 133. Dhaka solution, TABLE 43-1 Electrolyte content of cholera stool and Duids used in the treatment of cholera.Electrolyte concentration (mmol/L).Potassium = 13. Dhaka solution, TABLE 43-1 Electrolyte content of cholera stool and Duids used in the treatment of cholera.Electrolyte concentration (mmol/L).Chloride = 98. Dhaka solution, TABLE 43-1 Electrolyte content of cholera stool and Duids used in the treatment of cholera.Electrolyte concentration (mmol/L).Acetate/lactate = 48. Dhaka solution, TABLE 43-1 Electrolyte content of cholera stool and Duids used in the treatment of cholera.Electrolyte concentration (mmol/L).Other = -. Standard ORS, TABLE 43-1 Electrolyte content of cholera stool and Duids used in the treatment of cholera.Electrolyte concentration (mmol/L).Sodium = 90. Standard ORS, TABLE 43-1 Electrolyte content of cholera stool and Duids used in the treatment of cholera.Electrolyte concentration (mmol/L).Potassium = 20. Standard ORS, TABLE 43-1 Electrolyte content of cholera stool and Duids used in the treatment of cholera.Electrolyte concentration (mmol/L).Chloride = 80. Standard ORS, TABLE 43-1 Electrolyte content of cholera stool and Duids used in the treatment of cholera.Electrolyte concentration (mmol/L).Acetate/lactate = 10. Standard ORS, TABLE 43-1
+
+============================================================
+CHUNK 14
+============================================================
+ANTIBIOTICS
+Electrolyte content of cholera stool and Duids used in the treatment of cholera.Electrolyte concentration (mmol/L).Other = 111 (glucose). Rice-based ORS, TABLE 43-1 Electrolyte content of cholera stool and Duids used in the treatment of cholera.Electrolyte concentration (mmol/L).Sodium = 90. Rice-based ORS, TABLE 43-1 Electrolyte content of cholera stool and Duids used in the treatment of cholera.Electrolyte concentration (mmol/L).Potassium = 20. Rice-based ORS, TABLE 43-1 Electrolyte content of cholera stool and Duids used in the treatment of cholera.Electrolyte concentration (mmol/L).Chloride = 80. Rice-based ORS, TABLE 43-1 Electrolyte content of cholera stool and Duids used in the treatment of cholera.Electrolyte concentration (mmol/L).Acetate/lactate = 10. Rice-based ORS, TABLE 43-1 Electrolyte content of cholera stool and Duids used in the treatment of cholera.Electrolyte concentration (mmol/L).Other = 88 (rice powder). Hypo-osmolar ORS, TABLE 43-1 Electrolyte content of cholera stool and Duids used in the treatment of cholera.Electrolyte concentration (mmol/L).Sodium = 75. Hypo-osmolar ORS, TABLE 43-1 Electrolyte content of cholera stool and Duids used in the treatment of cholera.Electrolyte concentration (mmol/L).Potassium = 20. Hypo-osmolar ORS, TABLE 43-1 Electrolyte content of cholera stool and Duids used in the treatment of cholera.Electrolyte concentration (mmol/L).Chloride = 65. Hypo-osmolar ORS, TABLE 43-1 Electrolyte content of cholera stool and Duids used in the treatment of cholera.Electrolyte concentration (mmol/L).Acetate/lactate = 10. Hypo-osmolar ORS, TABLE 43-1 Electrolyte content of cholera stool and Duids used in the treatment of cholera.Electrolyte concentration (mmol/L).Other = 75 (glucose)
+edge of the local resistance pattern is mandatory. Single-dose regi-
+
+============================================================
+CHUNK 15
+============================================================
+ANTIBIOTICS
+FIGURE 43.3 Rice-water stool.
+multiple-dose  regimens,  are  used  for  the  treatment  of  cholera,  as shown in Table 43-2. Resistance of V. cholerae O1 and O139 to many commonly used antibiotics is an emerging problem and, thus, knowledge  of  the  local  resistance  pattern  is  mandatory.  Single-dose  regimens are particularly preferred in outbreak settings where healthcare personnel are scarce.
+
+============================================================
+CHUNK 16
+============================================================
+PREVENTION
+A clean water supply and appropriate sanitation are essential to the prevention of cholera. Breastfeeding is protective for young infants in endemic settings. Filtering water through a sari cloth before drinking has been demonstrated to be effective in lessening the likelihood of V.  cholerae infection  acquired  from  surface  water  sources,  probably through  removal  of V.  cholerae adherent  to  particulates.  Two  oral, killed  cholera  vaccines  are  currently  available  in  various  countries. These  vaccines  are  usually  administered  in  1-3  doses  10-15  days apart and are given in 150 milliliters of safe water. The WHO recommends  use  of  cholera  vaccines  in  select  situations  in  conjunction with improved water supplies, adequate sanitation and health education [9].
+FIGURE 43.4 A cholera patient with sunken eyes.
+
+============================================================
+CHUNK 17
+============================================================
+BOX 43.1  Recipe for Making one Liter of Hypo-osmolar ORS [10]
+Sodium chloride (NaCl)
+2.6 g
+Sodium citrate
+2.9 g
+Potassium chloride (KCl)
+1.5 g
+Glucose
+13.5 g
+FIGURE 43.5 Approach to Duid management in patients with dehydration.
+
+============================================================
+CHUNK 18
+============================================================
+TABLE 43-2 Antibiotics for the management of cholera
+Tetracycline, Older children and adults = 500 mg every 6 hours for 3 days. Tetracycline, Child * = 50 mg/kg/day divided every 6 hours for 3 days. Tetracycline, Comments = Reports of resistance. Contraindicated in pregnant women. Short course precludes teeth staining in children.. Doxycycline, Older children and adults = 300 mg single dose. Doxycycline, Child * = 4-6 mg/kg single dose. Doxycycline, Comments = Same as above. Erythromycin, Older children and adults = 500 mg every 6 hours for 3 days. Erythromycin, Child * = 50 mg/kg/day divided every 6 hours for 3 days. Erythromycin, Comments = Widely used in pediatric population. Azithromycin, Older children and adults = 1 g single dose. Azithromycin, Child * = 20 mg/kg single dose. Azithromycin, Comments = . CiproDoxacin, Older children and adults = 500 mg once daily for 3 days OR 1 g single dose. CiproDoxacin, Child * = 20 mg/kg body weight single dose. CiproDoxacin, Comments = 
+Trimethoprim/sulfamethoxazole, ampicillin, chloramphenicol and furazolidone have previously been used for the treatment of cholera, but are no longer preferred because of resistance patterns and side eEect proFles.
+*Not to exceed adult dose.
+
+============================================================
+CHUNK 19
+============================================================
+VIBRIO PARAHAEMOLYTICUS
+Vibrio  parahaemolyticus is  the  most  commonly  isolated  noncholera vibrio.  Like V.  cholerae ,  it  is  found  in  marine  environments. Vibrio parahaemolyticus causes gastroenteritis as a result of consumption of raw or partially cooked food, particularly seafood. V. parahaemolyticus accounts for a large proportion of food-borne illness in Japan, where consumption of seafood is common. The incubation period for V. parahaemolyticus ranges from 4 to 48 hours. Clinical illness tends to be mild, with gastroenteritis symptoms including nausea, vomiting, abdominal  pain  and  diarrhea.  The  disease  is  usually  self-limiting. Oral rehydration is typically adequate and tetracycline or ciprofloxacin can be administered in severe cases.
+
+============================================================
+CHUNK 20
+============================================================
+VIBRIO VULNIFICUS
+Vibrio species have been isolated from wounds exposed to seawater. Vibrio vulnificus is  a  particularly  important  pathogen  in Vibrio -associated  soft  tissue  infections  and  sepsis.  Immunocompromised individuals  and  those  with  underlying  liver  disease  are  especially prone  to  septicemia  with V.  vulnificus .  Thrombocytopenia  and  disseminated intravascular coagulation are common, along with characteristic bullous skin lesions. The mortality rate is greater than 50%. Tetracycline appears  to be effective  in  conjunction  with other supportive  treatments.  In  severe  infection,  tissue  debridement  and amputation of the affected limb may be required.
+
+============================================================
+CHUNK 21
+============================================================
+REFERENCES
+1. Sack  DA,  Sack  RB,  Nair  GB,  Siddique  AK.  Cholera.  Lancet  2004;363: 223-33.
+2. The Global Task Force on Cholera Control. Available at: http://www.who.int/ cholera/en/.
+3. Harris JB, Khan AI, Larocque RC, et al. Blood group, Immunity, and risk of infection with Vibrio cholerae in  an area of endemicity. Infect Immun 2005; 73:7422-7.
+4. Colwell RR. Infectious disease and environment: cholera as a paradigm for waterborne disease. Int Microbiol 2004;7:285-9.
+5. Nelson EJ, Harris JB, Morris JG Jr, et al. Cholera transmission: the host, pathogen and bacteriophage dynamic. Nat Rev Microbiol 2009;7:693-702.
+6. Matson JS, Withey JH, DiRita VJ. Regulatory networks controlling Vibrio cholerae virulence gene expression. Infect Immun 2007;75:5542-9.
+7. Guerrant RL, Carneiro-Filho BA, Dillingham RA. Cholera, diarrhea, and oral rehydration  therapy:  triumph  and  indictment.  Clin  Infect  Dis  2003;37: 398-405.
+8. Roy  SK,  Hossain  MJ,  Khatun  W,  et  al.  Zinc  supplementation  in  children with  cholera  in  Bangladesh:  randomised  controlled  trial.  BMJ  2008;336: 266-8.
+9. Cholera  Vaccines:  WHO  Position  Paper.  Wkly  Epidemiol  Rec  2010;85: 117-28.
+10.  World  Health  Organization.  The  International  Pharmacopoeia,  4th  edn. Geneva: World Health Organization; 2008.
+

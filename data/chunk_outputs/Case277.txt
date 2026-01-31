@@ -1,0 +1,252 @@
+============================================================
+CHUNK 0
+============================================================
+41 Diphtheria
+Anna M. Acosta, Tejpratap S. P. Tiwari
+
+============================================================
+CHUNK 1
+============================================================
+KEY FEATURES
+- communicable disease caused by toxin-producing strains of Corynebacterium diphtheriae.
+- droplets from the throat through coughing or sneezing, or by close contact with a skin lesion.
+- days).
+- pseudo-membrane over the mucous membrane of the upper respiratory tract (nose, uvula, tonsils, pharynx, and larynx) or in skin ulcers in cutaneous diphtheria.
+- sore throat, to dif{culty in swallowing and mild fever, to life-threatening airway obstruction, to toxin-related systemic complications-for example, myocarditis and polyneuropathy (cranial and peripheral nerves).
+- and antibiotics (penicillin, erythromycin) prevent complications and death.
+- properly treated, and can exceed 50% among untreated patients.
+- series of combined diphtheria- tetanus-pertussis (DT aP/ DTwP) vaccines are recommended for all infants, with booster vaccinations (Td, Tdap) being administered to older children ≥ 7 years and adults.
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+Diphtheria is an acute infectious disease that is caused by toxinproducing strains of Corynebacterium diphtheriae, a gram-positive rod. 1 The disease primarily affects the mucous membrane of the upper respiratory tract (nostril, pharynx, tonsils, or larynx), skin, and, very rarely, mucosal membrane of the conjunctiva, vagina, or  ear.  Two  other  zoonotic  corynebacteria, C. ulcerans and C.  pseudotuberculosis, can  also  produce  diphtheria  toxin.  Human infections by toxin-producing C. ulcerans can lead to clinical disease indistinguishable  from  that  caused  by C.  diphtheriae. Infections with C.  pseudotuberculosis can  cause  caseous  lymphadenitis  in humans. Although diphtheria is an ancient communicable disease, its etiology was not discovered until the late nineteenth century (Box 41.1). Throughout history, and well into the {rst half of the twentieth century, diphtheria was a fearsome scourge and a major cause of death in children. From the late 1940s, widespread and routine  use  of  diphtheria  toxoid  vaccine  was  associated  with  a dramatic  decline  in  globally  reported  diphtheria.  The  disease continues to be endemic in countries with sub-optimal childhood vaccination coverage rates. 2 This poses a threat for importation into countries that have strong childhood immunization programs but susceptible older populations due to low booster vaccination coverage rates. 3,4
+
+============================================================
+CHUNK 3
+============================================================
+EPIDEMIOLOGY
+Humans (cases or carriers) are the natural reservoir of C. diphtheriae, although  the  organism  has  been  isolated  from  some  animals, including horses. 5 C. diphtheriae can  survive for weeks on environmental surfaces, dust, and fomites. 6 In countries with a temperate climate, respiratory disease predominates, with a peak incidence during the autumn/winter season. In tropical countries, cutaneous disease is more common and serves as an important reservoir for maintaining transmission. However,  in industrialized  countries, including the United States, small clusters of cutaneous disease have occurred among homeless individuals and alcoholic adults. 7 Transmission  of C.  diphtheriae occurs  from  cases  to  close  and susceptible contacts, through inhalation of respiratory droplets, or  through  direct  contact  with  respiratory  secretions,  infected skin lesions, or fomites. After exposure, the majority of nasopharyngeal  infections  do  not  result  in  active  disease,  but  transient carriage of the bacteria in the nasopharynx can occur and persist for several weeks, 8 including in immunized persons. Asymptomatic carriage likely plays an important role in maintaining transmission in the population. 9 Persistent carriage rarely occurs after completion of appropriate antibiotic therapy.
+
+============================================================
+CHUNK 4
+============================================================
+EPIDEMIOLOGY
+In the pre-vaccine era, diphtheria was a major cause of childhood morbidity and mortality. With sustained high childhood vaccine coverage, endogenous disease caused by toxigenic C. diphtheriae has virtually been eliminated in industrialized countries. In the United States, reported cases declined from 206,000 in 1921 to 18,675 in 1945 after the availability and use of diphtheria toxoid beginning in the 1920s. With the introduction of universal childhood  vaccination  recommendations  in  the  mid-1940s,  national coverage with diphtheria vaccine improved steadily, and reported cases (irrespective of infection site) dropped precipitously to 59 by 1979. From 1980 to 2016, 54 cases of respiratory diphtheria were reported, with no case reported from 2004 to 2011, and only 2 cases reported from 2012 through 2016 (CDC unpublished). Although diphtheria has become rare in the United States and other developed countries, a large epidemic of diphtheria occurred in  the newly independent states of the former Union of Soviet Socialist  Republics  (USSR), with  more than 157,000 cases and 5000 deaths reported during 1990 to 1998. 10 The major factors that contributed to the propagation of the epidemic included a decline in vaccination coverage among children, a mobile population,  delayed  recognition  and  response,  and  poor  health  care infrastructure. The epidemic was controlled by campaigns of mass immunization with diphtheria toxoid-containing vaccine to the entire population. Since 2012, sporadic but indigenous diphtheria cases were reported in Spain, France, and Belgium. 11-13
+In developing countries, reported cases have declined after the launch and  implementation of the World Health Organization (WHO) Expanded Program for Immunization in 1974 (Fig. 41.1). However, signi{cant disparities exist among countries, with some countries achieving control of diphtheria similar to industrialized countries and others having endemic disease and periodic outbreaks. Since 2010, outbreaks have been reported predominantly among pockets of unvaccinated children in the Americas (Haiti, Venezuela, Dominican Republic), 14,15 Asia (India, Indonesia, Laos, Vietnam, Thailand), 16-18 and Africa. 19 Vaccine-induced immunity to diphtheria wanes over time and, in the absence of booster immunizations, the number of susceptible persons in the population increases. In 2013 serologic survey reports among adults in European countries
+Fig. 41.1
+
+============================================================
+CHUNK 5
+============================================================
+BOX 41.1 Historical Timeline
+- Corynebacterium
+- Corynebacterium diphtheriae,
+indicate  waning  immunity  with  each  increasing  decade  of  life. About 60% of the adult population above 40 years of age have diphtheria antibody levels below minimal protective levels. 20 An antibody  level  of  0.01 IU/mL  from  an  in  vitro  neutralization assay is considered the lower limit of protection. When a critical proportion  of  the  population  becomes  susceptible,  there  exists the danger of re-introduction or re-emergence of diphtheria and outbreaks. 21
+
+============================================================
+CHUNK 6
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+C. diphtheriae is  a  gram-positive, slender, non-motile, non-sporulating rod. Based on colony morphology and biochemical characteristics, the  organisms  are  grouped  into  four  biotypes  of C.  diphtheriae ( gravis,  mitis,  intermedius, and belfanti ).  The  manifestations  of diphtheria are due to the production and effects of diphtheria toxin, a very potent exotoxin. Before C. diphtheriae becomes toxigenic, it must be  lysogenized by  a  corynebacteriophage that carries  the structural gene for the toxin ( tox ). T oxin-producing strains of all biotypes produce an identical diphtheria exotoxin, and there is no consistent difference in pathogenicity or severity of disease among the biotypes. 1 Toxigenic strains of C. diphtheriae cause localized toxin-mediated disease in susceptible persons by colonizing the mucosa of the upper respiratory tract or skin wounds and ulcers. Rarely, other mucosal sites-for example, the conjunctiva, ear, and vagina-may be infected. After inhalation, the organisms proliferate at the colonized site and induce an in|ammatory reaction in the mucosa of the nasopharynx, oropharynx, larynx, or trachea. In|ammation is characterized by marked neutrophilic in{ltration, vascular congestion, and interstitial edema. Lysogenized organisms produce diphtheria toxin that inhibits intracellular protein synthesis and causes local epithelial necrosis with thick, {brinosuppurative exudation. Necrotic debris, exudate, white and red blood cells, {brin, and bacteria coagulate to form a dirty gray and {rmly adherent pseudo-membrane  over  the  mucosa.  Diphtheria  toxin  may  be absorbed  from  the  site  of  infection  into  the  bloodstream  and transported to distant sites. Systemic  absorption increases
+
+============================================================
+CHUNK 7
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+with expansion of the local in|ammatory site and enlargement of pseudomembrane. In the absence of circulating neutralizing antibodies to diphtheria toxin, extensive toxin-mediated end-organ damage may occur, particularly in the heart and peripheral neural tissue. Myocardial damage manifests as myocarditis that is characterized by edema, mononuclear cell in{ltration, and fatty changes, and focal  necrosis  in  the  myocardium  and  conducting  system. 22,23 Polyneuropathy results from degeneration of the myelin sheath and axis cylinder of the cranial or peripheral nerves. 24 Occasionally, in the kidneys, acute tubular necrosis may lead to renal failure. 23
+Infection  by  non-toxigenic C.  diphtheriae may  be  associated with sore throat without pseudo-membrane formation and with
+invasive disease. 25 Septicemia, endocarditis, septic arthritis, osteomyelitis, aneurysms, and osteomyelitis have been reported among clusters of drug addicts, alcoholics, homeless individuals, and  Australian  aboriginals  with  non-toxigenic C.  diphtheriae infection. 25-31
+
+============================================================
+CHUNK 8
+============================================================
+CLINICAL FEATURES
+Infection usually results from exposure to respiratory secretions from cases or carriers, or exudates from cutaneous lesions. The incubation period is usually from 2 to 5 days (range 1-10 days). The characteristic feature of diphtheria is the formation of a tough, {rmly adherent, dirty-gray, leather-like pseudo-membrane at the site  of  infection.  The  disease  is  usually  localized  to  mucous membranes  in  the  upper  respiratory  tract,  the  skin,  or  both. Symptoms and signs can develop at focal or multiple sites in the upper respiratory tract, including the nose, pharynx, tonsils, and larynx. 23 The  frequency  and  severity  of  clinical  symptoms  and signs depend on the site of infection, size of the pseudo-membrane, duration of illness, and the patient' s immunization history. However, regardless  of  the  site  of  infection,  systemic  manifestations  are similar  and  consequent  to  absorption  of  diphtheria  toxin  from these sites.
+The most common site for respiratory diphtheria is the tonsillopharyngeal area,  including the  posterior  pharynx,  soft  palate, periglottal area, uvula, and tonsillar mucosa (Fig. 41.2). The onset is usually insidious, and patients typically present with a low-grade fever (rarely exceeding < 103°F), sore throat, pain on swallowing, hoarseness of voice, pharyngeal injection, nasal discharge, cough, malaise, and prostration. 23,32 On initial examination, the pharynx is injected, but patches of exudates may appear a day after illness onset. These patches may expand and coalesce to form a whiteto-dirty-gray, tenacious membrane over one or both tonsils, the nasopharynx,  uvula,  and  soft  palate,  and  can  extend  downward into the larynx and trachea. The edge of the membrane is surrounded by a  narrow zone of erythema and a broader zone of mucosal edema. In severe disease, cervical lymph nodes are usually enlarged  and  tender  and,  along  with  surrounding  cervical  soft
+Fig. 41.2
+
+============================================================
+CHUNK 9
+============================================================
+CLINICAL FEATURES
+tissue edema, give rise to the so-called bull-neck appearance. Cervical swelling can cause external compression of the airways and respiratory stridor. Extension of the pseudo-membrane from the pharynx to  the  larynx  can  result  in  life-threatening  airway  obstruction. Attempts to remove the pseudo-membrane usually result in bleeding at the site. With treatment or control of infection, the membrane may slough off from its vascular mucosal bed, resulting in bleeding; the sloughed membrane may be coughed up or lead to asphyxiation and death.
+The laryngeal or tracheobronchial mucosa may be the primary site  of  infection or occur  as a downward expansion of a tonsillopharyngeal membrane. Laryngeal diphtheria is uncommon but is  a  medical  emergency  that  often  requires  tracheostomy. 33 It typically presents with hoarseness and stridor, dyspnea, and a brassy cough. Edema and membrane formation involving the larynx or trachea and bronchi may narrow the lumen of the airways, particularly in infants and young children, and progress to dyspnea, exhaustion, and death.
+Nasal  mucosa  is  more  frequent  among  infants,  and  young children usually present with a profuse mucoid, serosanguineous, or mucopurulent nasal discharge that can cause an erosive reaction on the external nares and upper lip (nasal diphtheria). In untreated patients, the nasal discharge may persist for many days or weeks and is often indistinguishable from a common cold. The discharge is a rich source of diphtheria bacilli and poses a risk to all exposed and susceptible contacts. A dirty-white membrane is usually present on the nasal septum and occasionally extends into the pharynx. Manifestations of systemic toxicity are rare.
+
+============================================================
+CHUNK 10
+============================================================
+CLINICAL FEATURES
+Cutaneous diphtheria is usually more common in warm, tropical climates and is normally associated with colonization of pre-existing skin lesions, such as surgical wounds, pyoderma, eczema, burns, impetigo, psoriasis, and insect bites. Co-infection with Staphylococcus aureus and group A Streptococcus is typical. The disease classically presents as single or multiple punched-out ulcers with rolled-out margins  and  a  dirty-gray  or  black  adherent  pseudo-membrane over the base. Common sites for cutaneous lesions include the lower  legs  (Fig.  41.3),  feet,  and  hands.  Lesions  from  which C. diphtheriae are isolated are indolent, non-progressive, super{cial,
+Fig. 41.3 C. diphtheriae
+and indistinguishable from those caused by other skin conditions. 7 Although systemic complications rarely occur from local absorption of toxin in cutaneous diphtheria, suf{cient toxin may be absorbed to act as a natural immunizing event to induce production of high antitoxin levels and protective immunity. If untreated, cutaneous diphtheria may persist for months. Shedding of C. diphtheriae from skin  lesions  occurs  over  a  longer  period  than  from  respiratory tract colonization,  and exudates  from  cutaneous  diphtheria can  contaminate  the  environment  and  may  be  an  important and  ef{cient  means  of  person-to-person  spread  in  tropical countries. 34
+Rarely,  the  primary  site  of  infection  may  be  the  mucous membranes at other localized sites, such as the conjunctiva, auditory canal, and vulva. 23 A local ulcer with exudate or pseudo-membrane may  be  present  and,  in  the  ear,  diphtheria  may  manifest  as  a chronic purulent discharge. However, lesions are self-limiting and rarely associated with systemic toxicity.
+
+============================================================
+CHUNK 11
+============================================================
+CLINICAL FEATURES
+Complications frequently result from systemic absorption of diphtheria  toxin,  particularly  in  the  heart,  nerves,  and  kidneys. Cardiac manifestations generally occur during the second week, but may occasionally be present from the {rst week or manifest as late as the sixth week of illness. The risk of myocarditis directly correlates  with  the  duration,  extent,  and  severity  of  disease,  as well as delay in initiating treatment with diphtheria antitoxin. 23 Diphtheritic myocarditis can present as dyspnea, angina, syncope, and a wide variety of abnormalities that includes diminished heart sounds,  new  or  altered  murmurs,  arrhythmias,  ectopic  beats,  a gallop rhythm, cardiac enlargement, low cardiac output, or hypotension. 35 Although about two thirds of patients may have electrocardiographic (ECG) changes after 1 to 2 weeks from onset, most are asymptomatic. 36 Clinically signi{cant myocarditis may develop in about 20% of patients with respiratory diphtheria 37,38 compared with 0% to 5% with cutaneous diphtheria. Abnormalities in ECG pattern,  particularly  ST-T wave  changes and  {rst-degree  heart block, can progress to more severe forms of block, atrioventricular dissociation, and other arrhythmias that carry a poor prognosis. Patients with ECG {ndings that do not exceed ectopic supraventricular beats, sinus bradycardia, prolonged P-R interval, or minor T-wave changes generally do well and are associated with little, if any, increased risk of death. 39 Patients with single bundle branch blocks, QRS widening, ST-T segment shifts, T-wave inversions, prolonged QT wave  intervals,  or  supraventricular  tachycardias are associated with a 10% to 50% mortality. 39 The fatality rate exceeds 90% in patients with third-degree block, more than two ventricular  premature  contractions,  ventricular  tachycardia,  or congestive cardiac failure. Cardiac pacing appears to be of little value in patients with third-degree block. 39 These patients have severe  cardiac  injury  and  die  of  congestive  cardiac  failure
+
+============================================================
+CHUNK 12
+============================================================
+CLINICAL FEATURES
+or ventricular tachycardia. Death from myocarditis may occur within 2 weeks of illness onset. Abatement of ECG abnormalities re|ects improving cardiac function and favors survival. Elevations of serum creatine  kinase  and  serum  aspartate  aminotransaminase/serum glutamic  oxaloacetic  transaminase  (AST/SGOT)  concentration closely parallel the intensity of myocarditis and so may be used to monitor its course. Detectable cardiac injury may completely resolve  over  months,  or  even  years,  but  some  survivors  are left  with  persistent  conduction  defects  requiring  long-term follow-up. 40
+Although neurologic complications are uncommon after mild diphtheria, up to 75% of patients with severe disease may develop polyneuropathy. 24 Affected patients develop palatine and posterior pharyngeal wall paralysis and cranial neuropathies involving muscles of  the  eye,  face,  pharynx,  and  larynx,  causing  dysphagia  and predisposing these patients to nasal regurgitation and aspiration. 24,41 The ocular manifestations  of  diphtheria  include  blurred  vision and  failure  of  accommodation.  In  addition,  several  weeks  after the  sore  throat,  a  peripheral  motor  demyelinating  neuritis  can occur, beginning in the proximal muscle groups in the extremities and progressing distally. In the lower extremities, the dorsi|exors of  the  feet  may  be  particularly  affected.  Occasionally,  motor nerves of the trunk, neck, and upper extremity are involved (as are sensory nerves) resulting in a glove-and-stocking neuropathy. Generally, there is slow but total resolution of the limb weakness. 24,41,42
+Less  commonly,  renal  failure  and  pneumonia  may  occur  in severe cases. Rare instances of encephalitis and cerebral infarction have been documented. Case fatality rates have remained stable at ≈ 10% in developed countries over the past {ve decades and are  highest in the very young  and very old; fatal outcomes are rare in fully vaccinated persons. 43
+
+============================================================
+CHUNK 13
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Respiratory diphtheria should be suspected in the presence of a gray pseudo-membrane in a patient with sore throat, mild fever, cervical lymphadenopathy, neck swelling, hoarseness of voice, and signs of systemic toxicity. The diagnosis is con{rmed by culturing toxigenic C. diphtheriae from swabs taken from the throat, respiratory tract, or membrane. 44 Throat swab specimens should be taken before administration of antibiotics to increase the chance of a positive culture and immediately transported to the laboratory. If clinical specimens cannot be immediately transported, they should be  sent  in  a  transport  medium  (e.g., Amies  media  or,  if  a  long delay is anticipated, in silica gel). Culturing of specimen optimally requires the use of a tellurite-containing medium. Identi{cation of C. diphtheriae and its biotypes is made from colony morphology (black colonies with a surrounding halo) and from biochemical tests.  T oxin  production  can  be  determined  by  in  vitro  (Elek) testing. 45
+Polymerase chain reaction (PCR) testing helps identify toxigenic C. diphtheriae, but this test may not be readily accessible in many countries.  PCR  testing  is  sensitive,  rapid,  and  most  useful  in specimens taken from patients who received antibiotics. However, PCR tests detect the genes coding the A and B fragments of the exotoxin and cannot con{rm the production of the toxin.
+Additional forms  of testing include matrix-assisted laser desorption/ionization time-of-|ight (MALDI-TOF) mass spectrometry and molecular diagnostics. MALDI-TOF can be used to  rapidly  identify C. diphtheriae . 46 The technique identi{es the protein  composition  of  microbial  cells  from  isolates.  However, this form of testing only con{rms the bacterial species and does not  con{rm  diphtheria  toxin  production.  Finally,  molecular characterization  of C.  diphtheriae strains  with  whole  genome sequencing  technology  shows  considerable  promise  in  aiding epidemiologic investigations, but is only available at a few reference laboratories. 47
+The differential diagnosis of diphtheria includes streptococcal or  viral  tonsillopharyngitis,  infectious  mononucleosis, Vincent's angina, herpetic tonsillitis, thrush, and acute epiglottitis.
+
+============================================================
+CHUNK 14
+============================================================
+TREATMENT
+The hallmark of treatment of respiratory diphtheria  is prompt administration  of  diphtheria  antitoxin,  which  neutralizes  free circulating diphtheria toxin; diphtheria antitoxin cannot neutralize cell-bound toxin. The antitoxin, an equine antiserum, is critical in the management of respiratory diphtheria. Early administration of antitoxin during the course of disease is effective in reducing the  extent  and  severity  of  local  disease,  as  well  as  the  risk  of systemic complications such as myocarditis and polyneuropathy and  death.  As  the  patient's  condition  may  deteriorate  rapidly, diphtheria antitoxin should be administered promptly as a single dose  without  awaiting  laboratory  con{rmation  of  the  clinical diagnosis, if diphtheria is strongly suspected. 44 Because diphtheria antitoxin is an equine product, skin testing should be performed before administration to rule out immediate-type hypersensitivity. Patients who exhibit hypersensitivity require desensitization before a full therapeutic dose of antitoxin is administered.
+Of note, diphtheria antitoxin  is in  scarce supply worldwide, with only limited or expired stockpiles available in some countries. A small  number  of  countries  produce  very  limited  amounts  of antitoxin  to  meet  their  domestic  needs.  In  2017  The  Strategic Advisory Group of Experts on Immunization (SAGE) of the WHO reviewed the global epidemiology of diphtheria and highlighted the  urgent  need  for  antitoxin. 48 SAGE  recommended  that  the WHO collaborate with partners to support antitoxin production and establish a stockpile. SAGE also recommended that the WHO identify mechanisms of support for the development of alternatives to  equine diphtheria  antitoxin. Such alternatives might include diphtheria monoclonal antibodies. 49,50
+
+============================================================
+CHUNK 15
+============================================================
+TREATMENT
+In  the  United  States,  the  Centers  for  Disease  Control  and Prevention (CDC)  recommends  a single-dose, intravenous administration of 20,000 to 40,000 units of diphtheria antitoxin for pharyngeal or laryngeal disease of less than 2 days' duration, 40,000  to  60,000  units  for  cases  with  nasopharyngeal  pseudomembrane  formation,  and  80,000  to  100,000  units  for  disease with duration of 3 days or more or extensive disease with neck swelling, irrespective of patient age. Although diphtheria antitoxin is no longer manufactured or licensed for use in the United States, it is available from the CDC under a Food and Drug Administration (FDA)-approved investigational new drug protocol. Physicians in the United States may obtain diphtheria antitoxin through their state health departments by contacting CDC's Emergency Operations  Center  at  770-488-7100;  additional  information  may  be obtained from the CDC website https://www.cdc.gov/diphtheria/.
+
+============================================================
+CHUNK 16
+============================================================
+TREATMENT
+The administration of recommended antibiotic therapy serves to  eliminate  the  organism,  thereby  stopping  toxin  production, improving local symptoms and signs of infection, and preventing spread of the organism to susceptible contacts. Patients should be  maintained  in  strict  droplet  isolation  until  non-infectious. Patients with untreated clinical respiratory disease usually remain infectious for 2 weeks or less, whereas those with symptomatic illness become non-infectious approximately 2 days after initiating effective  antibiotic  treatment. Respiratory  diphtheria should be treated with penicillin or erythromycin-the antibiotics of choice. 44 Both drugs are equally effective in resolving local symptoms and disappearance of the pseudo-membrane. 51 Procaine penicillin G is given at a dosage of 600,000 units (for children, 12,500-25,000 IU/ kg)  intramuscularly  (IM)  every  12  hours  until  the  patient  can swallow comfortably, after which oral penicillin V is given at 125 to 250 mg four times daily to complete a 14-day course. Alternatively,  erythromycin is given at a dosage of 500 mg IV every 6 hours (for children, 40-50 mg/kg per day IV in two or four divided doses) until the patient can swallow comfortably, after which 500 mg is  given  orally  four  times  daily  to  complete a 14-day course. A single,  IM  dose  of  benzathine  penicillin  G  (600,000-1,200,000 units) may be considered when compliance with oral therapy is uncertain.  Erythromycin is  marginally  superior  to  penicillin  in eradicating  the  carrier  state  and  may  be  preferred  for  initial treatment 8 ;  however,  there  is  increased  risk  of  gastrointestinal irritation and intolerance when given orally and thrombophlebitis when administered intravenously. Alternative agents for patients who are allergic to penicillin or cannot take erythromycin include rifampin and clindamycin. 8 Resistance to penicillin and erythromycin has been documented. 52 Cutaneous diphtheria should be treated with antibiotics as described for respiratory disease, but patients  seldom  require  antitoxin.  It  is  important  to  treat  the underlying cause of the dermatoses in addition to the co-infection with C. diphtheriae.
+
+============================================================
+CHUNK 17
+============================================================
+TREATMENT
+After therapy, elimination of C. diphtheriae should be documented by  two  consecutive  negative  cultures  at  24-hour  intervals  and taken at least 1 day after antimicrobial therapy is complete. For patients in whom the organism is not eliminated after a 14-day course of erythromycin or penicillin, an additional 10-day course followed by repeat culture is recommended. Treatment of acute diphtheria with prednisone is of limited or no value and does not reduce the incidence of myocarditis or polyneuropathy. 44 Supportive care is very important. Patients in whom diphtheria is con{rmed should be hospitalized in respiratory-droplet isolation rooms. Bed rest is recommended during the acute phase of illness (the {rst 2-3 weeks from onset of illness), but proof of its bene{t once the patient feels able to ambulate is lacking.
+Cardiac and respiratory complications can occur early in the course of disease. ECG abnormalities secondary to myocarditis can  occur within 3  days from onset  of disease  and  progress  to cardiogenic shock within a week. As signi{cant ECG abnormalities
+
+============================================================
+CHUNK 18
+============================================================
+TREATMENT
+may develop in patients without clinical evidence of myocarditis, it  is  important  to routinely monitor their cardiograms. Cardiac complications  can  be  detected  by  close  ECG  monitoring  and minimized  by  initiation  of  supportive  care,  including  inotropy, after-load reduction, and pacing. From a prognostic standpoint, patients with ECG changes of myocarditis have a higher mortality  rate  than  those  with  normal  tracings. Airway  obstruction can  result  from  aspiration  of  dislodged  pharyngeal  membrane, its  direct extension into the larynx, or external compression by enlarged nodes and cervical swelling. Consultation with an anesthesiologist or an ear, nose, and throat specialist is recommended because of the possibility that tracheostomy or intubation will be required to access and remove tracheobronchial membranes and to eliminate the risk of sudden asphyxia. Patients should also be monitored for development of primary or secondary pneumonia. While  awaiting  return  of  neurologic  function  in  patients  with neuropathies, physical therapy is indicated to maintain range of motion in paretic extremities. In addition, nasogastric tube feeding may  be  required  in  patients  who  have  palatine  or  pharyngeal paralysis  to  prevent  aspiration.  Protective  or  long-term  immunity  might not occur  in cases of diphtheria. Therefore an ageappropriate diphtheria toxoid-containing vaccine is administered during  the  convalescent  phase  to  boost  immunity  and  prevent recurrence. 43,44,53,54
+
+============================================================
+CHUNK 19
+============================================================
+PREVENTION
+Immunization with diphtheria toxoid is the most effective means of primary prevention. Diphtheria toxoid is available in combination with  tetanus  toxoid  (DT)  and  whole-cell  pertussis  (DT wP)  or acellular pertussis antigens (DT aP) for use in children < 7 years of age; the antigenic content of diphtheria toxoid in these preparations ranges from 6.7 to 15 limit of |occulation (Lf) units. Because the frequency and severity of local reactions from diphtheria toxoid increase with age, a combination vaccine (Td or Tdap) with lower antigenic content ( ≤ 2 Lf units) is used in children ≥ 7 years and adults. In the United States, the Advisory Committee on Immunization Practices recommends  that  three doses of diphtheria toxoid-containing vaccine (DT aP) be given to children at 4- to 8-week intervals beginning at 2 months of age, a fourth dose at 15 to 18 months, and a booster dose at 4 to 6 years of age. 55 An adolescent booster with tetanus toxoid and a reduced diphtheria toxoid and acellular pertussis antigens (Tdap) is recommended at 11 to 12 years of age. 56 Adults should receive a single dose of Td every 10 years. For adults who did not receive Tdap as an adolescent, a dose should be given as soon as feasible, regardless of the interval since the last dose of tetanus and diphtheria toxoid-containing vaccine. 57 For added protection against pertussis, pregnant women should  receive  a  single  dose  of  Tdap  during  every  pregnancy, preferably between 27 and 36 weeks' gestation. 58 For persons in whom pertussis vaccine is contraindicated, DT and Td should be used  instead  of  DT aP  and  Tdap,  respectively.  Unvaccinated individuals who are ≥ 7 years of age should receive a three-dose primary series with a tetanus and diphtheria toxoids-containing vaccine, one dose of which should be Tdap; the {rst two doses should be given at 4- to 8-week intervals and the third dose 6 to 12 months later. Booster doses of Td are recommended at 10-year intervals. 59
+
+============================================================
+CHUNK 20
+============================================================
+PREVENTION
+The childhood and adult vaccination schedule varies in other countries.  The  WHO's  Expanded  Program  on  Immunization recommends  a  three-dose  primary  immunization  series  with combined diphtheria and tetanus toxoids and pertussis vaccines starting at 6 weeks of age and administered at least 4 weeks apart. Some countries recommend one or two additional booster doses to be given at 12 months of age and at school entry. The vaccination strategy for adolescent and adult decennial booster doses varies by country and depends on resources, the capacity of immunization services,  and  the  local  disease  epidemiology.  Although  some developed  countries  routinely  offer  an  adolescent  dose,  most countries do not recommend routine adult booster doses. 33
+
+============================================================
+CHUNK 21
+============================================================
+REFERENCES
+1.  Funke  G, von  Graevenitz  A, Clarridge JE  3rd,  Bernard  KA. Clinical  microbiology  of  coryneform  bacteria.  Clin  Microbiol  Rev 1997;10(1):125-59.
+2.  World Health Organization. Department of Immunization, Vaccines and Biologicals. WHO Vaccine Preventable Diseases: Monitoring System. 2014 Global Summary. Geneva: World Health Organization. Geneva: World Health Organization; 2014.
+3.  Mattos-Guaraldi AL,  Moreira  LO,  Damasco  PV,  Hirata  Junior  R. Diphtheria remains a threat to health in the developing world-an overview. Mem Inst Oswaldo Cruz 2003;98(8):987-93.
+4.  Galazka A.  Implications  of  the  diphtheria  epidemic  in  the  Former Soviet Union for immunization programs. J Infect Dis 2000;181(Suppl. 1):S244-8.
+5.  Leggett  BA,  De  Zoysa  A,  Abbott  YE,  et al.  T oxigenic  Corynebacterium  diphtheriae  isolated  from  a  wound  in  a  horse.  Vet  Rec 2010;166(21):656-7.
+6.  Larsson P, Brinkhoff B, Larsson L. Corynebacterium diphtheriae in the environment of carriers and patients. J Hosp Infect 1987;10(3): 282-6.
+7.  Harnisch JP , T ronca E, Nolan CM, et al. Diphtheria among alcoholic urban  adults.  A  decade  of  experience  in  Seattle.  Ann  Intern  Med 1989;111(1):71-82.
+8.  McCloskey RV, Green MJ, Eller J, Smilack J. T reatment of diphtheria carriers: benzathine penicillin, erythromycin, and clindamycin. Ann Intern Med 1974;81(6):788-91.
+9.  Miller LW, Older JJ, Drake J, Zimmerman S. Diphtheria immunization. Effect upon carriers and the control of outbreaks. Am  J Dis  Child 1972;123(3):197-9.
+
+============================================================
+CHUNK 22
+============================================================
+REFERENCES
+10.  Dittmann S, Wharton M, Vitek C, et al. Successful control of epidemic diphtheria  in  the  states  of  the  Former  Union  of  Soviet  Socialist Republics: lessons learned. J Infect Dis 2000;181(Suppl. 1):S10-22.
+11.  ECDCP. A  case  of  diphtheria  in  Spain,  June  15,  2015.  Rapid  risk assessment. Stockholm: European Centre for Disease Prevention and Control, 2015. Report No.
+12.  ECDCP. A fatal case of diphtheria in Belgium, March 24, 2016. Rapid risk assessment. Stockholm European Centre for Disease Prevention and Control, 2016. Report No.
+13.  Rousseau C, Belchior E, Broche B, et al. Diphtheria in the south of France, March 2011. Euro Surveill 2011;16(19):1-3.
+14.  Garib Z, Danovaro-Holliday MC, T avarez Y, et al. Diphtheria in the Dominican Republic: reduction of cases following a large outbreak. Rev Panam Salud Publica 2015;38:292-9.
+15.  PAHO/WHO. Epidemiological Update: Diphtheria. December 16, Washington, D.C.: PAHO/WHO; 2016.
+16.  Hughes GJ, Mikhail AF, Husada D, et al. Seroprevalence and determinants of immunity to diphtheria for children living in two districts of contrasting incidence during an outbreak in East Java, Indonesia. Pediatr Infect Dis J 2015;34(11):1152-6.
+17.  Wanlapakorn N, Yoocharoen P , Tharmaphornpilas P , et al. Diphtheria outbreak in Thailand, 2012; seroprevalence of diphtheria antibodies among Thai adults and its implications for immunization programs. Southeast Asian J T rop Med Public Health 2014;45(5):1132-41.
+18.  Sein C, Tiwari T , Macneil A, et al. Diphtheria outbreak in Lao People's Democratic Republic, 2012-2013. Vaccine 2016;34(36):4321-6.
+
+============================================================
+CHUNK 23
+============================================================
+REFERENCES
+19.  Besa NC, Coldiron ME, Bakri A, et al. Diphtheria outbreak with high mortality in northeastern Nigeria. Epidemiol  Infect  2014;142(4):797-802.
+20.  di Giovine P , Kafatos G, Nardone A, et al. Comparative seroepidemiology  of  diphtheria  in  six  European  countries  and  Israel.  Epidemiol Infect 2013;141(1):132-42.
+21.  Galazka A. The changing epidemiology of diphtheria in the vaccine era. J Infect Dis 2000;181(Suppl. 1):S2-9.
+22.  Had{eld TL, McEvoy P , Polotsky Y, et al. The pathology of diphtheria. J Infect Dis 2000;181(Suppl. 1):S116-20.
+23.  Naiditch MJ, Bower AG. Diphtheria; a study of 1,433 cases observed during a ten-year period at the Los Angeles County Hospital. Am J Med 1954;17(2):229-45.
+24.  Logina I, Donaghy M. Diphtheritic polyneuropathy: a clinical study and comparison with Guillain-Barre syndrome. J Neurol Neurosurg Psychiatry 1999;67(4):433-8.
+25.  Zasada AA. Nontoxigenic highly pathogenic clone of Corynebacterium diphtheriae, Poland, 2004-2012. Emerg Infect Dis 2013;19(11):1870-2.
+
+============================================================
+CHUNK 24
+============================================================
+REFERENCES
+26.  Belko J, Wessel DL, Malley R. Endocarditis caused by Corynebacterium diphtheriae: case report and review of the literature. Pediatr Infect Dis J 2000;19(2):159-63.
+27.  Hogg GG, Strachan JE, Huayi L, et al. Non-toxigenic Corynebacterium diphtheriae biovar gravis: evidence for an invasive clone in a southeastern Australian community. Med J Aust 1996;164(2):72-5.
+28.  Zasada AA, Zaleska M, Podlasin RB, Seferynska I. The {rst case of septicemia due to nontoxigenic Corynebacterium diphtheriae in Poland: case report. Ann Clin Microbiol Antimicrob 2005;4:8.
+29.  Poilane I, Fawaz F , Nathanson M, et al. Corynebacterium diphtheriae osteomyelitis  in  an  immunocompetent  child:  a  case  report.  Eur  J Pediatr 1995;154(5):381-3.
+30.  Barakett V,  Morel  G,  Lesage D,  Petit  JC.  Septic  arthritis  due  to  a nontoxigenic strain of Corynebacterium diphtheriae subspecies mitis. Clin Infect Dis 1993;17(3):520-1.
+31.  Farfour E, Badell E, Zasada A, et al. Characterization and comparison of  invasive  Corynebacterium  diphtheriae  isolates  from  France  and Poland. J Clin Microbiol 2012;50(1):173-5.
+32.  Dobie RA, T obey DN. Clinical features of diphtheria in the respiratory tract. JAMA 1979;242(20):2197-201.
+33.  World Health Organization. Diphtheria vaccine: WHO position paper August-2017. Wkly Epidemiol Rec 2017;92(31):417-36.
+34.  Belsey MA, Sinclair M, Roder MR, LeBlanc DR. Corynebacterium diphtheriae skin infections in Alabama and Louisiana. A factor in the epidemiology of diphtheria. N Engl J Med 1969;280(3):135-41.
+
+============================================================
+CHUNK 25
+============================================================
+REFERENCES
+35.  Havaldar PV, Sankpal MN, Doddannavar RP . Diphtheritic myocarditis: clinical  and  laboratory  parameters  of  prognosis  and  fatal  outcome. Ann Trop Paediatr 2000;20(3):209-15.
+36.  Boyer  NH, Weinstein  L.  Diphtheritic  myocarditis.  N  Engl  J  Med 1948;239(24):913-19.
+37.  Ledbetter MK, Cannon AB 2nd, Costa AF. The Electrocardiogram in Diphtheritic Myocarditis. Am Heart J 1964;68:599-611.
+38.  Kneen R, Dung NM, Solomon T, et al. Clinical features and predictors of diphtheritic cardiomyopathy in Vietnamese children. Clin Infect Dis 2004;39(11):1591-8.
+39.  Stockins BA, Lanas FT, Saavedra JG, Opazo JA. Prognosis in patients with diphtheric myocarditis and bradyarrhythmias: assessment of results of ventricular pacing. Br Heart J 1994;72(2):190-1.
+40.  Celik  T,  Selimov  N,  Vekilova  A,  et al.  Prognostic  signi{cance  of electrocardiographic abnormalities in diphtheritic myocarditis after hospital  discharge:  a  long-term  follow-up  study.  Ann  Noninvasive Electrocardiol 2006;11(1):28-33.
+41.  Piradov  MA,  Pirogov VN, Popova LM, Avdunina  IA. Diphtheritic polyneuropathy  -  Clinical  analysis  of  severe  forms.  Arch  Neurol 2001;58(9):1438-42.
+42.  Krumina A, Logina I, Donaghy M, et al. Diphtheria with polyneuropathy in a closed community despite receiving recent booster vaccination. J Neurol Neurosurg Psychiatry 2005;76(11):1555-7.
+43.  Tiwari T, S P , Wharton M. Diphtheria toxoid. In: Plotkin SOW, Of{it P, editors. Vaccines. 6th ed. Philadelphia: Saunders; 2013. p. 153-66.
+
+============================================================
+CHUNK 26
+============================================================
+REFERENCES
+44.  Farizo  KM,  Strebel  PM,  Chen  RT,  et al.  Fatal  respiratory  disease due  to  Corynebacterium  diphtheriae:  case  report  and  review  of guidelines  for  management,  investigation,  and  control.  Clin  Infect Dis 1993;16(1):59-68.
+45.  Engler KH, Glushkevich T, Mazurova IK, et al. A modi{ed Elek test for detection of toxigenic corynebacteria in the diagnostic laboratory. J Clin Microbiol 1997;35(2):495-8.
+46.  Konrad R, Berger A, Huber I, et al. Matrix-assisted laser desorption/ ionisation time-of-|ight (MALDI-TOF) mass spectrometry as a tool for rapid diagnosis of potentially toxigenic Corynebacterium species in the laboratory management of diphtheria-associated bacteria. Euro Surveill 2010;15(43):9-13.
+47.  Bolt F,  Cassiday P , T ondella ML, et al. Multilocus sequence typing identi{es  evidence  for  recombination  and  two  distinct  lineages  of Corynebacterium diphtheriae. J Clin Microbiol 2010;48(11):4177-85.
+48.  World Health Organization. Meeting of the Strategic Advisory Group of Experts on Immunizations, April, 2017 -conclusions and recommendations. Wkly Epidemiol Rec 2017;92(22):301-20.
+49.  Smith HL, Cheslock P , Leney M, et al. Potency of a human monoclonal antibody to diphtheria toxin relative to equine diphtheria anti-toxin in a guinea pig intoxication model. Virulence 2016;7(6):660-8.
+50.  Sevigny LM, Booth BJ, Rowley KJ, et al. Identi{cation of a human monoclonal antibody to replace equine diphtheria antitoxin for treatment of diphtheria intoxication. Infect Immun 2013;81(11):3992-4000.
+
+============================================================
+CHUNK 27
+============================================================
+REFERENCES
+51.  McCloskey  RV,  Eller  JJ,  Green  M,  et al.  The  1970  epidemic  of diphtheria in San Antonio. Ann Intern Med 1971;75(4):495-503.
+52.  Kneen R, Pham NG, Solomon T, et al. Penicillin vs. erythromycin in the treatment of diphtheria. Clin Infect Dis 1998;27(4):845-50.
+53.  Bonnet JM, Begg NT. Control of diphtheria: guidance for consultants in communicable disease control. World Health Organization. Commun Dis Public Health 1999;2(4):242-9.
+54.  American Academy of Pediatrics. Diphtheria. In: Pickering LK, Baker CJ, Long SS, McMillan JA, editors. Red Book: 2009 Report of the Committee on Infectious Diseases. 28th ed. Elk Grove Village: American Academy of Pediatrics; 2009. p. 280-3.
+55.  Kroger AT, Sumaya CV, Pickering LK, Atkinson WL. General Recommendations on Immunization: recommendations of the Advisory Committee  on  Immunization  Practices  (ACIP).  Recommendations and reports. MMWR Morb Mortal Wkly Rep 2011;60(RR-02):1-60.
+56.  Broder  KR,  Cortese  MM,  Iskander  JK,  et al.  Preventing  tetanus, diphtheria, and pertussis among adolescents: use of tetanus toxoid, reduced diphtheria toxoid and acellular pertussis vaccines recommendations of the Advisory Committee on Immunization Practices (ACIP). MMWR Recomm Rep 2006;55(RR-3):1-34.
+57.  Kretsinger  K,  Broder  KR,  Cortese  MM,  et al.  Preventing  tetanus, diphtheria, and pertussis among adults: use of tetanus toxoid, reduced diphtheria toxoid and acellular pertussis vaccine recommendations of the Advisory Committee on Immunization Practices (ACIP) and recommendation of ACIP, supported by the Healthcare Infection Control Practices Advisory Committee (HICPAC), for use of Tdap among health-care personnel. MMWR Recomm Rep 2006;55(RR-17):1-37.
+
+============================================================
+CHUNK 28
+============================================================
+REFERENCES
+58.  CDC. Updated recommendations for use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccine (Tdap) in pregnant women-Advisory  Committee  on  Immunization  Practices  (ACIP), 2012. MMWR Morb Mortal Wkly Rep 2013;62(7):131-5.
+59.  CDC. Diphtheria, tetanus, and pertussis: recommendations for vaccine use and other preventive measures. Recommendations of the Immunization  Practices Advisory committee  (ACIP). MMWR  Recomm Rep 1991;40(RR-10):1-28.
+

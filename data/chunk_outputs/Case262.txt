@@ -1,0 +1,108 @@
+============================================================
+CHUNK 0
+============================================================
+36
+
+============================================================
+CHUNK 1
+============================================================
+KEY FEATURES
+- with many that are transmitted by insect vectors or are zoonotic.
+- can evolve rapidly in new and changing environments. This, in combination with societal factors, climate change, and rapid travel, has increased the number of epidemics from emerging pathogens in the last several decades.
+- potential viruses, and the clinical presentation by illness day is essential in making the right diagnosis and identifying the infecting virus.
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+Emerging diseases and/or pathogens is a term used frequently when describing new or spreading infections in the human population. It is a term used to describe the emergence of previously unrecognized  pathogens  that  produce  human  disease  or  recognized pathogens expanding in different ways through the population. 1 Emerging diseases have historically been responsible for civilizationaltering  events.  Bubonic  plague  during  the  14th  century  was responsible for the death of 60% of the European population. 2 The Spanish |u pandemic in 1918 resulted in the death of 50 to 100 million  worldwide;  the  rinderpest  epidemic  in  livestock in Eastern Africa during the 19th century resulted in the starvation of 75% of the Massai population; and potato blight produced the Irish potato famine, reducing the Irish population by 25%. 3 Our generation has had dramatic experiences in the last decade with emerging or reemerging pathogens that rapidly spread and result in death or illness in large segments of the population, to include many of the pathogens mentioned in this section and outlined in this book, such as Ebola and Zika viruses. For the clinician, the challenge is to distinguish a viral febrile illness caused by an endemic pathogen from one that is 'emerging' and has the potential for human-to-human  spread,  requiring  isolation  and,  if  available, targeted therapy. The scenario is common: a patient presents to the  emergency  room,  usually  on  a  weekend,  with  fever  and  a constellation of symptoms and a recent history of travel overseas. The fear is this Ebola, Lassa fever, or another unknown contagious pathogen, and are the clinician and the staff at risk? In this section the epidemiology, clinical features, and evaluation of the patient with a potential viral febrile illness from an emerging pathogen are discussed.
+
+============================================================
+CHUNK 3
+============================================================
+EPIDEMIOLOGY
+We are humbled by a 2011 editorial entitled 'Microbiology by Numbers,'  which  estimates  that 'if  all  the  1 × 10 31 viruses  on earth were laid end to end, they would stretch for 100 million
+
+============================================================
+CHUNK 4
+============================================================
+Viral Febrile Illnesses and Emerging Pathogens
+Timothy P. Endy light  years!' 4 Additionally  in  this  editorial,  it  is  estimated  that there are approximately 1400 known species of human pathogens which includes viruses, bacteria, fungi, and parasites and represents 1%  of  the  total  number  of  microbial  species  on  the  earth. 4 Approximately 50% of the human pathogens have an origin in the  animal  species. 5 The  potential  of  the  remaining  99%  of microbial species to adapt and transform into potential human pathogens is daunting and emphasizes the challenges we face in recognizing and predicting the next epidemic. T able 36.1 lists the reported  outbreaks  by  year  as  reported  by  the  World  Health Organization. 6 Conclusions that we can draw from this table are that  the  majority  of  the  reported  outbreaks  of  diseases  in  the world are caused by viruses, the majority of these viruses are RNA viruses, most have an animal reservoir in their life cycle, and the majority of outbreaks affect developing countries and potential 'hot  spots'  for  emerging  pathogens.  Jones  et al.  analyzed  335 emerging  infectious  disease  events  between  1940  and  2004. 7 Emerging disease events were found to have risen signi{cantly over time, with the peak number of events occurring in the 1980s corresponding  to  the  HIV  pandemic.  Emerging disease events were predominantly zoonotic (60.3%), originated from wildlife
+
+============================================================
+CHUNK 5
+============================================================
+Viral Febrile Illnesses and Emerging Pathogens
+Year, Reported Disease Outbreaks by Year = Outbreaks by Pathogen. 2017, Reported Disease Outbreaks by Year = Marburg virus, plague, MERS-CoV, dengue fever, influenza (H7N9), chikungunya, yellow fever, cholera, hepatitis E, meningococcus, hepatitis A, Zika virus.. 2016, Reported Disease Outbreaks by Year = Poliovirus, MERS-CoV, dengue fever, avian influenza (H7N9, H5N6), Rift Valley fever, monkeypox, chikungunya, enterohemorrhagic E. coli, yellow fever, Lassa fever, salmonellosis, Zika virus, Elizabethkingia, oropouche.. 2015, Reported Disease Outbreaks by Year = Poliovirus, MERS-CoV, cholera, avian influenza (H7N9), chikungunya, plague, Lassa fever, Zika virus, measles, meningococcus, typhoid fever, Ebola.. 2014, Reported Disease Outbreaks by Year = Ebola, avian influenza (H7N9, H5N6), West Nile virus, plague, Marburg, polio, MERS-CoV, chikungunya, enterovirus D68, cholera, yellow fever.. 2013, Reported Disease Outbreaks by Year = MERS-CoV, avian influenza (H7N9), yellow fever, polio, cholera, meningococcus, novel coronavirus.. 2012, Reported Disease Outbreaks by Year = Yellow fever, novel coronavirus, Ebola, Marburg, Rift Valley fever, dengue fever, cholera, hantavirus pulmonary syndrome, enterovirus 71, meningococcus.. 2011, Reported Disease Outbreaks by Year = Yellow fever, polio, cholera, enterohemorrhagic E. coli, Ebola, measles, avian influenza (H5N1).. 2010, Reported Disease Outbreaks by Year = Avian influenza (H5N1), cholera, polio, yellow fever, plague, pandemic influenza (H1N1), Rift Valley fever.. 2009, Reported Disease Outbreaks by Year = Pandemic influenza (H1N1), avian influenza (H5N1),
+
+============================================================
+CHUNK 6
+============================================================
+Viral Febrile Illnesses and Emerging Pathogens
+yellow fever, dengue fever, swine influenza (A/H1N1), polio, cholera, Ebola.. 2008, Reported Disease Outbreaks by Year = Cholera, Ebola, yellow fever, avian influenza (H5N1), Marburg, polio, enterovirus, Rift Valley fever.. Source: Disease outbreaks by year: World Health Organization; [Available from: http://www.who.int/csr/don/archive/year/en/.], Reported Disease Outbreaks by Year = Source: Disease outbreaks by year: World Health Organization; [Available from: http://www.who.int/csr/don/archive/year/en/.]
+(71.8%), and are increasing over time. Factors that determine the emergence  of  these  viruses  include  (1)  high  mutation  rate  and adaptation of the RNA viruses; (2) human intimacy (cross-species transmission) and movement of animal species due to land development  and  migration  from  political  con|icts;  (3)  increase  in urbanization;  (4)  climate  change  with  increase  and  spread  of potential insect vectors and changes in migratory patterns of birds; and (5) societal mobility through air travel. 8
+
+============================================================
+CHUNK 7
+============================================================
+CLINICAL FEATURES
+Emerging viral pathogens can, in general, present in one of the following clinical categories: (1) generalized febrile illness producing a 'viral syndrome,' (2) fever with meningitis/encephalitis, (3) fever with joint pain, (4) hemorrhagic fever, and (5) birth defects. Due to human host and viral diversity, many viruses can produce illness across the spectrum of these clinical categories. For example, dengue virus as a {rst infection can result in a sub-clinical infection or  a  febrile  illness  that  results  in  a  self-limited  fever,  myalgia, bone  pain,  and  transient  laboratory  abnormalities.  On  second infection, dengue virus in a minority of patients can produce a severe hemorrhagic disease. Chikungunya and Ross River viruses can produce a generalized febrile illness but also severe joint pains that can persist for months. Japanese encephalitis, West Nile, and the equine encephalitis viruses are classic viruses that produce a meningo-encephalitis in 1% of the persons infected. Yellow fever and the {loviruses (Ebola and Marburg) are examples of severe hemorrhagic fever viruses. The recent Zika virus outbreak and birth defects associated with infection in pregnant women have broadened our clinical categories to include those that produce birth  defects.  All  viruses  produce  a  constellation  of  signs  and symptoms  early  in  infection  that  are  clinically  the  same.  After infection,  an  incubation  period  of  normally  between  1  and  14 days  can  occur,  with  some  exceptions.  For  example,  Ebola  has been reported to occur 21 days after exposure. 9 The {rst onset of symptoms heralds the host immune response with fever followed by generalized symptoms of headache, muscle aches, joint pains, nausea, vomiting, and diarrhea. Early laboratory abnormalities that would indicate a viral infection include leukopenia, anemia, and thrombocytopenia. Electrolyte and renal function abnormalities can be common if the patient is volume depleted. As the disease progresses, clinical manifestations will be become more speci{c for  the  clinical  syndrome  and  provide  clues  on  the
+
+============================================================
+CHUNK 8
+============================================================
+CLINICAL FEATURES
+potential virus, such as the onset of headache, neck stiffness, and altered sensorium in the case of encephalitis; severe joint pains; or bleeding internally or externally with blood loss or hemoconcentration, with plasma leakage with the hemorrhagic fevers. Speci{c manifestations  such  as  diuresis,  volume  loss,  and  renal  dysfunction  can be an indicator for viruses that produce hemorrhagic fever with renal syndrome such as the Hantaviruses or Lassa fever. Rash is common to all the viral illnesses and in general indicates a shift in the host immune response from a cell-mediated to a humoral immune response with a rise in antibodies. It is important for the clinician  to  understand  that  viremia  occurs  several  days  before the  onset  of  clinical  illness  and  through  the  duration  of  early clinical  symptoms. Pathogens that are spread by insect vectors, the respiratory route, blood-borne contact, or sexually can occur before  the  onset  of  clinical  symptoms,  and  thus  infect  others who  come  in  contact  by  that  route.  Contact  tracing  from  the index patient should include the days of viremia before the onset of symptoms.
+
+============================================================
+CHUNK 9
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Understanding the incubation time of viral pathogens is the {rst important step in evaluating the febrile patient. A travel history in an area of an outbreak or potential hot spot for an emerging disease should be within the incubation period of these pathogens (1-21  days).  For  example,  a  febrile  patient  in  your  clinic  or emergency room who had traveled overseas 3 months before fever would be unlikely to have a viral infection, and potential other etiologies such as non-falciparum malaria or a parasitic infection should be considered. An extensive travel history and exposures while traveling will help to determine the risk for the patient to acquire a local infection. An important question often not asked is  'who  else  is  sick  in  your  travel  party,  and  have  you  been  in contact with anyone acutely ill?' This can often be an important clue on the risk of acquiring an infection. If the patient is within the incubation period and at risk for a viral illness, determining the clinical illness day is important when obtaining the history. Our studies  in  hospitalized  patients  with  dengue  infection,  for example, illustrate the importance for the clinician to approach the  viral  febrile  illness  and  differential  of  potential  viruses  by determining  the  patient's  clinical  illness  day  and  their  clinical manifestation. 10 Fig. 36.1 demonstrates an idealized patient with a viral febrile illness. In this example, after an incubation period of 3 days, the {rst day of viremia occurs. Viremia will continue, with the onset of fever heralding the {rst day of clinical illness. In  general,  the  {rst  3  to  5  days  of  clinical  illness  of  most  viral infections will be a generalized febrile illness with no clinical signs or  symptoms that  will  distinguish  the  illness  to  a  speci{c  viral pathogen, denoted here as a viral syndrome. Headache, myalgia, nausea, diarrhea, and respiratory symptoms will be common during the viral syndrome stage. In|uenza, dengue, chikungunya, Ebola, or Lassa fever will all be indistinguishable from each other in the early  clinical  illness.  By  day  5  of  the  clinical  illness  day,  day
+
+============================================================
+CHUNK 10
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+9 post-infection, the manifestations will become more speci{c and hemorrhagic manifestations and coagulopathy will occur, along with plasma leakage and encephalitis. As the host response increases with antibody levels rising and cytokines peaking, the manifestations of a speci{c viral illness will become apparent as cellular damage occurs.
+The  diagnosis  and  diagnostic  methods  used  to  identify  the viral pathogens are also dependent on the clinical illness day. Fig. 36.1 demonstrates the time-dependent diagnostic test that can be performed during the clinical course of the patient. In this example, viremia  will  start  before  fever  and  last  until  6  days  of  clinical illness and before the onset of viral-speci{c IgM and IgG antibodies. During viremia, diagnostic tests should be focused on detecting the  virus,  whether  by  viral  isolation,  molecular  techniques,  or antigen detection. Viremia starts to resolve with the onset of the host  response and corresponding  rise in viral-speci{c IgM and IgG.  Antibodies  will  continue  to  rise  during  the  convalescent period, and IgG will last several years or more. Once antibodies start to rise, the diagnostics are focused on their detection, with a variety of methods that can be used, including enzyme-linked immunoassays,  hemagglutination  inhibition,  plaque  reduction neutralization, and rapid tests.
+
+============================================================
+CHUNK 11
+============================================================
+TREATMENT AND CONTROL
+Treatment and control are virus speci{c, emphasizing the need for  early  recognition  and  ordering  the  appropriate  diagnostics. Many of the viruses that are responsible for febrile illnesses and are considered emerging or emerged have no available treatment or vaccine. Reading through the speci{c viruses and chapters in this book will give the reader valuable information on potential treatments. For vector-borne or zoonotic viruses, control will be speci{c and include both aerial and larvicidal spraying for mosquitoborne viruses, personal protection practices for both mosquitoes and ticks, and animal control for zoonotic-borne viruses. Contact practices and/or isolation may be appropriate for viruses that can be transmitted human to human, such as the respiratory viruses, Crimean-Congo hemorrhagic fever, and the {loviruses Marburg and Ebola.
+
+============================================================
+CHUNK 12
+============================================================
+REFERENCES
+1.  Morse  SS,  Hughes  JM.  Developing  an  integrated  epidemiologic approach to emerging infectious diseases. Epidemiol Rev 1996;18(1):1-3.
+2.  Benedictow OJ. Morbidity in historical plague epidemics. Popul Stud (Camb) 1987;41(3):401-31.
+3.  Lindahl JF,  Grace D. The consequences of human actions on risks for infectious diseases: a review. Infect Ecol Epidemiol 2015;5:30048.
+4.  Microbiology by numbers. Nat Rev Microbiol 2011;9:628.
+5.  Howard CR, Fletcher NF. Emerging virus diseases: can we ever expect the unexpected? Emerg Microbes Infect 2012;1(12):e46.
+6.  World  Health  Organization.  Disease  oubreaks  by  year. http:// www.who.int/csr/don/archive/year/en/.
+8.  Woolhouse  ME,  Haydon  DT,  Antia  R.  Emerging  pathogens:  the epidemiology and evolution of species jumps. T rends Ecol Evol (Amst) 2005;20(5):238-44.
+9.  Richards  GA,  Baker T, Amin  P .  Council  of  the  World  Federation of  Societies  of  Intensive  and  Critical  Care  Medicine.  Ebola  virus disease: report from the task force on tropical diseases by the world federation of societies of intensive and critical care medicine. J Crit Care 2018;43:352-5.
+10.  Libraty DH, Endy TP, Houng HS, et al. Differing in|uences of virus burden and immune activation on disease severity in secondary dengue-3 virus infections. J Infect Dis 2002;185(9):1213-21.
+7.  Jones  KE,  Patel  NG,  Levy  MA,  et al.  Global  trends  in  emerging infectious diseases. Nature 2008;451:990.
+Fig. 36.1 Clinical course by illness day and diagnostic methods.
+
+============================================================
+CHUNK 13
+============================================================
+36.1 Dengue and Dengue Hemorrhagic Fever
+Daniel H. Libraty
+
+============================================================
+CHUNK 14
+============================================================
+KEY FEATURES
+- disease throughout the world. It is caused by infection with any one of the four dengue virus serotypes (DENVs 1-4).
+- range from an inapparent or mild febrile illness, to the more symptomatic and well-described dengue fever (DF), to the most severe, and sometimes fatal, form of illness, dengue hemorrhagic fever (DHF) (severe dengue).
+- a vascular leakage syndrome that develops around the time
+- of defervescence. The relative risk for developing DHF/ severe dengue is increased with sequential heterologous DENV infections.
+- pre-de{ned 'warning signs' require close monitoring and supportive care during the critical phase of illness.
+- < 1% with early recognition and appropriate supportive care and management.
+

@@ -1,0 +1,11 @@
+=================DOCUMENTATION REFERENCES=================
+For more information, please visit the official documentation at:
+https://docling-project.github.io/docling/
+https://www.datacamp.com/tutorial/docling
+=================PAPER REFERENCES=================
+If you use Docling in your research, please cite the following paper:
+https://arxiv.org/pdf/2408.09869
+https://arxiv.org/pdf/2206.01062
+https://arxiv.org/pdf/2501.17887
+=================CODE REFERENCES=================
+https://github.com/ibm-granite-community/granite-snack-cookbook/blob/main/recipes/RAG/Granite_Docling_RAG.ipynb

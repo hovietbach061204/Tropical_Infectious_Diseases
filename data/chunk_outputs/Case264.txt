@@ -1,0 +1,159 @@
+============================================================
+CHUNK 0
+============================================================
+(icaridin). 18 At the public health level, a sustained and integrated vector-control strategy is generally needed to consistently reduce A. aegypti population densities. A. aegypti mosquitoes proliferate in many peri-domestic water-containing habitats. These include purposely {lled man-made containers (e.g., water storage barrels, |owerpots/vases), rain-{lled objects (e.g., used tires), and natural habitats (e.g., tree holes).
+Dengue vaccine development has moved forward with encouraging advances. Given the potential for increased disease severity upon sequential infection with heterologous DENV serotypes, a general consensus has been that effective vaccination strategies will  require  simultaneous  immunization  to  the  four  DENV serotypes (tetravalent vaccines). A chimeric live-attenuated viral vaccine, where the DENVs 1 to 4 envelope proteins have been engineered onto a yellow fever (YF)-17D vaccine backbone,  is licensed in several countries. However, if this vaccine is administered to truly dengue-naïve individuals, it appears to be able to enhance the subsequent disease severity with a natural DENV infection. Another  tetravalent  live-attenuated  dengue  vaccine  (attenuated by a deletion in the DENV2 3' untranslated region [UTR]) is in phase III clinical trials. Other dengue vaccine products that are in  pre-clinical  or  early  clinical  phases  include  an  adjuvanted recombinant envelope protein vaccine, an adjuvanted inactivated virus vaccine, and a plasmid DNA vaccine. The combination of effective  dengue  vaccination  with  vector-control  strategies  will open up the possibility of severely halting, or even eradicating, DENV transmission in many endemic regions.
+
+============================================================
+CHUNK 1
+============================================================
+REFERENCES
+1.  Vasilakis N, Weaver SC. The history and evolution of human dengue emergence. Adv Virus Res 2008;72:1-76.
+2.  Kyle JL, Harris E. Global spread and persistence of dengue. Annu Rev Microbiol 2008;62:71-92.
+3.  Halstead SB. Dengue. Lancet 2007;370:1644-52.
+4.  Cummings DA, Irizarry RA, Huang NE, et al. Travelling waves in the occurrence of dengue haemorrhagic fever in Thailand. Nature 2004;427:34-7.
+
+============================================================
+CHUNK 2
+============================================================
+36.2 Chikungunya Fever
+Ann M. Powers
+
+============================================================
+CHUNK 3
+============================================================
+KEY FEATURES
+- nearly global distribution. Infection is characterized by the abrupt onset of high fever with severe arthralgia and rash.
+- but may result in long-term arthralgia affecting quality of life.
+- consists of treatment for the fever and pain. No vaccine yet exists, but both vaccines and therapeutic options are under development.
+- Aedes aegypti and A. albopictus mosquitoes. Endemic maintenance of the virus is by forest-dwelling Aedes species mosquitoes.
+5.  Rigau-Perez JG, Clark  GG,  Gubler DJ,  et al. Dengue and dengue haemorrhagic fever. Lancet 1998;352:971-7.
+6.  Bhatt S, Gething PW, Brady OJ, et al. The global distribution and burden of dengue. Nature 2013;496(7446):504-7.
+7.  Halstead SB. Pathogenesis of dengue: challenges to molecular biology. Science 1998;239:476-81.
+8.  Nimmannitya S. Dengue hemorrhagic fever: diagnosis and management. In:  Gubler DJ, Kuno G, editors. Dengue and dengue hemorrhagic fever. New York: CAB International; 1997.
+9.  Wills BA, Oragui EE, Dung NM, et al. Size and charge characteristics  of  the  protein  leak  in  dengue  shock  syndrome.  J  Infect  Dis 2004;190:810-18.
+10.  Sabin A. Research on dengue during World War II. Am J Trop Med Hyg 1952;1:30-50.
+11.  Halstead SB. Pathogenesis of dengue: challenges to molecular biology. Science 1988;239:476-81.
+12.  Halstead  SB,  Lan  NT,  Myint  TT,  et al.  Dengue  hemorrhagic fever  in  infants:  research  opportunities  ignored.  Emerg  Infect  Dis 2002;8:1474-9.
+13.  Beltran D, Lopez-Verges S. NK cells during dengue disease and their recognition of dengue virus-infected cells. Front Immunol 2014;5:192.
+
+============================================================
+CHUNK 4
+============================================================
+KEY FEATURES
+14.  Libraty  DH, Wang  P ,  Guo  Z,  et al.  The  pattern  of  adipose  tissue accumulation during early infancy provides an environment for the development  of  dengue  hemorrhagic  fever.  PLoS  Negl  T rop  Dis 2015;9(12):e0004267.
+15.  Rothman AL. Dengue: de{ning protective versus pathologic immunity. J Clin Invest 2004;113(7):946-51.
+16.  Dengue  haemorrhagic  fever:  diagnosis,  treatment,  prevention  and control. 2nd ed. Geneva: World Health Organization; 1997.
+17.  Kalayanarooj  S,  Vaughn  DW,  Nimmannitya  S,  et al.  Early  clinical  and  laboratory  indicators  of  acute  dengue  illness.  J  Infect  Dis 1997;176:313-21.
+18.  World Health Organization. Dengue: guidelines for diagnosis, treatment, prevention and control-new edition. Geneva: World Health Organization; 2009.
+19.  Potts JA, Rothman AL. Clinical and laboratory features that distinguish dengue from other febrile illnesses in endemic populations. T rop Med Int Health 2008;13:1328-40.
+
+============================================================
+CHUNK 5
+============================================================
+INTRODUCTION
+Chikungunya (CHIK) fever is an arboviral disease that is characterized by the rapid onset of high fever, rash, and severe joint pain (Fig. 36.2.1). Its name is derived from the Makonde word meaning 'that which bends up' in reference to the stooped posture that develops as a result of the arthritic symptoms of the disease. The disease is nearly always self-limiting. 1 The causative agent, chikungunya virus (CHIKV), is a single-stranded, positive-sense RNA virus belonging to the family T ogaviridae , genus Alphavirus. Molecular characterization has demonstrated three distinct genotypes (West African, Central/East African, and Asian)  that historically  were  geographically  limited  to  Africa  and  Asia. 2 Recent spread has made the pathogen a nearly  global  concern (Fig. 36.2.2). A zoonotic cycle is known to exist in Africa involving a range of vertebrate hosts, including non-human primates, and  forest-dwelling Aedes  (Stegomyia) mosquitoes.  The  virus  is transmitted to humans primarily by Aedes aegypti and A. albopictus mosquitoes.
+Fig. 36.2.1 (A) Inability to stand or walk without support due to involvement of joints in a chikungunya case (stooped posture). Maculopapular rash on lower extremities (B) and upper extremities (C) in cases of chikungunya fever.
+
+============================================================
+CHUNK 6
+============================================================
+EPIDEMIOLOGY
+The {rst recorded epidemic occurred in T anzania in 1952-1953. In Asia, CHIKV was {rst detected in Bangkok, Thailand, in 1958. In India, well-documented outbreaks occurred in 1963 and 1964 in Calcutta and southern India, respectively. Thereafter, a small outbreak  of  CHIK  was  reported  from  the  Sholapur  district, Maharashtra, in 1973. 3 Cases of CHIK continued to be reported in Africa and Southeast Asia, although no additional major outbreaks were  reported  for  nearly  three  decades.  The  virus  emerged  in East Africa (Kenya) and the islands of the Indian Ocean, including Comoros, La Reunion, Mayotte, Mauritius, and Seychelles, beginning in 2004. 4-6 CHIKV then re-emerged in India in December 2005. The 2005-2006 outbreak in India involved approximately 1.35 million suspected cases in 12 states. The attack rate reached up to 45% due to the lack of herd immunity, a large susceptible population, and the ability of certain strains containing an alanine to valine mutation in the E1 gene to more ef{ciently infect the secondary vector, A. albopictus . 3
+Imported cases of CHIKV infection were reported from Europe and North and South America in returning travelers from areas with  high  incidence  rates. 7 In  2013  the  virus  emerged  in  the Caribbean island of St. Martin and quickly spread throughout the Caribbean and Latin America. In the {rst year alone in the Americas, an estimated > 1 million cases occurred in over 40 countries (Fig. 36.2.3).  Although  massive  outbreaks  have  subsided,  the  virus continues to circulate on a nearly global scale.
+
+============================================================
+CHUNK 7
+============================================================
+PATHOGENESIS
+After  the  bite  of  an  infected  mosquito,  the  virus  replicates  in {broblasts and epithelial cells leading to a viremia that can reach up to 8 log10/mL. The skin, joints, and muscles are the primary affected organs, whereas the nervous system, heart, and liver are less frequently involved. Macrophage appear to be susceptible to infection during the viremic phase. Mouse models have shown that type 1 interferon response appears to be associated with control of infection. 8
+
+============================================================
+CHUNK 8
+============================================================
+CLINICAL FEATURES
+CHIK is an acute infection of abrupt onset, heralded by high fever and severe arthralgia, followed by other constitutional symptoms and rash (typically maculopapular) lasting for a period of 1 to 7 days. The incubation period is usually 3 to 7 days, with a range of 2 to 12 days. Fever rises abruptly, often reaching 39°C to 40°C. This acute phase lasts a few days to 2 weeks. 9 In some cases, the temperature may remit for 1 to 2 days after a gap of 4 to 10 days, resulting in a 'saddle back' fever curve that is characteristic of arthropod-borne virus infections.
+The arthralgias are polyarticular, symmetric, and predominantly affect the small joints of the hands, wrists, ankles, and feet (see Fig. 36.2.1) with lesser involvement of larger joints. During the acute phase, joint pain can be incapacitating. Patients with milder articular  manifestations  are  usually  symptom  free  within  a  few
+(thousands)
+Cases, Suspected and Confirmed
+1800
+1600
+1400
+1200 -
+1000
+800
+600 -
+400 -
+200 -
+45 countries
+1,675,387 reported cases
+50
+45
+40
+35
+Countries and Territories with Local Transmission
+Fig. 36.2.2 Global distribution of autochthonous CHIKV (as of 2016).
+Fig. 36.2.3 Number of countries in the Americas with local chikungunya transmission and number of cases, 2014-2015. (From Petersen LR, Powers AM. Chikungunya: epidemiology. F1000Research 2016;5:82.)
+
+============================================================
+CHUNK 9
+============================================================
+CLINICAL FEATURES
+weeks, but more severe cases require months or years to resolve entirely. 10 One study indicated that one third of patients had chronic joint symptoms that persisted for at least 9 months. 11 Cutaneous manifestations are typical with many patients. This is usually a maculopapular rash, but bullous lesions can occur in infants. The trunk and limbs are most commonly involved, but the face, palms, and soles may also show lesions. During the acute phase, some patients will have headache, but it is not usually severe, and retro-orbital pain, commonly found in dengue infections, rarely occurs. Conjunctival redness is present in some cases. Pregnant women can pass the virus to their infant, most commonly during the intrapartum phase. The Reunion South Hospital Group observed 84 pregnant women who had laboratory-con{rmed CHIK infection. In 88% of these women (all involving infections relatively distant from delivery), the newborns appeared asymptomatic. Conversely, 10 newborns developed disease soon after birth (4 with meningoencephalitis and 3 with intravascular coagulation) and required intensive care support. 12 Severe cases of CHIK, including neurologic complications, myocarditis, or nephritis, can occur, most commonly in the elderly, newborns, and immunocompromised individuals. 13,14 CHIK outbreaks typically result in several hundred or thousands of cases, but deaths are rarely encountered.
+
+============================================================
+CHUNK 10
+============================================================
+DIAGNOSIS
+Symptoms of CHIKV infection can be clinically indistinguishable from dengue fever. Other causes in the differential diagnosis of CHIK include malaria, O'nyong nyong, Sindbis, Ross River, West Nile, and Zika virus infections. 9,15,16
+The clinical laboratory {ndings in CHIK are not remarkable. A few patients may present with  leukopenia with relative lymphocytosis; however, most patients will have normal blood counts. The platelet count may be moderately depressed. The erythrocyte sedimentation  rate  and  C-reactive  protein  levels  are  typically elevated in acute cases. 15 A de{nitive diagnosis can only be made by laboratory testing, but CHIK should be suspected when epidemic disease  occurs  with  the  characteristic  triad  of  fever,  rash,  and arthralgia.
+Virus-speci{c IgM antibodies typically can be detected by 5 to  7  days  of  illness  using  enzyme-linked  immunosorbent  assay (ELISA). Because viremia is so high and persists for several days post-illness onset, blood samples for virus isolation and reverse transcriptase  polymerase  chain  reaction  (RT-PCR)  should  be collected within the {rst 5 days of illness when viremia is detectable. Frequently, diagnosis can be de{nitively con{rmed by virus isolation or molecular techniques such as RT-PCR, for which a wide range of tests now exist. 17
+
+============================================================
+CHUNK 11
+============================================================
+TREATMENT
+There is no speci{c treatment for CHIK. The illness is usually self-limiting and resolves with time. Supportive care with rest is
+Fig. 36.2.4 Aedes larvae in water-storing containers.
+indicated during the acute joint symptoms. Movement and mild exercise may decrease stiffness and arthralgia, but heavy exercise may  exacerbate  rheumatic  symptoms.  Aspirin  and  other  nonsteroidal  anti-in|ammatory drugs (NSAIDs) are recommended for chronic pain. A number of therapeutic options are in development, as are several vaccine candidates. 18
+Because no vaccine or speci{c medication is yet available against CHIKV infection, vector control is very important in controlling or preventing transmission. Elimination of breeding sites or source reduction is an important control approach. A. aegypti is typically a container-habitat species (Fig. 36.2.4) and breeds primarily in arti{cial  containers  and  receptacles.  Therefore  all  water  tanks, cisterns, barrels, trash containers, etc., need to be covered tightly with a lid. Old tires, tin cans, buckets, drums, bottles, etc., should be removed, as mosquitoes may breed in these containers if they accumulate water. In ornamental garden water tanks, larvivorous {sh  (e.g . ,  gambusia,  guppy)  can  be  introduced.  In  case  water containers cannot be emptied on a daily or weekly basis, larvicidal treatments can be applied. 19
+Both primary vectors, A. aegypti and A. albopictus, are principally daytime biters. Insect repellant containing N,N -diethyl-m-toluamide (DEET) or another registered active ingredient should be applied on exposed skin (T able 36.2.1). People should be advised to wear long sleeves and pants and have secure screens on windows and doors  to  keep  mosquitoes  out.  Insecticide-treated  bed  net  use during daytime resting can help prevent mosquito bites. Infected persons  should  be  protected  from  further  mosquito  exposure (staying indoors and/or under a mosquito net during the {rst few days of illness) so that they cannot contribute to the transmission cycle.
+
+============================================================
+CHUNK 12
+============================================================
+REFERENCES
+1.  Petersen  LR,  Powers  AM.  Chikungunya:  epidemiology.  F1000Res 2016;5.
+2.  Powers  AM,  Brault  AC,  T esh  RB,  Weaver  SC.  Re-emergence  of chikungunya  and  O'nyong-nyong  viruses:  evidence  for  distinct geographical lineages and distant evolutionary relationships. J Gen Virol 2000;81:471-9.
+3.  Chhabra M, Mittal V, Bhattacharya  D, et al. Chikungunya fever:  a re-emerging viral infection. Indian J Med Microbiol 2008;26:5-12.
+4.  Sergon K, Njuguna C, Kalani R, et al. Seroprevalence of chikungunya virus (CHIKV) infection on Lamu Island, Kenya, October 2004. Am J Trop Med Hyg 2008;78:333-7.
+5.  Sergon K, Yahaya AA, Brown J, et al. Seroprevalence of chikungunya virus infection  on Grande  Comore Island, Union of the Comoros, 2005. Am J Trop Med Hyg 2007;76:1189-93.
+6.  Pialoux G, Gauzere BA, Jaureguiberry S, Strobel M. Chikungunya, an epidemic arbovirosis. Lancet Infect Dis 2007;7:319-27.
+7.  Fischer M, Staples JE. Notes from the {eld: chikungunya virus spreads in the Americas - Caribbean and South America, 2013-2014. MMWR Morb Mortal Wkly Rep 2014;63:500-1.
+8.  Burt FJ, Chen W, Miner JJ, et al. Chikungunya virus: an update on the biology and pathogenesis of this emerging pathogen. Lancet Infect Dis 2017;17:e107-17.
+9.  Staples JE, Breiman RF, Powers AM. Chikungunya fever: an epidemiological review of a re-emerging infectious disease. Clin Infect Dis 2009;49:942-8.
+
+============================================================
+CHUNK 13
+============================================================
+REFERENCES
+10.  van Aalst M, Nelen CM, Goorhuis A, et al. Long-term sequelae of chikungunya virus disease: a systematic review. T ravel Med Infect Dis 2017;15:8-22.
+11.  Zeana  C,  Kelly  P ,  Heredia  W,  et al.  Post-chikungunya  rheumatic disorders in travelers after return from  the Caribbean. T ravel Med Infect Dis 2016;14:21-5.
+12.  Robillard PY, Boumahni B, Gerardin P , et al. Vertical maternal fetal transmission of the chikungunya virus. T en cases among 84 pregnant women. Presse Med 2006;35:785-8.
+13.  Vu  DM,  Jungkind  D, Angelle  Desiree  L.  Chikungunya  virus.  Clin Lab Med 2017;37:371-82.
+14.  Brizzi K. Neurologic manifestation of chikungunya virus. Curr Infect Dis Rep 2017;19:6.
+15.  PAHO. Preparedness and response for chikungunya virus: introduction in the Americas. Washington, DC: Pan American Health Organization (PAHO); 2011. http://new.paho.org/hq/index.php?option = com_con t ent&view = article&id = 6464%3Apaho%2C-cdc-publishguide-on-preparing-for-chikungunya-virus-introduction-in-theAmericas&catid = 740%3Anews-press- releases&Itemid = 1926&lang = en.
+16.  Powers AM. Chikungunya. Clin Lab Med 2010;30:209-19.
+17.  Sam IC, Kummerer BM, Chan YF, et al. Updates on chikungunya epidemiology, clinical disease, and diagnostics. Vector Borne Zoonotic Dis 2015;15:223-30.
+18.  Powers AM. Vaccine and therapeutic options to control chikungunya virus. Clin Microbiol Rev 2017;31(1):pii:e00104-16.
+
+============================================================
+CHUNK 14
+============================================================
+REFERENCES
+19.  Diallo M,  Dia  I, Diallo D, et al. Perspectives  and challenges in entomological risk assessment and vector control of chikungunya. J Infect Dis 2016;214:S459-65.
+TABLE 36.2.1 Environmental Protection Agency-Registered Insect Repellents
+
+, Other Names = N,N -diethyl-m-toluamide. Picaridin, Other Names = Known as KBR 3023 and icaridin outside the US. IR3535, Other Names = 3-[N-butyl-N-acetyl]- aminopropionic acid. Oil of lemon eucalyptus (OLE), Other Names = Para-menthane-diol (PMD), p-menthane-3,8-diol. 2-undecanone, Other Names = Methyl nonyl ketone
+EPA's search tool is available at www.epa.gov/insect-repellents/ find-insect-repellent-right-you.
+

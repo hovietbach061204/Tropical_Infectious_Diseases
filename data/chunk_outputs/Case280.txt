@@ -1,0 +1,158 @@
+============================================================
+CHUNK 0
+============================================================
+44
+
+============================================================
+CHUNK 1
+============================================================
+KEY FEATURES
+- whooping cough ) is a highly contagious respiratory infection caused by Bordetella pertussis or, less frequently, other Bordetella species.
+- (PT), that is thought to cause some manifestations of the disease.
+- with a chronic cough that comes in paroxysms, followed in some instances by post-tussive vomiting or an inspiratory 'whoop.'
+- encephalopathy. Mortality is much higher in the young.
+- killing approximately 160,000, mostly young children.
+- recognition and polymerase chain reaction (PCR).
+- pertussis, but treatment can interrupt transmission. Treatment usually involves a macrolide antimicrobial such as erythromycin or a derivative.
+- immunization is the primary mechanism of controlling pertussis.
+- recommended as a proven way of reducing infant deaths from pertussis. It is the only means of protecting those too young to be vaccinated. Maternal vaccination is effective and well tolerated.
+- of pertussis disease through the use of PCR.
+- estimates that only 80% to 85% of children receive three doses of anti-pertussis vaccines, and very few adolescents or adults in resource-limited settings receive anti-pertussis vaccines.
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+Pertussis is a debilitating respiratory disease that can affect humans throughout life, but it has a particularly high mortality in infants less than 6 months of age. The mainstay of public health management is for widespread immunization approaches. This not only reduces individual cases of disease, but also avoids epidemic disease.
+Pertussis, commonly referred to as whooping cough, is a highly contagious respiratory infection. It is caused by Bordetella pertussis or,  less  commonly,  other Bordetella species.  T ransmission  is  by respiratory droplets. It most commonly presents as a respiratory illness with rhinorrhea and fever initially. However, cough is the hallmark  of  pertussis.  A  paroxysmal  cough  is  common,  often associated with an inspiratory 'whoop' or vomiting, particularly after a coughing episode. In young children, the clinical picture can be complicated by apnea, pulmonary hypertension, seizures,
+
+============================================================
+CHUNK 3
+============================================================
+Pertussis
+Kevin Forsyth and encephalopathy. The cough can become chronic, especially in older children and adults.
+Control of pertussis rests largely upon immunization programs. Whole cell (wP) and acellular (aP)-based anti-pertussis vaccines exist in the form of combination anti-diphtheria and anti-tetanus vaccines (DT wP , DT aP). All infants should receive three doses of such vaccines in infancy, a booster at around 18 months, and a further booster at pre-school age. Older children and adults should, if  resources permit, receive regular 10-year boosters with Tdap (the size of the letters corresponds with the amount of antigen contained in the vaccine). Maternal immunization with ap vaccines is  recommended.  The  World  Health  Organization  (WHO) estimates  that  global  vaccine  coverage  of  young  children  with DTP-3 (completion of three doses) approximates 80% to 85%, and  global  coverage  of  older  children  and  adults  with  Tdap  is signi{cantly lower.
+
+============================================================
+CHUNK 4
+============================================================
+EPIDEMIOLOGY
+Pertussis is an important cause of vaccine-preventable deaths with approximately 160,000 deaths in children worldwide and 24 million cases  annually. 1 The  very  young,  particularly  those  less  than  6 months  of  age,  are  at  particular  risk  from  pertussis  and  from related deaths.
+Global reported pertussis disease incident rates (some based on clinical con{rmation only in those countries with limited access to laboratory services) are provided from WHO data in Fig. 44.1. 2 These data do signi{cantly under-represent actual cases. When speci{c analyses are made at the discrete country level on pertussis surveillance,  it is  clear that very few countries seek evidence of pertussis in coughing children. Hence the data in Fig. 44.1, although the best representation available, is a gross under-interpretation of actual cases.
+Worldwide DTP3 immunization coverage stands at 86% for all three doses, with 91% of infants receiving at least one dose. In 2000, 21 million children did not receive even a {rst dose of DTP, a {gure that has now dropped to 12 million. Signi{cantly, the updated estimates also show that India, the country with the largest number of unvaccinated children globally, has now achieved over 80% DTP3 coverage (Fig. 44.2). This is largely attributable to the revamping of the national immunization program, after the successful completion of polio eradication 3 years ago. 3
+Within Australia,  a  developed  country  of  20  million  people with high vaccination rates, there is a national noti{able disease surveillance system that provides active surveillance data. During the period 1991 to 1996 there were 19,815 noti{cations of pertussis, which yielded a pertussis rate of 22 to 57.6 noti{able cases per 100,000 Australian populations. 4 Given that this estimate is for noti{able cases only, the real {gure could be considerably higher (it is thought that true versus noti{ed cases is in the order of up to 300-fold higher). As of November 2017, there are more than 11,000 cases noti{ed for the preceding 11 months. 4
+
+============================================================
+CHUNK 5
+============================================================
+EPIDEMIOLOGY
+At a global level, there are, for example, a considerable number of cases identi{ed in Afghanistan. 5 Pertussis is endemic in school-age children in the UK where, in a prospective analysis of 172 children aged 5 to 16 years who presented at a general practitioner with a cough lasting 14 days or more, 37% had serologic evidence of a recent pertussis infection; of these, 86% had been fully immunized. 6 There are only occasional con{rmed cases from China, although the true burden is not known. 7
+
+============================================================
+CHUNK 6
+============================================================
+Pertussis global annual reported cases and DTP3 coverage, 1980-2016
+Fig. 44.1 Pertussis global reported cases and coverage, 1980-2016.
+
+============================================================
+CHUNK 7
+============================================================
+Immunization coverage with DTP 3 vaccines in infants (from <50%), 2016
+Fig. 44. 2 Immunization coverage with DTP3 vaccines. (From http://www.who.int/immunization/monitoring_ surveillance/burden/vpd/surveillance_type/passive/big_dtp3_map_global_coverage.jpg?ua = 1.)
+In an analysis of immunization rates in the African region of the Expanded  Immunization  Programme,  DPT-3  coverage increased by 15% from 54% in 2000 to 69% in 2004, resulting in a decline in non-immunized children from 1.4 million in 2002 to 900,000 in 2004. 8
+There is increasing evidence that pertussis remains an active problem in communities whose young children are well immunized with DTP-3. In 2004 the Centers for Disease Control and Prevention (CDC) noted a 19-fold increase in the number of cases reported in individuals aged 10 to 19 years and a 16-fold increase in persons over 20 years of age.
+
+============================================================
+CHUNK 8
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+After a usual incubation period of 5 to 10 days, individuals with clinical pertussis may manifest with a prodromal period lasting a few days to 1 week with upper respiratory symptoms (rhinorrhea, fever),  followed  by  a  hacking,  paroxysmal  cough.  The  second phase-the  characteristic  phase  of  pertussis  with  its  coughing paroxysms-lasts 2 to 6 weeks, and the third phase-convalescencemay last up to 4 months: this phase is characterized by gradual reduction in coughing. The organisms of pertussis, B. pertussis and B. parapertussis (and, less commonly, B. bronchiseptica and B. holmesii ) infect respiratory mucosa, leading to mucus hypersecretion and cilial paresis. The organisms release a number of toxins, the most important of which is the pertussis toxin. It is possible that the pertussis toxin or another toxin acts within the central nervous system to exacerbate coughing {ts. 9 Hence, there are both central and local factors inducing cough.
+
+============================================================
+CHUNK 9
+============================================================
+CLINICAL MANIFESTATIONS
+Pertussis is essentially a disease of the respiratory system. Initial symptoms consist of a runny nose and perhaps mild fever, but are quite non-speci{c. This is considered the early phase of the disease, generally up to 1 week, followed by persistent coughing, which is  the  key  feature  of  pertussis.  The  cough  has  a  characteristic repetitive  nature  to  it,  with  bursts  of  coughing  triggered  by  a number of external factors, including cold air, exercise, and inhaled irritants, or it can just occur spontaneously. One of the traps for the unwary clinician is that a parent can give a history typical of pertussis,  describing  particularly  in  a  young  infant  a  terrible repetitive cough. When examined by the doctor the child may appear to have no respiratory signs whatsoever and can be dismissed from the doctor's room only to have a spasm of coughing on going outside after receiving a blast of cold air as an irritant. Hence, history  is  critical  in  this  condition-a  history  characterized  by repetitive, spasmodic coughing.
+The cough will, at times, lead to vomiting in a younger child, typically  at  the  end  of  a  period  of  coughing.  At  the  end  of  a coughing bout there may be a sharp inspiration of air with the characteristic 'whoop' sound. Any history of prolonged paroxysmal coughing followed by vomiting or whooping is highly characteristic of pertussis disease. The pertussis cough is sometimes colloquially termed the 100-day cough. Interestingly, this cough may appear to disappear and then recur within 6 months or so of the primary infection when the patient is exposed to certain irritants or another unrelated respiratory infection.
+It is important to emphasize that pertussis disease is particularly problematic in infants. Mortality rates for infants are high; they can  present  with  atypical  forms  of  the  disease,  such  as  apnea, encephalopathy, or even multisystem organ failure unrelated to respiratory disease. Hence, early immunization of infants is critical. It is considered that three doses of vaccine are required to provide signi{cant immunity to younger children. Three doses are  not normally achieved until 5 or 6 months of age. Hence, infants in their {rst 6 months of life have little protection. In addition, they have small airways and appear highly vulnerable to the effects of pertussis toxin. Maternal immunizations with ap vaccines are safe and highly effective in preventing pertussis in the very young and are highly recommended.
+
+============================================================
+CHUNK 10
+============================================================
+CLINICAL MANIFESTATIONS
+In addition to the clear respiratory manifestations of pertussis disease, there are multiple side effects; for example, subconjunctival hemorrhages caused by the force of the coughing are characteristic of pertussis. There can also be pneumonia, encephalopathy, and seizures.
+
+============================================================
+CHUNK 11
+============================================================
+Clinical Diagnosis
+A  number  of  different  criteria  have  been  used  for  the  clinical de{nition of pertussis. The WHO de{nition requires a paroxysmal cough lasting for at least 21 days and laboratory con{rmation or contact  with  a  culture-positive  case.  Unfortunately,  this  rather strict de{nition requires a fairly severe form of illness given the 21-day cough requirement and availability of laboratory diagnostics. Another de{nition that is in common use is of 14 days of cough, which can have a sensitivity of 84% to 92% and a speci{city of 63% to 90%. 10
+Different  clinical  criteria  may  need  to  be  used  for  episodic cases in contrast to epidemic cases. Recent work on a template for a clinical de{nition has been developed. 11 This approach to diagnosis is recommended.
+Given the elasticity in clinical case de{nition, where laboratory  diagnostics  are  available,  a  more  substantive  approach  to diagnosis  can  be  made  through  appropriate  use  of  laboratory investigations.
+
+============================================================
+CHUNK 12
+============================================================
+Laboratory Diagnosis
+The classical way to provide laboratory con{rmation of B. pertussis is  through the collection of a nasopharyngeal swab plated onto appropriate media. Although this approach gives high speci{city, it has low sensitivity and is not practical for rapid diagnoses.
+
+============================================================
+CHUNK 13
+============================================================
+Serology
+Serologic diagnosis of pertussis by enzyme-linked immunosorbent assay (ELISA) (using speci{c B. pertussis proteins as antigens) using paired sera with demonstration of a rise in antibodies of fourfold from the {rst sample to the second sample is the classical way to con{rm infection by serology. However, this requires two blood tests and a delay in time, which is not helpful for the acute diagnosis of pertussis.
+A more recent study 12 comparing  high-sensitivity,  real-time polymerase chain reaction (PCR) assays and single serum pertussis serology  showed  that  single  serology  was  the  most  ef{cient diagnostic test with relatively high sensitivity (greater than 64%) and high speci{city (greater than 90%). Using PCR, it was found that this was the second most ef{cient tool. An advantage of PCR is utilizing nasopharyngeal aspirates compared with blood. So in practical terms, PCR used in the {rst 2 weeks of the illness is the preferred diagnostic approach. Given the great need to have rapid, easy diagnoses of pertussis for surveillance purposes, PCR is the best method to be used. 13
+The precision (sensitivity and speci{city) in the diagnosis of pertussis  is,  however, laboratory dependent. It is recommended that practitioners become familiar with the laboratory diagnostic test offered by their local laboratory service. All of these tests are ancillary and helpful in the diagnosis, but need to be interpreted with some degree of caution. Clinicians need to be respectful of the  overall  clinical  and  laboratory  setting  in  which  the  patient presents and the stability of the source material as it is transferred to the laboratory.
+
+============================================================
+CHUNK 14
+============================================================
+TREATMENT
+B. pertussis and B. parapertussis are susceptible to a range of antibiotics in vitro . Antibiotics to which these organisms are sensitive include the penicillins, the macrolides, tetracyclines, chloramphenicol, and trimethoprim-sulfamethoxazole.
+Unfortunately, antibiotics make no difference to the course or outcomes of pertussis disease. What they are effective at is eliminating  the  organism  from  the  nasopharynx. This  is  an  important consideration.  Efforts  to  reduce  transmission  to  other  people, particularly  infants,  require  prioritization.  Hence,  if  a  case  is con{rmed,  it  is  advised  that  elimination  of  the  organism  may reduce spread of this disease.
+The  most  commonly  recommended  antimicrobial  to  use  is erythromycin estolate because of its higher levels of active antibiotic in the secretions of the respiratory tract. However, other forms of erythromycin are also considered to be acceptable.
+Short-term antibiotics (azithromycin for 3-5 days, or clarithromycin or erythromycin for 7 days) are as effective as long-term (erythromycin for 10-14 days) in eradicating B. pertussis from the nasopharynx but have fewer side effects. Trimethoprim/ sulfamethoxazole for 7 days is also effective. Contact prophylaxis of  those  older  than  6  months  of  age  with  antibiotics  does  not signi{cantly improve clinical symptoms or the number of cases developing culture-positive B. pertussis . 14
+If there is an outbreak of pertussis, then immunization is the {rst step in management. Close contacts of an infected case can be treated with erythromycin or azithromycin, as recommended. However, most countries only recommend the use of antimicrobial prophylaxis for those at greatest risk from pertussis disease (i.e., young infants). Erythromycin treatment is not recommended for infants younger than 2 weeks of age.
+
+============================================================
+CHUNK 15
+============================================================
+IMMUNIZATION STRATEGIES
+Given that antimicrobial treatment can eliminate the organism and, hence, transmission to others but has no impact on the course of disease in an individual patient, primary prevention through the use of immunization becomes paramount. The mainstay of immunization for pertussis over the years has been the whole-cell pertussis vaccine. Three immunizations with the vaccine afford approximately 90% protective ef{cacy that lasts throughout infancy, but  whole-cell  vaccines  are  associated  with  common  moderate and severe local reactions and fever, and quality control of whole-cell vaccines is variable.
+'Acellular' vaccines contain subsets of immunogenic antigens from Bordetella and are much better tolerated, although they are more expensive. In resource-limited settings, children often receive DTwP. In resource-rich settings, children usually receive DT aP . For children, as part of the Expanded Programme in Immunization, most countries use a 2-, 3-, 4-, or 2-, 4-, 6-month immunization regimen of DTwP or DTaP.
+Historically, adults and older children did not receive booster immunizations.  This  was  due,  in  part,  to  the  assumption  that adults were unlikely to get pertussis and the high adverse event pro{le of the whole-cell pertussis-based vaccines in older children and adults. As mentioned earlier, however, cases of pertussis among older children and adults has been increasing. This fact, and the development of safe, effective, and well-tolerated acellular pertussis vaccine  products,  has  subsequently  led  to  the  endorsement  of broader pertussis immunization programs for older children and adults  with  Tdap.  Unfortunately,  older  children  and  adults  in resource-limited settings do not have access to, or the ability to receive, such vaccines. As a starting point, the Global Pertussis Initiative has recommended a number of strategies that may be adopted at a country level in resource-limited settings to supplement the Expanded Programme in Immunization program. In addition to  adherence  to  standard  immunization  schedules,  the  Global
+
+============================================================
+CHUNK 16
+============================================================
+IMMUNIZATION STRATEGIES
+Pertussis Initiative recommends that there be universal immunization in pregnancy (28-32 weeks is preferred); universal adolescent immunization of an anti-pertussis vaccine, where resources permit; that a preschool booster at 4 years of age be administered; that there be selective immunization of health care workers and child care workers; and, possibly, that there be a move toward a universal adult immunization strategy. 15
+As the predominant mortality in pertussis is infants too young to have received the three doses of infancy, maternal immunization is now in widespread use. There is much to recommend such an approach, with there being good evidence that it is effective and well  accepted. 16 Timing  of  the  maternal  ap  dose  is  less  critical than  ensuring  that  pregnant  women  are  immunized,  although early third trimester is preferred.
+For public health bene{ts against pertussis to be realized, there needs to be a clear public health strategy at a country level. Surveillance is essential to such a strategy. Unless there is some form of surveillance of communicable disease, it is dif{cult for a country to determine its vaccine strategy. Hence in the case of pertussis, PCR is recommended. Such a public health strategy should include an effective  vaccine  delivery  mechanism. This  may  be  through regional  child  health  clinics,  family  medicine  clinics,  and  local hospitals. Utility can only be measured through adequate surveillance processes.
+
+============================================================
+CHUNK 17
+============================================================
+REFERENCES
+- burden of  pertussis  in  children  younger  than  5  years:  a  modelling study. Lancet Infect Dis 2007;17(9):974-80.
+2.  WHO.  http://www.who.int/immunization/monitoring_surveillance/ burden/vpd/surveillance_type/passive/pertussis_coverage.jpg?ua = 1. [Accessed 4 December 2017].
+3.  WHO, UN Children's Fund. Updated data on immunization coverage published by WHO and UNICEF. https://reliefweb.int/report/world/ updated-data-immunization-coverage-published-who-and-unicef. [Accessed 4 December 2017].
+4.  Communicable Diseases Network Australia. NNDSS report November 23, 2017. http://www.health.gov.au/cdnareport. [Accessed 4 December 2017].
+5.  Kakar RM, Mojadidi MK, Mo|eh J. Pertussis in Afghanistan 2007-2008. Emerg Infect Dis 2009;15:501.
+6.  Harnden A, Grant C, Harrison T , et al. Whooping cough in school age children with persistent cough: prospective cohort study in primary care. BMJ 2006;333:174-7.
+- Emerg Infect Dis 2002;8:859-61.
+8.  Arevshatian L, Clements CJ, Lwanga SK, et al. An evaluation of infant immunization in Africa: is a transformation in progress? Bull World Health Organ 2007;85:449-57.
+9.  Cherry JD, T an T, Wirsing von König CH, et al. Clinical de{nitions of pertussis: Summary of a Global Pertussis Initiative roundtable meeting, February 2011. Clin Infect Dis 2012;54(12):1756-64.
+10.  Patriarca P , Biellik R, Sanden G, et al. Sensitivity and speci{city of clinical  case  de{nitions  of  pertussis.  Am  J  Public  Health  1998;78: 833-6.
+11.  Cherry  JD.  Pertussis  in  young  infants  throughout  the  world.  Clin Infect Dis 2016;63(suppl 4):S119-22.
+
+============================================================
+CHUNK 18
+============================================================
+REFERENCES
+12.  Andre P , Caro V, Njamkepo E, et al. Comparison of serological and real-time PCR assays to diagnose Bordetella pertussis infection in 2007. J Clin Microbiol 2008;45:1672-7.
+13.  Riffelmann M, Wirsing von Konig CH, Cato V, Guiso N. Nucleic acid ampli{cation tests for diagnosis of Bordetella infections. J  Clin Microbiol 2005;43(10):4925-9.
+14.  Altunaiji S, Kukuruzovic R, Curtis N, Massie J. Antibiotics for whooping cough (pertussis). Cochrane Database Syst Rev 2007;(3):CD004404.
+15.  Forsyth K, T an T, Wirsing Von Konig C-H, et al. Potential strategies to  reduce  the  burden  of  pertussis  paediatric.  Pediatr  Infect  Dis  J 2005;24:S69-74.
+16.  Amirthalingam G, Campbell H, Ribeiro S, et al. Sustained effectiveness  of  the  maternal  pertussis  immunization  program  in  england 3  years  following  introduction.  Clin  Infect  Dis  2016;63(Suppl.  4): S236-43.
+

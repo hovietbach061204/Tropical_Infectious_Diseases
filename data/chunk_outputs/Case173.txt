@@ -1,0 +1,157 @@
+============================================================
+CHUNK 0
+============================================================
+Key features
+- One of the major endemic mycoses. Occurs primarily in the Western hemisphere (south-western USA, Mexico, Argentina)
+- Infection by inhalation of conidia. Vulnerable patient groups include African Americans, Filipinos, native Americans, women in the third trimester of pregnancy and the immunosuppressed, especially persons with AIDS
+
+============================================================
+CHUNK 1
+============================================================
+Gregory M Anstead, John R Graybill
+of coccidioidomycosis gradually increased in the USA, rising from 12 to more than 58 cases/100,000 residents of Arizona/year [2]. Agricultural and rural construction workers are among those most vulnerable to infection. In California, the annual incidence of severe coccidioidomycosis (requiring hospitalization) is 3.7/100,000, with about 70 patients dying of coccidioidomycosis in the state per year [3].  This increase may reflect the rising population in endemic regions with new housing construction.
+- Infection manifests as acute or chronic pneumonia, soft tissue verrucous lesions or abscesses, meningitis and osteomyelitis, especially of the spine
+- Readily diagnosed by culture, serologic testing (antibody and antigen detection) and histopathology
+- Treatment is with triazoles (1uconazole, itraconazole) or amphotericin B, depending on disease site and severity. In vitro susceptibility testing is not helpful
+- Treatment is prolonged, with responses of 50-70%, and relapses in up to a third of patients who initially respond
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+This  fungal  infection  was  first  described  in  an  Argentine  soldier  in 1892.  Initially,  the  fungus  in  tissue  was  mistaken  for  a  coccidian protozoan, hence the name Coccidioides immitis . Coccidioidomycosis is  now  recognized  as  an  important  health  problem  in  the  southwestern USA and Mexico, with 150,000 cases occurring in the USA annually [1].
+
+============================================================
+CHUNK 3
+============================================================
+EPIDEMIOLOGY
+On  the  basis  of  molecular  genetics, C.  immitis has  recently  been divided into C. immitis (California isolates) and Coccidioides posadasii (other regions); both species are similarly pathogenic [2], and herein will be referred to as C. immitis . The fungus grows in mycelial form just beneath the soil surface and is made up of arthroconidia intercalated with nonviable segments.
+The endemic area is the Lower Sonoran Life Zone, marked by arid or semi-arid climates, sandy soil and mild winters [2]. These conditions are  found  in  the  southwestern  USA  (primarily  Arizona,  California, New Mexico, and Texas), the Gran Chaco region of Bolivia, Paraguay, and Northern Argentina, and much of northern Mexico (Fig. 81.1). Rare  cases  occur  in  other  areas  of  Central  America  (Guatemala, Honduras, Nicaragua) and South America (Venezuela, Brazil, Colombia).
+Outbreaks  of  coccidioidomycosis  often  occur  after  spring  rains  or major disturbance of the soil. Between 1995 and 2005, the incidence
+Patients  of  African,  native  American,  or  Filipino  descent  are  more vulnerable  to  symptomatic  and  disseminated  disease,  as  are  those with immunosuppression, such as persons with AIDS and pregnant women [1,2].  Coccidioidomycosis  also  infects  many  other  species of  mammalian  species,  ranging  from  zoo  primates  to  cattle,  cats, and dogs.
+
+============================================================
+CHUNK 4
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+When disturbed, the fragile mycelia break up into a cloud of infectious conidia which can be carried for miles by the wind; these infect the host following inhalation. Inhaled conidia are phagocytosed by alveolar  macrophages  and,  over  the  course  of  several  days,  convert into the characteristic large (8-24 μ m diameter) spherule. The spherules elaborate small endospores, which multiply, and after 3-4 days, hundreds  of  endospores  burst  out  of  the  mature  spherule.  The endospores  are  ingested  by  neutrophils,  but  are  not  killed.  These gradually enlarge into the next generation of spherules [2].
+Early in the course of infection, Coccidioides can hematogenously disseminate to the skin, bones, and central nervous system (CNS). Clinical manifestations of these remote lesions can appear soon after the acute  infection  or  after  many  months,  sometimes  without  clinical evidence  of  the  primary  infection.  Uncontrolled  infection  often presents as suppurating abscesses, with draining exudates containing abundant neutrophils  and  spherules  (Fig.  81.2A),  whereas  chronic low-grade infection manifests as better-formed granulomas containing few organisms (Fig. 81.2B). Both B- and T-lymphocytes are essential for host defense, suggesting that a balanced Th1/Th2 response is necessary for protective immunity [4].
+
+============================================================
+CHUNK 5
+============================================================
+CLINICAL FEATURES
+The  course  of  coccidioidomycosis  is  asymptomatic  in  over  half  of patients, from inhalation to resolution of primary pulmonary sites of infection.  Such  individuals  were  detected  in  earlier  years  by  skin testing, using either coccidioidin (derived from the mycelia phase) or spherulin (spherule phase origin). Skin test surveys defined the major endemic zones of coccidioidomycosis, but the skin-testing reagents are no longer available.
+
+============================================================
+CHUNK 6
+============================================================
+PRIMARY INFECTION
+A variety of hypersensitivity reactions can occur with primary infection. These include fever, erythema nodosum, erythema multiforme, and  migratory  arthralgias.  They  are  collectively  known  as  'Valley
+Fever' after the San Joaquin Valley of California, a focus of coccidioidomycosis [2]. These may be the only manifestations of primary coccidioidomycosis, or may blend into invasive forms of disease.
+
+============================================================
+CHUNK 7
+============================================================
+PULMONARY INFECTION
+Most  symptomatic  patients  have  a  transient  pulmonary  infection occurring  1-3  weeks  after  exposure,  which  manifests  as  fever,  dry cough,  and  pleuritic  chest  pain.  Although  this  is  usually  indistinguishable  from  community-acquired  pneumonia,  it  is  commonly
+FIGURE 81.1 Endemic range of coccidioidomycosis in North America.
+accompanied  by  hilar  or  paratracheal  lymphadenopathy  [2].  In studies  of  community-acquired  pneumonia  in  Arizona,  serologic studies demonstrated that coccidioidomycosis is the etiology in 15% of patients [5].
+Typically,  the  symptoms  of  acute  pulmonary  coccidioidomycosis resolve  spontaneously  in  less  than  a  month.  Alternatively,  the pulmonary infiltrates  may  condense  into  nodules  that may resolve or  persist  asymptomatically.  While  primary  pneumonia  usually resolves, in  5-19%  of patients, the  disease may  linger for  months, with chronic pulmonary infiltrates, cough and pleuritic  chest pain. Pulmonary  infiltrates  can  also  undergo  cavitation.  Cavitary  disease can be asymptomatic or cause chronic productive cough and occasional hemoptysis, or rupture into the pleura [2]. Cavities may also develop  secondary  bacterial  or Aspergillus (fungus  ball)  infection. Small cavities ( < 5 cm diameter) are more likely to resolve spontaneously than large ones. Chronic pulmonary coccidioidomycosis may follow an intermittent waxing and waning course or be slowly progressive over years [6].
+Uncommonly,  patients  have  fulminating  pneumonia,  with  diffuse reticulonodular infiltrates, fever, and hypoxia (Fig. 81.3). Aggressive pulmonary disease can occur in pregnancy, especially the last trimester,  and  in  other  immunosuppressive  conditions,  such  as  AIDS, or treatment with corticosteroids or tumor necrosis factor-alpha antagonists [6].
+
+============================================================
+CHUNK 8
+============================================================
+EXTRAPULMONARY DISEASE
+Extrapulmonary coccidioidomycosis usually presents as skin lesions (papules, nodules, abscesses, verrucous plaques, ulcers), lymphadenitis,  deep  abscesses,  osteoarticular disease  (manifested by lytic bone lesions and thickened synovium), or CNS disease [2, 6]. Nearly any organ can be involved in coccidioidomycosis [6].
+
+============================================================
+CHUNK 9
+============================================================
+MENINGITIS
+Coccidioidal  meningitis  manifests  as  progressive  headache,  cranial neuropathies,  and  altered  mental  status  [2].  Granuloma  formation causes  a  variety  of  focal  neurologic  signs.  The  cerebrospinal  fluid (CSF) is characteristic of granulomatous meningitis, with lymphocytosis and hypoglycorrachia. CSF eosinophilia, if present, is a helpful diagnostic characteristic and the CSF is usually positive for IgG antibody. CSF cultures are positive in < 50% of cases. Untreated, coccidioidal meningitis is lethal within 2 years [6].
+FIGURE 81.2 (A) Lesion with Coccidioides immitis spherule within a collection of neutrophils in an abscess (poor immune response; Courtesy of the Armed Forces Institute of Pathology, Photograph Neg. No. 59-5706 ). (B) Giant cell with intracellular spherule and endospores. The spherule has a poorly de/ned cell wall (better immune response).
++* 11.95
+FIGURE 81.3 Chest radiograph showing di0use reticulonodular in/ltrates in an AIDS patient with coccidioidomycosis.
+FIGURE 81.4 Verrucous skin  lesions on the  nose and  cheek in a  patient with coccidioidomycosis.
+
+============================================================
+CHUNK 10
+============================================================
+SOFT TISSUE AND OSTEOARTICULAR DISEASE
+Soft tissue involvement in coccidioidomycosis ranges from scattered chronic verrucous granulomatous lesions to multiple abscesses draining pus, containing large numbers of spherules (Fig. 81.4). In general, lesions with purulent drainage are associated with a worse prognosis. Lesions may be cutaneous or internal along lymph node chains. Coccidioidal osteomyelitis often involves the vertebrae and may be associated with compression fractures (Fig. 81.5). Synovial involvement of large joints is common: Coccidioides can be cultured from a synovial biopsy specimen more frequently than from joint fluid. Blood cultures can also be positive in widely disseminated disease; this is an indicator of poor prognosis.
+FIGURE  81.5 Radiograph  showing  lytic  vertebral  lesions  of  skeletal coccidioidomycosis.
+
+============================================================
+CHUNK 11
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+The physician should think of coccidioidomycosis with a compatible illness occurring in a resident or visitor to an endemic region. Rapid diagnostic  methods  are  direct  examination  of  sputum  or  exudates from purulent lesions, or detection of spherules on histopathologic exam  of  cutaneous  lesions,  bronchoscopy  specimens,  or  lymph nodes. The morphology of Coccidioides spherules is nearly pathognomonic.  Although  the  spherule  can  resemble  the  adiaspore  of  adiaspiromycosis (a rare infection), the two diseases are distinguished by culture  and  mycologic  expertise  [6].  Fresh  tissue  samples  from Coccidioides -infected patients are not directly hazardous, but must be disposed of or rendered nonviable quickly.
+Coccidioides  immitis is  cultured  in  its  mycelial  form  on  a  variety  of media. The spherules found in sputum and tissue convert to mycelia, which grow in 7-10 days. There is nothing characteristic in the appearance of the mycelia to distinguish Coccidioides from non-pathogenic fungi,  and  thus  plates  with  fungal  mycelia  should  be  sealed  and opened  only  in  biohazard  facilities.  Careless  handling  of  culture plates has caused several  cases of  coccidioidomycosis in laboratory personnel  [6].  In  the  USA, C.  immitis and C.  posadasii have  been designated as potential agents of bioterrorism (a questionable designation) and so the organisms must be killed promptly after identification [6].
+
+============================================================
+CHUNK 12
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+IgM antibodies develop within weeks after infection but are not sustained. IgG antibodies take 1-2 months to appear (in blood and CSF) and persist for many months. Titers > 1  :  16  correlate with increased severity  of  illness  and  declining  titers  reflect  clinical  improvement. However, in practice,  following  the level of antibody  titers  has not been  useful  in  assessing  the  course  of  illness  because  these  titers respond slowly to the  clinical  status  of  the  patient.  Also,  in  severe immunodeficiency, antibody titers may be low, or even negative [2]. An assay to detect urinary antigen is available from MiraVista Laboratories  (Indianapolis,  IN),  with  71%  sensitivity  for  patients  with moderate-to-severe disease, versus 87% for culture. There is also some cross-reactivity in this assay with Histoplasma capsulatum antigens [7].
+
+============================================================
+CHUNK 13
+============================================================
+TREATMENT
+Treatment guidelines were published in 2005 [1]. In vitro susceptibility testing is not helpful; Coccidioides isolates are generally susceptible to  amphotericin  B  and  multiple  triazoles in  vitro ,  but  treatment responses are highly dependent on host factors, such as immunocompetence and race/ethnicity [1, 2, 6]. Mycelia of Coccidioides are susceptible to echinocandins but the spherules can be less vulnerable and clinical experience is limited [6]. Treatment courses are prolonged and should continue many months after clinical improvement. Because some lesions can progress while others wane, a scoring system has been  developed.  This  initially  included  scoring  for  symptoms  and signs, cultures, radiographically apparent lesions and serologic titers, with a reduction of a cumulative score to less than 50% of baseline considered to be the criterion of response to therapy [6]. As cultures are often not repeated (especially if invasive methods are required) and  serologic  titers  change  very  slowly,  the  burden  of  disease  has recently been measured using clinical signs and symptoms and radiographic evaluation of lesion size. In coccidioidal meningitis, normalization  of  CSF  findings  can  be  used  as  an  indicator  of  treatment response.
+Selection of the antifungal agent depends, in part, on the involved site and the severity of disease [1]. No treatment is recommended for asymptomatic coccidiomas, which have been resected during a search for  presumptive lung cancer. The nephrotoxicity of amphotericin B initially  discouraged  physicians  from  treating  primary  coccidioidal pneumonia, which usually resolves spontaneously in most patients. However, all patients require observation for at least 2 years to document resolution of infection and to promptly identify complications. With the efficacy of triazoles demonstrated in a variety of the manifestations  of  coccidioidomycosis, fluconazole has been  increasingly deployed  to  treat  primary  coccididioidal  pneumonia.  Nevertheless, there are no clear data to indicate the efficacy of fluconazole in the treatment of primary coccidioidal pneumonia or the prevention of later dissemination [1].
+
+============================================================
+CHUNK 14
+============================================================
+TREATMENT
+For patients at risk for disseminated disease (the immunosuppressive conditions  and  ethnic/racial  groups  listed  above),  antifungal  treatment of primary coccidioida pneumonia is appropriate. Other indications for treatment are severe disease: infiltrates involving both lungs or  more  than  half  of  one  lung,  or  significant  hilar  or  mediastinal lymphadenopathy;  IgG  titers > 1  :  16;  highly  symptomatic  disease (weight loss > 10%; night sweats > 3 weeks; symptoms > 2 months) [1]. Signs of chronic infection, such as weight loss, night sweats, persistent multi-lobar infiltrates and symptoms of more than 2 months duration  suggest  progression  to  the  chronic  pulmonary  form.  These patients should also be treated.
+Based  on  excellent  tolerability,  linear  renal  clearance,  limited  drug interactions and good efficacy, fluconazole has become the drug of choice for less severely ill patients. In a clinical trial, the response rate in chronic pulmonary and disseminated disease was 50% for fluconazole versus 63% for itraconazole (p = 0.08) [8]. Fluconazole doses of  400 mg/day  are  used  initially,  but  slow  responses  and  clinical failures in meningitis have led physicians to use initial doses as high as 1000 mg per day for meningitis [1]. A course of treatment for 6 months has been suggested for primary pneumonia and treatments of greater than 12 months after response of chronic, or severe pulmonary or disseminated, disease [1].
+
+============================================================
+CHUNK 15
+============================================================
+TREATMENT
+Although  itraconazole  is  slightly  superior  to  fluconazole  in  some patients,  the  less  predictable  pharmacokinetics  and  more  frequent adverse  events  (gastrointestinal  intolerance,  hepatotoxicity,  heart failure,  and  an  occasional  syndrome  of  hypertension,  edema  and hypokalemia) have made itraconazole a secondary drug [6]. Itraconazole is administered either as capsules with a lipid-containing meal or orally as a solution in the fasted state, at 400-600 mg per day. The largest  comparative studies have been done with the capsule form, which is better tolerated but less predictably absorbed [8]. It is conceivable that itraconazole solution might give better results as a result of its higher oral bioavailability, but intolerance has been a problem. Itraconazole inhibits and is metabolized by cytochrome 3A4, so its drug interactions are extensive and problematic [9]. Tacrolimus and cyclosporine  (among  other  drugs)  doses  must  be  reduced  and rifampin can induce  metabolism to  the degree that itraconazole is unmeasurable in the serum. There is much less experience with itraconazole in the treatment of coccidioidal meningitis [6].
+For life-threatening coccidioidomycosis, amphotericin B desoxycholate or a lipid formulation of amphotericin B should be used [1]. The latter is generally preferred because of the need for prolonged therapy and its decreased risk of nephrotoxicity. There is no evidence that high doses of the lipid formulations (e.g. 10 mg/kg) are more effective than doses of 3-6 mg/kg. Responses to amphotericin therapy on the order of  50-70%  are  seen  [6].  When  the  patient  has  improved or  when nephrotoxicity occurs, treatment is shifted to triazoles for the remainder of the therapy.
+Because  the  triazoles  may  be  teratogenic,  another  indication  for amphotericin B is coccidioidomycosis during pregnancy [1]. If a pregnant patient develops severe nephrotoxicity, one may be forced to use a triazole for at least a limited time, preferably later in pregnancy [6].
+
+============================================================
+CHUNK 16
+============================================================
+TREATMENT
+A challenge in the management of coccidioidomycosis is treatment when initial therapy fails, or when the patient relapses (which may be years later). At present, there are two options for salvage. The first is voriconazole at 400-600 mg/day, which has proven successful in six of seven patients with refractory disease [10]. However, we have seen one patient respond well to voriconazole given as a 'last ditch' effort, only to have her relapse more than a year after treatment was stopped. Another salvage option is posaconazole, 200 mg four times per day with a fatty meal. More than half of patients who have failed other treatments respond to posaconazole [1 1, 12]. Posaconazole has also  been  used  as  primary  therapy  with  responses  in  85%  of  20 patients [13]. Unfortunately, the trial was terminated at 6 months of therapy, with relapses later appearing in a third of 15 patients who initially responded.
+For coccidioidal meningitis, there is the additional option of intrathecal amphotericin B. However, intrathecal amphotericin B can cause arachnoiditis and vasculitis and should be administered with corticosteroids to suppress these inflammatory adverse events; it is seldom used in the post-fluconazole era [6]. Voriconazole has also been used successfully  in  salvage  treatment  of  coccidoidal  meningitis  [10]. Hydrocephalus may require ventriculoperitoneal shunting. Occasionally, hydrocephalus may recur with granuloma formation at the distal shunt orifice causing obstruction. Reduction of immunosuppression is an important adjunct to antifungal therapy, including the initiation of antiretroviral therapy if the patient has AIDS. It is unclear when to terminate antifungal treatment of patients with AIDS, though some have considered this when the CD4 count is above 250 cells/mm 3 [1]. It  has  been  increasingly appreciated  that  patients with coccidioidal meningitis require lifelong antifungal therapy [1, 2, 6]. This may also apply to patients with relapsing non-meningeal disease.
+
+============================================================
+CHUNK 17
+============================================================
+TREATMENT
+There are other measures which have been used in the treatment of coccidioidomycosis, such as surgical debulking of large abscesses or granulomatous lesions, but these have no proven efficacy. Treatment for vertebral osteomyelitis may require surgical stabilization [2].
+During recent decades, there have been multiple efforts to develop a vaccine against coccidioidomycosis. Although there are many vaccine candidates, there is no clearly efficacious vaccine.
+
+============================================================
+CHUNK 18
+============================================================
+REFERENCES
+1. Galgiani JN, Ampel NM, Blair JE, et al. Coccidioidomycosis. Clin Infect Dis 2005;41:1217-23.
+2. Parish JM, Blair JE. Coccidioidomycosis. Mayo Clin Proc 2008;83:343-48.
+3. Flaherman VJ, Hector R, Rutherford GW. Estimating severe coccidioidomycosis in California. Emerg Infect Dis 2007;13:1087-90.
+4. Hung C-Y, Xue J, Cole GT. Virulence mechanisms of C occidioides . Ann NY Acad Sci 2007;111 1:225-35.
+5. Chang DC, Anderson S, Wannemuehler K, et al. Testing for coccidioidomycosis among patients with community-acquired pneumonia. Emerg Infect Dis 2008;14:1053-9.
+
+============================================================
+CHUNK 19
+============================================================
+REFERENCES
+6. Anstead  GM,  Graybill  JR.  Coccidioidomycosis.  Infect  Dis  Clin  N  Amer 2006;20:621-43.
+7. Durkin  M,  Connolly  P,  Kuberski  T,  et  al.  Diagnosis  of  coccidioidomycosis with  use  of  the Coccidioides antigen  enzyme  immunoassay.  Clin  Infect  Dis 2008;47:e69-73.
+8. Galgiani JN, Catanzaro A, Cloud GA, et al. Comparison of oral fluconazole and itraconazole for progressive, nonmeningeal coccidioidomycosis - a randomized, double-blind trial. Ann Intern Med 2000;133:676-86.
+9. Graybill JR, Galgiana JN, Stevens DA, et al. Itraconazole treatment of coccidiodomycosis. Am J Med 1990;89:292-300.
+10.  Freifeld A, Proia L, Andes D, et al. Voriconazole use for endemic fungal infections. Antimicrob Agents Chemother 2009;53:1648-51.
+11.  Stevens  DA,  Rendon  A,  Gaona-Flores  V,  et  al.  Posaconazole  therapy  for chronic refractory coccidioidomycosis. Chest 2007;132:952-8.
+12.  Anstead GM, Corcoran G, Lewis J, et al. Refractory coccidioidomycosis treated with posaconazole. Clin Infect Dis 2005;40:1770-6.
+13.  Catanzaro A, Cloud GA, Stevens DA, et al. Safety, tolerance, and efficacy of posaconazole therapy in patients with nonmeningeal disseminated or chronic pulmonary coccidioidomycosis. Clin Infect Dis 2007;45:562-8.
+

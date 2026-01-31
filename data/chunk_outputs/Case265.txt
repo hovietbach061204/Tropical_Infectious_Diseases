@@ -1,0 +1,183 @@
+============================================================
+CHUNK 0
+============================================================
+36.3
+
+============================================================
+CHUNK 1
+============================================================
+KEY FEATURES
+- outbreaks in the Americas since 2013.
+- Aedes mosquitoes, primarily the species Aedes aegypti, but sexual transmission and transfusion-related transmission have also occurred.
+- can manifest with rash, fever, conjunctivitis, and myalgias; severe manifestations have occurred and include Guillain-Barré syndrome (GBS). In utero transmission has led to microcephaly and other severe birth defects.
+- supportive care is indicated.
+- avoidance of vector mosquitoes and sexual contact with infected persons, which are particularly important for pregnant women and persons who are planning conception.
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+Zika virus, a single-stranded RNA virus of the Flaviviridae family, genus Flavivirus, originally isolated in Africa, gained worldwide attention in 2015 and 2016 when massive outbreaks in Brazil were followed by a marked increase in infants born with severe microcephaly  and  congenital  abnormalities.  The  virus  subsequently spread throughout the Americas. Intense research activities have answered key questions about Zika virus, its spread, and control, but gaps in knowledge remain.
+
+============================================================
+CHUNK 3
+============================================================
+EPIDEMIOLOGY
+Zika  virus,  {rst  isolated  from  a  sentinel  rhesus  monkey  in  the Zika forest  in  Uganda  in  1947,  was  found  in  the  same  area  in 1948 in Aedes mosquitoes. The {rst human infection was identi{ed in the 1950s. In subsequent decades it was identi{ed sporadically in  animals  and in  mild  human infections in Africa and Asia.  In 2007 Zika virus caused a large outbreak on Yap Island (western Paci{c), initially thought to be caused by dengue virus; the virus was estimated to infect 70% of the population. 1 It subsequently caused a major outbreak in French Polynesia in 2013 to 2014. 2 Zika virus was {rst associated with recognized outbreaks in Brazil in 2015, but recent analyses using sequencing, molecular mapping, and modeling suggest Zika reached the Americas as early as 2013, with cryptic transmission before the disease was detected. 3-5 From northeast Brazil the virus spread to the Caribbean, Central America, and throughout South America (except Chile and Uruguay where local vector transmission has not been documented); many countries in Asia and Africa have also documented transmission 6 (Fig. 36.3.1). Local vector transmission in the continental United States  has occurred in Florida and T exas (226 cases as of December 2017; https://www.cdc.gov/zika).  A  2016  outbreak  in  Singapore  (455 cases con{rmed) shows the potential for outbreaks in many tropical and sub-tropical regions where competent mosquito vectors are present and ecoclimatic conditions are favorable. 7
+
+============================================================
+CHUNK 4
+============================================================
+Zika
+Lin H. Chen, Mary E. Wilson
+
+============================================================
+CHUNK 5
+============================================================
+TRANSMISSION
+Infection is spread primarily via infected female mosquitoes, with A. aegypti being the primary vector in the Americas. A. albopictus, which can survive in more temperate areas, can also transmit Zika virus. These mosquito vectors infest most sub-tropical and tropical regions globally, including urban areas (areas with a total population of about 3.6 billion people). Seasonality of transmission is linked to local temperature and rainfall patterns. The same mosquitoes can also transmit dengue and chikungunya (and co-transmission can occur). In the past 10 years, Zika transmission has been reported from at least 84 countries. 6 Zika virus can be transmitted vertically in A. aegypti mosquitoes. The transmission cycle in the Americas has been person-mosquito-person. It is not known whether the virus will become established in an animal reservoir host in the Americas,  as  occurs  in  Africa,  where  the  virus  infected  animal hosts and occasionally spilled over into the human population-at least  in  the  past. 8 The  growth  of  urban  areas  infested  with A. aegypti provides a suitable environment for transmission.
+Of the 5413 Zika virus disease cases (excluding congenital cases) reported in the United States for January 2015 to December 6, 2017, 95% were travel related and 99% were vector borne. Of the 51 cases that were not vector borne, 94% were attributed to sexual transmission, 1 due to laboratory transmission, and 1 unknown route (https://www.cdc.gov/zika).
+
+============================================================
+CHUNK 6
+============================================================
+TRANSMISSION
+Virus can be found in blood, urine, saliva, semen, and vaginal or  cervical  secretions.  Sexual  transmission  can  occur  during  or after symptomatic or asymptomatic infection from male to female, male to male, and female to male (possibly via oral sex). 9 Virus is found in vaginal secretions, and viral RNA has been documented in semen up to 188 days after infection and infectious virus up to 69 days. In a longitudinal assessment of Zika virus RNA in body |uids, 95% of men had cleared the virus from semen after about 3 months. 10 In areas infested with competent vectors, it is dif{cult to assess what percentage is vector borne and how much infection is  sexually transmitted. Zika virus particles and RNA have been found in breast milk, but transmission via breastfeeding has not been documented to date. Virus persists longer in whole blood than in plasma, which may be relevant for diagnosis and in testing blood or tissue donations for transfusion/transplantation. T ransmission via platelet transfusion was reported from Brazil, 11  and RNA Zika-positive asymptomatic donors were identi{ed in Florida and Texas in the United States. 12 Screening of blood donors in Puerto Rico during an outbreak on the island found 1.1% viremic. 13
+
+============================================================
+CHUNK 7
+============================================================
+PATHOGENESIS AND PATHOLOGY
+Perinatal transmission of Zika virus was reported to occur in the French Polynesia outbreak in 2013 to 2014, but the association between Zika virus and microcephaly was not recognized until the observations had been made in Brazil and a retrospective study was done in 2016 based on serologic and surveillance data. 14 Zika virus can infect the placenta, reach the developing fetus, and can target neural precursors. Maternal infection disrupts fetal central nervous  system  development  and  causes  intrauterine  growth retardation  and  fetal  loss.  Infection  is  associated  with  cortical malformations  and  intra-cranial  calci{cations.  The  congenital malformations include ventriculomegaly, dystrophic calci{cations, severe cortical neuronal depletion, decreased brain weight, congenital contractures, marked early hypertonia with symptoms of extrapyramidal involvement, and ocular and hearing problems. 15-17
+Country classi>cation category (Cat.) for Zika virus transmission
+- Areas with virus transmission following virus new/re introduction (WHO Cat. 1)
+- Areas with virus transmission following previous virus circulation (WHO Cat. 2)
+- Areas with interrupted transmission (WHO Cat. 3)
+- Areas bordering a WHO Cat. 2 area (sub-category of WHO Cat. 4)
+Areas with potential for transmission (sub-category of WHO Cat. 4)
+- Maritime Exclusive Economic Zones for non-visible areas
+Fig. 36.3.1 Recent status of Zika virus transmission. (From European Center for Disease Control and Prevention: https://ecdc.europa.eu/en/publications-data/current-zika-transmission-worldwide.)
+TABLE 36.3.1 Comparison of Proportions of Symptoms in Samples of Zika-Infected Persons
+-= Not reported specifically; + = reported.
+
+============================================================
+CHUNK 8
+============================================================
+PATHOGENESIS AND PATHOLOGY
+Sample size, N, Yap 1 = 31. Sample size, N, French Polynesia 2 = 297. Sample size, N, Brazil 20 = 119. Sample size, N, Puerto Rico 21 = 683. Sample size, N, U.S. Travelers 22 = 115. Sample size, N, GeoSentinel Travelers 23 = 91. Sample size, N, Singapore = 149 adults. Sample size, N, 7 = 14 children. Sample size, N, U.S. Pediatric Travelers 24 = 158. Rash, Yap 1 = 90. Rash, French Polynesia 2 = 93. Rash, Brazil 20 = 97. Rash, Puerto Rico 21 = 74. Rash, U.S. Travelers 22 = 98. Rash, GeoSentinel Travelers 23 = 88. Rash, Singapore = 93. Rash, 7 = 100. Rash, U.S. Pediatric Travelers 24 = 82. Fever/sweats, Yap 1 = 65. Fever/sweats, French Polynesia 2 = 72. Fever/sweats, Brazil 20 = 36. Fever/sweats, Puerto Rico 21 = 63. Fever/sweats, U.S. Travelers 22 = 82. Fever/sweats, GeoSentinel Travelers 23 = 76. Fever/sweats, Singapore = 79. Fever/sweats, 7 = 93. Fever/sweats, U.S. Pediatric Travelers 24 = 55. Arthralgia, Yap 1 = 65. Arthralgia, French Polynesia 2 = 65. Arthralgia, Brazil 20 = 63. Arthralgia, Puerto Rico 21 = 63. Arthralgia, U.S. Travelers 22 = 66. Arthralgia, GeoSentinel Travelers 23 = 72. Arthralgia, Singapore = 23. Arthralgia, 7 = 14. Arthralgia, U.S. Pediatric Travelers 24 = 28. Headache, Yap 1 = 45. Headache, French Polynesia 2 = 46. Headache, Brazil 20 = 66. Headache, Puerto Rico 21 = 63. Headache, U.S. Travelers 22 = 57. Headache, GeoSentinel Travelers 23 = 61. Headache, Singapore = 23. Headache, 7 = 21. Headache, U.S. Pediatric Travelers 24 = +. Myalgia, Yap 1 = 48. Myalgia, French Polynesia 2 = 65. Myalgia, Brazil 20 = 61. Myalgia,
+
+============================================================
+CHUNK 9
+============================================================
+PATHOGENESIS AND PATHOLOGY
+Puerto Rico 21 = 68. Myalgia, U.S. Travelers 22 = 55. Myalgia, GeoSentinel Travelers 23 = 60. Myalgia, Singapore = 42. Myalgia, 7 = 29. Myalgia, U.S. Pediatric Travelers 24 = +. Fatigue, Yap 1 = -. Fatigue, French Polynesia 2 = 78. Fatigue, Brazil 20 = 73. Fatigue, Puerto Rico 21 = -. Fatigue, U.S. Travelers 22 = -. Fatigue, GeoSentinel Travelers 23 = 47. Fatigue, Singapore = -. Fatigue, 7 = -. Fatigue, U.S. Pediatric Travelers 24 = -. Conjunctivitis, Yap 1 = 55. Conjunctivitis, French Polynesia 2 = 64. Conjunctivitis, Brazil 20 = 56. Conjunctivitis, Puerto Rico 21 = 20. Conjunctivitis, U.S. Travelers 22 = 37. Conjunctivitis, GeoSentinel Travelers 23 = 40. Conjunctivitis, Singapore = 23. Conjunctivitis, 7 = 29. Conjunctivitis, U.S. Pediatric Travelers 24 = 29. Pruritus, Yap 1 = -. Pruritus, French Polynesia 2 = -. Pruritus, Brazil 20 = 79. Pruritus, Puerto Rico 21 = -. Pruritus, U.S. Travelers 22 = -. Pruritus, GeoSentinel Travelers 23 = 23. Pruritus, Singapore = -. Pruritus, 7 = -. Pruritus, U.S. Pediatric Travelers 24 = -. Retro-orbital pain, Yap 1 = 39. Retro-orbital pain, French Polynesia 2 = 16. Retro-orbital pain, Brazil 20 = 45. Retro-orbital pain, Puerto Rico 21 = 51. Retro-orbital pain, U.S. Travelers 22 = -. Retro-orbital pain, GeoSentinel Travelers 23 = 1. Retro-orbital pain, Singapore = -. Retro-orbital pain, 7 = -. Retro-orbital pain, U.S. Pediatric Travelers 24 = +. Edema/swelling, Yap 1 = 19. Edema/swelling, French Polynesia 2 = 47. Edema/swelling, Brazil 20 = 29. Edema/swelling, Puerto Rico 21 = -. Edema/swelling, U.S.
+
+============================================================
+CHUNK 10
+============================================================
+PATHOGENESIS AND PATHOLOGY
+Travelers 22 = -. Edema/swelling, GeoSentinel Travelers 23 = 8. Edema/swelling, Singapore = -. Edema/swelling, 7 = -. Edema/swelling, U.S. Pediatric Travelers 24 = -. Gastrointestinal (nausea, vomiting, diarrhea, or abdominal pain), Yap 1 = +. Gastrointestinal (nausea, vomiting, diarrhea, or abdominal pain), French Polynesia 2 = +. Gastrointestinal (nausea, vomiting, diarrhea, or abdominal pain), Brazil 20 = +. Gastrointestinal (nausea, vomiting, diarrhea, or abdominal pain), Puerto Rico 21 = +. Gastrointestinal (nausea, vomiting, diarrhea, or abdominal pain), U.S. Travelers 22 = +. Gastrointestinal (nausea, vomiting, diarrhea, or abdominal pain), GeoSentinel Travelers 23 = +. Gastrointestinal (nausea, vomiting, diarrhea, or abdominal pain), Singapore = -. Gastrointestinal (nausea, vomiting, diarrhea, or abdominal pain), 7 = -. Gastrointestinal (nausea, vomiting, diarrhea, or abdominal pain), U.S. Pediatric Travelers 24 = +
+Pathologists also identi{ed pulmonary hypoplasia and pathologic changes consistent with viral infection of multiple organs, including liver and kidneys. 17 Ongoing follow-up will reveal the extent of other developmental problems.
+Based on data from the U.S. territories (2464 live-born infants from completed pregnancies with laboratory evidence of possible Zika virus infection), about 5% had Zika-associated birth defects. The likelihood varied  by trimester  and was highest  during the {rst  trimester  (8%,  5%,  and  4%, respectively,  for  {rst,  second, and third trimesters). 18
+
+============================================================
+CHUNK 11
+============================================================
+CLINICAL FEATURES
+Zika virus  seroprevalence  studies  in  Yap  and  French  Polynesia estimated that asymptomatic infections ranged from 29% to 80%. 1,19 Clinical syndromes among residents from outbreak areas such as Yap, French Polynesia, Brazil, and Puerto Rico and returned infected travelers  appeared  to  be  alike 1,2,7,20-23 (T able  36.3.1).  The  most frequently  reported  symptoms  were  rash  (74%-100%),  fever, arthritis  and/or  arthralgia,  myalgia,  conjunctivitis,  and  fatigue. The  most  common  {nding,  rash,  was  usually  described  as
+maculopapular. 1,2,7,20-23 Pruritus was reported from Rio de Janeiro, Brazil,  and  travelers  evaluated  in  the  GeoSentinel  Surveillance Network, but not from other series. 1,2,7,20-23 Fatigue was frequently reported  from  French  Polynesia  and  Brazil  (78%  and  73%, respectively) 2,20 but  possibly  not  solicited  or  recorded  in  some other series. Proportions with retro-orbital pain or edema/swelling were  variable.  Presenting  symptoms  among  children  infected postnatally  resembled  those  in  adults,  mainly  with  rash,  fever, conjunctivitis, and arthralgia. 7,24
+Rarely, some severe complications in adults have been attributed to  Zika  virus  infection,  particularly  neurologic  disorders  (GBS, myelitis,  demyelinating  polyneuropathy,  meningoencephalitis), autoimmune  disorder,  and  immune-mediated  thrombocytopenia. 23,25-27 GBS occurred in about 1/4000 Zika infections in studies from French Polynesia and Brazil, at least six times that of the global baseline incidence; males had higher risk. 25,27 Patients with Zika-associated  GBS or encephalitis have died  (6%),  and  51% have chronic pain. 27 As described earlier, congenital Zika syndrome resulting  from  infection  during  pregnancy  is  associated  with
+A
+devastating abnormalities in the newborn and has the most signi{cant impact.
+
+============================================================
+CHUNK 12
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+During acute infection with Zika virus, laboratory {ndings may reveal  leukopenia,  lymphopenia,  thrombocytopenia,  and  less frequently, leukocytosis. C-reactive protein may be mildly elevated, as well as transaminases.
+Recommendations  for  con{rmatory  Zika  virus  testing  vary among countries and have evolved over the course  of its rapid spread  in  the  Americas.  In  the  United  States  testing  has  been constrained  by  availability  of  diagnostic  tests  and  laboratory capability. The guidelines consider the pregnancy status of the patient or partner, exposure history, and symptoms, with strongest focus on pregnant women 28,29 (Fig. 36.3.2).
+De{nitive  Zika diagnosis can be made  by  detection of viral RNA during acute infection by reverse transcription polymerase
+Fig. 36.3.2 guidance for health care providers caring for pregnant women with possible Zika virus exposure - United States (including U.S. territories), July 2017. MMWR Morb Mortal Wkly Rep. 2017;28;66(29):781-93.)
+1 NAT testing is not recommended for specimens obtained ≥14 days post-symptom onset.
+- 2 Acceptable specimens for NAT testing include serum, or patient-matched serum and urine. Repeat NAT testing of a positive result is not indicated. Dengue and chikungunya virus NAT testing should be performed for patients at risk of exposure, and with clinically compatible illness.
+3 Dengue IgM serology should also be performed for patients at risk of exposure, and with clinically compatible illness.
+possible Zika virus exposure. (B) Non-pregnant women. (From CDC. Guidance for US laboratories testing for Zika virus infection, July 24, 2017. Available at https://www.cdc.gov/zika/laboratories/lab-guidance.html.) Fig. 36.3.2 , cont'd.
+chain  reaction  (RT-PCR)  or  other  nucleic  acid  tests  (NAT s). RNA appears to be detectable longer in whole blood and urine samples  compared  with  serum  samples.  These  molecular  tests can  be  performed  on  serum,  whole  blood,  or  urine  up  to  2 weeks after symptom onset; in pregnant women, NATs may be performed up to 12 weeks after symptom onset or exposure 28,29 (see Fig. 36.3.2).
+
+============================================================
+CHUNK 13
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Detection of Zika IgM by IgM-capture enzyme-linked immunosorbent  assay  (MAC-ELISA)  followed  by  con{rmation  with plaque  reduction  neutralization  test  (PRNT) can  also  establish the diagnosis. Zika IgM may be reactive when performed 2 to 12 weeks after exposure, but can persist longer. Unfortunately, Zika serology cross-reacts with other |aviviruses, and PRNT, which is needed to differentiate among the |aviviruses, is labor intensive, time consuming, and challenging to interpret. Unlike dengue and chikungunya, where IgG is available to assess past infection and immunity, Zika IgG is not available in the United States.
+There are no Food and Drug Administration (FDA)-licensed diagnostic tests for the diagnosis of Zika virus infection, but several diagnostic tests are available under Emergency Use Authorization. The Centers for Disease Control and Prevention (CDC) and state laboratories  perform  testing  with  PCR  or  IgM,  and  the  CDC performs PRNT. In October 2017, the FDA approved the {rst Zika test for screening blood donations.
+The main differential diagnoses for Zika virus infection are other viruses transmitted by Aedes mosquitoes, especially dengue (also a |avivirus) and chikungunya (an alphavirus). Because Zika, dengue, and chikungunya cause similar symptoms and each may have important consequences, distinguishing between the three arboviruses by molecular test or serology followed by PRNT is desirable. Other diagnoses that may resemble Zika virus infections include rubeola, rubella, parvovirus, West Nile virus, and many other viruses, as well as leptospirosis, rickettsiosis, and malaria.
+
+============================================================
+CHUNK 14
+============================================================
+TREATMENT AND PREVENTION
+Treatment for the typical uncomplicated Zika virus infection aims to provide symptomatic relief. There is no known speci{c medication targeting Zika virus. However, research is underway to assess the  effect  of  some  existing  drugs  on  Zika  virus.  Preliminary investigations have identi{ed  some candidate drugs: emricasan, niclosamide,  sofosbuvir,  chloroquine,  azithromycin,  and  bovine
+lactoferrin. 9 Further evaluation is needed regarding their potential activity against Zika virus.
+Currently there is no vaccine to prevent Zika virus infection but multiple candidate vaccines are under development and testing. Therefore avoidance of mosquito bites and sexual transmission is fundamental in prevention. The impact of Zika virus infection is most consequential during pregnancy; thus preventing infection in  pregnant  women  is  crucial.  The  key  messages  for  pregnant women, their partners, and persons planning conception include the following: avoid travel to areas with active Zika virus transmission, take measures to avoid mosquito bites, and practice safe sex to reduce risk from sexual transmission. In areas with active Zika virus transmission, vector control measures are essential. Updated epidemiology and testing recommendations on the CDC website (www.cdc.gov/zika) are valuable in guiding clinical practice.
+
+============================================================
+CHUNK 15
+============================================================
+REFERENCES
+1.  Duffy  MR,  Chen  TH,  Hancock  WT,  et al.  Zika  virus  outbreak on  Yap  Island,  Federated  States  of  Micronesia.  N  Engl  J  Med 2009;360(24):2536-43.
+2.  Musso D, Gubler DJ. Zika virus. Clin Microbiol Rev 2016;29(3):487-524.
+3.  Faria  NR,  Quick  J,  Claro  IM,  et al.  Establishment  and  cryptic transmission  of  Zika  virus  in  Brazil  and  the  Americas.  Nature 2017;546(7658):406-10.
+4.  Worobey M. Epidemiology: molecular mapping of Zika spread. Nature 2017;546:355.
+5.  Zhang Q, Sun K, Chinazzi M, et al. Spread of Zika virus in the Americas. PNAS 2017;114(22):E4334-43.
+6.  WHO.  Situation  Report:  Zika  virus,  microcephaly,  Guillain-Barre syndrome; 2017. http://www.who.int/emergencies/zika-virus/situationreport/10-march-2017/en/.
+7.  The  Singapore  Study  Group.  Outbreak  of  Zika  virus  infection  in Singapore: an epidemiological, entomological, virological, and clinical analysis. Lancet Infect Dis 2017;17:813-21.
+8.  Althouse BM, Vasilakis N, Sall AA, et al. Potential for Zika virus to establish  a  sylvatic  transmission  cycle  in  the Americas.  PLoS  Negl Trop Dis 2016;10(12):e0005055.
+9.  Hamer DH, Wilson ME, Jean J, Chen LH. Epidemiology, prevention, and  potential  future  treatments  of  sexually  transmitted  Zika  virus infection. Curr Infect Dis Rep 2017;19(4):16.
+10.  Paz-Bailey G, Rosenberg ES, Doyle K, et al. Persistence of Zika virus in body |uids - {nal report. N Engl J Med 2017;379(13):1234-43.
+11.  Motta  IJF,  Spencer  BR,  Cordeiro  da  Silva  SG,  et al.  Evidence  for transmission  of  Zika  virus  by  platelet  transfusion.  N  Engl  J  Med 2016;375:1101-3.
+
+============================================================
+CHUNK 16
+============================================================
+REFERENCES
+12.  Galel SA, Williamson PC, Busch MP , et al. First Zika-positive donations in the continental United States. T ransfusion 2017;57:762-9.
+13.  Kuehnert  MJ,  Basavaraju  SV,  Moseley  RR,  et al.  Screening  of blood  donations  for  Zika  virus  infection  -  Puerto  Rico,  April 3-June  11,  2016.  MMWR  Morb  Mortal  Wkly  Rep  2016;65:6278.
+
+============================================================
+CHUNK 17
+============================================================
+36.4 O'nyong Nyong Fever
+Gregory Deye, Michael Koren
+
+============================================================
+CHUNK 18
+============================================================
+KEY FEATURES
+- sub-Saharan Africa.
+- rates.
+- universal. Pruritic maculopapular rash is common.
+14.  Cauchemez S, Besnard M, Bompard P, et al. Association between Zika virus and microcephaly in French Polynesia, 2013-15: a retrospective study. Lancet 2016;387(10033):2125-32.
+15.  Honein  MA,  Dawson AL,  Petersen  EE,  et al.  US  Zika  pregnancy registry collaboration. Birth defects among fetuses and infants of US women with evidence of possible Zika virus infection during pregnancy. JAMA 2017;317(1):59-68.
+16.  Moore CA, Staples JE, Dobyns WB, et al. Characterizing the pattern of  anomalies  in  congenital  Zika  syndrome  for  pediatric  clinicians. JAMA Pediatr 2017;171(3):288-95.
+17.  Sousa AQ, Cavalcante DIM, Franco LM, et al. Postmortem {ndings for 7 neotates with congenital Zika virus infection. Emerg Infect Dis 2017;23:1164-7.
+18.  Shapiro-Mendoza C, Rice ME, Galang RR, et al. Pregnancy outcomes after maternal Zika virus infection during pregnancy- U.S. territories, January  1,  2016-April  25,  2017.  MMWR  Morb  Mortal Wkly  Rep 2017;66(23):615-21.
+19.  Aubry A, T eissier A, Huart M, et al. Zika virus seroprevalence, French Polynesia, 2014-2015. Emerg Infect Dis 2016;23(4):669-72.
+20.  Brasil P , Calvet GA, Siqueira AM, et al. Zika virus outbreak in Rio de Janeiro, Brazil: clinical characterization, epidemiological and virological aspects. PLoS Negl Trop Dis 2016;10(4):e0004636.
+21.  Dirlikov E, Ryff KR, T orres-Aponte J, et al. Update: ongoing Zika virus transmission, Puerto Rico, November 1, 2015 - April 14, 2016. MMWR Morb Mortal Wkly Rep 2016;65(17):451-5.
+
+============================================================
+CHUNK 19
+============================================================
+KEY FEATURES
+22.  Armstrong  P,  Hennessey  M,  Adams  M,  et al.  T ravel-associated Zika  virus  disease  cases  among  U.S.  Residents  -  United  States, January  2015-February  2016.  MMWR  Morb  Mortal  Wkly  Rep 2016;65(11):286-9.
+23.  Hamer DH, Barbre KA, Chen LH, et al. GeoSentinel surveillance network. travel-associated Zika virus disease acquired in the Americas through  February  2016:  a  geosentinel  analysis.  Ann  Intern  Med 2017;166(2):99-108.
+24.  Goodman AB, Dziuban EJ, Powell K, et al. Characteristics of children aged < 18  years  with  Zika  virus  disease  acquired  postnatally  -  U.S. States,  January  2015-July  2016.  MMWR  Morb  Mortal  Wkly  Rep 2016;65(39):1082-5.
+25.  Cao-Lormeau VM, Blake A, Mons S, et al. Guillain-Barré syndrome outbreak associated with Zika virus infection in French Polynesia: a case-control study. Lancet 2016;387(10027):1531-9.
+26.  Parra B, Lizarazo J, Jiménez-Arango JA, et al. Guillain-Barré syndrome associated  with  Zika  virus  infection  in  Colombia.  N  Engl  J  Med 2016;375(16):1513-23.
+27.  Da Silva IRF, Frontera JA, Bispo de Filippis AM, et al. Neurologic complications associated with the Zika virus in Brazilian adults. JAMA Neurol 2017;74(10):1190-8.
+28.  Oduyebo T, Polen KD, Walke HT, et al. Update: interim guidance for health care providers caring for pregnant women with possible Zika virus exposure - United States (including U.S. territories), July 2017. MMWR Morb Mortal Wkly Rep 2017;66(29):781-93.
+29.  CDC. Guidance for US Laboratories T esting for Zika Virus Infection; 2017. https://www.cdc.gov/zika/laboratories/lab-guidance.html.
+- but not universal.
+- {rst 3 days or by serology.
+- 5 to 7 days.
+

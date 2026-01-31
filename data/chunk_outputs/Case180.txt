@@ -1,0 +1,158 @@
+============================================================
+CHUNK 0
+============================================================
+DEFINITIONS
+Parasite  comes  from  the  Greek  word parasitos and  is  defined  as  'a plant or an animal which lives upon or within another living organism at whose expense it obtains some advantage' . Parasitism is a type of symbiosis in  which an intimate and obligatory relationship exists between  two  heterospecific  organisms.  The parasite ,  generally  the smaller of the  two, is usually metabolically  dependent on  its host. This  association  may  be  beneficial  to  both  ( mutualism ),  beneficial to one with little effect on the other ( commensalism ), or beneficial to one and detrimental  to  the  other  ( parasitism ).  The  term  parasite  is generally  reserved  for  animal  species  of  protozoa,  helminths,  and arthropods.
+
+============================================================
+CHUNK 1
+============================================================
+HOST
+The organism on, or within, which the parasite lives is called the host . The lifecycle of the parasite may take place in a single host species (e.g. Entamoeba histolytica -human), in two host species (e.g. Plasmodium vivax -human and mosquito) or in more than two host species (e.g. Clonorchis sinensis -human, snail, and cyprinoid fish).
+A definitive  host (e.g.  humans for Taenia saginata )  is  one  in  which  a parasite  undergoes  sexual  reproduction.  Humans  may  be  the  only definitive host for some parasites (e.g. Trichomonas vaginalis ), whereas others may have several definitive hosts (e.g. bushbuck, other game animals, and humans for Trypanosoma brucei rhodesiense ). Animals that harbor a parasite that is pathogenic for other animals are called reservoir  hosts (e.g.  dogs  for Leishmania  infantum ).  Parasites  that  have reservoir hosts (e.g. Brugia malayi ) are more difficult to eradicate than those that do not (e.g. Wuchereria bancrofti ); the reservoir host serves as an alternate in the lifecycle, thus increasing the chance of transmission and survival.
+The animal in which the larval or asexual stage habitates (e.g. freshwater snail for Schistosoma species) is known as the intermediate host . A transfer or paratenic host (e.g. large predator fish for Diphyllobothrium latum ) is not necessary for the completion of the lifecycle of the parasite but is utilized as a temporary refuge and vehicle for reaching the obligatory or definitive host. An incidental host is one that is accidentally infected and is not required for the parasite's survival or development (e.g. humans for Toxoplasma gondii and Leshmania ).
+
+============================================================
+CHUNK 2
+============================================================
+VECTOR
+A vector (from the Latin vehere , to carry), usually an arthropod, transfers an infectious agent from one host to another. The parasite may develop or multiply within the body of the vector before becoming infective, in which case the vector is called a biologic vector . Biologic vectors are actually hosts-definitive hosts in the case of anopheline mosquitoes for human Plasmodium species or intermediate hosts in the  case  of Cyclops species  for Dracunculus  medinensis .  A mechanical vector carries a parasite from one host to another but is not essential for the parasite's life cycle (e.g. houseflies for Entamoeba histolytica ).
+
+============================================================
+CHUNK 3
+============================================================
+DEFINITIONS
+Protozoa ,  derived  from  the  Greek  words, protos ,  meaning  first  or primary, and zoon , meaning animal, is a phylum comprising some of the  morphologically  simplest  organisms  of  the  animal  kingdom. Most species are unicellular, eukaryotic and microscopic in size; most are free-living and motile, but some have commensalistic, mutualistic or  parasitic  relationships.  Approximately  10,000  of  the  described living species are parasitic. Protozoa infect most vertebrate and invertebrate species and have developed the capacity to adapt to living in most host organs.
+The  parasitic  protozoa,  unlike  almost  all  helminths,  can  replicate (sexually, asexually or both ways) within the host's body-a phenomenon that largely explains their survival, as well as the overwhelming infections that develop from single exposures.
+
+============================================================
+CHUNK 4
+============================================================
+CLASSIFICATION
+It remains convenient to divide protozoa pathogenic to man into four phyla or subphyla (or superclasses in the case of the sporozoa) according to  their type of  locomotion: (1) Sarcodina (amebae); (2) Mastigophora (flagellates); (3) Ciliophora (ciliates); and (4) Sporozoa.
+
+============================================================
+CHUNK 5
+============================================================
+SARCODINA
+Ameboid movements produce pseudopods in the Sarcodina. Reproduction  is  almost  exclusively  asexual,  usually  by  binary  fission. Amebae that  infect  man  include E.  histolytica (Chapter  89).  Other species of Sarcodina that can be either parasitic (e.g. Naegleria fowleri , normally a free-living organism), mutualistic or commensalistic (e.g., Entamoeba hartmanni and Entamoeba coli ) are covered in Chapters 102 and 94. Most are parasites or commensals of the gastrointestinal tract.
+
+============================================================
+CHUNK 6
+============================================================
+MASTIGOPHORA
+Flagella produce a whip-like motion. Most species, like those of the Sarcodina, have both cysts (transmission stage) and trophozoites (proliferative  stage).  Flagellates  that  infect  man  include Giardia  lamblia (Chapter 90), T. vaginalis (Chapter 95), Trypanosoma brucei gambiense, T.  b.  rhodesiense and Trypanosoma  cruzi (Chapters  97  and  98),  and Leishmania species (Chapter 99). Species in this group are capable of infecting many different tissues and cells.
+
+============================================================
+CHUNK 7
+============================================================
+CILIOPHORA
+Cilia supply the motion in this subphylum. They have two kinds of nuclei:  a  macronucleus  and  a  micronucleus.  Reproduction  is  by asexual transverse binary fission and sexual conjugation. Balantidium coli , the largest intestinal parasite of man, is a ciliate (Chapter 94).
+
+============================================================
+CHUNK 8
+============================================================
+SPOROZOA
+Protozoa in this subphylum typically have no locomotor organs in the adult stage(s) and reproduce alternately by asexual multiplication (schizogony) and sexual multiplication (sporogony). They are exclusively parasitic. Pathogens of man in this group include Plasmodium species (Chapter 96), T. gondii (Chapter 101), Cryptosporidium parvum (Chapter 91), Cyclospora (Chapter 92), and Isospora, Sarcospora, Microspora and Cystoisospora (Chapters 93 and 104). Based upon ribosomal gene analysis, Pneumocystis carinii (Chapter 86) is now considered to be a fungus.
+
+============================================================
+CHUNK 9
+============================================================
+PHYSIOLOGY
+With  the  exception  of  the  Sarcodina  trophozoites,  which  have  an ectoplastic covering, protozoa have cell membranes.
+
+============================================================
+CHUNK 10
+============================================================
+ECTOPLASM
+Across this membrane, nutrients can be actively transported, phagocytized  or  moved  by  pinocytosis.  Some  species  have  a  peristome through which food passes directly into the cytosome and cytopharynx to the endoplasm.
+
+============================================================
+CHUNK 11
+============================================================
+ENDOPLASM
+Protozoa  are  eukaryotic;  some  have  multiple  nuclei.  Cytoplasmic inclusions and a variety of organelles are responsible for metabolic, reproductive and protective functions.
+
+============================================================
+CHUNK 12
+============================================================
+REPRODUCTION
+Asexual  or  binary  fission-type  reproduction  is  characteristic  of  the Sarcodina,  Mastigophora  and  Ciliophora.  In  some  species,  asexual reproduction is more complex. Sexual reproduction in the Sporozoa always takes place in the definitive host (e.g. mosquito for malarial parasites,  cat  for T.  gondii );  it  results  in  the  formation  of  a  zygote. Asexual reproduction occurs in the intermediate host (e.g. humans for malarial parasites and for T. gondii ).
+
+============================================================
+CHUNK 13
+============================================================
+INTESTINAL PROTOZOA
+These are usually transmitted from host to host by the fecal-oral route via food and water. Many species have a cystic stage that is capable of resisting  adverse  environmental  conditions  (e.g.  drying,  heat,  and cold). Toxoplasma  gondii is  also  transmitted  by  ingestion  of  undercooked meat (contaminated with cysts) or soil, food or other vehicles contaminated with cat feces (contaminated with oocysts).
+
+============================================================
+CHUNK 14
+============================================================
+BLOOD AND TISSUE PROTOZOA
+Most of these have two hosts-vertebrate (man) and an invertebrate vector (arthropod). The parasite is usually transmitted by the vector's bite (e.g. in infections with Plasmodium species, T.  b.  gambiense and T. b. rhodesiense, Leishmania species, or Babesia species) or by exposure to contaminated vector feces (e.g. in infections with T. cruzi ).
+
+============================================================
+CHUNK 15
+============================================================
+MAGNITUDE OF THE HEALTH PROBLEM
+Protozoal  infections  cause  man more  disease  and  misery than  any other group of infectious agents.
+
+============================================================
+CHUNK 16
+============================================================
+MALARIA
+Infections with Plasmodium species  remain  one  of  the  greatest causes of mortality and morbidity in the world today, particularly in children  under  5  years  of age  and  in  pregnant  women. The World Health Organization (WHO) has set a long-term goal of control of transmission  with  drugs,  insecticide-treated  bed  nets  and  indoor residual spraying of insecticides and selected intensive efforts at local elimination. The continuing development of resistance to insecticides by the anopheline vectors has meant that new chemicals are required, and  these  are  often  too  expensive  to  be  used  by  those  who  need them most.
+Multiple drug-resistant P. falciparum is widespread in Southeast Asia into the Indian subcontinent, the Western Pacific, in malaria-endemic areas  of  South  America  and  sub-Saharan  Africa.  During  the  mid1990s,  some  strains  of P.  vivax in  Indonesia,  New  Guinea,  the Solomon Islands, and northern South America developed resistance to chloroquine, complicating and increasing the cost of treatment of this species as well.
+Estimates of the numbers infected and dying from malaria vary widely and are  often  inaccurate  because  of  a  lack  of  specific  parasitologic conformation. Recently, the WHO has recommended that all cases of fever be confirmed as being caused by malaria prior to giving antimalarial treatments. In endemic areas, most individuals exposed to infectious bites have low levels of asexual parasites and gametocytes in the peripheral blood. The introduction of non-microscopic rapid diagnostic tests (RDTs) that can detect circulating antigens of plasmodia  can  provide  confirmation  of  malaria  infection  where  quality microscopic diagnosis is not available.
+Many, frequently children, have high-level parasitemias that are often associated  with  illness.  Severe  malarial  anemia  kills  the  youngest children, whereas older children, and sometimes adults, die of cerebral malaria. Malaria also causes hypoglycemia, which is often confused with cerebral malaria and may be fatal if not specifically treated.
+
+============================================================
+CHUNK 17
+============================================================
+AFRICAN TRYPANOSOMIASIS
+Infection with either T. b. gambiense or T. b. rhodesiense almost always causes  severe  human  illness.  If  untreated,  it  is  fatal;  fortunately, however, relatively few people are infected. Trypanosoma brucei brucei , which is morphologically identical to the subspecies causing human sleeping  sickness  (Chapter  97),  causes  infection  in  cattle  (nagana) across much of Central and East Africa. Thus, cattle-raising is limited, greatly  interfering with economic development and with the nutritional status of the entire area but probably protecting the environment from overgrazing, which has occurred in much of Africa. An increase in fatal cases of African trypanosomiasis was reported in the late  1990s and early 2000s, particularly  in Angola,  the Democratic Republic of Congo, and southern Sudan owing to a collapse in healthcare infrastructure and delivery associated with conflicts. In 2009, after intensive control efforts, the number of cases reported has dropped below 10,000 (9878) for the first time in 50 years.
+
+============================================================
+CHUNK 18
+============================================================
+AMERICAN TRYPANOSOMIASIS
+Trypanosoma  cruzi affects  as  many  as  15  million  people  living  in South and Central America. Although acute infections may be fatal, most  infections are not detected (Chapter 98). Unfortunately, chronic complications years later often lead to severe disability and death  from  Chagas'  cardiopathy  and  the  'mega'  syndromes.  The poor  ,who  live  in  crudely  built  huts  infested  with  the  vector,  'the kissing  bug,' contract  Chagas' disease. Infection can be transmitted transplacentally  from  mother  to  fetus  and  by  blood  transfusion. Increasing  immigration  from  Central  and  South  America  to  the USA, led to concern regarding the safety of blood transfusions and Food and Drugs  Administration (FDA) approval of the  first  blood screening tests in the USA for Chagas disease on 2006. There are still no  FDA-approved  efficacious  and  safe  drugs  for  treating  the  infection,  particularly  the  chronic  form.  Over  1500  confirmed  positive cases of Chagas have been detected via the new blood donor screening policies as of 201 1.
+
+============================================================
+CHUNK 19
+============================================================
+LEISHMANIASIS
+Leishmania species  infect  millions  worldwide  and  cause  clinical syndromes  varying  from  a  minimal,  single,  self-healing  chronic ulceration  (urban oriental sore) to a severe, and  often fatal,
+ge  neralized febrile illness (kala-azar [Chapter 99]). Leishmania species causing these different syndromes appear morphologically identical. Polymorphisms  can  be  detected,  however,  by  using  biochemical, immunologic and genetic techniques that correlate with epidemiologic and clinical differences. Improved diagnosis to include molecular techniques has demonstrated more cases of subclinical and mild infections  than  of  the  characteristic  diseases.  Patients  with  silent chronic infections with species causing visceral disease, i.e. Leishmania donovani, L. infantum ,  or Leishmania chagasi , sometimes develop visceral leishmaniasis when they become immunocompromised. Associated with the conflict in Afghanistan, tens of thousands of people have been infected with epidemic anthroponotic Leishmania  tropica during the past 10 years.
+
+============================================================
+CHUNK 20
+============================================================
+NEW DEVELOPMENTS
+There have been several developments in protozoology since the last edition of this book was published.
+
+============================================================
+CHUNK 21
+============================================================
+MALARIA
+The introduction and increasing worldwide use of oral artemisinin combination treatments (ACTs) for the treatment of uncomplicated P.  falciparum malaria  has  led  to  a  decrease  in  the  morbidity  and mortality  caused  by  malaria  in  many  countries.  In  addition,  two large, randomized, controlled, clinical trials-one in adults in Southeast Asia and in one children in sub-Saharan Africa-comparing intravenous  artesunate  with  intravenous  quinine  for  the  treatment  of severe  and  complicated  malaria  demonstrated  the  superiority  of artesunate in decreasing all-cause mortality. The possible emergence of  artemisinin-resistant  falciparum  malaria  along  the  ThailandCambodian border will increase the difficulty and the cost of treating and controlling that disease. The introduction of RDTs for the diagnosis of malaria has proven to be a valuable tool for the optimal use of anti-malarial drugs. Providing useful alternative diagnostic testing for those who test negative for malaria parasites remains challenging. In general when available control interventions, such as drugs, diagnostic testing, bed nets, and vector control measures, are introduced in a malaria endemic area, especially in a coordinated and integrated manner, the reductions in disease incidence and prevalence have been striking.
+
+============================================================
+CHUNK 22
+============================================================
+AFRICAN TRYPANOSOMIASIS
+The significant decline in reported cases of human African trypanosomiasis (HAT) over the last 5 years is as a result of improved case detection and management. Thanks to a partnership between Sanofi Aventis  (the  manufacturer  of  the  world's  supply  of  pentamidine, melarsoprol, and intravenous eflornithine) and the WHO, these lifesaving drugs have been distributed to countries where the disease is endemic, thanks to the logistics of the association Doctors Without Borders (known as MSFMédecins sans Frontières ). Efforts to develop improved treatments met with some success in heroic clinical trials conducted  by  MSF  and  Drugs  for  Neglected  Diseases  Initiative (DNDi). The combination of 10 days of oral nifurtimox combined with a shorter 7-day course of intravenous eflornithine was shown to be as effective as the standard 14-day course of intravenous eflornithine.  The  Nifurtimox-Eflornithine  Combination  Therapy  (NECT) significantly decreases the number of intravenous injections needed and thus is easier for field administration in endemic areas. With the inclusion in April 2009 of NECT in the WHO Essential List of Medicines, disease-endemic countries now have a new opportunity and a less complex option to treat the second stage of the Gambiense form of HAT.
+
+============================================================
+CHUNK 23
+============================================================
+AMERICAN TRYPANOSOMIASIS
+There has been renewed interest in developing new efficacious and safe drugs for treating the infection, particularly the chronic form. The Benznidazole Evaluation for Interrupting Trypanosomiasis (BENEFIT) project, is a large, multicenter (most sites are in Brazil and Argentina), randomized, double-blind, placebo-controlled phase III clinical trial investigating the role of benznidazole in patients with chronic Chagas heart disease began in 2004 with initial results anticipated in 2013. This  project  investigates  whether  etiologic  treatment  significantly reduces parasite  burden,  as  assessed  by  PCR-based  techniques  and also will determine the safety and tolerability profile of the trypanocidal drug in this type of chagasic population.
+The non-profit drug research and development organization, DNDi, is teaming up with Eisai, a Japanese pharmaceutical company, to test the safety and effectiveness of a prodrug of the antifungal ravuconazole in patients with Chagas disease. The trial, the first in 40 years of a new drug for this disease, began in June of 201 1 in South America. In addition, Schering-Plough also began a study of oral posaconazole in the treatment of asymptomatic chronic chagas disease in Argentina in July of 201 1 as well.
+
+============================================================
+CHUNK 24
+============================================================
+LEISHMANIASIS
+The decade between 2000 and 2010 saw a significant expansion in available drug treatments for visceral leishmaniasis, especially in the Indian subcontinent. At the beginning of the decade we faced pentavalent antimony-resistant visceral leishmaniasis in India, and had few other options. A significant expansion in the use of amphotericin B out of necessity was accompanied by a series of clinical trials demonstrating  the  remarkable  efficacy  and  relative  safety  of  liposomal amphotericin B (LAMB) when given as a single 10-mg/kg infusion. Current WHO recommendations also include intramuscular paromomycin and oral miltefosine. Optimal regimens for East Africa remain to  be  determined.  Unfortunately  there  have  not  been  significant advances  for  the  treatment  of  cutaneous  leishmaniasis  or  mucosal leishmanaisis  except  to  show  the  efficacy  of  LAMB  for  both  syndromes. The cost of LAMB is prohibitive in resource poor countries with endemic disease.
+

@@ -1,0 +1,79 @@
+============================================================
+CHUNK 0
+============================================================
+Key features
+- Cutaneous larva migrans (CLM) is a creeping eruption caused by the migration of larval nematodes in the epidermis. Most infections are associated with Ancylostoma braziliense , a hookworm of both dogs and cats
+- Diagnosis is made clinically; serologic testing is not widely available
+- Symptoms and signs are one or more erythematous, serpiginous tracks in the epidermis, pruritus, erythema and mild swelling. Allergic reactions and folliculitis can occur
+- CLM is often associated with travel to tropical or near tropical areas where environmental conditions favor larval development. The burden of disease in resident populations of the developing world is unde&ned
+- CLM can be prevented by avoiding contact with potentially contaminated soil or sand. Although infection with zoonotic hookworm larvae is self-limiting, treatment can shorten the duration of clinical disease
+
+============================================================
+CHUNK 1
+============================================================
+INTRODUCTION
+Cutaneous larva migrans (CLM) is a dermatologic condition caused by  the  migration  of  animal  nematode  larvae,  most  commonly  the larvae  of  the  dog  and  cat  hookworm Ancylostoma  braziliense .  Other common dog  and  cat  hookworms, A.  caninum , A.  ceylanicum and Uncinaria stenocephala , have been associated with disease [1].
+Creeping  eruption,  the  clinical  manifestation  of  CLM,  was  first reported  to  be  associated  with A.  braziliense larvae  by  Kirby-Smith et al. in 1926 [2]. Although other parasites can cause similar symptoms,  the  specific  clinical  and  epidemiological  features  of  disease caused by migrating A.  braziliense larvae  distinguish  the etiology of this disease, often referred to as hookworm-related CLM. CLM is most often reported in returning travelers who have had soil and/or sand exposures in regions where A. braziliense is endemic in resident dog and  cat  populations  [1,3].  The  global  burden  of  disease  remains undefined [4].
+
+============================================================
+CHUNK 2
+============================================================
+EPIDEMIOLOGY
+Dog and cat hookworms occur throughout the world, although hookworm species have differing geographic ranges (Table 120-1). A. braziliense is found in warmer climates along the Atlantic but not Pacific coasts  of  the  Americas  from  the  southeastern  US,  throughout  the
+Caribbean,  and  into  South  America.  From  animal  studies, A.  braziliense has also been reported in parts of Africa, Australia, and Southeast Asia. A. caninum is found wherever dogs are present in warmer climates but the distribution of U. stenocephala is restricted to colder climates [1].
+CLM is most frequently reported among travelers to tropical or near tropical parts of the world; traveler infections likely represent only a small proportion of the true global burden of disease. Among travelers, the frequency of reported CLM is associated with reason for travel, e.g.  tourist  or  business;  the  geographic  area  visited;  and  age  [3,5]. Infection is associated with increased likelihood of unprotected skin exposure among vacationing tourists and younger age groups. In less developed areas of the world, dogs and cats are often free-ranging and have high rates of infection with hookworm, and soil and sand contamination is widespread [4-6]. In a survey of a rural population in Brazil,  the  prevalence  of  CLM  during  the  rainy  season  was  14.9% among children less than 5 years old and 0.7% among adults aged 20  years  and  older  [7].  The  prevalence  in  resident  populations  is poorly  defined  as  CLM  typically  is  not  considered  a  public  health priority.
+Patients usually report skin exposure to soil or sand, and lesions will be located on the body area in contact with soil while sitting or standing, especially the feet, buttocks and thighs. Rarely, infection has been linked to exposure to contaminated clothing or plant material [1,6]. The most common symptom is pruritus; pain has also been reported, as well as stinging sensations at the time of larval penetration through the skin [5,6,8].
+
+============================================================
+CHUNK 3
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Animal hookworm eggs are shed in the feces of the animal host and develop  into  infective  filariform  larvae  in  the  soil,  where  they  can survive  for  several  weeks  under  appropriate  environmental  conditions. When human skin comes in contact with contaminated soil or sand,  larvae  attempt  to  penetrate  the  skin,  but  the  larvae  of  most species of animal hookworm cannot penetrate beyond the dermis [1]. The larvae of A.  braziliense will  migrate in the  epidermis for several weeks  before  dying,  after  which  lesions  resolve  spontaneously. A. caninum and A. ceylanicum larvae can penetrate more deeply and have been associated with other clinical syndromes, including eosinophilic enteritis. Rarely, eosinophilic pneumonitis has been reported in patients with CLM, possibly due to larval penetration involving the lungs.  Allergic  reactions  can  occur  in  multiply  exposed  individuals with  extreme  inflammatory  response  at  the  location  of  the  track [1,6,8].
+
+============================================================
+CHUNK 4
+============================================================
+CLINICAL FEATURES
+Signs and symptoms appear shortly after the larvae penetrate the skin, typically within a few days of infection although delay of onset for up to  several  months  has  been  reported.  In  reported  outbreaks  of CLM, the median time to onset ranged from 10 to 15 days [6,8]. The
+
+TABLE 120-1 Epidemiology and Clinical Characteristics of Parasites Associated With Cutaneous Disease Including Cutaneous Larva Migrans
+
+============================================================
+CHUNK 5
+============================================================
+CLINICAL FEATURES
+Ancylostoma braziliense, Host species = Cat, dog. Ancylostoma braziliense, Geographic distribution = Atlantic coast of SE United States, Caribbean, South America south to Uruguay; Africa; Australia; Asia. Ancylostoma braziliense, Clinical characteristics = Linear tracks which are often raised and pruritic; moves 1-2 cm/day; may persist up to 3 months. Ancylostoma caninum, Host species = Dog. Ancylostoma caninum, Geographic distribution = Tropical to temperate climates worldwide. Ancylostoma caninum, Clinical characteristics = Linear tracks are rare, more often associated with folliculitis; occasional myositis or eosinophilic enteritis; persists up to 1 month. Uncinaria stenocephala, Host species = Cat, dog. Uncinaria stenocephala, Geographic distribution = Colder climates of North America, South America, Europe, Asia, Australia, and New Zealand. Uncinaria stenocephala, Clinical characteristics = Relationship with cutaneous larva migrans is unclear; may cause transient linear tracks. Ancylostoma duodenale , Necator americanus, Host species = Human. Ancylostoma duodenale , Necator americanus, Geographic distribution = Tropical to temperate climates worldwide. Ancylostoma duodenale , Necator americanus, Clinical characteristics = Transient papular rash at sites of penetration, usually lasts less than 1 week. Urticarial rash can develop as larvae migrate in lungs. Gnathostoma spinigerum, Host species = Cat, dog. Gnathostoma spinigerum, Geographic distribution = Asia and South Asia, especially Thailand and Japan; Central America and Mexico; Africa. Gnathostoma spinigerum, Clinical characteristics = Intermittent pruritic, erythematous and painful swellings in subcutaneous tissues; lesions last 1-2 weeks but infection can persist for years. Strongyloides stercoralis, Host species = Human. Strongyloides stercoralis, Geographic distribution = Tropical to temperate climates worldwide. Strongyloides stercoralis, Clinical characteristics = Urticarial rashes, less commonly transient linear tracks with pruritus; lesions perianal with autoinfection; migrate several cm/day; lesions resolve within 7-14 days
+
+============================================================
+CHUNK 6
+============================================================
+CLINICAL FEATURES
+first symptom is typically intense pruritus followed by a raised, erythematous  track  that  starts  near  the  site  of  penetration.  The  track, typically about 3 mm wide and up to 20 mm long, can move in the skin at a rate of several millimeters per day; the larva itself is usually migrating somewhere ahead of the track. Usually, only one or a few tracks are present but there may be multiple tracks in more intense infections.  Vesiculobullous  lesions  and  edema  can  accompany  the track; folliculitis is uncommon and may be related to the infecting species of hookworm. Eosinophilia is not consistently present and is likely  when  larvae  have  penetrated  to  deeper  tissues  or  a  greater inflammatory reaction is present [6,8].
+
+============================================================
+CHUNK 7
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Cutaneous larva migrans is a clinical diagnosis based on the presence of characteristic pruritus and an erythematous raised track that moves randomly  in  the  dermis,  as  well  as  a  history  of  skin  exposure  to contaminated  soil  or  sand  in  endemic  areas.  Serologic  testing  to confirm infection is not available; skin biopsy is not useful since the location  of  the  migrating  larva  cannot  be  predicted  by  the  visible track. Clinical features and travel history can also help to define differential diagnoses, including other parasitic infections such as human hookworm, gnathostomiasis, strongyloidiasis, or noninfectious conditions such as cutaneous pili migrans. Myiasis and scabies can mimic CLM [1,6,8].
+
+============================================================
+CHUNK 8
+============================================================
+TREATMENT
+CLM can be prevented by wearing shoes, sitting or lying on protective mats while at the beach, and taking other protective measures to avoid contact with contaminated soil or sand. Regular deworming of cats and dogs and prompt disposal of animal waste in the environment help  to  control  sources of infective  larvae [1]. CLM is  self-limiting; larvae migrating in the skin usually will die after 5-6 weeks, although delayed  onset  and  persistent  clinical  disease  have  been  reported. Treatment may be necessary to resolve severe symptoms and address secondary bacterial infections. Cryotherapy is not recommended, as the larvae migrate randomly in advance of the visible tracks and may not be in the treated area. Topical therapy with anthelminthics has been shown to be effective but needs repeated applications over large areas of skin. Oral treatment with albendazole (400 mg/day orally for 3-7 days) or ivermectin (200 μ g/kg orally single dose) eliminates the symptoms and kills the migrating larvae; in more severe cases of folliculitis, additional doses may be necessary. Rarely, relapse can occur but usually is resolved by repeated treatment [6,8,9].
+Pediatric treatment: In children over 15 kg, a single dose of ivermectin 200 μ g/kg orally is effective. Children under the age of 2 years should receive  albendazole  200 mg  orally  for  3  days.  Topical  preparations of  either  drug  have  been  suggested  as  alternative  treatments  in children.
+
+============================================================
+CHUNK 9
+============================================================
+REFERENCES
+1. Bowman DD, Montgomery SP, Zajac AM, et al. Hookworms of dogs and cats as agents of cutaneous larva migrans. Trends Parasitol 2010;26:162-7.
+2. Kirby-Smith J, Dove W, White G. Creeping eruption. Arch Dermatol Syphilol 1926;13:137-73.
+3. Lederman ER, Weld LH, Elyazar IR, et al. Dermatologic conditions of the ill returned traveler: an analysis from the GeoSentinel Surveillance Network. Int J Infect Dis 2008;12:593-602.
+4. Feldmeier  H,  Heukelbach  J.  Epidermal  parasitic  skin  diseases:  a  neglected category of poverty-associated plagues. Bull World Health Organ 2009;87:152-9.
+5. Blackwell  V,  Vega-Lopez  F.  Cutaneous  larva  migrans:  clinical  features  and management of 44 cases presenting in the returning traveler. Br J Dermatol 2001;145:434-7.
+6. Heukelbach  J,  Feldmeier  H.  Epidemiological  and  clinical  characteristics of hookworm-related cutaneous larva migrans. Lancet Infect Dis 2008;8:302-9.
+7. Heukelbach J, Jackson A, Ariza L, Feldmeier H. Prevalence and risk factors of hookworm-related cutaneous larva migrans in a rural community in Brazil. Ann Trop Med Parasitol 2008;102:53-61.
+8. Hochedez P, Caumes E. Hookworm-related cutaneous larva migrans. J Travel Med 2007;14:326-33.
+9. Caumes  E.  Treatment  of  cutaneous  larva  migrans  and Toxocara infection. Fundam Clin Pharmacol 2003;17:213-16.
+

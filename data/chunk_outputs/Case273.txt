@@ -1,0 +1,363 @@
+============================================================
+CHUNK 0
+============================================================
+38
+
+============================================================
+CHUNK 1
+============================================================
+38.1 Rabies and Related Viruses
+Mary J. Warrell, David A. Warrell
+
+============================================================
+CHUNK 2
+============================================================
+KEY FEATURES
+- Lyssavirus of the Rhabdoviridae includes classic rabies virus and other rabies-related viruses, causing at least 59,000 human deaths annually, mainly in Asia and Africa.
+- cycle of infection in stray dogs, but several other terrestrial mammal species are reservoirs, and there is evidence of widespread infection in bats. In the Americas, bat viruses are classic species/genotype 1 rabies. Elsewhere, all bat lyssaviruses are other species/ genotypes (rabies-related viruses).
+- mucosae. Humans are usually infected when virus-laden saliva is inoculated through the skin by the bite of a rabid mammal.
+- signs of furious or paralytic rabies portend a rapidly fatal course. The mechanism of neuronal dysfunction is unknown.
+- of hydrophobic spasms or other clinical features. Paralytic disease is less easily identi{ed and is misdiagnosed globally. The diagnosis can be made during life, but lack of facilities often hampers con{rmation of disease.
+- bats in North America have recovered from rabies encephalomyelitis after intensive care. Clinically, the American insectivorous bat strains of rabies genotype/ species 1 viruses seem to be less pathogenic; dog rabies virus infection remains universally fatal in unvaccinated people. No treatment has proved effective experimentally, and intensive care therapy is rarely indicated. Palliation is usually the most appropriate management.
+- prevented by controlling the transmission of dog rabies, but education and resources are lacking. Combined pre-exposure vaccination with post-exposure boosting has proved 100% effective in humans. Pre-exposure immunization should be encouraged, but the cost may be prohibitive. Intradermal vaccine regimens could increase the affordability of treatment without loss of effectiveness.
+- vaccination campaigns has led to fewer cases of human rabies in some settings.
+
+============================================================
+CHUNK 3
+============================================================
+INTRODUCTION
+Rabies is a zoonosis of wild and domestic mammals that may be transmitted to humans, usually by the bite of a rabid dog. Rabies viruses  are  bullet-shaped,  single-stranded,  negative-sense  RNA viruses.
+Encephalomyelitis  caused  by  dog  rabies  virus  has  proved invariably fatal in unvaccinated humans. The disease is enzootic in certain carnivore and bat species throughout most parts of the world.  The  highest  human  rabies  mortality  is  in  developing countries where rabies is uncontrolled in domestic dogs. Classic rabies virus and 15 rabies-related lyssaviruses in three phylogroups comprise the genus Lyssavirus of the Rhabdoviridae family. 1 Seven species are single bat isolates. The reservoir species of all rabiesrelated lyssaviruses are Old World bats except one, Mokola virus, which is found in shrews. Six rabies-related lyssaviruses are known to infect man (T able 38.1.1). All bat rabies viruses in the Americas are classic rabies genotype/species 1.
+
+============================================================
+CHUNK 4
+============================================================
+EPIDEMIOLOGY
+Rabies is enzootic worldwide with the exception of Antarctica and a number of islands, including Iceland, Ireland, New Guinea, New Zealand, Japan, Singapore, and some Mediterranean and Caribbean islands. Western Europe and Australia are free of rabies in terrestrial mammals, but bats may harbor rabies-related lyssaviruses. Human rabies  is  generally  under-reported.  A  conservative  estimate  of annual mortality in Asia and Africa is 59,000. Countries with a high  incidence  of  human  rabies  include  India,  Pakistan,  and Bangladesh. In the United States, 21 cases were recognized in the last  10  years,  43% of which were infected abroad. Seventy-{ve percent of indigenous infections were due to bat rabies viruses.
+The major reservoir and vector of rabies is the domestic dog, causing > 99% of human infections. Sylvatic rabies occurs predominantly in skunks, raccoons, foxes, and insectivorous bats in North America; foxes in the Arctic; mongooses in some Caribbean islands; vampire bats in Latin America and Trinidad; jackals, wolves, and small carnivores in Africa and Asia; and foxes, wolves, and raccoon dogs in Europe. Transmission occurs to vectors, for example, cats, which may infect humans, but there is no cycle of infection within vector species. Vampire bats ( Desmodontinae ) are con{ned to southern Texas, Mexico, Central and South America, and some Caribbean islands (see Chapter 140). Rabid bats feed on, and infect, cattle, resulting in {nancial loss. Outbreaks of vampire bat rabies in humans occur in jungle areas of the Amazonian region, possibly as a result of disturbances of bat ecology. The reservoirs and distribution of rabies-related viruses are listed in T able 38.1.1 .
+In dogs, the incubation period is usually between 2 weeks and 4 months. The symptoms include a change in behavior, fever, and intense irritation at the site of the bite. Dogs can become aggressive but more often show features of paralytic or 'dumb' rabies with paralysis of neck and hind legs and vocal chords, dysphagia, and drooling of saliva. Virus may be excreted in the saliva for 2 or 3
+
+============================================================
+CHUNK 5
+============================================================
+EPIDEMIOLOGY
+TABLE 38.1.1 Lyssaviruses Causing Human Disease
+
+1, Virus = Rabies. 1, Where Virus Was Found = Terrestrial mammals and bats in Americas. 1, Geographic Range = Widespread. 1, Human Disease (Number of Reported Cases) = Furious or paralytic. 3, Virus = Mokola*. 3, Where Virus Was Found = Shrew, mouse, cat, dog Human. 3, Geographic Range = Nigeria, Cameroon, Central African Republic, Ethiopia, Zimbabwe, Southern Africa Nigeria. 3, Human Disease (Number of Reported Cases) = Febrile convulsion, pharyngitis† Fatal paralytic encephalitis† (2). 4, Virus = Duvenhage. 4, Where Virus Was Found = Insectivorous bat, fruit bat Human. 4, Geographic Range = South Africa, Zimbabwe South Africa, Kenya 6. 4, Human Disease (Number of Reported Cases) = Furious rabies (2). 5, Virus = European bat lyssavirus 1. 5, Where Virus Was Found = Insectivorous bat Human. 5, Geographic Range = Across Continental Europe into Russia Russia. 5, Human Disease (Number of Reported Cases) = Furious/paralytic rabies (2). 6, Virus = European bat lyssavirus 2. 6, Where Virus Was Found = Insectivorous bat Human. 6, Geographic Range = Netherlands, Germany, UK, Switzerland, Finland, Denmark, Norway, France Finland, UK. 6, Human Disease (Number of Reported Cases) = Furious/paralytic rabies (2). 7, Virus = Australian bat lyssavirus. 7, Where Virus Was Found = Fruit bats, insectivorous bat Human. 7, Geographic Range = Australia Australia. 7, Human Disease (Number of Reported Cases) = Furious/paralytic rabies (2)
+- *Mokola virus is in phylogroup 3, is less pathogenic than other genotypes/species, and does not cross-neutralize with rabies. † Questionable diagnosis.
+days before there are signs of rabies, and the animal usually dies within the next 7 days. Hydrophobia is not seen in animals, but the inability to drink is a common symptom of rabies.
+
+============================================================
+CHUNK 6
+============================================================
+EPIDEMIOLOGY
+Human rabies usually results from inoculation of virus-bearing saliva  through  the  skin  by  the  bite  of  a  rabid  dog.  Scratches, abrasions,  and  other  wounds  (also  intact  mucosal  membranes) can be contaminated with infected saliva. Rare modes of infection are transplantation of infected grafts of cornea, kidney, liver, lung, pancreas,  and  even  a  segment of  artery  from  donors  who  had died of unsuspected rabies; inapparent contact with bats in caves; inhalation  of  virus  aerosols  as  a  result  of  laboratory  accidents; and butchering infected meat. Despite a single report of congenital or  neonatal  infection,  many  infants  of  infected  mothers  have remained healthy. Although transmission of infection to intimate family members has been suspected on a few occasions, it has never  been  virologically  proved.  This  also  applies  to  hospital staff. 2
+
+============================================================
+CHUNK 7
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+After inoculation, rabies virus may replicate locally in myocytes before binding to acetylcholine receptors at the post-synaptic membrane of neuro-muscular junctions. The virus is then poised to enter peripheral motor neurons by attachment to one of two or more receptor molecules and then endocytosis. Other means of infection of peripheral neurons probably occur, for example, after  a  super{cial  bat  bite.  It  is  conveyed  by  the  retrograde axonal  transport  mechanism 3 toward  the  cell  soma,  where  it replicates and is transmitted via the dendrite to adjacent neurons, eventually reaching the central nervous system (CNS) via transsynaptic spread. The virus remains intraneuronal, and there is massive  replication  in  the  brain. 4 Centrifugal  spread  of  virus from the CNS along nerves infects the salivary glands (where it is shed and, in infected animals, spread by the bite), lacrimal glands, skin (where it may be detected in nerve twiglets in hair follicles), respiratory tract, myocardium, and many other tissues. In animals, virus is detectable in the skin before the development of symptoms.
+Histopathologic changes may be surprisingly mild in victims. In furious rabies, the midbrain and medulla are mainly involved and, in paralytic rabies, the spinal cord. Changes include ganglion cell degeneration, perineural and perivascular mononuclear cell in{ltration,  neuronophagia, and the formation of glial nodules. Negri bodies, the characteristic intracytoplasmic inclusion bodies, are viral factories containing RNA and accumulated viral proteins.
+In  unvaccinated  patients  with  rabies  encephalomyelitis,  no antibody response is detectable in serum or cerebrospinal |uid (CSF) until the second week of illness and may not appear before death. Experimentally, neutralizing antibody in the brain is associated  with survival. After vaccination, viral glycoprotein induces neutralizing antibody, which is protective against disease.
+
+============================================================
+CHUNK 8
+============================================================
+Clinical Manifestations
+The incubation period is usually between 20 and 60 days (extreme range, 4 days to > 19 years). Relatively short incubation periods are observed after facial and severe multiple bites (Fig. 38.1.1). The prodromal symptom most suggestive of rabies encephalitis is  paresthesia,  especially  itching,  at  the  site  of  the  healed  bite wound (Fig. 38.1.2). Other early symptoms include fever, mood changes, and non-speci{c upper respiratory tract or gastrointestinal symptoms. At this stage, patients may be referred to a wide range of different specialists, including otolaryngologists and psychiatrists. The determinants of the clinical forms of rabies, furious (agitated) and paralytic (dumb), are unknown, but both viral and host factors, and also previous vaccination, are suspected to be implicated.
+
+============================================================
+CHUNK 9
+============================================================
+Furious Rabies
+Furious rabies 5 is the more commonly recognized presentation. After  a  few  days  of  prodromal  symptoms,  the  pathognomonic symptom and sign of hydrophobia or aerophobia develops (Fig. 38.1.3). A series of forceful, jerky, inspiratory spasms is provoked either by attempts to drink water or by a draft of air on the face. Both re|exes are associated with a compelling, but inexplicable,
+00 4
+with furious rabies.
+Fig. 38.1.4 Hypersalivation and generalized sweating in a Thai woman with furious rabies.
+terror. Splashing water on the skin, irritation of the respiratory tract, or, by conditioning, the sight, sound, or even the mention of water may provoke a hydrophobic spasm. Patients also experience episodic  generalized  arousal  during  which  they  become  wild, hallucinated,  and  sometimes  aggressive.  During  lucid  intervals, they cerebrate normally and are aware of their terrible predicament. Neurologic abnormalities include meningism, cranial nerve lesions, upper motor neuron lesions, fasciculation, and involuntary movements.  Generalized  hyperesthesia  or  hyperacusis  is  described. Sweating,  hypersalivation  (Fig.  38.1.4),  lacrimation,  |uctuating blood pressure and body temperature, diabetes insipidus and, rarely, inappropriate secretion of anti-diuretic hormone suggest disturbances of the  hypothalamus.  Lesions  of  the  amygdaloid  nuclei probably account for increased libido, priapism, and spontaneous orgasms. Without intensive care, most patients die within a few days  of  developing  hydrophobia. About  a  third  of  patients  die during a hydrophobic spasm, whereas the others lapse into coma with various abnormalities of respiratory rhythm.
+
+============================================================
+CHUNK 10
+============================================================
+Paralytic Rabies
+Paralytic  rabies  is  less  distinctive  and  is  undoubtedly  underdiagnosed. 5 Almost all cases of rabies transmitted by vampire and other  bats  in  the  Americas  were  of  this  type.  After  the  usual prodromal symptoms, especially fever, headache, and local paresthesia, |accid paralysis develops (usually in the bitten limb) and ascends symmetrically or asymmetrically with pain and fasciculation in the affected muscles and mild sensory disturbance. Paraplegia and sphincter involvement then develop and {nally fatal paralysis of deglutitive and respiratory muscles. Hydrophobia is rare. Patients may survive for a month, even without intensive care.
+
+============================================================
+CHUNK 11
+============================================================
+Complications of Prolonged Survival
+Patients with rabies whose lives are prolonged by intensive care may develop a wide range of complications, 5 including aspiration pneumonia, pneumothorax, respiratory failure, cardiac arrhythmias, hypotension, pulmonary edema, myocarditis with congestive cardiac failure, generalized convulsions, cerebral edema, polyneuropathy, and hematemesis associated with ulceration or tears in the mucosa of the upper gastrointestinal tract.
+Fig. 38.1.1 Multiple facial bites by a rabid dog in Thailand, carrying a high risk of infection. This patient was given effective post-exposure prophylaxis.
+Fig. 38.1.2 Prodromal itching in the bitten limb that prompted frenzied scratching and excoriation. The patient developed classic furious rabies.
+Fig. 38.1.3 Hydrophobic spasm caused by attempts to swallow water in an African boy with furious rabies. Note contraction of sternocleidomastoid muscles and diaphragm (depressing the xiphisternum).
+TABLE 38.1.2 Laboratory Diagnostic Methods
+
+Full-thickness skin* punch biopsy, Test = Antigen detection. Full-thickness skin* punch biopsy, Method = IFA test on frozen section† RT-PCR. Saliva or throat swab* Tears CSF, Test = Virus isolation and antigen detection. Saliva or throat swab* Tears CSF, Method = Tissue culture Mouse inoculation test RT-PCR. Serum, Test = Neutralizing antibody test‡. Serum, Method = Presence of antibody is diagnostic in unvaccinated patients If previously vaccinated, save sample for comparison later. CSF, Test = Neutralizing antibody test‡. CSF, Method = Test in parallel with serum. Brain post-mortem: needle necropsy§ or autopsy sample brainstem and cerebellum, Test = Virus isolation and antigen detection. Brain post-mortem: needle necropsy§ or autopsy sample brainstem and cerebellum, Method = Tissue culture Mouse inoculation test IFA test on impression smear RT-PCR
+
+============================================================
+CHUNK 12
+============================================================
+Complications of Prolonged Survival
+- *Most useful samples for antigen detection, repeat daily until a diagnosis is confirmed.
+- † Rabies antigen seen in nerve twiglets around the base of hair follicles by immunofluorescence (IFA) test.
+- ‡ Immunofluorescent antibody test is rapid and sensitive. Neutralizing antibody test takes ≥ 2 days.
+- § Necropsies are taken with a long biopsy needle via the medial canthus of the eye, through the superior orbital fissure, via the nose through the ethmoid bone, or through the foramen magnum or open fontanelles in children.
+
+============================================================
+CHUNK 13
+============================================================
+Infections by Rabies-Related Viruses
+These  (see  T able  38.1.1)  are  clinically  indistinguishable  from classic rabies genotype/species 1 encephalomyelitis, but they are unlikely to be distinguished from classic rabies, 6 as  diagnosis  is almost always clinical in Asia and Africa. The diagnostic  rabies immuno|uorescent antigen test (IFAT) may be weakly positive or negative. Few laboratories are equipped to identify other species.
+
+============================================================
+CHUNK 14
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Rabies should be suspected in any patient who develops neurologic symptoms more than a week after being bitten by a mammal, but there may be no history of exposure, especially after bat contact. Vampire bat bites are painless, occurring at night on exposed areas, often on toes or ears. Rabies is frequently misdiagnosed. In patients with furious rabies, the alteration in mood, hallucinations, and bizarre behavior may raise suspicions of psychiatric disease, hysteria, malingering, or rabies phobia. Other patients are referred to otolaryngologists. The spasms of tetanus may resemble hydrophobia, especially if they involve the pharyngeal muscles (cephalic tetanus), but in tetanus, there  is  a  background  of  increased  muscle  tone  (rigidity) . The combination of severe brainstem encephalitis with full consciousness in rabies is rare in other encephalitides but has been described in serum sickness encephalopathy. Various poisons, drugs, and plant toxins, including strychnine, phenothiazines, atropine-like compounds, cannabis,  and  ethanol,  can  produce  syndromes  of  muscle  spasm, agitation, hallucinations, psychiatric disturbances, signs of autonomic nervous system stimulation, and convulsions. Paralytic rabies should be considered in patients with rapidly ascending (Landry type) |accid paralysis, suspected Guillain-Barré syndrome, and transverse myelitis. Poliomyelitis is distinguished by its lack of sensory abnormalities. Cercopithecine herpesvirus encephalomyelitis, very rarely transmitted by monkey bites, has an incubation period of only a few days.
+
+============================================================
+CHUNK 15
+============================================================
+Diagnosis
+In  humans,  rabies  encephalomyelitis  can  be  con{rmed  rapidly during life by tests on skin biopsy or saliva samples (T able 38.1.2). 2 Reverse transcription polymerase chain reaction (RT-PCR)-based tests are sensitive but not as speci{c or as sensitive as IFAT on skin  biopsies.  Rabies  virus  may  be  isolated  early  in  the  illness, before antibody appears. Pleocytosis may be absent initially. Brain imaging gives variable results.
+
+============================================================
+CHUNK 16
+============================================================
+Prognosis
+In unvaccinated people, infection with canine rabies virus remains universally fatal. However, incompletely vaccinated patients treated with intensive care have survived months or years but with profound neurologic impairment. 7 The diagnosis in these patients is usually made serologically; virus was isolated from only one patient; and antigen tests are rarely positive.
+Three patients have, however, recovered from rabies to lead independent lives. A boy bitten by a bat in Ohio in 1970 was vaccinated with duck embryo vaccine, treated with intensive care, and made a complete recovery. In T urkey, a man bitten by a dog had one dose of vaccine and developed symptoms of rabies. After being in hospital for 2 days, he began to improve spontaneously, without  any  speci{c  care.  Rabies-neutralizing  antibody  was detected when he was {rst tested, within a week of onset. 8 The only unvaccinated patient to survive rabies was bitten by a bat in Milwaukee, Wisconsin, in 2004. 9 She developed typical encephalomyelitis, without hydrophobia. Rabies antibody was already detectable on the sixth day of illness. After intensive care treatment (ICT),  including  coma  induction  and  non-speci{c  anti-viral therapy, she recovered with only minimal neurologic de{cits. These three patients are all likely to have had antibody at an early stage of the disease, and treatment probably maintained vital functions until their immune response, including neutralizing antibody, eliminated the virus, with some loss of infected neurons. American bat rabies viruses may be less pathogenic than canine and  other  terrestrial  mammal  strains-although  they  are  all species/genotype 1 viruses, they form a genetically distinct group.
+Rabies was suspected in two girls with undiagnosed encephalitis in the United States. Both had low levels of immuno|uorescent (IF) rabies antibody, but all other tests were negative. Both patients recovered, and the diagnosis of rabies was not con{rmed. The rabies IF serology test cross-reacts with those of other encephalitic viruses. 10
+
+============================================================
+CHUNK 17
+============================================================
+TREATMENT AND PREVENTION
+Experimentally, no treatment has proved effective, and several other patients, bitten by bats or dogs, were treated with the Milwaukee ICT  regimen  without  recovery.  Hence,  unvaccinated  patients infected by dog rabies should be given palliation with heavy sedation and analgesia to relieve the agonizing symptoms and post-exposure prophylaxis offered to contacts. Previously vaccinated patients given ICT have a remote chance of survival, but with severe neurologic sequelae.  ICT  should,  however,  be  considered  for  those  with
+rabies-neutralizing antibody present within the {rst week of illness, American bat rabies infections at an early stage of disease, or if they have received rabies vaccine before the onset of symptoms. Otherwise, it is advisable and humane to provide palliative care. 8 In the future, effective anti-viral methods may be discovered.
+
+============================================================
+CHUNK 18
+============================================================
+Pre-Exposure Prophylaxis
+Immunization is recommended for anyone at risk of exposure to infection, 11 for  example,  veterinarians,  laboratory  workers,  dog catchers,  zoologists,  conservationists,  other  {eld  workers,  cave explorers, and people visiting or resident in dog rabies-enzootic countries. An intramuscular (IM) dose of tissue culture vaccine (T able 38.1.3) is given on days 0, 7, and 28. 12 The {nal dose can be advanced toward day 21 if necessary, but the antibody level may wane more rapidly. If vaccine is scarce or unaffordable, an alternative intradermal (ID) dose of 0.1 mL over the deltoid is immunogenic and also economical if more than one person can be immunized on the same day. This has been previously used in the United States, and pharmaceutical regulations might permit its re-introduction. ID preexposure immunization should not be used for immunosuppressed people or those taking chloroquine medication. In 2018 the WHO recommended shortened pre-exposure regimens to 2 visits on days 0 and 7: either an IM dose or two-site ID vaccination. 13
+Booster doses are given according to the level of risk, from every 6 months in some laboratory workers, to 5 years if lower risk-for  example,  animal  handlers.  If  neutralizing  antibody  is detectable,  boosting  is  unnecessary.  Boosters  are  not  normally recommended for travelers, but if vaccine is unlikely to be available in  case  of  exposure-for  example,  on  an  expedition  to  remote areas, a booster dose is advisable before departure. After possible exposure,  post-exposure  booster  vaccination  is  always  needed urgently, but rabies immunoglobulin (RIG) is not required. Rabies vaccine regimens may change as new data emerge, and so check the  latest  World  Health  Organization  (WHO)  or  Centers  for Disease Control and Prevention (CDC) recommendations.
+
+============================================================
+CHUNK 19
+============================================================
+Pre-Exposure Prophylaxis
+TABLE 38.1.3 Post-Exposure Prophylaxis for Use in a RabiesEnzootic Area*
+
+Minor exposure (Category II) Minor scratches or abrasions without bleeding, Treatment = Start vaccine† : stop treatment if animal remains healthy for 10 days or if laboratory test on animal's brain proves negative. Major exposure (Category III) Licks of mucosa or broken skin Transdermal (breaking the skin or bleeding) bites or scratches Contact with suspect bat, Treatment = Rabies immunoglobulin ‡ and vaccine: stop if domestic cat or dog remains healthy for 10 days or if reliable laboratory test on animal's brain proves negative
+*After an unprovoked attack by cat or dog or an attack by wild animal. † Human diploid cell vaccine (Sanofi Pasteur, Lyon, France) and purified chick embryo cell vaccine (Rabavert/Rabipur; Novartis) are used in the United States. Purified Vero cell vaccine (Verorab; Sanofi Pasteur) may be also available elsewhere, but a single-dose vial contains 0.5 mL, whereas the other two are in 1-mL vials. See text for vaccine regimens.
+‡ Rabies immunoglobulin (RIG) is most important for severe rabies exposure (bites on the head, neck, or hands, or multiple bites). Injection into and around the wound should neutralize the virus, providing some protection during the first week until the vaccine induces immunity. (For multiple wounds, dilute in sterile saline). If local infiltration is anatomically impossible, give the rest intramuscularly at a site remote from the vaccine, but not into gluteal tissue. The dose of 20 units/kg body weight of human RIG (or 40 units/kg equine RIG in some countries) must not be exceeded. Adapted from World Health Organization, 2018. 13
+
+============================================================
+CHUNK 20
+============================================================
+Post-Exposure Prophylaxis
+To evaluate the risk of exposure, ask about local rabies epidemiology; the appearance, behavior, fate, and vaccination status of the animal involved; and the precise nature and severity of the wounds (see Table 38.1.3).  Unusual  contact  with  a  bat  anywhere  should  be considered  a  possible  exposure.  If  treatment  is  indicated,  start immediately, even if the incident was many months ago.
+
+============================================================
+CHUNK 21
+============================================================
+Local Measures
+Bite wounds, scratches, or abrasions that may have been contaminated by infected saliva should be scrubbed with soap or detergent and rinsed energetically, using analgesia if necessary. Wounds should be irrigated with povidone-iodine. Suturing should be avoided or delayed wherever possible. The risk of other pathogens associated with mammal bites, especially tetanus, should be considered. Intact skin is a barrier to infection, but lesions from bats may be undetectable.
+Speci{c prophylaxis aims to deliver rabies-neutralizing antibody rapidly to the wound site. Passive immunization with RIG provides immediate temporary therapy until the active immune response to primary vaccination appears. Cell culture vaccines (see T able 38.1.3)  are  recommended,  but  obsolete  suckling  mouse  brain vaccine is still used in Algeria.
+
+============================================================
+CHUNK 22
+============================================================
+Post-Exposure Vaccine
+The IM post-exposure (Essen) vaccine regimen is now modi{ed to 4 doses: one vial injected into the deltoid or anterolateral thigh area (not the gluteal region) on days 0, 3, 7 and between 14 and 28 days. 13 Delaying the {nal dose until day 28 is predicted to enhance and prolong the antibody response. An alternative four-dose Zagreb IM regimen is two doses on day 0 and one dose on days 7 and 21.
+A new economical post-exposure four-site ID regimen 11,13,14 is as immunogenic as the {ve-dose IM regimen. It uses a whole vial of vaccine, divided between four ID injections over the deltoid and either the thigh or suprascapular areas on day 0. The volume per site is about 0.1 mL for vaccines containing 0.5 mL/vial, and the equivalent dose for vaccines of 1 mL/ vial is 0.2 mL. On day 7, two ID injections (0.1/ 0.2 mL as noted earlier) are followed by a single ID dose on day 28. Omitting the {nal dose of this highly immunogenic regimen results in a one-week:twovisit economical regimen for healthy patients. 14 If immunosuppressed, the day 28 dose should be given. A different two-site ID post-exposure regimen is ID doses at two sites on days 0, 3, 7, and 28. 12,13
+Vials of vaccine can be shared, but remaining vaccine must be kept in the fridge and discarded at the end of the day.
+Those who have received pre- or post-exposure vaccination previously do not require passive immunization. If they are then exposed to rabies, IM cell culture vaccine is given on days 0 and 3. An alternative, single-day regimen requires only one vial of vaccine divided between four ID injections over the deltoid and the thigh or suprascapular areas (the same as the initial dose of the four-site ID post-exposure regimen). If a 1-mL/vial vaccine is used, sharing between two is adequately immunogenic as booster vaccination. 11,12,13
+Passive  immunization  is  recommended  only  with  primary post-exposure treatments after major Category III exposure (see Table 38.1.3).
+
+============================================================
+CHUNK 23
+============================================================
+Efficacy of Post-Exposure Prophylaxis
+Combined active and passive immunization given on the day of the bite, with optimum wound care, can reduce the risk of rabies from 15% to 60% in untreated cases to practically 0%. The risk varies with the biting species, the site, and severity of the bite. Prophylaxis may fail  if  treatment  is  delayed,  incomplete,  or  the  vaccinee  is immunosuppressed. Rabies vaccines may be less effective against phylogroup  I  rabies-related  viruses  and  are  ineffective  against Mokola virus. Pre-exposure immunization has proved universally effective if followed by post-exposure booster vaccination.
+
+============================================================
+CHUNK 24
+============================================================
+Complications of Rabies Vaccines
+Tissue  culture  vaccines  cause  mild  local  reactions  or  transient, in|uenza-like symptoms in a small minority of vaccinees. Intradermal injections may cause transient irritation. Pre-exposure booster injections have caused a mild allergic urticarial rash, angioedema, and arthralgia within 2 weeks, which responds to symptomatic treatment. Some rare neurological symptoms following tissue culture vaccination have been attributed to the vaccine, but none have been fatal.
+
+============================================================
+CHUNK 25
+============================================================
+CONTROL OF ANIMAL RABIES
+Rabies can be controlled effectively in stray dogs by campaigns of mass vaccination, contraception, and reducing available food and shelter. Control of wildlife rabies has been achieved by oral, live-attenuated, or vaccinia recombinant rabies vaccines in baits. Fox  rabies  has  been  eliminated  from  Western  Europe,  and recombinant vaccines have produced promising results in foxes, raccoons, and coyotes in the United States. Oral vaccines for a variety of other species in America (e.g., skunks) and Africa (e.g., black-backed jackals) are being developed. Oral vaccines for stray dogs have not been practicable to date. Control of rabies in animal reservoirs has led to fewer cases of human rabies; for example, in Sri Lanka mass vaccination of dogs since the 1980s has led to a greatly reduced incidence of human disease.
+
+============================================================
+CHUNK 26
+============================================================
+REFERENCES
+1.  Fooks AR, Cliquet F, Finke S, et al. Rabies. Nature Reviews Disease Primers 2017;3:17091.
+2.  Helmick  CG, T auxe  RV, Vernon AA.  Is there  a risk to  contacts  of patients with rabies? Rev Infect Dis 1987;9:511-18.
+3.  Gluska S, Zahavi EE, Chein M, et al. Rabies virus hijacks and accelerates the p75NTR retrograde axonal transport machinery. PLoS Pathog 2014;10(8):e1004348.
+4.  Schnell MJ, McGettigan JP , Wirblich C, Papaneri A. The cell biology of rabies virus: using stealth to reach the brain. Nat Rev Microbiol 2010;8:51-61.
+5.  Warrell DA. The clinical picture of rabies in man. Trans R Soc T rop Med Hyg 1976;70:188.
+6.  van Thiel PP , de Bie RM, Eftimov F , et al. Fatal human rabies due to Duvenhage virus from a bat in Kenya: failure of treatment with coma-induction, ketamine, and antiviral drugs. PLoS Negl Trop Dis 2009;3(7):e428.
+7.  Jackson  AC.  Human  rabies:  a  2016  update.  Curr  Infect  Dis  Rep 2016;18:38.
+8.  Warrell MJ, Warrell DA, T arantola A. Review the imperative of palliation in the management of rabies encephalomyelitis. T rop Med Infect Dis 2017;2:52.
+9.  Willoughby RE Jr, Tieves KS, Hoffman GM, et al. Survival after treatment of rabies with induction of coma. N Engl J Med 2005;352:2508-14.
+10.  Rudd RJ, Appler KA, Wong SJ. Presence of cross-reactions with other viral encephalitides in the indirect |uorescent-antibody test for diagnosis of rabies. J Clin Microbiol 2013;51:4079-82.
+11.  Warrell  MJ.  Current  rabies  vaccines  and  prophylaxis  schedules: preventing rabies before and after exposure. Travel Med Infect Dis 2012;10:1-15.
+
+============================================================
+CHUNK 27
+============================================================
+REFERENCES
+12.  World Health O. WHO expert consultation on rabies. Second report. World Health Organ T ech Rep Ser 2013;982:1-139.
+13.  WHO. World Health Organization Expert Consultation on Rabies. Third Report. WHO T echnical Report Series 1012; 2018. http://apps.who.int/ iris/bitstream/handle/10665/272364/9789241210218-eng.pdf?ua = 1.
+14.  Warrell MJ. Developments in human rabies prophylaxis. Rev Sci T ech Off Int Epiz 2018;37(2).
+
+============================================================
+CHUNK 28
+============================================================
+38.2 Enterovirus Infections That Cause Central Nervous System Disease (Including Poliomyelitis)
+Peter C. McMinn, Nguyen Thi Thanh Thao
+
+============================================================
+CHUNK 29
+============================================================
+KEY FEATURES
+- pathogens and cause a wide array of clinical syndromes, ranging from the trivial to severe and life-threatening.
+- international vaccination campaign coordinated by the World Health Organization is a major achievement in public health.
+- disease and epidemic encephalomyelitis, has recently emerged as a new public health threat in the Asia-Paci{c region.
+- treat severe enterovirus infections.
+- recently been licensed for use in China.
+
+============================================================
+CHUNK 30
+============================================================
+INTRODUCTION
+Enteroviruses are among the most common of human infections and  are  estimated  to  infect  50  million  people  annually  in  the United  States  and  1  billion  annually  worldwide.  Although  the majority (~90%) of infections are asymptomatic, enteroviruses are associated with a wide spectrum of disease manifestations, including fever and rash, acute hemorrhagic conjunctivitis, upper respiratory tract infection, myocarditis and pericarditis, pleurodynia, aseptic meningitis, encephalitis, poliomyelitis, severe neonatal infection, and  chronic  infection  in  immunocompromised  patients.  The majority of acute enterovirus infections ( > 80%) occur in children below  15  years  of  age,  due,  in  part,  to  a  lack  of  immunologic experience and cross-protective immunity to enterovirus infection, and to childhood behaviors that promote fecal-oral and personto-person transmission of infection.
+Human enteroviruses are small,  positive-sense RNA  viruses that  belong  to  the  family  Picornaviridae and have  traditionally been grouped into the echoviruses, coxsackie A and B viruses, and polioviruses based on their growth properties in cell culture and in infant mice. As this system of classi{cation is somewhat arbitrary, since the mid-1960s newly identi{ed enteroviruses have simply been assigned a numerical designation, the  {rst example  being 'enterovirus D68.' The number of individual enterovirus strains now recognized is greater than 120. Recent molecular analysis of the enterovirus genome has led to the adoption of a new taxonomy in  which  enteroviruses  are  divided  into  four  species:  human enterovirus A, B, C, and D. 1
+In  this  chapter,  the  epidemiology,  pathophysiology,  clinical presentation, differential diagnosis, and management of enterovirus infections that cause neurologic diseases, in particular polioviruses and enterovirus  A71, are presented. Enteroviruses that predominantly cause mucocutaneous disease only are discussed in Chapter 32.3.
+
+============================================================
+CHUNK 31
+============================================================
+EPIDEMIOLOGY
+Enterovirus infections occur in all human populations. Enterovirus infections occur throughout the year but are more highly prevalent in summer and autumn in temperate regions. More than 80% of enterovirus infections occur in children younger than 15 years of age, and attack rates are highest in infants under the age of 1 year old. The prevalence of enterovirus infections is greater in situations of poverty, overcrowding, and poor personal hygiene.
+The  frequency  with  which  individual  enterovirus  serotypes cause infection varies markedly. Some enterovirus serotypes are continuously  isolated  from  year-to-year,  whereas  others  may temporarily  emerge after  years  of  relative  inactivity.  Individual enterovirus serotypes tend to circulate for a variable period before they are replaced by new serotypes. T ypically, 5 to 10 serotypes are responsible for > 85% of enterovirus infection at any one time, with  considerable  differences  in  serotype  distribution  between geographic locations. Occasionally, global epidemics may occur, such as hemorrhagic conjunctivitis pandemics caused by enterovirus D70 or coxsackievirus A24 and the 2015-2016 global epidemic of acute respiratory disease caused by enterovirus D68. 2
+Virtually all enterovirus serotypes have been associated with aseptic meningitis. In the pre-polio vaccine era, polioviruses were the most common cause of aseptic meningitis. In the post-polio vaccine era, non-polio enteroviruses, in particular, echovirus types 4,  6,  9,  11,  13,  16,  and  30;  coxsackievirus  B2,  B3,  B4  and  B5; coxsackievirus A9; and enterovirus A71 have been the most frequently identi{ed pathogens.
+
+============================================================
+CHUNK 32
+============================================================
+EPIDEMIOLOGY
+Poliomyelitis is thought to have been associated with humanity since  antiquity  (Fig.  38.2.1).  The  {rst  clinical  descriptions  of poliomyelitis date from the early 19th century, and its transmissibility was established in the late 19th century. In the pre-industrial era, poliovirus infection occurred most commonly in infants and young children  in  situations  of  poverty  and  overcrowding  and was associated with endemic circulation and a low prevalence of paralytic poliomyelitis. Improvements in hygiene and standards of living in North America and Western Europe in the late 19th century resulted in exposure to poliovirus later in life, which was associated with an increased incidence of paralytic poliomyelitis and with the onset of the large urban poliomyelitis epidemics that occurred in industrialized countries in the {rst half of the 20th century.
+Enterovirus A71 was {rst isolated from a child with encephalitis in California in 1970. From 1970 until 1997, enterovirus A71 was found to be the cause of occasional outbreaks of the childhood vesicular  exanthem,  hand-foot-and-mouth  disease,  and/or  the enanthem herpangina associated with acute neurologic disease, including  aseptic  meningitis,  poliomyelitis-like  paralysis,  and brainstem encephalitis. Since 1997, large outbreaks of enterovirus A71 infection have occurred in the Asia-Paci{c region in association with  the  generation  of new,  and  genetically  distinct, virus genotypes. 3,4
+
+============================================================
+CHUNK 33
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Transmission of enterovirus infection is by the fecal-oral route as a result of person-to-person contact or indirectly via fomites. The incubation period for  most  enterovirus infections has not been accurately determined. In the case of poliovirus, the incubation period is typically 3 to 5 days but may occasionally extend up to 2 weeks. Virus is shed in the respiratory secretions for 1 week and in the feces for 2 to 4 weeks or longer. People are most infectious during the incubation period and for the {rst 2 to 3 days after the  onset  of  symptoms.  It  is  considered  that  80%  to  95%  of enterovirus infections are completely asymptomatic and that people who develop asymptomatic infection are the primary reservoir of enterovirus infection within the community.
+Fig. 38.2.1 The earliest evidence of human poliomyelitis-like disease can be found in an Egyptian stele dating from 1350 BC, which depicts a young man with typical asymmetric flaccid paralysis and atrophy of the lower limb. Poliomyelitis is characterized by fever, malaise, headache, nausea, vomiting, muscle pain, and stiffness of the neck and back followed by flaccid paralysis 1 to 3 days later.
+Enteroviruses are the responsible pathogen in more than 90% of cases of aseptic meningitis. Poliovirus types 1, 2, and 3 are the causative agents of acute poliomyelitis; poliovirus type 1 is most frequently associated with poliomyelitis, followed by type 3 and type 2. Enteroviruses D70, A71, and several coxsackievirus A strains are also associated with acute |accid paralysis mimicking poliomyelitis, and numerous case reports have linked other enteroviruses with this syndrome.
+
+============================================================
+CHUNK 34
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Most of what is understood about the pathogenesis of enterovirus infection has resulted from research on poliovirus, and it is widely accepted that the early pathophysiologic events in non-polio enterovirus infections are similar. After ingestion, poliovirus {rst multiplies in the tonsils and Peyer's patches of the small intestine before  spreading  to  regional  lymph  nodes  and  thence  to  the bloodstream as a 'minor' viremia, which is transient and usually undetectable.  During  this  phase,  virus  spreads  to  cells  of  the reticulo-endothelial  system.  In  asymptomatic  infection,  viral replication is terminated by host defense mechanisms at this point in  the  infection  cycle.  In  a  small  proportion  of  cases,  infection develops  within  the  reticulo-endothelial  system,  leading  to  a sustained  ('major')  viremia,  which  coincides  with  the  onset  of symptoms. The major viremia results in the dissemination of virus to target organs, such as the central nervous system (CNS) or the skin. Infection at these sites induces host in|ammatory responses and  tissue  necrosis;  the  severity  of  in|ammation  and  necrosis generally corresponds to the titer of infectious virus present in the affected tissue.
+The mechanism of enterovirus invasion from the bloodstream into the CNS is unknown but may either involve virus traversing
+s of orn
+mot the blood-brain barrier during the major viremia (the most likely mechanism in the pathogenesis of aseptic meningitis) or by retrograde axonal transport (which has been suggested for enterovirus A71 5 ). The primary targets of poliovirus infection in the CNS are anterior  horn  motor  neurons  of  the  spinal  cord  (Fig.  38.2.2). Enterovirus A71 infects the CNS more widely than poliovirus, including  the  hypothalamus,  brainstem,  and  cerebellar  dentate nucleus in addition to spinal cord anterior horn motor neurons.
+
+============================================================
+CHUNK 35
+============================================================
+Aseptic Meningitis
+Aseptic meningitis is a syndrome characterized by clinical signs and symptoms of meningitis with negative bacterial cultures obtained from cerebrospinal |uid (CSF) specimens. Aseptic meningitis occurs most commonly in children but is also frequently reported in adults. The illness commences with fever and headache followed by signs of meningismus (neck stiffness, positive Kernig's sign), which may range from mild to severe. The illness is occasionally biphasic, with a brief prodromal febrile illness and recovery followed by a recurrence of fever accompanied by meningismus.
+
+============================================================
+CHUNK 36
+============================================================
+Poliomyelitis
+Infection  with  poliovirus  may  have  one  of  several  outcomes: (1)  inapparent  infection,  which  accounts  for  90%  to  94%  of all  infections;  (2)  abortive  or  minor  illness,  which  occurs  in 4% to  8% of  cases  and  is  associated  with  symptoms  of  upper respiratory  tract  infection,  gastrointestinal  upset  or  in|uenzalike illness; (3) non-paralytic poliomyelitis (1%-2%),  with clinical  features  similar  to  aseptic  meningitis  (see  earlier)  and from which patients usually recover fully within a few days; and (4)  paralytic  poliomyelitis  (0.1%-2%),  characterized  by  |accid paralysis, which is usually asymmetric and with the lower limbs more  frequently  involved  than  the  upper  limbs  (Fig.  38.2.3A). Cases of paralytic poliomyelitis may recover completely or be left with permanent paralysis and muscular atrophy. It may be fatal, especially when the brainstem is involved (bulbar poliomyelitis) (Fig. 38.2.3B).
+Fig. 38.2.2 Location of motor neurons in the anterior horns of the spinal cord. After gaining entry into the CNS, poliovirus causes lytic infection of anterior horn motor neurons of the spinal cord, resulting in flaccid paralysis. Within the brain, the reticular formation, vestibular nuclei, cerebellar vermis, and deep cerebellar nuclei are most often infected by poliovirus (bulbar poliomyelitis).
+
+============================================================
+CHUNK 37
+============================================================
+Enterovirus A71 Infection of the Central Nervous System
+Enterovirus A71 and coxsackievirus A16 are the most common causes of hand-foot-and-mouth disease and herpangina. In contrast to coxsackievirus A16, enterovirus A71 infection can be complicated by acute neurologic disease, including aseptic meningitis, poliomyelitis-like paralysis, and brainstem encephalitis. Brainstem encephalitis caused by enterovirus A71 infection occurs mostly in children under 4 years of age and is associated with a high mortality as  a  result  of  a  rapid-onset  neurogenic  pulmonary  edema  and cardiovascular collapse.
+
+============================================================
+CHUNK 38
+============================================================
+Hand-Foot-and-Mouth Disease
+Hand-foot-and-mouth disease occurs most often in children under 10 years of age. The illness commences with fever ( > 38.5°C) and sore throat. The fever lasts 1 to 2 days during which time vesicles appear on the anterior buccal and gingival mucous membranes and tongue. Cutaneous vesicles occur most frequently on palms of  the  hands  and  soles  of  the  feet,  but  may  also  occur  on  the buttocks and extensor surfaces of the elbows and knees. The skin lesions of hand-foot-and-mouth disease are typically tender vesicles with a surrounding zone of erythema (Fig. 38.2.4).
+Fig. 38.2.3 Clinical features of poliomyelitis. (A) A child with a deformity of her right leg caused by poliomyelitis. (B) A patient being treated in a negative pressure ventilator ('iron lung') because of bulbar poliomyelitis.
+Fig. 38.2.4 Hand-foot-and-mouth disease. (A) Oral cavity. (B) Palms of the hands. (C) Buttocks. (D) Extensor surface of the knee.
+
+============================================================
+CHUNK 39
+============================================================
+Herpangina
+Herpangina often occurs in outbreaks involving young children. Herpangina is a vesicular enanthem of the soft palate and fauces accompanied by fever, sore throat, and painful swallowing. The illness often commences abruptly, with fever and myalgia preceding the enanthem by 24 hours. The lesions develop into 2- to 4-mm papules that vesiculate and ulcerate. The fever subsides in 2 to 4 days, and the ulcers heal over 6 to 7 days. Herpangina is generally a mild illness and requires only symptomatic treatment.
+
+============================================================
+CHUNK 40
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+The vesicles of hand-foot-and-mouth disease can be distinguished from herpetic vesicular rashes (caused by herpes viruses) by the highly characteristic distribution of the vesicles and because the number of lesions is generally fewer than that seen in varicella (which  typically  spares  the  palms  and  soles).  Primary  herpetic gingivostomatitis  is  characterized  by  the  presence  of  vesicular lesions within the anterior oral cavity in patients who are generally more unwell and have higher fever and regional lymphadenopathy than children with hand-foot-and-mouth disease.
+It is important to distinguish herpangina from bacterial tonsillitis and other viral causes of pharyngitis. The vesicles associated with herpangina  are  generally  located  in  the  posterior  pharynx,  in contrast  to  other  vesicular  enanthems,  such  as  herpes  simplex gingivostomatitis and hand-foot-and-mouth disease, which typically occur in the anterior oral cavity, and to aphthous ulceration, which appears as large  ulcers on  the lips, tongue, and  buccal  mucosa. Herpangina  can  generally  be  diagnosed  con{dently  on  clinical criteria alone.
+It is of critical importance to distinguish bacterial meningitis from aseptic meningitis, which can be achieved by lumbar puncture and CSF microscopic examination and culture. However, it should be  noted  that  partially  treated  bacterial  meningitis  may  mimic aseptic meningitis in terms of the CSF pro{le. Aseptic meningitis caused by enteroviruses also requires differentiation from other infectious and non-infectious causes of this syndrome. 6
+
+============================================================
+CHUNK 41
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+CSF examination  is  critically  important  in  the  diagnosis  of meningitis. In aseptic meningitis, the CSF usually appears clear and  has  a  low  to  moderate  leukocyte  count  (10-500/mL)  that only  occasionally  exceeds  1000/mL;  the  cell  count  is  typically pleomorphic with a predominance of lymphocytes. However, CSF examination within the {rst 24 hours of illness may demonstrate a  predominance of  neutrophils.  In general,  the CSF glucose  is within  normal  range  and  the  CSF  protein  may  be  normal  or slightly  elevated.  Although  enteroviruses  can  be  isolated  in the  CSF  by  cell  culture,  this  method  is  slow,  expensive,  and has  a  low  (35%)  sensitivity  compared  with  newer  molecular diagnostic  methodologies  (see  later),  which  have  now  replaced cell culture in the diagnosis of aseptic meningitis. Most patients
+with aseptic meningitis are suf{ciently unwell to require hospital admission.
+Poliomyelitis caused by poliovirus infection needs to be distinguished from paralysis caused by other enteroviruses, such as echovirus 6 and 9; coxsackievirus A7, A9, and B2, B3, B4 and B5; enterovirus D70 and enterovirus A71; Guillain-Barré syndrome; transverse  myelitis;  disorders  of  |uid  and  electrolyte  balance; vitamin B1 de{ciency; and other causes, such as the neurologic complications of diphtheria and botulism.
+
+============================================================
+CHUNK 42
+============================================================
+Laboratory Diagnosis of Enterovirus Infections
+The most readily obtainable specimens for the identi{cation of enteroviruses include feces and rectal and throat swabs. Although these specimens generally provide a high yield in the presence of enterovirus  infection,  they  are  usually  remote  from  the  site  of disease and thus only provide indirect evidence of the causative organism. Vesicle |uid may be collected from patients presenting with hand-foot-and-mouth disease  and is useful in providing a more speci{c diagnosis.
+Although the identi{cation of enteroviruses in CSF provides a speci{c diagnosis in aseptic meningitis, the sensitivity of detection is much lower than for other specimens (throat swab, feces). Paired acute and convalescent sera (at least 7 days apart) may be collected to test for the presence of enterovirus-speci{c antibodies.
+The most widely available laboratory technique for the identi{cation  of  enterovirus  infections  is  the  reverse  transcriptasepolymerase chain reaction (RT-PCR) assay. Virus isolation in cell culture is still used for the identi{cation of speci{c enterovirus serotypes  using  immunologic  techniques  (neutralization  with serotype-speci{c  antisera,  immuno|uorescence  with  serotypespeci{c monoclonal antibodies). However, RT-PCR assays have largely replaced cell culture as the primary means of enterovirus diagnosis and identi{cation. 7 An excellent overview of the diagnostic modalities  used  in  the  diagnosis  of  poliovirus  and  non-polio enterovirus infections is provided in the World Health Organization (WHO) Enterovirus Surveillance Guidelines. 8
+RT-PCR assays that  target  variable  regions  of  the  genome, principally the VP1 structural protein gene, are used to identify enterovirus genomic RNA in cell culture supernatants or directly from patient specimens. Moreover, nucleotide sequencing of the ampli{ed RT-PCR product and searching of genetic databases, such as GenBank, allows the identi{cation of individual infecting enterovirus strains. 8
+
+============================================================
+CHUNK 43
+============================================================
+Laboratory Diagnosis of Enterovirus Infections
+A number of enterovirus type-speci{c RT-PCR assays, such as  enterovirus A71-  and  coxsackievirus A6,  10,  and  16-speci{c assays, have been developed for use in regions of the world where these viruses cause a high level of endemic infection. The main reason to seek a laboratory diagnosis in cases of herpangina or hand-foot-and-mouth  disease  is  to  distinguish  enterovirus A71 from the other coxsackie A viruses, as the former is more frequently associated with acute neurologic sequelae (see earlier).
+Although several assays for the serologic diagnosis of enterovirus infections are available, they are generally considered impractical because of the large  number of virus  strains  and  the  extensive serologic cross-reactivity between them, but also because serologic diagnosis is generally retrospective and thus not useful in patient management. However, serologic assays are frequently used for sero-epidemiologic investigations.
+
+============================================================
+CHUNK 44
+============================================================
+TREATMENT AND PREVENTION
+No speci{c treatment is available for hand-foot-and-mouth disease and herpangina, which are generally mild and self-limited infections and  require  only  symptomatic  treatment.  As  with  all  other enteroviruses, infection can be prevented by handwashing after contact with infected patients and by social distancing measures, such as closing nursery schools.
+Empirical antibiotic therapy is often commenced early in aseptic meningitis  and  until  bacterial  meningitis  has  been  positively excluded. The advent of rapid diagnostic assays for enteroviruses has proven bene{cial in limiting the duration of empirical antibiotic therapy and hospital admission in many cases of aseptic meningitis. Full recovery generally occurs rapidly in young children, although older children and adults may experience a longer convalescence in  which  subtle  disturbances  in  motor  function,  coordination, learning, and concentration may persist for weeks to months.
+No speci{c antiviral treatment for poliovirus infection is available. Intensive care support is often needed for patients with bulbar poliomyelitis and/or respiratory failure. Physical therapy is used to  assist  with  the  regaining  of  limb  function  and  to  minimize deformities  caused  by  contractures.  Similarly,  treatment  for enterovirus A71 brainstem encephalitis is symptomatic and supportive, as speci{c antiviral therapy is not currently available.
+
+============================================================
+CHUNK 45
+============================================================
+TREATMENT AND PREVENTION
+The molecular characterization of enteroviruses has led to the development of novel  compounds that inhibit  all of the  major stages of viral replication. 9 However, very few have been found to be suf{ciently selective to be useful as drug candidates. Several 'WIN' compounds, which speci{cally  bind  to  the  enterovirus capsid and inhibit viral uncoating, have been investigated. 10  One compound, pleconaril, 11 has been found to inhibit more than 90% of circulating enteroviruses, to be non-toxic in humans, and to provide signi{cant therapeutic bene{t in aseptic meningitis 6 and chronic meningoencephalitis. 12 Compassionate use of pleconaril in cases of severe neonatal enterovirus infection has also demonstrated the promise of signi{cant therapeutic bene{t. 11 Unfortunately, pleconaril has been found to have limited activity against enterovirus  A71. 11 Rupintrivir,  an  inhibitor  of  enteroviral  3C protease activity, has been shown to inhibit enterovirus A71 infection in vivo. 12 Moreover, several |avonoid compounds, including luteoloside, have also been shown to inhibit 3C protease activity and to inhibit enterovirus A71 infection in vitro. 13 Many experimental antiviral agents relevant to enterovirus A71 infection are in various stages of development. 9
+
+============================================================
+CHUNK 46
+============================================================
+TREATMENT AND PREVENTION
+Poliovirus vaccines against all three serotypes are available as either  a  formalin-inactivated  poliovirus  vaccine  (IPV)  or  as  a live-attenuated,  oral  poliovirus  vaccine  (OPV).  IPV  is  injected intramuscularly and provides individual protection by inducing circulating antibody that blocks the spread of virus to the CNS. OPV was {rst licensed in 1962. The advantages of OPV are that it induces both humoral (IgM, IgG) and mucosal (IgA) immunity and is able to interrupt wild poliovirus circulation. OPV is also less  costly  than  IPV  and  does  not  require  injection  by  trained vaccinators. Consequently, OPV is more suitable for mass immunization campaigns. However, OPV has several disadvantages: (1) the vaccine requires the maintenance of a cold chain; (2) interference between OPV and other enteric viruses can lead to vaccine failure; (3) OPV is contraindicated in persons with congenital or acquired immunode{ciency; and (4) OPV may revert to virulence and cause paralytic  poliomyelitis  in  vaccine  recipients  or  their  contacts (vaccine-associated poliomyelitis) at a rate of approximately 1 case in every 2.5 million doses administered. Despite these disadvantages, mass immunization with OPV has formed the basis of the WHOcoordinated Global Poliomyelitis Eradication Program, which had resulted in the eradication of poliomyelitis in all but two countries (Pakistan and Afghanistan) by 2015. Unfortunately, progress toward eradication  is  being  delayed  by  the  emergence  of  circulating vaccine-derived  polioviruses  capable  of  causing  outbreaks  of paralytic poliomyelitis within populations with low OPV immunization levels. 14 Nevertheless, the Global Poliomyelitis Eradication Program is moving steadily toward the eradication of poliovirus and is regarded as a major achievement in global health.
+Recently the development and ef{cacy testing of three formalininactivated whole-virus vaccines against enterovirus A71 has been reported (reviewed in Ref. 15). All three vaccines have been shown to be safe and effective in protecting against hand-foot-and-mouth
+

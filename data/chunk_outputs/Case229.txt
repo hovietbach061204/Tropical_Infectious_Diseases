@@ -1,0 +1,236 @@
+============================================================
+CHUNK 0
+============================================================
+Key features
+- Vitamin de8ciencies remain common globally
+- Vitamin de8ciencies a7ect all ages, and frequently co-exist with mineral (zinc, iron, iodine) de8ciencies
+- Vitamin A de8ciency leads to xerophthalmia and night blindness, de8cient formation and function of epithelial surfaces, impaired growth and bone formation, adverse reproductive capacity, and diminished immunity. The World Health Organization has estimated that providing vitamin A to de8cient children could decrease global death rates in children under 5 years of age by 23%
+- Vitamin B1 (thiamine) de8ciency can lead to beriberi: dry beriberi - peripheral neuropathy with burning/tingling sensations, limb weakness, ataxia and paraesthesias; or wet beriberi - cardiac failure and edema (of the limbs, trunk and face with ascites or pleural e7usions). Thiamine de8ciency is also associated with Wernicke's encephalopathy that includes confusion, ophthalmoplegia, nystagmus, diplopia and ataxia
+- Vitamin B 2 de8ciency (aribo9avinosis) is associated with cheilitis, angular stomatitis, glossitis, oral ulcers, sore throat, watery itchy bloodshot eyes and seborrheic dermatitis
+- Vitamin B 3 (niacin) de8ciency can lead to pellagra that includes dermatitis, diarrhea, dementia and death (the 'four Ds')
+- Vitamin B 9 (folate) and vitamin B 12 (cobalamin) de8ciency can lead to megaloblastic anemia. Folate de8ciency in pregnant women is also associated with neural tube defects in o7spring. Vitamin B 12 de8ciency can also lead to ataxia and dementia, memory loss and, in infants, movement disorders
+- Vitamin C (ascorbic acid) de8ciency can lead to scurvy that predominantly relates to impaired connective tissue synthesis (weakness, ecchymoses, bleeding from gums, an inability of wounds to heal, the loss of teeth, death)
+- Vitamin D de8ciency can lead to osteomalacia, rickets, disorders of calcium homeostasis and immune dysregulation
+
+============================================================
+CHUNK 1
+============================================================
+INTRODUCTION AND SIGNIFICANCE
+Vitamin deficiencies remain common globally. Unless severe, they are often clinically unrecognized, yet even mild deficiency may have significant adverse consequences. Vitamin deficiencies affect all ages and frequently co-exist with mineral (zinc, iron, iodine) deficiencies. The
+
+============================================================
+CHUNK 2
+============================================================
+JeGLYPH<c=13,font=/CIDFont+F3>rey  K  GriGLYPH<c=12,font=/CIDFont+F3>ths
+groups  most  susceptible  to  vitamin  deficiencies  are  pregnant  and lactating women, and young children, because of their relatively high needs  for  these  compounds  and  susceptibilities  to  their  absence. These include death from infectious diseases, anemia, death during pregnancy or childbirth and impaired cognition and physical development.  The  effects  of  vitamin  deficiencies  are  related  to  the  biochemical  roles  they  play.  Some  of  the  most  common  deficiencies relate to vitamin A, various B vitamins, folate and vitamin D. Supplementation programs have made diseases such as scurvy (vitamin C deficiency) or pellagra (niacin deficiency) rare. New information suggests  that  vitamin  D  deficiency,  which  causes  osteomalacia  and rickets, is associated with abnormal immunoregulation and infectious diseases. Table 139-1 lists the most important consequences of deficiency  and  the  recommended  dietary  intakes  for  the  vitamins  discussed in this chapter.
+
+============================================================
+CHUNK 3
+============================================================
+VITAMIN A
+Vitamin  A  is  lipid-soluble  and  essential  to  cellular  differentiation. It is ingested either as the preformed retinyl ester or carotenoid provitamins (including beta-carotene) from plant sources and stored in the liver.  It  is  transported  from  the liver  to the  rest  of  the body by retinol binding protein (RBP) and gains entry into cells via a specific receptor.  Once  intracellular,  it  is  transformed  to  retinoic  acid  and modulates gene regulation and transcription. Overt deficiency occurs when  hepatic  retinol  stores  are  exhausted.  Its  aldehyde-retinalhelps form visual pigments (rhodopsins). Thus, vitamin A deficiency (VAD) leads to xerophthalmia and night blindness, and is the leading cause of preventable childhood blindness worldwide [1]. VAD also leads to the deficient formation and function of epithelial surfaces, impaired growth and bone formation, adverse reproductive capacity and diminished immunity. Hematopoesis is dependent upon vitamin A, as well as iron and folate; anemia remediation requires adequate vitamin A.
+Through poorly understood mechanisms, VAD children suffer more severe  episodes  of  infectious  diseases.  Furthermore,  children  with infections excrete both vitamin A and its serum carrier protein, worsening  VAD.  Overt  VAD  can be  precipitated  during  acute  infections (such  as  measles,  pneumonia,  diarrhea,  varicella)  leading  to  acute severe xerophthalmia [2]. Mortality can approach 50% in VAD children with measles and giving vitamin A to them can decrease mortality rates by half. The World Health Organization (WHO) has estimated that providing vitamin A to deficient children could decrease global death rates in children under 5 years of age by 23%.
+
+============================================================
+CHUNK 4
+============================================================
+VITAMIN A
+Young children and women of childbearing age are at particular risk of VAD. It is most common in Southeast Asia and Africa. The WHO Global Database on Vitamin A Deficiency (2009) [3] estimates that 5.2 million preschool-age children and 9.8 million pregnant women have night blindness. As judged by low serum retinol concentrations ( < 0.70 μ mol/l),  190  million  preschool  children  and  19.1  million pregnant women have subclinical VAD which predisposes them to increased  morbidity  and  mortality  from  infectious  diseases.  Serum retinol levels are an insensitive indicator of VAD as serum retinol is homeostatically maintained within a narrow range until body stores are nearly depleted. Other assays, such as the modified relative dose
+139
+TABLE 139-1 Common Vitamin DeFciencies and Recommended Intakes
+
+DeFciency:, Vitamin A = Xerophthalmia, anemia, high moribidity from infectious diseases. DeFciency:, Thiamine Vitamin B 1 = Beriberi: neurologic dysfunction and cardiac failure. DeFciency:, Ribo<avin Vitamin B 2 = AriboGavinosis - oral, ocular, genital syndrome: angular cheilitis, photophobia, dermatitis. DeFciency:, Niacin Vitamin B 3 = Pellagra: dermatitis, dementia, diarrhea, death. DeFciency:, Folate Vitamin B 9 = Anemia, neural tube defects. DeFciency:, Cobalamin Vitamin B 12 = Anemia, neurologic dysfunction. DeFciency:, Ascorbic Acid Vitamin C = Scurvy. DeFciency:, Vitamin D = Rickets Osteomalacia Probable linkage to increased infectious diseases
+Recommended Dietary Allowances & Adequate Intakes (Food and Nutrition Board, Institute of Medicine, US National Academies, 2011).* Recommended Dietary Allowances ( > 12 months of age) are based upon meeting the needs of 97-98% of normal persons. Adequate Intakes (0-12 months of age) are mean intakes observed in normal breastfed children.
+
+============================================================
+CHUNK 5
+============================================================
+VITAMIN A
+Infants 0-6 months, µ g/day retinol † (retinol activity equivalents [RAE]) = 400. Infants 0-6 months, mg/day = 0.2. Infants 0-6 months, mg/day = 0.3. Infants 0-6 months, mg/day = 2. Infants 0-6 months, µ g/day = 65. Infants 0-6 months, µ g/day = 0.4. Infants 0-6 months, mg/day = 40. Infants 0-6 months, µ g/day, IU/ day (1 µ g = 40 IU units) = 10 (400). Infants 6-12 months, µ g/day retinol † (retinol activity equivalents [RAE]) = 500. Infants 6-12 months, mg/day = 0.3. Infants 6-12 months, mg/day = 0.4. Infants 6-12 months, mg/day = 4. Infants 6-12 months, µ g/day = 80. Infants 6-12 months, µ g/day = 0.5. Infants 6-12 months, mg/day = 50. Infants 6-12 months, µ g/day, IU/ day (1 µ g = 40 IU units) = 10 (400). 1-3 years, µ g/day retinol † (retinol activity equivalents [RAE]) = 300. 1-3 years, mg/day = 0.5. 1-3 years, mg/day = 0.5. 1-3 years, mg/day = 6. 1-3 years, µ g/day = 150. 1-3 years, µ g/day = 0.9. 1-3 years, mg/day = 15. 1-3 years, µ g/day, IU/ day (1 µ g = 40 IU units) = 15 (600). 4-8 years, µ g/day retinol † (retinol activity equivalents [RAE]) = 400. 4-8 years, mg/day = 0.6. 4-8 years, mg/day = 0.6. 4-8 years, mg/day = 8. 4-8 years, µ g/day = 200. 4-8 years, µ g/day = 1.2. 4-8 years, mg/day = 25.
+
+============================================================
+CHUNK 6
+============================================================
+VITAMIN A
+4-8 years, µ g/day, IU/ day (1 µ g = 40 IU units) = 15 (600). 9-13 years, µ g/day retinol † (retinol activity equivalents [RAE]) = 600. 9-13 years, mg/day = 0.9. 9-13 years, mg/day = 0.9. 9-13 years, mg/day = 12. 9-13 years, µ g/day = 300. 9-13 years, µ g/day = 1.8. 9-13 years, mg/day = 45. 9-13 years, µ g/day, IU/ day (1 µ g = 40 IU units) = 15 (600). 14-18 years, male/female, µ g/day retinol † (retinol activity equivalents [RAE]) = 900/700. 14-18 years, male/female, mg/day = 1.2/1.0. 14-18 years, male/female, mg/day = 1.3/1.0. 14-18 years, male/female, mg/day = 16/14. 14-18 years, male/female, µ g/day = 400/400. 14-18 years, male/female, µ g/day = 2.4/2.4. 14-18 years, male/female, mg/day = 75/65. 14-18 years, male/female, µ g/day, IU/ day (1 µ g = 40 IU units) = 15/15 (600/600). 19-70 years, male/female, µ g/day retinol † (retinol activity equivalents [RAE]) = 900/700. 19-70 years, male/female, mg/day = 1.2/1.1. 19-70 years, male/female, mg/day = 1.3/1.1. 19-70 years, male/female, mg/day = 16/14. 19-70 years, male/female, µ g/day = 400/400. 19-70 years, male/female, µ g/day = 2.4/2.4. 19-70 years, male/female, mg/day = 90/75. 19-70 years, male/female, µ
+
+============================================================
+CHUNK 7
+============================================================
+VITAMIN A
+g/day, IU/ day (1 µ g = 40 IU units) = 15/15 (600/600). > 70 years, male/female, µ g/day retinol † (retinol activity equivalents [RAE]) = 900/700. > 70 years, male/female, mg/day = 1.2/1.1. > 70 years, male/female, mg/day = 1.3/1.1. > 70 years, male/female, mg/day = 16/14. > 70 years, male/female, µ g/day = 400/400. > 70 years, male/female, µ g/day = 2.4/2.4. > 70 years, male/female, mg/day = 90/75. > 70 years, male/female, µ g/day, IU/ day (1 µ g = 40 IU units) = 20/20 (800/800). Pregnancy, µ g/day retinol † (retinol activity equivalents [RAE]) = 770. Pregnancy, mg/day = 1.4. Pregnancy, mg/day = 1.4. Pregnancy, mg/day = 18. Pregnancy, µ g/day = 600. Pregnancy, µ g/day = 2.6. Pregnancy, mg/day = 85. Pregnancy, µ g/day, IU/ day (1 µ g = 40 IU units) = 15 (600). Lactation, µ g/day retinol † (retinol activity equivalents [RAE]) = 1300. Lactation, mg/day = 1.4. Lactation, mg/day = 1.6. Lactation, mg/day = 17. Lactation, µ g/day = 500. Lactation, µ g/day = 2.8. Lactation, mg/day = 120. Lactation, µ g/day, IU/ day (1 µ g = 40 IU units) = 15 (600)
+*Reference documents for these vitamins and other vitamins and minerals can be found at www.nap.edu.
+
+============================================================
+CHUNK 8
+============================================================
+VITAMIN A
+† One μ g retinol has the same bioavailability as 2 μ g of β -carotene in oil, 12 μ g of dietary β -carotenoids or 24 μ g of other dietary provitamin-A carotenoids. International units (IU) are no longer recommended for use. One IU of vitamin A was equivalent to 0.3 μ g retinol. Thus, the World Health Organization recommendation to give children 0-6 months of age 100,000 IU of vitamin A twice-yearly is equivalent to the administration of 30,000 μ g (30 mg) of preformed retinol twice-yearly.
+response  (MRDR)  test,  better  assess  total  body  stores,  but  remain research tools at this time [4].
+Liver, milk, cheese and eggs are rich in vitamin A esters, and green and  orange-yellow  vegetables  are  rich  in  carotenoid  precursors. Although breast milk provides adequate vitamin A for nursing infants, young children after weaning may be given a diet of monotonously starchy  foods  deficient  in  vitamin  A  precursors  and  little,  or  no, animal protein. Because the conversion of intestinal carotenoids to retinol is not efficient, VAD may occur where the sole dietary sources of vitamin A or carotenoids are vegetables and fruits. Pregnancy and lactation greatly increase maternal vitamin A requirements and overt xerophthalmia may be precipitated during pregnancy.
+
+============================================================
+CHUNK 9
+============================================================
+Xerophthalmia
+The  ocular  manifestations  of  VAD  include  reversible  and  nonreversible  changes.  They  are  the  only  clear  clinical  signs  of  VAD
+available  to  the  clinician.  Moderate  VAD  may  escape  diagnosis  if ocular changes are absent. Night-blindness ('XN') results from inadequate  formation  of  rhodopsin.  Bitot  spots  ('X1B')  are  corneal lesions which represent worsening keratinizing conjunctival metaplasia  ('X1A').  The  entire  cornea  may  keratinize,  leading  to  xerosis ('X2'). These changes are reversible with vitamin A ingestion. Further progression,  associated  with  profoundly  low  serum  retinol  levels, includes corneal necrosis and localized ('X3A') or complete ulceration ('X3B'). Vitamin A should be given to children with irreversible X3A or X3B changes, as it may prevent death from infections or the loss of sight in the other eye. Unfortunately, the infectious, hematological and other manifestations of VAD are indirect and no clinical VAD indicators other than xerophthalmia exist.
+
+============================================================
+CHUNK 10
+============================================================
+Diagnosis of vitamin A de?ciency (VAD)
+Xerophthalmia,  as  described  above,  indicates  severe  VAD.  Serum retinol  testing,  when  available,  will  identify  only  some  individuals with  moderate  deficiency  as  retinol  levels  may  be  normal,  despite nearly-depleted  body  stores.  Research  tests,  such  as  the  MRDR, examine the biochemical avidity of VA uptake as measured by comparing  serum  levels  of  VA  with  those  of  synthetic  vitamin  A 2 and provide  a  better  measure  of  total  body  VA  stores.  Xerophthalmia prevalence is used as a population-wide indicator for severe VAD.
+
+============================================================
+CHUNK 11
+============================================================
+Prevention of vitamin A de?ciency (VAD)
+Consumption of adequate amounts of vitamin A or carotenoid precursors prevents VAD. Exclusively breastfed children are at risk of VAD if their mothers have VAD, as the infant's sole source of vitamin A is breast milk. Household gardening and consumption of green, leafy vegetables rich in carotenoids is widely promoted. VAD can be prevented in non-exclusively breastfed children if their diet includes such vegetables and/or animal proteins (eggs, milk or fish). In developed and newly industrialized countries, vitamin A food biofortification is common. When vitamin A enriched staples, such as sweet potatoes (yams), are adopted by a population, VAD rates decrease dramatically. The WHO recommends that infants and children be given large doses of  vitamin  A  (30 mg  retinol  activity  equivalents  [RAE],  formerly known as 100,000 IU,  in  children < 12  months  of  age,  and  60 mg RAE,  formerly  200,000 IU,  if  older)  twice-yearly  where  VAD  is common. Women of childbearing age, particularly pregnant and lactating women with high vitamin A needs, also benefit from vitamin A supplementation (Table 139-1).
+
+============================================================
+CHUNK 12
+============================================================
+BERIBERI AND THIAMINE (VITAMIN B1)
+Thiamine is a water soluble, labile vitamin which lacks natural body storage  and  has  high  turnover  and  excretion  rates.  Thiamine  deficiency (also known as beriberi) can appear within weeks of a deficient diet. Its current global prevalence is not known and is most frequently recognized in populations who consume thiamine-deficient cassava, sago,  de-germinated  maize, polished rice or wheat. Removal of the bran from rice or the germ and aleuron layer from wheat effectively removes thiamine (and niacin). Thiamine deficiency is often reported in refugees, confined populations (prisoners) or migrants fed thiamine-deficient foods, and from populations (e.g. Ghana) where a diverse, thiamine-rich diet has been replaced by one high in polished rice. Exercise, diabetes, pregnancy, fever, dysentery and alcoholism are risk factors [5, 6]. Thiamine deficiency has been described in socially-isolated  youths  who consume refined carbohydrates (dried noodles and soft drinks), as well as the elderly in Europe [7].
+
+============================================================
+CHUNK 13
+============================================================
+BERIBERI AND THIAMINE (VITAMIN B1)
+Thiamine  deficiency  has  nonspecific  symptoms,  such  as  anorexia, weakness  and  peripheral  paraesthesias,  as  well  as  (in  more  severe forms) cardiac involvement and peripheral neuropathy [8]. Peripheral neuropathy with burning/tingling sensations, limb weakness, ataxia and  paraesthesias  were  termed  'dry'  beriberi.  Cardiac  failure  and edema (of the limbs, trunk, face, with ascites  or  pleural  effusions) were  termed 'wet' beriberi -  characteristically a  'collapsing'  pulse with  an  increased  systolic  and  decreased  diastolic  pressure,  and  a visibly  exaggerated  venous  jugular  pulse  wave  are  seen.  Thiamine deficiency can also co-exist, or be confused, with severe thyrotoxicosis, severe  anemia,  pregnancy,  the  edema  of  nephritis,  nephrotic  syndrome or kwashiorkor. Thiamine deficiency is the only major form of malnutrition which occurs in adequately breastfed infants owing to  maternal  thiamine  deficiency.  Acute  heart  failure  with  edema leading to death is seen in thiamine-deficient breastfed babies aged 1-3 months. It can be confused with sepsis, malaria, pneumonia and typhoid. Aphonic beriberi is typically seen in infants aged 4-6 months who  develop  hoarseness  progressing  to  aphonia.  Somewhat  older infants (7-9 months old) may develop nystagmus, twitching, convulsions and unconsciousness, which mimics encephalitis and meningitis, or malaria.
+Thiamine  deficiency  can  manifest  as  the  Wernicke-Korsakoff  syndrome in people with genetic abnormalities of transketolase, a thiamine  dependent  enzyme.  Wernicke's  encephalopathy  is  caused  by lesions of the brainstem, hypothalamus and mamillary bodies which lead to confusion, ophthalmoplegia, nystagmus, diplopia and ataxia. Memory loss (Korakov's psychosis) appears after recovery [9].
+
+============================================================
+CHUNK 14
+============================================================
+BERIBERI AND THIAMINE (VITAMIN B1)
+Mild thiamine deficiency can be treated with 10 mg/day orally for a week and then 3-5 mg/day thereafter for at least six  weeks. In  the presence of heart failure, convulsions or coma in infants, 25-50 mgs of  intravenous  (IV)  thiamine  can  be  given  followed  by  10 mg/day intramuscularly  (IM).  This  dose  should  be  doubled  in  critically-ill adults. In infants and adults with cardiac failure, symptomatic relief is dramatic and can occur within hours. Peripheral neuropathy may take weeks to improve. Wernicke's encephalopathy responds within hours to IV thiamine, but Korsakov's psychosis may never resolve.
+Grains are the most common source of thiamine; 0.5 mg per 1000 kilocalories of food should be consumed daily, or about 1.0-1.5 mgs in adults (Table 139-1). Thiamine deficiency can be prevented by the ingestion  of  whole  grains,  fortified  polished  rice  or  de-germinated wheat,  or  milk.  Meats,  vegetables  and  almost  all  foodstuffs  also contain some thiamine.
+
+============================================================
+CHUNK 15
+============================================================
+ARIBOFLAVINOSIS AND RIBOFLAVIN (VITAMIN B2)
+Riboflavin is a precursor for the essential enzymatic cofactors flavinadenine-dinucleotide  (FAD)  and  riboflavin-5'-phosphate.  Flavoproteins have a wide range of redox potentials and are intermediates in many critical biochemical reactions,  such as  ATP  synthesis.  Dietary sources are primarily of animal  origin. Vegetables such  as spinach, broccoli  and  asparagus  also  contain  riboflavin,  as  do  mushrooms, yeast, tomatoes, whole grains and almonds. Cereals and rice, when milled or polished, become riboflavin-poor, as with thiamine. Cereals and  milk  are  often  riboflavin-fortified.  Riboflavin  degrades  when exposed to light, but not heat. Riboflavin deficiency (ariboflavinosis) usually  occurs  in  populations  with  little  fish,  eggs,  meat  or  dairy dietary protein, and in combination with other deficiencies. Isolated riboflavin deficiency is extremely rare. Infants are at high risk if, during weaning, they are fed non-fortified cereals and little animal protein. Other  groups  at  risk  include:  alcoholics,  through  poor  nutritional intake;  individuals  taking  antipsychotic  medications  (imipramine, amitryptiline, chlorpromazine, others) or antiparasitics (quinacrine) which  impair  riboflavin  metabolism;  and  those  with  adrenal  or thyroid deficiency, which precipitates clinical aribinoflavinosis. Subclinical deficiency has been documented in women on oral contraceptives, persons with eating disorders (e.g. anorexia nervosa), HIV/AIDS, inflammatory bowel disease, the elderly and in the general population of children in sub-Saharan Africa [10].
+
+============================================================
+CHUNK 16
+============================================================
+ARIBOFLAVINOSIS AND RIBOFLAVIN (VITAMIN B2)
+Cheilitis, angular stomatitis, glossitis, oral ulcers, sore throat, watery itchy bloodshot eyes and seborrheic dermatitis are common manifestations. Ariboflavinosis is linked to the classic oral-ocular-genital syndrome  of  angular  cheilitis,  photophobia  and  scrotal  or  labial dermatitis  [1 1].  Normochromic  normocytic  anemia,  photophobia, corneal  vascularization  and  dementia  with  personality  changes  are seen in severe deficiency. In contrast to niacin deficiency (pellagra), riboflavinosis dermatitis usually is facial (eyes, nasolabial folds), in the  flexures  of  the  extremities  and  in  the  genital  region.  Zinc  deficiency dermatitis differs from ariboflavinosis as it usually involves the trunk and extremities and is perioral.
+Ariboflavinosis may be suspected on clinical grounds and confirmed with  measurement  of  erythrocyte  glutathione  reductase  (which requires FAD) in  vitro with  and  without  added FAD. An enzymatic difference  of > 30%  after  addition  (ratio  1.30  :  1)  is  confirmatory. Urinary excretion of < 19 μ g/g creatinine or < 40 μ g/day, also indicates deficiency. Adults should consume ~ 1.2 mg/day or 2 mg/day during pregnancy. The recommended dietary allowance is 0.3-0.4 mg/day for infants and 0.6-0.9 mg/day for older children. Deficiency can be treated with 5 mg daily until clinical signs resolve and blood testing is normal. Ingestion of 400 mg/day for three months has not led to reported side effects.
+
+============================================================
+CHUNK 17
+============================================================
+PELLAGRA AND NIACIN (VITAMIN B3)
+Niacin  deficiency  leads  to  pellagra  (from  'rough  skin'  in  Italian), which is manifested  by  a  dermatitis  especially  of  areas  exposed  to sunlight or to pressure (elbows and knees). Niacin is required for the
+synthesis  of  nicotinamide  adenosine  dinucleotide  (NAD)  and  its phosphate (NADP) - cofactors for many enzymatic processes. Niacin can  be  ingested  or  endogenously  synthesized  from  the  essential amino acid tryptophan in the presence of vitamin B6 and riboflavin. Isoniazid  and  azathioprine are known to impair  the conversion of tryptophan  to  niacin  and  can  precipitate  pellagra.  Pellagra  occurs when diets are poor in niacin and animal proteins (which are rich in tryptophan).  When  unfortified  maize  (corn)  is  the  major  dietary staple it  is  common. In Central and South America, maize flour is usually treated with lime, unlike in Africa or other parts of the world, and so pellagra remains endemic outside of the Americas [12, 13].
+Dermatitis, diarrhea, dementia and eventual death (the 'four Ds') are characteristic of pellagra  [14]. The diarrhea is secondary to protein deficiency-related  atrophic  intestinal  mucosa.  The  dementia  ranges from hallucinations to seizures and overt dementia, and is related to decreased serotonin (5-hydroxytryptamine) neurotransmitter synthesis.  Diagnosis  can  be  made  from  the  characteristic  dermatitis  and symptoms  or  by  measuring  urinary  metabolite  excretion,  which  is superior to measurement of erythrocyte NAD or whole blood NAD/ NADP concentrations [15]. The skin findings may be mistaken for ariboflavinosis but, with the latter, the lesions are in flexure regions and skin folds. Kwashiorkor may also have similar skin findings, but they are not localized to areas exposed to sun, and pure pellagra is not  marked  by  edema.  Pellagra  can  be  prevented  by  ingestion  of 15-20  mgs  per  day  in  an  adult  (Table  139-1)  and  symptomatic improvement can be seen within two days of treatment.
+
+============================================================
+CHUNK 18
+============================================================
+FOLATE (VITAMIN B9)
+Folate, vitamin B 9 , is present in fruits, legumes such as beans and peas, dairy  products  and  green  leafy  vegetables.  Along  with  vitamin  B 12 deficiency,  folate  deficiency  leads  to  megaloblastic  anemia.  Folate deficiency is extremely common globally, including in newly industrialized  countries  [16,  17].  If  low  maternal  dietary  intake  occurs during  pregnancy,  fetuses  are  at  elevated  risk  of  being  born  with neural tube defects such as spina bifida or anencephaly. Women of child-bearing age should ingest 400 μ g/day or more of folate, as its prevention  of  neural  tube  defects  is  most  effective  during  the  first month of conception. Other than anemia, the symptoms of folate deficiency  are  subtle.  They  include  diarrhea,  depression,  impaired cognition, elevated risks of heart disease and stroke, all of which may occur  for  other  reasons.  Because  folate  deficiency  is  widespread,  it should be co-administered with iron supplements for the prevention or treatment of anemia. After widespread folate biofortification began in  the  late  1990s,  rates  of  congenital  neural  tube  defects  dropped dramatically  in  many  countries  [18].  Recent  recommendations  are that adults ingest 400 μ g/day of folate, and 600 μ g/day during pregnancy. Infants up to the age of 6 months should receive 65 μ g, those aged 7-12 months should receive 80 μ g and children aged 1-3 years, 150 μ g/day. Alcoholics, others with liver disease, persons on dialysis and those who take dilantin may also develop folate deficiency.
+
+============================================================
+CHUNK 19
+============================================================
+VITAMIN B12 (THE COBALAMINS)
+Vitamin  B12  deficiency  is  associated  with  macrocytic  anemia  [19]. Found in animal, but not plant, foods, it is required for erythrocyte formation, DNA synthesis and normal neurologic function. Intestinal absorption of dietary vitamin B12 requires gastric acid to separate it from animal protein and intrinsic factor - a glycoprotein secreted by parietal cells  of  the  gastric  mucosa.  The vitamin B 12 -intrinsic  factor complex is taken up in the distal ileum by receptor-mediated endocytosis. Vegetarians, persons with decreased gastric acid (such as the elderly with atrophic gastritis) or intrinsic factor production, inflammatory bowel disease or who have had surgery to remove the stomach or ileum are at substantial risk of deficiency. Pernicious anemia is an autoimmune disorder which leads to gastric atrophy and a lack of intrinsic  factor  and,  thus,  to  anemia  from  vitamin  B 12 deficiency. Neurologic signs of deficiency include ataxia and dementia, memory loss and, in infants, movement disorders. Severe, irreversible neurologic damage can occur in infants of vegan or lacto-ovo vegetarian mothers, as breast milk is the sole source of vitamin B12 for infants and deficiency is common in these mothers. Persons taking drugs to reduce gastric acid (proton-pump inhibitors or H2-blockers) or metformin for diabetes may also be at risk for deficiency. Oral supplements can prevent deficiency so long as intrinsic factor is present [20]; in its absence, IM injections are widely used.
+The  fish  tapeworm, Diphyllobothrium  latum and  related  species,  is acquired by eating raw fish. These human parasites are found in South America, Uganda and northern Asia, Europe and the Americas. The parasite itself is usually asymptomatic but can cause severe vitamin B12 deficiency through uptake of most of the dietary intake [21].
+
+============================================================
+CHUNK 20
+============================================================
+SCURVY AND VITAMIN C =ASCORBIC ACID>
+Scurvy is caused by vitamin C deficiency [22]. Humans, unlike most animals, cannot synthesize vitamin C and it is an essential vitamin obtained  primarily  from  fresh  fruit  and  vegetables,  such  as  watercress. Scurvy can develop a month after vitamin C is removed from the diet, although three months or more is more typical. Ascorbate (the active form) promotes hydroxylation of proline and lysine after their  incorporation into collagen, and the manifestations of  scurvy are primarily related to impaired connective tissue synthesis. Nondescript weakness and fatigue are followed by follicular hyperkeratosis and cutaneous petechial or ecchymotic bleeding after minor trauma. Bleeding from the oral mucosa and spongy enlargement of the gums are  common;  classically,  the  gingival  interdental  papillae  between the  teeth  are  bright  red.  Disease  progression  leads  to  depression, profound weakness, an inability of wounds to heal, the loss of all teeth,  jaundice  and  neuropathy,  before  death.  In  infants  and  children,  scurvy  is  manifested  by  tenderness  of  the  bones,  linked  to subperiosteal hemorrhage, such that they cry when their bones are touched.  Crawling  and  standing  are  avoided  because  of  the  pain. Bleeding at the osteochondral rib junctions may mimic the ricketic 'rosary' of vitamin D or calcium deficiency [23]. Anemia can also be seen because of blood loss and because ascorbate promotes intestinal iron absorption.
+Endemic scurvy no longer exists in high-income countries but persists elsewhere [24]. Scurvy occurs in those who ingest grains but not fruit [25];  in  socially  isolated  persons,  prisoners  [26]  or  alcoholics  with poor diets; and in persons with inflammatory bowel disease. Breast milk  contains  vitamin  C  and  scurvy  may  occur  in  the  infants  of vitamin C-deficient mothers. Infants and children fed grains, but not fruit, vegetables or fresh animal protein, are also at risk. Because heat destroys vitamin C, it is added to milk after pasteurization. Curing and drying fresh meat destroys the vitamin C it contains. This, and the lack of fresh vegetables or fruit, accounted for the high incidence of  scurvy  in  sailors  whom,  historically,  often  lived  solely  on  dried grains, dried vegetables, such as beans, and dried meat.
+
+============================================================
+CHUNK 21
+============================================================
+SCURVY AND VITAMIN C =ASCORBIC ACID>
+The  diagnosis  should  be  suspected  when  these  characteristic  signs and symptoms are present [27]. Capillary fragility may be a manifestation  of  many  other  diseases,  as  may  petechial  bleeding.  Vitamin  C  can  be  measured  in  plasma  (reflecting  recent  intake)  and in  leukocytes  (reflecting  tissue  content  and  total  body  reserves). Individuals with scurvy typically have undetectable plasma levels of vitamin C.
+Treatment with up to a gram a day of vitamin C has been advocated for scurvy, although clinical studies have shown that as little as 10 mg/ day is curative. Scurvy can be prevented in infants by ensuring maternal intake of vitamin C and by feeding them vitamin C-rich or fortified foods.
+
+============================================================
+CHUNK 22
+============================================================
+RICKETS, OSTEOMALACIA AND VITAMIN D
+Vitamin D promotes calcium absorption from the proximal intestine and bone mineralization. Along with parathyroid hormone and calcitonin, it tightly regulates serum calcium and phosphate levels via control of bone, kidney, parathyroid gland and intestinal physiology.
+Its primary action on bone is to mobilize calcium and phosphorus via  bone  resorption  to  maintain  serum  calcium levels  [28].  At  the cell nucleus it regulates the transcription of hundreds of genes and affects signal transduction and voltage-gated calcium flux at the cell membrane. Vitamin D has potent immunoregulatory properties and there  is  an  inverse  association  between  vitamin  D  and  infectious diseases [29]. In addition, vitamin D modulates the renin-angiotensin system and vitamin D deficiency (VDD) has been linked to hypertension and adverse cardiac status [30].
+Vitmain  D  is  unlike  other  vitamins  in  that  endogenous  synthesis occurs, as ultraviolet B sunlight converts cutaneous 7dehydrocholesterol  into  previtamin  D3.  After  isomerization  into cholecalciferol  (vitamin  D 3 )  it  is  then  transported  throughout  the body by vitamin D-binding protein. Two subsequent hydroxylations (to 25-hydroxyvitamin D3 and then to 1 α ,25 dihydroxyvitamin D3) in the kidney render it an active compound. Sunlight-related synthesis of D3 is predictably decreased as skin melanin increases, by clothing, during the temperate zone winter and by air pollution at the equator. High concentrations of vitamin D are found in fatty fishes, fish liver oils and egg yolks. Small amounts of vitamin D2 (ergocalciferol) are found in some plants. In tropical regions, sunlight exposure is the major  source  of  vitamin  D,  whereas  in  temperate  or  circumpolar regions, ingestion is a more significant source.
+
+============================================================
+CHUNK 23
+============================================================
+RICKETS, OSTEOMALACIA AND VITAMIN D
+With vitamin D absent, intestinal calcium uptake is negligible. This leads, in growing children, to inadequate bone mineralization and, clinically, to  rickets [3 1]. In  adults,  VDD  results  in bone  resorption and osteomalacia. Rickets (also seen with calcium deficiency) develops during bone growth, while osteomalacia develops after epiphyseal  fusion.  Children  with  rickets  have  'knobby'  enlargements  at bone growth sites, such as the epiphyseal and costochondral junctions of the long bones and the ribs, and bossing of the skull. 'Beaded' (enlarged) rib costochondral junctions are called a 'rachitic rosary' . Radiographs  of  bone  epiphyses  reveal  ragged,  irregular  and  poorly mineralized  growth  zones.  Legs  may  become  bowed  after  weightbearing begins in children. Adults with osteomalacia develop pseudofractures  of  the  ribs  and  pelvis,  and  frequently  suffer  true  bone fractures.  They  complain  of  bone and  muscle  pain,  and  weakness, consistent  with  both  pseudofractures  and  hypocalcemia-induced muscle dysfunction. Radiographs may show pseudofractures at right angles to the bone shaft, poor bone calcification and loss of trebeculae,  and  concave  vertebrae.  Pregnant  and  lactating  women  require substantial calcium for the developing fetus and for breast milk; VDD during this period can lead to severe maternal bone damage. Maternal pre-eclampsia  and  eclampsia  is  treated  with  calcium;  however,  the relationship between VDD, eclampsia and hypocalcemia is not well defined.  VDD  in  tropical  countries  occurs  when  people  with  high melanin  levels  have  inadequate  sunlight  exposure,  when  clothing blocks  sunlight  exposure  and  from  dietary  deficiency.  Breast  fed, swaddled infants born to VDD mothers are at particular risk of VDD. Vegetarians who do not eat fish or eggs and who do not have much direct  light  exposure,  or  institutionalized  persons,  are  also  'classic' risk groups.
+
+============================================================
+CHUNK 24
+============================================================
+DIAGNOSIS OF VITAMIN D DEFICIENCY (VDD)
+Overt VDD can be diagnosed clinically when characteristic rickets are seen  in  children,  or  via  radiographs  or  serum  testing.  Because  of vitamin  D's  tight  regulation,  serum  1 α ,25  dihydroxyvitamin  D3  is usually normal in VDD, whereas the precursor 25-hydroxyvitamin D3 levels are low. Serum calcium and phosphorus levels are decreased depending upon the stage of the illness, while parathyroid hormone and alkaline phosphate levels  are  elevated.  In  children  with  severe rickets  and  hypocalcemia,  hypotonia,  muscle  weakness  and  tetany develop. This may be so severe that abdominal muscle protrusion, umbilical  herniation  and  respiratory  compromise  and  death  may occur. Dental enamel hypoplasia and poor formation of permanent teeth are also observed. Like moderate VAD, moderate VDD may be related  to  increased  risks  of  infectious  diseases,  hypertension  and maternal mortality, but the magnitude and degree of causality remain undefined [29-30].
+
+============================================================
+CHUNK 25
+============================================================
+TREATMENT OF VITMAIN D DEFICIENCY (VDD)
+Both vitamin D and calcium should be given to children or adults with VDD. Four hundred IU of vitamin D given daily over prolonged periods  is  efficacious;  however,  this  amount  is  now  less  than  the recommended  dietary  allowance  for  adults  (Table  139-1).  Larger doses (5000 IU per day for two months, or 50,000 IU per week in adults) are often utilized. Children should receive 800 mgs (adults 1000 mgs) of calcium daily with vitamin D therapy.
+
+============================================================
+CHUNK 26
+============================================================
+PREVENTION OF VITAMIN D DEFICIENCY (VDD)
+An adequate diet containing vitamin D and sunlight exposure prevent VDD. Institutionalized persons may require either increased dietary vitamin D or specific actions to ensure sunlight exposure. In developed and newly industrialized countries, milk is often fortified with vitamin D. There is active controversy over what the 'correct' levels for biofortification of foods and daily intake should be, with a strong bias towards increasing current recommendations [29, 31].
+
+============================================================
+CHUNK 27
+============================================================
+REFERENCES
+1. World  Health  Organization.  Micronutrient  deficiencies.  Available  at:  www. who.int/nutrition/topics (last accessed 31st May 2012).
+2. Sommer  A.  Vitamin  A  deficiency  and  clinical  disease.  J  Nutr  2009;139: 1835-9.
+3. World  Health  Organization.  Global  Prevalence  of  vitamin  A  deficiency  in populations at risk 19955-2005. Geneva: World Health Organization; 2009. Available at: http://www.who.int/nutrition/publications/micronutrients/ vitamin_a_deficiency/9789241598019/en/index.html (last accessed 31st May 2012).
+4. Tanumihardjo SA. Vitamin A: biomarkers of nutrition for development. Am J Clin Nutr 201 1;94:6585-655.
+5. Padilha EM, Fujimori E, Borges ALV, et al. Epidemiological profile of reported beriberi  cases  in  Maranhao  State,  Brazil,  20065-2008.  Cadernos  de  Saude Publica 2011;27:449-59.
+6. Cerroni MP, Barrado JCS, Nobrega AA, et al. Outbreak of beriberi in an Indian population of the upper Amazon Region, Roraima State, Brazil 2008. Am J Trop Med Hyg 2010;83:1093-7.
+7. Toffanello  ED,  Inelmen  EM,  Minicuci  N,  et  al.  Ten-year  trends  in  vitamin intake in free-living healthy elderly people: the risk of subclinical nutrition. J Nutr Health Aging 2011;15:99-103.
+8. Carpenter KJ. Beriberi, White Rice, and Vitamin B: A Disease, a Cause, and a Cure. Berkeley, Los Angeles: University of California Press; 2000:282.
+9. Kumar  N.  Acute  and  subacute  encephalopathies:  deficiency  states  (nutritional). Sem Neurol 2011;31:169-83.
+10.  Rohner F, Zimmermann MB, Wegmueller R, et al. Mild riboflavin deficiency is  highly  prevalent  in  school-age  children  but  does  not  increase  risk  for anaemia in Cote d'Ivoire. Br J Nutr 2007;97:970-6.
+
+============================================================
+CHUNK 28
+============================================================
+REFERENCES
+11.  Karthikeyan  K,  Jaisankar  TJ,  Thappa  DM.  Non-venereal  dematoses  in  male genital region - prevalence and patterns in a referral centre in south India. Ind J Dermatol 2001;46:185-22.
+12.  Scrimshaw  NS.  Fifty  five-year  personal  experience  with  human  nutrition worldwide. Ann Rev Nutr 2007;27:1-18.
+13.  Seal AJ, Creeke PI, Dibari F, et al. Low and deficient niacin status and pellagra are endemic in postwar Angola. Am J Clin Nutr 2007;85:2185-24.
+14.  Hegyi J, Schwartz RA, Hegyi V. Pellagra: dermatitis, dementia, and diarrhea. Int J Dermatol 2004;43:1-5.
+15.  Creeke PI, Dibari F, Cheung E, et al. Whole blood NAD and NADP concentrations  are  not  depressed  in  subjects  with  clinical  pellagra.  J  Nutr  2007;137: 2013-17.
+16.  Cordero JF, Do A, Berry RJ. Review of interventions for the prevention and control of folate and vitamin B12 deficiencies. Food Nutr Bull 2008;29:2(sup pl.):S188-95.
+17.  Borwankar  R,  Sanghvi  T,  Houston  R.  What  is  the  extent  of  vitamin  and mineral  deficiencies?  Magnitude  of  the  problem.  Food  Nutr  Bull  2007;28: 1(suppl. 2):S174-81.
+18.  Oakley  GP,  Jr.  The  scientific  basis  for  eliminating  folic  acid-preventable spina  bifida:  a  modern  miracle  from  epidemiology.  Ann  Epidemiol  2009; 19:226-30.
+19.  Milman N. Anemia - still a major health problem in many parts of the world. Ann Hematol 2011;90:369-77.
+20.  Andres E, Fothergill H, Mecili M. Efficacy of oral cobalamin (vitamin B12) therapy. Exp Opin Pharmacother 2010;1 1:249-56.
+
+============================================================
+CHUNK 29
+============================================================
+REFERENCES
+21.  Von Bonsdorff B, Gordin R. Castle's test (with vitamin B12 and normal gastric juice)  in  the  ileum  in  patients  with  genuine  and  patients  with  tapeworm pernicious anemia. Acta Med Scand 1980;208:193-7.
+22.  Magiorkinis E,  Beloukas  A,  Diamantis  A.  Scurvy:  past,  present,  and  future. European J Int Med 2011;22:147-52.
+23.  Ratanachu-Ek  S,  Sukswai  P,  Jeerathanyasakun  Y,  Wongtapradit  L.  Scurvy  in pediatric patients: a review of 28 cases. J Med Assoc Thailand 2003;86(suppl. 3):S734-40.
+24.  Loewenberg  S.  Afghanistan's  hidden  health  issue.  Lancet  2009;374:9700, 1487-8.
+25.  Cheung E, Roya Mutahar Fitsum Ververs MT, Nasiri SM, et al. An epidemic of scurvy  in  Afghanistan:  assessment  and  response.  Food  Nutr  Bull  2003;24: 247-55.
+26.  Bennett M, Coninx R. The mystery of the wooden leg: vitamin C deficiency in East African prisons. Tropical Doctor 2005;35:81-4.
+27.  Raynaud-Simon A, Cohen-Bittan J, Gouronnec A, et al. Scurvy in hospitalized elderly patients. J Nutr Health Aging. 2010;14:407-10.
+28.  Feldman D, Malloy PJ. Vitamin D deficiency, rickets, and osteomalacia. In: Martini L, ed. Encyclopedia of Endocrine Diseases, Vol. 4. Elsevier Inc., San Diego; 2004: 666-73.
+29.  Taylor CE, Camargo CA, Jr. Impact of micronutrients on respiratory infections. Nutr Rev 2011;69:259-69.
+30.  Anderson JL, May HT, Horne BD, et al. Relation of vitamin D deficiency to cardiovascular risk factors, disease status, and incident events in the general healthcare population. 2010. Am J Cardiol 2010;106:963-68.
+31.  Holick MF. Vitamin D deficiency. N Engl J Med 2007;357:266-81.
+

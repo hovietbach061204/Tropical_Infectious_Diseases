@@ -1,0 +1,112 @@
+============================================================
+CHUNK 0
+============================================================
+Key features
+- Pneumocystis jiroveci causes an acute or subacute, potentially life-threatening pneumonia in immunocompromised individuals, typically those with AIDS
+- Symptoms are dyspnea, nonproductive cough, fever, and fatigue that gradually progresses over several days to weeks
+- Radiograph shows a bilateral, di'use interstitial in(ltrate in the later stage of the illness, but may be normal in early stages
+- Early recognition, prompt diagnosis, and initiation of anti-pneumocystis treatment leads to the best outcome
+- For patients with mild to moderate disease, oral regimens and outpatient management are often successful. For those with severe disease, intravenous regimens accompanied by adjunctive corticosteroids initiated within 24-72 hours of anti-pneumocystis therapy are indicated
+
+============================================================
+CHUNK 1
+============================================================
+INTRODUCTION
+Pneumocystis pneumonia  (PCP)  is  an  acute  and  sometimes  lifethreatening pneumonia due to the fungus Pneumocystis jiroveci which occurs in immunocompromised people. In tropical countries, most adult patients with PCP have AIDS, whereas in developed countries it also occurs in immunocompromised patients with conditions other than AIDS, e.g. those receiving chemotherapeutic agents for hematologic  malignancies,  or  people  taking  immunosuppressive  drugs  to prevent rejection following organ transplantation. In infants and children in developing countries, PCP  may  occur  in those with kwashiorkor.
+In children and adults with AIDS , PCP was initially thought to occur less frequently in developing regions than in industrialized countries. Autopsy reports conducted during the first decade of the pandemic showed that  tuberculosis,  and  bacteremia  with  nontyphoid Salmonella and pneumococci occurred more often in African AIDS patients than in those living in developed countries [1]. Based on these reports, texts concluded that in the developing world, PCP was uncommon [2]. More recently, however, a higher prevalence of PCP among AIDS patients with respiratory symptoms from many regions of the developing world has been reported.
+
+============================================================
+CHUNK 2
+============================================================
+EPIDEMIOLOGY
+In  low-income  regions  of  the  world,  there  are  variations  in  the reported  prevalence  of  PCP  in  patients  with  AIDS.  This  variability may  be  due  to  differences  in  study  design,  including  a  lack  of
+
+============================================================
+CHUNK 3
+============================================================
+Powel Kazanjian
+standardization  of  inclusion  criteria  (e.g.  including  patients  in  all stages of HIV infection vs those with AIDS), rates of PCP prophylaxis, and diagnostic tests used with differing sensitivity in detecting PCP in sputum. Furthermore, differences in ecologic factors that result in exposure to P. jiroveci may also influence the prevalence of PCP, even though the environmental habitat and means of transmission remain unknown. Despite these considerations, PCP now accounts for a substantial percentage of respiratory symptoms in HIV-infected patients in the developing world; in Africa, Asia, the Philippines, and Central and South America, the percentage ranges from 45% to 65% compared with earlier studies in the 1980s where the percent was 3% to 35% [3].
+It is not known whether the trend towards an increase in the percentage of cases represents a true increase in prevalence or whether the early reports underestimated the actual prevalence. In contrast to the developing world, the incidence of PCP in the developed world has significantly declined due to the use of potent antiretroviral therapy (ART) and Pneumocystis prophylaxis. It seems likely that increased use of ART in the developing world will reduce the occurrence of PCP in tropical regions, but this remains to be demonstrated.
+
+============================================================
+CHUNK 4
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+In asymptomatic people, a few P. jiroveci organisms may reside latently in the alveolar septal walls of the lung. This asymptomatic form has been recognized incidentally in specimens of lung obtained at autopsy [4].  Immunodeficiency  is  the  common  predisposing  condition  for developing  pneumonia  due  to  this  latent  infection.  Although  the possibility  of  reactivation  has  not  been  entirely  discounted,  more recent studies suggest that pneumonia can be due to recently acquired organisms [5].
+The  organism  causes  denudation  of  alveolar  cells.  This  results  in foamy, honeycombed intra-alveolar exudates consisting of masses of cysts and desquamated alveolar cells, with an interstitial infiltrate of plasma cells and lymphocytes. The number of organisms increases as pneumonia develops, accounting for the characteristic diffuse rather than localized nature of the pneumonitis [4]. Systemic dissemination of organisms is rare. It can occur in association with the use of aerosolized  pentamidine,  and  can  involve  any  organ,  including  liver, spleen, lymph node, or bone marrow. The order and level of immunodeficiency at which PCP and other opportunistic infections occur in HIV-infected people in developing regions has not been defined [6]. However, there is no evidence to support speculation that PCP occurs at an earlier stage of infection than in high-income countries. Thus,  it  is  likely  that  the  majority  of  cases  in  HIV-infected  people worldwide occur when CD4 counts decline below 200 cells/mm 3 .
+
+============================================================
+CHUNK 5
+============================================================
+CLINICAL FEATURES
+PCP can have an acute onset or occur gradually. In general, in patients without  HIV  infection,  PCP  has  a  more  fulminant  course  than  in HIV-infected  people,  in  whom  infection  is  often  indolent  [7].
+86
+FIGURE  86.1 Chest  x-ray  of  a  patient  with Pneumocystis pneumonia demonstrating bilateral di1use interstitial changes occurring predominantly in the lower lung 2elds.
+Nevertheless, practicing clinicians have noted that either presentation can occur in both hosts. The usual symptoms are fever (80-100%), nonproductive  or  minimally  productive  cough  (95-100%),  and dyspnea (95%). Pulmonary symptoms are typically progressive over a 1- to 2-week course, and may be accompanied by systemic symptoms of fatigue, chest pain, and weight loss. On examination, the patient is  usually  tachypneic  with  either  bibasilar  rales  or  a  normal  lung examination. The abnormalities on examination are usually limited to the lungs, but in the unusual case of extrapulmonic pneumocystosis, there may be enlargement of lymph nodes, spleen, or liver.
+Oxygen saturation, a routinely performed laboratory test available in several tropical settings, is usually low at rest and most often declines further with exertion. The arterial oxygen tension (PaO2) is low, the carbon dioxide level normal, and the alveolar-arterial (A-a) gradient is increased. Routine chest x-rays may be normal in up to one-fourth of patients early in the course, but then evolve into a bilateral, diffuse, interstitial infiltrative pattern (Fig. 86.1) [8]. Variant x-ray findings are upper lobe involvement (especially in people receiving aerosolized pentamidine), focal consolidation, or thin-walled cavities (pneumatoceles) that can be complicated by a pneumothorax. In patients with normal x-rays, high-resolution CT scans, if available, can show patchy or nodular ground-glass attenuation, suggestive, but not diagnostic, of PCP. Lactic dehydrogenase (LDH) levels are elevated in most, but not all, patients.
+
+============================================================
+CHUNK 6
+============================================================
+CLINICAL FEATURES
+These clinical features have  usually  been described in  reports from industrialized countries, with scant literature from developing countries.  Some  papers  from  developing  countries  note  markedly  high respiratory rates, ranging from 30 to 80 per minute, and very low O2 saturation percent (60-82%), and pO2 ( < 70 mmHg) [5]. These data suggest that in some tropical regions, PCP may tend to be recognized in its more severe stage.
+
+============================================================
+CHUNK 7
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Although PCP can be suspected based upon typical clinical and radiologic  findings,  the  diagnosis  should  be  confirmed  by  sampling  a respiratory specimen. The clinical and radiographic features of PCP overlap with viral and atypical bacterial pathogens that cause community  pneumonia.  Thus,  if  initiated  empirically,  a  full  course of  anti-pneumocystis  treatment  should  not  be  completed  without
+FIGURE 86.2 Immuno3uorescence stain of a sputum specimen obtained by induction. The oval, cup-shaped, 4-6μ m Pneumocystis jiroveci organisms stain an apple green color against a red background.
+establishing a diagnosis, given the potential toxicities from PCP regimens. Since obtaining a respiratory specimen and staining specimens are not rapid tests for P jiroveci, and the severity of the pneumonia can progress  while  awaiting specimens, it  is  appropriate  to  initiate empiric treatment pending the results of diagnostic specimens. The role of gallium-67 citrate scanning is limited by its lack of specificity. The utility of a serum assay for diagnosis, beta-D-glucan, a cell wall component of Pneumocystis , remains to be determined [9].
+Procedures  for  obtaining  and  sampling  respiratory  specimens  may not be available in low-income regions. Where they are available, the least  invasive  method  of  obtaining  respiratory  specimens  for  PCP analysis is sputum induced by inhaling hypertonic saline generated by a handheld nebulizer [10]. Induction is continued for 15 minutes until an adequate specimen volume (5 to 10 mL) is produced. The specimen  is  then  stained  by  conventional  methods:  silver  nitrate, toluidine blue O or Giemsa stains, indirect immunofluorescence, or PCR for P.  jirovecii (Fig.  86.2).  The  sensitivity  of  sputum  induction ranges from 55% to 92%, depending upon experience and expertise. Thus,  if  PCP  is  not  identified  by  sputum  induction,  or  if  induced sputum  is  unavailable,  then  bronchoscopy  with  bronchoalveolar lavage should be performed. Lung biopsy is not required to establish the  diagnosis.  The  utility  of  noninvasive  tests  from  oropharyngeal washings  (e.g.  gargling)  to  diagnose  PCP  when  coupled  with  PCR testing remains attractive in resource-limited regions [1 1].
+
+============================================================
+CHUNK 8
+============================================================
+TREATMENT
+No prospective, controlled treatment trial to assess PCP therapy has been carried out in the developing world. Thus, it is reasonable to use the same treatment regimens that are used in industrialized countries [12].  An  assessment  should  be  made  of  the  severity  of  illness  to determine whether oral or intravenous regimens should be used [13]. Mild to moderate disease can be managed with one of several oral treatment regimens and without adjunctive corticosteroids. Response rates to oral drugs have been reported to be 80-95% in the developed world. Mild to moderate disease can be defined by clinical findings (absence of severe respiratory distress or pronounced tachypnea) and O2 results (pO2 > 70; A-a gradient < 35 mmO2). Due to its high rate of success, the regimen of choice is a 3-week course of trimethoprimsulfamethoxazole (TMP-SMX) at a dosage of 15-20 mg (TMP)/kg/ day in three divided doses (5 to 7 double-strength tablets per day) for 21 days. The major adverse reactions to TMP-SMX are rash, which may range from mild to life-threatening, cytopenias, and gastroenterologic upset.  For  those  who  develop  a  non-life-threatening  rash  to  TMPSMX, trimethoprim (300 mg three times daily) plus dapsone (100 mg/ day) can be used. Seventy percent of patients who have reactions to TMP-SMX  are  able  to  tolerate  TMP-dapsone,  which  has  a  similar
+efficacy  to  TMP-SMX.  For  those  unable  to  tolerate  TMP-dapsone, either  atovaquone  (750 mg twice  daily, with  food),  or  primaquine (30 mg/day) plus clindamycin (300-450 mg three times a day) can be used.
+
+============================================================
+CHUNK 9
+============================================================
+TREATMENT
+In  general,  intravenous  regimens should  be  given  in severe  disease (pO2 < 70; A-a gradient > 35 mmO2) [14]. The agent of choice is TMPSMX;  the  intravenous  dose  is  identical  to  the  oral  regimen.  For patients intolerant to or not responding to TMP-SMX after 7 days of treatment, pentamidine isethionate (3 mg/kg/day) can be used. Pentamadine is almost as effective as TMP-SMX, but it has a higher rate of serious side effects, including renal insufficiency, arrhythmias and pancreatitis. For patients  with  severe  disease,  adjunctive  corticosteroids  initiated  within  24  to  72  hours  of  anti-pneumocystis  therapy prevents early deterioration of oxygenation by reducing inflammation associated with lysis of P. jiroveci organisms. The dose is prednisone 40 mg twice daily days 1-5, 40 mg daily days 6-10, then 20 mg daily days 1 1-21 [15].
+There  are  several  points  about  treatment  outcomes  in  developing countries. First, in adult patients, the mortality rates range from 10% to 27%, similar to those reported in the US. However, PCP mortality rates in children are higher than in industrialized countries, ranging from 10% to 80% [16]. A more rapid progression of HIV infection may be a factor contributing to mortality, since ART was not available in developing countries at the time the treatment studies were conducted. Based on the degree of oxygen exchange impairment, it is also possible that lower response rates may have been due to late initiation of anti-pneumocystis treatment. This underscores the importance of early  recognition  and  prompt  treatment  for  improving  outcomes. Second, a full array of anti-pneumocystis regimens used in industrialized  nations  may  not  be  available  in  developing  countries.  Thus, treatment  options  for  those  not  responding  to  or  intolerant  to TMP-SMX may be limited.
+For prophylaxis in people with AIDS and a CD4 cell count < 200 cells/ mm 3 ,  TMP-SMX  reduces  the  incidence  of  PCP.  AIDS  patients  who respond to ART by increasing CD4 cell counts to > 200 for more than 3 months may discontinue PCP prophylaxis.
+
+============================================================
+CHUNK 10
+============================================================
+REFERENCES
+1. Lucas SB, Hounnou A, Peacock C, et al. The mortality and pathology of HIV infection in a West African City. AIDS 1993;7:1569-79.
+2. Colebunders R, Quinn T.  Retroviruses  and  HIV.  In:  Warren  KS,  Mahmoud AAF, eds. Tropical and Geographical Medicine. New York: McGraw Hill; 1990: 728-41.
+3. Fisk  D,  Meshnick  S,  Kazanjian  P. Pneumocystis  carinii pneumonia  in  AIDS patients in the developing world. Clin Infect Dis 2003;36:70-8. PCP is not uncommon in patients with AIDS who have respiratory symptoms in the developing world, where PCP accounted for 45% cases of respiratory symptoms in
+4. adults with AIDS.
+4. Hughes WT. Pneumocystosis. In: Strickland GT, ed. Tropical Medicine and Emerging Infectious Diseases. Philadelphia: WB Saunders; 2000:701-4.
+5. Beard CB, Carter JL, Keely SP, et al. Genetic variation in Pneumocystis carinii isolates  from  different  geographic  regions:  implications  for  transmission. Emerg Infect Dis 2000;6:265-72.
+This study examined the geographic variation of Pneumocystis genotypes from patients in differing locales, and showed that the genotypes at the time of diagnosis matched the person's place of diagnosis, not the place of birth. This supports the theory that disease results from new acquisition of Pneumocystis rather than latent reactivation.
+
+============================================================
+CHUNK 11
+============================================================
+REFERENCES
+6. Walzer P. Pneumocystosis. In: Guerrant RL, Walker DH, Weller PF, eds. Tropical  Infectious  Diseases:  Principles,  Pathogens,  and  Practice.  Philadelphia: Churchill Livingstone; 1999:673-84.
+7. Kovacs JA, Hiemenz JW, Macher AM, et al. Pneumocystis carinii pneumonia: a comparison between patients with the acquired immunodeficiency syndrome and patients with other immunodeficiencies. Ann  Intern Med  1984; 100:663-71.
+8. DeLorenzo LJ, Huang CT, Maguire GP, et al.  Roentgenographic patterns of Pneumocystis  carinii  pneumonia in  104  patients  with  AIDS.  Chest  1987; 91:323-7.
+9. Marty FM, Koo S, Bryar J, et al. Beta-D-Glucan assay positivity in patients with Pneumocystis jiroveci pneumonia. Ann Intern Med 2007;147:70-2.
+10.  Metersky ML, Aslenzadeh J, Stelmach P. A comparison of induced and expectorated sputum for the  diagnosis of Pneumocystis  carinii pneumonia. Chest 1998;113:1555-9.
+Sputum induction when done properly can be a simple and relatively well-tolerated procedure with a sensitivity of 55%. This method of diagnosis is important in regions in the developing world where bronchoscopic techniques are not available.
+
+============================================================
+CHUNK 12
+============================================================
+REFERENCES
+11.  Wakefield AE, Miller RF, Guiver LA, et al. Oropharyngeal samples for detection
+2. of Pneumocystis carinii by DNA amplification. Q J Med 1993;86:401-6. PCR technology has allowed for the use of specimens obtained from oropharyngeal gargling  to  diagnose  PCP.  This  study  reported  a  sensitivity  of  84%,  equivalent  to that of induced sputum.
+12.  Kaplan JE, Benson C, Holmes KH, et al. Guidelines for prevention and treatment  of  opportunistic  infections  in  HIV-infected  adults  and  adolescents: recommendations from CDC, the National Institutes of Health, and the HIV Medicine Association of the Infectious Diseases Society of America. MMWR Recomm Rep 2009;58:1-207.
+13.  Safrin S, Finkelstein DM, Feinberg J, et al. Comparison of three regimens for treatment  of  mild  to  moderate Pneumocystis  carinii pneumonia in  patients with AIDS. Ann Intern Med 1996;124:792-802.
+14.  Sattler FR, Cowan R, Nielsen DM, et al. Trimethoprim-sulfamethoxazole or pentamidine for Pneumocystis carinii pneumonia in the acquired immunodeficiency  syndrome.  A  prospective  randomized  trial.  Ann  Intern  Med  1986; 105:37-44.
+15.  Gagnon S, Boota AM, Fischl MA, et al. Corticosteroids as adjunctive therapy for severe Pneumocystis carinii pneumonia in the acquired immunodeficiency syndrome.  A  double-blind,  placebo-controlled  trial.  N  Engl  J  Med  1990; 323:1444-50.
+16.  Zar  HJ,  Dechaboon  A,  Hanslo  D,  et  al. Pneumocystis  carinii pneumonia  in South African children with human immunodeficiency virus. Pediatr Infect Dis J 2000;19:603-7.
+

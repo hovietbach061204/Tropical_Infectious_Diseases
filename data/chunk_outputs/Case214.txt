@@ -1,0 +1,124 @@
+============================================================
+CHUNK 0
+============================================================
+Intestinal Fluke Infections 123
+Yupaporn Wattanagoon, Danai Bunnag
+
+============================================================
+CHUNK 1
+============================================================
+Intestinal Fluke Infections 123
+TABLE 123-1 List of Various Species of Intestinal Flukes that Infect Humans and Their Habitats
+
+Fasciolidae, Intestinal Fluke Species = F. buski. Fasciolidae, Habitats = Small intestine. Echinostomatidae, Intestinal Fluke Species = E. ilocanum E. malayanum E. revolutum E . lindoense E. recurvatum E. jassyense (E. melis) E. macrorchis E. cinetorchis Hypoderaeum conoideum Echinochasmus perfoliatus Paraphostomum sufrartyfex Himasthla meuhlensi. Echinostomatidae, Habitats = Small intestine. Heterophyidae, Intestinal Fluke Species = H. heterophyes H. yokogawai H. taichui Metagonimus yokogawai Metagonimus minutus Centrocestus formosanus Haplorchis pumilio Diorchitrema formosanum D. amplicaecale Pygidiopsis summa Stellantchasmus falcatus Procerovum calderoni. Heterophyidae, Habitats = Small intestine. Gastrodiscoidiae, Intestinal Fluke Species = G. hominis. Gastrodiscoidiae, Habitats = Cecum and ascending colon. Lecithodendriae, Intestinal Fluke Species = P. bonnei P. molenkempi. Lecithodendriae, Habitats = Small intestine. Microphallidae, Intestinal Fluke Species = Spelotrema brevicaeca. Microphallidae, Habitats = Small intestine. Plagiorchiidae, Intestinal Fluke Species = P. philippinensis P. javensis P. muris. Plagiorchiidae, Habitats = Small intestine. Alariasis, Intestinal Fluke Species = Alaria americana. Alariasis, Habitats = Small intestine. Neodiplostomumiasis, Intestinal Fluke Species = Neodiplostomum seoulense. Neodiplostomumiasis, Habitats = Small intestine. Data from [8, 17, 18]., Intestinal Fluke Species = . Data from [8, 17, 18]., Habitats = 
+
+============================================================
+CHUNK 2
+============================================================
+Key features
+- Intestinal %ukes are primarily distributed in Asia, although Heterophyidae species are also seen in North Africa and the Middle East
+- Humans acquire infection by eating raw contaminated water plants, for example Fasciolopsis buski , by ingesting raw freshwater &sh, for example Heterophyidae , or through uncooked snails, snakes, or frogs
+- Most infections are asymptomatic; diarrhea and abdominal pain are common complaints in symptomatic patients
+- Malabsorption and protein-losing enteropathy can be seen in severe F. buski infection, particularly in children
+- Therapy of intestinal %ukes is with praziquantel
+
+============================================================
+CHUNK 3
+============================================================
+INTRODUCTION
+Intestinal flukes vary in size from large to minute. There are over 70 species that infect humans. The majority of infections are caused by flukes from the families Fasciolidae, Echinostomatidae , and Heterophyidae (Table 123-1). A smaller number are caused by the Gastrodiscidae, Plagiorchiidae, Microphallidae , and Diplostomatidae families (Table 1231). Many species have been discovered incidentally by identification of adult worms in stool after anthelminthic treatment [1]. The source of  infection  varies  according  to  the  intermediate  host,  for  example infected freshwater fish, aquatic plants, snails, or tadpoles.
+
+============================================================
+CHUNK 4
+============================================================
+EPIDEMIOLOGY
+More than 50 million people are infected by intestinal flukes [2]. Most cases have been reported from Southeast Asia, the Far East, the Middle East, and Africa. On a few occasions, cases have been reported from Europe,  North  America,  or  Australia.  Intestinal  flukes  have  been reported from:
+- Fasciolopsis buski: India, Thailand, Loa People's Democratic Republic (PDR), Cambodia, Indonesia, Taiwan, China, Japan, Malaysia, and the Philippines;
+- Echinostomatidae species:  north-eastern  Thailand  (about  50% prevalence), the Philippines, Indonesia, and Taiwan;
+- Heterophyidae species, usually Heterophyes heterophyes and Metagonimus yokogawai : Nile delta of Egypt, Iran, Tunisia, Turkey, Southeast Asia and the Far East, such as Japan, Korea, Taiwan, mainland China, the Philippines, and Indonesia;
+- Gastrodiscidae species  ( G.  hominis ):  common  in  Asia  especially in  India  (Assam,  Bihar,  and  Orissa).  Cases  also  reported  from Vietnam,  Thailand,  Myanmar,  China,  the  Philippines,  Kazakhstan, and Guyana. Reservoir hosts are pigs, deer mice (Tragulus
+- napu) , and  rats. It has been  proposed  that  sylvanic  cycles persist [3];
+- Lecithodendriidae species  ( Phaneropsolus  bonnei and Prosthodendrium  molenkempi ):  endemic  in  Southeast  Asia,  especially  Thailand, Lao PDR, and Indonesia [4].
+
+============================================================
+CHUNK 5
+============================================================
+NATURAL HISTORY, PATHOLOGY AND PATHOGENESIS
+The lifecycles of most intestinal flukes are similar except for the intermediate hosts. Adult flukes reside in the intestines of the definitive hosts and release eggs that are passed in stool. When the embryonated eggs  reach  water,  they  release  miracidia  which  penetrate  the  snail intermediate host and develop into sporocysts, radiae and then cercariae.  Cercariae  leave  the  snails  and,  depending  on  the  species  of fluke,  encyst  as  metacercariae  on  aquatic  plants,  in  fish,  freshwater snails,  snakes,  or  frogs  (Table  123-2).  Humans,  or  other  definitive hosts,  become  infected  after  eating  metacercariae  in  uncooked infected  or  contaminated  second  intermediate  hosts.  Metacercariae excyst in the duodenum, attach to the intestinal wall and develop into adult worms that produce eggs and complete the lifecycle.
+When flukes attach to the intestinal wall they can cause inflammation with cellular infiltration, ulceration  and increased mucus secretion. Heavy infection can lead to local necrosis, erosion and hemorrhage. Intestinal  obstruction  can  occur  with  heavy  worm  burden.  Malabsorption and protein-losing enteropathy can occur in severe cases of F. buski infection. Occasionally, ova or adult worms of minute intestinal flukes (e.g. Heterophidiae ) can enter blood vessels and travel to ectopic sites, such as the heart or brain.
+
+============================================================
+CHUNK 6
+============================================================
+CLINICAL FEATURES
+Most cases are asymptomatic and are discovered after anthelminthic treatment for other conditions. Symptomatic cases report mild gastrointestinal symptoms such as abdominal pain, colic, flatulence, and diarrhea,  which  can  be  watery  or  foul-smelling  with  mucus  and blood.  Severe  infection  with F.  buski in  children  can  present  with chronic  diarrhea  and  protein  losing  enteropathy.  Rarely,  intestinal perforation occurs, which can be fatal [5].
+
+TABLE 123-2 List of Reported De:nitive and Reservoir Hosts and, First and Second Intermediate Hosts of Various Intestinal Flukes
+
+============================================================
+CHUNK 7
+============================================================
+CLINICAL FEATURES
+Fasciolidae, Intestinal 4uke species = Fasiolopsis buski. Fasciolidae, De5nitive host = Pigs and humans. Fasciolidae, First intermediate host = Planorbid snail Segmentina hemisphaerula , Hippeutis cantori, Gyraulus species Segmentina ( Trochorbis ). Fasciolidae, Second intermediate host = Water caltrop, water chestnut, water bamboo water morning glory water lily shoots, watercress and other edible aquatic vegetation. Echinostomatidae, Intestinal 4uke species = Echinostoma ilocanum. Echinostomatidae, De5nitive host = Birds, mammals, sometimes humans. Echinostomatidae, First intermediate host = Planorbid snails Gyraulus convexiusculus Hippeutis umbilicus Gyraulus prashdi. Echinostomatidae, Second intermediate host = Freshwater snails ( Pila , Viviparus , Lymnaea ), :sh, tadpoles or vegetation. , Intestinal 4uke species = Echinostoma malayanum. , De5nitive host = Rats, dogs. , First intermediate host = Freshwater snails Indoplanorbis exustus Lymnaea leuteola. , Second intermediate host = I. exustus , L. (Radix) rubiginosa , G. convexiusculus and in tadpoles, V. javanicus and Pila scutata. , Intestinal 4uke species = Echinostoma revolutum. , De5nitive host = Ducks, geese and rats. , First intermediate host = Freshwater snails I. exustus, L . (Radix) rubiginosa Physa species ( Segmentina species and Helisoma species). , Second intermediate host = Mollusks, tadpole and clams ( Corbicula producta ). , Intestinal 4uke species = Hypoderaeum conoideum. , De5nitive host = Ducks, other fowl, rats and humans. , First intermediate host = . , Second intermediate host = I . exustus , L. (Radix) rubiginosa and tadpoles. Heterophyidae, Intestinal 4uke species = Heterophyes heterophyes. Heterophyidae, De5nitive host = Dogs, cats, foxes, birds, and other
+
+============================================================
+CHUNK 8
+============================================================
+CLINICAL FEATURES
+:sh- eating mammals. Heterophyidae, First intermediate host = Freshwater snails Perinella conica Cerithedea cingulata (syn. Tymphonotonus microptera. Heterophyidae, Second intermediate host = Brackish or freshwater :sh in mullet and minnow species Mugil cephalus, M. capito , Tilapia nilotica , Aphanius fasciatus Gambusia a3nis and Acanthogobius species Freshwater :sh, particularly. , Intestinal 4uke species = Metagonimus yokogawai. , De5nitive host = Dogs, cats, pigs and pelicans. , First intermediate host = Snail: Semisulcospira libertina and related species. , Second intermediate host = Cyprinidae: trout ( Plectoglossus altivelis and Odontobulis obscurus ) and salmon ( Salmo perryi and Tribolodon hakonensis ). Lecithodendriae, Intestinal 4uke species = Planeropsolus bonnei Planeropsolus molenkempi. Lecithodendriae, De5nitive host = Monkeys ( Nycticebus coucang, Macaca iris, Macaca mulatta and Macaca fuscicularis) Insectivorous bats (Scotophilus kuhlii and Taphozons melanopogon) Rats (Rattus rattus). Lecithodendriae, First intermediate host = Snails ( Bithynia species). Lecithodendriae, Second intermediate host = Dragon;ies and damsel;ies
+Physical examination shows no abnormality in asymptomatic or mild cases. In severe cases, protein malnutrition, anemia and edema of the face and extremities can be detected caused by chronic protein and blood loss and B12 malabsorption [6]. There are occasional reports of  infection  at  ectopic  sites  from  some  species,  for  example Alaria Americana , that has caused lesions in the vitreous and the retina [7], and has disseminated throughout the body [8].
+
+============================================================
+CHUNK 9
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Routine laboratory tests are usually normal in mild cases. Anemia and eosinophilia  can  be  seen  in  severe  cases  of F.  buski .  Low  serum albumin and B12 level has occurred with protein-losing enteropathy.
+Confirmatory diagnosis is made by:
+1. Identification of adult worms, with specific species confirmation based on the worm characteristics.
+2. Identification of ova in fecal samples: It can be difficult to diagnose worm species because the ova of these parasites are similar to others in the same family or the liver fluke species, for example F. buski is similar to Fasciola hepatica or Fasciola gigantica ova, and minute intestinal flukes ova, for example H. heterophyes , Prostodendrium molenkampi , Phaneropsolus bonnei , M. yokogawai ova are similar to O. viverrini , O. felineus , and C. sinensis ova.
+3. The sensitivity of  the  above  methods  can  be enhan  ced  by using the methiolate iodine-formaline (MIF) technique [9].
+3. PCR: PCR distinguishes intestinal flukes based on their DNA sequences. Using PCR-restriction fragment length polymorphism  (PCR-RFLP)  and  simple  sequence  repeat  anchored PCR, differentiation among various species of Metagonimus genus [10, 1 1] and six species of Heterophyidae genus has been possible [12].
+4. Serology:  similar  to  most  intestinal  parasitic  infections, serology  is  not  routinely  performed.  However,  in  patients infected with multiple pathogens, it can be useful for confirmation, for example F. buski and F. gigantica [13].
+Other intestinal parasites or liver flukes can give similar symptoms of abdominal pain, flatulence, and diarrhea. Severe cases may be similar to intestinal schistosomiasis but without liver or splenic enlargement. Risk factors based on endemic area, eating  habits, or travel history should be carefully elicited. Co-infection with other intestinal can be common in endemic areas.
+
+============================================================
+CHUNK 10
+============================================================
+TREATMENT
+Praziquantel is the anthelminthic of choice. One field trial of treatment for F. buski demonstrated that praziquantel 15 mg/kg orally in a single dose at bedtime gave a 100% cure rate and was similar to the higher dose praziquantel (25 or 40 mg/kg), but with fewer side effects [14].  The  Medical  Letter  recommends  75 mg/kg  in  three  divided doses [15].
+There have been no controlled trials of praziquantel for other intestinal flukes. However praziquantel at 15, 25, or 40 mg/kg in a single oral dose has been used successfully [16].
+
+============================================================
+CHUNK 11
+============================================================
+PREVENTION
+Important methods to prevent infection are proper cleaning of raw water plants and cooking of vegetables, freshwater fish, or other intermediate hosts before consumption. Improved sanitation and hygiene will help to prevent fecal contamination of freshwater.
+
+============================================================
+CHUNK 12
+============================================================
+REFERENCES
+1. Radomyos P, Bunnag D, Harinasuta T. Worms recovered in stools following praziquantel treatment. Drug Res 1984;34:118688.
+2. World Health Organization. WHO Study Group: Control of Foodborne Trematode Infections. World Health Organ Techn Rep Ser No. 849. Geneva: World Health Organization; 1995.
+3. Surinthrangkul  B,  Gonthian  S,  Pradatsundarasar  A. Gastrodiscoides  hominis from man in Thailand. J Med Assoc Thai 1965;48:96.
+4. Manning GS, Lertprasert P. Studies on the life cycle of Planeropsolus bonnei and Prosthodendrium molenkempi in Thailand. Ann Trop Med Parasitol 1973;67:361.
+5. Bhattacharjee HK, Yadav D, Bagga D. Fasciolopsiasis presenting as intestinal perforation: a case report. Trop Gastroenetrol 2009;30:40-1.
+6. Chai JY, Shin JH, Lee SH, Rim HJ. Foodborne intestinal flukes in Southeast Asia. Korean J Parasitol 2009;47(suppl.):S69-102.
+7. McDonald HR, Kazacos KR, Schatz H, Johnson RN. Two cases of intraocular infection  with Alaria mesocercaria  (Trematoda).  Am  J  Ophthalmol  1994; 117:447-55.
+8. Freeman RS, Stuart PF, Cullen JB, et al: Fatal human infection with mesocercariae of the trematode Alaria americana . Am J Trop Med Hyg 1976;25:803-7.
+9. Wang LC. Improvement in the identification of intestinal parasites by a concentrated merthiolate-iodine-formaldehyde technique. J Parasitol 1998; 84:457-8.
+10.  Yang HJ, Guk SM, Han ET, Chai JY. Molecular differentiation of three species of Metagonimus by simple sequence repeat anchored polymerase chain reaction (SSR-PCR) amplification. J Parasitol 2000;86:1 170-2.
+
+============================================================
+CHUNK 13
+============================================================
+REFERENCES
+11.  Yu JR, Chai JY. Metagonimus. In: Liu D, ed. Molecular Detection of Foodborne Pathogens. Boca Raton, FL: CRC Press; 2010.
+12.  Dzikowski  R,  Levy  MG,  Poore  MF,  et  al.  Use  of  rDNA  polymorphism  for identification of Heterophyidae infecting freshwater fishes. Dis Aquat Organ 2004;59:35-41.
+13.  Quang TD, Duong TH, Richard-Lenoble D, et al. Emergence in humans of fascioliasis (from Fasciola gigantica ) and intestinal distomatosis (from Fasciolopsis buski ) in Laos. Sante 2008;18:1 19-24.
+14.  Bunnag D, Radomyos P, Harinasuta T. Field trial of the treatment of fasciolopsiasis  with  praziquantel.  Southeast  Asian  J  Trop  Med  Public  Health 1983;14:216-19.
+15.  Medical Letter. Drugs for parasitic infections. Treatment Guidelines from the Medical Letter 2010(suppl.):e1-e20.
+16.  Pungpak S, Radomyos P, Radomyos BE, Schelp FP, et al. Treatment of Opisthorchis viverrini and intestinal fluke infections with Praziquantel. Southeast Asian J Trop Med Public Health 1998;29:246-9.
+17.  Hong SJ, Cho TK, Hong SJ, et al. Fifteen human cases of Fibricola seoulensis . Korean J Parasitol 1984;22:61-9.
+18.  Hong ST, Shoop WL. Neodiplostomum seoulense , the amended name for Fibricola seoulensis . Korean J Parasitol 1995;33:399.
+

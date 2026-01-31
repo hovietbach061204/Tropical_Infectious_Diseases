@@ -1,0 +1,301 @@
+============================================================
+CHUNK 0
+============================================================
+Super1cial Mycoses 77
+Roderick J Hay
+
+============================================================
+CHUNK 1
+============================================================
+TINEA IMBRICATA
+Trichophyton concentricum is the cause of the tropical infection known as tinea imbricata or tokelau. It is characterized by the appearance of homogeneous sheets  or concentric  rings  of  scaling  that  may  cover large areas of the body (Fig. 77.1). Tinea imbricata is best known in the Pacific Islands and Melanesia, but reports of the disease in isolated populations, often living in primitive conditions, have been reported from Malaysia, India, Brazil, and Mexico.
+
+============================================================
+CHUNK 2
+============================================================
+NATURAL HISTORY, PATHOLOGY, AND PATHOGENESIS
+Infection  follows  transfer  from  an  individual  or  animal  source  by contact. Host resistance to dermatophytosis depends on several innate and acquired immunologic factors. These include increased epidermal turnover, locally produced peptides and fatty acids, and transferrin. In addition, acquired immunity mediated through T lymphocyte (Th1)  cytokines  is  critical,  although  its  effectiveness  is  reduced  in non-inflammatory infections, for example the soles of the feet and tinea imbricata.
+
+============================================================
+CHUNK 3
+============================================================
+CLINICAL MANIFESTATIONS
+The clinical features of dermatophytosis depend on the site of infection.  In  temperate  areas,  occluded  surfaces,  such  as  the  groin,  toe webs, and axillae are most often infected, but in the tropics any site can be involved.
+
+============================================================
+CHUNK 4
+============================================================
+FOOT INFECTIONS
+Athlete's  foot or  tinea  pedis  is  a  term  used  to  describe  scaling  and maceration accompanied by itching between the toes, particularly the fourth  interdigital  space.  It  is  a  syndrome  that  may  be  caused  by Candida species, erythrasma or Gram-negative bacteria, as well as by dermatophytes. In dermatophyte infections, the area between the toes may be wet or dry and, in some infections, particularly those caused by Trichophyton interdigitale , vesicular. Involvement of the dorsum of the foot or the sole may occur. The commonest cause is T. rubrum .
+Symptoms may be minimal. It is more common in people who wear shoes and socks and is therefore associated with urban areas in the tropics.
+Tinea pedis in tropical areas must be distinguished from eczema and, less commonly, plantar psoriasis [4]. The interplay between bacteria and fungi is poorly understood but, in the tropics, secondary Gramnegative bacterial infection on top of interdigital dermatophytosis can occur.
+
+============================================================
+CHUNK 5
+============================================================
+Key features
+- Filamentous fungal infections of skin, hair, and nails
+- Acquired from animals, other humans, or soil
+- Cause tinea or ringworm infections
+- Scalp, groin, and body infections common in tropics
+- Respond to topical azoles or oral antifungal drugs such as terbina)ne, griseofulvin, or itraconazole
+
+============================================================
+CHUNK 6
+============================================================
+INTRODUCTION
+The  dermatophytes  cause  infections  (ringworm  or  tinea)  that  are confined to the superficial stratum corneum, as well as keratinized structures, for example hair or nail arising from skin [1]. In temperate climates, tinea pedis affects the interdigital spaces on the feet and is the  most  common  symptomatic  form  of  ringworm  in  the  tropics, however, groin, body, and scalp infections are more prevalent. Infections are derived from three main sources - humans (anthropophilic), animals (zoophilic), and soil (geophilic). Zoophilic infections tend to produce lesions of the scalp or body and are often highly inflammatory. The anthropophilic organisms can cause lesions in any site and, depending on the species involved, the inflammatory response is  often minimal. Organisms originating from soil are uncommon. The fungi that cause dermatophyte infections in humans are confined to three genera, defined by culture or genetic characteristics: Trichophyton, Microsporum , and Epidermophyton .
+
+============================================================
+CHUNK 7
+============================================================
+EPIDEMIOLOGY
+The  most  common  cause  of  ringworm  worldwide  is Trichophyton rubrum (Table 77-1). Trichophyton violaceum has been isolated predominantly  from  patients  in  India  and  the  Far  and  Middle East.
+Distribution  of  agents  of  scalp  ringworm  throughout  the  tropical world  is  complex  [2].  In  sub-Saharan  Africa,  there  is  considerable variation in the types of scalp ringworm. Frequently, small pockets of infection  with  distinct  organisms  occur,  for  example Microsporum audouinii in  West  Africa  and T.  violaceum in  North  Africa,  India, East Africa, and the Middle East. The factors underlying this pattern include the stability of the population, absence of control measures and,  on  occasion,  spread  via  external  agents,  such  as  hairdressers' equipment [3].
+TABLE 77-1 The Most Common Dermatophyte Fungi in the Tropics, 1 = TABLE 77-1 The Most Common Dermatophyte Fungi in the Tropics. TABLE 77-1 The Most Common Dermatophyte Fungi in the Tropics, 2 = TABLE 77-1 The Most Common Dermatophyte Fungi in the Tropics. Genus, 1 = Species. Genus, 2 = Source. Trichophyton, 1 = Trichophyton. Trichophyton, 2 = Trichophyton. , 1 = T. rubrum. , 2 = Humans. , 1 = T. mentagrophytes. , 2 = Humans, rodents, cats, dogs. , 1 = T. tonsurans. , 2 = Humans. , 1 = T. concentricum. , 2 = Humans. , 1 = T. violaceum. , 2 = Humans. Microsporum, 1 = T. soudanense. Microsporum, 2 = Humans. Epidermophyton, 1 = M. audouinii. Epidermophyton, 2 = Humans. Epidermophyton, 1 = M. canis. Epidermophyton, 2 = Cats, dogs. Epidermophyton, 1 = M. gypseum. Epidermophyton, 2 = Soil. Epidermophyton, 1 = E. GLYPH<c=29,font=/CIDFont+F3>occosum. Epidermophyton, 2 = Humans
+
+============================================================
+CHUNK 8
+============================================================
+EPIDEMIOLOGY
+FIGURE 77.1 Tinea imbricata, caused by T. concentricum ,  is  characterized by concentric rings of scales (image courtesy of the Armed Forces Institute of Pathology, Photograph Neg. No. 39237).
+Two non-dermatophyte fungi ( Scytalidium dimidiatum and Scytalidium hyalinum )  cause  infections  that  closely  resemble  the  dry  type  of palmar, plantar, interdigital and nail infections caused by T. rubrum [5].
+
+============================================================
+CHUNK 9
+============================================================
+TINEA CRURIS (RINGWORM OF THE GROIN)
+Dermatophyte  infections  of  the  groin  are  frequently  seen  in  the tropics. A ring of itchy erythema with a scaling margin radiates from the groin down the inner border of the thigh (Fig. 77.2). Tinea cruris is more common in males and may extend posteriorly to include the intergluteal  cleft.  In  women  in  tropical  areas,  an  extensive  form  of ringworm may be found in the waist area that involves a large part of the skin surface around the hip girdle. Candida intertrigo may closely resemble tinea cruris.
+
+============================================================
+CHUNK 10
+============================================================
+TINEA CORPORIS (RINGWORM OF THE BODY)
+The characteristic lesion of dermatophyte infection on trunk or limbs is an annular plaque with a varying degree of erythema and a prominent  edge  (kerion)  (Fig.  77.3).  Scaling  is  most  prominent  at  this
+FIGURE 77.2 Tinea cruris caused by T. rubrum (image courtesy of the St John's Institute of Dermatology, London).
+FIGURE 77.3 Tinea  corporis caused by T.  rubrum (image courtesy of the St John's Institute of Dermatology, London).
+margin [6]; however, appearance varies with the organism and host. Particularly in the tropics, T. rubrum can be associated with persistent and minimally inflammatory tinea corporis. Discoid eczema, impetigo, psoriasis, and discoid lupus erythematosus can be mistaken for ringworm.
+
+============================================================
+CHUNK 11
+============================================================
+TINEA CAPITIS (RINGWORM OF THE SCALP)
+Invasion of scalp hairs is seen with certain dermatophytes. In some, particularly those spread from animals, scalp hairs often break several millimeters above  the  skin  surface.  There  can  be  considerable exudation  and  erythema.  In  other  infections,  including  many  of those spread from child to child, the onset is insidious. Hairs break at scalp level and inflammation can be minimal. Most cases present with hair loss, usually in patches, and a varying degree of scaling (Fig. 77.4).  However,  kerions  (very  inflammatory  pustular  lesions)  can develop.
+FIGURE 77.4 Tinea capitis, caused by Microsporum audouinii , presents with multiple patches of alopecia with scaling in this boy (image courtesy of the Armed Forces Institute of Pathology, Photograph Neg. 7-6860).
+Favus,  a  scalp  infection  seen  in  some  parts  of  Africa,  for  example Ethiopia,  presents with hair loss accompanied by the formation of crusts  or  scutula.  These  tend  to  coalesce  to  form  a  dense  mat  in patches or large areas of the scalp. The diagnosis of tinea capitis is facilitated  by  filtered  ultraviolet  light  examination  (Wood's  light), although only Microsporum species fluoresce under these conditions. Ringworm of the scalp must be distinguished from seborrheic dermatitis,  psoriasis,  or  cicatricial  alopecia.  The  last  may  be  produced  in end-stage favus.
+
+============================================================
+CHUNK 12
+============================================================
+ONYCHOMYCOSIS
+Dermatophyte invasion of the nails is uncommon in the tropics. The nail  plate  is  invaded  from  the  distal  border  and  lateral  surfaces, usually from the underside. The affected nail becomes thickened and opaque  with  a  varying  degree  of  onycholysis.  Patients  often  have infection of other sites, such as the soles or toe webs. In addition to psoriasis, other fungal infections, for example candida or Scytalidium , must be differentiated from onychomycosis caused by dermatophytes [7].
+
+============================================================
+CHUNK 13
+============================================================
+DERMATOPHYTOSIS OF OTHER SITES
+Dermatophytosis  of  the  beard  area  (tinea  barbae)  may  be  highly inflammatory  and  persistent.  Involvement  of  the  palms  is  most
+
+============================================================
+CHUNK 14
+============================================================
+Key features
+- Caused by yeast fungi
+- Patients, apart from those with vulvo-vaginal infection, usually have a predisposing reason for candidiasis
+- Oral infection can be an early sign of AIDS
+- Avoid long-term treatment (more than 1 month) with *uconazole if the infection is not responding as drug resistance can develop
+commonly with T. rubrum . Often, only one hand is involved and the fingernails on that side may be invaded. The palm shows mild scaling similar to the dry type of sole infection.
+
+============================================================
+CHUNK 15
+============================================================
+DIAGNOSIS
+Although not essential, laboratory diagnosis is helpful as the clinical diagnosis  is  not  always  reliable  -  particularly  in  scalp  ringworm. Scrapings or a hair sample can be taken from the lesion with a scalpel, mounted  in  10%  potassium  hydroxide  and  examined  with a microscope.
+
+============================================================
+CHUNK 16
+============================================================
+CULTURE
+Scrapings or hairs can be plated onto Sabouraud's agar. Their gross and microscopic appearance, as well as nutritional requirements, are used  in  identification.  Molecular  probes  can  identify  and  type organisms.
+
+============================================================
+CHUNK 17
+============================================================
+TOPICAL THERAPY
+Dermatophytoses can be treated topically. Topically applied dyes are known to have weak antifungal properties and may be sufficient to treat  some  dermatophytes,  for  example  tinea  cruris.  Gentian  violet and magenta paint are examples. Whitfield's ointment (BPC), which contains 3% salicylic acid and 3% benzoic acid, is a weak antifungal agent  but  is  inexpensive  and  effective  in  treating  all  dermatophyte infections apart from scalp or nail disease, or kerion.
+
+============================================================
+CHUNK 18
+============================================================
+TOPICAL ANTIFUNGALS
+Antifungal  compounds  include  imidazole  creams  or  ointments (miconazole,  clotrimazole,  econazole,  and  bifonazole)  and  terbinafine [8]. All are available for topical therapy in 1-2% concentration. Many are also effective against  candidiasis and pityriasis versicolor. Topical antifungals have no place in the management of tinea capitis.
+
+============================================================
+CHUNK 19
+============================================================
+SYSTEMIC THERAPY
+For nail and scalp disease, or extensive or severe infections, including kerion, systemic treatment is necessary. Griseofulvin is given in a daily dose of 500-1000 mg in adults or 10 mg/kg in children. For scalp infections, 6-8 weeks of treatment are usually necessary. More rapid treatment for  these  indications  is  provided  by  terbinafine  (250 mg daily) and itraconazole (100-400 mg daily) [9]. These agents shorten the treatment period and provide effective therapy; however, they are more expensive than griseofulvin.
+
+============================================================
+CHUNK 20
+============================================================
+DEFINITION
+Superficial infections  caused by species of the genus Candida .  They include thrush and vaginal candidiasis, as well as interdigital candidiasis [10].
+
+============================================================
+CHUNK 21
+============================================================
+EPIDEMIOLOGY
+Candidiasis  occurs  throughout  the  world .  Candida  albicans is  the organism  most  commonly  associated  with  superficial  candidiasis; however, other species, such as Candida tropicalis or Candida guilliermondii , can be involved. Candida albicans is a common saprophyte on mucosal surfaces, particularly in the mouth, gastrointestinal tract, and
+
+============================================================
+CHUNK 22
+============================================================
+TABLE 77-2 Predisposing Factors in Super1cial Candidiasis
+Infancy, pregnancy, old age
+Occlusion of epithelial surfaces, for example by dentures, occlusive dressings
+Disorders of immune function
+Primary, for example chronic granulomatous disease Secondary, for example HIV/AIDS, leukemia, corticosteroid therapy
+Chemotherapy
+Immunosuppressive
+Antibiotic
+Endocrine disease, for example diabetes mellitus
+Carcinoma
+Miscellaneous, for example damaged nail folds vagina.  Oral  colonization  may  begin  in  infancy,  although  its  incidence is increased by a number of factors, including hospitalization and bottle-feeding. Candida albicans can be isolated from the environment, often where contact  with humans is  frequent,  such  as wash basins and drinking bowls.
+
+============================================================
+CHUNK 23
+============================================================
+NATURAL HISTORY AND PATHOGENESIS
+When C. albicans causes  infection  as  opposed  to  colonization,  it  is usually in individuals with predisposing factors (Table 77-2). Some of these factors are systemic and others relate to local conditions on the skin or mucosa. The effect of climate on infection is unknown, although in the tropics there is a high incidence of saprophytic carriage of Candida species.
+
+============================================================
+CHUNK 24
+============================================================
+ORAL CANDIDIASIS (THRUSH)
+This  is  common,  particularly  in  the  elderly,  infants,  and  denture wearers [1 1]. It can follow immunosuppression or antibiotic therapy and is an important marker of AIDS. Infection presents with solitary or confluent white plaques on the oral mucosa (pseudomembranous candidiasis).  Alternatively,  the  mucosa  may  appear glazed and erythematous  (erythematous  candidiasis).  Oral  candidiasis  in  AIDS patients in the tropics is often accompanied by esophageal infection [12]. One of the earliest features of oral candidiasis is the appearance of cracking at the angles of the mouth, or angular cheilitis.
+
+============================================================
+CHUNK 25
+============================================================
+Key features
+- Very common in the tropics
+- Di+use hypo- or hyper-pigmented non-itchy scales on upper trunk
+- Responds to selenium sul)de or topical azole creams
+- Relapse is common
+
+============================================================
+CHUNK 26
+============================================================
+VAGINAL CANDIDIASIS
+Vaginal  infection  with Candida is  common  and  although it can  be associated  with  diabetes  and  the  third  trimester  of  pregnancy,  the majority of those affected have no obvious underlying abnormality. The  symptoms  of  vaginal  candidiasis  are  irritation  and  discomfort associated  with  a  creamy  discharge.  Similar  to  oral  infection,  the vaginal mucosa can be covered with small white plaques or become red and friable. Infection must be distinguished from Trichomonas and gonorrhea. Candidiasis of the groin is erythematous with a prominent border. Small 'satellite' pustules or crusts are often seen outside this border.
+
+============================================================
+CHUNK 27
+============================================================
+PARONYCHIA AND CANDIDA ONYCHOMYCOSIS
+Infection of the nail folds by Candida species is a cause of paronychia. The periungual skin is raised and painful, and a prominent gap develops between the fold and the nail plate. Rarely, invasion of the nail plate with onycholysis occurs. The condition is caused by a number of factors, including bacterial infection, although women with heavy domestic responsibilities (e.g. washing, cooking) seem to be predisposed. Superficial erosion on the web space between the fingers can also be caused by Candida infection in the tropics.
+
+============================================================
+CHUNK 28
+============================================================
+CANDIDA INTERTRIGO
+Candida intertrigo is the name given to a painful or irritative inflammatory dermatosis confined to body folds; secondary bacterial infections  can  contribute  to  the  process.  Infection  is  most  common  in overweight or diabetic subjects.
+
+============================================================
+CHUNK 29
+============================================================
+DIAGNOSIS
+Laboratory diagnosis is made by demonstration of Candida in potassium hydroxide wet mounts. Yeast and hyphal forms are both seen. Candida can be cultured on Sabouraud's agar.
+
+============================================================
+CHUNK 30
+============================================================
+TREATMENT
+Topical  treatment  with  gentian  violet  is  effective  in  some  patients. However,  locally  applied  amphotericin,  nystatin,  or  an  imidazole preparation  is  preferable,  and  powders,  lotions,  and/or  pessaries (vaginal tablets) are available. Oral treatments for superficial candidiasis are fluconazole, itraconazole, voriconazole, posaconazole, and ketoconazole. These are best reserved for severe oral or chronic forms of candidiasis. AIDS patients with oral candidiasis should usually be treated  with  fluconazole,  but  may  respond  to  topical  therapy  [13]. Resistance  to  fluconazole  can  develop  if  the  drug  is  continuously employed  in  clinically  unresponsive  infection.  Vaginal  infections respond to intensive topical therapy given for 3-5 days using a combination of cream and pessaries; however, a single dose of fluconazole is more effective and convenient.
+
+============================================================
+CHUNK 31
+============================================================
+INTRODUCTION
+Pityriasis versicolor is caused by the lipophilic yeast, Malassezia , and is  widespread in the tropics. Malassezia species are present as saprophytes on normal skin. There are at least six species commonly found. Development of pityriasis versicolor lesions is usually accompanied by the formation of short, stubby hyphae. Rarely, disease can occur in  immunocompromised  individuals,  although  seldom  in  HIV infection.
+
+============================================================
+CHUNK 32
+============================================================
+EPIDEMIOLOGY
+Infection occurs throughout the world and is extremely common in the  tropics  where,  in  some  areas,  60%  of  the  population  may  be infected.
+
+============================================================
+CHUNK 33
+============================================================
+PATHOLOGY AND PATHOGENESIS
+Malassezia normally inhabits the superficial layers of keratin, particularly around the orifices of hair follicles [14].
+The development of hyphal forms can be observed during immunosuppressive therapy, which suggests that immune factors play a role in preventing infection. Exposure to sunlight, heat, and humidity, as well as locally applied oils, have been thought to be risk factors.
+
+============================================================
+CHUNK 34
+============================================================
+CLINICAL MANIFESTATIONS
+The lesions of pityriasis versicolor are small, scaling macules that are hypopigmented or hyperpigmented (Fig. 77.5) [15]. Scaling is usually not prominent but can be elicited by scratching affected areas. This feature is helpful in distinguishing this infection from other types of macular  pigmentary  disorders,  for  example  vitiligo.  Under  Wood's light, the patches can fluoresce pale yellow. The areas most commonly infected are the upper trunk,  neck, and upper arms. In the tropics, infection can extend beyond these areas to involve the face, abdomen, lower arms, and penis. The rash is rarely symptomatic but may cause concern  because  of  its  superficial  resemblance  to  certain  types  of leprosy.
+
+============================================================
+CHUNK 35
+============================================================
+DIAGNOSIS
+The diagnosis can be confirmed by demonstration of clusters of yeast and pseudo-hyphae in potassium hydroxide mounts. Recognition of
+
+============================================================
+CHUNK 36
+============================================================
+BLACK PIEDRA
+Black piedra is an uncommon, persistent infection confined to hair shafts and is seen in small endemic areas in the tropics, for example Latin America or Central Africa. Individual or case clusters can occur. The hallmark of this condition is the presence of small, gritty nodules on  hair  shafts.  These  represent  areas  of  hyphal  invasion  in  which characteristic spores (ascospores) of the organism Piedraia hortae can be found.
+
+============================================================
+CHUNK 37
+============================================================
+WHITE PIEDRA
+White piedra is caused by the yeasts Trichosporon  inkin,  Trichosporon ashasii , or Trichosporon mucoides . The clinical appearances are similar to those of black piedra, although the swellings are 'softer' and pale [16]. The infected sites may involve hair on the scalp, groin or, rarely, the axillae. Infections are not commonly diagnosed, but have been recognized in different climates, from temperate to tropical.
+
+============================================================
+CHUNK 38
+============================================================
+TINEA NIGRA
+Tinea nigra is a superficial tropical infection caused by a black yeast, Phaeoanellomyces werneckii and is associated with focal areas of hyperpigmentation, usually on the palms or soles [17]. Infection is primarily  in  Central  and  South  America,  as  well  as  in  the  Far  East. Characteristically,  the  lesion  is  a  dark  brown  or  black  stain  that appears on the palms or the soles and, on rare occasions, elsewhere. There is little scaling and multiple lesions are rare. The diagnosis can be  confirmed  by  demonstration  of  characteristic  darkly  pigmented
+FIGURE 77.5 Pityriasis  (tinea)  versicolor on  the  chest (image courtesy of the St John's Institute of Dermatology, London).
+the fungi is facilitated  by  the  addition  of  equal  quantities of blueblack ink to the potassium hydroxide.
+
+============================================================
+CHUNK 39
+============================================================
+TREATMENT
+Application  of  2.5%  selenium  sulfide  twice  daily  for  7-10  days  is usually effective.  The response to a topical imidazole may be more rapid,  and  5  days  of  200 mg  itraconazole  is  also  reported  to  be effective.
+arthrospores in scrapings. The infection responds well to Whitfield's ointment.
+
+============================================================
+CHUNK 40
+============================================================
+REFERENCES
+1. Graser Y, de Hoog GS, Summerbell RC. Dermatophytes: recognizing species of clonal fungi. Med Mycol 2006;44:199-209.
+2. Elewski  BE.  Tinea  capitis:  a  current  perspective.  J  Am  Acad  Dermatol 2000;42:1-20.
+3. Gugnani  HC,  Njoku-Obi  ANU.  Tinea  capitis  in  school  children  in  East Nigeria. Mykosen 1986;29:132-44.
+4. Howell SA, Clayton YM, Phan QG, Noble WC. Tinea pedis: The relationship between symptoms, organisms and host characteristics. Microbiol Ecol Health Dis 1988;1:131-5.
+5. Hay RJ, Moore MK. Clinical features of superficial fungal infections caused by Hendersonula  toruloidea and Scytalidium  hyalinum .  Br  J  Dermatol  1984;1 10: 677-83.
+6. Hay RJ. Fungal infections. Clin Dermatol 2006;24:201-12.
+7. Roberts  DT.  Onychomycosis:  current  treatment  and  future  challenges.  Br  J Dermatol 1999;141(suppl. 56):1-4.
+8. Wright  S,  Robertson  VJ.  An  institutional  survey  of  tinea  capitis  in  Harare, Zimbabwe and a trial of miconazole cream versus Whitfield's ointment in its treatment. Clin Exp Dermatol 1986;11:371-7.
+9. Fuller LC, Smith CH, Cerio R, et al. A randomized comparison of 4 weeks of terbinafine vs. 8 weeks of griseofulvin for the treatment of tinea capitis. Br J Dermatol 2001;144:321-7.
+10.  Edwards JE. Candida species. In: Mandell GL, Bennett JE, Dolin R, eds. Principles  and  Practice  of  Infectious  Diseases,  7th  edn.  Philadelphia:  Churchill Livingstone; 2010:3225-40.
+11.  Samaranayake LP, Yaacob HB. Classification of oral candidiasis. In: Samaranayake LP, MacFarlane TW, eds. Oral Candidiasis. London: Wright; 1990.
+
+============================================================
+CHUNK 41
+============================================================
+REFERENCES
+12.  Khongkunthian  P,  Grote  M,  Isaratanan  W.  Oral  manifestations  in  45  HIVpositive children from Northern Thailand. J Oral Pathol  Med  2001; 30:549-52.
+13.  Mofenson LM, Brady MT, Danner SP, et al. Guidelines for the Prevention and Treatment of Opportunistic Infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics. MMWR Recomm Rep 2009;58:1-166.
+14.  Ashbee HR. Recent developments in the immunology and biology of Malassezia species. FEMS Immunol Med Microbiol 2006;47:14-23.
+15.  Crespo Erchiga  V,  Delgado  Florencio  V. Malassezia species  in  skin  diseases. Curr Opin Infect Dis 2002;15:133-42.
+16.  Therizol-Ferly  M,  Kombila  M,  Gomez  de  Diaz  M,  et  al.  White  piedra  and Trichosporon species  in  equatorial  Africa:  1.  History  and  clinical  aspects:  an analysis of 449 superficial inguinal specimens. Mycoses 1994;37:249-53.
+17.  Perez C, Colella MT, Olaizola C, et al. Tinea nigra: report of twelve cases in Venezuela. Mycopathologia 2005;160:235-8.
+

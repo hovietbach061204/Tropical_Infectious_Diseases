@@ -1,0 +1,1266 @@
+============================================================
+CHUNK 0
+============================================================
+34.1 Rabies and Related Viruses
+Mary J Warrell, David A Warrell
+
+============================================================
+CHUNK 1
+============================================================
+Key features
+- The genus Lyssavirus of the Rhabdoviridae includes rabies and rabies-related viruses, causing at least 55,000 human deaths annually, mainly in Asia and Africa
+- The greatest threat of rabies to man is the persistent cycle of infection in stray dogs, but several other terrestrial mammal species are reservoirs and there is evidence of widespread infection in bats. In the Americas, bat viruses are classic genotype 1 rabies. Elsewhere, all bat lyssaviruses are other genotypes (rabies-related viruses)
+- Rabies virus can penetrate broken skin and intact mucosae. Humans are usually infected when virus-laden saliva is inoculated through the skin by the bite of a rabid animal
+- After a variable, often prolonged, incubation period, signs of furious or paralytic rabies portend a rapidly fatal course. The mechanism of neuronal dysfunction is unknown
+- In developing countries, diagnosis relies on recognition of hydrophobic spasms or other clinical features. Paralytic disease is less easily identiJed and is misdiagnosed globally. The diagnosis can be made during life, but lack of facilities often hampers conJrmation of disease
+- An unvaccinated patient bitten by a bat in North America has recovered from rabies encephalitis following intensive care. Clinically and experimentally the American bat strains of rabies genotype 1 viruses are less pathogenic; dog rabies virus infection remains universally fatal in humans. No treatment has proved eIective experimentally and intensive care therapy is rarely indicated
+- Ninety-nine percent of human deaths could be prevented by controlling the transmission of dog rabies, but education and resources are lacking. Combined pre- and postexposure prophylaxis has proved 100% eIective in humans. Pre-exposure immunization should be encouraged, but the cost may be prohibitive. Intradermal post-exposure vaccine regimens could increase the aIordability of treatment
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+Rabies  is  a  zoonosis  of  wild  and  domestic  mammals  that  may be  transmitted  to  humans,  usually  by  the  bite  of  a  rabid  dog.
+Rabies viruses are bullet-shaped, single-stranded, negative-sense RNA viruses.
+Encephalitis caused by dog rabies virus is invariably fatal in humans. The disease is enzootic in certain carnivore and bat species throughout most parts of the world. The highest human rabies mortality is in  developing  countries  where  rabies  is  uncontrolled  in  domestic dogs. Rabies and six genotypes of rabies-related viruses comprise the genus Lyssavirus of the Rhabdoviridae.
+
+============================================================
+CHUNK 3
+============================================================
+EPIDEMIOLOGY
+Rabies is enzootic worldwide [1] with the exception of Antarctica and a  number of islands, including Iceland, Ireland, New Guinea, New Zealand, Japan, Taiwan, Singapore and some Mediterranean and Caribbean  islands.  Western  Europe  and  Australia  are  free  of  rabies  in terrestrial mammals but bats may harbor rabies-related lyssaviruses. Human rabies is generally under-reported. A conservative estimate of annual mortality in Asia and Africa is 55,000. Countries with a high incidence of human rabies include India, Pakistan and Bangladesh. In the USA, 42 cases were recognized in the last 15 years; 21% were infected abroad. Ninety-seven percent of indigenous infections were due to bat rabies viruses.
+The major reservoir and vector of rabies is the domestic dog, causing > 99% of human infections. Sylvatic rabies occurs predominantly in skunks,  raccoons,  foxes  and  insectivorous  bats  in  North  America; foxes in the Arctic; mongooses in some Caribbean islands; vampire bats in Latin America and Trinidad; jackals, wolves and small carnivores  in  Africa  and  Asia;  and  foxes,  wolves  and  raccoon  dogs  in Europe. Transmission occurs to vectors, for example cats which may infect humans, but there is no cycle of infection within vector species. Vampire bats ( Desmodontinae ) are confined to southern Texas, Mexico, Central and South America, and some Caribbean islands. They feed on, and infect cattle, resulting in the loss of 100,000 cattle per year. Recent outbreaks of vampire bat rabies in humans occurred in Peruvian jungle areas, possibly as a result of disturbances of bat ecology. The reservoirs and distribution of rabies-related viruses [1] are listed in Table 34.1-1.
+In  dogs,  the  incubation  period  is  usually  between  2  weeks  and  4 months.  The  symptoms  include  a  change  in  behavior,  fever  and intense irritation at the site of the bite. Dogs can become aggressive or, more often, have paralytic or 'dumb' rabies with dysphagia and drooling of saliva. Virus may be excreted in the saliva for 2 or 3 days before there are signs of rabies and the animal usually dies within the next 7 days. Hydrophobia is not seen in animals but the inability to drink is a common symptom of rabies.
+
+============================================================
+CHUNK 4
+============================================================
+EPIDEMIOLOGY
+Human rabies usually results from inoculation of virus-bearing saliva through the skin by the bite of a rabid dog. Scratches, abrasions and
+
+TABLE 34.1-1 Lyssaviruses Causing Human Disease
+
+============================================================
+CHUNK 5
+============================================================
+EPIDEMIOLOGY
+1, Virus = Rabies. 1, Where virus found = Terrestrial mammals and bats in Americas. 1, Geographic range = Widespread. 1, Human disease (number of reported cases) = Furious or paralytic. 3, Virus = Mokola*. 3, Where virus found = Shrew, mouse, cat, dog. 3, Geographic range = Nigeria, Cameroon, Central African Republic, Ethiopia, Zimbabwe, Southern Africa. 3, Human disease (number of reported cases) = . , Virus = . , Where virus found = Human. , Geographic range = Nigeria. , Human disease (number of reported cases) = Febrile convulsion, pharangitis † Fatal paralytic encephalitis † (1, 2). 4, Virus = Duvenhage. 4, Where virus found = Insectivorous bat, fruit bat. 4, Geographic range = South Africa, Zimbabwe. 4, Human disease (number of reported cases) = . , Virus = . , Where virus found = Human. , Geographic range = South Africa, Kenya. , Human disease (number of reported cases) = Furious rabies (1, 2, 6). 5, Virus = European bat lyssavirus 1. 5, Where virus found = Insectivorous bat. 5, Geographic range = Across Continental Europe into Russia. 5, Human disease (number of reported cases) = . , Virus = . , Where virus found = Human. , Geographic range = Russia. , Human disease (number of reported cases) = Furious/paralytic rabies (2). 6, Virus = European bat lyssavirus 2. 6, Where virus found = Insectivorous bat. 6, Geographic range = Netherlands, Ukraine, Germany, UK, Switzerland, Finland. 6, Human disease (number of reported cases) = . , Virus = . , Where virus found = Human. , Geographic range = Finland, UK. , Human disease (number of reported cases) = Furious/paralytic rabies (2). 7, Virus = Australian bat lyssavirus. 7, Where virus found = Fruit bats, insectivorous bat. 7, Geographic range = Australia. 7, Human disease (number of reported cases) = . , Virus = . , Where virus found = Human. , Geographic range = Australia. , Human disease (number of reported cases) = Furious/paralytic rabies (2)
+
+============================================================
+CHUNK 6
+============================================================
+EPIDEMIOLOGY
+*Mokola virus is in a separate phylogroup, less pathogenic than other genotypes and does not cross-neutralize with rabies, or rabies vaccines.
+† Questionable diagnosis.
+other wounds (also intact mucosal membranes) can be contaminated with infected saliva. Rare modes of infection are: transplantation of infected organ grafts from donors who had died of unsuspected rabies [2];  inapparent  contact  with  bats  in  caves;  and  inhalation  of  virus aerosols as a result of laboratory accidents. Despite a single report of congenital or neonatal infection, many infants of infected mothers have remained healthy. No transmission of infection to hospital staff or other carers has been recorded [3].
+
+============================================================
+CHUNK 7
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+Following inoculation, rabies virus may replicate locally in myocytes before entering peripheral motor neurons by endocytosis. It is conveyed  by  the  retrograde  axonal  transport  mechanism  towards  the central  nervous  system  (CNS)  via  transsynaptic  spread.  The  virus remains intraneuronal, with massive replication in the brain [4]. Centrifugal spread of virus from the CNS along nerves infects the salivary glands (where it is shed and, in infected animals, spread by the bite), lacrimal glands, skin, respiratory tract, myocardium and many other tissues. In animals, virus is detectable in the skin before the development of symptoms.
+Histopathologic  changes  may  be  surprisingly  mild  in  victims.  In furious rabies, the midbrain and medulla are mainly involved, and, in  paralytic  rabies,  the  spinal  cord.  Changes  include  ganglion  cell degeneration, perineural and perivascular mononuclear cell infiltration, neuronophagia and the formation of glial nodules. Negri bodies, the characteristic intracytoplasmic inclusion bodies, are viral factories containing RNA and accumulated viral proteins.
+In unvaccinated patients with rabies encephalomyelitis, no antibody response is detectable in serum or cerebrospinal fluid (CSF) until the second week of illness and may not appear before death. Experimentally,  neutralizing  antibody  in  the brain  is associated with survival. Following  vaccination,  viral  glycoprotein  induces  neutralizing  antibody, which is protective against disease.
+
+============================================================
+CHUNK 8
+============================================================
+CLINICAL MANIFESTATIONS
+The incubation period is usually between 20 and 90 days (extreme range, 4 days to > 19 years). Relatively short incubation periods are observed  after  facial  and  severe  multiple  bites.  The  prodromal symptom most suggestive of rabies encephalitis is paresthesia, especially itching, at the site of the healed bite wound. Other early symptoms include fever, mood changes and nonspecific upper respiratory tract or gastrointestinal symptoms. The determinants of the clinical forms of rabies, furious (agitated) and paralytic (dumb) are unknown, but both viral and host factors, and possibly the route of infection, are suspected.
+
+============================================================
+CHUNK 9
+============================================================
+Furious Rabies [5]
+This is the more commonly recognized presentation. After a few days of prodromal symptoms, the pathognomonic symptom and sign of hydrophobia or aerophobia develops (Fig. 34.1.1). A series of forceful, jerky, inspiratory spasms is provoked either by attempts to drink water or by a draft of air on the face. Both reflexes are associated with a  compelling,  but  inexplicable  terror.  Splashing  water  on  the  skin, irritation of the respiratory tract, or, by conditioning, the sight, sound, or  even  the  mention  of  water  may  provoke  a  hydrophobic  spasm. Patients  also  experience  episodic  generalized  arousal  during  which they  become  wild,  hallucinated  and  sometimes  aggressive.  During lucid intervals, they cerebrate normally and are aware of their terrible predicament. Neurologic abnormalities include meningism, cranial nerve lesions, upper motor neuron lesions, fasciculation and involuntary  movements.  Generalized  hyperesthesia  or  hyperacusis  is described. Hypersalivation, lacrimation (Fig. 34.1.2), sweating, fluctuating blood pressure and body temperature, and diabetes insipidus, or  rarely,  inappropriate  secretion  of  antidiuretic  hormone,  suggest disturbances of the hypothalamus. Lesions of the amygdaloid nuclei probably  account  for  increased  libido,  priapism  and  spontaneous orgasms. Without intensive care, most patients die within a few days
+FIGURE 34.1.1 Hydrophobic spasm ending in opisthotonos in an African boy with furious rabies. (Courtesy of David A Warrell)
+FIGURE 34.1.2 Hypersalivation, lacrimation  and sweating  in a Thai man with furious rabies. (Courtesy of David A Warrell)
+of  developing  hydrophobia. About a third of patients  die during a hydrophobic spasm, whereas the others lapse into coma with various abnormalities of respiratory rhythm.
+
+============================================================
+CHUNK 10
+============================================================
+Paralytic Rabies [5]
+This is less distinctive and is undoubtedly under-diagnosed. Almost all the cases of rabies transmitted by vampire and other bats in the Americas  were  of  this  type.  After  the  usual  prodromal  symptoms, especially  fever,  headache  and  local  paresthesia,  flaccid  paralysis develops (usually in the bitten limb) and ascends symmetrically or asymmetrically  with  pain  and  fasciculation in  the  affected  muscles and mild sensory disturbance. Paraplegia and sphincter involvement then develop and finally fatal paralysis of deglutitive and respiratory muscles. Hydrophobia is rare. Patients may survive for a month, even without intensive care.
+
+============================================================
+CHUNK 11
+============================================================
+Complications of Prolonged Survival [5]
+Patients with rabies whose lives are prolonged by intensive care may develop a wide range of complications, including: aspiration pneumonia; pneumothorax; respiratory failure; cardiac arrhythmias; hypotension;  pulmonary  edema;  myocarditis  with  congestive  cardiac failure;  generalized  convulsions;  cerebral  edema;  polyneuropathy; and hematemesis associated with ulceration or tears in the mucosa of the upper gastrointestinal tract.
+
+============================================================
+CHUNK 12
+============================================================
+Infections by Rabies-Related Viruses
+(Table 34.1-1) [1, 2, 6]
+These are clinically indistinguishable from rabies genotype 1 encephalitis, but they are unlikely to be recognized, as rabies is almost always diagnosed clinically in Asia and Africa. The diagnostic rabies immunofluorescent antigen test (IFAT) may be weakly positive or negative. Few laboratories are equipped to identify other genotypes.
+
+============================================================
+CHUNK 13
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS [4]
+Rabies should be suspected in any patient who develops neurologic symptoms more than a week after being bitten by a mammal, but there  may  be  no  history  of  exposure,  especially  after  bat  contact. Rabies  is  often  misdiagnosed.  In  patients  with  furious  rabies,  the alteration  in  mood,  hallucinations  and  bizarre  behavior  may  raise suspicions  of  psychiatric  disease,  hysteria,  malingering  or  rabies phobia. Other patients are referred to otolaryngologists. The spasms of tetanus may resemble hydrophobia, especially if they involve the pharyngeal  muscles  (cephalic  tetanus).  The  combination  of  severe brain  stem  encephalitis  with  full  consciousness  in  rabies  is  rare  in other  encephalitides,  but  has  been  described  in  serum  sickness. Various poisons, drugs and plant toxins, including strychnine, phenothiazines,  atropine-like  compounds,  cannabis  and  ethanol,  can produce syndromes of muscle spasm, agitation, hallucinations, psychiatric disturbances, signs of autonomic nervous system stimulation and convulsions.  Paralytic  rabies  should  be  considered  in  patients with  rapidly  ascending  (Landry  type)  flaccid  paralysis,  suspected Guillain-Barré syndrome and transverse myelitis. Poliomyelitis is distinguished by the lack of sensory abnormalities. Cercopithecine herpesvirus encephalomyelitis, very rarely transmitted by monkey bites, has an incubation period of only a few days.
+
+============================================================
+CHUNK 14
+============================================================
+DIAGNOSIS
+In humans, rabies encephalitis can be best confirmed rapidly during life  by  tests  on  skin  biopsy or  saliva  samples (Table 34.1-2) [2, 3]. Rabies  virus  may  be  isolated  early  in  the  illness,  before  antibody appears. Pleocytosis may be absent initially. Brain imaging gives variable results.
+
+============================================================
+CHUNK 15
+============================================================
+PROGNOSIS
+In  unvaccinated  people  infection  with  canine  rabies  virus  remains universally fatal. However, prolonged survival or recovery from rabies [2] has been reported in eight patients. All were diagnosed serologically  and  no  virus  or  antigen  was  identified.  Five  had  been  given pre-  or  post-exposure  vaccine  and  survived  months  or  years  with profound neurologic impairment.
+A boy bitten by a bat in Ohio in 1970, was vaccinated late, treated with intensive care and made a complete recovery. The first unvaccinated  patient  to  survive  rabies  was  bitten  by  a  bat  in  Milwaukee, Wisconsin in 2004 [7]. She developed typical encephalitis, without hydrophobia. Rabies antibody was already detectable on the sixth day of illness. Following intensive care treatment (ICT), including coma induction and nonspecific antiviral therapy, she recovered with only minimal neurologic deficits. Both these patients are likely to have had antibody  at  an  early  stage  of  the  disease,  and  treatment  probably maintained vital functions until the immune response, including neutralizing antibody, eliminated the  virus, with  some  loss  of infected neurons.  Experimental  evidence  suggests  that  American  bat  rabies viruses are less pathogenic than canine and other terrestrial mammal strains-although they are all Genotype 1 viruses, they form a genetically distinct group.
+In a remarkable report, a teenager in Texas in 2009 mentioned bats hitting  her  in  a  cave.  Two  months  later,  headaches,  photophobia, vomiting and parasthesiae of face and forearms developed, with rightsided weakness. She had lymphocytic pleocytosis and a trace of rabies antibody was detected in serum and CSF but no antigen or virus was
+
+============================================================
+CHUNK 16
+============================================================
+PROGNOSIS
+TABLE 34.1-2 Laboratory Diagnostic Methods
+
+Full thickness skin* punch biopsy,  = Antigen detection. Full thickness skin* punch biopsy, Method = IFA test on frozen section † RT-PCR. Saliva or throat swab* Tears CSF,  = Virus isolation and antigen detection. Saliva or throat swab* Tears CSF, Method = Tissue culture Mouse inoculation test RT-PCR. Serum,  = Antibody test ‡. Serum, Method = Presence of antibody is diagnostic in unvaccinated patients If previously vaccinated, save sample for comparison later. CSF,  = Antibody test ‡. CSF, Method = Test in parallel with serum. Brain post-mortem: needle necropsy § or autopsy sample brain stem and cerebellum,  = Virus isolation and antigen detection. Brain post-mortem: needle necropsy § or autopsy sample brain stem and cerebellum, Method = Tissue culture mouse inoculation test IFA test on impression smear RT-PCR
+*Most useful samples for antigen detection, repeat daily until a diagnosis is con`rmed.
+† Rabies antigen seen in nerve twiglets around the base of hair follicles by immunoauorescence (IFA) test.
+‡ Immunoauorescent antibody test is rapid and sensitive. Neutralizing antibody test takes ≥ 2 days.
+§ Necropsies are taken with a long biopsy needle via the medial canthus of the eye; through the superior orbital `ssure; via the nose through the ethmoid bone; or through the foramen magnum or open fontanelles in children.
+found. She recovered from presumed mild American bat rabies virus encephalitis, but has been lost to follow-up.
+
+============================================================
+CHUNK 17
+============================================================
+TREATMENT AND PREVENTION
+Experimentally, no treatment has proved effective and several other patients, bitten by bats or dogs, were treated with the Milwaukee ICT regimen  without  recovery.  Hence,  unvaccinated  patients  infected by  dog  rabies  should  be  given  palliation  with  heavy  sedation  and analgesia  to  relieve  the  agonizing  symptoms  and  post-exposure prophylaxis  offered  to  contacts  [2].  Previously  vaccinated  patients given  ICT  have  a  remote  chance  of  survival with  severe  neurologic sequelae. ICT should, however, be considered for American bat infections  at  an  early  stage  of  disease,  especially  if  rabies  antibody  is present.  Otherwise,  it  is  advisable  to  palliate  until  new  antiviral methods prove effective in animals.
+
+============================================================
+CHUNK 18
+============================================================
+PRE-EXPOSURE PROPHYLAXIS [8]
+Immunization  is  recommended  for  anyone  at  risk  of  exposure  to infection, for example veterinarians, laboratory workers, dog catchers, zoologists, other field workers, cave explorers and people visiting or resident in dog rabies-enzootic countries. An intramuscular (IM) dose of tissue culture vaccine (Table 34.1-3) is given on days 0, 7 and 28 [9]. The final dose can be advanced towards day 21 if necessary, but the antibody level may wane more rapidly. Booster doses are given according to the level of risk, from every 6 months in some laboratory workers, to 5 years if lower risk, for example animal handlers. If neutralizing antibody is detectable, boosting is unnecessary. In the USA, no boosters are recommended for travelers [10]. Further vaccine is needed urgently following possible exposure (see below). If vaccine is  scarce  or  unaffordable,  an  alternative  intradermal  (ID)  dose  of 0.1 ml over the deltoid is immunogenic and also economical if more than one person can be immunized on the same day. This has been previously  used  in  the  USA  and  pharmaceutical  regulations  might permit its re-introduction. ID pre-exposure immunization should not be used for immunosuppressed people or those taking chloroquine medication.
+
+============================================================
+CHUNK 19
+============================================================
+POST-EXPOSURE PROPHYLAXIS (Table 34.1-3)
+To evaluate the risk of exposure, ask about the local epidemiology; the appearance, behavior, fate and vaccination status of the animal
+TABLE 34.1-3 Post-Exposure Prophylaxis for Use in a Rabies-Enzootic Area*
+
+Minor Exposure Minor scratches or abrasions without bleeding, Treatment = Start vaccine † : stop treatment if animal remains healthy for 10 days or if laboratory test on animal's brain proves negative. Major Exposure Licks of mucosa or broken skin Transdermal bites or scratches Contact with suspect bat, Treatment = Rabies immunoglobulin ‡ and vaccine : stop if domestic cat or dog remains healthy for 10 days or if laboratory test on animal's brain proves negative
+*Following an unprovoked attack by cat or dog or an attack by wild animal. Adapted from World Health Organization: Expert Consultation on Rabies. First Report. Technical Report Series 931. Geneva, WHO 2005.
+† Human diploid cell vaccine (Sano` Pasteur, Lyon, France) and puri`ed chick embryo cell vaccine (Rabavert™/Rabipur™; Novartis) are used in the USA. Puri`ed Vero cell vaccine (Verorab™; Sano` Pasteur) may be also available elsewhere, but a single dose vial contains 0.5 ml, whereas the other two are in 1 ml vials. See text for vaccine regimens.
+‡ Rabies immunoglobulin (RIG) is most important for severe rabies exposure (bites on the head, neck or hands, or multiple bites). Injection into and around the wound should neutralize the virus, providing some protection during the `rst week until the vaccine induces immunity. If local in`ltration is anatomically impossible, give the rest intramuscularly at a site remote from the vaccine, but not into gluteal adipose tissue. The dose of 20 units/kg body weight of human RIG (or 40 units/kg equine RIG in some countries) must not be exceeded.
+involved  and  also  the  precise  nature  and  severity  of  the  wounds. Unusual contact with a bat anywhere should be considered as a possible exposure. If treatment is indicated, start immediately, even if the incident was many months ago.
+
+============================================================
+CHUNK 20
+============================================================
+Local Measures
+Bite  wounds,  scratches,  or  abrasions  that  may  have  been  contaminated by infected saliva should be scrubbed with soap or detergent
+and rinsed energetically, using analgesia if necessary. Wounds should be  irrigated  with  povidone-iodine  or  40-70%  alcohol.  Suturing should be avoided, or delayed, wherever possible. The risk of other pathogens associated with mammal bites, especially tetanus, should be considered. Intact skin is a barrier to infection, but lesions from bats may be undetectable.
+Specific  prophylaxis  aims  to  deliver  rabies  neutralizing  antibody rapidly at the wound site. Passive immunization with rabies immunoglobulin  (RIG) provides  immediate  temporary therapy  until the immune response to primary vaccination appears. Cell culture vaccines (Table 34.1-3) are recommended, but the obsolete Semple and suckling mouse brain vaccines are still used.
+
+============================================================
+CHUNK 21
+============================================================
+Post-exposure Vaccine [8]
+The five-dose IM post-exposure vaccine regimen comprises: one dose, injected into the deltoid or anterolateral thigh area (not the gluteal region), on days 0, 3, 7, 14 and 28 [9, 10]. In the USA, if there is a vaccine shortage, the final dose can be omitted, providing that RIG was given and the patient is otherwise healthy. An alternative fourdose IM regimen is: two doses on day 0, and one dose on days 7 and 21 [9].
+A  new,  economical  post-exposure  four-site  ID  regimen  [8]  is  as immunogenic as the five-dose IM regimen. It uses a whole ampoule of vaccine, divided between four ID injections over the deltoid and either the thigh or suprascapular areas on day 0. The volume per site is  about  0.1 ml  for  vaccines  containing  0.5 ml/ampoule  and  the equivalent dose for vaccines of 1 ml/ ampoule is 0.2 ml. On day 7, two ID injections (0.1/ 0.2 ml as above) are followed by a single ID dose on day 28. If a 1 ml/ampoule vaccine is used when resources are limited and more than one patient is treated on the same day, an alternative half ID dose of 0.1 ml/ ID site can be given on each occasion  (days  0,  7  and  28).  Ampoules  of  vaccine  are  shared,  but remaining vaccine must  be kept in the  fridge and discarded at  the end of  the  day.  A  two-site  ID  regimen  is  ID  doses  at  two  sites  on days 0, 3, 7 and 28 [9].
+Those who have received pre- or post-exposure vaccination do not require passive immunization. If they are then exposed to rabies, IM cell culture vaccine is given on days 0 and 3. An alternative, single-day regimen requires only one ampoule of vaccine divided between four ID injections over the deltoid and the thigh or suprascapular areas (the same as the initial dose of the four-site ID regimen). If a 1 ml/ ampoule vaccine is used, sharing between two is still immunogenic as above [8].
+Passive immunization is recommended with primary post-exposure treatments (see Table 34.1-3).
+
+============================================================
+CHUNK 22
+============================================================
+ENcacy of Post-exposure Prophylaxis
+Combined active and passive immunization given on the day of the bite, with optimum wound care, can reduce the risk of rabies from between 15 to 60% in untreated cases to practically zero with tissue culture vaccines. The risk varies with the biting species, the site and severity  of  the  bites.  Prophylaxis  may  fail  if  treatment  is  delayed, inadequate or if the vaccinee is immunosuppressed. Rabies vaccines may be less effective against the rabies-related viruses and ineffective against Mokola virus. Pre-exposure immunization has proved universally effective if followed by a booster vaccination after exposure.
+
+============================================================
+CHUNK 23
+============================================================
+Complications of Rabies Vaccines
+Tissue  culture  vaccines  cause  mild  local  reactions  or  transient, influenza-like symptoms in a small minority of vaccinees. Intradermal injections may  cause transient irritation. Pre-exposure booster injections  have  caused  a  mild  allergic  urticarial  rash,  angioedema and  arthralgia  within  2  weeks,  which  responds  to  symptomatic treatment.
+
+============================================================
+CHUNK 24
+============================================================
+CONTROL OF ANIMAL RABIES
+Rabies  can  be  controlled  effectively  in  stray  dogs  by  campaigns  of vaccination, contraception and reducing available food and shelter. Control of wildlife rabies has been achieved by oral, live-attenuated or vaccinia recombinant rabies vaccines in baits. Fox rabies has been eliminated from Western Europe and recombinant vaccines have produced promising results in foxes, raccoons and coyotes in the USA. Oral vaccines for a variety of other species in America (e.g. skunks) and Africa (e.g. black-backed jackals) are being developed. Oral vaccines for stray dogs have not been practicable to date.
+
+============================================================
+CHUNK 25
+============================================================
+REFERENCES
+1. Nel LH, Markotter W. Lyssaviruses. Crit Rev Microbiol 2007;33:301-24.
+2. Jackson AC. Human disease. In: Jackson AC, Wunner AH, eds. Rabies, 2nd edn. London: Elsevier, Academic Press; 2007:309-40.
+3. Helmick CG, Tauxe RV, Vernon AA. Is there a risk to contacts of patients with rabies? Rev Infect Dis 1987;9:511-18.
+4. Schnell MJ, McGettigan JP, Wirblich C, Papaneri A. The cell biology of rabies virus: using stealth to reach the brain. Nat Rev Microbiol 2010;8:51-61.
+5. Warrell DA. The clinical picture of rabies in man. Trans R Soc Trop Med Hyg 1976;70:188.
+6. van Thiel PP, de Bie RM, Eftimov F, et al. Fatal Human Rabies due to Duvenhage Virus from a Bat in Kenya: Failure of Treatment with Coma-Induction, Ketamine, and Antiviral Drugs. PLoS Negl Trop Dis 2009;3(7):e428.
+7. Willoughby RE Jr, Tieves KS, Hoffman GM, et al. Survival after treatment of rabies with induction of coma. N Engl J Med 2005;352:2508-14.
+8. Warrell  MJ.  Current  rabies  vaccines  and  prophylaxis  schedules:  preventing rabies  before  and  after  exposure.  Travel  Med  Inf  Dis  2012  (in  press) doi:10.1016/j.tmaid.201 1.12.005.
+9. World  Health  Organization.  Expert  Consultation  on  Rabies.  First  Report. Technical Report Series 931. Geneva: World Health Organization; 2005.
+10.  Human  rabies  prevention-United  States,  2008:  recommendations  of  the Advisory  Committee  on  Immunization  Practices.  MMWR  Recomm  Rep 2008;57(RR-3):1-28.
+
+============================================================
+CHUNK 26
+============================================================
+34.2 Enterovirus Infections That Cause Central Nervous System Disease (including Poliomyelitis)
+Peter C McMinn, Phan Van Tu
+
+============================================================
+CHUNK 27
+============================================================
+Key features
+- Enteroviruses are among the most common human pathogens and cause a wide array of clinical syndromes, ranging from the trivial to severe and life-threatening
+- The virtual eradication of epidemic poliomyelitis by an international vaccination campaign coordinated by the World Health Organization is a major achievement in public health
+- Enterovirus 71, which causes hand-foot-and-mouth diseases and epidemic encephalomyelitis, has recently emerged as a new public health threat in the Asia-PaciJc region
+- Currently, there are no licensed antiviral agents available to treat severe enterovirus infections and no vaccines are available to prevent non-polio enterovirus infections.
+
+============================================================
+CHUNK 28
+============================================================
+INTRODUCTION
+Enteroviruses are among the most common of human infections and are estimated to infect 50 million people annually in the USA and one billion  annually  worldwide.  Although  the  majority (~90%)  of infections are asymptomatic, enteroviruses are associated with a wide spectrum of disease manifestations, including: fever and rash; acute hemorrhagic conjunctivitis; upper respiratory tract infection; myocarditis  and  pericarditis;  pleurodynia;  aseptic  meningitis,  encephalitis; poliomyelitis;  severe  neonatal  infection;  and  chronic  infection  in immunocompromised  patients.  The  majority  of  acute  enterovirus infections ( > 80%) occur in children below 15 years of age, owing, in part, to a lack of immunologic experience and cross-protective immunity to enterovirus infection, and to childhood behaviors that promote fecal-oral and person-to-person transmission of infection.
+Human  enteroviruses  are  small,  positive-sense  RNA  viruses  that belong  to  the  family Picornaviridae and  have  traditionally  been grouped into the echoviruses, coxsackie A and B viruses, and polioviruses based on their growth properties in cell culture and in infant mice. As this system of classification is somewhat arbitrary, since the mid-1960s newly identified enteroviruses have simply been assigned a numerical designation, the first example being 'enterovirus 68.' The number of individual enterovirus strains now recognized is  greater than  100 [1]. Recent  molecular  analysis  of  the enterovirus genome has led to the adoption of a new taxonomy in which enteroviruses are divided into four species: human enterovirus A, B, C and D.
+In this chapter, the epidemiology, pathophysiology, clinical presentation, differential diagnosis and management of enterovirus infections that cause neurologic diseases, in particular polioviruses and enterovirus 71, are presented. Enteroviruses that predominantly cause mucocutaneous disease only are discussed in Chapter 28.3.
+
+============================================================
+CHUNK 29
+============================================================
+EPIDEMIOLOGY
+Enterovirus infections occur in all human populations. Enterovirus infections occur throughout the year but are more highly prevalent in summer and autumn in temperate regions. More than 80% of enterovirus infections occur in children younger than 15 years of age and attack rates  are highest in infants under the age of  1 year old. The prevalence of enterovirus infections is greater in situations of poverty, overcrowding and poor personal hygiene.
+The  frequency  with  which  individual  enterovirus  serotypes  cause infection  varies  markedly.  Some  enterovirus  serotypes  are  continuously  isolated  from  year-to-year,  whilst  others  may  temporarily emerge after years of relative inactivity. Individual enterovirus  serotypes tend to circulate for a variable period of time before they are replaced by new serotypes. Typically, 5-10 serotypes are responsible for > 85% of enterovirus infection at any one time, with considerable differences  in  serotype  distribution  between  geographic  locations. Occasionally, global epidemics may occur, such as hemorrhagic conjunctivitis  pandemics  caused  by  enterovirus  70  or  coxsackievirus A24.
+Virtually all enterovirus serotypes have been associated with aseptic meningitis. In the pre-polio vaccine era, polioviruses were the most common cause of aseptic meningitis. In the post-polio vaccine era, non-polio enteroviruses, in particular, echovirus types 4, 6, 9, 1 1, 13, 16 and 30, coxsackievirus B2-5, coxsackievirus A9 and enterovirus 71 have been the most frequently identified pathogens.
+
+============================================================
+CHUNK 30
+============================================================
+EPIDEMIOLOGY
+Poliomyelitis is thought to have been associated with humanity since antiquity (Fig. 34.2.1). The first clinical descriptions of poliomyelitis date from the early 19th century and its transmissibility was established in the late 19th century.  In the pre-industrial era, poliovirus infection occurred most commonly in infants and young children in situations  of  poverty  and  overcrowding  and  was  associated  with endemic circulation and a low prevalence of paralytic poliomyelitis. Improvements in hygiene and standards of living in North America and Western Europe in the late 19th century resulted in exposure to poliovirus later in life, which was associated with an increased incidence of paralytic poliomyelitis and with the onset of the large urban poliomyelitis epidemics that occurred in industrialized countries in the first half of the 20th century.
+Enterovirus  71  was  first  isolated  from  a  child  with  encephalitis  in California in 1970. From 1970 until 1997, enterovirus 71 was found to  be  the  cause  of  occasional  outbreaks  of  the  childhood vesicular exanthem, hand-foot-and-mouth disease and/or the enanthem herpangina associated with acute neurologic disease, including aseptic meningitis,  poliomyelitis-like  paralysis  and  brainstem  encephalitis. Since 1997, large outbreaks of enterovirus 71 infection have occurred in the Asia-Pacific region in association with the generation of new, and genetically distinct, virus genotypes [2, 3].
+
+============================================================
+CHUNK 31
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+Transmission  of  enterovirus  infection  is  by  the  fecal-oral  route  as a  result  of  person-to-person  contact  or  indirectly  via  fomites.  The incubation period for most enterovirus infections has not been accurately determined. In the case of poliovirus, the incubation period is typically 3-5 days but may occasionally extend up to 2 weeks. Virus is  shed in the respiratory secretions for 1 week and in the feces for 2-4 weeks or longer. People are most infectious during the incubation period and for the first 2-3 days after the onset of symptoms. It is considered  that  80-95%  of  enterovirus  infections  are  completely asymptomatic and that people who develop asymptomatic infection
+FIGURE 34.2.1 The earliest evidence of human poliomyelitis-like disease can be found in an Egyptian stele dating from 1350 BC, which depicts a young man with typical asymmetric aaccid paralysis and atrophy of the lower  limb.  Poliomyelitis  is  characterized  by  fever,  malaise,  headache, nausea, vomiting, muscle pain, stibness of the neck and back followed by aaccid paralysis 1-3 days later.
+are the primary reservoir of enterovirus infection within the community.
+Enteroviruses are the responsible pathogen in more than 90% of cases of aseptic meningitis.
+Poliovirus types 1, 2 and 3 are the causative agents of acute poliomyelitis; poliovirus type 1 is most frequently associated with poliomyelitis,  followed by type 3 and type 2. Enteroviruses 70, 71 and several coxsackievirus A strains are also associated with acute flaccid paralysis mimicking  poliomyelitis  and  numerous  case  reports  have  linked other enteroviruses with this syndrome.
+
+============================================================
+CHUNK 32
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+Most of what is understood about the pathogenesis of  enterovirus infection has  resulted from research  on poliovirus and  it is  widely accepted that the early pathophysiologic events in non-polio enterovirus infections are similar. After ingestion, poliovirus first multiplies in the tonsils and Peyer's patches of the small intestine before spreading  to  regional  lymph  nodes  and  thence  to  the  bloodstream  as  a 'minor' viremia, which is transient and usually undetectable. During this  phase,  virus spreads  to  cells of the  reticulo-endothelial  system. In  asymptomatic  infection,  viral  replication  is  terminated  by  host defense mechanisms at this point in the infection cycle. In a small proportion of cases, infection develops within the reticulo-endothelial system leading to a sustained ('major') viremia, which coincides with the onset of symptoms. The major viremia results in the dissemination of virus to target organs, such as the central nervous system (CNS) or  the  skin.  Infection  at  these  sites  induces  host  inflammatory responses and tissue necrosis; the severity of inflammation and necrosis generally corresponds to the titer of infectious virus present in the affected tissue.
+The mechanism of enterovirus invasion from the bloodstream into the  CNS  is  unknown  but  may  either  involve  virus  traversing  the blood-brain barrier during the major viremia (the most likely mechanism  in  the  pathogenesis  of  aseptic  meningitis)  or  by  retrograde axonal transport (which has recently been suggested for enterovirus 71 [4]).  The  primary  targets  of  poliovirus  infection  in  the  CNS  are
+FIGURE 34.2.2 Location  of  motor  neurons  in  the  anterior  horns  of  the spinal  cord.  After  gaining  entry  into  the  CNS,  poliovirus  causes  lytic infection of anterior horn motor neurons of the spinal cord, resulting in aaccid paralysis. Within the brain, the reticular formation, vestibular nuclei, cerebellar vermis and deep cerebellar nuclei are most often infected by poliovirus (bulbar poliomyelitis).
+
+============================================================
+CHUNK 33
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+anterior horn motor neurons of the spinal cord (Fig. 34.2.2). Enterovirus 71 infects the CNS more widely than poliovirus, including the hypothalamus, brainstem and cerebellar dentate nucleus in addition to spinal cord anterior horn motor neurons.
+
+============================================================
+CHUNK 34
+============================================================
+ASEPTIC MENINGITIS
+Aseptic meningitis is a syndrome characterized by clinical signs and symptoms  of  meningitis  with  negative  bacterial  cultures  obtained from cerebrospinal fluid (CSF) specimens. Aseptic meningitis occurs most commonly in children but is also frequently reported in adults. The illness commences with fever and headache followed by signs of meningismus (neck stiffness, positive Kernig's sign), which may range from mild to severe. The illness is occasionally biphasic, with a brief prodromal  febrile  illness  and  recovery  followed  by  a  recurrence  of fever accompanied by meningismus.
+
+============================================================
+CHUNK 35
+============================================================
+POLIOMYELITIS
+Infection  with  poliovirus  may  have  one  of  several  outcomes:  (i) inapparent infection,  which accounts for  90-94% of all infections; (ii) abortive or minor illness, which occurs in 4-8% of cases and is associated  with  symptoms of upper  respiratory  tract  infection, gastrointestinal upset or influenza-like illness; (iii) non-paralytic poliomyelitis (1-2%), with clinical features similar to aseptic meningitis (see above) and from which patients usually recover fully within a few days; and (iv) paralytic poliomyelitis (0.1-2%), characterized by flaccid  paralysis,  which  is  usually  asymmetric  and  with  the  lower limbs more frequently involved than the upper limbs (Fig. 34.2.3A). Cases  of  paralytic  poliomyelitis  may  recover  completely  or  be  left with  permanent  paralysis  and  muscular  atrophy.  It  may  be  fatal, especially  when  the  brainstem  is  involved  (bulbar  poliomyelitis) (Fig. 34.2.3B).
+
+============================================================
+CHUNK 36
+============================================================
+ENTEROVIRUS 71 INFECTION OF THE CENTRAL NERVOUS SYSTEM (CNS)
+Enterovirus 71 and coxsackievirus A16 are the commonest causes of hand-foot-and-mouth disease and herpangina. In contrast to
+FIGURE 34.2.3 Clinical features of poliomyelitis. (A) A  child  with a deformity of her right leg caused by  poliomyelitis. (B) A  patient being treated in a negative pressure ventilator ('iron lung') because of bulbar poliomyelitis.
+coxsackievirus A16, enterovirus 71 infection can be complicated by acute neurologic disease, including aseptic meningitis, poliomyelitislike  paralysis  and  brainstem  encephalitis.  Brainstem  encephalitis caused by enterovirus 71 infection occurs mostly in children under 4 years of age and is associated with a high mortality as a result of a rapid onset neurogenic pulmonary edema and cardiovascular collapse.
+
+============================================================
+CHUNK 37
+============================================================
+HAND-FOOT-AND-MOUTH DISEASE
+Hand-foot-and-mouth disease occurs most often in children under 10 years of age. The illness commences with fever ( > 38.5°C) and sore throat. The fever lasts 1-2 days during which time vesicles appear on the  anterior  buccal  and  gingival  mucous  membranes  and  tongue. Cutaneous vesicles occur most frequently on palms of the hands and soles  of  the  feet,  but  may  also  occur  on  the  buttocks  and  extensor surfaces of the elbows and knees. The skin lesions of hand-foot-andmouth disease are typically tender vesicles with a surrounding zone of erythema (Fig. 34.2.4).
+
+============================================================
+CHUNK 38
+============================================================
+HERPANGINA
+Herpangina often occurs in outbreaks involving young children. Herpangina is a vesicular enanthem of the soft palate and fauces accompanied by fever, sore throat and painful swallowing. The illness often commences abruptly, with fever and myalgia preceding the enanthem by 24 hours. The lesions develop into 2-4 mm papules that vesiculate and ulcerate. The fever subsides in 2-4 days and the ulcers heal over 6-7 days. Herpangina is  generally  a mild  illness  and requires only symptomatic treatment.
+
+============================================================
+CHUNK 39
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+The  vesicles  of  hand-foot-and-mouth  disease  can  be  distinguished from herpetic vesicular rashes (caused by herpes viruses) by the highly characteristic distribution of the vesicles and because the number of lesions is generally fewer than that seen in varicella (which typically spares  the  palms  and  soles).  Primary  herpetic  gingivostomatitis  is characterized by the presence of vesicular lesions within the anterior oral cavity in patients who are generally more unwell and have higher fever and regional lymphadenopathy than children with hand-footand-mouth disease.
+It  is  important  to  distinguish  herpangina  from  bacterial  tonsillitis and  other  viral  causes  of  pharyngitis.  The  vesicles  associated  with herpangina  are  generally  located  in  the  posterior  pharynx,  in  contrast to other vesicular enanthems, such as herpes simplex gingivostomatitis  and  hand-foot-and-mouth  disease,  which  typically  occur in  the  anterior  oral  cavity,  and  to  aphthous  ulceration,  which appears as large ulcers on the lips, tongue and buccal mucosa. Herpangina can generally be  diagnosed  confidently on  clinical  criteria alone.
+It  is  of  critical  importance  to  distinguish  bacterial  meningitis  from aseptic meningitis, which can be achieved by lumbar puncture and CSF  microscopic  examination  and  culture.  However,  it  should  be noted that partially  treated  bacterial  meningitis may mimic aseptic meningitis in terms of the CSF profile. Aseptic meningitis caused by enteroviruses also requires differentiation from other infectious and non-infectious causes of this syndrome [5].
+
+============================================================
+CHUNK 40
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+CSF examination is critically important in the diagnosis of meningitis. In aseptic meningitis, the CSF usually appears clear and has a lowto-moderate  leukocyte  count  (10-500/mL)  that  only  occasionally exceeds 1000/mL; the cell count is typically pleomorphic with a predominance of lymphocytes. However, CSF examination  within the first  24  hours  of  illness  may  demonstrate  a  predominance  of  neutrophils. In general, the CSF glucose is within normal range and the CSF protein may be normal or slightly elevated. Although enteroviruses can be isolated in the CSF by cell culture, this method is slow, expensive  and  has  a  low  (35%)  sensitivity  compared  with  newer molecular diagnostic methodologies (see below), which have largely replaced  cell  culture  in  the  diagnosis  of  aseptic  meningitis.  Most patients  with  aseptic  meningitis  are  sufficiently  unwell  to  require hospital admission.
+Poliomyelitis caused by poliovirus infection needs to be distinguished from paralysis caused by other enteroviruses, such as echovirus 6, 9, coxsackievirus A7, A9, B2-5, enterovirus 70 and enterovirus 71, Guillain-Barré syndrome, transverse myelitis, disorders of fluid and electrolyte balance, vitamin B1 deficiency, and other causes, such as the neurologic complications of diphtheria and botulism.
+D
+FIGURE  34.2.4 Hand-foot-and-mouth  disease. (A) Mouth. (B) Palms  of the hands. (C) Buttocks. (D) Extensor surface of the knee.
+
+============================================================
+CHUNK 41
+============================================================
+LABORATORY DIAGNOSIS OF ENTEROVIRUS INFECTIONS
+The most readily obtainable specimens for the identification of enteroviruses include feces, and rectal and throat swabs. Although these specimens generally provide a high yield in the presence of enterovirus infection, they are usually remote from the site of disease and thus only provide indirect evidence of the causative organism. Vesicle fluid may be collected from patients presenting with hand-foot-and-mouth disease and is useful in providing a more specific diagnosis.
+Although the identification of enteroviruses in CSF provides a specific diagnosis in aseptic meningitis, the sensitivity of detection is much lower than for other specimens (throat swab, feces). Paired acute and convalescent sera (at least 7 days apart) may be collected to test for the presence of enterovirus-specific antibodies.
+The most widely available laboratory techniques for the identification of  enterovirus  infections  include  virus  isolation  in  cell  culture  and identification  of  specific  enterovirus  serotypes  using  immunologic techniques (neutralization with serotype-specific antisera, immunofluorescence with serotype-specific monoclonal antibodies) or molecular  techniques,  in  particular,  the  reverse-transcription  (RT)-PCR assay, which have largely replaced cell culture as the primary means of enterovirus identification [6]. An excellent overview of the diagnostic  modalities  used  in  the  diagnosis  of  poliovirus  infection  is provided in the World Health Organization (WHO) Polio Laboratory Manual [7].
+
+============================================================
+CHUNK 42
+============================================================
+LABORATORY DIAGNOSIS OF ENTEROVIRUS INFECTIONS
+RT-PCR  assays  capable  of  amplifying  genomic  material  from  all known enteroviruses have been developed to screen for the presence of enteroviruses in cell culture supernatants or directly from patient specimens. As these assays generally target the conserved 5 ′ untranslated region of the viral genome, they are not capable of distinguishing individual enterovirus strains. More recently, RT-PCR assays that target variable regions of the genome, principally the VP1 structural protein gene, have been used to identify enterovirus genomic RNA in cell culture supernatants or directly from patient specimens. Furthermore, nucleotide sequencing of the amplified RT-PCR product and searching of genetic databases, such as GenBank, allows the identification  of  individual  infecting  enterovirus  strains.  A  number  of enterovirus type-specific RT-PCR assays, such as enterovirus 71- and coxsackievirus  A16-specific  assays,  have  been  developed  for  use  in regions of the world where these viruses cause a high level of endemic infection. The main reason to seek a laboratory diagnosis in cases of herpangina or hand-foot-and-mouth disease is to distinguish enterovirus  71  from  the  other  coxsackie  A  viruses,  as  the  former  is  more frequently associated with acute neurologic sequelae (see above).
+Although  several  assays  for  the  serologic  diagnosis  of  enterovirus infections  are  available,  they  are  generally  considered  impractical because  of  the  large  number  of  virus  strains  and  the  extensive serologic  cross-reactivity  between  them,  but  also  because  serologic diagnosis  is  generally  retrospective  and  thus  not  useful  in  patient management. However, serologic assays are frequently used for seroepidemiologic investigations.
+
+============================================================
+CHUNK 43
+============================================================
+TREATMENT AND PREVENTION
+No specific  treatment is available for hand-foot-and-mouth disease and herpangina, which are generally mild and self-limited infections and require only symptomatic treatment. As with all other enteroviruses, infection can be prevented by hand-washing after contact with infected patients and by social distancing measures, such as closing nursery schools.
+Empirical antibiotic therapy is often commenced early in aseptic meningitis  and  until  bacterial  meningitis  has  been  positively  excluded. The  advent  of  rapid  diagnostic  assays  for  enteroviruses  has  proven beneficial in limiting the duration of empirical antibiotic therapy and hospital admission in many cases of aseptic meningitis. Full recovery generally occurs  rapidly in young children although older children and adults  may  experience a  longer  convalescence  in  which  subtle
+disturbances in motor function, coordination, learning and concentration may persist for weeks to months.
+No specific  antiviral  treatment  for  poliovirus  infection  is  available. Intensive care support is often needed for patients with bulbar poliomyelitis and/or respiratory failure. Physical therapy is used to assist with  the  regaining  of  limb  function  and  to  minimize  deformities caused by contractures. Similarly, treatment for enterovirus 71 brainstem encephalitis is symptomatic and supportive, as specific antiviral therapy is not available.
+The molecular characterization of enteroviruses has led to the development  of  novel  compounds  that  inhibit  viral  replication  [8]. However, very few have been found to be sufficiently selective to be useful as drug candidates. Several 'WIN' compounds, which specifically bind to the enterovirus capsid and inhibit viral uncoating, have been  investigated  [9].  One  compound,  pleconaril  [10],  has  been found to inhibit more than 90% of circulating enteroviruses, to be nontoxic in humans, and to provide significant therapeutic benefit in aseptic meningitis [5] and chronic meningoencephalitis [1 1]. Compassionate use of pleconaril in cases of severe neonatal enterovirus infection has also demonstrated the promise of significant therapeutic benefit [1 1]. Unfortunately, pleconaril has been found to have limited activity against enterovirus 7 1. A summary of the clinical trials undertaken to investigate pleconaril is provided in [12]. An excellent review of many experimental antiviral agents relevant to enterovirus infection is provided in [8].
+
+============================================================
+CHUNK 44
+============================================================
+TREATMENT AND PREVENTION
+Poliovirus vaccines against all three serotypes are available as either a formalin-inactivated poliovirus vaccine (IPV) or as a live-attenuated, oral  poliovirus  vaccine  (OPV).  IPV  is  injected  intramuscularly  and provides individual protection by inducing circulating antibody that blocks  the  spread  of  virus  to  the  CNS.  OPV  was  first  licensed  in 1962. The advantages of OPV are that it induces both humoral (IgM, IgG)  and  mucosal  (IgA)  immunity  and  is  able  to  interrupt  wild poliovirus circulation. OPV is also less costly than IPV and does not require injection by trained vaccinators. Consequently, OPV is more suitable  for  mass  immunization  campaigns.  However,  OPV  has several disadvantages: (i) the vaccine requires the maintenance of a cold chain; (ii) interference between OPV and other enteric viruses can lead to vaccine  failure; (iii)  OPV is  contraindicated  in  persons with congenital or acquired immunodeficiency; and (iv) OPV may revert to virulence and cause paralytic poliomyelitis in vaccine recipients or their contacts (vaccine-associated poliomyelitis) at a rate of approximately  1  case  in  every  2.5  million  doses  administered. Despite  these  disadvantages,  mass  immunization  with  OPV  has formed  the  basis  of  the  WHO  coordinated  Global  Poliomyelitis Eradication Program, which had resulted in the near eradication of poliomyelitis by early 2012 and is regarded as a major achievement in global public health.
+With the notable exception of poliovirus, vaccines are not yet available to prevent the most severe forms of non-poliovirus enterovirus infection. However, given the success of polio vaccination, it is reasonable to assume that the development of vaccines against non-polio enteroviruses that cause epidemics of severe neurologic disease, such as  enterovirus  71,  will  also  be  successful  in  preventing  infection. Indeed, a large effort is currently being made to develop vaccines to prevent enterovirus 71 infection (reviewed in [13]).
+
+============================================================
+CHUNK 45
+============================================================
+TREATMENT AND PREVENTION
+Currently, the only means of preventing non-polio enterovirus infections is through avoidance of contact between infected and susceptible  individuals  (reviewed  in  [3]).  Realistically,  this  can  only  be achieved through infection control actions of limited efficacy, such as hand-washing and reducing contact between infected and susceptible people  during  epidemics.  Indeed,  if  these  actions  are  to  have  any effect, it is imperative that adequate surveillance of enterovirus activity be maintained in the community to provide early warning of impending epidemics, which is not the case in many countries.
+
+============================================================
+CHUNK 46
+============================================================
+REFERENCES
+1. Oberste  MS,  Maher  K,  Nix  WW,  et  al.  Molecular  identification  of  13  new enterovirus types, EV79-88 and EV100-101, members of the species Human Enterovirus B. Virus Res 2007;128:34-42.
+2. McMinn PC. An overview of the evolution of enterovirus 71 and its clinical and public health significance. FEMS Microbiol Rev 2002;26:91-107.
+3. Solomon T, Lewthwaite P, Perera D, et al. Virology, epidemiology, pathogenesis, and control of enterovirus 71. Lancet Infect Dis 2010;10:778-90.
+4. Wong KT, Munisamy B, Ong KC, et al. The distribution of inflammation and virus  in  human  enterovirus  71  encephalomyelitis  suggests  possible  viral spread by neural pathways. J Neuropathol Exp Neurol 2008;67:162-9.
+5. Lee BE, Davies HD. Aseptic meningitis. Curr Opin Infect Dis 2007;20:272-7.
+6. Oberste MS, Maher K, Kilpatrick DR, Pallansch MA. Molecular evolution of the  human  enteroviruses:  correlation  of  serotype  with  VP1  sequence  and application to picornavirus classification. J Virol 1999;73:1941-8.
+7. World  Health  Organization.  Polio  Laboratory  Manual,  4th  edn.  Geneva: Switzerland; 2004. Available at:  (www.who.int/vaccines/en/poliolab/webhelp/ whnjs.htm).
+8. De Palma AM, Vliegen I, De Clercq E, Neyts J. Selective inhibitors of Picornavirus replication. Med Res Rev 2008;6:823-84.
+9. Pevear  DC,  Tull  TM,  Seipel  ME,  Groarke  JM.  Activity  of  Pleconaril  against enteroviruses. Antimicrob Agents Chemotherapy 1999;43:2109-15.
+10.  Rotbart HA, Webster AD. Treatment of potentially life-threatening enterovirus infections with Pleconaril. Clin Infect Dis 2001;32:228-35.
+
+============================================================
+CHUNK 47
+============================================================
+REFERENCES
+11.  Webster ADB. Pleconaril-an advance in the treatment of enteroviral infection in immuno-compromised patients. J Clin Virol 2005;32:1-6.
+12.  Abzug MJ. Presentation, diagnosis and management of enterovirus infections in neonates. Pediatr Drugs 2004;6:1-10.
+13.  Bek EJ, McMinn PC. Recent advances in research on human enterovirus 71. Future Virol 2010;5:453-68.
+
+============================================================
+CHUNK 48
+============================================================
+34.3 Venezuelan, Eastern and Western Equine Encephalitis
+Scott C Weaver, Angelle D LaBeaud
+
+============================================================
+CHUNK 49
+============================================================
+Venezuelan equine encephalitis
+- Acute "flu-like" febrile illness is usually self-limited
+- Mosquito-borne transmission to humans during epidemics typically follows encephalitis in equids, which are efficient amplification hosts
+- Lymphotropic replication leads to immune suppression and secondary infections
+- Can progress to neurologic disease, especially in children (5-15% of cases)
+
+============================================================
+CHUNK 50
+============================================================
+Key features-cont'd
+- Neurologic disease typically begins with convulsions and can progress to fatal coma, or survivors can suIer permanent neurologic sequelae
+- During epidemics, attack rates are typically 30-50% and overall case fatality rate is approximately 0.5%
+- Synonyms: sleeping sickness, 'peste loca' (Spanish)
+
+============================================================
+CHUNK 51
+============================================================
+Eastern equine encephalitis
+- Prodromal, acute 'Lu-like' febrile illness is often undiagnosed
+- Mosquito-borne transmission to humans during epidemics typically follows encephalitis cases in equids
+- Symptomatic infections often progress to neurologic disease, with overall case-fatality rates of approximately 33%
+- Young children and the elderly are most likely to develop severe disease, and many survivors have permanent neurologic sequelae
+- Epidemiologic studies suggest that the vast majority of human infections are inapparent; an average of about Jve human cases is diagnosed annually
+
+============================================================
+CHUNK 52
+============================================================
+INTRODUCTION
+These three closely related alphaviruses (genus Alphavirus , family Togaviridae ) cause encephalitis in humans and horses, and are known as New World alphaviruses because they occur only in the Americas (Fig. 34.3.1). In contrast, the Old World alphaviruses include chikungunya, which is found in Africa, Asia and southern Europe, and causes large outbreaks of fever, arthralgia and rash (see Chapter 32.2). Venezuelan equine encephalitis virus (VEEV) is the most common arboviral cause of  encephalitis  in  Latin  America  along  with  eastern  (EEEV)  and western (WEEV) equine encephalitis viruses that cause human disease mainly in temperate regions of the Americas [1]. VEEV is particularly devastating  because  of its ability  to  generate  equine-amplified, mosquito-borne epidemics of mostly febrile illness that involve up to hundreds-of-thousands of people and spread over large geographic distances (Fig. 34.3.2) [2]. Endemic Venezuelan equine encephalitis has  a  significant  human  health  impact,  but  is  often  unrecognized because  the  signs  and  symptoms  are  often  indistinguishable  from those of dengue and other tropical infectious diseases. Human cases of eastern and western equine encephalitis are rare in the tropicsmost  cases  occur  in  North  America;  eastern  equine  encephalitis  is notable for causing sporadic cases of an especially severe encephalitis, whilst WEE is notable for the fact that it has not been seen for many years.
+
+============================================================
+CHUNK 53
+============================================================
+EPIDEMIOLOGY
+VEEV  and  closely  related  alphaviruses,  such  as  Everglades  and Mucambo, occur from the southern USA to northern  Argentina in humid  tropical  forest  and  swamp  foci  [2].  Spillover  infections  of humans occur regularly and can be fatal. Major Venezuelan equine encephalitis epidemics occur periodically, usually every 10-20 years, after equine herd immunity declines and enzootic strains in subtype ID that normally replicate poorly in equids mutate to gain equine amplification  potential.  Exposure  and  immunity  generated  during previous epidemics create age-related susceptibility and infants may be protected by maternal antibodies. There is no difference in incidence between the sexes or among races, although Native American populations in Colombia and Venezuela tend to be at higher risk of
+- Virus strains that circulate in the tropics are probably relatively avirulent for humans
+- Synonyms: sleeping sickness
+
+============================================================
+CHUNK 54
+============================================================
+Western equine encephalitis
+- Prodromal, acute 'Lu-like' febrile illness is often undiagnosed
+- Mosquito-borne transmission to humans during epidemics typically follows encephalitis cases in equids
+- Most western equine encephalitis virus infections are inapparent or present as a mild, nonspeciJc illness
+- Symptomatic infections often progress to neurologic disease, with overall case-fatality rates of 40-80%
+- High inapparent : apparent infection ratio, no human cases diagnosed since 1986
+- Case fatality rate is approximately 4% and is highest in persons > 75 years of age
+- Synonyms: sleeping sickness
+infection because they live in association with domesticated and feral burros that serve as amplification hosts (Fig. 34.3.2).
+EEEV infections are rarely diagnosed in the tropics and mostly occur near the Atlantic and Gulf coasts of the USA near enzootic swamp habitats (Fig. 34.3.2) with an average of six human cases diagnosed annually [1, 2]. Most cases occur in late summer or early autumn in temperate  areas,  but  can  occur  throughout  the  year  in  subtropical areas of the southeast. Human infections occur in all age groups, but clinical attack rates tend to be higher in children younger than 4 years old and adults older than 55 years old.
+WEEV circulates from southern Canada to Argentina. Large equine epizootics have occurred in temperate regions of Argentina and North America, but infections of  both humans and equids have declined dramatically  since  the  1980s  for  unknown  reasons.  Like  eastern equine encephalitis, the risk of western equine encephalitis is highest in the very young and very old, and most infections are inapparent [1, 2].
+
+============================================================
+CHUNK 55
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+VEEV  transmission  normally  occurs  in  tropical  forest  or  swamp foci and involves rodent reservoir hosts and mosquitoes in the subgenus Culex ( Melanoconion ) (Fig. 34.3.2). Major epidemics principally occur in agricultural areas where equids are abundant [2]. EEEV occupies humid tropical forest and swamp habitats in the tropics but in North America it circulates among birds in hardwood swamps inhabited by the ornithophilic (bird-biting) mosquito vector, Culiseta melanura .  However, most transmission to mammals, including humans, probably involves other mosquitoes that feed on birds and humans and serve as bridge vectors (Fig. 34.3.3). WEEV uses birds as its reservoir  hosts  throughout  its geographic range; in  North America, epidemic transmission usually occurs in agricultural habitats where the mosquito vector Culex tarsalis exploits irrigated farmland for its larval habitat (Fig. 34.3.4). VEEV and WEEV can also be transmitted transplacentally and cause premature abortions, stillborn births and teratogenic effects. Unlike WEEV and EEEV, VEEV reaches sufficiently high
+FIGURE 34.3.1 Known distribution of eastern (A) and western (B) equine encephalitis viruses.
+viremia  in  humans  to  infect  biting  mosquitoes,  suggesting  that humans may not always be dead-end hosts.
+
+============================================================
+CHUNK 56
+============================================================
+CLINICAL FEATURES
+Most patients with VEE have a history of exposure to mosquitoes in regions  of  humid  tropical  forests  or  have  been  present  during  an equine epizootic  [2]. Following  an  incubation  period  of  1-5  days, chills, headache, fever, body aches and prostration begin abruptly [3]. Asthenia,  dizziness  and  acute  discomfort  are  incapacitating.  Lumbosacral pain is common, along with nausea, vomiting, diarrhea and a sore throat. After defervescence, a dull headache and weakness may persist for several days; fever and symptoms occasionally recrudesce. Although signs of mild neurologic involvement are common, only about 4% of infected children progress to frank neurologic disease; adults rarely do. Signs include nuchal rigidity, stupor, coma, delirium, seizures, cranial nerve palsies, motor weakness, paralysis, nystagmus, pathologic reflexes and spastic paralysis. Elevated intracranial pressure and  meningismus  occur  in  most  childhood  cases.  Approximately 0.5% of all symptomatic cases are fatal, nearly all in children. However, many survivors of neurologic disease experience sequelae, including memory problems, nervousness, asthenia, recurrent seizures, motor impairment, psychomotor retardation and behavioral disorders.
+Eastern  equine  encephalitis  typically  begins  after  3-10  days  of incubation with the sudden onset of headache, fever, chills, photophobia, dysethesias, myalgia, malaise and vomiting [1, 2, 4]. In infants, encephalitis caused by eastern equine encephalitis virus is characterized  by  abrupt  onset,  but  in  older  children  and  adults  is manifested after a few days of systemic illness. Patients may recover or  can  progress to more severe neurologic illness beginning with a worsening headache, dizziness, vomiting, lethargy and progressing to neck  stiffness,  confusion  and  convulsions.  Severe  cases  requiring hospitalization may involve seizures, disorientation and coma. The course of illness may be rapid in infants; infants are most likely to suffer neurologic sequelae,  such  as  motor  weakness, paralysis, aphasia, mental retardation and seizures. Many patients with permanent sequelae die a few years later.
+
+============================================================
+CHUNK 57
+============================================================
+CLINICAL FEATURES
+Western equine encephalitis begins after an incubation period of 2-10 days  with  the  sudden  onset  of  severe  headache,  often  followed  by drowsiness, dizziness, chills, fever, myalgias, malaise, tremor, irritability, photophobia and neck stiffness [1, 2]. Neurologic signs are usually limited to generalized weakness and tremulousness, especially of the hands, tongue and lips. A minority of patients develop cranial nerve palsy, motor weakness, spasticity, convulsions and seizures. Clinical progression in infants is more rapid. Overall, stupor or coma develop in < 10% of cases, sometimes accompanied by respiratory failure. The overall case fatality rate is around 4% and is highest in persons older than 75 years of age. Five to thirty percent of recovered children are left with permanent sequelae. Infants younger than 1 year old are at particularly high risk for morbidity.
+FIGURE 34.3.2 Enzootic (upper) and epizootic/epidemic (lower) transmission cycles of Venezuelan equine encephalitis viruses.
+
+============================================================
+CHUNK 58
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+The differential diagnosis of acute encephalitis is broad and includes non-infectious and infectious etiologies (Table 34.3.1) [1, 2]. Patients with non-infectious causes of altered mental status are usually afebrile.  Because  the  infectious etiologies of  encephalitis  lead  to  nonspecific  signs  and  symptoms,  a  thorough  diagnostic  approach  is needed. Even then, only about 50% of infection-related encephalitis cases have a specific etiology  determined. Initially, treatable causes, such as herpes simplex viruses (HSV), bacterial meningitis and brain abscess, should be excluded. All patients who present with signs and symptoms of encephalitis, including fever, headache, irritability, restlessness, drowsiness, anorexia, vomiting, seizures, and coma, warrant complete blood cell counts, electrolyte testing and thorough cerebrospinal  fluid  (CSF)  evaluation,  including  culture  and  molecular diagnostic  testing  for  common  viral  causes  (HSV  and  enterovirus PCR).
+Viral encephalitides often manifest as mildly elevated protein levels and mild pleocytosis which is usually lymphocyte predominant for WEEV and VEEV infection, but can  be  neutrophil-predominant in eastern equine encephalitis.  CSF glucose  levels  are  usually normal. Peripheral leukocytosis and hyponatremia as a result of the syndrome of inappropriate antidiuretic hormone may occur, but are nonspecific. Neuroimaging may reveal vasculitis and destruction of neurons with resultant edema [4]. Magnetic resonance imaging (MRI) with gadolinium  may  show  enhancement  of  the  basal  ganglia  and  thalami, which may suggest an arboviral cause; electroencephalography (EEG) may be abnormal with diffuse slowing.
+Eastern, western and Venezuelan equine viruses should be suspected in patients who have febrile illness with central nervous system (CNS)
+FIGURE 34.3.3 Enzootic transmission cycles of eastern equine encephalitis virus and spillover transmission to humans and domestic animals.
+
+============================================================
+CHUNK 59
+============================================================
+TABLE 34.3.1 Diberential Diagnosis of Acute Encephalitis
+Stroke Tumor Non-infectious CNS disorders Creutzfeldt-Jakob disease Alzheimer's disease Long-term alcohol abuse Other dementias, Infectious causes = Herpes simplex viruses (HSV) Bacterial meningitis Brain abscess Enteroviruses Inauenza Adenovirus Epstein Barr virus Mycoplasma Arboviruses Respiratory syncytial virus Rabies Bartonella henselae Lymphocytic choriomeningitis virus Rocky Mountain spotted fever Leptospirosis Lyme disease HIV Syphilis Tuberculosis Other mycobacterial diseases Fungal diseases
+involvement and a history of travel to, or residence in, endemic areas [2]. Patients with Venezuelan equine encephalitis may manifest with flu-like illness without CNS involvement. VEEV produces viremia and is found in throat washings during the acute phase, whereas EEEV and WEEV are difficult to isolate from clinical samples. Therefore, serologic testing is a primary detection method, and IgG and IgM levels should be tested in both CSF and serum. In a patient with a consistent clinical picture, serum or CSF IgM positivity provides a specific diagnosis; a fourfold rise between acute and convalescent IgG titers, which can persist for life, can confirm the diagnosis. IgG ELISA should be confirmed  with  plaque  reduction  neutralization  testing,  which  is more  specific.  PCR-based  testing  on  CSF  or  brain  tissue  may  also confirm  the  diagnosis,  and  may  be  helpful  in  immmunocompromised  individuals  who  cannot  manifest  an  appropriate  antibody response, or in those who have succumbed to infection.
+
+============================================================
+CHUNK 60
+============================================================
+TREATMENT
+No licensed  vaccines  or  antiviral  treatments  are  currently  available for  EEEV,  WEEV  or  VEEV  in  the  USA  [1,  2].  Patient  management focuses  on  supportive  care  and  treatment  of  acute  complications, such as seizures and increased intracranial pressure,  and  long-term sequelae.
+FIGURE 34.3.4 Enzootic transmission cycles of western equine  encephalitis virus and spillover transmission to humans and domestic animals.
+
+============================================================
+CHUNK 61
+============================================================
+REFERENCES
+1.  Davis  LE,  Beckham  JD,  Tyler  KL.  North  American  encephalitic  arboviruses. Neurol Clin 2008;26:727-57, ix.
+2.  Smith DW, Mackenzie JS, Weaver SC. Alphaviruses. In: Richman DD, Whitley RJ, Hayden FG, eds. Clinical Virology. Washington: ASM Press; 2009:1241-74.
+
+============================================================
+CHUNK 62
+============================================================
+34.4 · Japanese Encephalitis
+Tom Solomon
+
+============================================================
+CHUNK 63
+============================================================
+Key features
+- This mosquito-borne flavivirus is endemic across the AsiaPacific region and is spreading
+- The disease primarily affects children, with 30,000-50,000 cases annually, 10,000-15,000 deaths and sequelae common among survivors
+- Clinical features range from a nonspecific febrile illness to aseptic meningitis and severe encephalitis
+3.  Rivas F, Diaz LA, Cardenas VM, et al. Epidemic Venezuelan equine encephalitis in La Guajira, Colombia, 1995. J Infect Dis 1997;175:828-32.
+4.  Deresiewicz RL, Thaler SJ, Hsu L, Zamani AA. Clinical and neuroradiographic manifestations  of  eastern  equine  encephalitis.  N  Engl  J  Med  1997;336: 1867-74.
+- There is no specific antiviral treatment, but attention should be paid to the complications of infection, such as seizures and raised intracranial pressure
+- Available vaccines include killed, live-attenuated and livechimeric vaccines
+
+============================================================
+CHUNK 64
+============================================================
+INTRODUCTION
+Outbreaks of encephalitis were first described in Japan in the 1870s and the disease now occurs across most of the Asia-Pacific region (Fig. 34.4.1).  It  is  numerically  one  of  the  most  important  causes  of encephalitis globally. Japanese encephalitis virus (JEV) is a member of the genus Flavivirus , family Flaviviridae , and is related to West Nile virus, tick-borne encephalitis virus, and dengue. The virus is zoonotic, being transmitted between wading birds and pigs, and by rice paddybreeding Culex mosquitoes which feed in the evenings and at night (Fig. 34.4.2). There have been recent large Japanese encephalitis outbreaks in India and neighboring countries, but disease control efforts by  governments,  supported  by  the  World  Health  Organization
+FIGURE 34.4.1 Current distribution of Japanese encephalitis.
+(WHO), the Bill and Melinda Gates Foundation, and other partners, are having some impact [1].
+
+============================================================
+CHUNK 65
+============================================================
+EPIDEMIOLOGY
+The geographical area affected by JEV includes most countries of the Asia-Pacific region, from Pakistan in the west and China in the north, to  Australia  in  the  southeast  (Fig.  34.4.1).  In  northern,  temperate regions, the virus causes large outbreaks in the summer months, after the start of the rainy season. In equatorial, tropical regions the virus causes  sporadic,  year-round  disease,  typically  with  a  peak  in  the summer months [2].
+Because the enzootic cycle is almost impossible to avoid in rural parts of  Asia,  almost  everyone  is  infected  during  childhood,  but  only  a small proportion develops disease-estimated to range from about 1 in 300 to 1 in 1000 [3]. An annual incidence of 30-50,000 cases of Japanese encephalitis is often quoted, but the figure may be as high as  175,000 [4]. Previously, there have been very large outbreaks in China, but these have been reduced following more widespread use of  vaccines (see  below).  In  recent  years, there  have  been large outbreaks in northern India and Nepal.
+The incidence of Japanese encephalitis varies across Asia from approximately 7 per 100,000 children in southern equatorial regions (e.g. Malaysia),  to  as  high  as  50  per  100,000  in  northern  regions  (e.g. northern  Thailand)  [5-7].  Although  mostly  a  disease  of  children, when the virus arrives in new regions adults are also affected because they  are  immunologically  naïve;  similarly,  adult  travelers  visiting Japanese  encephalitis  endemic  areas  are  at  risk.  Some  of  the  most important research on Japanese encephalitis occurred during American  military  activity  in  Asia  through  various  conflicts.  With  more widespread use of vaccines, the epidemiology is changing.
+
+============================================================
+CHUNK 66
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Following the bite of an infected mosquito there is viremia followed by spread into the central nervous system (CNS). Viral replication in
+FIGURE 34.4.2 The transmission cycle of Japanese encephalitis virus.
+FIGURE 34.4.3 Pathological images (From German AC, Myint KS, Mai NT, et al. A preliminary neuropathological study of Japanese encephalitis in humans and a mouse model. Transactions of the Royal Society of Tropical Medicine and Hygiene. 2006;100:1135-45). Histopathologic alterations in patients with Japanese encephalitis (hematoxylin and eosin). (A, B) PIF 44, cortical tissue; (C, D) CNS 307 frontal cortex; (E, F) CNS 307, pons. (A) Moderate perivascular mononuclear cucng and hemorrhage (arrow; OM × 400). (B) Small glial nodule (OM × 400). (C) Necrotic foci within the white matter (arrows; OM × 200). (D) Necrotic focus with gitter cells (arrows; OM × 400). (E) Perivascular lymphocytic in`ltrate around a vein containing a `brin plug (OM × 100). (F) Immunohistochemical stain for JEV antigen. Note the presence of viral antigen in the vascular endothelium (arrow; OM × 100).
+neurons is accompanied by an inflammatory perivascular infiltrate with microglial cell activation, formation of glial nodules and necrotic 'Swiss cheese' lesions (Fig. 34.4.3). Pathologic changes are especially marked in the deep gray matter of the basal ganglia and the anterior horn cells of the spinal cord, thus giving correlates for the Parkinsonism and flaccid paralysis often seen clinically.
+
+============================================================
+CHUNK 67
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+The host response is thought to include an innate response, which may control infection even before viremia occurs, and thus lead to asymptomatic  infection  followed  by  antibody-  and  cell-mediated immunity.  By  the  time  most  patients  arrive  at  hospital,  the  virus cannot  be  detected  in  the  blood  or  cerebrospinal  fluid  (CSF),  but neutralizing antibody is detectable at admission or soon after. There is a strong pro-inflammatory cytokine and chemokine response, both in the peripheral and central nervous systems. Twenty to thirty percent of children with Japanese encephalitis die, depending on the clinical setting.  Approximately  50%  of  survivors  have  obvious  neurologic and/or  psychiatric  sequelae;  many  others  have  subtle  difficulties, including personality and behavioral changes and poor school performance [6].
+
+============================================================
+CHUNK 68
+============================================================
+CLINICAL FEATURES
+In taking the history, establish whether a patience comes from a rural area where Japanese encephalitis occurs and also whether there is an
+011
+FIGURE 34.4.4 (A) Opisthotonus and other movement disorders are common in Japanese encephalitis (photo courtesy of T. Solomon, reproduced from Solomon T. Japanese encephalitis. In: Gilman S, Goldstein GW, Waxman SG, eds. Neurobase. San Diego: Medlink Publishing; 2000. (B) Poliomyelitis-like acute aaccid paralysis. This child has marked weakness and wasting one year after the initial presentation (photo courtesy of T. Solomon, reproduced from Solomon T, Kneen R, Dung NM, et al.  Poliomyelitis-like  illness  due  to  Japanese encephalitis virus.  Lancet  1998;351:1094-7.) (C) Sequelae of  Japanese  encephalitis-aexion deformities  are apparent in this child 2 months after the initial illness (photo courtesy of T. Solomon, reproduced from Solomon T. Japanese encephalitis. In: Gilman S, Goldstein GW, Waxman SG, eds. Neurobase. San Diego: Medlink Publishing; 2000..
+ongoing  outbreak  of  encephalitic  illness  or  other  disease,  such  as hand, foot and mouth disease caused by enterovirus 71. Ask if the child has been vaccinated against Japanese encephalitis and whether this was recent (as it could complicate the interpretation of serological tests-see below).
+Clinical presentations may range from a nonspecific febrile illness to aseptic meningitis, febrile seizures, febrile encephalopathy (with no inflammatory cells in the CSF) or a severe encephalitis (with a CSF pleocytosis  or  inflammation  on  imaging);  this  latter  is  the  most common  presentation  [6].  Typically,  children  with  encephalitis present with a few days history of flu-like illness, usually involving a severe  headache,  and  may  include  coryza,  diarrhea,  and  vomiting. This is followed by a reduction in the level of consciousness, often heralded by a seizure.
+
+============================================================
+CHUNK 69
+============================================================
+CLINICAL FEATURES
+Seizures  are  more  common  in  children  with  Japanese  encephalitis than in adults, occurring in up to 80% of cases, and are occasionally the first symptom [3]. They may be multiple, or prolonged and status epilepticus is common. In addition to convulsive status epilepticus, some patients have subtle motor status epilepticus in which the only clinical manifestation of seizure activity may be twitching of a digit or  eyebrow,  ocular  bobbing,  or  eye  deviation  [8].  Other  patients, especially adults, may have subtle abnormalities of behavior that may be mistaken for psychiatric illness.
+Neurologic  signs  may  include  pyramidal,  extra-pyramidal,  cranial nerve and lower motor neuron signs (Fig. 34.4.4). They may evolve rapidly over hours or even minutes, resulting in bizarre fluctuations. Pyramidal  (long  tract)  signs  are  common,  causing  a  hemiparesis. Extrapyramidal features include a Parkinsonian movement disorder with  tremors,  cog-wheel  rigidity,  and  mask-like  facies  with  a  wide palpebral angle and infrequent blinking. In addition, there may be orofacial dyskinesias, dystonic posturing, spasms, opisthotonus, cerebellar signs, choreoathetosis and, occasionally, hemibalismus. Cranial nerves commonly affected in Japanese encephalitis include the  third,  the  seventh  and  the  bulbar  nerves  thus  leading  to  an impaired,  or  absent,  gag  reflex.  Lower  motor  neuron  involvement following JEV infection may result in a poliomyelitis-like, acute flaccid paralysis. Lower motor neuron damage can also affect the bladder to cause  retention  and  the  respiratory  muscles  to  cause  ventilator dependence.
+In severe disease, there are clinical signs of brainstem damage, including  abnormalities  in  the  papillary  and  oculovestibular  reflexes,  the respiratory pattern and abnormal flexor or extensor responses to pain. These may be directly caused by viral invasion and inflammation in the brainstem, or indirectly by swelling and shift of brain compartments leading to transtentorial herniation (see Fig. 10.1, Chapter 10).
+
+============================================================
+CHUNK 70
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+The differential of Japanese encephalitis is broad and includes a range of other infectious and non-infectious causes (Table 34.4-1 and Table 10-1 in Chapter 10).
+
+============================================================
+CHUNK 71
+============================================================
+INVESTIGATIONS
+A full blood count often shows a neutrophil leukocytosis and most patients have hyponatremia. A lumbar puncture usually shows a mild pleocytosis  of  a  few  hundred  cells,  which  is  predominantly  lymphocytic.  However,  if  it  is  performed  in  the  first  couple  of  days  of illness,  there  may  be  a  predominance  of  neutrophils,  or  even  no
+
+============================================================
+CHUNK 72
+============================================================
+INVESTIGATIONS
+TABLE 34.4-1 Diberential Diagnosis of Japanese Encephalitis, 1 = TABLE 34.4-1 Diberential Diagnosis of Japanese Encephalitis. Viral, 1 = Comments. Arboviruses, 1 = . West Nile virus, 1 = Some overlap in geographical area, especially India. Dengue, 1 = Causes fever, arthralgia, rash and hemorrhagic disease, occasional CNS disease. Chikungunya, 1 = Causes fever, arthralgia, rash, occasional CNS disease. Chandipura virus, 1 = A vesiculovirus that has caused outbreaks in India. Other zoonotic viruses (not arthropod-borne), 1 = . Rabies, other lyssaviruses, 1 = From rabid dogs, cats and bats. Enteroviruses, 1 = . Enterovirus 71, 1 = Epidemic hand, foot and mouth disease with aseptic meningitis, brainstem encephalitis, myelitis. Poliovirus, 1 = Principally causes myelitis, still circulating in parts of Asia. Coxsackieviruses, echoviruses, parechovirus, 1 = Mostly cause aseptic meningitis. Herpes viruses, 1 = . Herpes simplex virus type 1, 1 = Most commonly diagnosed sporadic encephalitis. Herpes simplex virus type 2, 1 = Causes meningitis (especially recurrent); meningoencephalitis occurs in the immunocompromised or in neonates. Paramyxoviruses (family Paramyxoviridae), 1 = . Nipah virus, 1 = A zoonotic paramyxovirus, transmitted in feces of fruit bats in Malaysia and Bangladesh. Measles virus, 1 = Causes acute post-infectious encephalitis, subacute encephalitis and subacute sclerosing panencephalitis. Mumps virus, 1 = Parotitis, orchitis, pancreatitis. Bacterial, 1 = . Partially treated bacterial meningitis, 1 = . Tuberculous meningitis, 1 = . Typhoid, 1 = . Leptospirosis, 1 = . Abscess, 1 = . Para-/post-infectious, 1 = . Viral illnesses with febrile convulsions, 1 = . Acute
+
+============================================================
+CHUNK 73
+============================================================
+INVESTIGATIONS
+disseminated encephalomyelitis, 1 = . Metabolic, 1 = . Reye's syndrome, 1 = . Hypoglycaemia, 1 = . Toxic encephalopathy (alcohol, drugs), 1 = . Other, 1 = . Epilepsy, 1 = . Hysteria, 1 = . Only the most common, or important, diberential is included here. For a full diberential see Chapter 10. CNS, central nervous, 1 = system.
+FIGURE 34.4.5 CT scans of patients with Japanese encephalitis. (A) Unenhanced CT of case PIF4 on day 9 of illness showing bilateral hypodense lesions in the thalamus (arrows). (B) Unenhanced CT of case PIF18 on day 13 showing hypodense lesions in the left medial thalamus (arrow) and the right posterior thalamus (arrowhead). (C, D) Pre- and post-contrast images of the same patient (case PIF18) on day 32 of illness. The hypodense thalamic lesions, although less clear, are still visible and do not enhance with contrast. (From Dung NM, Turtle L, Chong WK, et al. An evaluation of the usefulness of neuroimaging for the diagnosis of Japanese encephalitis. Journal of neurology. 2009 Dec;256(12):2052-60.)
+pleocytosis. The glucose ratio is usually normal and the CSF protein moderately elevated. Although there is overlap between these findings and those of partially treated meningitis or tuberculous meningitis, the epidemiologic context, length of history, whether any antibiotics have been given and careful attention to the glucose ratio allow the distinction to be made in most patients. However, appropriate antibiotics must be given if there is any doubt.
+Computer tomography (CT) scans of the brain may show low-density lesions  caused  by  inflammation  in  the  thalamus  and  other  basal ganglia  (Fig.  34.4.5).  These  are  also  seen  on  magnetic  resonance images (MRI) as high signal intensities on T-2 weighted images; this, more sensitive, investigation may also show inflammation in the pons and medulla, as well as the anterior horns of the spinal cord [9].
+
+============================================================
+CHUNK 74
+============================================================
+DIAGNOSIS OF JAPANESE ENCEPHALITIS
+The virus is hard to detect in peripheral blood or CSF by virus isolation or PCR because it has usually cleared by the time patients present to  hospital.  The  virus  is occasionally isolated in patients  who  have failed  to  make antibody-a poor prognostic sign. Newer, real-time PCR methods are proving more sensitive at detecting virus and ELISAs that capture the viral non-structural (NS)-1 protein are also in development; however, in most settings, IgM antibody detection in the CSF or serum using an ELISA is the most appropriate test because of its high sensitivity, specificity and reliability [10]. A range of diagnostic kits for Japanese encephalitis are commercially available and a laboratory network has been established across Asia to standardize testing. Detection of IgM in the CSF is preferable to serum as it confirms CNS
+infection. Detection of antibody in the serum may only reflect recent, coincidental, asymptomatic infection or, possibly, recent vaccination. Because in many parts of Asia JEV co-circulates with other flaviviruses, such as dengue, with which there is cross-reactivity, ELISAs for JEV and dengue are often performed in parallel and the ratio is used to help determine which was the infecting virus. Where there is uncertainty, the plaque reduction neutralization assay is the definitive specific antibody  test  for  distinguishing  flaviviruses  but  it  is  only performed in specialized laboratories. If this is a patient's first flavivirus infection, the rapid rise in serum IgM is followed by a slower rise in IgG. In contrast, if they have been previously infected with a different flavivirus, IgG rises first. Thus, the ratio of IgM to IgG can be used to distinguish primary from secondary flavivirus infection.
+
+============================================================
+CHUNK 75
+============================================================
+TREATMENT
+The initial evaluation includes assessment of the airways, breathing and circulation, and examination for seizures, including subtle motor status  epilepticus,  as  described  above.  Patients  failing  to  maintain their  airway and oxygenation may need immediate intubation and ventilation in an intensive care unit, although the facilities for this are often  limited  in  areas  where  Japanese  encephalitis  occurs.  Ideally, seizures should be treated with a benzodiazepine, such as diazepam or lorazepam, followed by intravenous phenytoin and then ventilation  if  needed (see  Box 10.9 in Chapter 10). In some  parts of Asia where phenytoin is  not available,  phenobarbitone is  used,  initially with a loading dose.
+Fluid management is also an issue in many patients with encephalitis and is discussed in Chapter 10. Corticosteroids are also often given in Japanese encephalitis, although one small, randomized, placebocontrolled  trial failed  to  show  any  benefit [1 1]. The antiviral  drugs interferon alpha and ribavirin have also both been evaluated in clinical trials, but did not improve outcome [12, 13].
+Many patients with Japanese encephalitis are tachypnoeic; this may be caused by poor respiratory effort as a result of flaccid paralysis of the respiratory muscles, brainstem damage, pneumonia or all three of these processes. The clinical clue to paralyzed respiratory musculature is paradoxical movement of the chest wall, with all the inspiratory draw being provided by the diaphragm. If tachypnea is caused by damage in the mid-brain, pons, or medulla, this is usually accompanied by other brainstem signs, such as abnormal papillary or oculovestibular reflexes.  Pneumonia is typically aspiration pneumonia, with changes in the right upper lobe.
+
+============================================================
+CHUNK 76
+============================================================
+TREATMENT
+Contractures and bed sores are common, but simple techniques may reduce the risk of these. Although specialist beds and physiotherapists are not widely available in most of the areas where Japanese encephalitis occurs, nurses and family members can be taught how to gently keep joints mobile and the importance of changing position to minimize the risk of bed sores; splints may also help prevent contractures [14]. The child who survives Japanese encephalitis is left with a whole catalog of difficulties and disabilities that would prove challenging, even  in  a  Western,  industrialized  setting.  In  poor  Asian  countries, rehabilitation is even harder but some simple tools for assessing disability and overcoming some of the obstacles are becoming available [15, 16].
+
+============================================================
+CHUNK 77
+============================================================
+PREVENTION OF JAPANESE ENCEPHALITIS
+Measures to reduce the risk of Japanese encephalitis include avoiding the bites of infected mosquitoes by wearing long sleeves and trousers, and applying insecticide. There are several vaccines against Japanese
+
+============================================================
+CHUNK 78
+============================================================
+PREVENTION OF JAPANESE ENCEPHALITIS
+TABLE 34.4-2 Summary of Vaccines Against Japanese Encephalitis*, 1 = TABLE 34.4-2 Summary of Vaccines Against Japanese Encephalitis*. TABLE 34.4-2 Summary of Vaccines Against Japanese Encephalitis*, 2 = TABLE 34.4-2 Summary of Vaccines Against Japanese Encephalitis*. TABLE 34.4-2 Summary of Vaccines Against Japanese Encephalitis*, 3 = TABLE 34.4-2 Summary of Vaccines Against Japanese Encephalitis*. TABLE 34.4-2 Summary of Vaccines Against Japanese Encephalitis*, 4 = TABLE 34.4-2 Summary of Vaccines Against Japanese Encephalitis*. Description, 1 = Virus strain. Description, 2 = Common name. Description, 3 = Manufacture/ developer. Description, 4 = Notes. Inactivated vaccines, 1 = . Inactivated vaccines, 2 = . Inactivated vaccines, 3 = . Inactivated vaccines, 4 = . Mouse brain, 1 = Nakayama. Mouse brain, 2 = BIKEN. Mouse brain, 3 = BIKEN, Japan. Mouse brain, 4 = Manufactured until 2006 for international distribution, but may still be some availability. Mouse brain, 1 = Nakayama. Mouse brain, 2 = Green Cross. Mouse brain, 3 = Green Cross, South Korea. Mouse brain, 4 = Some available internationally under the Green Cross partnership. Vero cell, 1 = Beijing-1. Vero cell, 2 = BK-VJE. Vero cell, 3 = Japan. Vero cell, 4 = In development; targeted for Japanese market. Vero cell, 1 = SA14-14-2. Vero cell, 2 = JE-PIV (IC51) IXIARO®. Vero cell, 3 = WRAIR, Intercell. Vero cell, 4 = Distributed by Novartis in the USA, Europe and some Asian and Latin American markets, by Biological E. Ltd (India) in India and parts of Asia, and by CSL Biotherapies (Australia) in Australia, New Zealand, Papua New Guinea and Paci`c Islands. The vaccine is not currently licensed for use in children, but one pediatric study has been completed and further studies are planned. Live attenuated vaccines, 1 = . Live attenuated vaccines, 2 = . Live attenuated vaccines, 3 = . Live attenuated vaccines, 4
+
+============================================================
+CHUNK 79
+============================================================
+PREVENTION OF JAPANESE ENCEPHALITIS
+= . Primary hamster kidney, 1 = SA14-14-2. Primary hamster kidney, 2 = . Primary hamster kidney, 3 = China. Primary hamster kidney, 4 = Widely used in China, also in Nepal, India, South Korea and planned for Sri Lanka. Recombinant vaccines, 1 = . Recombinant vaccines, 2 = . Recombinant vaccines, 3 = . Recombinant vaccines, 4 = . 17-D yellow fever vectored, 1 = SA14-14-2. 17-D yellow fever vectored, 2 = Chimerivax-JE. 17-D yellow fever vectored, 3 = Acambis. 17-D yellow fever vectored, 4 = Marketing and distribution agreements with Sano` Pasteur and Bharat Biotech International Ltd (Indian subcontinent)
+*Only the most widely available vaccines, and those in advanced development are shown. Additional, inactivated vaccines include a mouse-brain-derived vaccine manufactured in Japan and vero cell and primary hamster kidney-derived vaccines produced in China.
+ModiJed from Beasley DW, Lewthwaite P, Solomon T. Current use and development of vaccines for Japanese encephalitis. Expert Opin Biol Ther 2008;8:95-106; Solomon T. Vaccines against Japanese encephalitis.In: Jong EC, Zuckerman JN eds. Travelers' Vaccines. Hamilton: BC Decker; 2004: 219-56.
+
+============================================================
+CHUNK 80
+============================================================
+BOX 34.4.1  Emergency Evaluation and Treatment of a Patient with Japanese Encephalitis
+Assess airways, breathing and circulation
+Look for abnormal movements: seizures, including subtle motor seizures tremors of dyskinesias
+Treat seizures/status epilepticus with (aow chart as per Japanese encephalitis World Health Organization clinical care guidelines):
+diazepam phenytoin
+paraldehyde phenobarbitone  (loading  dose  of  20 mg/kg,  followed  by 10 mg/kg)
+intubation and ventilation
+
+============================================================
+CHUNK 81
+============================================================
+Assess hydration:
+rehydrate gently if needed
+Tachypnea. Look for: pneumonia respiratory muscle paresis brainstem signs
+
+============================================================
+CHUNK 82
+============================================================
+BOX 34.4.2  Adult Considerations in Japanese Encephatlitis
+In endemic areas, adults are at low risk of Japanese encephalitis as they have already been exposed to the virus as children and have developed natural immunity. However, adults are at risk in three circumstances:
+- when  Japanese  encephalitis  virus  (JEV)  spreads  to  new areas for the `rst time, adults are at risk because they are immunologically naïve;
+- adult travelers to Japanese encephalitis endemic areas are also at risk as they do not have prior immunity;
+- there is a small increase in incidence in the elderly, which may reaect waning immunity or other risk factors, such as cerebrovascular disease or hypertention.
+Compared to children, adults with Japanese encephalitis are:
+- less likely to present with seizures;
+- more  likely  to  present  with  abnormal  behavior  and  are thought to have psychiatric illness.
+encephalitis  [2]  (Table  34.4-2).  Formalin-inactivated,  mouse-brainderived vaccines were used routinely in wealthier Asian countries and for travelers. Production of the most widely available one (Biken) has ceased. In some Asian countries it is being replaced by a tissue culturederived, inactivated vaccine.
+A live attenuated vaccine (SA-14-14-2) developed in China has been used since the late 1980s. Its use beyond China had been limited by issues over the novel cell line used (primary hamster kidney) but, in recent years, these issues have been resolved and the vaccine has now been licensed across Asia [17]. An inactivated vaccine (Ixiaro), based on 14-14-2, developed by the Walter Reed Army Institute and then Intercell in Austria, is also becoming more widely available for travelers [18]. A chimeric vaccine, in which the structural genes of JEV strain 14-14-2 are inserted into the backbone of the live attenuated yellow fever vaccine strain 17D,  is  close  to  approval  for  marketing (Boxes 34.4.1 and 34.4.2).
+
+============================================================
+CHUNK 83
+============================================================
+REFERENCES
+1. Solomon T. Control of Japanese encephalitis-within our grasp? N Engl J Med 2006;355:869-71.
+2. Beasley DW, Lewthwaite P, Solomon T. Current use and development of vaccines for Japanese encephalitis. Expert Opin Biol Ther 2008;8:95-106.
+3. Solomon T, Dung NM, Kneen R, et al. Japanese encephalitis. J Neurol Neurosurg Psychiatry 2000;68:405-15.
+4. Tsai TF. New initiatives for the control of Japanese encephalitis by vaccination: minutes of a WHO/CVI meeting, Bangkok, Thailand, 13-15 October 1998. Vaccine 2000;18(suppl. 2):1-25.
+5. Jmor F,  Emsley  HCA,  Fischer  M,  et  al.  The  incidence  of  acute  encephalitis syndrome  in  Western  Industrialised  and  Tropical  Countries.  Virol  J  2008; 5:134.
+6. Ooi MH, Lewthwaite P, Lai BF, et al. The epidemiology, clinical features, and long-term  prognosis  of  Japanese  encephalitis  in  central  Sarawak,  Malaysia, 1997-2005. Clin Infect Dis 2008;47:458-68.
+7. Hoke  CH,  Nisalak  A,  Sangawhipa  N,  et  al.  Protection  against  Japanese encephalitis by inactivated vaccines. N Engl J Med 1988;319:608-14.
+8. Solomon  T,  Dung  NM,  Kneen  R,  et  al.  Seizures  and  raised  intracranial pressure in Vietnamese patients with Japanese encephalitis. Brain 2002;125: 1084-93.
+9. Dung N M, Turtle L, Chong WK, et al. An evaluation of the  usefulness of neuroimaging for the diagnosis of Japanese encephalitis. J Neurol 2009;256: 2052-60.
+10.  Solomon T, Thao TT, Lewthwaite P, et al. A cohort study to assess the new WHO Japanese encephalitis surveillance standards. Bull World Health Organ 2008;86:178-86.
+
+============================================================
+CHUNK 84
+============================================================
+REFERENCES
+11.  Hoke CH, Vaughn DW, Nisalak A, et al. Effect of high dose dexamethasone on  the  outcome  of  acute  encephalitis  due  to  Japanese  encephalitis  virus. J Infect Dis 1992;165:631-7.
+12.  Solomon T, Dung NM, Wills B, et al. Interferon alfa-2a in Japanese encephalitis:  a  randomised  double-blind  placebo-controlled  trial.  Lancet  2003;361: 821-6.
+13.  Kumar R, Tripathi P, Baranwal M, et al. Randomized, controlled trial of oral ribavirin for Japanese encephalitis in children in Uttar Pradesh, India. Clin Infect Dis 2009;48: 400-6.
+14.  http://www.liv.ac.uk/media/livacuk/infectionandglobalhealth/docs/long-termcare.pdf
+15.  Lewthwaite  P,  Ravikumar  R,  et  al.  A  simple  tool  for  assessing  disability  in Japanese encephalitis.  American  Society  of  Tropical  Medicine  and  Hygiene 54th Annual Meeting, Washington; 2005.
+16.  http://www.liv.ac.uk/neuroscience/brain_infections_group/education_ presentations.htm
+17.  Hennessy S, Strom BL, Bilker WB, et al. Effectiveness of live-attenuated Japanese encephalitis vaccine (SA14-14-2): a case-control study. Lancet 1996;347: 1583-6.
+18.  Tauber  E,  Kollaritsch  H,  Korinek  M,  et  al. Safety  and  immunogenicity of  a Vero-cell-derived, inactivated Japanese encephalitis vaccine: a non-inferiority, phase III, randomised controlled trial. Lancet 2007;370:1847-53.
+19.  German AC, Myint KS, Mai NT, et al. A preliminary neuropathological study of Japanese encephalitis in humans and a mouse model. Transactions of the Royal Society of Tropical Medicine and Hygiene 2006;100:1135-45.
+20.  Solomon T. Japanese encephalitis. In: Gilman S, Goldstein GW, Waxman SG, eds. Neurobase. San Diego: Medlink Publishing; 2000.
+
+============================================================
+CHUNK 85
+============================================================
+REFERENCES
+21.  Solomon T, Kneen R, Dung NM, et al. Poliomyelitis-like illness due to Japanese encephalitis virus. Lancet 1998;351:1094-7.
+22.  Dung  NM,  Turtle  L,  Chong  WK,  et  al.  An  evaluation  of  the  usefulness  of neuroimaging for the diagnosis of Japanese encephalitis. Journal of neurology 2009 Dec;256(12):2052-60.
+23.  Solomon T. Vaccines against Japanese encephalitis. In: Jong EC, Zuckerman JN, eds. Travelers' Vaccines. Hamilton: BC Decker; 2004: 219-56.
+
+============================================================
+CHUNK 86
+============================================================
+34.5 West Nile Virus
+Marc Fischer, J Erin Staples, Grant L Campbell
+
+============================================================
+CHUNK 87
+============================================================
+Key features
+- West Nile virus (WNV) is transmitted to humans primarily through bites of infected mosquitoes
+- WNV has been documented on all continents except Antarctica, but has most recently caused large seasonal outbreaks in the Middle East, Europe, and North America
+- Most human WNV infections are asymptomatic (~80%) but clinical illness ranges from a systemic febrile illness (~20%) to severe neurologic disease ( < 1%)
+- The incidence of WNV encephalitis and death increase with age
+- As there is no treatment or vaccine for WNV disease, prevention depends on community-level mosquito control programs, avoiding exposure to infected mosquitoes and screening blood and organ donors
+
+============================================================
+CHUNK 88
+============================================================
+INTRODUCTION
+West Nile virus (WNV) is a mosquito-borne, single-stranded, positivesense  RNA flavivirus (family Flaviviridae ,  genus Flavivirus ),  that  was first isolated in Uganda in 1937 [1-4]. For the next 50 years, WNV received little attention as a cause of epidemics of febrile illness and sporadic encephalitis in parts of Africa, Asia and Europe. Beginning in the 1990s, WNV outbreaks with a higher incidence of neurologic disease were identified in the Mediterranean Basin and Eastern Europe [1]. WNV was first detected in the western hemisphere in New York City in 1999 where it subsequently spread across the continental USA and Canada, resulting in large seasonal outbreaks of both systemic febrile  illness  and  neuroinvasive  disease  [5].  More  recently,  WNV disease has re-emerged in eastern and southern Europe [6].
+
+============================================================
+CHUNK 89
+============================================================
+EPIDEMIOLOGY
+WNV is the most widely distributed arthropod-borne virus (arbovirus) in the world, with transmission documented on every continent except  Antarctica  [1,  2].  Since  the  1990s,  the  largest  outbreaks  of WNV neuroinvasive disease have occurred in the Middle East, Europe, and North America [6]. In temperate and subtropical regions, most human WNV infections occur in  summer or early autumn. In  the tropics,  the incidence  is likely greatest  during the rainy season, but data are scarce. Although all age groups and both sexes are equally susceptible to WNV infection, the incidence of encephalitis and death increase with age.
+
+============================================================
+CHUNK 90
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+WNV is primarily transmitted to humans through bites of infected Culex mosquitoes. Birds are the primary amplifying hosts. Mosquitoes acquire WNV by feeding on infected birds and transmit the virus to humans and other vertebrates  during  subsequent  feeding.  Infected humans usually have < 7 days of low-level viremia that is insufficient to  transmit  WNV  to  feeding  mosquitoes.  Nevertheless,  human-tohuman WNV transmission can occur through blood transfusion and organ transplantation [4, 5]. Intrauterine and probable breastfeeding transmission have also been rarely described. Percutaneous and aerosol transmission  have  occurred  in  laboratory  workers-an outbreak  among  turkey  handlers  suggested  WNV  transmission  via aerosol.
+
+============================================================
+CHUNK 91
+============================================================
+CLINICAL FEATURES
+Approximately 80% of human WNV infections are asymptomatic [7]. In clinical infections, the incubation period usually is 2-6 days, but can be up to 21 days in immunocompromised people. Most symptomatic persons experience an acute systemic febrile illness that often includes headache, myalgia or arthralgia; gastrointestinal symptoms and a transient maculopapular rash also are commonly reported. Less than  1%  of  infected  people  develop  neuroinvasive  disease,  which typically manifests as meningitis, encephalitis, or acute flaccid paralysis.  Patients  with  encephalitis  may  present  with  seizures,  mental status changes, focal neurologic deficits or movement disorders. WNV acute flaccid paralysis is often clinically and pathologically identical to  poliomyelitis  caused  by  polioviruses,  with  damage  of  anterior horn cells in the spinal cord (anterior myelitis); it  may progress to respiratory paralysis requiring mechanical ventilation. WNVassociated Guillain-Barré syndrome has also been reported and can be distinguished from WNV myelitis by clinical manifestations and electrophysiologic testing. Cardiac dysrhythmias, myocarditis, rhabdomyolysis, optic neuritis, uveitis, chorioretinitis, orchitis, pancreatitis and hepatitis have been rarely described after WNV infection.
+Most  patients  with  WNV  non-neuroinvasive  disease  or  meningitis recover completely, but fatigue, malaise and weakness can linger for weeks or months [7, 8]. Patients who recover from WNV encephalitis or  myelitis  often  have  residual  neurologic  deficits.  Among  patients with  neuroinvasive  disease,  the  overall  case-fatality  rate  is  approximately 10%, but it is significantly higher in WNV encephalitis and myelitis than in WNV meningitis. Risk factors for developing neuroinvasive disease include older age and history of solid organ transplantation;  other  immunocompromising  conditions,  diabetes,  and hypertension are suspected risk factors.
+
+============================================================
+CHUNK 92
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Routine clinical laboratory results are generally nonspecific in WNV infections. In patients with central nervous system disease, cerebrospinal fluid (CSF) examination generally shows lymphocytic pleocytosis, but neutrophils may predominate early in the illness [7]. Brain magnetic resonance imaging (MRI) is frequently normal, but signal abnormalities may be seen in the basal ganglia, thalamus and brainstem with WNV encephalitis, and in the spinal cord with WNV myelitis.
+WNV  infections  are  most  frequently  confirmed  by  detection  of anti-WNV IgM antibodies  in serum or CSF [1, 7]. The presence of anti-WNV IgM is usually good evidence of recent WNV infection, but may indicate infection with another closely related flavivirus. As antiWNV IgM can persist in some patients for > 1 year, a positive test result occasionally  may  reflect  past,  rather  than  recent,  WNV  infection. Serum collected within 10 days of illness onset may lack detectable IgM;  the  test  should  be  repeated  on  a  convalescent-phase  sample. Plaque-reduction  neutralization  tests  can  be  performed  to  confirm recent infection by demonstrating a ≥ fourfold change in WNV-specific neutralizing  antibody  titers  between  acute-  and  convalescent-phase serum samples and to rule-out primary infection with a closely related flavivirus. In patients who have been previously infected by another flavivirus or  vaccinated  with  a  flavivirus  vaccine  (e.g.  Japanese encephalitis), broadly cross-reactive antibodies may make it difficult to incriminate a specific flavivirus.
+Viral culture and nucleic acid amplification tests for WNV RNA can be performed on acute-phase serum, CSF, or tissue specimens; immunohistochemical  staining  can  detect  WNV  antigens  in  fixed  tissue, but the sensitivity of these tests is  low and negative results are not definitive.
+
+============================================================
+CHUNK 93
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+WNV disease should be  considered in the differential  diagnosis  of febrile or acute neurologic illnesses associated with recent exposure to mosquitoes, blood transfusion, or organ transplantation, and of illnesses in neonates whose mothers were infected with WNV during pregnancy or while breastfeeding. In addition to other more common causes  of  encephalitis  and  aseptic  meningitis  (e.g.  herpes  simplex virus and enteroviruses), other arboviruses should also be considered in the differential etiology of suspected WNV illness.
+
+============================================================
+CHUNK 94
+============================================================
+TREATMENT
+No specific  antiviral  treatment  for  WNV  disease exists  [3]. Therapy consists of supportive care and management of complications. Several vaccines against WNV are licensed for use in horses; candidate human WNV  vaccines  are  being evaluated.  Information  regarding  the latest  WNV  treatment  and  vaccine  trials  can  be  found  at:  http:// clinicaltrials.gov/ct2/home.
+In  the  absence  of  a  human  vaccine,  prevention  of  WNV  disease depends  on  screening  blood  and  organ  donors,  community-level
+mosquito control programs and avoiding exposure to infected mosquitoes [2]. Personal protective measures include the use of mosquito repellents, wearing long-sleeved shirts and long pants, and limiting outdoor exposure from dusk to dawn. Using air conditioning, installing window and door screens, and reducing peri-domestic mosquito breeding sites, can further decrease the risk for WNV exposure. Additional information on prevention of WNV infection is available at: http://www.cdc.gov/ncidod/dvbid/westnile/index.htm.
+
+============================================================
+CHUNK 95
+============================================================
+REFERENCES
+1. Campbell GL, Marfin AA, Lanciotti RS, Gubler DL. West Nile virus. Lancet Infect Dis 2002;2:519-29.
+2. Kramer LD, Styer LM, Ebel GD. A global perspective on the epidemiology of West Nile virus. Annu Rev Entomol 2008;53:61-81.
+3. Diamond MS. Progress on the development of therapeutics against West Nile virus. Antiviral Res 2009;83:214-27.
+4. Hayes EB, Komar N, Nasci RS, et al. Epidemiology and transmission dynamics of West Nile virus disease. Emerg Infect Dis 2005;11:1 167-73.
+5. Lindsey NP, Staples JE, Lehman JA, Fischer M. Surveillance for West Nile Virus Disease - United States, 1999-2008. Surv Summ, April 2, 2010. MMWR 2010; 59(SS-2).
+6. Reiter  P.  West  Nile  virus  in  Europe:  understanding  the  present  to  gauge the future. Euro Surveill 2010;15:19508. Available at: http://www. eurosurveillance.org/ViewArticle.aspx?ArticleId=19508.
+7. Davis LE, DeBiasi R, Goade DE, et al. West Nile virus neuroinvasive disease. Ann Neurology 2006;60:286-300.
+8. Sejvar J. The long-term outcomes of human West Nile virus infection. Clin Infect Dis 2007;44:1617-24.
+
+============================================================
+CHUNK 96
+============================================================
+34.6 Saint Louis Encephalitis and Rocio Encephalitis
+James J Sejvar
+
+============================================================
+CHUNK 97
+============================================================
+Key features
+- Saint Louis encephalitis virus and Rocio virus are transmitted to humans by infected Culex mosquitoes
+- Both Saint Louis encephalitis virus and Rocio virus cause central nervous system disease, including meningitis and encephalitis
+- Saint Louis encephalitis virus causes illness primarily in periodic large urban outbreaks throughout the USA
+- Rocio virus resulted in a large outbreak of encephalitis in coastal Brazil from 1975-1977; it has rarely been identified since then
+- There is no specific treatment for Saint Louis encephalitis virus or Rocio virus infections; management is symptomatic
+
+============================================================
+CHUNK 98
+============================================================
+INTRODUCTION
+Saint  Louis  encephalitis  virus  and  Rocio  virus  are  arthropod-borne viruses (arboviruses) of the Flavivirus genus (family Flaviviridae ) which can produce acute febrile illness and central nervous system (CNS) disease. Saint Louis encephalitis virus was named following the first recognized outbreak in St Louis, Missouri, USA. Rocio virus was first isolated  from  a  fatal  case  of  encephalitis  in  the  Rocio  district,  São Paulo,  Brazil. The two  viruses, which  are  closely related,  are maintained in enzootic cycles between birds and mosquitoes and transmitted  to  humans  by  infected  mosquitoes. Culex mosquitoes,  which breed in dirty water, are the most important vectors. Since it was first identified  in  the  1930s,  Saint  Louis  encephalitis  virus  has  caused periodic  large  outbreaks  throughout  the  USA.  In  contrast,  Rocio virus was first identified as the cause of an outbreak of encephalitis in Brazil in the 1970s and has rarely been detected since.
+
+============================================================
+CHUNK 99
+============================================================
+EPIDEMIOLOGY
+Transmission of Saint Louis encephalitis virus and Rocio virus involves mosquito vectors and avian hosts. The geographic range of Saint Louis encephalitis  virus  extends from southern Canada to Argentina, but human cases have been identified primarily in the USA. Saint Louis encephalitis  typically  occurs  in  periodic  large  outbreaks  during  the late  summer and early autumn. From 1960-1990, these outbreaks primarily  occurred  in  urban  areas  in  the  southeastern  and  central USA,  with  a  more  sporadic  disease  pattern  in  the  southwest  (Fig. 34.6.1)  [1,  2].  A  large  outbreak  of  Saint  Louis  encephalitis  in  the central USA in 1975 resulted in more than 2000 neuroinvasive cases and approximately 185 deaths; subsequent focal outbreaks of Saint Louis encephalitis have occurred in Florida in 1990, Louisiana in 2001 and  Argentina  in  2005.  The  factors  controlling  these  large  period outbreaks are poorly understood.
+FIGURE 34.6.1 Saint Louis encephalitis virus neuroinvasive disease cases reported by state, United States, 1964-2009.
+
+============================================================
+CHUNK 100
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+Most infections with Saint Louis encephalitis virus are asymptomatic [1]. While serologic surveys suggest that all age groups are at roughly equal  risk  of  infection,  clinical  illness  is  more  frequent  and  more severe in older age groups.
+Between 1975 and 1977, over 1000 cases of Rocio virus disease were reported in São Paulo state, Brazil [3]. Subsequently, only sporadic cases  have  been  reported,  although  asymptomatic  infections  have been identified during serosurveys. To date, Rocio virus has not been detected outside of Brazil.
+
+============================================================
+CHUNK 101
+============================================================
+CLINICAL FEATURES
+The incubation period for Saint Louis encephalitis virus is estimated to  be  4-14  days.  Aseptic  meningitis  and  encephalitis  are  the  most commonly described clinical syndromes following infection; nonspecific  febrile  illness  likely  also  occurs.  Saint  Louis  encephalitis  virus meningitis is clinically similar to other viral meningitides, with clinical features including fever, headache, neck stiffness and other meningeal  signs.  Cerebrospinal  fluid  (CSF)  shows  a  moderately  elevated white  cell  count  and  protein.  Outcome  is  generally  favorable. Encephalitis caused by Saint Louis encephalitis virus infection may result in altered mental status, ataxia, tremors, seizures or other neurologic signs. The syndrome of inappropriate secretion of antidiuretic hormone (SIADH) causing hyponatremia has been described. Mortality following Saint Louis encephalitis virus encephalitis ranges from 5-20%; the case-fatality is higher in older age groups.
+Clinical  illness  from  Rocio  virus  is  essentially  the  same  as  that described for Saint Louis encephalitis virus. The Rocio virus outbreak in  1975-1977  was  associated  with  severe  illness  observed  both  in younger children and in older individuals.
+
+============================================================
+CHUNK 102
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+The  diagnosis  of  Saint  Louis  encephalitis  should  be  considered  in patients with fever, aseptic meningitis or encephalitis in the setting of known  Saint  Louis  encephalitis  virus  transmission,  or  during  the appropriate season in endemic areas. In patients presenting with signs of meningitis or encephalitis, CSF examination should be performed to  exclude  bacterial  meningitis  and  assess  for  CNS  inflammation. Patients  should  also  be  evaluated  for  possible  metabolic  causes  of acute  encephalopathy  and  other  common  viral  etiologies  of  acute encephalitis, such as herpes simplex virus. As Saint Louis encephalitis virus and West Nile virus co-circulate in largely the same areas and are clinically nearly identical, both viruses should be considered in tandem.
+Laboratory  confirmation of Saint  Louis  encephalitis  virus  infection is  most  commonly  made  by  detection  of  virus-specific  IgM  antibodies  by  enzyme  immunoassay  (EIA)  in  acute  serum  or  CSF,  or demonstration of at least a fourfold rise in Saint Louis encephalitis virus-specific antibodies between  acute-  and convalescent-phase serum specimens collected 2-3 weeks apart. Antibodies to Saint Louis encephalitis virus and Rocio virus may be cross-reactive with those against closely related flaviviruses (e.g. West Nile and dengue viruses) or flavivirus vaccines (e.g. yellow fever and Japanese encephalitis vaccines).  In  these  situations,  plaque-reduction  neutralization  testing (PRNT)  may  discriminate  between  cross-reacting  antibodies.  Viral culture or Saint Louis encephalitis virus-specific PCR testing may be performed on acute-phase serum, CSF, or tissue, but the sensitivity is low.
+
+============================================================
+CHUNK 103
+============================================================
+TREATMENT AND PREVENTION
+There  is  no  specific  treatment  for  Saint  Louis  encephalitis  virus  or Rocio  virus  infection;  management  of  clinical  illness  is  supportive. Interferonα 2b has been reported to reduce the severity and duration of complications from Saint Louis encephalitis in some patients, but randomized controlled trials have not been conducted (Category 4 evidence).  Corticosteroids  and  intravenous  immune  globulin  have been used on an anecdotal basis to treat Saint Louis encephalitis with no clear benefit (Category 5 evidence). Preventing infection through protection from mosquito bites is of primary importance.
+
+============================================================
+CHUNK 104
+============================================================
+REFERENCES
+1. Reisen  WK.  Epidemiology  of  St.  Louis  encephalitis  virus.  Adv  Virus  Res 2003;61:139-83.
+2. Reimann CA, Hayes EB, DiGuiseppi C, et al. Epidemiology of neuroinvasive arboviral  disease  in  the  United  States,  1999-2007.  Am  J  Trop  Med  Hyg 2008;79:974-9.
+3. de Souza Lopes O, Coimbra TL, de Abreu Sacchetta L, et al. Emergence of a new arbovirus disease in Brazil. I. Isolation and characterization of the etiologic agent, Rocio virus. Am J Epidemiol 1978;107:444-9.
+
+============================================================
+CHUNK 105
+============================================================
+34.7 Other Arboviral Encephalitides
+James J Sejvar, Grant L Campbell
+
+============================================================
+CHUNK 106
+============================================================
+Key features
+- Arboviruses (arthropod-borne viruses) that cause encephalitis are seasonally transmitted by insect or tick vectors, and are found worldwide
+- Many arboviruses are only associated with sporadic cases of human illness
+- The arboviral encephalitides are clinically indistinguishable from the other viral encephalitides
+- There is no speciJc treatment for any arboviral disease, and management is supportive
+- Recognition of the presence of these arboviruses, and avoidance of exposure to insect or tick vectors, is key to prevention of disease
+
+============================================================
+CHUNK 107
+============================================================
+INTRODUCTION
+Arboviruses  (arthropod-borne  viruses)  are  seasonally  vectored  by insects or ticks. Medically important arboviruses are found in at least five viral families ( Bunyaviridae , Flaviviridae, Reoviridae , Rhabdoviridae , and Togaviridae )  and are  distributed worldwide.  Several  arboviruses associated with large numbers of cases of human neurologic disease (e.g. Japanese encephalitis, West Nile, St Louis encephalitis and the equine  encephalitis  viruses)  are  covered  in  earlier  chapters.  Many others,  however,  have  been  recognized  as  causing  only  sporadic human disease or small and infrequent outbreaks, or have been associated only with laboratory-acquired infection [1, 2]. Table 34.7-1 lists some of these viruses known to cause encephalitis and not covered in earlier chapters. Additional information on selected viruses listed in Table 34.7-1 is included below. In addition to viruses listed in Table 34.7-1, several known, or suspected, arboviruses in the families Bunyviridae (Bhanja,  Bwamba, Erve, Oropouche and Wanowrie viruses), Flaviviridae (Langat and Omsk hemorrhagic fever viruses), Orthomyxoviridae (Thogoto  virus), Reoviridae (Eyach  virus)  and  Togaviridae (Semliki Forest virus) have been associated  with rare, unproven, or laboratory-associated cases of neuroinvasive disease in humans.
+
+============================================================
+CHUNK 108
+============================================================
+FAMILY BUNYAVIRIDAE
+La Crosse virus in the California serogroup is endemic to the deciduous forests of rural and suburban eastern North America, where its primary  vector  is Ochlerotatus  triseriatus (the  eastern  treehole  mosquito), its main amplifying hosts are small mammals (e.g. squirrels and  chipmunks) and it  overwinters in  mosquito eggs (transovarial transmission)  deposited  in  treeholes  and  artificial  containers  (e.g. discarded  tires).  In  the  USA,  an  average  of  80  cases  of  La  Crosse encephalitis are reported annually, with a case-fatality of 1-3%. Risk factors  include  young  age  (median,  8  years),  male  sex  (60%)  and living in  high-incidence  areas (e.g.  some  counties in  West  Virginia, North Carolina, Ohio, Tennessee, and Wisconsin). Other, less-studied, North American bunyaviruses known  to cause sporadic cases of encephalitis include Jamestown Canyon, Snowshoe hare, and California  encephalitis  viruses  in  the  California  serogroup  and  Cache Valley  virus  in  the  Bunyamwera  serogroup.  In  Europe  and  Asia, Tahyna  virus,  and  possibly  Inkoo  virus  in  the  Calfornia  serogoup, also cause sporadic encephalitis cases. In the Phlebotomus
+
+TABLE 34.7-1 Selected characteristics of other arboviruses known to cause neuroinvasive illness in humans*
+
+============================================================
+CHUNK 109
+============================================================
+FAMILY BUNYAVIRIDAE
+Bunyaviridae, Primary vector(s) = . Bunyaviridae, Vertebrate amplifying host(s) = . Bunyaviridae, Known geographic range = . Cache Valley, Primary vector(s) = Mosquitoes. Cache Valley, Vertebrate amplifying host(s) = Large mammals (?). Cache Valley, Known geographic range = North America. California serogroup †, Primary vector(s) = Mosquitoes. California serogroup †, Vertebrate amplifying host(s) = Mammals. California serogroup †, Known geographic range = Europe, North America. Toscana, Primary vector(s) = Sandaies. Toscana, Vertebrate amplifying host(s) = Unknown. Toscana, Known geographic range = Southern Europe. Flaviviridae, Primary vector(s) = . Flaviviridae, Vertebrate amplifying host(s) = . Flaviviridae, Known geographic range = . Kunjin, Primary vector(s) = Mosquitoes. Kunjin, Vertebrate amplifying host(s) = Birds. Kunjin, Known geographic range = Australia, Southeast Asia. Kyasanur Forest disease, Primary vector(s) = Ticks. Kyasanur Forest disease, Vertebrate amplifying host(s) = Mammals (?). Kyasanur Forest disease, Known geographic range = India, China (?), Saudi Arabia (?). Louping ill, Primary vector(s) = Ticks. Louping ill, Vertebrate amplifying host(s) = Large mammals. Louping ill, Known geographic range = UK. Murray Valley encephalitis, Primary vector(s) = Mosquitoes. Murray Valley encephalitis, Vertebrate amplifying host(s) = Birds. Murray Valley encephalitis, Known geographic range = Australia, New Guinea. Powassan, Primary vector(s) = Ticks. Powassan, Vertebrate amplifying host(s) = Small mammals. Powassan, Known geographic range = North America, Russia. Tick-borne encephalitis, Primary vector(s) = Ticks. Tick-borne encephalitis, Vertebrate amplifying host(s) = Small mammals. Tick-borne encephalitis, Known geographic range
+
+============================================================
+CHUNK 110
+============================================================
+FAMILY BUNYAVIRIDAE
+= Europe, Asia. Reoviridae, Primary vector(s) = . Reoviridae, Vertebrate amplifying host(s) = . Reoviridae, Known geographic range = . Banna, Primary vector(s) = Mosquitoes (?). Banna, Vertebrate amplifying host(s) = Unknown. Banna, Known geographic range = Asia. Colorado tick fever, Primary vector(s) = Ticks. Colorado tick fever, Vertebrate amplifying host(s) = Small mammals. Colorado tick fever, Known geographic range = North America. Kemerovo serogroup §, Primary vector(s) = Ticks. Kemerovo serogroup §, Vertebrate amplifying host(s) = Unknown. Kemerovo serogroup §, Known geographic range = Europe, Middle East. Rhabdoviridae, Primary vector(s) = . Rhabdoviridae, Vertebrate amplifying host(s) = . Rhabdoviridae, Known geographic range = . Chandipura, Primary vector(s) = Sandaies (?). Chandipura, Vertebrate amplifying host(s) = Unknown. Chandipura, Known geographic range = South Asia, West Africa
+*Excluding viruses covered in other chapters.
+† Includes California encephalitis, Jamestown Canyon, La Crosse, Snowshoe hare and Tahyna viruses.
+§ Includes Kemerovo, Lipovnik and Tribec viroses.
+fever  serogroup,  Toscana  virus  has  recently  been  recognized  as  an important cause of summertime meningitis and, to a lesser extent, encephalitis in southern Europe from Spain to Turkey; Italy has had several  outbreaks  in  recent  years.  Young  adults  are  predominately affected; fatalities are rare. Toscana virus is vectored by sandflies, probably including Phlebotomus perniciosus and Phlebotomus perfiliewi . The role  of  vertebrates  in  the  amplification  or  maintenance  of  Toscana virus is unknown; the vectors themselves may serve as the reservoir via trans  ovarial transmission.
+
+============================================================
+CHUNK 111
+============================================================
+FAMILY FLAVIVIRIDAE
+Encephalitogenic tick-borne flaviviruses include the following closely related members of the genus Flavivirus : tick-borne encephalitis; Kyasanur Forest disease; Louping ill; and Powassan viruses. Of these, tickborne encephalitis virus (TBEV) is of greatest public health importance, with an average of approximately 9000 cases reported in Europe per year. TBEV includes the European, Siberian and Far Eastern subtypes. All are amplified in rodents and other small mammals and primarily vectored by Ixodes species: Ixodes ricinus for the European subtype and Ixodes  persulcatus for  the  other  two  subtypes.  Disease  caused  by  all three TBEV subtypes is most common in people aged 15-40 years. The  Far  Eastern  subtype  is  generally  associated  with  more  severe human disease, a case-fatality rate of approximately 20% and a frequency of permanent sequelae in survivors of up to 80%. In addition to encephalitis, acute flaccid paralysis caused by lower motor neuron involvement has been described. The European and Siberian subtypes are  generally  associated  with  milder  disease  and  lower  case-fatality (1-3%). The European subtype is associated with biphasic illness in approximately  one-third  of  encephalitis  cases  and,  uncommonly, infection  may  be  acquired  through  consumption  of  unpasteurized cow, sheep, or goat milk. Kyasanur Forest disease virus occurs in India and  the Middle East,  but  associated  human  disease  has only been recognized in India. Haemaphysalis spinigera is considered the primary vector and rodents the principal amplifying hosts. The predominant clinical  syndrome  associated  with  Kyasanur  Forest  disease  virus  is hemorrhagic fever, but a few such cases are complicated by encephalitis. Louping ill virus is endemic to the British Isles, where it is primarily  vectored  by Ix.  ricinus and  amplified  in  sheep.  Louping  ill disease  mainly  affects  sheep,  but  rare,  sporadic  cases  of  human encephalitis  have  been  described,  including  several  in  laboratory workers. Powassan virus has been associated with approximately 40 sporadic  cases  of  human  encephalitis,  often  severe,  most  in  North America and a few in Russia. In North America, it is primarily vectored by Ixodes  cookei and  amplified  in  medium-sized  mammals  such  as woodchucks.
+
+============================================================
+CHUNK 112
+============================================================
+FAMILY FLAVIVIRIDAE
+Murray  Valley  encephalitis  and  Kunjin  viruses  are  mosquito-borne members  of  the  Japanese  encephalitis  serologic  complex  of  the genus Flavivirus . While both are endemic to Australia, Murray Valley encephalitis virus has also been identified in New Guinea and Kunjin virus in Southeast Asia. Their primary vector is Culex annulirostris and they are mainly amplified in birds. Although Murray Valley encephalitis virus has caused significant epidemics of encephalitis in Australia in the past, since 1974 only sporadic cases have been reported annually. A total of 5-10 sporadic cases of Kunjin encephalitis have been reported  in  Australia,  including  at  least  one  laboratory-associated case; virologically it is closely related to West Nile virus.
+
+============================================================
+CHUNK 113
+============================================================
+FAMILY REOVIRIDAE
+Colorado tick fever virus (genus Coltivirus ) is transmitted to humans by Dermacentor andersonii (the Rocky Mountain wood tick) in the western USA. Its main amplifying hosts are small mammals such as squirrels and chipmunks. Although Colorado tick fever is usually a mild, generalized  illness  without  apparent  neuroinvasion,  meningitis  is  not uncommon and encephalitis has been documented in a few cases. Banna virus  is  an  emerging  mosquito-borne  reovirus  in  the  genus Seadornavirus . It is endemic to China and Southeast Asia, and has been implicated as the cause of sporadic human encephalitis cases in China. Kemerovo virus in Asia and Tribec and Lipovnik viruses in Europe are tickborne members of the genus Orbivirus that have also been implicated in the etiology of sporadic cases of human encephalitis.
+
+============================================================
+CHUNK 114
+============================================================
+FAMILY RHABDOVIRIDAE
+Chandipura virus is a sandfly-transmitted member of the genus Vesiculovirus . It was first isolated from a febrile adult in India in 1965. Since then, few human Chandipura virus infections have been documented. Although  the  recognized  geographic  range  of  Chandipura  virus includes the Indian subcontinent, Africa,  and  Sri  Lanka, associated human illness has only been described in India. Beginning in 2003, large outbreaks of 'epidemic brain attack' were reported in several northern Indian states, especially Andhra Pradesh and Uttar Pradesh, where large seasonal outbreaks have continued to occur. Isolation of Chandipura virus from several of these case-patients with apparent encephalitis led to two competing hypotheses, i.e. that Chandipura virus infection was either etiologic or an incidental finding in these cases. Further research is needed.
+
+============================================================
+CHUNK 115
+============================================================
+CLINICAL FEATURES, DIAGNOSIS, TREATMENT AND PREVENTION
+The encephalitic arboviruses have variable incubation periods typically ranging from 3-14 days. Most infections are silent or cause mild, self-limited  febrile  illness,  while  a  minority  cause  neuroinvasive disease, including meningitis, encephalitis, or myelitis [3]. The arboviral encephalitides are generally not distinguishable from the other viral encephalitides, either clinically or on the basis of routine laboratory  test  results.  Parenchymal  central  nervous  system  lesions  may be seen on computed tomography or magnetic resonance imaging; there are no pathognomonic features, though involvement of the deep gray matter may be a clue to an arboviral etiology. Definitive diagnosis is  substantiated  by  identification  of  live  virus,  viral  antigens,  viral nucleic  acids  in  tissue  specimens  or  bodily  fluids  or  identification of virus-specific antibodies in sera or cerebrospinal fluid (CSF). Diagnostic  techniques  include  viral  culture;  antigen-detection  assays; PCR assays conducted on acute-phase serum, CSF, or tissue specimens; and  enzyme  immunoassays  or  neutralization  tests  of  acute-  and convalescent-phase serum or CSF. Laboratory testing for many uncommon arboviruses is available only at select reference laboratories. No proven, specific treatment is available for any arboviral infection. Clinical management is supportive only. Neurologic complications such as seizures and cerebral edema should be managed accordingly. With the exception of TBEV vaccines, vaccines to prevent infection with any of the viruses covered in this chapter are unavailable. Therefore, the cornerstones of prevention of these infections are vector avoidance, vector barriers (e.g. clothing, mosquito screens, and mosquito nets) and the use of repellents. Inactivated TBEV vaccines are available in Europe, Russia, and Canada (for travelers). Vaccination is recommended for residents in high-incidence areas and for travelers to endemic areas who plan to participate in activities with a high risk of tick exposure.
+
+============================================================
+CHUNK 116
+============================================================
+REFERENCES
+1.  Monath  TP,  ed.  The  Arboviruses:  Epidemiology  and  Ecology,  Vol.  I-V.  Boca Raton: CRC Press, Inc.; 1988-1989.
+2.  Gubler  DJ.  The  global  emergence/resurgence  of  arboviral  diseases  as  public health problems. Arch Med Res 2002;33:330-42.
+3.  Rennels MB. Arthropod-borne virus infections of the central nervous system. Neurol Clin 1984;2:241-54.
+
+============================================================
+CHUNK 117
+============================================================
+34.8 Prion Disease
+Richard Knight, Victor Javier Sanchez Gonzalez
+
+============================================================
+CHUNK 118
+============================================================
+Key features
+- Prion diseases are also known as transmissible spongiform encephalopathies (TSEs)
+- They are rare, progressive, fatal, and untreatable encephalopathies of animals and man
+- Creutzfeldt-Jakob disease (CJD) is the commonest human disease
+- Human prion diseases exist in idiopathic, genetic, and acquired forms
+- Kuru, conJned to Papua New Guinea, largely of historical interest, was transmitted by cannibalism
+- The acquired forms have signiJcant public health implications
+- One disease, variant CJD, originated as a zoonotic infection via dietary contamination
+- Variant CJD poses further risks via secondary transmission, particularly via blood and blood products
+
+TABLE 34.8-1 Prion Diseases of Animals and Man
+
+============================================================
+CHUNK 119
+============================================================
+Key features
+Scrapie, AOected species = Sheep and goats. Scrapie, Comments = Naturally occurring disease, recognized since 17 th century. Another form recently identi`ed termed'Atypical Scrapie'. Bovine spongiform encephalopathy (BSE), AOected species = Cattle. Bovine spongiform encephalopathy (BSE), Comments = Transmitted to felines, certain exotic ungulates and humans. Originated in UK in the 1980s. Ebective control measures in various countries, especially in the European Union. Two new forms recently identi`ed, of uncertain signi`cance, termed 'H-BSE'and'L-BSE'. Feline spongiform encephalopathy (FSE), AOected species = Domestic and large cats. Feline spongiform encephalopathy (FSE), Comments = BSE infection via diet. Transmissible mink encephalopathy (TME), AOected species = Mink. Transmissible mink encephalopathy (TME), Comments = Seen in farmed mink, of uncertain cause. Chronic wasting disease (CWD), AOected species = Cervid species. Chronic wasting disease (CWD), Comments = Naturally occurring disease. Kuru, AOected species = Man. Kuru, Comments = Con`ned to Papua New Guinea. Transmitted via cannabilistic mourning rituals. Sporadic CJD, AOected species = Man. Sporadic CJD, Comments = Worldwide with annual mortality rate of ~1-2 per million. Unknown cause. Although ~80% of cases have a relatively uniform clinical picture, there is signi`cant clinicopathologic heterogeneity and atypical cases occur. Iatrogenic CJD, AOected species = Man. Iatrogenic CJD, Comments = Accidental human-to-human transmission of other forms of CJD via medical or surgical practice. Variant CJD, AOected species = Man. Variant CJD, Comments = Primarily a zoonotic disease caused by BSE contamination of human diet, found mostly in UK and France. Risk categorization of countries see www.oie.int/. Secondary transmission via blood transfusion. Genetic CJD, AOected species = Man. Genetic CJD, Comments =
+
+============================================================
+CHUNK 120
+============================================================
+Key features
+CJD phenotypic illness caused by pathogenic mutations of PRNP. Gerstmann Sträussler Scheinker syndrome (GSS), AOected species = Man. Gerstmann Sträussler Scheinker syndrome (GSS), Comments = A PRNP mutation disease with relatively distinct clinicopathologic phenotype. Fatal familial insomnia (FFI), AOected species = Man. Fatal familial insomnia (FFI), Comments = A distinctive clinical phenotype related to D178N PRNP mutation
+
+============================================================
+CHUNK 121
+============================================================
+INTRODUCTION
+Transmissible  spongiform  encephalopathies  (TSEs),  or  prion  diseases, are a group of rare neurodegenerative encephalopathies affecting  animals  and  humans  (Table  34.8-1).  There  is  a  common molecular pathology (involving a post-translational conformational change in the prion protein) and a potential transmissibility [1,2]. Some human prion diseases are acquired (as zoonotic or iatrogenic infections);  others  are  genetic  or  idiopathic.  They  form  part  of  the differential diagnosis of subacute brain disease and rapidly progressive dementia. The relevant agent (termed the prion) is incompletely characterized  but  is  thought  to  represent  a  new  class  of  infective agent, consisting mostly, or entirely, of protein, without constituent DNA or RNA [1,2].
+
+============================================================
+CHUNK 122
+============================================================
+EPIDEMIOLOGY
+The overall annual mortality rate for human prion diseases is around 1-2/million in countries where it has been studied [3].
+Sporadic Creutzfeldt-Jakob disease (sCJD) is the most common prion disease, accounting for 80-85% of cases with a worldwide distribution. It is predominantly a disease of mid- and late-life (Fig. 34.8.1).
+FIGURE 34.8.1 Age-speci`c mortality rates for sporadic and vCJD (UK).
+
+============================================================
+CHUNK 123
+============================================================
+EPIDEMIOLOGY
+TABLE 34.8-2 Acquired Forms of Human Prion Disease, 1 = TABLE 34.8-2 Acquired Forms of Human Prion Disease. TABLE 34.8-2 Acquired Forms of Human Prion Disease, 2 = TABLE 34.8-2 Acquired Forms of Human Prion Disease. TABLE 34.8-2 Acquired Forms of Human Prion Disease, 3 = TABLE 34.8-2 Acquired Forms of Human Prion Disease. Disease, 1 = Countries which have reported cases (numbers for those reporting Pve or more). Disease, 2 = Risk period (where known-may be approximate). Disease, 3 = Total numbers and notes. Dura mater cases, 1 = Argentina, Australia (5), Austria, Canada, Croatia, France (13), Germany (8), the Netherlands, Republic of Ireland, Italy, Japan (123), New Zealand, South Africa, Spain (10), Switzerland, Thailand, UK (7), USA. Dura mater cases, 2 = < 1987. Dura mater cases, 3 = Total: 196 Nearly all cases linked to Lyodura brand of dura mater. Cadaveric-derived human growth hormone cases, 1 = Australia, Brazil, France (107), Netherlands, New Zealand (6), Qatar, UK (51), USA (26). Cadaveric-derived human growth hormone cases, 2 = < 1985. Cadaveric-derived human growth hormone cases, 3 = Total: 194. Cadaveric-derived gonadotrophin hormone cases, 1 = Australia. Cadaveric-derived gonadotrophin hormone cases, 2 = . Cadaveric-derived gonadotrophin hormone cases, 3 = Total: 4. Depth EEG electrodes, 1 = Switzerland. Depth EEG electrodes, 2 = . Depth EEG electrodes, 3 = Total: 2. Neurosurgical instruments, 1 = France, UK. Neurosurgical instruments, 2 = . Neurosurgical instruments, 3 = Total: 4. Corneal transplants, 1 = Germany, USA. Corneal transplants, 2 = . Corneal transplants, 3 = Total: 2. Kuru, 1 = Papua New Guinea. Kuru, 2 = . Kuru, 3 = . Variant CJD, 1 = UK, France. Variant CJD, 2 = 1980-1996 (for primary cases). Variant CJD, 3 = 
+
+============================================================
+CHUNK 124
+============================================================
+EPIDEMIOLOGY
+Genetic  cases  (gPD)  comprise  three  clinicopathologic  phenotypes (discussed below), all resulting from pathogenic mutations of PRNP . They account for  10-15% of  prion disease  cases  and  are found  in many countries [4].
+Acquired  prion  disease  (iatrogenic  and  variant  CJD;  iCJD,  vCJD) accounts for only a few percent of cases; their details are summarized in Table 34.8-2. vCJD arose from bovine spongiform encephalopathy (BSE) contamination of human food (with an estimated dietary exposure risk period of 1980-1996 in the UK) but secondary, human-tohuman, transmission has been reported via blood and blood products [5]. It has a relatively young age of illness onset (Fig. 34.8.1). Most iatrogenic  CJD  has  arisen  from  cadaveric-derived  human  growth hormone and dura mater grafts [6].
+Kuru, geographically confined to certain areas of Papua New Guinea, is of largely historical importance, being transmitted from human-tohuman via exposure during ritual mourning cannibalistic feasts (now discontinued).
+
+============================================================
+CHUNK 125
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Prion diseases are named after the prion protein which plays a pivotal pathologic role. The precise role of normal prion protein (designated PrP C )  is  uncertain;  it  is  a  transmembrane  glycoprotein  encoded  by PRNP (on chromosome 20) in humans. Prion diseases are characterized  by  a  post-translational  misfolding  of  PrP C ;  the  disease-related conformation (designated PrP Sc ) aggregates and accumulates in tissue [1, 2]. The disease process is confined to the nervous system-a progressive  neurodegenerative  change  involves  neuronal  loss,  spongiform  change  and  gliosis.  The  precise  relationship  between  the abnormal PrP accumulation and neuronal dysfunction is uncertain. In sporadic and genetic forms, the disease process is apparently spontaneous. The inheritance of gPD is autosomal dominant with variable (generally high)  penetrance. However, a family history is absent in around 40% of cases [4]. The cause of sporadic CJD remains unknown, with the possibility that it is a  heterogenous entity and  with some
+cases even being covertly acquired. Acquired prion disease requires an infective  agent  and  this  has  been  termed  the  'prion' .  In  acquired disease, the incubation period is potentially long, typically measured in years, but this varies with cause with means of 1 1-15 years. The figure  for  dietary-acquired  vCJD  is  unknown,  but  the  minimum  is thought to be 5 years; reported incubation periods in secondary transmission via blood transfusion are around 7-8 years.
+Non-pathogenic PRNP polymorphisms  are  potentially  important, particularly the PRNP codon 129 methionine/valine (M/V) polymorphism. In acquired forms, this may affect susceptibility or incubation period and may affect the clinicopathologic expression of all forms of prion disease. All tested cases of vCJD classified as definite or probable on the WHO-adapted diagnostic criteria have been codon 129 MM, but one likely case has been reported as MV [7].
+Prion diseases are universally progressive (often rapidly so), fatal and currently untreatable illnesses.
+
+============================================================
+CHUNK 126
+============================================================
+CLINICAL FEATURES
+The clinical  features  vary  somewhat between  the  different diseases, but  encephalopathic  illness  with  dementia,  cerebellar  ataxia,  and myoclonus is typical.
+Sporadic CJD, sCJD, the commonest form, affects the middle-aged and elderly (median age at death is around 65 years) (Fig. 34.8.1). Cases  below  the  age  of  40  years  are  exceptionally  rare.  It  typically presents  as  a  rapidly  progressive  dementia  with  cerebellar  ataxia, visual disturbances, and myoclonus terminating in an akinetic mute state.  The  median  survival  is  only  around  4  months.  Two  welldescribed variations are presentation with a pure cerebellar syndrome and pure visual impairment leading to cortical blindness, although they progress to a similar preterminal state as in typical sCJD. These clinicopathologic  variations  correlate  to  some  degree  with PRNP codon 129 polymorphism and the prion protein type.
+Genetic prion disease (gPD) has a very varied clinicopathologic phenotype,  partly  dependent  on  the  underlying PRNP mutation.  The division of gPD into gCJD, Gerstmann Sträussler Scheinker syndrome (GSS) and fatal familial insomnia (FFI) is arguably now historical, predating mutation characterization, but classical GSS presents as a progressive cerebellar ataxia with relatively late cognitive features and FFI  begins  with  prominent  sleep  and  autonomic  disturbances.  In gCJD, the mean age at onset is slightly younger and illness duration is longer than in sCJD. The commonest mutation disease is E200KCJD which typically clinically resembles sCJD, although a polyneuropathy may be present [4].
+In general, iCJD resembles sCJD with age at onset reflecting the age of exposure and the incubation period. Human growth hormone-related CJD tends to have a relatively young age at onset, reflecting the age at which hormone treatment is given, and presents differently as a progressive cerebellar syndrome with relatively minor and late cognitive features [6].
+
+============================================================
+CHUNK 127
+============================================================
+CLINICAL FEATURES
+vCJD has affected a significantly younger age group and progresses more slowly (in the UK: mean age at onset, 28 years; mean duration of  illness,  14  months)  (Fig.  34.8.1).  The  initial  symptoms  are prominently  psychiatric  and  behavioral,  sometimes  with  painful sensory symptoms. As the illness progresses, cerebellar ataxia becomes prominent with cognitive impairment and involuntary movements, including myoclonus [5].
+
+============================================================
+CHUNK 128
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+With no  simple,  absolute  clinical  diagnostic  test  for  prion  disease, definitive  diagnosis  requires  neuropathology,  i.e.  autopsy  or  brain biopsy (the main justification for which being its necessity to diagnose an alternative, treatable, condition). However, relatively highly reliable  diagnosis  can  be  made  based  on  the  clinical  features.  The potentially wide differential diagnosis of prion disease varies with the clinical presentation, the age of the affected individual and the local context, for example the differential diagnosis of subacute dementia in Western industrialized nations and the tropics is different. There are no systemic abnormalities caused by prion disease: no pyrexia or other index of infection and routine hematology, biochemistry and immunologic tests are normal. Prion disease may be excluded relatively early in the diagnostic process if there are such features or the cerebrospinal  fluid  (CSF)  contains  excess  white  cells  or  cerebral imaging  shows  white  matter  abnormalities  or  mass  lesions.  The overall diagnostic process is essentially the suspicion of prion disease based on clinical pattern, the exclusion of other diagnoses and supportive investigation findings. The role of the supportive diagnostic tests in prion disease is summarized below and in Table 34.8-3. The electroencephalography (EEG), CSF, and magnetic resonance imaging (MRI) findings are not prion-disease-specific; it is important to appreciate that, while the sensitivity of such tests depends on the nature of prion disease,  their  specificity  also  depends  on  the  testing  context. They are, therefore, essentially supportive tests when prion disease is already reasonably suspected; positive results must be viewed in the light of the overall clinical situation.
+
+============================================================
+CHUNK 129
+============================================================
+SPORADIC CJD
+In around two-thirds of cases, the EEG shows characteristic periodic bi- or triphasic complexes at some stage of the illness (Fig. 34.8.2). The CSF 14-3-3 protein test is positive in the majority of cases [8]. The cerebral frequently shows basal ganglia (putamen and caudate)
+
+============================================================
+CHUNK 130
+============================================================
+SPORADIC CJD
+TABLE 34.8-3 Diagnosis of Prion Disease, 1 = TABLE 34.8-3 Diagnosis of Prion Disease. TABLE 34.8-3 Diagnosis of Prion Disease, 2 = TABLE 34.8-3 Diagnosis of Prion Disease. TABLE 34.8-3 Diagnosis of Prion Disease, 3 = TABLE 34.8-3 Diagnosis of Prion Disease. TABLE 34.8-3 Diagnosis of Prion Disease, 4 = TABLE 34.8-3 Diagnosis of Prion Disease. Investigation, 1 = sCJD. Investigation, 2 = vCJD. Investigation, 3 = gPD. Investigation, 4 = iCJD. EEG, 1 = Periodic discharges in many cases. EEG, 2 = Periodic discharges not typical (may occur preterminally). EEG, 3 = Periodic discharges in some cases. EEG, 4 = Periodic discharges in some cases. CSF 14-3-3, 1 = Positive in most cases. CSF 14-3-3, 2 = Positive in under half of cases. CSF 14-3-3, 3 = Variable results. CSF 14-3-3, 4 = Variable results. Cerebral MRI, 1 = Hyperintensity in putamen, caudate, and some cortical areas. Cerebral MRI, 2 = Hyperintensity in posterior thalamus. Cerebral MRI, 3 = Variable `ndings, may be similar to sCJD. Cerebral MRI, 4 = Variable `ndings, may be similar to sCJD. Tonsil biopsy, 1 = No abnormal PrP. Tonsil biopsy, 2 = Disease-related, abnormal PrP may be found. Tonsil biopsy, 3 = No abnormal PrP. Tonsil biopsy, 4 = No abnormal PrP. PRNP sequencing, 1 = No pathogenic mutations, but codon 129 genotype may help diagnosis. PRNP sequencing, 2 = No pathogenic mutations, but codon 129 genotype may help diagnosis. PRNP sequencing, 3 = Pathogenic PRNP mutations are detected from blood samples. PRNP sequencing, 4 = No pathogenic mutations, but codon 129 genotype may help diagnosis
+Fz
+FIGURE 34.8.2 Periodic discharges in the EEG in sporadic CJD.
+
+============================================================
+CHUNK 131
+============================================================
+SPORADIC CJD
+FIGURE 34.8.3 (A) Brain MRI (FLAIR) in sporadic CJD showing hyperintensity of the caudate and putamen (arrowed). (B) Brain MRI (DWI) in sporadic CJD showing hyperintensity of the caudate and putamen with hyperintensity in some cortical areas. (C) Brasin MRI in variant CJD showing the pulvinar sign (arrowed).
+and cortical hyerperintensity, especially on fluid-attenuated inversion recovery (FLAIR) and diffusion weighted imaging (DWI) sequences (Figure 34.8.3) [9].
+
+============================================================
+CHUNK 132
+============================================================
+VARIANT CJD
+The EEG does not usually show the periodic activity seen in sCJD. The  CSF  14-3-3  is  positive  in  less  than  half  the  cases.  Cerebral MRI shows hyperintensity in the posterior thalamus (the 'Pulvinar Sign') in over 90% of cases, especially on FLAIR and DWI sequences (Fig.  34.8.3) [10]. In  vCJD, in contradistinction to other  prion diseases,  a  tonsil  biopsy  may  show  the  disease-specific  abnormality of PrP Sc .
+
+============================================================
+CHUNK 133
+============================================================
+OTHER FORMS OF PRION DISEASE
+There  are  no  abnormalities  specific  to  other  prion  diseases  except for genetic forms, where PRNP mutation testing can be undertaken on a blood sample. Given the variable clinical phenotypes of gPD, the  potential  similarity  to  sCJD  and  the  frequently  absent  family history, PRNP mutation testing is necessary to definitively distinguish gPD and sCJD. Such testing should be considered in a wide variety of  neuropsychiatric  illnesses  where  no  other  diagnosis  is  made. Given  the  variability  of  sCJD  and  gCJD  and  the  polymorphism background  of  vCJD  (as  discussed  above),  determining  the PRNP 129  polymorphism  may  help  in  the  diagnosis  of  a  suspect  prion disease.
+
+============================================================
+CHUNK 134
+============================================================
+TREATMENT
+There is no proven disease-modifying treatment for prion disease.
+In many prion diseases, particularly sCJD, the rapid progression and the  lack  of  any  simple  absolute  diagnostic  test  means  that  most individuals  are  severely  neurologically  impaired  at  the  time  of diagnosis and, therefore, arguably beyond the point of useful therapy. There are potential treatment approaches but, given the incomplete understanding  of  pathogenesis  in  prion  diseases,  it  is  difficult  to know if these will lead to actual therapies [1 1]. A range of treatments have been tried including quinacrine, pentosan polysulphate, flupirtine,  but  none  has  so  far  proved  to  be  unequivocally  of benefit [12].
+Symptomatic treatment should focus on pain relief, distress, behavioral  difficulties,  and  involuntary  movements.  As  disability  and dependency increase, measures such as  urinary catheterization and nasogastric tube/gastrostomy feeding may be appropriate. All management decisions need to be undertaken in the light of the inevitable, and ultimately fatal, progressive nature of the illness and tailored to the individual circumstances.
+
+============================================================
+CHUNK 135
+============================================================
+REFERENCES
+1. Prusiner SB. An Introduction to Prion Biology and Diseases. In: Prusiner SB, ed. Prion Biology and Diseases. New York: Cold Spring Harbour Laboratory Press; 2004:1-87.
+2. Brown P. Transmissible spongiform encephalopathy in the 21st century: Neuroscience for the clinical neurologist. Neurology 2008;26;70:713-22.
+3. Ladogana A, Puopolo M, Croes EA, et al. Mortality from Creutzfeldt-Jakob disease  and  related  disorders  in  Europe,  Australia  and  Canada.  Neurology 2005;64:1586-91.
+4. Kovacs GG, Puopolo M, Ladogana A, et al. Genetic prion disease: the EUROCJD experience. Hum Genet 2005;118:166-74
+5. Hewitt PE, Llewelyn CA, Mackenzie J, Will RG. Creutzfeldt-Jakob disease and blood transfusion: results of the UK Transfusion Medicine Epidemiological Review study. Vox Sang 2006;91:221-30.
+6. Brown P, Brandel J-P, Preese M, Sato T. Iatrogenic Creutzfeldt-Jakob disease. The waning of an era. Neurology 2006;67:389-93.
+7. Parchi  P,  Giese  A,  Capellari  S,  et  al.  Classification  of  sporadic  CreutzfeldtJakob disease based on molecular and phenotypic analysis of 300 subjects. Ann Neurol 1999;46:224-33.
+8. Zerr I, Pocchiari M, Collins S, et al. Analysis of EEG and CSF 14-3-3 proteins as  aids  to  the  diagnosis  of  Creutzfeldt-Jakob  disease.  Neurology  2000;55: 811-15.
+9. Collie  DA,  Sellar  RJ,  Zeidler  M,  et  al.  MRI  of  Creutzfeldt-Jakob  disease: imaging  features  and  recommended  MRI  protocol.  Clinical  Radiology 2001;56:726-39.
+10.  Collie DA, Summers DM, Sellar RJ, et al. Diagnosing variant Creutzfeldt-Jakob disease with the pulvinar sign: MR imaging findings in 86 neuropathologically confirmed cases. Am J Neuroradiol 2003;24:1560-9.
+
+============================================================
+CHUNK 136
+============================================================
+REFERENCES
+11.  Weissmann C., Aguzzi A. Approches to therapy of prion diseases. Annu Rev Med 2005;56:321-44.
+12.  Stewart L,  Rydzewska L, Keogh G, Knight R. A systematic review of clinical studies  of  therapeutic  interventions  for  human  prion  disease.  Neurology 2008;70:1272-81.
+
+============================================================
+CHUNK 137
+============================================================
+34.9 Human T-Lymphotropic Virus Type I and II Infection
+Nicholas J van Sickels, Susan LF McLellan
+
+============================================================
+CHUNK 138
+============================================================
+Key features
+- Human T-lymphotropic viruses (HTLV I and HTLV II) are seen worldwide, with an estimated 10-20 million individuals infected
+- Most persons infected will remain asymptomatic
+- The majority of disease burden is from HTLV I, which is known for its association with adult T-cell leukemia/ lymphoma (ATLL) and HTLV-associated myelopathy, also known as tropical spastic paraparesis (HAM/TSP)
+- Other infectious diseases, such as strongyloidiasis, tuberculosis, and infective dermatitis are seen in association with HTLV-1 infection
+- Both HTLV-1 and HTLV-2 are associated with an increased incidence of neurologic and autoimmune syndromes, as well as routine infections (urinary and respiratory infections)
+- Treatment options for the virus itself are lacking, though options for management for ATLL and HAM/TSP are evolving
+
+============================================================
+CHUNK 139
+============================================================
+INTRODUCTION
+Human T-cell lymphotrophic viruses were first described in 1979 and are best known for their propensity to cause cancer and lead to devastating neurologic disease. Human T-cell lymphotrophic virus type-I
+(HTLV-I), the first recognized human retrovirus, infects and stimulates proliferation  of  CD4  T-lymphocytes.  The  most  severe  sequelae  of infection  are  adult  T-cell  leukemia/lymphoma  (ATLL)  and  HTLVassociated  myelopathy,  also  known  as  tropical  spastic  paraparesis (HAM/TSP).  ATLL  was  first  described  in  Japan  and  the  link  with HTLV-I was recognized in 1982. HAM/TSP, which is more frequently seen in the tropics, was recognized as a clinical entity some 30 years before the link with HTLV-1 was established in 1985. Infection with HTLV-I  is  also  associated  with  a  more  aggressive  course  of  certain other infectious pathogens, including strongyloidiasis, scabies, leprosy, and tuberculosis.
+The closely related human T-lymphotrophic virus type II (HTLV-II) was discovered in 1981 and infects CD4 and CD8 T-cells, as well as monocytes. While HTLV-II infection is not associated with ATLL, cases of HAM/TSP, other neurologic manifestations (without overt myelopathy),  and  increased  overall  rates  of  infections  have  been  reported [1-3].
+
+============================================================
+CHUNK 140
+============================================================
+EPIDEMIOLOGY
+An  estimated  10-20  million  people  worldwide  are  infected  with HTLV-I . It is highly endemic in Japan and the Caribbean, with pockets of infection in Central and South America. Infection is associated with female  sex  and  increasing  age-a  pattern  seen  in  all  populations affected.  The  virus  is  transmitted  via  the  passage  of  infected  lymphocytes, which can occur from mother to child, during sexual intercourse and with the exchange of blood products via transfusion or the sharing of infected needles.
+HTLV-I is divided into six subtypes labeled A-F based on differences in proviral DNA and in long terminal repeat sequences; there is no association with specific clinical manifestations [4].
+FIGURE 34.9.1 Origin and spread hypothesis based on phylogenetic and anthropological data. Primate T lymphotropic virus (PTLV) originated in African primates and migrated to Asia where it evolved into Simian T-cell leukemia virus (STLV)-1. This early STLV-1 lineage spread to India, Japan, Indonesia, and back to Africa (arrows 1). It crossed the simian-human barrier in Indonesian human beings who migrated to Melanesia, resulting in the HTLV-1c subtype (arrows 2). In Africa, STLV-1 evolved through several interspecies transmissions into HTLV-1a, HTLV-1b, and HTLV-1d, HTLV-1e, and HTLV-1f (arrows 3). As a result of the slave trade and increased mobility, HTLV-1a was introduced in the New World, Japan, the Middle East, and north Africa (arrows 4). Colors indicate current prevalence estimates based on population surveys and on studies in pregnant women and blood donors. In some countries, HTLV-1 infection is limited to certain population groups or areas. Reprinted from Verdonck K, Gonzalez E, Van Dooren S, et al. Human T-lymphotropic virus1: recent knowledge about an ancient infection. Lancet Infect Dis 2007;7:266-81, with permission from Elsevier and Lancet.
+Infected mothers will transmit the virus to their children 20% of the time, with most of that transmission from breastfeeding. In areas of the world where formula feeding is feasible, refraining from breastfeeding leads to a significant reduction in HTLV-I transmission.
+
+============================================================
+CHUNK 141
+============================================================
+EPIDEMIOLOGY
+Like  HTLV-I,  HTLV-II is  divided  into subtypes;  unlike  HTLV-I these subtypes are fairly closely linked to specific geographic populations or risk behaviors (Fig. 34.9.1). Worldwide prevalence estimations of HTLV-II  infection  are  in  the  millions,  with  an  estimated  200,000 infected in the USA [5].
+Since the late 1980s, the US Food and Drug Administration (FDA) has recommended screening of whole blood for HTLV I/II antibodies.
+
+============================================================
+CHUNK 142
+============================================================
+NATURAL HISTORY, PATHOGENESIS, PATHOLOGY
+Initial infections with HTLV-I/II are asymptomatic. Antibodies develop within 1-2 months after exposure to the virus and the latency period between seroconversion to development of disease varies from years to decades. Most patients with HTLV will remain asymptomatic throughout their lives; however, individuals with higher HTLV antibody levels  and  proviral  load  have  an  increased  incidence  of  overt disease manifestations.
+HTLV-I and II primarily infect CD4 and CD8 cells respectively. Cellto-cell transmission of HTLV occurs via a viral synapse, avoiding production of extracellular virions. Once local infection takes place, viral propagation occurs at regional lymphatics and disseminates to skin, spleen, liver, and lymph nodes. Because of this, plasma viral load is undetectable and lifelong infection occurs.
+
+============================================================
+CHUNK 143
+============================================================
+ADULT T-CELL LEUKEMIA PATHOGENESIS
+The  most  severe  illnesses  associated  with  HTLV-1  are  ATLL  and HAM/TSP. Lymphoproliferation is key in the pathogenesis of ATLL, and is  mediated  by  the  highly  conserved  tax  gene  and  its  protein, which is thought to enhance viral transcription, repression of genes responsible  for  apoptosis  and  DNA  repair,  and  binding  to  tumor suppressor proteins [6].
+
+============================================================
+CHUNK 144
+============================================================
+HAM/TSP PATHOGENESIS
+HAM/TSP likely occurs as a result of both immunologic and genetic factors. HTLV-1-specific cytotoxic T-cells control infection by destroying infected CD4 cells. These cells are unable to eradicate the infection and a steady state of immune activation is established. Patients with HAM/TSP have increased pro-inflammatory cytokines, high levels of HTLV-1-specific CD8 + T-cells and higher proviral loads. In Japanese populations,  genomic  alterations  involving cytokines have  also been shown to be associated with an increased incidence of HAM/ TSP [6, 7].
+
+============================================================
+CHUNK 145
+============================================================
+CLINICAL FEATURES
+While  most  patients  with  HTLV  infection  will  remain  asymptomatic,  certain  individuals  are  at  higher  risk  for  infectious,  neurologic,  dermatologic,  rheumatologic,  autoimmune,  and  malignant diseases.
+
+============================================================
+CHUNK 146
+============================================================
+ATLL
+HTLV-1-associated adult T-cell leukemia/lymphoma (ATLL) tends to occur mainly in adults, usually 20-30 years after HTLV-1 infection. The yearly incidence of disease in Japan is estimated at about 0.6/1000. ATLL is divided into four categories: acute, chronic, smoldering, and lymphoma-type.  Recently  a  fifth  type,  primary  cutaneous  tumoral ATLL, has been proposed. The acute type is the most common, followed  by  lymphomatous,  chronic,  and  then  smoldering.  ATLL  is most commonly seen in southwestern Japan, with vertical transmission and breastfeeding posing the highest risk for disease development [6].
+FIGURE 34.9.2 White blood cell with hyperlobulated nucleus "flower
+Pathology).
+MERL
+FIGURE  34.9.2 White  blood  cell  with  hyperlobulated  nucleus  'aower cell' (photo  courtesy  of  John  Krause  MD,  Tulane  University  Department  of Pathology).
+hanstaenlanamoaler
+Clain inclamont
+
+============================================================
+CHUNK 147
+============================================================
+Symptoms
+Most  patients  will  present  with  lymphadenopathy  and  half  have hepatosplenomegaly.  Skin  involvement,  in  the  form  of  a  nodular, indurated rash, is seen in up to a third of cases. With metastasis, ATLL can  affect  the  lungs,  gastrointestinal  tract,  central  nervous  system, and  musculoskeletal  system.  Median  survival  times  for  the  acute, lymphoma-type, and chronic forms are 6, 10, and 24 months respectively.  Smoldering  disease  has  a  66%  4-year  survival  rate.  Despite more favorable prognoses, chronic and smoldering forms retain the ability to transform into acute ATLL [6, 7].
+
+============================================================
+CHUNK 148
+============================================================
+Diagnosis
+Diagnosis  is  suspected  with  clinical  findings  of  lymphadenopathy, rash, and hepatosplenomegaly. Early in the disease, complete blood counts  reveal  leukocytosis  without  anemia  or  thrombocytopenia, owing  to  a  lack  of  bone  marrow  involvement  in  ATLL.  Acute  and lymphomatous  ATLL  are  strongly  suspected  when  characteristic flower cells are seen on blood smear (Fig. 34.9.2)-these are atypical multilobulated, pleomorphic lymphoid cells with abnormalappearing nuclei. HTLV-1 provirus can be detected in these abnormal nuclei.  Metabolically,  hypercalcemia  is  common  (30-60%)  and  is caused by both parathyroid hormone-related peptide overproduction by Tax protein and liberation of calcium from lytic bony lesions [7].
+
+============================================================
+CHUNK 149
+============================================================
+Treatment
+Treatments for ATLL include conventional and intensive chemotherapeutic regimens, allogenic  hematopoietic  stem cell  transplantation, antivirals, and anti-retrovirals. Novel therapies currently under investigation  include  combination  zidovudine  and  interferonα ,  arsenic trioxide, monoclonal antibodies, and retinoid derivatives. As a result of  immunosuppression,  patients  often  succumb  to  opportunistic illness such as Pneumocystis jirovecii pneumonia, cryptococcal meningitis, and disseminated herpes zoster. These illnesses, as well as pulmonary  and  liver  dysfunction,  uncontrolled  hypercalcemia,  and sepsis, are the main causes of mortality [7, 8].
+
+============================================================
+CHUNK 150
+============================================================
+General
+HAM/TSP develops in 1-4% of individuals infected with HTLV-1 over their lifetime and is the most common neurologic manifestation of HTLV-1 infection. Although most cases are caused by HTLV-I, a small number of patients infected with HTLV-II have also developed HAM/ TSP.  HAM/TSP  presents  as  an  indolent  and  progressive  spastic in thol
+nfe modular
+FIGURE 34.9.3 Husband and wife with HAM/TSP in Peru (photo reprinted from Verdonck K, Gonzalez E, Van Dooren S, et al. Human T-lymphotropic virus1: recent  knowledge  about  an  ancient  infection.  Lancet  Infect  Dis  2007;7:266-81, with permission from Elsevier and the Lancet).
+paraparesis with bladder disturbances and sensory signs. For unknown reasons,  women  progress  faster  than  men,  especially  those  who develop disease prior to menopause. Other risk factors for more rapid progression include older age at disease onset and increased HTLV-1 proviral  loads  [6,  9,  10].  HTLV-II-associated  disease  appears  to  be milder and have a more slowly progressive course.
+The association of HTLV-1 and HAM/TSP was first noted in tropical regions  of  the  Caribbean  and  South  America  (hence  the  original name:  tropical  spastic  paraparesis).  While  HAM/TSP  is  most  commonly seen in the Caribbean, South America, and southern Japan, the relative risk of developing HAM/TSP seems to be higher in Latin America than in Japan [3, 1 1].
+
+============================================================
+CHUNK 151
+============================================================
+Symptoms
+HAM/TSP is a chronic, subacute, and progressive disease. Neurologic findings are  often  the  first  manifestations  of  the  disease  or  appear within the first year. In 60% of patients, weakness in the lower limbs is the first symptom (Fig. 34.9.3), followed by spasticity with hyperreflexia  and  extensor  plantar  responses.  Urologic  symptoms  are common and vary from urgency and frequency to incontinence and retention. Other symptoms include back pain, constipation, and paresthesias in the lower limbs [1, 12]. Of note, significant pain is frequently described, adding to the disability of this disease.
+
+============================================================
+CHUNK 152
+============================================================
+Diagnosis
+Symptoms of HAM/TSP can mimic other diseases and pursuance of this diagnosis requires their exclusion. The differential includes spinal cord tumors or compressive lesions, multiple sclerosis, toxic neuropathies  (for  example,  B12  and  folate  deficiencies),  and  amyotrophic lateral sclerosis. In resource-poor or environmentally distraught areas of  the  world,  dependence on  the potentially  toxic  food  substances grass  pea  and  cassava  root  can  lead  to  the  neurodegenerative  syndromes Lathyrism and Konzo, respectively.
+
+============================================================
+CHUNK 153
+============================================================
+Monitoring and Treatment
+Patients with HAM/TSP should be monitored on a regular basis for any change in symptoms and function. Laboratory markers available for disease monitoring are the HTLV-I proviral load and HTLV-1 tax mRNA by PCR.
+Many  treatments  have  been  attempted,  but  none  has  proven  to decrease long-term disability. However, therapy with interferonα has led to both clinical and virologic improvements; this drug is considered  standard  of  care  for  HAM/TSP  patients  in  Japan.  The  use  of corticosteroids,  plasmapheresis,  and  intravenous  immune  globulin have all been associated with transient improvements. Anti-retrovirals, disappointingly, have not shown any benefit. Current and emerging therapies are focused on modifying immune responses to infection and increasing host ability to target infected cells. Examples include humanized anti-Tac (anti-CD25 monoclonal antibody), which has been shown to reduce disability and decrease proviral load in one small  trial,  and  a  monoclonal  antibody  targeting  interleukin-15  in phase  I/II  of  clinical  studies.  Finally,  the  use  of  valproic  acid  may induce viral expression of HTLV from quiescent cells, making them vulnerable to destruction by the immune system [13].
+
+============================================================
+CHUNK 154
+============================================================
+OTHER CONDITIONS RELATED TO HTLV INFECTION
+A myriad  of  infectious  diseases  including  Norwegian  scabies, molluscum  contagiosum,  extrapulmonary  histoplasmosis,  tuberculosis, leprosy, and strongyloidiasis are described in case reports and series of HTLV-1-infected persons. A review of over 1200 blood donors in the  USA  revealed  a  significantly  higher  incidence  of  kidney  and bladder infections with HTLV-I infection. HTLV-II-infection was associated with higher incidence of bronchitis, bladder or kidney infections, and oral herpes. There was also a trend toward higher incidence of pneumonia in HTLV-II patients [2].
+Dermatologic alterations are commonly seen in the setting of HTLV infection and include dermatophyte infections, seborrheic dermatitis, acquired  ichthyosis,  infective  dermatitis  (Fig.  34.9.4),  scabies,  and others.
+Patients with HTLV-1 also have an increased incidence of pulmonary tuberculosis and Mycobacterium avium infections, as well as decreased skin response rates to purified protein derivative. Increased rates of HTLV-1 infections are also seen among residents of Hansen's disease sanatoriums in Africa [16].
+Other neurologic syndromes, which do not meet the case definition of  HAM/TSP,  include  leg  weakness,  impaired  gait,  hyper-reflexia, impaired vibratory sense, and urinary tract abnormalities [1].
+A  myriad  of  rheumatologic  conditions  are  described  with  HTLV-1 detected  in  target  tissues.  These  conditions  include  polymyositis, bronchioalveolar pneumonitis, Sjögren's syndrome autoimmune thyroiditis, uveitis, and arthropathy [6, 7].
+
+============================================================
+CHUNK 155
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+HTLV infection should be in the differential diagnosis when patients from endemic  areas  present  with  ATLL,  HAM/TSP,  neurologic  syndromes, or any of the infectious syndromes outlined above. Recommendations  for  counseling  of  patients  presenting  with  positive HTLV-I/II serology have been previously published [17]. Healthcare workers should inform patients that HTLV is not the virus that causes AIDS,  as  this  is  a  source  of  common  confusion  and  anxiety  for patients. Secondarily, patients should be screened for risk factors for HTLV-infection, including: living in an endemic area, sexual partners from an endemic area  (e.g.  Japan  or  Jamaica),  blood  transfusions, history of injection drug use, sexual partners with histories of injection drug use, or having sex with multiple partners without condom use. Patients with a history of drug use or unprotected sex should also undergo HIV testing.
+FIGURE 34.9.4 Child with infective dermatitis. Symptoms include eczema about the scalp, ears, and face, with nasal crusting and a `ne papular rash. Children typically have chronic watery discharge and their anterior nares are frequently colonized with Staphylococcus  aureus or β -hemolytic streptococci.  Infective  dermatitis  responds  rapidly  to  antibiotics  and topical  steroids  only  to  relapse  chronically  once  these  treatments  are withdrawn [14]. The presence of infective dermatitis in children has been implicated  as  a  marker  of  risk  for  development  of  HAM/TSP  [15] (photo courtesy of David Barnes MD).
+Confirmed cases of HTLV infection should be referred to a physician with experience in the field. A complete physical examination, with special attention to the lymphatics, skin, liver, spleen, and neurologic system, should be completed. Baseline laboratory evaluation includes a complete blood count with differential, serum chemistries, investigation for sexually transmitted infection (syphilis, gonorrhea, chlamydia and HIV), hepatitis serologies, purified protein derivative testing, and chest radiography.
+HTLV-I-infected  individuals  should  be  informed  of  their  increased risk  for  autoimmune  disease,  HAM/TSP  and  malignancy.  These patients should be followed regularly, with prompt referrals to specialists if neurologic, skin, or hematologic findings appear.
+
+============================================================
+CHUNK 156
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+HTLV-II-infected  patients  can  be  reassured  that  their  risk  of  major illness is low, but they should understand the increased risk of urinary, kidney, and upper and lower respiratory tract infections. Clinicians should counsel patients about smoking cessation to reduce the risk of the latter. If abnormal findings develop, referral to a neurologist is appropriate [7].
+
+============================================================
+CHUNK 157
+============================================================
+TREATMENT
+Therapies for the more severe manifestations of HTLV-I/II infection are discussed above. No definitive treatment for primary HTLV infection is available or currently recommended. The nucleoside analogues zidovudine and lamivudine have both been shown to decrease proviral loads in small in vitro and in vivo trials; however, no change in clinical outcome has been demonstrated from small studies [18, 19]. Prevention measures (refraining from breastfeeding and blood donation,  condom use) are recommended to avoid transmission of the virus to others.
+
+============================================================
+CHUNK 158
+============================================================
+REFERENCES
+1. Biswas  HH,  Engstrom  JW,  Kaidarova  Z,  et  al.  Neurologic  abnormalities  in HTLV-I- and HTLV-II-infected individuals without overt myelopathy. Neurology 2009;73:781-9.
+2. Murphy EL, Glynn SA, Fridey J, et al. Increased incidence of infectious diseases during  prospective  follow-up  of  human  T-lymphotropic  virus  type  II-  and
+
+============================================================
+CHUNK 159
+============================================================
+REFERENCES
+- I-infected blood donors. Retrovirus Epidemiology Donor Study. Arch Intern Med 1999;159:1485-91.
+3. Gotuzzo E, Cabrera J, Deza L, et al. Clinical characteristics of patients in Peru with human T cell lymphotropic virus type 1-associated tropical spastic paraparesis. Clin Infect Dis 2004;39:939-44.
+4. Proietti  FA,  Carneiro-Proietti  AB,  Catalan-Soares  BC,  Murphy  EL.  Global epidemiology of HTLV-I infection and associated diseases. Oncogene 2005;24:6058-68.
+5. Roucoux DF, Murphy EL. The epidemiology and disease outcomes of human T-lymphotropic virus type II. AIDS Rev 2004;6:144-54.
+6. Verdonck K, Gonzalez E, Van Dooren S, et al. Human T-lymphotropic virus 1: recent knowledge about an ancient infection. Lancet Infect Dis 2007;7:266-81.
+7. Shuh M, Beilke M. The human T-cell leukemia virus type 1 (HTLV-1): new insights into the clinical aspects and molecular pathogenesis of adult T-cell leukemia/lymphoma (ATLL) and tropical spastic paraparesis/HTLV-associated myelopathy (TSP/HAM). Microsc Res Tech 2005;68:176-96.
+8. Tobinai K. Current management of adult T-cell leukemia/lymphoma. Oncology 2009;23:1250-6.
+9. Nakagawa M, Izumo S, Ijichi S, et al. HTLV-I-associated myelopathy: analysis of 213 patients based on clinical features and laboratory findings. J Neurovirol 1995;1:50-61.
+10.  Takenouchi N, Yamano Y, Usuku K, et al. Usefulness of proviral load measurement for monitoring of disease activity in individual patients with human T-lymphotropic virus type I-associated myelopathy/tropical spastic paraparesis. J Neurovirol 2003;9:29-35.
+
+============================================================
+CHUNK 160
+============================================================
+REFERENCES
+11.  Gotuzzo E, Arango C, de Queiroz-Campos A, Isturiz RE. Human T-cell lymphotropic virus-I in Latin America. Infect Dis Clin North Am 2000;14:21 1-39, x-xi.
+12.  Araujo  AQ,  Silva  MT.  The  HTLV-1  neurological  complex.  Lancet  Neurol 2006;5:1068-76.
+13.  Oh  U,  Jacobson  S.  Treatment  of  HTLV-I-associated  myelopathy/tropical spastic paraparesis: toward rational targeted therapy. Neurol Clin 2008;26:78197, ix-x.
+14.  La Grenade L, Manns A, Fletcher V, et al. Clinical, pathologic, and immunologic  features  of  human  T-lymphotrophic  virus  type  I-associated  infective dermatitis in children. Arch Dermatol 1998;134:439-44.
+15.  Kendall  EA,  Gonzalez  E,  Espinoza  I,  et  al.  Early  neurologic  abnormalities associated with human T-cell lymphotropic virus type 1 infection in a cohort of Peruvian children. J Pediatr 2009;155:700-6.
+16.  Marinho  J,  Galvao-Castro  B,  Rodrigues  LC,  Barreto  ML.  Increased  risk  of tuberculosis  with  human  T-lymphotropic  virus-1  infection:  a  case-control study. J Acquir Immune Defic Syndr 2005;40:625-8.
+17.  Recommendations for counseling persons infected with human T-lymphotrophic virus, types I and II. Centers for Disease Control and Prevention and U.S. Public Health Service Working Group. MMWR Recomm Rep 1993;42:1-13.
+18.  Macchi B, Faraoni I, Zhang J, et al. AZT inhibits the transmission of human T cell leukaemia/lymphoma virus type I to adult peripheral blood mononuclear cells in vitro. J Gen Virol 1997;78:1007-16.
+19.  Machuca A, Rodes B, Soriano V. The effect of antiretroviral therapy on HTLV infection. Virus Res 2001;78:93-100.
+

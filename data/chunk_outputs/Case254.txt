@@ -1,0 +1,399 @@
+============================================================
+CHUNK 0
+============================================================
+23
+
+============================================================
+CHUNK 1
+============================================================
+Cancer in the Tropics
+Wendy B. Bernstein
+
+============================================================
+CHUNK 2
+============================================================
+KEY FEATURES
+- growing global health concern.
+- 20% of malignancies in developing nations. These infections could be reduced with clean water, vaccination, or lifestyle modi{cations.
+- nations, but low- and middle-income nations bear the burden of cancer mortality.
+- Omran's early stages of epidemiological transition and entering the stage of degenerative and human-made diseases before suf{cient economic growth occurs to establish a medical infrastructure.
+- of cancer is erased by cancers due to tobacco, obesity, and low plant-based diet.
+- are prevalent globally (lung), rare in high-income countries (cervical), rare outside the tropics (penile and conjunctival), have uncommon histologies or location within an organ (squamous cell carcinoma of the bladder, distal gastric adenocarcinoma), or are geographically concentrated (Kaposi's sarcoma and Burkitt's lymphoma belts).
+
+============================================================
+CHUNK 3
+============================================================
+INTRODUCTION
+With a few notable exceptions, the majority of countries within the tropics are nations with medium and low human development indices (HDIs). Is cancer a priority if clean water is not available and infectious diseases are uncontrolled? Using data displayed in Fig. 23.1, GLOBOCAN reported that while the incidence of the 18.1 million cases of cancer expected to be reported in 2018 will be higher in developed nations, 70% of the 9.6 million deaths will occur in developing nations. 1,2 With transition, communicable causes of death are replaced with non-communicable causes. People live long enough to develop cancer. Risky behaviors replace oncogenic infections,  and  undermanaged  prevalent  infections  continue  to contribute to cancer incidence and mortality. Economic transition is occurring faster in today's developing world. The adoption of risky lifestyles is outpacing control of infections and creation of health  care  systems,  leaving  the  developing  world  to  bear  the burden of cancer mortality for some time.
+This chapter focuses on the pathogenesis of oncogenic infections unique  to  the  tropics.  Rare  cancers  unique  to  this  region  and common cancers with unique histologies will be discussed, as will the  impact  of  tobacco  and  obesity.  Behavioral,  genetic,  and environmental  risk  factors  are  discussed  with  relevant  cancers. For consistency, all epidemiology data are derived from GLOBOCAN 2018, except where otherwise noted, and are presented in Table 23.1. The quality of the data is highly dependent on cancer registries, which may or may not be available in developing nations.
+
+============================================================
+CHUNK 4
+============================================================
+INFECTION AND MALIGNANCY
+Fig. 23.2 shows the global distribution of cancers attributable to infection. Worldwide, the rate is 15.4%, 9.2% in high HDI nations, and 23% and 25.3% in medium and low HDI nations, respectively. In developing countries, the peak incidence of cancer occurs in persons aged 40 to 45 years. 3
+
+============================================================
+CHUNK 5
+============================================================
+Bacterial Infections
+Helicobacter pylori infects  half  the  world's  population,  making  it the most common etiologic agent of infection-related malignancy, responsible for an estimated 5.5% of the world's cancer. It is the primary  cause  of  distal  gastric  carcinoma.  Prevalence  rates  are highest  in  developing  nations,  where  the  infection  is  acquired before age {ve. Though most infected persons remain asymptomatic, gastric adenocarcinoma occurs in 1% to 3% and mucosal-associated lymphoid tumor (MALT) in 0.1%. 4
+The pathogenesis of gastric adenocarcinoma begins with the progression of H. pylori -induced super{cial gastritis to atrophic gastritis, a process that can take up to 10 years. 5 Consumption of salted, pickled, or nitrate-preserved foods, along with alcohol and tobacco, exacerbate the oxidative damage done by the bacteria, causing loss of mucous glands. Bacterial virulence factors (CagA) and host immune function in|uence progression to this critical {rst step. Persons who do not develop atrophic gastritis do not develop  cancer. With  repeated  cycles  of  epithelial  damage  and repair, oncogenic mutations accumulate, and over another 10-year period, 5 gastric atrophy progresses to intestinal metaplasia, low- then high-grade  dysplasia,  and  ultimately  invasive  carcinoma.  With early  malignancy,  symptoms  are  minimal  unless  a  coincidental H. pylori -induced peptic ulcer bleeds. With progression, the patient may develop abdominal pain, food intolerances, early satiety, anemia, and  weight  loss.  Diagnosis  is  generally  made  with  endoscopic biopsy. The bulk of these cancers occurs in Asian men, and unlike gastric adenocarcinoma in developed nations, which occurs in the proximal  stomach, H. pylori -induced gastric cancer  develops in the body and antrum. 4
+
+============================================================
+CHUNK 6
+============================================================
+Bacterial Infections
+Gastric  MALT  is  a  less  common  malignancy  caused  by H. pylori. The healthy stomach does not contain lymphoid tissue, but  with H.  pylori infection,  lymphocytes  in{ltrate  the  lamina propria, where polyclonal proliferation gives way to clonal B-cell proliferation. 4 Persons with gastric MALT experience dyspepsia, epigastric  pain,  or  bleeding.  As  with  gastric  adenocarcinoma, diagnosis is made with endoscopic biopsy.
+Though eradication of H. pylori has been shown to eliminate the risk for MALT and cure early-stage disease, the data are not as strong for the prevention of gastric cancer. This is due in part to re-infection and uncertainty as to when in the natural history of infection eradication is most effective in blocking oncogenesis. Choi et al. 6 showed  that H. pylori -infected persons who received eradication therapy versus placebo after undergoing resection of early gastric carcinoma or high-risk adenoma had 50% reduction in the incidence of metachronous cancers at 5.9 years of follow-up. There was also a  statistically signi{cant change in the rates of improvement in gastric atrophy in antibiotic-treated versus placebo-treated participants. There were no differences in overall survival or incidence of metachronous adenomata suggesting that after eradication, some persons remain at risk for gastric cancer whether due to eradication failure, re-infection, or residual dysplastic tissue that is unaffected
+Fig. 23.1 GLOBOCAN 2018: (A) Estimated age standardized incidence rates for men versus
+women for all malignancies except non-melanoma age standardized incidence and mortality rates for
+skin cancer by geographic region. (B) Estimated all malignancies except non-melanoma skin cancer
+
+============================================================
+CHUNK 7
+============================================================
+Bacterial Infections
+Fig. 23.1 GLOBOCAN 2018: (A) Estimated age standardized incidence rates for men versus women for all malignancies except non-melanoma skin cancer by geographic region. (B) Estimated age standardized incidence and mortality rates for all malignancies except non-melanoma skin cancer by geographic region. (Reproduced with permission from Ferlay J, Ervik M, Lam F, et al. 2018. Global Cancer Observatory: Cancer Today. Lyon, France: International Agency for Research on Cancer. Available from: http://gco.iarc.fr/today/ data/factsheets/cancers/39-All-cancers-fact-sheet. pdf).
+Age standardized (World) incidence rates, all cancers, by sex
+Australia/New Zealand
+571.2
+362.2
+322.1
+1247.0
+
+============================================================
+CHUNK 8
+============================================================
+Western Europe Northern Europe 363.5 1292.1 344.6 295.0
+North America
+Southern Europe
+Australia/New Zealand
+387.6
+319.5
+463.11
+North America
+Southern Europe
+92.9
+91.2
+
+============================================================
+CHUNK 9
+============================================================
+Western Europe Northern Europe 323.41 105.0 316.21 1101.7
+350.2 M
+278.4
+TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection
+Lung, Infectious Agent* = None known. Lung, Attributable Fraction† = _. Lung, Other Factors§ = Tobacco. Lung, Geographic Hot Spots = Global with variation. Lung, Control = Avoid tobacco Screening. Lung, Notes¥ = Most common cause of cancer and cancer mortality globally
+Continued
+1100.9
+23
+
+============================================================
+CHUNK 10
+============================================================
+Western Europe Northern Europe 323.41 105.0 316.21 1101.7
+Breast, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Infectious Agent* = None known. Breast, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Attributable Fraction† = _. Breast, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Other Factors§ = Genetic Hormonal PM lifestyle. Breast, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Geographic Hot Spots = Global with variation. Breast, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Control = Screening Lifestyle. Breast, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Notes¥ = Most common cancer in women globally. Prostate, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Infectious Agent* = None known. Prostate, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Attributable Fraction† = _. Prostate, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Other Factors§ = Race/ethnicity Genetics. Prostate, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Geographic Hot Spots = Global with variation. Prostate, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Control = Screening. Prostate, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Notes¥ = Second most common cancer in men globally. Colorectal, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Infectious Agent* = None
+
+============================================================
+CHUNK 11
+============================================================
+Western Europe Northern Europe 323.41 105.0 316.21 1101.7
+known. Colorectal, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Attributable Fraction† = _. Colorectal, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Other Factors§ = Genetics IBD Lifestyle. Colorectal, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Geographic Hot Spots = Global with variation. Colorectal, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Control = Screening Lifestyle. Colorectal, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Notes¥ = Third most common cancer globally. Stomach, non-cardia, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Infectious Agent* = H. pylori. Stomach, non-cardia, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Attributable Fraction† = 89%. Stomach, non-cardia, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Other Factors§ = Pickled/salted foods Alcohol Tobacco. Stomach, non-cardia, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Geographic Hot Spots = East Asia (China) Africa Pacific Islands. Stomach, non-cardia, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Control = Clean water Eradication Vaccine in development. Stomach, non-cardia, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Notes¥ = Fifth most common cancer globally. Liver, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers
+
+============================================================
+CHUNK 12
+============================================================
+Western Europe Northern Europe 323.41 105.0 316.21 1101.7
+Attributable to Infection-cont'd.Infectious Agent* = HBV. Liver, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Attributable Fraction† = 73.4%. Liver, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Other Factors§ = Aflatoxin Alcohol Iron overload Genotype B2, C. Liver, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Geographic Hot Spots = China Africa. Liver, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Control = Vaccination Treat chronic infection. Liver, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Notes¥ = Sixth most common cause of cancer Fourth most commom cause of mortality. Liver, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Infectious Agent* = HCV. Liver, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Attributable Fraction† = 73.4%‡. Liver, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Other Factors§ = Alcohol Genotype 1b and 3. Liver, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Geographic Hot Spots = Oceania North America Europe. Liver, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Control = Treat chronic infection. Liver, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Notes¥ = . Cervix, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to
+
+============================================================
+CHUNK 13
+============================================================
+Western Europe Northern Europe 323.41 105.0 316.21 1101.7
+Infection-cont'd.Infectious Agent* = High-risk HPV. Cervix, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Attributable Fraction† = 100%. Cervix, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Other Factors§ = HIV Lifestyle Tobacco. Cervix, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Geographic Hot Spots = Eastern, southern central Africa Central America Melanesia. Cervix, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Control = Vaccination Screening HIV control. Cervix, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Notes¥ = Fourth most common cancer in women. Penis, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Infectious Agent* = High-risk HPV. Penis, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Attributable Fraction† = 51%. Penis, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Other Factors§ = Uncircumcised UV Tobacco. Penis, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Geographic Hot Spots = Uganda South America India Southeast Asia. Penis, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Control = Neonatal circumcision. Penis, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Notes¥ = Common in areas of high HPV prevalence. Conjunctiva, TABLE 23.1 Features of the Most Common Cancers Worldwide
+
+============================================================
+CHUNK 14
+============================================================
+Western Europe Northern Europe 323.41 105.0 316.21 1101.7
+and the Most Common Cancers Attributable to Infection-cont'd.Infectious Agent* = High risk HPV. Conjunctiva, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Attributable Fraction† = NA. Conjunctiva, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Other Factors§ = HIV. Conjunctiva, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Geographic Hot Spots = Equator. Conjunctiva, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Control = Education. Conjunctiva, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Notes¥ = . Lymphoma, MALT Marginal zone, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Infectious Agent* = H. pylori HCV. Lymphoma, MALT Marginal zone, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Attributable Fraction† = 49.1% 3.6%. Lymphoma, MALT Marginal zone, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Other Factors§ = _ Cryoglobulinemia. Lymphoma, MALT Marginal zone, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Geographic Hot Spots = Areas of high HCV prevalence. Lymphoma, MALT Marginal zone, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Control = Eradication of H. pylori Treat HCV. Lymphoma, MALT Marginal zone, TABLE 23.1 Features of the Most Common Cancers
+
+============================================================
+CHUNK 15
+============================================================
+Western Europe Northern Europe 323.41 105.0 316.21 1101.7
+Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Notes¥ = . Lymphoma, DLBCL, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Infectious Agent* = HBV** HCV EBV. Lymphoma, DLBCL, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Attributable Fraction† = 49.1% 3.6% 49.1%. Lymphoma, DLBCL, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Other Factors§ = _ Cryoglobulinemia Immune suppression. Lymphoma, DLBCL, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Geographic Hot Spots = Areas of high HBV, HCV prevalence. Lymphoma, DLBCL, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Control = Vaccination Treat HCV. Lymphoma, DLBCL, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Notes¥ = . Burkitt's lymphoma, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Infectious Agent* = EBV. Burkitt's lymphoma, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Attributable Fraction† = 52%. Burkitt's lymphoma, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Other Factors§ = P. falciparum HIV. Burkitt's lymphoma, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers
+
+============================================================
+CHUNK 16
+============================================================
+Western Europe Northern Europe 323.41 105.0 316.21 1101.7
+Attributable to Infection-cont'd.Geographic Hot Spots = Equatorial Africa, New Guinea, Brazil. Burkitt's lymphoma, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Control = Malaria control HIV control. Burkitt's lymphoma, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Notes¥ = . Nasopharyngeal carcinoma, non-keratinizing squamous, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Infectious Agent* = EBV. Nasopharyngeal carcinoma, non-keratinizing squamous, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Attributable Fraction† = 95.5%. Nasopharyngeal carcinoma, non-keratinizing squamous, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Other Factors§ = Pickled, salted foods Genetics. Nasopharyngeal carcinoma, non-keratinizing squamous, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Geographic Hot Spots = Southern China Southeast Asia North Africa. Nasopharyngeal carcinoma, non-keratinizing squamous, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Control = Education. Nasopharyngeal carcinoma, non-keratinizing squamous, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Notes¥ = . Kaposi's sarcoma, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Infectious Agent* = KSHV
+
+============================================================
+CHUNK 17
+============================================================
+Western Europe Northern Europe 323.41 105.0 316.21 1101.7
+(HHV-8). Kaposi's sarcoma, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Attributable Fraction† = 100%. Kaposi's sarcoma, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Other Factors§ = HIV Immune suppression. Kaposi's sarcoma, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Geographic Hot Spots = Equatorial Africa. Kaposi's sarcoma, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Control = Education HIV control. Kaposi's sarcoma, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Notes¥ = Most common cancer in KS belt, regardless of HIV status. Adult T-cell leukemia and lymphoma, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Infectious Agent* = HTLV-1. Adult T-cell leukemia and lymphoma, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Attributable Fraction† = 100%. Adult T-cell leukemia and lymphoma, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Other Factors§ = Not defined. Adult T-cell leukemia and lymphoma, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Geographic Hot Spots = South Japan, Caribbean, Melanesia, Africa, South America. Adult T-cell leukemia and lymphoma, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Control = Education. Adult T-cell leukemia and lymphoma, TABLE
+
+============================================================
+CHUNK 18
+============================================================
+Western Europe Northern Europe 323.41 105.0 316.21 1101.7
+23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Notes¥ = . Bladder, squamous cell carcinoma, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Infectious Agent* = Schistosoma haematobium. Bladder, squamous cell carcinoma, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Attributable Fraction† = 1.6%. Bladder, squamous cell carcinoma, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Other Factors§ = Tobacco Childhood infection. Bladder, squamous cell carcinoma, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Geographic Hot Spots = North Africa Egypt. Bladder, squamous cell carcinoma, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Control = Eradication. Bladder, squamous cell carcinoma, TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd.Notes¥ = Tenth most common cause of cancer
+TABLE 23.1 Features of the Most Common Cancers Worldwide and the Most Common Cancers Attributable to Infection-cont'd
+
+Cholangiocarcinoma, Infectious Agent* = Opisthorchis viverrini Clonorchis sinensis. Cholangiocarcinoma, Attributable Fraction† = NA. Cholangiocarcinoma, Other Factors§ = Alcohol Tobacco Hepatic steatosis HBV HIV H. pylori. Cholangiocarcinoma, Geographic Hot Spots = Southeast Asia Thailand China Korea. Cholangiocarcinoma, Control = Eradication. Cholangiocarcinoma, Notes¥ = 
+*All infectious agents are Group I carcinogens per IARC.
+†Data from Ref 3: Attributable fraction is the fraction of new cases of a specific cancer due to an infectious agent.
+
+============================================================
+CHUNK 19
+============================================================
+Western Europe Northern Europe 323.41 105.0 316.21 1101.7
+‡HCV-induced liver cancer is not distinguished from HBV-induced liver cancer.
+**HBV-induced lymphoma is not described separately.
+- §Lifestyle implies low fiber diet, inactivity, and/or obesity, and/or multiple sex partners with unprotected sex.
+¥ For consistency, all data are from GLOBOCAN 2018.
+- DLBCL , Diffuse large B-cell lymphoma; IBD , inflammatory bowel disease; NA, Not available; PM , post-menopausal.
+Fig. 23.2 GLOBOCAN2012: Worldwide fraction of malignancies attributable to infection. Attributable fractions ranged from < 5% in the West to ≥ 40% in sub-Saharan Africa (Reprinted with permission from http://www. thelancet.com/journals/langlo/article/PIIS2214-109X(16)30143-7/fulltext).
+by eradication. Research efforts are focused on biomarkers to identify such persons for enhanced surveillance.
+Preventive vaccine development is underway, but success has been limited. A randomized phase III study from China tested an oral vaccine with ef{cacy of 72% at 1 year and 55% and 56% at 2  and  3  years,  respectively. 7 Understanding  transmission  and providing cleaner water have led to a decline in the incidence of H. pylori infections and a decline in distal gastric cancer.
+
+============================================================
+CHUNK 20
+============================================================
+Viral Infections
+Hepatitis B virus (HBV) and hepatitis C virus (HCV) infections are well-known risk factors for hepatocellular carcinoma (HCC) and  are  recognized  risk  factors  for  non-Hodgkin's  lymphoma (NHL). Globally,  HBV  is  the  more  relevant  tropical  infection where in endemic regions, maternal-child transmission is particularly important; 30% to 50% of children infected before age 6 tend  to  have  chronic  infections,  increasing  lifetime  risk  for hepatocellular cancer.
+The mechanism by which HBV and HCV are proposed to induce HCC are reviewed by others. 8,9 Brie|y, HBV integrates in the host genome at sites that are predictable based upon age and HBV genotype. Genotypes B2 and C confer greater risk for HCC. Integration results in genetic instability. Expression of the hepatitis B X gene induces proliferation via activation of RAS and AKT signaling cascades and suppresses apoptosis via p53 sequestration and inhibition of death receptor and mitochondrial apoptotic pathways (see Fig. 23.3). The unregulated proliferation of increasingly dysplastic hepatocytes  ultimately  results  in  malignant transformation. 8
+HCV does not integrate, and therefore maintenance of chronic infection requires continuous hepatocyte replication maintained by  viral  proteins.  Critical  to  oncogenesis  is  the  induction  of in|ammation  and  angiogenesis,  evasion  of  immune  detection, inhibition  of  apoptosis,  and  sustained  unregulated  hepatocyte proliferation,  all  executed  by  HCV  proteins.  Genotypes  3  and especially  1b,  along  with  host  polymorphisms  in  cytokine  and major histocompatibility  complex genes, confer higher risk  for development of HCC. 9
+In addition to alcohol, mycocystin, and iron overload, a|atoxin exposure is  a  particularly  relevant  risk  factor  for  HCC  in subSaharan Africa and Southeast Asia. A|atoxin B1, the most toxic a|atoxin,  is  a  metabolite  of Aspergillus  Ravus and A.  parasiticus, which infect grains and ground nuts stored in warm, damp locations.
+A
+S
+S
+HPV
+HBV/HCV
+G1
+G1
+Receptor tyrosine kinase with ligand
+Mutated receptor tyrosine kinase
+
+============================================================
+CHUNK 21
+============================================================
+Viral Infections
+(3) Aflatoxin (5) S. haematobium @ KSHV
+Tobacco
+PF + EBV
+Growth factor receptor and ligand
+Mutated growth factor receptor
+Fig. 23.3 Regulatory pathways in health and malignancy. (A) Health: After ligand binding, receptor kinase pathways are activated via phosphorylation promoting cell growth, proliferation, survival, and angiogenesis. Before cells enter the cell cycle and while in the cell cycle, checkpoints identify damaged DNA. Cells exit the cycle for DNA repair. p53, the protein product of TP53, and RB protein, the product of the RB gene, are key in regulating cell cycle progression. If DNA cannot be repaired, apoptosis follows to prevent cells from accumulating oncogenic mutations. (B) Oncogenic infections cause a variety of perturbations in cell machinery that contribute to independent growth, the hallmark of malignancy. Constitutive activation of the pathways controlling growth, proliferation, angiogenesis, and survival can result from mutations in growth factor and tyrosine kinase receptors, mutations in pathway proteins, or increased signaling via viral protein through unmutated pathway proteins. Regardless of the mechanism, response to feedback inhibition is lost. Loss of RB or p53 function allows cells with damaged DNA to replicate, resulting in the accumulation of somatic mutations of increasingly oncogenic potential. Expression of certain genes like AID, along with uncontrolled proliferation, sets up chromosomal breaks and translocations that provide selective growth advantages. Mutations in the mitochondrial or death receptor apoptotic pathways prevent elimination of cells with damaged DNA. P is phosphorylation, muRAS, muRAF, and muMEK refers to mutated RAS, RAF, and MEK. The red asterisk means the pathway protein is wild type (not mutated), but constitutively active by enhanced signaling. Depending upon the malignancy, some signaling proteins may be muted and others unmutated leading to constitutive activation of the pathway. Heavy green arrows represent enhanced or constitutive expression. Solid red lines with flat ends represent feedback inhibition, dotted red lines indicate loss of feedback inhibition, and dashed green lines means loss of proper signaling.
+
+============================================================
+CHUNK 22
+============================================================
+Viral Infections
+When  consumed,  a|atoxin  B1  induces  a  speci{c  inactivating mutation, G249T, in TP53 (the tumor suppressor gene that codes for p53 protein) (see Fig. 23.3). In HBV-endemic areas, co-exposure to  a|atoxin  B1  promotes  higher  rates  of  HCC  than  would  be expected from HBV alone. 10
+Persons  with  HCC generally  present with advanced disease characterized by weight loss, jaundice, and abdominal pain. Less common are presentations due to paraneoplastic syndromes that may  cause  hypercalcemia,  hypoglycemia,  watery  diarrhea,  or erythrocytosis.  Diagnosis  is  made  with  computed  tomography (CT) or ultrasound-directed biopsy.
+Because of the limited options for treating HCC and the lack of access to screening in low-resource countries, emphasis is on prevention by HBV vaccination of neonates. A study in T aiwanese children has demonstrated the ef{cacy of this approach in reducing HCC, 11 but unfortunately, only 10% of African nations are meeting this standard. 3 For those with chronic HBV infection, nucleoside reverse  transcriptase  inhibitors,  especially  entecavir,  have  been shown to reduce, but not eliminate, the risk for HCC. 11   HCVinduced HCC is increasing in Oceania, North America, and Western Europe  because  of  the  prevalence  of  baby  boomers  who  used intravenous drugs. It is estimated the incidence will continue to rise until 2020. 9 Although persons who achieve a sustained virologic response with interferon and ribavirin have lower risks of HCC than those who do not, the risk persists, likely due to a residual population of cells with irreversible genetic changes induced by HCV. Test-and-treat programs using direct-acting anti-virals are currently too costly for resource-limited nations. 9
+
+============================================================
+CHUNK 23
+============================================================
+Viral Infections
+Chronic  HCV  and  HBV  infections  confer  a  1.8-fold  and a  2-  to  3-fold  risk  of  lymphoma,  respectively.  Both  viruses  are lymphotropic and capable of replication within B cells, directly affecting  cellular  pathways  similar  to  those  observed  in  hepatocytes.  Another  proposed  mechanism  for  lymphomagenesis is  chronic  antigenic  stimulation  of  hepatitis-speci{c  B  cells, which  increases  the  likelihood  of  a  mutation  that  confers  a selective  growth  advantage. T-cell  immune  dysregulation  from chronic  hepatitis  contributes  to  poor  immune  surveillance  of transforming cells. 12
+As  with  HCC,  there  are  data  to  suggest  that  prevention and treatment strategies can reduce the risk of, as well as treat lymphomas.  The  ability  of  alpha-interferon  and  ribavirin  to induce  remission  in  HCV-induced  marginal  zone  lymphoma is  well  documented. 13 It  has  been  shown  that  HCV-infected persons who sustain complete virologic responses to interferon therapy have lower rates  of  lymphoma  in  comparison  to  those with  incomplete  responses. 14 In  terms  of  HBV,  a  cohort  study from Taiwan demonstrated an increased risk of NHL in regions of high HBV prevalence; it also showed the protective effects of universal HBV childhood vaccination in reducing rates of NHL in adolescents. 15
+Nearly all adults acquire a human papillomavirus (HPV) infection shortly after becoming sexually active. Of the 40 serotypes that  infect  mucosal epithelium, at least  15  are  considered  high risk,  seven  of  which  are  responsible  for  most  HPV-associated cancers, HPV-16, HPV-18, HPV-45, HPV-33, HPV-31, HPV-52, and HPV-58. In addition to nearly all cervical cancers, high-risk HPVs are a necessary, but not suf{cient factor in anal, vaginal, vulvar, penile, head and neck, 3 and conjunctival cancers. 16 Cervical, penile,  and  conjunctival  carcinomas  are  the  malignancies  most relevant to the tropics.
+
+============================================================
+CHUNK 24
+============================================================
+Viral Infections
+Although HPV infects the deep basal epithelium where it is isolated from circulating immune cells, an immune response usually develops, clearing the majority of infections before becoming a risk for malignancy. If infection persists, squamous intraepithelial neoplasia  grade  1  (SIN1)  progresses  to  increasingly  dysplastic SIN2  and  SIN3,  where  spontaneous  regressions  are  unlikely. In|ammation from persistent HPV infection, co-morbid infections, trauma, or smoking promotes epithelial  proliferation,  secretion of proangiogenic factors, and resistance to apoptosis. Oxidative and  nitrosative  stress  lead  to  double-strand  breaks  in  host  and HPV episomal DNA, inducing linearization and virus integration. Linearization  occurs  in  the  region  of  early    genes, E1 and E2 causing  loss  of  E2's  structural  integrity  and  subsequent  loss  of expression of the E2 protein (pE2). pE2 normally functions to suppress expression of E6 and E7 genes. With loss of pE2, E6 and E7 protein expression increase, binding and inactivating p53 and Rb respectively (see Fig. 23.3). Loss of cell cycle regulation follows, allowing  cells  with  damaged  DNA  to  replicate,  resulting  in  an accumulation of somatic mutations that contribute to malignant transformation. 17 This process generally takes between 10 and 15 years, though more rapid progression has been reported. 18
+In developing nations, HIV is an important co-factor in high-risk HPV  infections.  The  cell-mediated  immune  defect  supports persistent infection. HIV tat protein in conjunction with tumor necrosis factor alpha and interferon gamma (IFNγ ) induces disruption  of  the  tight  junctions  between  epithelial  cells,  enhancing HPV access to the basal layer. HIV tat protein enhances transcription of E6 and E7, supporting oncogenesis before linearization, offering an explanation for why HPV-related cancers in any site among HIV-infected persons progress more quickly. 19,20
+
+============================================================
+CHUNK 25
+============================================================
+Viral Infections
+Nearly 90% of cervical cancer cases occur in the developing world. Women with localized disease may be entirely asymptomatic or report metrorrhagia. As disease advances, dyspareunia, pelvic pain, and bleeding develop. Screening with Papanicolaou smear and  treatment  of  pre-invasive  lesions  have  been  shown  in  the developed world to reduce the incidence of and death from invasive malignancy. Screening and treatment strategies for resource-limited settings are available, 21 but given their limitations, the World Health Organization (WHO) recommends HPV vaccination for pre-teen girls and rapid HPV testing in older women.
+Penile cancer, with annual incidence rates of less than 1% in developed nations, accounts for up to 10% of cancers in equatorial nations with high cervical cancer prevalence. Risk factors in addition to  HPV  include  HIV,  tobacco,  ultraviolet  (UV)  exposure,  and poor hygiene among uncircumcised men. Due to embarrassment and fear, there is delay and under-reporting of symptoms. Pruritis and burning around a phimotic foreskin, with or without a purulent discharge, are common in early disease. With progression comes {stula formation and urinary retention. Bleeding and pain are less common. Treatment options are limited, so emphasis is on prevention.  Neonatal  circumcision  abolishes  risk  and  is  favored  over HPV vaccination. 22
+
+============================================================
+CHUNK 26
+============================================================
+Viral Infections
+Squamous  cell  carcinoma  (SCC)  of  the  conjunctiva,  a  rare malignancy, was originally described  in  fair-skinned  older  men living  in  tropical  regions. With  the  HIV  epidemic,  the  disease appeared outside the usual demographic, and {ndings of high-risk HPV  infection  in  pre-malignant  and  malignant  lesions  were reported. The malignancy usually presents in the nasal conjunctiva as a gray-white gelatinous mass with surrounding injection from feeder vessels (Fig. 23.4). It can be confused with benign neoplasms of  the  nasal  conjunctiva,  pinguecula,  or  pterygium,  which  also occur in persons with UV exposure and dry eyes. Patients with either neoplasm can experience blurry vision or a foreign body sensation, necessitating biopsy for diagnosis. Though questions about the pathogenesis remain, there appears to be a relationship between high-risk HPV, the mutagenic effects of UV, and HIVinduced immune suppression that are permissive for the development of carcinoma. 16
+Kaposi's sarcoma herpesvirus (KSHV), or HHV-8, is a gammaherpesvirus with geographically distinct prevalence rates, more than 50% in equatorial Africa, within the Kaposi's sarcoma belt (Fig. 23.5A), about 20% in the Mediterranean, and less than 10%
+in Asia and the West. KSHV is transmitted horizontally via saliva, sexual intercourse, and transfusion; vertical transmission is rare. Saliva is considered the most important mode of transmission in African heterosexuals, with pre-mastication by an infected adult being the primary means of childhood infection. 23
+The mechanisms by which KSHV induces malignant transformation  are  complex.  The  virus  targets  endothelial  cells,  B
+Fig. 23.4 Squamous cell carcinoma of the conjunctiva. A gelatinous mass with surrounding feeder blood vessels in the nasal conjunctiva. (With permission from Mata E, Conesa E, Castro M, et al. Conjunctival squamous cell carcinoma: paradoxical response to interferon eyedrops. Archivos de la Sociedad Espanola de Oftalmologia 2014; 89(7):293-6.)
+B
+
+============================================================
+CHUNK 27
+============================================================
+Viral Infections
+Fig. 23.5 The Kaposi's sarcoma, Burkitt's lymphoma, and malaria belts of equatorial Africa. (A) Kaposi's sarcoma belt. Red, seroprevalence rates > 40%; purple, 30%-40%; green, 10-20%; and yellow < 10%. (B) Burkitt's lymphoma and malaria belt. Gray shading represents the Burkitt's lymphoma belt and black hashmarks represent the malaria belt or areas of malaria holoendemnicity. (Panel A, From Mesri EA, Cesarman E, Boshoff C. Kaposi's sarcoma and its associated herpes virus. Nat Rev Cancer 2010;10(10):707-9. Panel B, From https:// figshare.com/articles/_The_Burkitt_lymphoma_belt_overlaps_the_regions_of_Africa_in_which_malaria_ is_holoendemic_/1158451.)
+C
+Fig. 23.6 Kaposi's sarcoma. (A) Classic. (B) Immune suppression associated. (C) HIV associated or epidemic. (D) Endemic. (With permission from Hengge UR, Ruzicka T, Tyring SK, et al. Update on Kaposi's sarcoma and other HHV8 associated diseases. Part 1: epidemiology, environmental predispositions, clinical manifestations, and therapy. Lancet Infect Dis 2002;2(5):281-92.)
+lymphocytes, epithelial cells, and macrophages through G-coupled protein  receptors  and  persists  as  an  episome  attached  to  host DNA, never integrating. Latency genes modulate host signaling pathways to promote target cell proliferation,  inhibit cell cycle checkpoints, tumor suppressor genes, and apoptosis, and support an in|ammatory environment (see Fig. 23.3). Virus-infected cells evade immune detection through down-regulation of TLR-4 and IFN production. 23 HIV tat protein  contributes to proliferation of KSHV-infected cells, and the associated cell-mediated immune defect prevents their clearance. 24
+
+============================================================
+CHUNK 28
+============================================================
+Viral Infections
+KSHV is a necessary, but not suf{cient, factor in the development of Kaposi's sarcoma (KS), primary effusion lymphoma, and multicentric  Castleman's  disease.  KS,  a  multifocal  tumor  of lymphatic endothelial origin, 23 is the most common KSHV-related malignancy  and  the  most  relevant  to  the  tropics.  Of  the  four epidemiologic  subtypes,  classic,  transplant  associated,  endemic, and epidemic or AIDS associated, the latter two are most pertinent to this discussion.
+There are two forms of endemic KS, cutaneous and lymphadenopathic, with the latter being an aggressive, often lethal, disease more common in children. Otherwise, the clinical manifestations of endemic and epidemic KS are similar and range from indolent cutaneous lesions of cosmetic concern to limb- or life-threatening disease with visceral  involvement (Fig. 23.6).  HIV  co-infection confers  a  50-fold  increase  in  the  risk  of  developing  KS, 25 and because  HIV  transmission  in  sub-Saharan  Africa  is  primarily heterosexual, epidemic KS occurs in nearly equal proportions in men and women.
+Combination antiretroviral therapy has reduced the incidence of  epidemic  KS  by  70%  to 90% in  resource-rich  settings,  and preliminary  data  support  similar  effectiveness  in  sub-Saharan Africa. Challenges persist in addressing the numbers of HIV-KSHV co-infected persons and the problem of incident KS in persons with preserved CD4 + T-cell counts. 26 Treatment for life- or limbthreatening endemic or epidemic KS may require chemotherapy.
+
+============================================================
+CHUNK 29
+============================================================
+Viral Infections
+Nasopharyngeal carcinoma, a rare head and neck cancer with a clonal Epstein-Barr virus (EBV) infection, is the leading cause of cancer in some parts of Asia and Africa. The malignancy develops in a stepwise fashion similar to cervical cancer, except EBV infection does not occur until epithelial cells have undergone pre-malignant changes. Genetic predispositions  and local customs explain the narrow incidence of this malignancy. Consumption of salt-preserved foods is common in high-prevalence areas; preservation is incomplete, and foods undergo putrefaction, generating nitrosamines. Common  genetic  predispositions  include  decreased  ability  to metabolize nitrosamines, inability to present EBV proteins to the immune system, and polymorphisms in the polymeric immunoglobulin receptor ( PIGR ) that facilitate EBV entry into the nasal
+epithelium. 27 Patients may present with nasal discharge, bleeding, or  serous  otitis  media  secondary  to  obstruction.  Cranial  nerve (CN) palsies, especially in CN V, VI, and XII, develop with tumor extension. Because of the rich lymphatic supply to the nasopharynx, more than half of patients present with adenopathy. The retropharyngeal nodes are  the most commonly involved but due to location can only be assessed with imaging. As disease advances, cervical adenopathy in all levels may develop. Diagnosis is made via biopsy after CT localization of tumor.
+
+============================================================
+CHUNK 30
+============================================================
+Viral Infections
+Human T-cell leukemia virus (HTLV-1) is estimated to infect between 5 and 10 million people, with areas of high prevalence adjacent to areas of low prevalence within the same country (also see Chapter 38.9). The virus is transmitted via intercourse, blood products,  organ  transplant,  and  to  children  through  extended breastfeeding. The virus targets CCR4 expressing CD4 + T cells and is responsible for adult T-cell leukemia and lymphoma (ATLL). The  virus,  spread  by  cell-to-cell  contact,  randomly  integrates. Malignant transformation results from the action of HTLV-1 gene products such as tax protein on apoptotic and T-cell proliferation pathways. The lifetime risk for ATLL in infected persons is 2% to 5% with malignancy presenting 20 to 30 years after infection. Response to chemotherapy is poor, though better outcomes have been reported  using  mogamulizumab  (anti-CCR4)  in  Japanese patients. 28 There is no vaccine, so public health efforts are directed at identifying and educating HTL V-1 carriers about transmission. The ef{cacy of such measures has been demonstrated in Japan, but not in developing nations. 29
+
+============================================================
+CHUNK 31
+============================================================
+Parasitic Infections
+Endemic Burkitt's lymphoma (eBL) is the most common childhood malignancy and accounts for 90% of lymphomas in the Burkitt's lymphoma (BL) belt, (an area that extends from 10°N to 10°S of the  equator)  (Fig.  23.5B)  where Plasmodium  falciparum (Pf)  is holoendemic. 30
+The syndemic relationship between EBV and Pf is established with early primary EBV infection in the setting of chronic malaria. Pf-infected red blood cells induce polyclonal B-cell proliferation through the parasite's cysteine-rich interdomain region 1 α . Latent EBV infections are reactivated, leading to increased viral burden and numbers of infected B cells. The parasite protein hemozoin binds to B cells, increasing expression of activation-induced cytidine deaminase (AID). AID induces mutations in TP53 and chromosomal breaks in highly transcribed areas of the B-cell genome, culminating in the hallmark c -myc translocations t(8;14)(q24;q32), t(2;8)(p12q24), or t(8;22)(q24;q11). Regardless of the speci{c translocation, the result  is  that  the  ordinarily  tightly  regulated c-myc gene,  now under control of immunoglobulin enhancer elements, is constitutively expressed, driving cell growth and proliferation (see Fig. 23.3). Mutated TP53 permits accumulation of cells increasingly capable of independent growth, and EBV-induced immune defects suppress immune surveillance. 30
+Endemic BL typically presents with massive adenopathy in the jaw or orbit in HIV-negative children or young adults (Fig. 23.7). Epidemic BL presents with extranodal  disease  in  HIV-positive adults  with  uncontrolled  viral  replication  but  preserved  CD4 + T-cell counts. Clonal EBV expression is present in nearly all cases of eBL, but only in 40% of epidemic BL, where HIV is thought to replace EBV as the driver of B-cell proliferation. 31
+
+============================================================
+CHUNK 32
+============================================================
+Parasitic Infections
+A  logical  approach  to  eBL  is  malaria  control. A  number  of studies have been done, but, because rates of endemic BL started to fall before studies were completed, results are hard to interpret. 30 Control  of  HIV  replication  theoretically  would  contribute  to control of epidemic BL. Successful management of BL requires a medical infrastructure not available in endemic areas. Therapy must be tailored to patients' health and access to care, resulting in 5-year event-free survivals of less than 60% in Africa compared with 84% to 92% in the West. 31
+Fig. 23.7 Burkitt's lymphoma. A child with endemic Burkitt's lymphoma with involvement of the jaw. (Courtesy, Dr. Juliana Otieno and Dr. Ann Moormann.)
+Three genera of trematodes are potentially oncogenic, Schistosoma, Opisthorchis, and Clonorchis. The WHO estimates there are more than 200 million cases of schistosomiasis, most of which occur  in  low-resource  nations  without  clean  water. Schistosoma haematobium is  associated  with  SCC  of  the  bladder. There  are weaker associations of S. japonicum with HCC and colorectal cancer, and S. mansoni with HCC. 32
+Circulating  worms  invade  the  venous  plexus  of  the  ureters and  bladder,  laying  eggs  that  eventually  pass  into  the  bladder mucosa inciting in|ammation and oxidative stress. Fibrosis follows, preventing  complete  emptying  of  the  bladder.  With  bacterial colonization,  urinary  nitrosamines  accumulate  and  along  with oxidative stress cause mutations in K-ras, TP53, and bcl-2 allowing  unregulated  proliferation  and  survival  of  cells  with  DNA damage  (see  Fig.  23.3).  Metaplasia  progresses  to  dysplasia  and ultimately  invasive  SCC. 32 Malignant  transformation  requires several  decades  starting  with  childhood  infection  and  after decades of chronicity, culminates in a diagnosis of cancer in the {fth  decade,  which  is  considerably  younger  than  transitional cell patients in the developed world who present in the seventh decade. Painless hematuria and irritative voiding symptoms are common presentations for  bladder  cancer  and chronic  bladder schistosomiasis, whereas the presence of necroturia is more suggestive of malignancy. 33 Diagnosis is con{rmed by biopsy through cystoscopy.
+
+============================================================
+CHUNK 33
+============================================================
+Parasitic Infections
+Although trematode control strategies have led to a dramatic decline in the prevalence of S. haematobium and incidence of SCC of the bladder, the  overall incidence  of bladder cancer remains steady. This unfortunate trend has been attributed to increased tobacco use, 34 and an associated increase in transitional cell carcinoma of the bladder.
+An estimated  45  million  people  are  infected  with Clonorchis sinensis and Opisthorchis viverrini 32 (see Chapter 128). Metacercariae, ingested  after  consumption  of  undercooked  or  inadequately preserved  freshwater  {sh,  excyst  in  the  duodenum  and  ascend through the ampulla of Vater to biliary and pancreatic ducts to
+induce  cholangiocarcinoma  (CCA).  A  number  of  mechanisms involving genetic and epigenetic changes are proposed. Parasitederived proteins induce chronic in|ammation and oxidative DNA damage. Unregulated proliferation follows acquisition of activating mutations  in  oncogenes  and  inactivating  mutations  in  tumor suppressor genes. Cytokines and chemokines induce angiogenesis to support neoplastic growth. 35 Additional risk factors pertinent to the tropics include HIV , HBV , H. pylori, and alcohol and tobacco use. The rising rates of obesity-related hepatic steatosis are becoming increasingly relevant and are likely to abrogate the progress made by trematode eradication programs.
+
+============================================================
+CHUNK 34
+============================================================
+Parasitic Infections
+Although CCA requires decades of chronic in|ammation to develop, it is rarely diagnosed at a stage amenable to surgical cure. This is in part because symptoms of early disease such as nausea, anorexia, abdominal pain, and biliary obstruction are non-speci{c and associated with a variety of benign conditions, including chronic trematode infection. Most patients present with unresectable disease with malaise, abdominal pain, weight loss, jaundice, and ascites. Diagnosis is made with endoscopic retrograde cholangiopancreatography if available, but cytologic analysis of ascites may be just as useful and is more accessible, less expensive, and less invasive. Because there is no effective therapy for surgically unresectable disease,  emphasis is on prevention and early detection through screening  in  high-risk  populations.  A  {nding  of  unexplained intrahepatic bile duct dilatation without obstruction on ultrasound or CT is associated with a healed trematode infection and should prompt screening. 36 Screening methods vary, but tumor markers, CEA, and Ca19-9 levels, along with CT or magnetic resonance imaging are commonly employed. 37
+
+============================================================
+CHUNK 35
+============================================================
+TOBACCO
+The WHO estimates that of the 1 billion smokers worldwide, 80% live  in  low-  and  medium-income  countries.  T obacco,  the single most important risk factor for malignancy, particularly lung cancer, is responsible for 22% of cancer deaths. 2 Other tobaccoassociated  cancers include head  and  neck,  esophagus, pancreas, liver, gastric, colon, cervix, renal, ureter, and bladder. 38 The primary means  by  which  smoking  induces  malignancy  is  via  chemicalinduced in|ammation and DNA damage, especially to genes like K-ras and TP53.
+In  2003,  the  World  Health  Assembly  endorsed  the  WHO Framework Convention on T obacco Control. As of 2015, 90% of the  world's  countries  had  rati{ed  the  legally  binding  treaty. Participants committed to using evidence-based tobacco control measures such as MPOWER. 39 A target was set for a 30% reduction in the 2010 smoking prevalence rates by 2025. In a 2015 report, however, only 21% of countries were on target for men and 49% for women. Prevalence rates remained lowest in the poorest nations, presenting an opportunity to prevent the epidemic from taking hold, but tobacco companies are systematically redirecting their advertising efforts to these nations. 40
+
+============================================================
+CHUNK 36
+============================================================
+OBESITY
+By 2010, rates of obesity were so high in developed nations that epidemiologists added a {fth phase, age of obesity and inactivity, 41 to Omran's four stages of epidemiologic transition. In 2016, the International Association for Cancer Research (IARC) published an updated review of the malignancy and obesity literature and concluded there were suf{cient data to link obesity with carcinoma of the esophagus, gastric cardia, colon-rectum, liver, gallbladder, pancreas, post-menopausal breast, uterus, kidney, and thyroid, as well multiple myeloma, and meningioma. 42
+In  an  attempt  to  understand  the obesity-related cancer burden in  diverse  geographic  areas, Arnold  et al.,  using  GLOBOCAN  2012  data,  estimated  that  worldwide  3.6%  of  new cancers  were  related  to  obesity.  In  developing  nations,  2%  of cancers  in  women  and  0.5%  of  cancers  in  men  were  linked, making obesity less of a risk factor than tobacco and oncogenic infections. 43
+Obesity, however, cannot be ignored in transitioning nations. Between 1975 and 2014, there was a sixfold increase in the number of obese persons globally. Recent obesity rates from China, South Africa, and the Middle East suggest that developing nations are reaching  this  {fth  phase  earlier  in  their  transitions 41 than  did Western nations.
+There is considerable variability in the risk of obesity-induced cancers among ethnic  groups.  This  is likely  due  to  varying  susceptibility to visceral adiposity and varying  contributions from the homeostatic disruptions associated with obesity, sex hormone metabolism, insulin, and insulin-like growth factor signaling, adipokine-induced in|ammation, immune dysfunction, and microbiome changes. 44 Regardless of the mechanism, IARC data show that intentional weight loss has a bene{cial effect on cancer risk, providing support for programs to avoid obesity for nations in transition.
+
+============================================================
+CHUNK 37
+============================================================
+Management
+Successful  management of cancer requires  timely  and  accurate diagnosis, staging, access to surgery, chemotherapy, radiation therapy, and palliative care. Only 26% of developing nations report adequate pathology services and 30% access to cancer treatment. 2 These de{ciencies translate to a delay in diagnosis, more advanced stage at diagnosis, poorer outcomes, and greater costs. Pathologists without access to advanced diagnostics and genetic testing will fail to identify malignancies with driver mutations that can be treated with targeted therapy. The inability to provide surgery for an early-stage cancer reduces chances for cure and adds to medical costs, as well as costs due to loss of productive life. It has been estimated that of the 15.2 million cases of cancer diagnosed in 2015, 80% required surgery, yet for nearly 75% of those patients, surgery was not available, safe, or affordable. Radiation therapy is estimated to be used at least once  in  about  half  of  all  cancer  patients.  Access  is  notoriously dependent on wealth and as such is not available in at least 30 African nations. Chemotherapy is similarly expensive and expertise dependent.  Cost  and  production  problems  create  shortages  of life-saving medications. In many poor nations, 40% of essential cancer drugs are out of stock for a median of 30 days. A year's worth of trastuzumab, a monoclonal antibody that reduces mortality by 50% in women with HER-2-ampli{ed breast cancer, increases the cost of adjuvant therapy 100-fold. Palliative care emphasizes the management of physical, social, and spiritual distress due to cancer or its treatment. It has been shown to extend life and is recommended to supplement treatment for advanced cancer. Pain management is at the center of palliative care, but resource-limited countries rarely have the opioids needed for pain relief due to restrictions on use, lack of training, cost, and cultural attitudes. 45
+
+============================================================
+CHUNK 38
+============================================================
+Management
+The impact of the burden of cancer in resource-limited nations cannot be overstated. Eliminating tobacco and eradicating oncogenic infections would reduce the risk for 22% and 25% of cancers, respectively. 2 Understanding the mechanisms by which infections induce cancers reinforces the importance of prevention. Oncogenic infections cause cancers driven by mutations in TP53, K-ras, and blocked apoptotic pathways, which are especially dif{cult to treat, regardless of resources. Because  of irreversible  genetic changes induced by some infections, eradication may not eliminate the risk of malignancy. Ignoring the need for continued surveillance may be deadly. Though HIV does not cause malignancy directly, control of viral replication and preservation of immune function would reduce risk of KSHV , EBV , and HPV-related malignancies. Understanding the ethnic and geographic heterogeneity in susceptibility to speci{c cancers  will  allow  for  the  creation  of  individualized  programs to direct critical resources to prevent and treat relevant cancers. Prioritizing funding and partnerships with resource-rich centers, resource-strati{ed clinical practice guidelines, and WHO lists of
+essential  medicines  can  be  used  to  begin  to  realize  the  unmet needs across the management continuum.
+
+============================================================
+CHUNK 39
+============================================================
+REFERENCES
+1.  IARC.  All cancers; 2018.  http://gco.iarc.fr/today/data/factsheets/ cancers/39-All-cancers-fact-sheet.pdf.
+2.  WHO.  Cancer;  2018.  http://www.who.int/news-room/fact-sheets/ detail/cancer.
+3.  Plummer M, de Martel C, Vignat J, et al. Global burden of cancers attributable to infections in 2012: a synthetic analysis. Lancet Global Health 2016;4(9):e609-16.
+4.  Wroblewski  LE,  Peek  RM,  Wilson  KT.  Helicobacter  pylori  and gastric cancer: factors that modulate disease risk. Clin Microbiol Rev 2010;23(4):713-39.
+5.  Asaka  M,  Sepulveda  AR,  Sugiyama  T,  et al.  Gastric  cancer.  In: Mobley HLT, Mendz GL, Hazell SL, editors. Helicobacter pylori: physiology  and  genetics.  Washington  (DC):  ASM  Press;  2001. [Chapter 40]. https://www.ncbi.nlm.nih.gov/books/NBK2445/.
+6.  Choi  IJ,  Kook  MC,  Kim YI,  et al.  Helicobacter  pylori  therapy  for the  prevention  of  metachronous  gastric  cancer.  New  Engl  Med 2018;378(12):1085-95.
+7.  Zeng M, Mao XH, Li JX, et al. Ef{cacy, safety, and immunogenicity of  an  oral  recombinant  Helicobacter  pylori  vaccine  in  children  in China: a randomised, double-blind, placebo-controlled, phase 3 trial. Lancet 2015;386(10002):1457-64.
+8.  Lin S, Zhang YJ. Interference of apoptosis by hepatitis B virus. Viruses 2017;9(8):e230.
+9.  Bandiera S, Billie Bian C, Hoshida Y, et al. Chronic hepatitis C virus infection and pathogenesis of hepatocellular carcinoma. Curr Opin Virol 2016;20:99-105.
+
+============================================================
+CHUNK 40
+============================================================
+REFERENCES
+10.  Hamid AS,  T esfamariam  IG,  Zhang Y,  et al.  A|atoxin  B1-induced hepatocellular carcinoma in developing countries: geographical distribution, mechanism of action and prevention. Oncol Lett 2013;5:1087-92.
+11.  Omata M, Cheng AL, Kokudo N, et al. Asia-Paci{c clinical practice guidelines on the management of hepatocellular carcinoma: a 2017 update. Hepatol Int 2017;11:317-70.
+12.  Dalia S, Suleiman Y, Croy DW, et al. Association of lymphomagenesis and the reactivation of hepatitis B virus in non-Hodgkin lymphoma. Cancer Control 2015;22(3):360-5.
+13.  Arcaini L, Bruno R. Hepatitis C virus infection and antiviral treatment in marginal zone lymphomas. Curr Clin Pharmacol 2010;5(2):74-81.
+14.  Kawamura  Y,  Ikeda  K,  Arase  Y,  et al.  Viral  elimination  reduces incidence of malignant lymphoma in patients with hepatitis C. Am J Med 2007;120(12):1034-41.
+15.  Huang  CE,  Yang  YH,  Chen  YY,  et al.  The  impact  of  hepatitis  B virus infection and vaccination on the development of non-Hodgkin lymphoma. J Viral Hepat 2017;24(10):885-94.
+16.  Sun  EC,  Fears  TR,  Goedert  JJ.  Epidemiology  of  squamous  cell conjunctival cancer. Cancer Epidemiol Biomarkers Prev 1997;6:73-7.
+17.  Williams VM, Filippova M, Soto U, et al. HPV-DNA integration and carcinogenesis: putative roles for in|ammation and oxidative stress. Future Virol 2011;6(1):45-57.
+18.  Collins Y, Einstein MH, Gostout BS, et al. The Society of Gynecologic Oncologists Education Resource Panel Writing Group. Cervical cancer prevention in the era of prophylactic vaccines: A preview for gynecologic oncologists. Gynecol Oncol 2006;102:552-62.
+
+============================================================
+CHUNK 41
+============================================================
+REFERENCES
+19.  T ugizov SM, Herrera R, Chin-Hong P , et al. HIV-associated disruption of mucosal epithelium facilitates paracellular penetration by human papillomavirus. Virology 2013;446:378-88.
+20.  Verma M, Erwin S, Abedi V , et al. Modeling the mechanisms by which HIV-associated immunosuppression in|uences HPV persistence at the oral mucosa. PLoS ONE 2017;12(1):e0168133.
+21.  WHO Guidelines for screening and treatment of precancerous lesions for  cervical  cancer;  2013.  http://www.who.int/reproductivehealth/ publications/cancers/screening_and_treatment_of_precancerous_ lesions/en/.
+22.  Morris BJ, Gray RH, Castellsague X, et al. The strong protective effect of circumcision against cancer of the penis. Adv Urol 2011;2011:812368.
+23.  Bhutani M, Polizzotto MN, Uldrick TS, et al. Kaposi sarcoma-associated herpesvirus-associated malignancies: epidemiology, pathogenesis, and advances in treatment. Semin Oncol 2015;42(2):223-46.
+24.  Fiorelli  V ,  Gendelman  R,  Sirianni  MC,  et al.  Gamma-interferon produced  by  CD8 + T  cells  in{ltrating  Kaposi's  sarcoma  induces
+25. spindle  cells  with  angiogenic  phenotype  and  synergy  with  human immunode{ciency virus-1 tat protein: an immune response to human herpesvirus-8 infection? Blood 1998;91(3):956-67.
+25.  Stein  L,  Urban  MI,  O'Connell  D,  et al.  The  spectrum  of  human immunode{ciency virus associated cancers in a South African black population: results from a case control study, 1995-2004. Int J Cancer 2008;122:2260-5.
+26.  Semeere AS, Busakhala N, Martin JN. Impact of antiretroviral therapy on the incidence of Kaposi's sarcoma in resource-rich and resourcelimited settings. Curr Opin Oncol 2012;24(5):522-30.
+
+============================================================
+CHUNK 42
+============================================================
+REFERENCES
+27.  Chang ET, Adami HO. The enigmatic epidemiology of nasopharyngeal carcinoma. Cancer Epidemiol Biomarkers Prev 2006;15(10):1765-77.
+28.  Makita  S, T obinai  K.  Mogamulizumab  for  the  treatment  of T  cell lymphoma. Expert Opin Biol Ther 2017;17(9):1145-53.
+29.  Yoshimitsu  M,  Kozako  T,  Arima  N.  Prevention  of  human  T-cell lymphotropic virus infection  and adult T-cell leukemia.  In: T omita M, editor. T cell leukemia - characteristics, Treatment and prevention. Pub Intech; Feb 20 2013. [Chapter 6]. http://dx.doi.org/10.5772/55427 or https://cdn.intechopen.com/pdfs-wm/41969.pdf.
+30.  Moormann AM, Bailey JA. Malaria - how this parasitic infection aids and abets EBV-associated Burkitt lymphomagenesis. Curr Opin Virol 2016;20:78-84.
+31.  Molyneux EM, Rochford R, Grif{n B, et al. Burkitt's lymphoma. Lancet 2012;379:1234-44.
+32.  van T ong H, Brindley PJ, Meyer CG, et al. Parasite infection, carcinogenesis and human malignancy. EBioMedicine 2017;15:12-23.
+33.  Zaghloul MS, Gouda I. Bladder cancer and schistosomiasis: is there a difference for the association? In: Canda AE, editor. Bladder cancer. Pub Intech; February 1 2012. [Chapter 10]. http://cdn.intechopen.com/ pdfs/27323/InT ech-Bladder_cancer_and_schistosomiasis_is_there_a_ difference_for_the_association_.pdf.
+34.  Hussein WM, Anwar WA, Attaleb M, et al. A review of the infection associated cancers in North African countries. Infect Agent Cancer 2016;11:35.
+
+============================================================
+CHUNK 43
+============================================================
+REFERENCES
+35.  Banales JM, Cardinale V , Carpino G, et al. Expert consensus document: Cholangiocarcinoma: current knowledge and future perspectives consensus statement from the European Network for the Study of Cholangiocarcinoma (ENS-CCA). Nat Rev Gastroenterol Hepatol 2016;13:261-80.
+36.  Lim  JH.  Liver  |ukes:  the  malady  neglected.  Korean  J  Radiol 2011;12(3):269-79.
+37.  Sripa B, Kaewkes S, Sithithaworn P , et al. Liver |uke induces cholangiocarcinoma. PLoS Med 2007;4(7):e201.
+38.  U.S. Department of Health and Human Services. The health consequences of smoking-50 years of progress: a report of the Surgeon General. Atlanta, GA: U.S. Department of Health and Human Services, Centers  for  Disease  Control  and  Prevention,  National  Center  for Chronic Disease Prevention and Health Promotion, Of{ce on Smoking and Health; 2014. http://www.surgeongeneral.gov/library/reports/50years-of-progress/full-report.pdf.
+39.  WHO. WHO global report on trends in tobacco smoking 2000-2025 - {rst edition. http://www.who.int/tobacco/publications/surveillance/ reportontrendstobaccosmoking/en/index1.html.
+40.  Bilano V, Gilmour S, Mof{et T, et al. Global trends and projections for tobacco use, 1990-2025: an analysis of smoking indicators from the WHO comprehensive information systems for tobacco control. Lancet 2015;385:966-76.
+41.  Gaziano JM. Fifth phase of the epidemiologic transition. The age of obesity and inactivity. JAMA 2010;303(3):275-6.
+42.  Lauby-Secretan B, Scoccianti C, Loomis D, et al. International Agency for  Research  on  Cancer  Handbook Working  Group.  Body  fatness and cancer - viewpoint of the IARC Working Group. N Engl J Med 2016;375(8):794-8.
+
+============================================================
+CHUNK 44
+============================================================
+REFERENCES
+43.  Arnold  M,  Pandeya  N,  Byrnes  G,  et al.  Global  burden  of  cancer attributable  to  high  body  mass  index  in  2012:  a  population-based study. Lancet Oncol 2015;16(1):36-46.
+44.  Renehan  AG,  Zwahlen  M,  Egger  M.  Adiposity  and  cancer  risk: new  mechanistic  insights  from  epidemiology.  Nat  Rev  Cancer 2015;15:484-98.
+45.  National Academies of Sciences, Engineering, and Medicine. Cancer care in low-resource areas: cancer treatment, palliative care, and survivorship care: proceedings of a workshop. Washington, DC: National Academies Press, 2017. https://doi.org/10.17226/24743.
+

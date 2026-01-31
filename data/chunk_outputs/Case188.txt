@@ -1,0 +1,836 @@
+============================================================
+CHUNK 0
+============================================================
+Key features
+- The clinical presentation of uncomplicated malaria is a nonspeci/c, undi.erentiated febrile illness. It is not possible to con/rm or exclude the diagnosis of malaria based on clinical presentation alone
+- Malaria infection in non-immune individuals is a medical emergency
+- Malaria infection is not synonymous with malaria illness, particularly in malaria-endemic areas where older children and adults have acquired immunity to malaria disease and are commonly found with asymptomatic parasitemias
+- The diagnosis of malaria should be parasitologically con/rmed by the microscopic visualization of parasites on a peripheral blood smear or detecting parasite antigen with a rapid diagnostic test (RDT)
+- Repeating smears every 12 hours for 36-48 hours if initial smears are negative is warranted in non-immune individuals who are at risk. It not necessary to time smears with elevations in temperature to make a parasitologic diagnosis
+- Patients who are unable to take anti-malarial medication by mouth require parenteral therapy - a loading dose is essential
+- When possible, decisions regarding the use of anti-malarial medications should be based on parasitologic evidence (blood /lm or malaria RDT)
+
+============================================================
+CHUNK 1
+============================================================
+INTRODUCTION
+Malaria is an ancient and enduring scourge of mankind with a rich and fascinating history [1]. About 3 billion people - nearly half of the world's population - are at risk of malaria infection and illness. Every year, this leads to about 250 million malaria cases and nearly 1  million malaria deaths.  Malaria  has shaped  the human genome, complicated major military campaigns, eluded pharmacologic attacks, adversely  affected  international  economic  indicators  and  frustrated generations of clinicians, scientists and policy makers.
+Malaria is an acute and chronic disease caused by obligate intracellular protozoa of the genus Plasmodium . Historically, four species of malaria parasites were considered capable of infecting humans: Plasmodium falciparum, Plasmodium vivax, Plasmodium ovale and Plasmodium malariae; however, recently, a fifth Plasmodium knowlesi - has been recognized as a significant human pathogen [2]. The majority (56%) of malaria infections are in sub-Saharan Africa, followed by Southeast Asia (27%), the Eastern Mediterranean (12%) and South America (3%) [3]. The parasites are transmitted to humans by female Anopheles mosquitos. The clinical presentation is highly variable but is  generally  characterized by an undifferentiated febrile illness with headache,  chills  and  rigors,  anemia  and  splenomegaly. Plasmodium falciparum is the species most commonly associated with severe and complicated disease.
+Plasmodium vivax is the dominant species found outside of Africa; its distribution (the Middle East, Asia, the Western Pacific and Central and  South  America)  complements  that  of P.  ovale (primarily  West Africa). Plasmodium malariae has a worldwide distribution, generally in  isolated  pockets,  and,  to  date, P.  knowlesi is  restricted  to  South and Southeast Asia, primarily in areas harboring macaque monkeys (Fig. 96.1).
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+In sub-Saharan Africa, nearly all of the malaria-associated morbidity and mortality is caused by P. falciparum . Individuals of all ages remain susceptible to infection, but immunity to severe disease develops over time, the result of repeated exposure to bites from infected anopheline mosquitoes. Anti-disease immunity is related to transmission intensity,  but  its  specific  characteristics  and  determinants  are  not  well understood. Non-immune individuals - typically young children in sub-Saharan Africa, but tourists and soldiers in other malaria-endemic areas are included in this category - are at risk of developing severe and complicated malaria. Semi-immune people can be infected (i.e. parasitemic)  but  asymptomatic;  when  semi-immune  people  do develop a malaria illness, it is generally marked by fever and malaise and rarely becomes life-threatening.
+There is a broad geographic overlap between the distributions of HIV and malaria, especially falciparum malaria. Co-infection is associated with a transient increase in HIV RNA [4]. HIV-infected individuals, particularly those with CD4 counts < 200 cells/ μ l, are more susceptible to  malaria  infection  and  have  higher  parasitemias  [5].  Data  on whether HIV serostatus has any impact on malaria disease severity are conflicting.
+Contemporary efforts to address the multiple challenges of malaria control, prevention and, perhaps, elimination (reduction to zero of malaria infection in a defined geographic area) or eradication (permanent  extinction  of  malaria  transmission  throughout  the  world) include  using  combination  chemotherapy exclusively (to  slow  the development and spread of drug resistant parasites) , attempting to develop  a  malaria  vaccine  and  scaling-up  interventions  which  are known to be effective (e.g. long-lasting insecticide-treated bed nets, indoor residual spraying of insecticide).
+
+============================================================
+CHUNK 3
+============================================================
+TRANSMISSION
+The  epidemiology  of  malaria  is  fundamentally  determined  by  the dynamics and intensity of parasite transmission. Vector abundance and longevity are major contributors to transmission rates and these are  strongly  influenced  by  temperature,  rainfall  and  humidity.  The most  direct  measure  of  transmission  intensity  is  the  entomologic inoculation rate (EIR) - the number of infectious female anopheline bites per person per year. In general, EIRs of < 10/year are considered 'low  transmission',  10-49/year  'intermediate  transmission'  and
+FIGURE 96.1 P. falciparum malaria risk deQned by annual parasite incidence (top) and temperature and aridity (bottom). Areas were deQned as stable (dark blue areas, where Pf API ≥ 0.1 per thousand pa), unstable (light blue, where Pf API < 0.1 per thousand pa), or no risk (no color). The few areas for which no Pf API data could be obtained, mainly found in India, are not colored. The borders of the 87 countries deQned as P. falciparum endemic are shown.  The aridity mask excluded risk in a step-wise fashion, reRected mainly in the larger areas of unstable (light blue) areas compared to the top panel, particularly in the Sahel and southwest Asia (southern Iran and Pakistan). Reproduced from Guerra CA, Gikandi PW, Tatem AJ, et al. The limits and intensity of Plasmodium falciparum transmission: implications for malaria control and elimination worldwide. PLoS Med 2008;5(2):e38.
+> 50/year  'high  transmission' .  For  clinicians  working  in  settings where  data  on  EIRs  are  not  readily  available,  surrogate  measures include the spleen rate and parasite prevalence rates in children (Box 96.1). Transmission dynamics are regarded as stable when transmission is constant throughout the year, or predictably seasonal. Unstable transmission (characteristic of epidemics) occurs when there are changes in the environment (e.g. sudden, heavy rains) or in the population (e.g. migration).
+
+============================================================
+CHUNK 4
+============================================================
+TRANSMISSION
+Malaria transmission is also influenced by climate. The optimal conditions occur when the temperature is between 20°C and 30°C and the mean relative humidity is at least 60%. Sporogony does not occur at temperatures below 16°C or higher than 33°C. Water temperatures regulate the duration of the aquatic cycle of the mosquito vector. A high  relative  humidity  increases  mosquito  longevity  and  therefore increases the probability that an infected mosquito will survive long enough to become infective.
+The proximity of human habitation to breeding sites directly influences vector-human contact and, therefore, transmission. The stability of breeding sites is influenced by water supply, soil and vegetation.
+Irrigation schemes, dams and other man-made changes affecting land use can radically alter stable patterns of malaria transmission.
+
+============================================================
+CHUNK 5
+============================================================
+ACQUIRED IMMUNITY
+The incidence and prevalence of malaria illness is determined largely by acquired immunity. The burden of disease and death is borne by non-immune individuals. In areas of stable transmission (e.g. most of sub-Saharan Africa), young children are the non-immune individuals at risk of life-threatening malaria. Older children and adults are 'semi-immune';  their  malaria  infections  may  be  asymptomatic  or they may develop uncomplicated malaria illnesses.
+Attributing a cause-and-effect relationship between parasites and the often nonspecific symptoms of an uncomplicated malaria illness in semi-immune  patients  is  difficult  and  bedevils  the  diagnosis  of  a 'malaria illness' in this group (see ' Interpreting the results of malaria diagnostic tests ' below).
+Where transmission is unstable, there is little acquired immunity and individuals from all age groups can develop severe disease. Whether
+
+============================================================
+CHUNK 6
+============================================================
+BOX 96.1  Useful Malaria Vocabulary
+- Pre-patent period: the  time from inoculation of sporozoites from mosquitoes until asexual erythrocytic stage parasites are detected by microscopy in the bloodstream. This measure can be inRuenced by the parasite detection technique (PCR > rapid diagnostic tests > microscopy).
+- Incubation period: the time from inoculation of sporozoites from mosquitoes until an individual develops clinical signs or symptoms  of  malaria  -  this  is  always  longer  than  the  prepatent  period,  but  the  time  diSerence  is  determined  by immune status.  Non-immune  individuals  develop symptoms with low parasitemias, so the incubation period is shorter than in semi-immune individuals, who may be able to tolerate signiQcant parasitemias without becoming symptomatic.
+- Recurrence: repeat intra-erythrocytic infection causing malaria-associated symptoms.
+- Relapse: a  recurrent  infection  caused  by  a  new  brood  of blood-stage  parasites  emerging  from  hypnozoites  in  the liver ( P. vivax, P. ovale) .
+- Recrudescence: a recurrent infection caused by the growth of  an  undetectable  blood  stage  infection  (generally  the result  of  drug  resistance,  unusual  pharmacokinetics  or  an incomplete dose). It can also occur in immunocompromised individuals, most famously with P. malariae.
+- Re-infection: a recurrent infection caused by new exposure to infective mosquitoes, best diSerentiated from recrudescence by molecular methods.
+- Endemicities: this traditional measure has been based on different indicators over the years, and is most useful as a general
+acquired  immunity  can  wax  and  wane  with  transmission  intensity remains to be seen [6], but this will become increasingly important as malaria control efforts increase and expand.
+
+============================================================
+CHUNK 7
+============================================================
+INNATE IMMUNITY
+On a population level, several genetic polymorphisms and mutations conferring risk or protection have been identified; most involve mutations  in  the  alpha  or  beta  chain  of  hemoglobin  (hemoglobinopathies), such  as sickle cell anemia  and  trait, the thalassemias, hemoglobin C, red blood cell enzyme deficiencies, such as glucose 6 phosphate  deficiency  (G6PD),  or  mutations  affecting  the  red  cell exoskeleton,  such  as  ovalocytosis.  Individuals  with  sickle  cell  trait (HbAS) are less likely to develop severe malaria once infected than are individuals who are homozygous (HbAA). Practically speaking, information  on  genetic  polymorphisms  is  rarely  available  quickly enough to be useful  during  an  acute  illness;  it  may  be  potentially useful  when  considering  risks  associated  with  travel  to  malariaendemic  areas  and  it  provides  some  insight  into  mechanisms  of disease pathogenesis, susceptibility and protection.
+
+============================================================
+CHUNK 8
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Malaria is usually transmitted during the bite of an infected female Anopheles mosquito or, more rarely, through the direct inoculation of infected red blood cells (i.e. congenital malaria, transfusion malaria and malaria from contaminated needles).
+
+============================================================
+CHUNK 9
+============================================================
+LIFECYCLE
+Infection begins when sporozoites in mosquito saliva enter the bloodstream and, within 30 minutes, have invaded hepatocytes (Fig 96.2).
+- description of the relationship between parasite transmission and malaria disease in a given setting (Table 96-6).
+- Stable  malaria is  present  when  natural  transmission  occurs over many years and there is a predictable incidence of illness and prevalence of infection. Transmission is generally high and epidemics are unlikely.
+- Unstable malaria occurs in settings where transmission rates vary  from  year  to  year  and  population  immunity is  low.  Epidemics are more likely in this setting.
+- Autochthonous  (indigenous)  malaria is  contracted  locally. Secondary cases are those derived from imported cases and are referred to as introduced malaria .
+- Induced  malaria is  acquired  by  blood  transfusion,  shared needles, intentional inoculation, or laboratory accident.
+- Cryptic malaria cases are those that occur in isolation and are not associated with secondary cases.
+- Imported malaria infections  are  associated  with  individuals returning from malaria-endemic areas. Increased international air  travel  has  escalated  the  incidence  of imported  malaria (and other infectious diseases) to non-endemic areas. Tourists often travel during the incubation period and do not become ill until after they return home.
+- Entomologic inoculation rate: sporozoite positive mosquito bites per unit time.
+- Annual  parasite  incidence  (API): number  of  new  parasite conQrmed cases per 1000 population.
+- Spleen rate: proportion of individuals in  a stated age range with enlarged spleens.
+The duration of the asexual replication phase inside the hepatocytes varies from 1 1-12 days in P.  falciparum, P. vivax and P.  ovale ,  to  35 days in P. malariae (Table 96-1). The nucleus undergoes repeated division,  resulting  in  the  formation  of  thousands  of  uninucleate merozoites, each  measuring 0.7-1.8 μ m in diameter. The nucleus of the liver cell  is  displaced,  but  there is  no inflammatory reaction in the surrounding liver tissue, and the host is asymptomatic.
+
+============================================================
+CHUNK 10
+============================================================
+LIFECYCLE
+In P. falciparum and P. malariae infections, the liver tissue schizonts/ meronts rupture at about the same time and none persists in the liver. In  contrast, P.  vivax and P.  ovale have  two  types  of  exoerythrocytic forms:  a  primary  type  develops  and  ruptures  within  6-9  days;  the secondary type - the hypnozoite - may remain dormant in the liver for weeks, months, or up to 5 years before developing, and causing relapses of  erythrocytic  infection  unless  the  patient  is  treated  with primaquine - a drug that targets this lifecycle stage. The pre-patent period for P. knowlesi in humans has not yet been determined. Most infected hepatocytes rupture when the schizont forms mature and the merozoites that are released into the circulation quickly attach to, and invade, red blood cells.
+Plasmodium falciparum and P. knowlesi are capable of invading erythrocytes of any age, but P. vivax and P. ovale selectively invade reticulocytes.  Serial  cycles  of  asexual  replication  take  place  in  erythrocytes and,  again,  the  duration  varies  with  the  species,  ranging  from  24 hours in P. knowlesi to 48 hours in P. falciparum, P. vivax and P. ovale , and 72 hours in P. malariae (Table 96-1).
+The  youngest  stages in  the  blood  are  small,  rounded  trophozoites, known as ring forms. As they grow, they become more irregular and ameboid. During development, the parasites consume hemoglobin leaving an iron-containing compound known as hematin or hemozoin as the product of digestion; it is visible in the cytoplasm of the parasite as dark granules. The schizont/meront stage begins when the
+Develop schizonts dles
+lout
+FIGURE 96.2 Malaria lifecycle.
+parasite undergoes nuclear division and culminates in segmentation to form merozoites.
+
+============================================================
+CHUNK 11
+============================================================
+LIFECYCLE
+In response to a variety of stimuli, some parasites undergo gametocytogenesis. When male and female gametes are ingested by a female anopheline taking a blood meal from a human host, the sexual replication phase of the malaria parasite ensues, starting in the mosquito mid-gut and ending in the salivary glands. The erythrocytic lifecycle continues until it is abrogated by effective chemotherapy or reined in by the host's acquired immunity.
+The  life  cycle  of P.  falciparum differs  from  the  other  four  human malaria parasites in one important respect: during the latter half of the  intra-erythrocytic  cycle,  mature  falciparum-infected  red  blood cells  (schizonts)  effectively  disappear  from  the  peripheral  blood.
+These late-stage parasites are very active metabolically, consuming up to  75  times  more  glucose  than  earlier  ring  stages  and  generating lactate as an end product. At this stage, the red cell surface is studded with  'knobs'  (proteins  of  parasite  origin)  and  these  mediate  the cytoadherence  of  parasitized  red  cells  to  receptors  on  the  luminal surface of endothelial cells. This leads to sequestration of the parasitized red cells in various organs (brain, gut, subcutaneous fat, cardiac muscle), particularly in capillaries and post-capillary venules, in such large numbers that blood flow is impaired [7] (Fig. 96.3).
+The 'natural history' of malaria infection and illness is  difficult to capture. In its early stages, a malaria illness is indistinguishable from other common causes of fever. In endemic areas, and for returning travelers,  if  malaria  infections  are  identified  as  such  and  treated
+
+============================================================
+CHUNK 12
+============================================================
+LIFECYCLE
+Geographic distribution, TABLE 96-1 Parasite Characteristics.P. falciparum = Widespread. Geographic distribution, TABLE 96-1 Parasite Characteristics.P. vivax = Widespread, but rare in West Africa. Geographic distribution, TABLE 96-1 Parasite Characteristics.P. malariae = West Africa, Philippines, Indonesia, Papua New Guinea. Geographic distribution, TABLE 96-1 Parasite Characteristics.P. ovale = Infrequent, localized areas. Geographic distribution, TABLE 96-1 Parasite Characteristics.P. knowlesi = South Asia. Clinical disease, TABLE 96-1 Parasite Characteristics.P. falciparum = Can be severe. Clinical disease, TABLE 96-1 Parasite Characteristics.P. vivax = Generally mild, occasionally severe. Clinical disease, TABLE 96-1 Parasite Characteristics.P. malariae = Generally mild*. Clinical disease, TABLE 96-1 Parasite Characteristics.P. ovale = Generally mild. Clinical disease, TABLE 96-1 Parasite Characteristics.P. knowlesi = Generally mild, but can be severe. Pre-patent period (days), TABLE 96-1 Parasite Characteristics.P. falciparum = 11-12. Pre-patent period (days), TABLE 96-1 Parasite Characteristics.P. vivax = 11-12. Pre-patent period (days), TABLE 96-1 Parasite Characteristics.P. malariae = 33. Pre-patent period (days), TABLE 96-1 Parasite Characteristics.P. ovale = 11-12. Pre-patent period (days), TABLE 96-1 Parasite Characteristics.P. knowlesi = Unknown. Incubation period (days), TABLE 96-1 Parasite Characteristics.P. falciparum = 13-14. Incubation period (days), TABLE 96-1 Parasite Characteristics.P. vivax = 13-14. Incubation period (days), TABLE 96-1 Parasite Characteristics.P. malariae = 35. Incubation period (days), TABLE 96-1 Parasite Characteristics.P. ovale = 13-14. Incubation period (days), TABLE 96-1 Parasite Characteristics.P. knowlesi = Unknown. Exoerythrocyctic (liver) cycle (days), TABLE 96-1 Parasite Characteristics.P. falciparum = 5.5-7. Exoerythrocyctic (liver) cycle (days), TABLE 96-1 Parasite
+
+============================================================
+CHUNK 13
+============================================================
+LIFECYCLE
+Characteristics.P. vivax = 6-8. Exoerythrocyctic (liver) cycle (days), TABLE 96-1 Parasite Characteristics.P. malariae = 9. Exoerythrocyctic (liver) cycle (days), TABLE 96-1 Parasite Characteristics.P. ovale = 12. Exoerythrocyctic (liver) cycle (days), TABLE 96-1 Parasite Characteristics.P. knowlesi = 16. Intra-erythrocytic cycle (hrs), TABLE 96-1 Parasite Characteristics.P. falciparum = 43-52. Intra-erythrocytic cycle (hrs), TABLE 96-1 Parasite Characteristics.P. vivax = 48. Intra-erythrocytic cycle (hrs), TABLE 96-1 Parasite Characteristics.P. malariae = 72. Intra-erythrocytic cycle (hrs), TABLE 96-1 Parasite Characteristics.P. ovale = 48. Intra-erythrocytic cycle (hrs), TABLE 96-1 Parasite Characteristics.P. knowlesi = 24. Sequestration- cytoadherence, TABLE 96-1 Parasite Characteristics.P. falciparum = Yes. Sequestration- cytoadherence, TABLE 96-1 Parasite Characteristics.P. vivax = No. Sequestration- cytoadherence, TABLE 96-1 Parasite Characteristics.P. malariae = No. Sequestration- cytoadherence, TABLE 96-1 Parasite Characteristics.P. ovale = No. Sequestration- cytoadherence, TABLE 96-1 Parasite Characteristics.P. knowlesi = No. Earliest appearance of gametocytes (days), TABLE 96-1 Parasite Characteristics.P. falciparum = 10. Earliest appearance of gametocytes (days), TABLE 96-1 Parasite Characteristics.P. vivax = 3. Earliest appearance of gametocytes (days), TABLE 96-1 Parasite Characteristics.P. malariae = Unknown. Earliest appearance of gametocytes (days), TABLE 96-1 Parasite Characteristics.P. ovale = Unknown. Earliest appearance of gametocytes (days), TABLE 96-1 Parasite Characteristics.P. knowlesi = Unknown. Hypnozoite stage (i.e. potential for relapse from liver stage), TABLE 96-1 Parasite
+
+============================================================
+CHUNK 14
+============================================================
+LIFECYCLE
+Characteristics.P. falciparum = No. Hypnozoite stage (i.e. potential for relapse from liver stage), TABLE 96-1 Parasite Characteristics.P. vivax = Yes. Hypnozoite stage (i.e. potential for relapse from liver stage), TABLE 96-1 Parasite Characteristics.P. malariae = No. Hypnozoite stage (i.e. potential for relapse from liver stage), TABLE 96-1 Parasite Characteristics.P. ovale = Yes. Hypnozoite stage (i.e. potential for relapse from liver stage), TABLE 96-1 Parasite Characteristics.P. knowlesi = No. Age of red blood cell infected by the parasite, TABLE 96-1 Parasite Characteristics.P. falciparum = All ages. Age of red blood cell infected by the parasite, TABLE 96-1 Parasite Characteristics.P. vivax = Reticulocytes. Age of red blood cell infected by the parasite, TABLE 96-1 Parasite Characteristics.P. malariae = Reticulocytes. Age of red blood cell infected by the parasite, TABLE 96-1 Parasite Characteristics.P. ovale = Older red cells. Age of red blood cell infected by the parasite, TABLE 96-1 Parasite Characteristics.P. knowlesi = All ages. Peripheral parasitemia, TABLE 96-1 Parasite Characteristics.P. falciparum = High; multiply infected cells common. Peripheral parasitemia, TABLE 96-1 Parasite Characteristics.P. vivax = Low. Peripheral parasitemia, TABLE 96-1 Parasite Characteristics.P. malariae = Low. Peripheral parasitemia, TABLE 96-1 Parasite Characteristics.P. ovale = Low. Peripheral parasitemia, TABLE 96-1 Parasite Characteristics.P. knowlesi = May be high. Morphology (light microscope) Rings Trophozoites, TABLE 96-1 Parasite Characteristics.P. falciparum = Morphology (light microscope) Rings Trophozoites. Morphology (light microscope) Rings Trophozoites, TABLE 96-1 Parasite Characteristics.P. vivax = Morphology (light microscope) Rings Trophozoites. Morphology (light microscope) Rings Trophozoites, TABLE 96-1 Parasite Characteristics.P. malariae = Morphology (light microscope) Rings Trophozoites. Morphology (light microscope) Rings Trophozoites, TABLE
+
+============================================================
+CHUNK 15
+============================================================
+LIFECYCLE
+96-1 Parasite Characteristics.P. ovale = Morphology (light microscope) Rings Trophozoites. Morphology (light microscope) Rings Trophozoites, TABLE 96-1 Parasite Characteristics.P. knowlesi = Morphology (light microscope) Rings Trophozoites. Schizonts, TABLE 96-1 Parasite Characteristics.P. falciparum = Rarely seen in peripheral blood, 16-20 merozoites. Schizonts, TABLE 96-1 Parasite Characteristics.P. vivax = 20-24 merozoites - generally more than 12. Schizonts, TABLE 96-1 Parasite Characteristics.P. malariae = 4-16 merozoites - usually < 12. Schizonts, TABLE 96-1 Parasite Characteristics.P. ovale = 6-12 merozoites - usually < 12. Schizonts, TABLE 96-1 Parasite Characteristics.P. knowlesi = 8-16 merozoites - usually < 12
+promptly with effective drugs, clinical progression is rare. If the initial symptoms are not attributed to malaria, 'tertiary care' may not be sought  until  complications  (commonly  coma  and  convulsions) develop. Volunteers who are 'challenged' with the bites of infected mosquitoes for research studies are provided with effective therapy at the first sign of infection and their natural history is truncated at that point.  The  mean  incubation  period  (Box  96.1)  is  8.9  days  (range 7-14); the most commonly reported symptoms are fatigue, myalgias, arthralgias, headache, chills and nausea. The mean pre-patent period (Box 96.1) is slightly longer (10.5 days, range 9-14) and the appearance  of  peripheral  parasitemia  is  associated  with  a  mild,  transient pancytopenia in most patients.
+
+============================================================
+CHUNK 16
+============================================================
+PATHOGENESIS
+Pathophysiologic changes in malaria are caused by a number of different parasite-derived stimuli involving many different organ systems. Blood-stage parasites  are  the  main  source  of  these  various  stimuli; exoerythrocytic  stages,  gametocytes  and  sporozoites  do  not  induce pathophysiologic changes. Malaria pathogenesis and pathology  are linked inextricably to stages in the lifecycle (Fig. 96.2).
+
+============================================================
+CHUNK 17
+============================================================
+Fever
+Schizont  rupture  is  the  likely  source  of  the  fevers  associated  with malaria, although the specific pyrogens have yet to be identified. The fevers are rarely as periodic as the erythrocytic cycles themselves, probably  because  parasite  population  dynamics  within  a  host  are  not synchronous.
+
+============================================================
+CHUNK 18
+============================================================
+Anemia
+Malarial  anemia  results  largely  from  the  hemolysis  of  infected  red blood  cells  at  the  time  of  schizont  rupture,  accelerated  immunemediated  destruction  of  uninfected  red  blood  cells,  bone  marrow suppression  and  dyserythropoiesis,  despite  appropriate  concentrations of erythropoietin. Severe intravascular hemolysis, also known as blackwater fever and manifesting as hemoglobinuria, can precipitate acute renal failure.
+
+============================================================
+CHUNK 19
+============================================================
+Hypoglycemia
+Because of its deleterious effects on the central nervous system (CNS), and because of the necessity for treatment with exogenous glucose, this is the most important of the biochemical aberrations described to date [8]. Hypoglycemia (usually defined as blood glucose concentrations < 40 mg/dL or 2.2 mmol/L) can develop, prior to any antimalarial treatment, in up to 20% of children with severe P. falciparum malaria. Plasma insulin levels are low and gluconeogenic precursors and  adrenal  hormones  are  present  in  high  concentrations  in  the blood, so parasite consumption of glucose and/or inadequate hepatic gluconeogenesis  are  the  most  likely  etiologies  for  pretreatment  of hypoglycemia. It is not possible to detect hypoglycemia on clinical
+(A)
+FIGURE 96.3 Four human tissue autopsy samples demonstrating sequestration and other pathologies in cerebral malaria. (A) The brain: several of the classic features can be seen including a ring hemorrhage surrounding a blood vessel which contains a Qbrin plug; distended congested blood vessels throughout the section; and sequestered parasites (hematoxylin and eosin [H&E], 200 × ). (B) The colon has many parasites sequestered in tissues, similar to the entire glandular gastrointestinal tract, which are most prominent in the small capillaries of the lamina propria. In this section, the presence of later stage trophozoites and schizonts can be readily appreciated (H&E, 400 × ). (C) The adipose tissue of the skin can variably contain sequestered parasites within the rich vessel network (H&E, 1000 × ).  Many other organs, including the heart (D) ,  show variable amounts of sequestered parasites (H&E, 400 × ). (Courtesy of Dr Danny A Milner).
+
+============================================================
+CHUNK 20
+============================================================
+Hypoglycemia
+grounds in these patients, so in situations where the blood glucose cannot  be  measured  in  comatose  parasitemic  patients,  immediate treatment with 50% dextrose is recommended. Unconscious patients who present with pretreatment hypoglycemia have a worse prognosis than those who do not, and the risk of a poor outcome is inversely associated with blood glucose concentrations, even those above the traditional cutoff of 2.2 mmol/L (40 mg/dL) [8]. Anti-malarial treatment  can  precipitate  hypoglycemia.  Rapid  infusions  of  quinine ( > 10 mg/kg/hr) can stimulate pancreatic insulin secretion; pregnant women appear to be especially susceptible to this complication  of treatment.
+
+============================================================
+CHUNK 21
+============================================================
+Metabolic acidosis
+Acidosis  is  now  recognized  as  an  important  marker  of  severity  in falciparum malaria infections. 'Acidotic breathing' alone was associated with a 19% mortality rate in Kenyan children. In this population, the mortality rate in children with impaired consciousness uncomplicated by acidotic breathing was 12%; in children with acidotic breathing  and  impaired  consciousness,  the  mortality  rate  was  32%  [8] (Fig.  96.4).  Elevated  plasma  and  cerebrospinal  fluid  (CSF)  lactate levels are also associated with a poor outcome but few studies have examined both pH and lactate, so although they are likely to be highly correlated,  the  precise  relationship  is  not  known.  Acidosis  and hypoglycemia are strongly associated, suggesting parasite and/or host metabolism  may  be  contributing  to  both.  Full-blown  circulatory shock is rarely a feature of severe and complicated malaria, so grossly impaired perfusion is unlikely to be a cause of the metabolic acidosis of malaria. This acidosis generally improves rapidly once intravenous (IV) treatment with an effective anti-malarial drug and maintenance fluids is started. The transient nature of the acidosis is consistent with the possibility that seizures are a contributing factor. Convulsions are common in  malaria,  and  seizures  alone  can  cause  an  acute  lactic acidosis. Acidosis persists longer in those patients who die and is also associated with a slower respiratory rate; this suggests that the usual centrally-mediated respiratory response to metabolic acidosis may be compromised in these patients.
+
+============================================================
+CHUNK 22
+============================================================
+Acute respiratory distress (ARDS)
+Non-cardiogenic pulmonary edema is a common feature of complicated  malaria  in adults,  but  only  rarely  develops  in  children. The specific cause of this syndrome in malaria patients has yet to be identified [9].
+FIGURE  96.4 Venn  diagram  of  complicated  malaria  syndromes.  The percentage values represent the mortality rates in Kenyan children with the  various  syndromes. (Adapted  from  Marsh  K,  Forster  D,  Waruiru  C,  et  al. Indicators of life-threatening malaria in African children. N Engl J Med 1995;332: 1399-404).
+
+============================================================
+CHUNK 23
+============================================================
+Renal abnormalities
+Nonspecific mildly elevated urea nitrogen and creatinine levels, proteinuria  and  abnormal  urinary  sediment  are  common  in  malaria. Acute renal failure is a common complication of severe malaria, particularly in adults. As in cerebral malaria, the insult often resolves and most patients do not require long-term dialysis [10].
+
+============================================================
+CHUNK 24
+============================================================
+Neurologic changes and coma
+The  clinical  syndrome  of  cerebral  malaria  is  associated  with  the sequestration of erythrocytes harboring late-stage P. falciparum parasites  (trophozoites  and  schizonts)  in  the  cerebral  microcirculation. Putative mechanisms include obstruction leading to hypoperfusion with  anoxic  damage,  endothelial  cell  activation  and  blood-brain barrier compromise, and platelet activation with microthrombus formation (Fig. 96.3). Alternatively, a cytokine cascade leading to a systemic inflammatory response-type scenario, initiated by the interaction of parasitized red cells and host immune cells has been postulated; this mechanism would be independent of sequestration and could be invoked  for  the  other  four  species  of  malaria  parasite  involved  in human disease [1 1].
+
+============================================================
+CHUNK 25
+============================================================
+PRODROMAL SYMPTOMS
+Some  patients  have  vague  prodromal  symptoms,  such  as  malaise, myalgia, low back pain,  headache, anorexia  and mild  fever,  before parasitemia  can  be  detected  by  the  usual  microscopic  techniques. These manifestations may persist for 2-3 days before an acute paroxysm begins. The incubation period, or time from exposure to onset of  symptoms,  can  be  prolonged  by  partial  immunity  and/or  by chemoprophylaxis.
+
+============================================================
+CHUNK 26
+============================================================
+PERIODICITY
+In  primary  attacks,  several  days  are  required  before  the  periodicity predicted by the lengths of various parasite lifecycles is established. Often, in patients with 'asynchronous' infections, this periodicity is never clinically apparent. After 5-7 days, P. vivax, P. malariae and P. ovale infections can become synchronous and cause periodic febrile paroxysms. In P. vivax and P. falciparum malaria, schizonts mature and rupture with tertian periodicity, i.e. every 48 hours; P.  vivax malaria has been referred to as benign tertian malaria and P. falciparum malaria as malignant tertian malaria. Plasmodium malariae schizonts rupture at 72-hour intervals, causing a quartan periodicity. The typical paroxysm has an abrupt onset with a feeling of coldness and a chill. The patient's teeth may chatter prompting the need for warmth or cover. Within 30-60 minutes, the patient feels hot and has profuse sweating, usually accompanied by a headache, malaise and myalgia. Temperatures of 40-41°C (104-106°F) are usual in primary falciparum infections, but peak fevers in infections with the other three species of plasmodia are usually lower, i.e. 39-40°C (102-104°F). The hot stage lasts from 2-6 hours.  The  sweating  stage,  in  which  the  patient's  temperature  falls rapidly, lasts 2-3 hours. The entire paroxysm averages 9-10 hours. In between paroxysms, the patient may feel well.
+
+============================================================
+CHUNK 27
+============================================================
+UNCOMPLICATED MALARIA
+Uncomplicated malaria illness  is  by  far the  most  common  clinical manifestation of a malaria infection and fever, or history of fever, is the most common symptom. There are no pathognomonic signs by which 'uncomplicated malaria' can be distinguished from common viral causes  of  fever  (Box  96.2).  The  presence  of  malaria  parasitemia increases the odds of a causal connection, especially in non-immune individuals, where peripheral parasitemia is nearly always associated with symptoms. Many semi-immune individuals (generally long-term residents  of  malaria-endemic  areas)  can  harbor  parasites  without becoming symptomatic and, in these individuals, peripheral blood parasitemia may well be 'incidental' to the symptoms [12]. In practical terms, symptomatic, parasitemic individuals who are alert enough to take oral medications are considered to have 'uncomplicated malaria' .
+Important  aspects  of  the  clinical  history  include  travel  itinerary, malaria precautions (chemoprophylaxis, use of bed nets and repellents) and recent prior treatment with anti-malarial drugs. The physical exam is useful for identifying other potential etiologies. In endemic areas,  the  presence  of  hepato-  or  splenomegaly  tilt  the  differential diagnosis  toward  malaria,  as  does  thrombocytopenia.  For  nonimmune travelers, the presence of fever, splenomegaly, hyperbilirubinemia and thrombocytopenia make malaria more likely [13].
+Common presenting signs are generalized constitutional symptoms including  fever,  chills,  dizziness,  backache,  myalgia,  malaise  and fatigue (frequently summarized as 'total body pain' by endemic-area adults). Gastrointestinal symptoms (i.e. anorexia, nausea, vomiting, abdominal pain and diarrhea) can be prominent, causing confusion with  gastroenteritis.  Patients  may  have  nonproductive  cough  and dyspnea, consistent with acute respiratory infections. Young children and semi-immune adults may present with only fever and headache.
+
+============================================================
+CHUNK 28
+============================================================
+LABORATORY FINDINGS
+Anemia, leukopenia and thrombocytopenia are usual. The reticulocyte count is normal or depressed, despite the hemolysis, and becomes elevated usually 5-7 days after the parasitemia has cleared. Urinalysis reveals albuminuria and urobilinogen; increased conjugated bilirubin is  present  in  many  patients.  Some  patients  are jaundiced and  concomitant abnormalities in liver function tests may cause diagnostic confusion with viral hepatitis. Serum alanine aminotransferase (ALT) and aspartate transaminase (AST), are usually elevated. Both the direct and the indirect bilirubin can be elevated. Prothrombin times can be prolonged. Hyponatremia is not uncommon; in some patients, the clinical picture is consistent with inappropriate secretion of antidiuretic hormone (ADH), but this is not a universal finding. Increases in serum creatinine and blood urea nitrogen may be transient, or they may presage acute renal failure. Hypoglycemia frequently complicates falciparum  malaria  and  can  occur  both  before  treatment  and  as  a result of quinine therapy.
+The five human malaria parasites have similar clinical presentations for uncomplicated disease and are best distinguished from each other
+
+BOX 96.2  DiBerential Diagnosis of Uncomplicated Malaria *
+
+============================================================
+CHUNK 29
+============================================================
+LABORATORY FINDINGS
+Malaria, Symptoms = Fever NonspeciQc myalgias, arthalgia, malaise Nausea, vomiting. Malaria, Physical exam = Hepatomegaly Splenomegaly. Malaria, Lab tests = Malaria smear positive Thrombocytopenia Hyperbilirubinemia. Malaria, Geography = Primarily tropical areas. Viral syndromes (Ru, pneumonia, early gastroenteritis), Symptoms = Fever NonspeciQc myalgias, arthalgia, malaise Nausea, vomiting. Viral syndromes (Ru, pneumonia, early gastroenteritis), Physical exam = Lymphadenopathy. Viral syndromes (Ru, pneumonia, early gastroenteritis), Lab tests = Low white cell count, lymphocyte predominant. Viral syndromes (Ru, pneumonia, early gastroenteritis), Geography = Worldwide, frequently seen in local epidemics. Bacterial pneumonia, Symptoms = Fever Productive cough. Bacterial pneumonia, Physical exam = Tachypnea Increased respiratory eSort (inter- and subcostal recession, use of accessory muscles) Crepitations (rales) Decreased oxygen saturation ( < 90%). Bacterial pneumonia, Lab tests = Leukocytosis. Bacterial pneumonia, Geography = Worldwide. Meningitis (bacterial or viral), Symptoms = Fever Altered mental status. Meningitis (bacterial or viral), Physical exam = Neck stiSness. Meningitis (bacterial or viral), Lab tests = Concomitant parasitemia uncommon in bacterial meningitis WBCs in CSF ( > 5-10/ μ l, or > 10 times higher than the predicted CSF WBC count † ). Meningitis (bacterial or viral), Geography = . Dengue, Symptoms = Retro-orbital pain Pain/tenderness of the extraocular eye muscles, particularly on extreme lateral gaze. Dengue, Physical exam = Skin rash develops in at least 50% by day 2-3. Dengue, Lab tests = Leukopenia Thrombocytopenia. Dengue, Geography = Less common in sub-Saharan Africa. Leptospirosis, Symptoms = Fever, headache, dry cough, shaking, chills, nausea, vomiting, diarrhea, muscle pain, abdominal pain. Leptospirosis, Physical exam = Muscle tenderness (myositis), conjunctivitis, hepatosplenomegaly.
+
+============================================================
+CHUNK 30
+============================================================
+LABORATORY FINDINGS
+Leptospirosis, Lab tests = Elevated creatine kinase, abnormal urine sediment, proteinuria, normal to elevatedWBC counts. Leptospirosis, Geography = Worldwide distribution, association with fresh-water exposure. Typhus, Symptoms = High fever, dry cough, low back pain, headache, nausea, vomiting, abdominal pain, diarrhea, nausea, chills, delirium, photophobia, myalgia. Typhus, Physical exam = Rash begins onthe chest and spreads to the rest of the body (except the palms of the hands and soles of the feet).The early rash is a light rose color and fades whenpressed. Later, the rash becomes dull andred and does not fade. People with severe typhus mayalso develop small areas of bleeding into the skin (petechiae). Typhus, Lab tests = Anemia Thrombocytopenia Two-to-Qve-fold elevation of liver enzymes. Typhus, Geography = Worldwide distribution, murine typhus ( Rickettsia typhi ) seen in areas of poor hygiene and cold tempertures. Epidemic typhus ( Rickettsia prowzekii ) associated with exposure to rat Reas or rat feces. Viral hemorrhagic fevers, Symptoms = Fever, bleeding diathesis, malaise, fatigue, myalgias, headache, vomiting, diarrhea, hypotension, shock. Viral hemorrhagic fevers, Physical exam = Flushing of the face and chest, frank bleeding, ecchymoses, renal failure, edema. Viral hemorrhagic fevers, Lab tests = Cytopenias seen early in illness with elevated WBC seen in late disease, coagulation abnormalities. Viral hemorrhagic fevers, Geography = Worldwide distribution and caused by several families of RNA viruses
+*Individual patients may have more than one diagnosis.
+† Predicted CSF WBC count/ μ l = CSF RBC count × (peripheral blood WBC count ÷ peripheral blood RBC count).
+CSF, cerebrospinal Ruid; RBC, red blood cell; WBC, white blood cell.
+
+============================================================
+CHUNK 31
+============================================================
+LABORATORY FINDINGS
+by geography (Fig. 96.1), by parasite density (parasitemias > 2% are more commonly seen in P. falciparum and P. knowlesi ) and by parasite morphology  -  best  appreciated  on  thin  blood  films  (Table  96.1). Low-grade infections of P. malariae can persist for years and individuals with P.  vivax and P.  ovale may have pre-patent periods of a year or more.
+Non-immune individuals with P. falciparum infections may deteriorate  very  rapidly;  prompt  and  effective  treatment  in  this  high-risk group is important and should be provided on an emergent basis. When feasible, patients should be monitored closely to detect early signs of clinical deterioration. A high index of suspicion is warranted for  travelers  and  others  who  have  been  in  malaria-endemic  areas.
+● Impaired consciousness/ unrousable coma (Blantyre Coma Score < 2) (children > adults) ● Prostration (unable to walk or sit up) ● Failure to feed ● Convulsions (more than 2 in 24 hours) (children > adults) ● Acidotic breathing (children > adults) ● Shock (systolic blood pressure < 70 mmHg in adults, < 50 mmHg in children) ● Clinical jaundice + evidence of another organ dysfunction (adults > children) ● Abnormal spontaneous bleeding ● Pulmonary edema (radiologic evidence) (adults > children), Laboratory investigations = ● Hypoglycemia ( < 2.2 mmol/L or 40 mg/ dl) (children > adults) ● Metabolic acidosis (plasma bicarbonate < 15 mmol/L) (children > adults) ● Severe anemia (hemoglobin < 5 g/dl, PCV < 15%) (children > adults) ● Hemoglobinuria ● Hyperparasitemia ( > 2%, or 100,000/ μ l in low transmission setting, > 5%, or 250,000/ μ l in high transmission settings) ● Hyperlactatemia ( > 5 mmol/L) ● Renal impairment (creatinine > 265 μ mol/L) (adults > children)
+Serial examination of the peripheral blood (every 12 hours) may aid in the identification of low density parasitemias; thrombocytopenia is  another helpful clue in oligo-parasitemic or initially aparasitemic patients.
+
+============================================================
+CHUNK 32
+============================================================
+COMPLICATED MALARIA
+Long considered to be unique to falciparum malaria, several of the features of complicated malaria (Table 96-2) have now been described in patients with P. vivax and P. knowlesi infections. In addition to the complications described in Table 96-2, splenic rupture is a rare complication of P. vivax infections, and nephrotic syndrome is occasionally seen in patients after a P. malariae illness.
+In a parasitemic patient, the presence of any of the clinical or laboratory  features  of  complicated  malaria  represents  a  medical  emergency;  these  patients  should  be  provided  with  the  best  available medical care.
+The clinical presentation of complicated malaria is different in adults than it  is  in  children  (Table  96-2).  Cerebral  malaria alone  is more characteristic of pediatric severe malaria, whereas multi-organ system involvement is seen frequently  in  adults  with  complicated  malaria illnesses.
+Cerebral malaria is a highly variable clinical syndrome consisting of P.  falciparum parasitemia of any density and coma (Blantyre Coma Score < 2 in children/Glasgow Coma Score < 9 in adults, unrelated to hypoglycemia, meningitis or a postictal state). Children with cerebral malaria  frequently  demonstrate  symptoms  suggesting  widespread involvement of the CNS, including generalized tonic-clonic convulsions,  focal  seizures,  posturing  (opisthotonos,  decerebrate  rigidity, decorticate rigidity), conjugate gaze deviations and respiratory rhythm abnormalities  (including  Cheyne-Stokes  respirations).  Convulsions (focal  and  generalized)  are  very  common,  particularly  in  children. Intracranial pressure is often elevated in children with cerebral malaria and deaths consistent with various herniation syndromes have been described. An unusual feature of pediatric malarial comas is that the eyes are frequently wide open (Fig. 96.5) - this can be confusing for parents and caregivers. Among patients who survive, the recovery is
+FIGURE 96.5 Child in coma with eyes wide open.
+FIGURE 96.6 Pallor.
+relatively  rapid;  most  children  who  survive  an  episode  of  cerebral malaria have regained full consciousness within 48 hours. The rapid evolution and reversibility of the dramatic neurologic features of cerebral malaria are among the most intriguing aspects of the disease.
+The clinical history is generally notable for a sudden deterioration in the patient's  clinical  status  -  the  transition  from  uncomplicated  to complicated malaria can be as brief as a single seizure.
+
+============================================================
+CHUNK 33
+============================================================
+COMPLICATED MALARIA
+With  point-of-care  bedside  tests  for  malaria  parasitemia,  blood glucose,  hemoglobin  or  hematocrit  and  lactate  combined  with  a careful  physical  examination,  nearly  all  patients  with  complicated malaria can be identified quickly and without sophisticated laboratory support.
+Important elements of the physical examination include inspection for prostration (the inability to sit unaided or, in infants who cannot yet sit, to look for the mother's breast and feed) and deep breathing, assessing  the  Blantyre  [14]  or  Glasgow  Coma  Score  (Box  96.3), inspecting nail beds and conjunctivae for pallor (Fig. 96.6), cardiac and pulmonary auscultation for signs of high output cardiac failure (i.e.  a  systolic  murmur,  a  gallop  rhythm,  widened  pulse  pressure, enlarging  liver),  measuring  blood  pressure  and  checking  capillary refill  (Box  96.4)  (to  identify  patients  in  shock),  and  palpating  the abdomen to identify hepato- and splenomegaly and urinary retention. Acute renal failure will become evident over time on the basis of urinary output and can be confirmed by measures of serum creatinine. In order to identify hyperparasitemia, the capacity to stain blood films and count parasites is required.
+Among patients meeting the standard clinical case definition of cerebral malaria [15], a careful ocular funduscopic exam is very useful for distinguishing  patients  with  'true'  cerebral  malaria  from  patients with incidental parasitemias and a non-malarial cause of coma (see ' Complicated Malaria ' below).
+
+============================================================
+CHUNK 34
+============================================================
+METABOLIC ACIDOSIS
+Capillary blood pH < 7.3, plasma bicarbonate < 15 mmol/L or plasma lactate  concentrations > 5 mmol/L  are  all  associated  with  severe disease  and  with  poor  outcomes.  Acidosis,  manifested  clinically  as
+
+============================================================
+CHUNK 35
+============================================================
+METABOLIC ACIDOSIS
+BOX 96.3 Coma Scales for Adults and Children, 1 = BOX 96.3 Coma Scales for Adults and Children. BOX 96.3 Coma Scales for Adults and Children, 2 = BOX 96.3 Coma Scales for Adults and Children. BOX 96.3 Coma Scales for Adults and Children, 3 = BOX 96.3 Coma Scales for Adults and Children. BOX 96.3 Coma Scales for Adults and Children, 4 = BOX 96.3 Coma Scales for Adults and Children. , 1 = Glasgow Coma Scale (GCS; adults). , 2 = Glasgow Coma Scale (GCS; adults). , 3 = Blantyre Coma Score (BCS; children). , 4 = Blantyre Coma Score (BCS; children). Motor Response (to painful stimuli: pressure on nail bed, sternum, supraorbital ridge), 1 = Obeys commands Localizes. Motor Response (to painful stimuli: pressure on nail bed, sternum, supraorbital ridge), 2 = 6 5. Motor Response (to painful stimuli: pressure on nail bed, sternum, supraorbital ridge), 3 = Localizes. Motor Response (to painful stimuli: pressure on nail bed, sternum, supraorbital ridge), 4 = 2. , 1 = Flexion/withdraws. , 2 = 4. , 3 = Withdraws. , 4 = 1. , 1 = Abormal Rexion (decorticate). , 2 = 3. , 3 = . , 4 = . , 1 = Extension (decerebrate). , 2 = 2. , 3 = Extension (decerebrate). , 4 = 0. , 1 = No response. , 2 = 1. , 3 = No response. , 4 = 0. Verbal Response (to painful stimuli or speech), 1 = Oriented, converses normally. Verbal Response (to painful stimuli or speech), 2 = 5. Verbal Response (to painful stimuli or speech), 3 = Normal cry, appropriate speech. Verbal Response (to painful stimuli or speech), 4 = 2. , 1 = Confused, disoriented. , 2 = 4. , 3 = . , 4 = . , 1 = Utters inappropriate words. , 2 = 3. , 3 = . , 4 = . , 1 = Incomprehensible sounds. , 2 = 2. , 3 = Abnormal cry. , 4 = 1. , 1 =
+
+============================================================
+CHUNK 36
+============================================================
+METABOLIC ACIDOSIS
+Makes no sounds. , 2 = 1. , 3 = Makes no sounds. , 4 = 0. Eyes, 1 = Opens eyes spontaneously. Eyes, 2 = 4. Eyes, 3 = . Eyes, 4 = . Eyes, 1 = Opens eyes in response to voice. Eyes, 2 = 3. Eyes, 3 = . Eyes, 4 = . Eyes, 1 = Opens eyes in response to pain. Eyes, 2 = 2. Eyes, 3 = Follows moving objects. Eyes, 4 = 1. Eyes, 1 = Does not open eyes. Eyes, 2 = 1. Eyes, 3 = Unable to follow moving objects. Eyes, 4 = 0
+
+============================================================
+CHUNK 37
+============================================================
+BOX 96.4  Assessing Capillary ReCll
+1. Observe the color of the nail bed.
+2. Press on  the  nail  bed  of  any digit until it  blanches completely.
+3. Release pressure.
+4. Count  ('one-one  thousand,  two-one  thousand)  until  the nail bed completely regains its normal color.
+5. Normal  capillary  reQll  is < 2  seconds;  prolonged  capillary reQll times suggest that the patient is in shock.
+Self-calibration by the examining clinician is helpful.
+abnormally deep breathing is a poor prognostic feature in parasitemic children with or without neurologic compromise.
+
+============================================================
+CHUNK 38
+============================================================
+SEVERE ANEMIA
+Life-threatening  anemia  can  develop  rapidly;  children  who  have adjusted to a low hemoglobin or hematocrit can rapidly decompensate when challenged by a febrile illness such as malaria. Decisions regarding  blood  transfusion  are  difficult,  particularly  in  malariaendemic areas where HIV infection is common. Decisions to transfuse are generally made on the basis of hemodynamic grounds (signs of high-output heart failure include hypotension, poor capillary refill, systolic  murmurs and hepatosplenomegaly), level of consciousness and evidence of acidosis. Estimates of parasite density are helpful in predicting the  need for blood transfusion (see  below, ' Treatment '). Anemic children who are clinically stable may be treated conservatively, but close observation is recommended.
+
+============================================================
+CHUNK 39
+============================================================
+RESPIRATORY FAILURE
+Respiratory failure associated with ARDS can develop rapidly; clinically it is indistinguishable from the ARDS that develops as a result of septicemia, toxic inhalants or other causes. Patients become hypoxemic and may require mechanically-assisted  ventilation.  Aggressive management of malaria-associated ARDS should be used wherever available.
+
+============================================================
+CHUNK 40
+============================================================
+ALGID MALARIA
+The majority of patients with severe malaria remain well perfused, but  a  small  proportion  develop  algid  malaria  -  defined  as  low blood pressure, cold and clammy extremities, hypoglycemia and acidosis. In most cases, this represents septic shock and pathogens are cultured from the blood. The judicious administration of antibiotics,  fluids  and  inotropes  is  recommended  for  this  small  group  of patients.  The  sudden  onset  of  hypotension  in  a  patient  with  vivax malaria should prompt consideration of splenic rupture or subcapsular bleeding.
+
+============================================================
+CHUNK 41
+============================================================
+ACUTE RENAL FAILURE
+Mild proteinura, azotemia and oliguria occur frequently in otherwise uncomplicated P. falciparum infections. Acute renal failure is another complication that is far more common among adults than among children; it is also more common in patients with hemoglobinuria ('blackwater  fever').  Acute  renal  failure  can  also  result  from  acute tubular necrosis, a sequelae of reduced renal perfusion. Anuria is a poor prognostic sign and hemoperfusion, renal or peritoneal dialysis are  often  necessary.  Few  data  exist  to  describe  the  proportion  of patients  on  dialysis  who  recover  renal  function  but,  as  in  cerebral malaria, renal abnormalities are reversible and patients appropriately supported through the critical period often enjoy a full recovery.
+
+============================================================
+CHUNK 42
+============================================================
+POST-MALARIA NEUROLOGIC SYNDROME
+This  is  a  rare  transient  neurologic  syndrome,  reported  most  commonly in non-immune travelers after a successfully treated episode of severe falciparum malaria. The onset is generally within 1-2 weeks of recovery, but can be as long as 2 months after. The clinical features range from confusion and tremors, to aphasia, seizures, ataxia, psychosis and impaired consciousness. There may be a lymphocytic pleocytosis in the CSF; imaging studies may or may not show nonspecific white matter changes. The symptoms are generally self-limiting; steroids have been used with good results in some patients [16].
+
+============================================================
+CHUNK 43
+============================================================
+MALARIA IN PREGNANCY
+The effects of malaria infection in pregnancy are visited on the expectant mother via peripheral parasitemia and on the fetus/newborn via parasite sequestration in the intervillous spaces of the placenta.
+In general, pregnant woman are more susceptible to malaria infection than their non-pregnant counterparts; this is most noticeable in areas of  low  transmission,  where  few  adults  have  acquired  anti-disease immunity. Susceptibility to infection decreases with each succeeding pregnancy.
+The placenta provides a new site for sequestration, a phenomenon unique  to  infections  with P.  falciparum ,  and,  as  with  peripheral
+parasitemia, semi-immune women are less likely to have placental sequestration than non-immune women, and the placentae of multigravidae are less likely to contain evidence of parasite sequestration than those of primigravidae. The receptor on the syncytiotrophoblast lining the intervillous spaces of the placenta is chondroitin sulfate A, and binding is mediated by a specific variant surface antigen, var2csa [17].
+Clinical manifestations in the mother are determined by the extent of acquired immunity. In sub-Saharan Africa, where most studies have been  carried  out,  mild  febrile  illnesses  and  anemia  are  the  most common features. In relatively non-immune pregnant women, severe and complicated malaria, often characterized by hypoglycemia and pulmonary edema, can occur. Pregnancy-induced immune suppression generally results in more severe disease, especially in the group at highest risk, primigravid, non-immune women. Parasitemia rates are  at  their  highest  during  the  second  trimester,  and  the  period  of increased risk can extend into the post-partum period for 1-2 months [18].
+Adverse  maternal  and  perinatal  outcomes  of  malaria  in  pregnancy include anemia, miscarriage, fetal growth restriction (small for gestational age), low birth weight ( < 2500 g at birth), pre-term births and congenital  infection.  Again,  the  likelihood  of  these  outcomes  is related  to  maternal  gravidity  and  degree  of  acquired  anti-malarial immunity.
+
+============================================================
+CHUNK 44
+============================================================
+TRANSFUSION MALARIA
+Any of the five species of human malaria can be transmitted directly from an infected blood donor, accidental infection by a contaminated needle, or from infected intravenous drug users sharing needles. The incubation period following infection is as short as a few days for P. falciparum, but can be up to 40 days or longer for P. malariae [19].
+
+============================================================
+CHUNK 45
+============================================================
+UNCOMPLICATED MALARIA
+At the individual patient level, accurate diagnosis and treatment of uncomplicated malaria enhances the chances of a prompt cure and minimizes the likelihood of disease progression. At the population level,  the  appropriate  management of  uncomplicated malaria,  particularly large numbers of patients with uncomplicated malaria, as is common in endemic areas,  will  diminish  the  reservoir  of  infected individuals while minimizing the development and spread of drugresistant parasites.
+To minimize the unnecessary or inappropriate use  of anti-malarial drugs, parasitologic confirmation of clinically suspected cases is now recommended  by  the  World  Health  Organization  (WHO)  [20]. Malaria parasites can be identified in a sample of peripheral blood via light microscopy or using rapid diagnostic tests (RDTs), which are based on the detection of parasite enzymes or antigens. When it is performed well, light microscopy is sensitive and specific and allows for the recognition of various malaria parasite species. There is a large initial  cost  for  acquiring  equipment  and  training  technicians,  and ongoing quality assurance and quality control are expensive, but the day-to-day operational costs are low, especially when high throughput is required. The 'gold standard' approach uses Giemsa stain and oilimmersion microscopy.
+RDTs  are  antigen-based  dipstick,  cassette  or  card  tests  in  which  a colored line indicates that plasmodial antigens have been detected. They are relatively simple to perform and interpret and they do not require electricity, but not  all tests  can distinguish between species, and  some  cannot  distinguish  new  infections  from  recently  and effectively-treated infections (Box 96.5). The choice of a specific RDT
+
+============================================================
+CHUNK 46
+============================================================
+UNCOMPLICATED MALARIA
+Speciation, Thin Clm microscopy = Yes. Speciation, Thick Clm microscopy = Possible. Speciation, RDTs = Yes. QuantiQcation, Thin Clm microscopy = Yes. QuantiQcation, Thick Clm microscopy = Optimal. QuantiQcation, RDTs = RDTs give qualitative 'yes' or 'no' results but intensity of the parasite line correlates to antigen present. Can use to follow response to treatment, Thin Clm microscopy = Yes. Can use to follow response to treatment, Thick Clm microscopy = Yes. Can use to follow response to treatment, RDTs = No; HRP2- based tests speciQc for P. falciparum can remain positive for days after successful treatment.. Electricity required, Thin Clm microscopy = Yes. Electricity required, Thick Clm microscopy = Yes. Electricity required, RDTs = No. Training and skill required, Thin Clm microscopy = Extensive training; acquired skill. Training and skill required, Thick Clm microscopy = Extensive training; acquired skill. Training and skill required, RDTs = Limited training; can be used in remote settings. Sensitivity, Thin Clm microscopy = Vary by skill of microscopist. Sensitivity, Thick Clm microscopy = Vary by skill of microscopist. Sensitivity, RDTs = Vary among tests. Cost, Thin Clm microscopy = May be less expensive in busy settings. Cost, Thick Clm microscopy = May be less expensive in busy settings. Cost, RDTs = $0.50-$1 per test. Storage, Thin Clm microscopy = . Storage, Thick Clm microscopy = . Storage, RDTs = Temperature ranges; humidity a problem unless individually foil-wrapped. Detects other pathogens in blood, Thin Clm microscopy = White cell count, platelet count, Borrelia, Trypanosoma , Babesia spp.. Detects other pathogens in blood, Thick Clm microscopy = White cell count, platelet count, Borrelia, Trypanosoma , Babesia spp.. Detects other pathogens in blood, RDTs = No. Malaria parasites detected, Thin Clm microscopy = All species Species diSerentiation on the basis of diSerent morphologies. Malaria parasites detected, Thick Clm microscopy = All species. Malaria parasites detected, RDTs = P. falciparum only and P. falciparum / P. vivax combinations. Mixed
+
+============================================================
+CHUNK 47
+============================================================
+UNCOMPLICATED MALARIA
+infections, Thin Clm microscopy = Yes. Mixed infections, Thick Clm microscopy = Yes. Mixed infections, RDTs = Usually no. False-positives, Thin Clm microscopy = Artifact. False-positives, Thick Clm microscopy = Artifact. False-positives, RDTs = Antigenemia can persist after parasitemia has cleared. False-negatives, Thin Clm microscopy = Low parasite density. False-negatives, Thick Clm microscopy = Low parasite density. False-negatives, RDTs = Prozone eSect Low parasite density
+depends on its intended use. For example, does it need to distinguish between a recent malaria infection and a current infection? Should it  be  able  to  distinguish  between  falciparum  and  non-falciparum species? Will treatment decisions be based on the results, or is it being employed for epidemiologic purposes?
+The choice of which malaria RDT to use in a given situation is complex and depends on availability, cost, quality of the test and performance characteristics. The WHO sponsors independent RDT product testing in collaboration with the Foundation for Innovative New Diagnostics (FIND), the Special Program for Research and Training in Tropical Diseases  (TDR)  and  the  WHO  Global  Malaria  Program  (GMP). Testing is performed at the US Centers for Disease Control and Prevention (CDC). Summary results of the most recent round are available  online  [21].  These  comparisons  help  to  inform  procurement decisions for national malaria control programs and to guide United Nations (UN) procurement policies.
+In resource-constrained endemic areas, parasitologic diagnosis is not always available - even when it is available, quality and accuracy are a continuing challenge . When parasitologic diagnoses are not available, algorithms devised on the basis of the prevalence of parasitemia in various age groups [22] help to balance the risk of under-treating those at risk of progressing to severe disease against the risks of unnecessary drug use in the semi-immune population, excessive costs and drug pressure, which could accelerate the development of drug resistant parasites.
+Serial parasitologic assessments after the start of treatment are helpful for documenting response to treatment; if these are paired with an assessment of anemia (either hemoglobin concentration or hematocrit), it may be possible to anticipate the need for blood transfusion (see below for guidelines).
+
+============================================================
+CHUNK 48
+============================================================
+BLOOD FILMS
+The gold standard of malaria diagnosis remains the blood film. For detecting parasites, a thick blood film is superior as it concentrates the red cells by a factor of 20-40. Identifying species on thick films may be difficult because the red cells have lysed and the morphologic features of the parasites have been altered. Species identifications are made more easily using thin blood films. Thick and thin films can be prepared on the same slide, although they are processed differently (thin films must be fixed in methanol before they are stained). Quantitating parasitemias, even semiquantitatively (0, + -++++ ) is useful for predicting whether the illness is likely to be caused by malaria, for anticipating the need for blood transfusion and for following response to anti-malarial treatment.
+Parasites can be counted as a percentage of red cells on a thin film, or against white blood cells on a thick film, and if the total red cell or white cell counts are known, the parasite densities can be calculated. Blood can be stained with Giemsa, Leishman, Field or Wright's stains.
+The  most  important  initial  distinction  is  to  determine  whether malaria parasites are present: for this, a thick film is most efficient. Species  identification  is  best  done  on  thin  films  (Table  96-1).  The golden brown malaria pigment (hemozoin) in monocytes or leukocytes suggests a current or recent malaria infection, even in the absence of a patent parasitemia.
+
+============================================================
+CHUNK 49
+============================================================
+INTERPRETING THE RESULTS OF MALARIA DIAGNOSTIC TESTS
+In practice, clinicians in malaria-endemic areas with little diagnostic capacity  prescribe  anti-malarial  drugs  to  symptomatic  individuals whenever parasites are detected; however, the clinical challenge is to decide  if additional treatment  (e.g.  antibiotics)  is  needed.  In  semiimmune  individuals,  asymptomatic  or  'incidental'  parasitemia  is common, and the presence of peripheral parasitemia can be misleading. In these individuals, it would be prudent to consider other etiologies  for  the  symptoms,  particularly  in  patients  with  lower  density parasitemias (Box 96.2). Anti-malarial treatment is warranted if parasites are detected, but additional treatment may also be required.
+A second dilemma is the febrile individual with a negative malaria test.  Withholding  anti-malarial  drugs  in  situations  where  malaria infection is a real possibility is difficult for clinicians. The dangers of missing  a  malaria  diagnosis  and  thus  delaying  treatment  are  well known. This apprehension, accompanied by a degree of skepticism regarding the reliability of the parasitologic diagnosis (especially via microscopy), is used to justify a 'better safe than sorry' approach to the  use  of  anti-malarial  drugs.  In  malaria-endemic  areas,  patients themselves,  along  with  parents  and  other  caregivers,  have  come  to expect malaria chemotherapy for many febrile illnesses. Clinical evidence for other non-malaria diagnoses should be sought (Box 96.2) to support the decision to withhold anti-malarials in patients who are not infected with plasmodia.
+
+============================================================
+CHUNK 50
+============================================================
+INTERPRETING THE RESULTS OF MALARIA DIAGNOSTIC TESTS
+The absence of parasites in the peripheral blood should prompt the clinician to  consider  other  etiologies  of  the  patient's  symptoms.  In non-immune patients at risk for malaria infection, several parasitologic  assessments  carried  out  at  12-hour  intervals  during  a  36-48 hour period are recommended before concluding that the individual is free of infection. Intra-erythrocytic falciparum parasites are typically in circulation for the first 24-36 hours of the 48-hour lifecycle, and the intra-erythrocytic parasites for the other four infecting species are always present in the peripheral blood, so it is not necessary to 'time' blood  collections  to  any  particular  symptoms  (e.g.  fever,  rigor, diaphoresis). The WHO recommends withholding anti-malarial treatment in the face of negative (often repeatedly negative) tests; in practice,  as  noted  above,  this  can  be  difficult,  given  the  well-known dangers of untreated malaria and the challenges of obtaining a reliable parasitologic diagnosis.
+
+============================================================
+CHUNK 51
+============================================================
+COMPLICATED MALARIA
+Parasitemic individuals with any of the clinical or laboratory features described in Table 96-2 are likely to have complicated malaria, but the possibility of a 'false-positive' assessment should be considered, particularly  (but  not  exclusively)  in  the  semi-immune  population. The mortality rate of untreated severe malaria is probably over 75%; with  good  management,  the  mortality  rate  of  cerebral  malaria  is roughly 15-20%.
+Concomitant meningitis should be excluded via lumbar puncture; if a lumbar puncture is contraindicated on clinical grounds, the patient should be provided with the appropriate antibiotic coverage (penicillin + gentamicin, or ceftriaxone).
+Co-infections with blood-borne bacteria are common and should be sought  when  the  capacity  exists  [23,  24].  Septic  shock  should  be considered in the differential diagnosis and empiric antibiotic therapy administered if there are signs of acidosis or impaired perfusion.
+An autopsy-based study of pediatric cerebral malaria demonstrated that the standard clinical case definition of cerebral malaria was incorrect  in  approximately 25% of cases - non-malarial causes of death were identified and those patients had no evidence of parasite sequestration in the cerebral microcirculation. In contrast, 75% of cases in this series did have cerebral sequestration of parasitized erythrocytes and no other causes of death were identified at autopsy [25]. The best clinical indicator of 'true' cerebral malaria was the presence of at least one of the three features of a recently described malaria retinopathy: vessel color changes, macular or extra-macular whitening, and whitecentered hemorrhages [26] (Fig 96.7). With autopsy findings as the gold standard, the specificity of retinal findings is 93%, the sensitivity is 97% and the positive and negative predictive values are 97% and 93% respectively.
+
+============================================================
+CHUNK 52
+============================================================
+COMPLICATED MALARIA
+Malarial retinopathy is best appreciated in eyes that have been fully dilated with mydriatics (a combination of tropicamide and phenylephrine  eye  drops  will  dilate  the  eyes  within  15-20  minutes)  and examined with a hand-held direct ophthalmoscope (which provides magnification) and an indirect ophthalmoscope (which provides a three-dimensional perspective, as well as a wider field of view). These examinations  are  routine  for  trained  ophthalmologists,  but  nonophthalmologist clinicians can learn to recognize these features, too. Ninety percent of retinopathy-positive patients can be identified on
+FIGURE 96.7 Malaria retinopathy. Examples of clinical ocular fundus Qndings in African children with P. falciparum malaria. 1, Retinal hemorrhages, some with white centers. 2. Grade 2 macular whitening, less than 1/3 of the disc area of whitening. 3. Grade 2 macular whitening, between 1/3 and 1 disc area of whitening. 4. Grade 3 macular whitening, greater than 1 disc area of whitening. 5. Grade 1 extramacular whitening, note 2 foci of whitening. 6. Grade 2  extramacular whitening; scattered white spots in the upper half of the photograph represent the density of whitening for the 2 + grade. 7. Grade 3 extramacular  whitening; this  deQnite  mosaic represents the  minimum  whitening  for  the  3 + grade.  8.  Grade  3  extramacular  whitening;  conRuence  of whitening. 9. Abnormal vessels; orange delineation of vessels. 10. Abnormal vessels; segmental whitening. 11. Abnormal vessels, extensive delineation of capillaries with some irregular delineation of terminal portion of larger vessels. (From Lewallen S, Harding SP, Ajewole J, et al. A review of the spectrum of clinical ocular fundus ;ndings in P. falciparum malaria in African children with a proposed classi;cation and grading system. Trans Roy Soc Trop Med Hyg 1999;93:619-22.).
+the basis of observations of the optic disc, the macula and the area in between [27].
+
+============================================================
+CHUNK 53
+============================================================
+COMPLICATED MALARIA
+Severe  pneumonia  was  a  common  cause  of  death  in  parasitemic children who satisfied the clinical case definition of cerebral malaria in the autopsy study described above. Pneumonia may be suspected on  the  basis  of  the  history  and  physical  examination,  and  should definitely be considered when oxygen saturations are < 90%. Given the  frequency  of  this  particular  co-morbidity,  empiric  antibiotic therapy based on the clinical assessment is reasonable [28].
+If  pediatric  patients  have  a  history  of  aspirin  intake,  or  if  there  is hepatomegaly in the face of recurrent hypoglycemia, Reyes Syndrome should be included in the differential diagnosis.
+
+============================================================
+CHUNK 54
+============================================================
+CLEARING THE PARASITE
+For patients who are able to swallow, oral medications (Table 96-3) are recommended [20]. Prior treatment is common, and should be taken  into  consideration  when  deciding  how  to  treat  individual patients; quinine use following mefloquine may be arrhythmogenic, for instance.
+Although chloroquine is no longer recommended by the WHO as the primary  treatment  of P.  falciparum infections,  it  remains  the  most commonly used drug in  a few parts of  the  world  including  Haiti, the  Dominican  Republic,  most  regions  of  the  Middle  East,  and Central America, west of the Panama Canal. Even in settings where chloroquine-resistance is widespread, the drug, an effective analgesic and antipyretic, has considerable popularity.
+Chloroquine  is  recommended  for  the  blood-stage  infections  of P. malariae , P. ovale and most P. vivax infections. Chloroquine-resistant vivax  malaria  has  been  reported  from  Indonesia  and  Papua  New Guinea, and those infections should be treated with artemisinin combination  therapies,  atovaquone-proguanil,  mefloquine  or  quinine followed by doxycyline or tetracycline.
+Primaquine is required for radical cures of the liver stage parasites in P. vivax and P. ovale . In most situations, a daily dose (0.25-0.5 mg/ kg)  of  primaquine  for  two  weeks  is  sufficient.  Patients  should  be screened for G6PD-deficiency prior to administration of primaquine. In  settings  where  laboratory  testing  is  not  available,  a  test  dose  of primaquine followed by careful observation and repeated measures of hemoglobin or hematocrit may be necessary.
+In  general,  though,  monotherapy  for  falciparum  malaria  has  been supplanted by drug combinations (co-formulated or co-packaged) of artemisinin-based compounds (rapidly parasiticidal, but with short half-lives)  and  partner  drugs  (more  slowly  acting,  but  with  longer half-lives). The artemisinins typically clear 90% of the parasites within 24-36  hours  and  the  partner  drug  clears  the  rest.  Most  regimens (Table 96-3) require twice daily administration of the drug combination over three days. The WHO currently recommends five different combinations;  specific  choices  depend  on  prevailing  parasite  drug sensitivities, procurement opportunities and cost [20].
+
+============================================================
+CHUNK 55
+============================================================
+CLEARING THE PARASITE
+For patients who are unable to swallow, parenteral drug treatment is  required;  both  options  are  contemporary  formulations  of  traditional, plant-based remedies. Quinine (and its stereoisomer, quinidine) come from the bark of the cinchona tree and the artemisinins are  derived  from Artemesia  annua ,  known  colloquially  as  'sweet wormwood'.
+The cinchona alkaloids have been the mainstay of treatment for complicated malaria since they were introduced to Europe from Peru in the 17th century. Quinine is used more commonly, but quinidine is as  effective,  albeit  more  likely  to  engender  cardiac  dysrhythmias. Although the IV route is preferred,  intramuscular  administration  is effective - the drug, as formulated (at 300 mg base/ml) is fairly acidic, though and should be diluted 4-6-fold prior to intramuscular injection.  Large-volume injections should be divided between two large muscle masses (preferably the anterior thighs).
+Irrespective of the alkaloid selected, a loading dose is required in order to  achieve  a  therapeutic  drug  concentration  quickly.  More  care  is required to administer quinine and quinidine than the artemisinins. Quinine and quinidine, when infused too rapidly, stimulate the pancreatic secretion of insulin and hypoglycemia may ensue.
+Intravenous quinine was enshrined as the treatment for severe malaria well before pharmacokinetic studies were possible; current regimens have evolved on the basis of experience and some computer modeling.  Regimens  for  intramuscular  quinine  and  the  intravascular/ intramuscular formulations of the artemisinin derivatives are based on sound pharmacokinetics (Table 96-4).
+Randomized clinical trials comparing IV quinine with IV artesunate have established the superiority of IV artesunate in adults and children [29, 30].
+Patients  with  complicated  malaria  should  receive  parenteral  antimalarials for at least 24 hours; after that, a full course of an effective oral drug can be administered, beginning as soon as the patient can swallow (Table 96-4).
+
+============================================================
+CHUNK 56
+============================================================
+PREGNANT PATIENTS
+For  pregnant  women  living  in  malaria-endemic  areas,  the  WHO recommends  Intermittent  Preventive  Treatment  during  pregnancy (IPTp)  [20]  with  two  doses  of  sulfadoxine-pyrimethamine  (SP) administered at monthly intervals after the onset of fetal movements. IPTp  should  be  extended  into  the  third  trimester  for  HIV-infected pregnant women who are not taking cotrimoxazole prophylaxis.
+Chemotherapy for pregnant women who develop malaria illnesses during pregnancy is similar to that recommended for non-pregnant patients with the following caveats:
+- few pharmacokinetic studies have been carried out in pregnant women;
+- chloroquine is well tolerated;
+- the recommended doses of quinine and quinidine are safe;
+- mefloquine may be associated with an increased risk of stillbirth [31],  but  can  be  used  when  no  other  treatment  options  are available;
+- tetracycline,  doxycycline,  primaquine  and  halofantrine  are  contraindicated in pregnancy, and neither primaquine or the tetracyclines should be used while breastfeeding;
+- primaquine is contraindicated during pregnancy, given the uncertain G6PD status of the fetus.
+There are very few data on the safety of the artemisinin drugs during pregnancy;  in  general,  they  are  not  recommended  during  the  first trimester and amodiaquine use during pregnancy is eschewed because of the risk of agranulocytosis.
+
+============================================================
+CHUNK 57
+============================================================
+Supportive care
+Dedicated  nursing  care  is  important  in  the  management  of  these patients.  Vital  signs,  urine  output  and  an  appropriate  coma  score should be monitored as frequently as possible. The most common causes of a drop in coma score following the initiation of therapy are convulsions, hypoglycemia and anemia. Blood glucose, lactate, parasitemia  and  hemoglobin/hematocrit  can  be  monitored  every  4-6 hours on fingerprick samples of blood. Patients not on ventilatory support should be nursed in the lateral decubitus position to minimize the chance of aspiration. IV fluids containing 5% dextrose are important initially, but nasogastric tube feeding can be started within 18-24 hours of admission if the patient is unable to eat.
+
+============================================================
+CHUNK 58
+============================================================
+Fever
+There is no consensus on how best to treat malarial fevers. Aggressive fever management may decrease the risk of convulsions and subsequent neurologic damage but parasite sequestration is less effective at higher temperatures. Acetaminophen/paracetamol and ibuprofen are all effective antipyretics in malaria patients.
+
+============================================================
+CHUNK 59
+============================================================
+Fever
+P. falciparum, TABLE 96-3 Oral Anti-Malarial Drugs.Treatment regimens = WHO-recommended artemisinin-based combination therapy (ACT): ● Artemether + lumefantrine (AL) Given at 0, 8, 24, 36, 48 and 60 hours: 5-15 kg: 1 tablet 16-25 kg: 2 tablets 26-35 kg: 3 tablets > 35 kg: 4 tablets (adult dose) ● Artesunate + amodiaquine (AS + AQ) 4 mg/kg/day AS and 10 mg/kg/day AQ daily for 3 days ● Artesunate + meRoquine (AS + MQ) 4 mg/kg/day AS daily for 3 days.MQ can be taken as 15 mg/kg on day 1 and 10 mg/kg on day 2, or as 8.3 mg/kg/daily for 3 days ● Artesunate + sulfadoxine-pyrimethamine (AS + SP) 4 mg/kg AS daily for 3 days; 25 mg/1.25 mg/kg SP on Day 1 ● Dihydroartemisinin + piperaquine (DHA + PPQ) 4 mg/kg AS plus 18 mg/kg PPQ daily for 3 days. P. falciparum, Clinical caveats = Generally very well-tolerated. , TABLE 96-3 Oral Anti-Malarial Drugs.Treatment regimens = Other options: ● Chloroquine (if known to be chloroquine sensitive) Adults: 600 mg base ( = 1000 mg salt) p.o., followed by 300 mg base ( = 500 mg salt) p.o. at 6, 24 and 24 hours Children: 10 mg base/kg p.o., followed by 5 mg base/kg p.o. at 6, 24 and 48 hours ● Oral quinine sulfate plus doxycycline, tetracycline or clindamycin. , Clinical caveats = Chloroquine can cause signiQcant pruritus in dark-skinned individuals Overdoses ( > 2 g) can be fatal; adrenaline and diazepam are antidotes Bitter taste Bitter taste Frequent dosing needed because of a short half-life Cinchonism: tinnitus, nausea, headaches, dizziness and disturbed vision Overdosing leads to cardiotoxicity, more
+
+============================================================
+CHUNK 60
+============================================================
+Fever
+so with quinidine. , TABLE 96-3 Oral Anti-Malarial Drugs.Treatment regimens = ● Quinine sulfate: 542 mg base ( = 650 mg salt) p.o. three times a day for 3 days (7 days for infections acquired in Southeast Asia) ● Doxycycline: 100 mg p.o. twice a day for 7 days ● Tetracycline: 250 mg p.o. four times a day for 7 days ● Clindamycin: 20 mg base/kg/day, p.o., divided three times a day for 7 days. , Clinical caveats = Rapid IV or IM administration can precipitate hypoglycemia Doxycycline and tetracycline are not recommended during pregnancy or in children under the age of 8 years. Clindamycin is recommended for these two groups Doxycycline should be taken with food to minimize the risk of esophageal erosions Both drugs may cause photosensitivity and disrupt normal Rora enough to precipitate vaginal yeast infections. , TABLE 96-3 Oral Anti-Malarial Drugs.Treatment regimens = ● Atovaquone-proguanil Adult tablet: 250 mg atovaquone, 100 mg proguanil Pediatric tablet: 62.5 mg atovaquone, 25 mg proguanil 5-8 kg: two 25-mg pediatric tablets daily for 3 days 9-10 kg: three 25-mg pediatric tablets daily for 3 days 11-20 kg: one adult 100-mg tablet daily for 3 days 21-30 kg: two adult 100-mg tablets daily for 3 days 31-40 kg: three adult 100-mg tablets daily for 3 days > 40 kg: four adult 100-mg tablets daily for 3 days ● MeRoquine Adults: 684 mg base ( = 750 mg salt) p.o., followed by 456 mg base ( = 500 mgsalt) p.o., 6-12 hours later Children: 13.7 mg base/kg ( = 15 mg salt/kg) p.o., followed by 9.1 mg base/kg ( = 10 mg salt/kg) p.o., 6-12 hours later. , Clinical caveats = Atovaquone targets an element of the parasite electron transport chain and is thus well-tolerated by the host Proguanil interferes with folate metabolism and has
+
+============================================================
+CHUNK 61
+============================================================
+Fever
+been associated with aphthous oral ulcers Side eSects include vomiting, dizziness, and exacerbation of cardiac conduction abnormalities Not recommended for individuals with a history of psychiatric disorders May disrupt sleep or cause vivid dreams. , TABLE 96-3 Oral Anti-Malarial Drugs.Treatment regimens = Treatment failure within 14 days Second-line treatment: ● a diSerent ACT, known to be eSective in the region ● AS + tetracycline, doxycycline or clindamycin, for 7 days ● quinine + tetracycline, doxycycline or clindamycin, for 7 days See above for details re dosage regimens. , Clinical caveats = . , TABLE 96-3 Oral Anti-Malarial Drugs.Treatment regimens = Treatment failure after 14 days Repeat the original ACT unless it contained MQ; in that case, use a diSerent ACT. , Clinical caveats = 
+
+============================================================
+CHUNK 62
+============================================================
+Fever
+P. vivax, P. ovale, TABLE 96-3 Oral Anti-Malarial Drugs-cont'd.Treatment regimens = Chloroquine See above for details re dosage regimen. P. vivax, P. ovale, Clinical caveats = . , TABLE 96-3 Oral Anti-Malarial Drugs-cont'd.Treatment regimens = Radical cure (liver stages) ● 14-day course of primaquine Adult: 15 mg daily for 14 days. In Oceania and Southeast Asia, the dose of primaquine should be 30 mg daily for 14 days Children: 0.25 mg base/kg body weight, taken with food once daily for 14 days. In Oceania and Southeast Asia, the dose of primaquine should be 0.5 mg/kg body weight. In mild/moderate G6PD deQciency: Adult: 45-60 mg weekly for 8 weeks Children: 0.75 mg base/kg body weight should be given once a week for 8 weeks. In severe G6PD deQciency, primaquine is contraindicated. , Clinical caveats = Primaquine is contraindicated in individuals with G6PD deQciency and during pregnancy Malaria infection as a result of blood transfusion or organ transplantation does not require radical cure Primaquine is a gametocytocidal drug. Chloroquine resistant P. vivax (Papua New Guinea, Indonesia), TABLE 96-3 Oral Anti-Malarial Drugs-cont'd.Treatment regimens = Artemisinin-based combination therapy: ● DHA + PPQ ● AL ● AS + AQ followed by primaquine Quinine + doxycycline or tetracycline, followed by primaquine Atovaquone-proguanil followed by primaquine MeRoquine followed by primaquine See above for details re dosage regimens. Chloroquine resistant P. vivax (Papua New Guinea, Indonesia), Clinical caveats = AS + SP is not eSective in many locales. P. malariae, P. knowlesi, TABLE 96-3 Oral Anti-Malarial Drugs-cont'd.Treatment regimens = Chloroquine See above for details re dosage regimen. P. malariae, P. knowlesi, Clinical caveats = ESective against gametocytes. G6PD, glucose 6 phosphate
+
+============================================================
+CHUNK 63
+============================================================
+Fever
+deQciency; IM, intramuscular; IV, intravenous; WHO, World Health Organization., TABLE 96-3 Oral Anti-Malarial Drugs-cont'd.Treatment regimens = G6PD, glucose 6 phosphate deQciency; IM, intramuscular; IV, intravenous; WHO, World Health Organization.. G6PD, glucose 6 phosphate deQciency; IM, intramuscular; IV, intravenous; WHO, World Health Organization., Clinical caveats = G6PD, glucose 6 phosphate deQciency; IM, intramuscular; IV, intravenous; WHO, World Health Organization.
+
+============================================================
+CHUNK 64
+============================================================
+TABLE 96-4 Parenteral Anti-Malarial Drugs
+P. falciparum, Treatment regimens = For all regimens: ● Continue parenteral treatment for at least 24 hours ● When the patient is able to swallow, administer a treatment dose of a locally-eSective drug (ACT, oral quinine + doxycycline or clindamycin, atovaquone-proguanil, meRoquine). P. falciparum, Clinical caveats = . , Treatment regimens = Artesunate 2.4 mg/kg IV at 0, 12 and 24 hours, then daily until oral medication can be given. , Clinical caveats = Well-tolerated ESective against a broad range of lifecycle stages (early ring stages up to schizonts and gametocytes). , Treatment regimens = Quinine dihydrochloride: IV Loading dose: 12.5 mg base/kg ( = 20 mg salt/kg), IV, over 4 hours Maintenance dose: 20-30 mg/kg salt/day (divided into 2-3 daily doses, every 8-12 hours) Quinine should be used with caution in patients on meRoquine prophylaxis Quinine dihydrochloride: IM Loading dose: 6.25 mg base/kg ( = 10 mg/kg salt), IM (dilute quinine to 60 mg/ml), repeat after 4 hours Maintenance doses: 6.25 mg base/kg ( = 10 mg/kg salt), IM, every 8-12 hours Quinidine gluconate Loading dose: 24 mg salt/kg loading dose, IV, over 4 hours Maintenance dose: 12 mg salt/kg, IV over 4 hours, every 8 hours, for at least 24 hours or until oral medication can be given. , Clinical caveats = Cardiotoxic Can induce hypoglycemia Most eSective against late rings and early trophozoites. , Treatment regimens = Artemether Loading dose: 3.2 mg/kg body weight IM Maintenance dose: 1.6 mg/kg IM per day until oral medication can be given. , Clinical caveats = Well-tolerated ESective against a broad range of lifecycle stages (early ring stages up to schizonts and gametocytes)
+
+============================================================
+CHUNK 65
+============================================================
+Convulsions
+Fits  are  a  very  common  complication  of  malaria  illnesses.  Febrile convulsions are distinguished by a fairly rapid recovery of consciousness  but,  in  patients with cerebral  malaria, the coma is often initiated  with  a convulsion.  Multiple fits are common, as are clinically 'silent'  fits,  evident  only  electroencephalographically.  In  practice, decisions regarding the use of anti-epileptic drugs are made on the basis of a thoughtful and detailed clinical exam focusing on the eyes (looking for evidence of nystagmus, hippus [also known as pupillary athetosis  -  spasmodic,  rhythmic  ( < 0.04 Hz),  but  irregular  dilating and  contracting  pupillary  movements  involving  the  sphincter  and dilator  muscles]  and  absence  of  the  light  reflex),  the  respiratory rate  and  rhythm  (shallow,  irregular  respirations  may  be  a  'seizure equivalent'), the mouth and fingers (infrequent fine twitching movements of the tongue, a single finger, or the corner of the mouth can also  be  seizure  equivalents).  Occasionally,  seizures  emerge  when hypoglycemia is corrected. Often a trial of a rapidly acting anticonvulsant  (i.e.  paraldehyde  or  diazepam)  can  help  to  identify  subtle convulsions.
+Standard anticonvulsant protocols are difficult to develop because of the  heterogeneity  of  the  patient  population,  but  commonly  used drugs include the benzodiazpines (IV, per rectum [PR] or sublingual), paraldehyde (IM), phenobarbital (IV) and phenytoin (IV). There is little experience with levetiracetam in malaria to date, but it may prove to be useful. A study of prophylactic phenobarbital, administered on admission to children with cerebral malaria, was deleterious [32]; as a result, clinicians are advised to treat clinically-evident seizures and to watch for subtle evidence for subclinical events.
+
+============================================================
+CHUNK 66
+============================================================
+Anemia
+The  evidence  base  for  treating  severe  malarial  anemia  is  scanty. 'Transfusion  triggers'  are  difficult  to  develop  because  the  rate  at which an anemia develops is as important as the absolute value of the hemoglobin concentration but, in general, transfusions begin to be considered when the hemoglobin drops below 5 gm/dL [packed cell volume (PCV) = 15%]. Clinical clues include signs of hemodynamic  instability  (passive  congestion  of  the  liver, systolic  flow murmurs, extra heart sounds, rales, tachycardia) and cerebral hypoperfusion.  The  clinical  decision  regarding  transfusion  should  take into account the peripheral parasitemia, as well as the hemoglobin concentration (or hematocrit): the higher the parasitemia, the lower the hemoglobin or hematocrit are likely to drop. The usual practice is  to  transfuse  whole  blood (20 ml/kg) or  packed cells (10 ml/kg), irrespective  of  the  degree  of  the  anemia  or  the  intensity  of  the parasitemia.  About  5%  of  pediatric patients require a  second transfusion.
+
+============================================================
+CHUNK 67
+============================================================
+Hypoglycemia
+Patients with severe malaria can develop hypoglycemia if quinine is infused too rapidly; when it develops as part of the disease process, it worsens the prognosis for the patient. If hypoglycemia is identified, the  patient  should  be  given  50%  dextrose  (1 ml/kg)  IV,  and  the glucose should be re-checked soon thereafter and then regularly until they regain consciousness.
+
+============================================================
+CHUNK 68
+============================================================
+Acidosis
+Acidosis in severe malaria is manifested as deep, Kussmaul-like respirations  [33]  and  can  occur  with,  or  without,  associated  hyperlactatemia. It is frequently a sign of hypovolemia [34]. A large trial in children  with  a  variety  of  febrile  illnesses  (57%  had  malaria)  and 'compensated  shock' compared bolus therapy (normal saline and albumin) with conservative management with no boluses and found that  outcomes  were  significantly  better  in  those  who  received  no additional  fluid  bolus  [35].  When  justified,  blood  transfusions  are helpful in this situation; when blood is not indicated, cautious fluid repletion, beginning with normal saline (10 ml/kg) may be helpful. Acidosis may also be a sign of sepsis so collecting a blood culture and starting empiric antibiotic therapy may be justified.
+
+============================================================
+CHUNK 69
+============================================================
+Pulmonary edema/ARDS
+This complication is more common in adults, and can develop several days  after  admission  and  the  initiation  of  anti-malarial  treatment. Prompt intubation and assisted ventilation are the only recognized treatments;  clinical trials of this specific malaria  complication  have not been carried out, so treatment recommendations are based on extrapolations from other conditions [35].
+
+============================================================
+CHUNK 70
+============================================================
+Renal failure
+This complication is also more common in adults with severe malaria than in children. Untreated, the mortality rate is over 70%. Patients should receive adequate renal replacement therapy - hemofiltration is  superior  to  peritoneal  dialysis  in  terms  of  mortality  and  costeffectiveness [36]. The role of hemodialysis has not been assessed in a randomized trial, but is likely to be superior to peritoneal dialysis in patients who are hemodynamically stable [37].
+
+============================================================
+CHUNK 71
+============================================================
+Treating the process
+Many trials of adjuvant therapies targeting putative pathogenic processes  have  been  conducted.  Only  a  few,  even  when  subjected  to meta-analysis, have been adequately powered, and none has demonstrated a positive impact on outcome (Table 96-5).
+
+============================================================
+CHUNK 72
+============================================================
+CONCLUSION
+Malaria remains a major cause of morbidity and mortality in endemic areas, and is the largest single cause of fever in travelers returning from malaria-endemic  regions.  Prompt  recognition  and  treatment  of malaria disease is helpful in terms of preventing disease progression, and prompt recognition and treatment of non-malarial disease (even in parasitemic individuals) is equally important.
+Patients with severe and complicated malaria can be managed well in resource-poor settings with careful attention to IV fluid support, blood transfusions, convulsions, blood glucose and the airway.
+
+============================================================
+CHUNK 73
+============================================================
+PLASMODIUM OVALE
+Plasmodium ovale was first described in the blood of a soldier returning  from  East  Africa  in  1922  [38].  Although P.  ovale has  been reported from all continents, it is only in tropical Africa and New Guinea that it is relatively common. In West Africa, a blood film P.  ovale parasite  positive  rate  between  0.7%  and  10%  has  been found [39]. Plasmodium ovale is  a  common cause of morbidity in the  endemic  communities  with  the  highest  incidence  of  febrile episodes among children aged 0-7 years old, but clinical attacks can be seen in all age groups. Plasmodium ovale can be seen in up to 15% of returning travelers. As febrile episodes are often treated empirically in endemic areas and the confirmation of low-density P. ovale infections by microscopy is demanding, the true incidence of P.  ovale malaria  is  likely  underestimated. Plasmodium  ovale in African immigrants can present months after arrival in a new region.
+Characterization of P. ovale from Southeast Asia based on the small subunit  rRNA  gene  and  parts  of  the  cysteine  protease,  ookinete surface protein and cytochrome b genes, indicate that P. ovale can be divided into at least two types - classic and variant - which do not differ morphologically [40]. Variant P.  ovale is associated with a higher parasite density in humans. A recent study of 55 P.  ovale isolates from around the world showed that variant and classic P. ovale co-exist and do not recombine [41].
+Plasmodium  ovale causes  a  relatively  mild  form  of  malaria  that  is very rarely severe (ARDS) or fatal (death caused by splenic rupture reported). The most frequent symptoms are fever with temperatures higher  than  38.5°C  (seen  in  half  the  cases),  body  aches,  chills, nausea, abdominal pain, diarrhea and nonproductive cough. Mild heptomegaly  and  splenomegaly,  thrombocytopenia  lower  than 100,000/mm 3 , elevation in hepatic  enzymes (AST/ALT) and  mild
+
+TABLE 96-5 Trials of Adjuvant Therapy in Complicated Malaria
+
+============================================================
+CHUNK 74
+============================================================
+PLASMODIUM OVALE
+Dexamethasone, Pathogenic Target = Cerebral edema. Dexamethasone, Impact = No eSect/deleterious eSect. Dexamethasone, Recommendation = Not recommended currently. Dexamethasone, Reference = [87, 88]. Intravenous immune globulin, Pathogenic Target = Reverse sequestration. Intravenous immune globulin, Impact = Sequential trial, halted because superiority was unlikely. Intravenous immune globulin, Recommendation = Not recommended. Intravenous immune globulin, Reference = [89]. Phenobarbital, Pathogenic Target = Seizure prophylaxis. Phenobarbital, Impact = Adverse eSect when administered to all patients with cerebral malaria. Phenobarbital, Recommendation = Not recommended for use on all patients, but should be considered in those with a documented history of seizures. Phenobarbital, Reference = [32]. Mannitol, Pathogenic Target = Cerebral edema. Mannitol, Impact = No eSect on outcome. Mannitol, Recommendation = Not recommended currently. Mannitol, Reference = [90, 91]. Erythropoietin, Pathogenic Target = Neuroprotection, anti-cytokine. Erythropoietin, Impact = In progress. Erythropoietin, Recommendation = Await outcome of study. Erythropoietin, Reference = [92]. Desferrioxamine, Pathogenic Target = Inhibit parasite growth, protect against free radical- mediated damage. Desferrioxamine, Impact = No impact on outcome. Desferrioxamine, Recommendation = Not recommended. Desferrioxamine, Reference = [93, 94]. Dichloroacetate, Pathogenic Target = Lactic acidosis. Dichloroacetate, Impact = Positive impact on lactic acidosis, unknown eSect on mortality. Dichloroacetate, Recommendation = Not used routinely. Dichloroacetate, Reference = [95]. Anti-tumor necrosis factor antibody, Pathogenic Target = Cytokine cascade. Anti-tumor necrosis factor antibody, Impact = Positive impact on fever, but no eSect on outcome. Anti-tumor necrosis factor antibody, Recommendation = Not recommended. Anti-tumor necrosis factor antibody, Reference = [96].
+
+============================================================
+CHUNK 75
+============================================================
+PLASMODIUM OVALE
+L-arginine, Pathogenic Target = Improve endothelial cell function, generate nitric oxide. L-arginine, Impact = In progress. L-arginine, Recommendation = Await outcome of study. L-arginine, Reference = [97]. N -acetylcysteine, Pathogenic Target = Antioxidant. N -acetylcysteine, Impact = No eSect noted on multiple outcome indicators. N -acetylcysteine, Recommendation = Not recommended. N -acetylcysteine, Reference = [98]. Activated charcoal, Pathogenic Target = Immune modulation. Activated charcoal, Impact = Prevents CM in mice, does not interfere with artesunate kinetics in healthy volunteers. Activated charcoal, Recommendation = Await outcome of study. Activated charcoal, Reference = [99]. Crystalloids vs. colloids, Pathogenic Target = Intravascular volume depletion and acidosis. Crystalloids vs. colloids, Impact = Intravenous Ruid boluses were found to be deleterious. Crystalloids vs. colloids, Recommendation = Fluid boluses in moderately dehydrated patients are not recommended. Crystalloids vs. colloids, Reference = [35]. Pentoxifylline, Pathogenic Target = Inhibition of TNF. Pentoxifylline, Impact = Trend toward improved survival in earlier studies, not substantiated subsequently. Pentoxifylline, Recommendation = Not recommended. Pentoxifylline, Reference = [100-104]. Levamisole, Pathogenic Target = Inhibit sequestration. Levamisole, Impact = Trial underway. Levamisole, Recommendation = Await outcome of study. Levamisole, Reference = [29, 30]. Exchange blood transfusion, Pathogenic Target = Enhance parasite clearance. Exchange blood transfusion, Impact = Improved parasite clearance times, no impact on outcome. Exchange blood transfusion, Recommendation = Worth a try only in settings where intravascular volume can be monitored. Exchange blood transfusion, Reference = [105, 106]
+Source for trials currently underway: http://www.controlled-trials.com (accessed 13 Mar 2011).
+CM, cerebral malaria; TNF, tumor necrosis factor.
+
+============================================================
+CHUNK 76
+============================================================
+PLASMODIUM OVALE
+TABLE 96-6 Endemicity
+
+Spleen rate: 2-9 years, Hypoendemic = 0-10%. Spleen rate: 2-9 years, Mesoendemic = 11-50%. Spleen rate: 2-9 years, Hyperendemic = > 50%. Spleen rate: 2-9 years, Holoendemic = > 75%. Spleen rate: 2-9 years, Reference = [83]. Parasite prevalence: 2-9 years, Hypoendemic = 0-10%. Parasite prevalence: 2-9 years, Mesoendemic = 11-50%. Parasite prevalence: 2-9 years, Hyperendemic = > 50%. Parasite prevalence: 2-9 years, Holoendemic = > 75%. Parasite prevalence: 2-9 years, Reference = . Stability, Hypoendemic = Unstable. Stability, Mesoendemic = . Stability, Hyperendemic = Stable. Stability, Holoendemic = . Stability, Reference = [84]. Types of epidemic, Hypoendemic = True. Types of epidemic, Mesoendemic = Exaggerated seasonal. Types of epidemic, Hyperendemic = . Types of epidemic, Holoendemic = . Types of epidemic, Reference = [85]. Entomological Inoculation Rate (EIR), Hypoendemic = < 0.25. Entomological Inoculation Rate (EIR), Mesoendemic = 0.25-10. Entomological Inoculation Rate (EIR), Hyperendemic = 11-140. Entomological Inoculation Rate (EIR), Holoendemic = > 140. Entomological Inoculation Rate (EIR), Reference = [86]
+The degree of endemic malaria is determined by examination of a statistically signiQcant sample of a population and is assessed and classiQed as in the Table.
+hyperbilirubinemia are seen in about 50% of patients. The hemoglobin count tends to be normal. The undifferentiated febrile clinical presentation cannot be distinguished from other malarias.
+
+============================================================
+CHUNK 77
+============================================================
+PLASMODIUM OVALE
+Plasmodium ovale is  considered a relapsing malaria [42]. However, the  relapse  frequency  and  relapse  interval  of P.  ovale is  poorly described. Recently, the  existence  of a  true  hypnozoite in P.  ovale malaria has been questioned [43]. The existence of P. ovale hypnozoites  has  never  been  proven  by  biologic  experiments.  On  one hand, indirect evidence of the existence of hypnozoites, i.e. reports on  the  occurrence  of  true  relapses  undoubtedly  caused  by  this parasite is rare; true P. ovale relapses have been reported only occasionally.  On  the  other  hand, P.  ovale cases  reported  without  any preventive  medication  where  relapses  did  not  occur  outnumber reported relapses caused by this parasite. If true hypnozoites exist then the relapse frequency must be very low.
+
+============================================================
+CHUNK 78
+============================================================
+DIAGNOSIS
+There tends to be lower initial parasitemias ( < 500 parasites per μ l) with P. ovale malaria, making the diagnosis by routine microscopy insensitive. Plasmodium ovale and P. vivax can be difficult to distinguish morphologically by oil immersion microscopy. Mixed infections, especially in endemic areas, are common. In endemic regions where P.  falciparum and/or P.  vivax predominate, P.  ovale is  frequently overlooked. For more accurate diagnosis and estimates of the burden of P. ovale infections, more sensitive diagnostic methods are needed [44].
+Plasmodium  ovale malaria  is  currently  problematic  to  diagnose in travelers,  with  early  attempts  complicated  by  the  lack of specific clinical features, the rarity of biologic changes and the poor sensitivity of diagnostic tools to detect low parasitaemia. Thus, the diagnosis is commonly delayed or missed.
+Molecular diagnosis and differentiation of the two subspecies can be accomplished with PCR protocols in reference laboratories [45], but  the  genetic  polymorphisms  of  the  two  subspecies  require appropriate protocols [46].
+Rapid diagnostic tests (RDTs) have not been developed to detect P. ovale , and the performance of currently-available RDTs varies greatly in  their  capability  to  detect P.  ovale parasites.  Sensitivity  varies between 0% and 80%, with parasite density a key factor [47-50]. A negative RDT test result cannot exclude the diagnosis of P. ovale malaria.
+
+============================================================
+CHUNK 79
+============================================================
+TREATMENT
+Chloroquine at 25 mg/kg divided over three days is the treatment of choice if a mono-infection with P. ovale is confirmed. Artemisinin combination treatments (ACTs) are effective and could be used in settings of diagnostic uncertainty. Currently, a radical cure dose of 30 mg primaqine base (0.5 mg/kg) by mouth daily for 14 days is recommended to eliminate hypnozoites; however, note the controversy in this regard above. Use of lower dose primaquine has been associated with therapeutic failures and recurrent P.  ovale malaria [51].
+
+============================================================
+CHUNK 80
+============================================================
+PLASMODIUM MALARIAE
+Plasmodium malariae was first described by Golgi in 1886 when he noted the relationship between the 72-hour lifecycle of the parasite in the blood of patients and the corresponding appearance of fever and  chills  (the  paroxysm)  [52].  Fever  caused  by P.  malariae was historically known as 'quartan malaria' because of the appearance of fever every fourth day (assuming the first day of fever is day 1). Plasmodium malariae has  been reported from all continents but is only relatively common in tropical Africa and the Southwest Pacific. The prevalence of P. malariae varies from less than 1% to as high as 30-40%  in  focal  areas  of  West  Africa  and  Indonesia  based  on standard light microscopy detection of parasites on thick films. In the endemic communities, P. malariae is a common cause of morbidity with the highest incidence of febrile episodes among children  less  then  10  years  old.  As  febrile  episodes  are  often  treated empirically and the confirmation of low-density P.  malariae infections  by  mi  croscopy  is  difficult,  the  true  incidence  of P.  malariae malaria is underestimated.
+Plasmodium  malariae is  unique  in  that  without  treatment,  blood stage parasites persist for  extremely  long periods of time -  likely the lifetime of the host. The persistent, low-density parasitemia in otherwise healthy individuals may produce distinctive clinical features, or individuals may be so asymptomatic that they qualify as blood  donors.  This  is  why P.  malariae causes  about  25% [53]  of transfusion related cases of malaria although it accounts for only 1-2% of imported cases of malaria [54].
+Likewise,  asymptomatic persons can re-introduce P.  malariae into previously  malaria-free  areas  [55].  Years  later,  when  carriers  are immunosuppressed with drugs [56] or stressed by surgery [57], the parasites can recrudesce and they become symptomatic with typical symptoms of malaria.
+The most important and unique feature of prolonged P.  malariae parasitemia  is  an  irreversible,  immune-mediated,  nephrotic  symdrome first noted in West Africa in the 1960s [58, 59]. Nephrotic syndrome caused by P. malariae can also present outside of malaria endemic areas years after the last exposure [60].
+
+============================================================
+CHUNK 81
+============================================================
+CLINICAL PRESENTATION
+Plasmodium malariae is a relatively mild form of malaria, although the initial paroxysms can be similar to those seen with P. falciparum and P.  vivax .  The  undifferentiated  febrile presentation  is indistinguishable from other malarias. Deaths associated with P.  malariae are not from acute infection but rather caused by end-stage renal disease [61].
+The nephrotic syndrome associated with chronic P. malariae is  caused by  an  immune  complex,  basement  membrane  nephropathy  and presents  no  differently  from  nephrotic  syndrome  associated  with other causes. Usually, there is a several-month history of progressively worsening lower extremity edema, frothy urine, hyper  tension and multiple abnormal laboratory findings including proteinuria, hypoalbuminemia,  hyperlipidemia,  high  serum  creatinine  and anemia. Renal biopsy is usually required to confirm the diagnosis and properly guide management [61]. Plasmodium malariae as  the true cause of the nephrotic syndrome may be very difficult to diagnose because the patients may have exceedingly low parasitemias and negative rapid diagnostic test (RDT) results. Parasitologic confirmation in this syndrome requires exhaustive, expert, microscopic review of smears and carefully directed molecular methods [60].
+
+============================================================
+CHUNK 82
+============================================================
+DIAGNOSIS
+The  preferred  diagnostic  method  to  confirm P.  malariae remains traditional Giemsa-stained thick and thin peripheral blood smears. In the growing parasite, pigment increases rapidly with many jetblack  granules.  The  trophozoite  assumes  variable  shapes  but often stretches across the width of the red blood cell to appear as a 'band form' (see Fig. 96.3), which is often considered diagnostic, although this band form can be seen with other species, especially P. knowlesi and P. inui . Red blood cells infected with trophozoites of P. malariae parasites are not enlarged and do not contain prominent stippling, which distinguishes them from P. vivax and P. ovale [62].
+When considering the microscopic diagnosis of P.  malariae ,  three considerations should be kept in mind:
+- there tends to be lower initial and maximal parasitemias with P. malariae than  with  other  species  because  the  number  of  merozoites  per  red  blood  cell  replication  cycle  is  lower  (6-14),  the
+●
+- three-day  versus  two-day  developmental  cycle  produces  slower growth, and P. malariae 's preference for older red blood cells limits the number of cells that can be infected [62];
+- in endemic regions where P. falciparum and/or P. vivax predominate, mixed infections are the rule and P.  malariae is  frequently overlooked  unless  more  sensitive  diagnostic  methods,  such  as molecular diagnostic tests, are used [63];
+- even  careful  microscopic  examination  may  not  be  sufficient to morphologically distinguish P.  knowlesi -  an  emerging cause of severe and potentially fatal malaria in Southeast Asia - from P. malariae on the peripheral smear [64]. Molecular methods may be needed to confirm the diagnosis of P. malariae where the two parasite distributions overlap.
+
+============================================================
+CHUNK 83
+============================================================
+DIAGNOSIS
+RDTs for malaria are not developed to specifically diagnose P. malariae, and the detection of parasites relies on various panPlasmodium capture reagents not specifically optimized for P. malariae . The performance  of  currently  available  RDTs  varies  greatly  (0-100%)  in their capability to detect P.  malariae parasites. Clinical studies are usually designed to evaluate the sensitivity and specificity of RDTs for P. falciparum and P. vivax , and small numbers of P. malariae are encountered and reported. Whether the poor sensitivity is because of the very low parasitemias (and presumably low antigen levels) in patients or because of the lack of cross-reaction with the capture reagents is not known. A negative RDT test result cannot exclude the diagnosis of P. malariae malaria.
+Molecular  testing  is  not  commercially  available  or  standardized, and results may vary based on regional differences in target gene sequences; caution should be used when relying solely on molecular results to make clinical decisions. As also seen in P.  ovale ,  the targets  of P.  malariae molecular  probes  may  exhibit  geographic variation  suggesting  subspecies  of P.  malariae [65]  and  an  additional reason why PCR reactions could yield a false-negative result.
+
+============================================================
+CHUNK 84
+============================================================
+TREATMENT
+The  treatment  of  choice  for  the  typical,  uncomplicated  febrile illness associated with P. malariae mono-infection is chloroquine at 25 mg/kg total dose divided over three days. Artemisinin combination  treatments  (ACTs),  as  well  as  other  anti-malarial  drugs,  are effective and could be used in settings of diagnostic uncertainty.
+Clinicians should be aware of the possibility of occasional recurrent parasitemias  with  clinical  symptoms  following  treatment  with  a standard course  of  chloroquine [66]. These cases  likely  represent delayed  parasite  clearance  rather  than  true  resistance.  There  is  a 16-59 day range in the length of the pre-patent period in experimental mosquito transmitted P. malariae [62] and it is thought that some  parasites  could  emerge  from  the  liver  days  or  weeks  after treatment is  initiated when drug levels are inadequate to prevent parasitemia [67]. On such occasions, either re-treatment with a full treatment course of chloroquine or another standard anti-malarial treatment regimen would be satisfactory.
+Treating the  underlying P.  malariae in  fully  established  nephrotic syndrome does not improve renal function, as segmental sclerosis and  hyalinization  of  the  nephron  are  irreversible.  These  patients often become hemodialysis dependent. To prevent end-stage renal disease, P.  malariae must be considered, diagnosed and effectively treated as soon as renal symptoms develop [61].
+
+============================================================
+CHUNK 85
+============================================================
+PLASMODIUM KNOWLESI
+Plasmodium  knowlesi is  primarily  a  parasite  infecting  macaque monkeys. Sporadic human infections, generally linked to macaque exposures,  were  the  rule  [68],  (aside  from  a  brief  flirtation  with P. knowlesi as malaria therapy for syphilis in the 1930s [69]), until a 2004 outbreak of 'hyperparasitemic P. malariae ' in the Kapit division of Malaysian Borneo was confirmed as P. knowlesi using molecular  methods  [70]. Plasmodium  knowlesi is  now  established  as  a
+common cause of malaria on the Malaysian Peninsula in particular, and in Southeast Asia in general, especially in populations living in close proximity to the simian reservoir [81].
+The most common clinical syndrome is a febrile illness, indistinguishable  from  uncomplicated  falciparum  malaria,  but  a  small proportion of patients ( < 10%) progress to severe and complicated disease,  in  which  respiratory  distress  (ARDS)  and  renal  failure feature  more  prominently  than  in  severe  falciparum malaria [68, 71-74]. In contrast to falciparum malaria, coma is a relatively rare  complication  of  infection  with P.  knowlesi .  Surprisingly,  the salient  findings  in  the  one  case  of  fatal P.  knowlesi malaria  that was  autopsied  are  similar  to  fatal  falciparum  malaria:  there  was selective  accumulation  of  parasitized red cells  in  the  brain, heart and  kidneys,  the  brain  was  slate  gray  in  color  and  there  were petechial hemorrhages scattered through the cerebrum and cerebellum [75]. Plasmodium knowlesi is a quotidian parasite, undergoing asexual replication every 24 hours, which may explain the relatively high  incidence  of  severe  anemia  [73].  Thrombocytopenia,  often profound, is nearly a constant feature in P. knowlesi infections, but no  clinically  evident  coagulopathies  have  been  reported [71-74]. The disease in children is fairly similar to that in adults, but there is  one  striking  contrast  in  pediatric  infections  with P.  knowlesi compared  with P.  falciparum :  pediatric P.  knowlesi infection  is restricted to school-age children, whereas falciparum malaria affects all ages [72].
+
+============================================================
+CHUNK 86
+============================================================
+PLASMODIUM KNOWLESI
+Microscopically, P.  knowlesi resembles P.  falciparum young  ring stages and P. malariae in the mature trophozoite blood stages, therefore  a  high  index  of  suspicion  and  judicious  use  of  molecular methods are required to establish the diagnosis definitively [76]. Median parasitemias are typically approximately 1400 parasites per microliter (interquartile range 6-250,000) [71]. To date, there is no evidence that P. knowlesi is a relapsing malaria and, thus far, treatment with a  wide variety of anti-malarial  drugs (quinine, artesunate, various artemisinin combination therapies [ACTs], mefloquine, with and without primaquine) have been successful [71-74].
+Plasmodium  knowlesi malaria  has  been  called  the  'fifth  human malaria',  but  there  is,  as  yet,  no  definitive  evidence  for  cyclical transmission by mosquitoes from human to human. Without this evidence,  it  remains  a  simian  malaria  with  occasional  zoonotic human infections [77].  Analysis  of  archival  blood  films  suggests that P.  knowlesi has infected humans for many years in Malaysian Borneo [78] and recent epidemiologic studies suggest that macaque monkeys are the reservoir host [79]. The recent upsurge in clinical episodes may be related to changes in human exposure to monkeys, deforestation and a decline in P. vivax infections [80].
+
+============================================================
+CHUNK 87
+============================================================
+DIAGNOSIS
+Plasmodium knowlesi infections are limited to areas where humans (local residents or travelers) are near the reservoir hosts: long-tailed (Macaca fasciularis )  and pig-tailed macaques ( Macaca nemestrina ). Microscopic identification of a malaria infection is the first step, but because of the morphologic similarities between P.  falciparum,  P. malariae and P. knowlesi, the definitive diagnosis of P. knowlesi rests on molecular detection using a nested PCR technique [14]. Combinations of rapid diagnostic tests (RDTs) can be used to increase diagnostic certainty, but there is no RDT specifically for P. knowlesi at this time.
+
+============================================================
+CHUNK 88
+============================================================
+TREATMENT
+This  parasite  has  been  subjected  to  less  drug  pressure  than  any other  malaria  parasite  infecting  humans  and  has  been  fully  susceptible  to  a  broad  range  of  anti-malarial  drugs  administered according to standard oral and parenteral regimens (chloroquine, quinine, artemether-lumefantrine, artesunate [71-74]). Primaquine  has  been  used  as  presumptive  anti-relapse  treatment, but there is no evidence of  a  hypnozoite stage, so it may not be necessary [74].
+
+============================================================
+CHUNK 89
+============================================================
+REFERENCES
+1. Carter R, Mendis KN. Evolutionary and historical aspects of the burden of malaria. Clin Microbiol Rev 2002;15:564-94.
+2. Cox-Singh J, Davis TM, Lee KS, et al. Plasmodium knowlesi malaria in humans is widely distributed and potentially life threatening. Clin Infect Dis 2008; 46:165-71.
+3. Hay SI, Guerra CA, Gething PW, et al. A world malarial map: Plasmodium falciparum endemicity in 2007. PLoS Med 2009;6:e1000048.
+4. Kublin JG, Patnaik P, Jere CS, et al. Effect of Plasmodium falciparum malaria on concentration of HIV-1-RNA in the blood of adults in rural Malawi: a prospective cohort study. Lancet 2005;365:233-40.
+5. Laufer MK, van Oosterhout JJ, Thesing PC, et al. Impact of HIV-associated immunosuppression on malaria infection and disease in Malawi. J Infect Dis 2006:193:872-8.
+6. O'Meara WP, Bejon P, Mwangi TW, et al. Effect of a fall in malaria transmission  on  morbidity  and  mortality  in  Kilifi,  Kenya.  Lancet  2008;372: 1555-62.
+7. Pongponratn E, Riganti M, Punpoowong B, Aikawa M. Microvascular sequestration of parasitized erythrocytes in human falciparum malaria: a pathological study. Am J Trop Med Hyg 1991;44:168-75.
+8. Willcox  ML,  Forster  M,  Dicko  MI,  et  al.  Blood  glucose  and  prognosis  in children with presumed severe malaria: is there a threshold for 'hypoglycaemia'? Trop Med Int Health 2010;15:232-40.
+9. Haldar K, Murphy SC, Milner DA, Taylor TE. Malaria: mechanisms of erythrocytic  infection  and  pathological  correlates  of  severe  disease.  Annu  Rev Pathol 2007;2:217-49.
+
+============================================================
+CHUNK 90
+============================================================
+REFERENCES
+10. Elsheikha HM, Sheashaa HA. Epidemiology, pathophysiology, management and  outcome  of  renal  dysfunction  associated  with  plasmodia  infection. Parasitol Res 2007;101:1 183-90.
+11. Idro R, Jenkins NE, Newton CR. Pathogenesis, clinical features, and neurological outcome of cerebral malaria. Lancet Neurol 2005;4:827-40.
+12. Reyburn H, Mbatia R, Drakeley C, et al. Overdiagnosis of malaria in patients with severe febrile illness in Tanzania: a prospective study. BMJ 2004;329: 1212.
+13. Taylor  SM, Molyneux ME, Simel D, et al. Does this patient have malaria? JAMA 2010;304:2048-56.
+14. Molyneux ME, Taylor TE, Wirima JJ, Borgstein A. Clinical features and prognostic  indicators  in  paediatric  cerebral  malaria:  a  study  of  131  comatose Malawian children. Q J Med 1989:71:441-59.
+15. World Health Organization. Severe falciparum malaria. Trans Roy Soc Trop Med Hyg 2000;94(suppl. 1):S1-90.
+16. Markley JD. Post-malaria neurological syndrome: a case report and review of the literature. J Travel Med 2009;16:424-30.
+17. Fried  M,  Duffy  PE.  Adherence  of Plasmodium  falciparum to  chondroitin sulfate A in the human placenta. Science 1996;272:1502-4.
+18. Diagne  N,  Roger  C,  Sokhan  CS,  et  al.  Increased  susceptibility  to  malaria during the early postpartum period. N Engl J Med 2000;343:598-603.
+19. Kitchen AD, Chiodini PL. Malaria and blood transfusion. Vox Sang 2006; 90:77-84.
+20. World Health Organization guidelines for the treatment of malaria. Geneva: World  Health  Organization;  2010.  Available  at:  http://whqlibdoc.who. int/publications/2010/9789241547925_eng.pdf (accessed 6 November 2011).
+
+============================================================
+CHUNK 91
+============================================================
+REFERENCES
+21. Malaria rapid diagnostic test performand - results of WHO product testing of  malaria RDTs: Round 3 (2010-2011).  Available at:  http://apps.who.int/ tdr/svc/publications/tdr-research-publications/rdt_round3.
+22. Smith T, Schellenberg JA, Hayes R. Attributable fraction estimates and case definitions for malaria in endemic areas. Stat Med 1994;13:2345-58.
+23. Berkley  J,  Mwarumba  S,  Bramham  K,  Lowe  B.  Bacteraemia  complicating severe malaria in children. Trans R Soc Trop Med Hyg 1999;93:283-6.
+24. Bronzan RN, Taylor TE, Mwenechanya J, et al. Bacteremia in Malawian children with severe malaria: prevalence, etiology, HIV coinfection, and outcome. J Infect Dis 2007;195:895-904.
+25. Taylor TE, Fu WJ, Carr RA, et al. Differentiating the pathologies of cerebral malaria by postmortem parasite counts. Nat Med 2004;10:143-5.
+26. Beare NA, Taylor TE, Harding SP, et al. Malarial retinopathy: a newly established  diagnostic  sign  in  severe  malaria.  Am  J  Trop  Med  Hyg  2006;75: 790-7.
+27. Beare NA, Lewallen S, Taylor TE, Molyneux ME. Redefining cerebral malaria by including malaria retinopathy. Future Microbiol 201 1;6:349-55.
+28. Bassat Q, Machevo S,  O'Callaghan-Gordo C, et al. Distinguishing malaria from  severe  pneumonia  among  hospitalized  children  who  fulfilled  integrated management of childhood illness criteria for both diseases: a hospitalbased study in Mozambique. Am J Trop Med Hyg 2011;85:626-34.
+29. Dondorp  A,  Nosten  F,  Stepniewska  K,  Day  N,  White,  South  East  Asian Quinine Artesunate Malaria Trial (SEAQUAMAT) group. Artesunate versus quinine  for  treatment  of  severe  falciparum  malaria:  a  randomised  trial. Lancet 2005;366:717-25.
+
+============================================================
+CHUNK 92
+============================================================
+REFERENCES
+30. Dondorp AM, Fanella CF, Hendriksen KDE, et al. Artesunate versus quinine in the treatment of severe falciparum malaria in African children (AQUAMAT); an open-label, randomized trial. Lancet 2010;376:1647.
+31. Nosten F, Vincenti M, Simpson J, et al. The effects of mefloquine treatment in pregnancy. Clin Infect Dis 1999;28:808-15.
+32. Crawley J, Waruiru C, Mithwani S, et al. Effect of phenobarbital on seizure frequency and mortality in childhood cerebral malaria: a randomised, controlled intervention study. Lancet 2000;355:701.
+33. Marsh K, Forster D, Waruiru C, et al. Indicators of life-threatening malaria in African children. N Engl J Med 1995;332:1399-404.
+34. Molyneux EM, Maitland K. Intravenous fluids - getting the balance right. N Engl J Med 2005;353:941-4.
+35. Maitland K, Kiguli S, Opoka RO, et al; the FEAST Trial Group. Mortality after fluid  bolus  in  african  children  with  severe  infection.  N  Engl  J  Med  201 1; 364:2483-95.
+36. Day N, Dondorp AM. The management of patients with severe malaria. Am J Trop Med Hyg 2007;77(suppl. 6):29-35.
+37. Phu NH, Hien TT, Mai NT, et al. Hemofiltration and peritoneal dialysis in infection-associated  acute  renal  failure  in  Vietnam.  N  Engl  J  Med  2002; 247:895-902.
+38. Stephens  JWW.  A  new  malaria  parasite  of  man.  Ann  Trop  Med  1922;16: 383-8.
+39. Petersen E, Hogh B, Marbiah NT, et al. A longitudinal study of antibodies to the Plasmodium falciparum antigen  Pf155/RESA  and  immunity to malaria infection in adult Liberians. Trans R Soc Trop Med Hyg 1990;84: 339-45.
+
+============================================================
+CHUNK 93
+============================================================
+REFERENCES
+40. Win TT, Jalloh A, Tantular IS, et al. Molecular analysis of Plasmodium ovale variants. Emerg Infect Dis 2004;10:1235-40.
+41. Sutherland CJ, Tanomsing N, Nolder D, et al. Two nonrecombining sympatric  forms  of  the  human  malaria  parasite Plasmodium  ovale occur  globally. J Infect Dis 2010;201:1544-50.
+42. Collins WE, Jeffery GM. Plasmodium ovale : parasite and disease. Clin Microbiol Rev 2005;18:570-81.
+43. Richter J, Franken G, Mehlhorn H, et al. What is the evidence for the existence of Plasmodium ovale hypnozoites? Parasitol Res 2010;107:1285-90.
+44. Mueller I, Zimmerman PA, Reeder JC. Plasmodium malariae and Plasmodium ovale - the 'bashful' malaria parasites. Trends Parasitol 2007;23:278-83.
+45. Oguike MC, Betson M, Burke M, et al. Plasmodium ovale curtisi and Plasmodium ovale wallikeri circulate  simultaneously in  African  communities. Int J Parasitol 201 1;41:677-83.
+46. Calderaro A, Piccolo G, Perandin F, et al. Genetic polymorphisms influence Plasmodium ovale PCR  detection accuracy. J Clin  Microbiol  2007;45: 1624-7.
+47. Win TT, Tantular IS, Pusarawati S, et al. Detection of Plasmodium ovale by the  ICT  malaria P.f/P.v.  immunochromatographic  test. Acta Trop  2001;80: 283-4.
+48. Bigaillon C, Fontan E, Cavallo JD, et al. Ineffectiveness of the Binax NOW malaria  test  for  diagnosis  of Plasmodium  ovale malaria.  J  Clin  Microbiol 2005;43:1011.
+49. Marx A, Pewsner D, Egger M, et al. Meta-analysis: accuracy of rapid tests for malaria in travelers  returning  from  endemic areas.  Ann Intern Med 2005; 142:836-46.
+
+============================================================
+CHUNK 94
+============================================================
+REFERENCES
+50. Grobusch MP, Hanscheid T, Zoller T, et al. Rapid immunochromatographic malarial antigen detection unreliable for detecting Plasmodium malariae and Plasmodium ovale . Eur J Clin Microbiol Infect Dis 2002;21:818-20.
+51. Bottieau E, van Gompel A, Peetermans WE. Failure of primaquine therapy for  the  treatment  of Plasmodium  ovale malaria.  Clin  Infect  Dis  2005;41: 1544-5.
+52. Golgi C. Malarial infection. Arch Sci Med 1886;10:109-35.
+53. Mungai M, Tegtmeier G, Chamberland M, Parise M. Transfusion-transmitted malaria in the United States from 1963 through 1999. N Engl J Med 2001; 344:1973-8.
+54. Mali  S,  Steele  S,  Slutsker  L,  Arguin  PM;  Centers  for  Disease  Control  and Prevention (CDC). Malaria surveillance-United States, 2008. MMWR Surveill Summ 2010;59:1-15.
+55. Tikasingh E, Edwards C, Hamilton PJ, et al. A malaria outbreak due to Plasmodium malariae on  the Island of Grenada. Am J Trop Med Hyg 1980;29: 715-9.
+56. Vinetz JM, Li J, McCutchan TF, Kaslow DC. Plasmodium malariae infection in an  asymptomatic  74-year-old  Greek  woman  with  splenomegaly.  N  Engl  J Med 1998;338:367-71.
+57. Chadee DD, Tilluckdharry CC, Maharaj P, Sinanan C. Reactivation of Plasmodium malariae infection in a Trinidadian man after neurosurgery. N Engl J Med 2000;342:1924.
+58. Gilles HM, Hendrickse RG. Possible aetiological role of Plasmodium malariae in 'nephrotic syndrome' in Nigerian children. Lancet 1960;i:806-7.
+59. Abdurrahman  MB,  Greenwood  BM,  Narayana  P,  et  al.  Immunological aspects of nephrotic syndrome in Northern Nigeria. Arch Dis Child 1981; 56:199-202.
+
+============================================================
+CHUNK 95
+============================================================
+REFERENCES
+60. Hedelius R, Fletcher JJ, Glass WF, II, et al. Nephrotic syndrome and unrecognized Plasmodium  malariae infection  in  a  US  Navy  sailor  14  years  after departing Nigeria. J Travel Med 201 1;18:288-91.
+61. Eiam-Ong S. Malarial nephropathy. Semin Nephrol 2003;23:21-33.
+62. Collins  WE,  Jeffery  GM. Plasmodium  malariae :  parasite  and  disease.  Clin Microbiol Rev 2007;20:579-92.
+63. Mueller I, Zimmerman PA, Reeder JC. Plasmodium malariae and Plasmodium malariae - the 'bashful' malaria parasites. Trends Parasitol 2007;23:278-83.
+64. Singh B, Kim Sung L, Matusop A, et al. A large focus of naturally acquired Plasmodium knowlesi infections in human beings. Lancet 2004;363:1017-24.
+65. Liu Q, Zhu S, Mizuno S, et al. Sequence variation in the small-subunit rRNA gene  of Plasmodium  malariae and  prevalence  of  isolates  with  the  variant sequence in Sichuan, China. J Clin Microbiol 1998;36:3378-81.
+66. Maguire JD, Baird JK. The 'non-falciparum' malarias: the roles of epidemiology, parasite biology, clinical syndromes, complications and diagnostic rigour in guiding therapeutic strategies. Ann Trop Med Parasitol 2010;104:283-301.
+67. Mü ller-Stö ver I, Verweij JJ, Hoppenheit B, et al. Plasmodium malariae infection in  spite  of  previous  anti-malarial  medication.  Parasitol  Res  2008;102: 547-50.
+68. Maguire JD, Baire JK. The 'non-falciparum' malarias: the role of epidemiology, parasite biology, clinical syndromes, complications and diagnostic rigour in guiding therapeutic strategies. Ann Trop Med Parasitol 2010;104:283-301.
+69. Nicol WE. Malaria in general paresis of the insane. BMJ 1935;2:760.
+
+============================================================
+CHUNK 96
+============================================================
+REFERENCES
+70. Singh B, Kim Sung L, Matusop A, et al. A large focus of naturally acquired Plasmodium knowlesi infections in human beings. Lancet 2004;363;1017-24.
+71. Daneshvar C, Davis TME, Cox-Singh J, et al. Clinical and laboratory features of human Plasmodium knowlesi infection. Clin Inf Dis 201 1;52:1356-62.
+72. Barber BE, William T, Jikal M, et al. Plasmodium knowlesi in  children.  EID 2011;17:814-20.
+73. William T, Menon J, Rajahram G, et al. Severe Plasmodium knowlesi malaria in a tertiary care hospital, Sabah, Malayasia. EID 201 1;17:1248-55.
+74. Kantele  A,  Jokiranta  TS.  Review  of  cases  with  the  emerging  fifth  human malaria parasite, Plasmodium knowlesi . Clin Inf Dis 2011;52:1256-362.
+75. Cox-Singh J, Hiu J, Lucas SB, et al. Severe malaria - a case of fatal Plasmodium knowlesi infection with post-mortem findings: a case report. Mal J 2010; 9:10.
+76. Lee K-S, Cox-Singh J, Singh B. Morphological features and differential counts of Plasmodium knowlesi parasites in naturally acquired human infections. Mal J 2009;8:73
+77. Collins  WE,  Barnwell  JW. Plasmodium  knowlesi :  Finally  being  recognized. J Inf Dis 2009;199:1107-8.
+78. Lee  K-S,  Cox-Singh  J,  Brooke  G,  et  al. Plasmodium  knowlesi from  archival blood films: further evidence that human infections are widely distributed and  not  newly  emergent  in  Malaysian  Borneo.  Int  J  Parasitol  2009;39: 1125-8.
+79. Lee K-S, Divis PCS, Zakaria SK, et al. Plasmodium knowlesi : reservoir hosts and tracking the emergence in humans and macaques. PLoS Pathogens 2011;7: e1002015.
+80. Cox-Singh J, Singh B. Knowlesi malaria: newly emergent and of public health importance? Trends Parasitol 2008;24:406-10.
+
+============================================================
+CHUNK 97
+============================================================
+REFERENCES
+81. Cox-Singh  J,  David  TME,  Lee  K-S,  et  al. Plasmodium  knowlesi malaria  in humans is widely distributed and potentially life-threatening. Clin Inf Dis 2008;46:165-71.
+82. White NJ. Malaria. In: Cook GC, Zumla A, eds. Manson's Tropical Diseases, 22nd edn. Saunders; 2009:1201-300.
+83. World Health Organization. Report of the Malaria Conference in Equatorial Africa (WHO Technical Report Series, No. 38). Geneva: World Health Organization; 1951.
+84. World Health Organization. 2005.
+85. World Health Organization. Prevention and control of malaria epidemics. Third  meeting  of  the  Technical  Support  Network,  10-11  December  2001 (WHO/CDS/RBM/2002.40). Geneva: World Health Organization; 2002.
+86. Beier JC, Killeen GF, Githure JI. Short report: entomologic inoculation rates and Plasmodium falciparum malaria prevalence in Africa. Am J Trop Med Hyg 1999;61:109-13.
+87. Warrell DA, Looareesuwan S, Warrell MJ, et al. Dexamethasone proves deleterious in cerebral malaria. A double-blind trial in 100 comatose patients. N Engl J Med 1982;306(6):313-19.
+88. Hoffman SL, Rustama D, Punjabi NH, et al. High-dose dexamethasone in quinine-treated  patients  with  cerebral  malaria:  a  double-blind,  placebocontrolled trial. J Infect Dis 1988;158:325-31.
+89. Taylor TE, Molyneux ME, Wirima JJ, et al. Intravenous immunoglobulin in the  treatment  of  paediatric  cerebral  malaria.  Clin  Exp  Immunol  1992; 90:357-62.
+90. Namutangula B, Ndeezi G, Byarugaba JS, Tumwine JK. Mannitol as adjunct therapy  for  childhood  cerebral  malaria  in  Uganda:  a  randomized  clinical trial. Malar J 2007;6:138.
+91. Mohanty S, et al. Brain swelling and mannitol treatment in adult cerebral malaria: a randomized trial. Clin Inf Dis 2011;53(4):349-55.
+
+============================================================
+CHUNK 98
+============================================================
+REFERENCES
+92. Picot, S (study in progress).
+93. Gordeuk V, Thuma P, Brittenham G, et al. Effect of iron chelation therapy on recovery from deep coma in children with cerebral malaria. N Engl J Med 1992;327(21):1473-7.
+94. Thuma PE, Mabeza GF, Biemba G, et al. Effect of iron chelation therapy on mortality in Zambian children with cerebral malaria. Trans R Soc Trop Med Hyg 1998;92:214-18.
+95. Agbenyega T, Planche T, Bedu-Addo G, et al. Population kinetics,  efficacy, and  safety  of  dichloroacetate  for  lactic  acidosis  due  to  severe  malaria  in children. J Clin Pharmacol 2003;43(4):386-96.
+96. van Hensbroek MB, Palmer A, Onyiorah E, et al. The effect of a monoclonal antibody  to  tumor  necrosis  factor  on  survival  from  childhood  cerebral malaria. J Infect Dis 1996;174:1091-7.
+97. Anstey, N (study in progress).
+98. Charunwatthana P, Abul Faiz M, Ruangveerayut R, et al. N-acetylcysteine as adjunctive treatment in severe malaria: a randomized, double-blinded placebo-controlled clinical trial. Crit Care Med 2009;37(2):516-22.
+99. De Souza JB, Okomo U, Alexander ND, et al. Oral activated charcoal prevents experimental cerebral malaria in mice and in a randomized controlled clinical trial in man did not interfere with the pharmacokinetics of parenteral artesunate. PLoS One 2010;5:e9687.
+100.  Di Perri G, Di Perri IG, Monteiro GB, et al. Pentoxifylline as a supportive agent  in  the  treatment  of  cerebral  malaria  in  children.  J  Infect  Dis  1995; 171(5):1317-22.
+
+============================================================
+CHUNK 99
+============================================================
+REFERENCES
+101.  Hemmer CJ, Hort G, Chiwakata CB, et al. Supportive pentoxifylline in falciparum malaria: no effect on tumor necrosis factor alpha levels or clinical outcome: a prospective, randomized, placebo controlled study. Am J Trop Med Hyg 1997;56:397-403.
+102.  Looareesuwan  S,  Wilairatana  P,  Vannaphan  S,  et  al.  Pentoxifylline  as  an ancillary treatment for severe falciparum malaria in Thailand. Am J Trop Med Hyg 1998;58:348-53.
+103.  Das BK, Mishra S, Padhi PK, et al. Pentoxifylline adjuvant improves prognosis  of  human  cerebral  malaria  in  adults.  Trop  Med  Int  Health  2003; 8:680-4.
+104.  Lell B, Kö hler C, Wamola B, et al. Pentoxifylline as an adjunct therapy with cerebral malaria. Malaria J 2010;9:368.
+105.  van  Genderen PJ, Hesselink  DA, Bezemer  JM,  et al.  Efficacy  and  safety  of exchange  transfusion  as  an  adjunct  therapy  for  severe  Plasmodium  falciparum malaria in nonimmune travelers: a 10-year single-center experience with a standardized treatment protocol. Transfusion 2010;50(4):787-94.
+106.  Riddle MS, Jackson JL, Sanders JW, Blazes DL. Exchange transfusion as an adjunct therapy in severe Plasmodium falciparum malaria: a meta-analysis. Clin Infect Dis 2002;34:1192-8.
+

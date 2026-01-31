@@ -1,0 +1,221 @@
+============================================================
+CHUNK 0
+============================================================
+REFERENCES
+1.  Davis  LE,  Beckham  JD,  T yler  KL.  North  American  encephalitic arboviruses. Neurol Clin 2008;26(3):727-57, ix.
+2.  Smith DWMJ, Weaver SC. Alphaviruses. In: Richman DDWR, Hayden FG, editors. Clinical virology. ASM Press; 2009. p. 1241-74.
+3.  Arrigo NC, Adams AP, Weaver SC. Evolutionary patterns of eastern equine encephalitis virus in North versus South America suggest ecological differences and taxonomic revision. J Virol 2010;84(2):1014-25.
+4.  Armstrong PM, Andreadis TG. Eastern equine encephalitis virus-old enemy, new threat. N Engl J Med 2013;368(18):1670-3.
+5.  Saxton-Shaw KD, Ledermann JP , Kenney JL, et al. The {rst outbreak of  eastern  equine  encephalitis  in  Vermont:  outbreak  description and  phylogenetic  relationships  of  the  virus  isolate.  PLoS  ONE 2015;10(6):e0128712.
+6.  Delfraro A, Burgueno A, Morel N, et al. Fatal human case of western equine encephalitis, Uruguay. Emerg Infect Dis 2011;17(5):952-4.
+7.  Morrison  AC,  Forshey  BM,  Notyce  D,  et al.  Venezuelan  equine encephalitis virus in Iquitos,  Peru: urban transmission of a sylvatic strain. PLoS Negl Trop Dis 2008;2(12):e349.
+
+============================================================
+CHUNK 1
+============================================================
+38.4 Japanese Encephalitis
+Tom Solomon
+
+============================================================
+CHUNK 2
+============================================================
+KEY FEATURES
+- Asia-Paci{c region and is spreading.
+- approximately 70,000 cases annually, 10,000 to 15,000 deaths, and sequelae common among survivors.
+- to aseptic meningitis and severe encephalitis.
+- should be paid to the complications of infection, such as seizures and raised intracranial pressure.
+- live-chimeric.
+
+============================================================
+CHUNK 3
+============================================================
+INTRODUCTION
+Outbreaks  of  encephalitis  were  {rst  described  in  Japan  in  the 1870s, and the disease now occurs across most of the Asia-Paci{c region (Fig. 38.4.1). It is numerically one of the most important causes of encephalitis globally. Japanese encephalitis virus (JEV) is  a  member of the genus Flavivirus, family  Flaviviridae , and is related to West Nile virus, Zika, dengue, and tick-borne encephalitis virus. The virus is zoonotic, being transmitted between wading birds and pigs and by rice paddy-breeding Culex mosquitoes which feed in the evenings and at night (Fig. 38.4.2). Recent experimental data suggest that transmission between pigs via oronasal secretions may also occur. 1 There have been recent large Japanese encephalitis outbreaks in India and neighboring countries, but disease control efforts by governments, supported by the World Health Organization, the Bill & Melinda Gates Foundation, and other partners, are having some impact. 2
+
+============================================================
+CHUNK 4
+============================================================
+EPIDEMIOLOGY
+The geographic area affected by JEV includes most countries of the Asia-Paci{c region, from Pakistan in the west and China in the north, to Australia in the southeast (see Fig. 38.4.1). In northern,
+8.  Adams AP, Navarro-Lopez R, Ramirez-Aguilar FJ, et al. Venezuelan equine encephalitis virus activity in the Gulf Coast region of Mexico, 2003-2010. PLoS Negl Trop Dis 2012;6(11):e1875.
+9.  Cupp EW, T ennessen KJ, Oldland WK, et al. Mosquito and arbovirus activity during 1997-2002 in a wetland in northeastern Mississippi. J Med Entomol 2004;41(3):495-501.
+10.  Rivas F,  Diaz  LA,  Cardenas  VM,  et al.  Epidemic  Venezuelan equine  encephalitis  in  La  Guajira,  Colombia,  1995.  J  Infect  Dis 1997;175(4):828-32.
+11.  Deresiewicz RL, Thaler SJ, Hsu L, Zamani AA. Clinical and neuroradiographic manifestations of eastern equine encephalitis. N Engl J Med 1997;336(26):1867-74.
+12.  Carrera JP, Forrester N, Wang E, et al. Eastern equine encephalitis in Latin America. N Engl J Med 2013;369(8):732-44.
+13.  Paessler S, Weaver SC. Vaccines for Venezuelan equine encephalitis. Vaccine 2009;27(Suppl. 4):D80-5.
+Fig. 38.4.1 Current distribution of Japanese encephalitis.
+temperate regions, the virus causes large outbreaks in the summer months, after the start of the rainy season. In equatorial, tropical regions  the  virus  causes  sporadic,  year-round  disease,  typically with a peak in the summer months. 3
+
+============================================================
+CHUNK 5
+============================================================
+EPIDEMIOLOGY
+Because the enzootic cycle is virtually impossible to avoid in rural Asia, almost everyone is infected during childhood, but only a  small  proportion  develops  disease-estimated  to  range  from about 1 in 300 to 1 in 1000. 4 The annual incidence of Japanese encephalitis is currently estimated at 68,000 cases, 5 but the {gure may have been as high as 175,000. 6 Previously, there have been very large outbreaks in China, but these have been reduced after more widespread use of vaccines (see later). In recent years, there have been large outbreaks in northern India and Nepal.
+The incidence of Japanese encephalitis varies across Asia from approximately 7 per 100,000 children in southern equatorial regions (e.g., Malaysia), to as high as 50 per 100,000 in northern regions (e.g., northern Thailand). 7-9 Although mostly a disease of children,
+Fig. 38.4.2 The transmission cycle of Japanese encephalitis virus.
+
+============================================================
+CHUNK 6
+============================================================
+BOX 38.4.1 Adult Considerations in Japanese Encephalitis
+In endemic areas, adults are at low risk of Japanese encephalitis, as they have already been exposed to the virus as children and have developed natural immunity. However, adults are at risk in three circumstances:
+- for the first time, adults are at risk because they are immunologically naïve.
+- also at risk, as they do not have prior immunity.
+- reflect waning immunity or other risk factors, such as cerebrovascular disease or hypertension.
+Compared with children, adults with Japanese encephalitis are:
+- to have psychiatric illness
+when  the  virus  arrives  in  new  regions,  adults  are  also  affected because they are immunologically naïve; similarly, adult travelers visiting Japanese encephalitis-endemic areas are at risk (Box 38.4.1). There were 55 cases in travelers reported from 17 countries in the 35 years up to 2008. 10 Some of the most important research on Japanese encephalitis occurred during American military activity in Asia through various con|icts. With more widespread use of vaccines, the epidemiology is changing.
+
+============================================================
+CHUNK 7
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+After the bite of an infected mosquito there is viremia followed by spread into the central nervous system (CNS). Viral replication in neurons is accompanied by an in|ammatory perivascular in{ltrate with  microglial  cell  activation,  formation  of  glial  nodules,  and necrotic 'Swiss cheese' lesions (Fig. 38.4.3). Pathologic changes are especially marked in the deep gray matter of the basal ganglia and the anterior horn cells of the spinal cord, thus giving correlates for the parkinsonism and |accid paralysis often seen clinically.
+The host response is thought to include an innate response, which may control infection even before viremia occurs and thus leads to asymptomatic infection, followed by antibody- and cellmediated immunity. By the time most patients arrive at the hospital, the virus cannot be detected in the blood or cerebrospinal |uid (CSF),  but  neutralizing  antibody  is  detectable  at  admission  or soon  after.  There  is  a  strong  pro-in|ammatory  cytokine  and chemokine response, both in the peripheral and central nervous systems.  T wenty  to  thirty  percent  of  children  with  Japanese encephalitis die, depending on the clinical setting. Approximately 50%  of  survivors  have  obvious  neurologic  and/or  psychiatric sequelae; many others have subtle dif{culties, including personality and behavioral changes and poor school performance. 8
+
+============================================================
+CHUNK 8
+============================================================
+CLINICAL FEATURES
+In taking the history, establish whether a patient comes from a rural area where Japanese encephalitis occurs and also whether there is an ongoing outbreak of encephalitic illness or other disease, such as hand-foot-and-mouth disease caused by enterovirus 71. Ask if the child has been vaccinated against Japanese encephalitis and whether this was recent, as it could complicate the interpretation of serologic tests (see later).
+Clinical presentations may range from a non-speci{c febrile illness to aseptic meningitis, febrile seizures, febrile encephalopathy (with no in|ammatory cells in the CSF) or a severe encephalitis (with a CSF pleocytosis or in|ammation on imaging); this latter is  the  most  common  presentation. 8 Typically,  children  with encephalitis  present  with  a  few  days'  history  of  |ulike  illness, usually  involving  a  severe  headache,  and  may  include  coryza, diarrhea,  and  vomiting. This  is  followed  by  a  reduction  in  the level of consciousness, often heralded by a seizure.
+Seizures  are  more  common  in  children  with  Japanese encephalitis  than  in  adults,  occurring  in  up  to  80%  of  cases,
+
+============================================================
+CHUNK 9
+============================================================
+CLINICAL FEATURES
+Fig. 38.4.3 Characteristic histopathology in Japanese encephalitis. The patient was an 18 year old male who presented with fever confusion and generalized tonic-clonic seziures, and died after 6 days in hospital. (haematoxylin and eosin staining). (A) Damaged vein with perivascular infiltrate and necrosis in pontine tissue (original magnification (OM) × 100). (B) Ischaemic, shrunken, damaged neurons in midbrain/thalamus (OM × 200). (C) Cerebellum, showing well-preserved Purkinje cells, compared with the granular cells. A focal acellular necrotic lesion is visible in the molecular layer, associated with an end vessel (OM × 40). (D) Internal capsule showing striking necrotic foci with little peripheral inflammation (OM × 100). (E) Necrotic neurons in subiculum (OM × 200). (F) Damaged vessel with mild lymphocytic infiltrate (OM ° × 400). (From German AC, Myint KS, Mai NT, et al. A preliminary neuropathological study of Japanese encephalitis in humans and a mouse model. Trans R Soc Trop Med Hyg. 2006;100:1135-1145).
+and are occasionally the {rst symptom. 4 They may be multiple or prolonged, and status epilepticus is common. In addition to convulsive status epilepticus, some patients have subtle motor status  epilepticus  in  which  the  only  clinical  manifestation  of seizure activity may be twitching of a digit or eyebrow, ocular bobbing, or eye  deviation. 11 Other  patients,  especially  adults, may have subtle abnormalities of behavior that may be mistaken for psychiatric illness.
+Neurologic  signs  may  include  pyramidal,  extra-pyramidal, cranial nerve, and lower motor neuron signs (Fig. 38.4.4). They may evolve rapidly over hours or even minutes, resulting in bizarre
+
+============================================================
+CHUNK 10
+============================================================
+CLINICAL FEATURES
+|uctuations. Pyramidal (long tract) signs are common, causing a  hemiparesis.  Extrapyramidal  features  include  a  parkinsonian movement disorder with tremors, cog-wheel rigidity, and masklike facies  with  a  wide  palpebral  angle  and  infrequent  blinking.  In addition,  there  may  be  orofacial  dyskinesias,  dystonic  posturing, spasms, opisthotonus, cerebellar signs, choreoathetosis and, occasionally, hemiballismus. Cranial nerves commonly affected in Japanese encephalitis include the third, the seventh, and the bulbar nerves thus leading to an impaired or absent gag re|ex. Lower motor neuron involvement after JEV infection may result in a  poliomyelitis-like,  acute |accid  paralysis,  or there  may  be
+1/011
+Fig. 38.4.4 (A) Opisthotonus and other movement disorders are common in Japanese encephalitis. (Photo courtesy T. Solomon, reproduced from Solomon T. Japanese encephalitis. In: Gilman S, Goldstein GW, Waxman SG, eds. Neurobase . San Diego: Medlink Publishing; 2000.) (B) Poliomyelitis-like acute flaccid paralysis. This child has marked weakness and wasting 1 year after the initial presentation. (Photo courtesy T. Solomon, reproduced from Solomon T, Kneen R, Dung NM, et al. Poliomyelitis-like illness due to Japanese encephalitis virus. Lancet 1998;351:1094-1097.) (C) Sequelae of Japanese encephalitis-flexion deformities are apparent in this child 2 months after the initial illness. (Photo courtesy T. Solomon, reproduced from Solomon T. Japanese encephalitis. In: Gilman S, Goldstein GW, Waxman SG, eds. Neurobase . San Diego: Medlink Publishing; 2000.)
+Guillain-Barré syndrome. Lower motor neuron damage can also affect the bladder to cause retention and the respiratory muscles to cause ventilator dependence. Other clinical features include pulmonary edema (which can be neurogenic as a result of brainstem involvement), hepatomegaly, splenomegaly, modestly raised liver enzymes, and thrombocytopaenia. 12
+
+============================================================
+CHUNK 11
+============================================================
+CLINICAL FEATURES
+In severe disease, there are clinical signs of brainstem damage, including abnormalities in the papillary and oculovestibular re|exes, the respiratory pattern, and abnormal |exor or extensor responses to pain. These may be caused directly by viral invasion and in|ammation in  the  brainstem,  or  indirectly  by  swelling  and  shift  of brain compartments leading to transtentorial herniation (see Fig. 10.1, Chapter 10).
+
+============================================================
+CHUNK 12
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+The differential of Japanese encephalitis is broad and includes a range of other infectious and non-infectious causes (T able 38.4.1 and T able 10.1 in Chapter 10).
+
+============================================================
+CHUNK 13
+============================================================
+Investigations
+A full blood count often shows a neutrophil leukocytosis, and most patients have hyponatremia. A lumbar puncture usually shows a mild pleocytosis of a few hundred cells, which is predominantly lymphocytic. However, if it is performed in the {rst couple of days of illness, there may be a predominance of neutrophils or even no pleocytosis. The glucose ratio is usually normal and the CSF protein moderately elevated. Although there is overlap between these {ndings and those of partially treated meningitis or tuberculous meningitis, the epidemiologic context, length of history, whether any antibiotics have been given, and careful attention to the glucose ratio allow the distinction to be made in most patients. However, appropriate antibiotics must be given if there is any doubt.
+Computed  tomography  (CT)  scans  of  the  brain  may  show low-density lesions caused by in|ammation in the thalamus and other basal ganglia (Fig. 38.4.5). These are also seen on magnetic resonance images (MRI) as high signal intensities on T2 weighted images; this more sensitive investigation may also show in|ammation in the pons and medulla, as well as the anterior horns of the spinal cord. 13
+
+============================================================
+CHUNK 14
+============================================================
+Investigations
+Arboviruses, Comments = Arboviruses. West Nile virus, Comments = Some overlap in geographic area, especially India Causes fever, arthralgia, rash and hemorrhagic disease, occasional CNS disease Causes fever, arthralgia, rash, Gullain-Barré syndrome, occasional CNS disease. Other zoonotic viruses (not arthropod-borne) Rabies, other lyssaviruses From rabid dogs, cats, and bats Enteroviruses Enterovirus 71 Epidemic hand, foot, and mouth disease with aseptic meningitis, Poliovirus Principally causes myelitis, still circulating in parts of Asia Coxsackieviruses, echoviruses, parechovirus Mostly cause aseptic meningitis Herpes viruses Herpes simplex virus type 1 Most commonly diagnosed sporadic encephalitis Herpes simplex virus type 2 Causes meningitis (especially recurrent); meningoencephalitis occurs in immunocompromised or in neonates Paramyxoviruses (family Paramyxoviridae), Comments = . Dengue virus Zika virus Chikungunya virus, Comments = . , Comments = Causes fever, arthralgia, rash, occasional CNS disease. Chandipura virus, Comments = A vesiculovirus that has caused outbreaks in India. , Comments = brainstem encephalitis, myelitis. , Comments = the. Nipah virus A, Comments = zoonotic paramyxovirus transmitted in feces of fruit bats in Malaysia and Bangladesh. Measles virus, Comments = Causes acute post-infectious encephalitis, subacute encephalitis, and subacute sclerosing. Mumps virus Bacterial, Comments = panencephalitis Parotitis, orchitis, pancreatitis. Partially treated bacterial meningitis Tuberculous meningitis, Comments = . Typhoid Leptospirosis, Comments = . Abscess, Comments = . Para-/post-infectious, Comments = . Viral illnesses with febrile convulsions, Comments = . Acute disseminated encephalomyelitis, Comments = . Metabolic, Comments = . Reye's syndrome, Comments = . Hypoglycemia, Comments = . Toxic encephalopathy (alcohol, drugs), Comments = .
+
+============================================================
+CHUNK 15
+============================================================
+Investigations
+Other Epilepsy, Comments = . Hysteria, Comments = . CNS , Central nervous system., Comments = . Only the most common or important differential, Comments = . , Comments = is included here. For a full differential see Chapter 10.
+
+============================================================
+CHUNK 16
+============================================================
+Diagnosing Japanese Encephalitis
+The virus is hard to detect in peripheral blood or CSF by virus isolation or polymerase chain reaction (PCR) because it has usually cleared  by  the  time  patients  present  to  hospital.  The  virus  is occasionally isolated in patients who have failed to make antibody-a poor prognostic sign. Newer, real-time PCR methods are proving more sensitive at detecting virus, and enzyme-linked immunosorbent assays (ELISAs) that capture the viral non-structural-1 protein are also in development; however, in most settings, immunoglobulin (Ig) M antibody detection in the CSF or serum using an ELISA is the most appropriate test because of its high sensitivity, speci{city, and reliability. 14 A range of diagnostic kits for Japanese encephalitis are  commercially  available,  and  a  laboratory  network  has  been established across Asia to standardize testing. Detection of IgM in the CSF is preferable to serum, as it con{rms CNS infection. Detection  of  antibody  in  the  serum  may  only  re|ect  recent, coincidental, asymptomatic infection or, possibly, recent vaccination. Because in many parts of Asia JEV co-circulates with other |aviviruses,  such  as  dengue,  with  which  there  is  cross-reactivity, ELISAs for JEV and dengue are often performed in parallel, and the ratio is used to help determine which was the infecting virus. Where there is uncertainty, the plaque reduction neutralization assay  is  the  de{nitive  speci{c  antibody  test  for  distinguishing |aviviruses, but it is only performed in specialized laboratories. If this is a patient's {rst |avivirus infection, the rapid rise in serum
+IgM is followed by a slower rise in IgG. In contrast, if they have been previously infected with a different |avivirus, IgG rises {rst. Thus the ratio of IgM to IgG can be used to distinguish primary from secondary |avivirus infection.
+
+============================================================
+CHUNK 17
+============================================================
+TREATMENT
+The initial evaluation includes assessment of the airways, breathing,  and  circulation  and  examination  for  seizures,  including subtle motor status epilepticus, as described earlier (Box 38.4.2). Patients failing to maintain their airway and oxygenation may need immediate intubation and ventilation in an intensive care unit, although the facilities for this are often limited in areas where Japanese encephalitis occurs. Ideally, seizures should be treated with a benzodiazepine, such as diazepam or lorazepam, followed by intravenous phenytoin and then ventilation if needed (see  Box  10.10  in  Chapter  10).  In  some  parts  of Asia  where phenytoin is not available, phenobarbitone is used, initially with a loading dose.
+Fluid management is also an issue in many patients with encephalitis and is discussed in Chapter 10. Corticosteroids are also often given in Japanese encephalitis, although one small, randomized, placebo-controlled trial failed to show any bene{t. 15 The antiviral drugs interferon alpha and ribavirin have also both been evaluated in clinical trials, as have intravenous immunoglobulin and minocycline, but no drug has been shown to improve outcome. 16-18
+Fig. 38.4.5 CT scans of patients with Japanese encephalitis. (A) Unenhanced CT of a 7 year old male on day 9 of illness showing bilateral hypodense lesions in the thalamus (arrows). (B) Unenhanced CT of a 13 year old female on day 13 showing hypodense lesions in the left medial thalamus (arrow) and the right posterior thalamus ( arrowhead ). (C and D) Pre- and post-contrast images of this same patient on day 32 of illness. The hypodense thalamic lesions, although less clear, are still visible and do not enhance with contrast. (From Dung NM, Turtle L, Chong WK, et al. An evaluation of the usefulness of neuroimaging for the diagnosis of Japanese encephalitis. J Neurol. 2009;256[12]:2052-2060.)
+
+============================================================
+CHUNK 18
+============================================================
+TREATMENT
+TABLE 38.4.2 Summary of Current Vaccines Against Japanese Encephalitis (Modified From Ref. 18)
+
+Currently Available Vaccines, Type = Currently Available Vaccines. Currently Available Vaccines, Virus Strain = Currently Available Vaccines. Currently Available Vaccines, Common Name = Currently Available Vaccines. Currently Available Vaccines, Country of Origin or Manufacturer/Developer = Currently Available Vaccines. Vero cell, Type = Inactivated. Vero cell, Virus Strain = P3. Vero cell, Common Name = NA. Vero cell, Country of Origin or Manufacturer/Developer = China. Primary hamster kidney, Type = Live attenuated. Primary hamster kidney, Virus Strain = SA14-14-2. Primary hamster kidney, Common Name = NA. Primary hamster kidney, Country of Origin or Manufacturer/Developer = Chengdu Biological Products, China. Vero cell, Type = Inactivated. Vero cell, Virus Strain = Beijing-I. Vero cell, Common Name = JEBIKV. Vero cell, Country of Origin or Manufacturer/Developer = Japan, BIKEN. Vero cell, Type = Inactivated. Vero cell, Virus Strain = Beijing-I. Vero cell, Common Name = ENCEVAC. Vero cell, Country of Origin or Manufacturer/Developer = Japan, Kaketsuken. Vero cell, Type = Inactivated. Vero cell, Virus Strain = SA14-14-2. Vero cell, Common Name = 1C51, IXIARO. Vero cell, Country of Origin or Manufacturer/Developer = Intercell, Valneva. Vero cell, Type = Inactivated. Vero cell, Virus Strain = Kolar-82I 564XY. Vero cell, Common Name = JENVAC. Vero cell, Country of Origin or Manufacturer/Developer = Bharat Biotech Int. ltd, India. Yellow fever 17D recombinant vectored, Type = Live attenuated. Yellow fever 17D recombinant vectored, Virus Strain = SA14-14-2 (Envelope). Yellow fever 17D recombinant vectored, Common Name = Imojev, Chimerivax JE. Yellow fever 17D recombinant vectored, Country of Origin or Manufacturer/Developer = Acambis, Sanofi Pasteur
+BOX 38.4.2 Emergency Evaluation and Treatment of a Patient With Japanese Encephalitis
+Assess airways, breathing, and circulation
+
+============================================================
+CHUNK 19
+============================================================
+TREATMENT
+Look for abnormal movements, such as seizures, including subtle motor seizures, and tremors of dyskinesias
+Treat seizures/status epilepticus with the following (flow chart per the Japanese encephalitis World Health Organization clinical care guidelines):
+Diazepam
+Phenytoin
+Paraldehyde
+Phenobarbitone (loading dose of 20 mg/kg, followed by 10 mg/ kg)
+Intubation and ventilation
+Assess hydration:
+Rehyrate gently if needed
+Tachypnea. Look for:
+Pneumonia
+Respiratory muscle paresis
+Brainstem signs
+Many patients with Japanese encephalitis are tachypneic; this may be caused by poor respiratory effort as a result of |accid paralysis of the respiratory muscles, brainstem damage, pneumonia, or all three of these processes. The clinical clue to paralyzed respiratory musculature is paradoxical movement of the chest wall, with all the inspiratory draw being provided by the diaphragm. If tachypnea is  caused by  damage in the mid-brain, pons, or medulla, this is usually accompanied by other brainstem signs, such as abnormal papillary or oculovestibular re|exes. Pneumonia is typically aspiration pneumonia, with changes in the right upper lobe.
+Contractures and bed sores are common, but simple techniques may  reduce  the  risk  of  these.  Although  specialist  beds  and physiotherapists are not widely available in most of the areas where Japanese encephalitis occurs, nurses and family members can be taught how to gently keep joints mobile and the importance of changing position to minimize the risk of bed sores; splints  may  also  help  prevent  contractures. 19 The  child  who survives Japanese encephalitis may be left with a whole catalog of  dif{culties  and  disabilities  that  would  prove  challenging, even in a Western, industrialized setting. In poor Asian countries, rehabilitation is even harder but some simple tools for assessing disability and overcoming some of the obstacles are becoming available. 20,21
+
+============================================================
+CHUNK 20
+============================================================
+Prevention of Japanese Encephalitis
+Measures to reduce the risk of Japanese encephalitis include avoiding  the  bites  of  infected  mosquitoes  by  wearing  long sleeves and trousers and applying insecticide. There are several vaccines against Japanese encephalitis 3 (T able 38.4.2). Formalininactivated, mouse brain-derived vaccines were used routinely in wealthier Asian countries and for travelers. Production of the  most  widely  available  one  (Biken)  has  ceased.  In  some countries  it  is  being  replaced  by  a  range  of  tissue  culturederived, inactivated vaccine.
+A live attenuated vaccine (SA-14-14-2) developed in China has been used since the late 1980s. Its use beyond China had been limited by issues over the novel cell line used (primarily hamster kidney),  but  in  recent  years,  these  issues  have  been resolved and the vaccine has now been licensed across Asia. 22 An inactivated vaccine (Ixiaro), based on 14-14-2, developed by the Walter Reed Army Institute and then Intercell in Austria, is  also  being  used  increasingly  for  travelers. 23 A  chimeric vaccine,  Imojev,  in  which  the  structural  genes  of  JEV  strain 14-14-2 are inserted into the backbone of the live attenuated yellow fever vaccine strain 17D, is also becoming more widely available.
+
+============================================================
+CHUNK 21
+============================================================
+REFERENCES
+1.  Ricklin M, Garcia-Nicolas O, Brechbuhl D, et al. Vector-free transmission and persistence of Japanese encephalitis virus in pigs. Nat Commun 2016;7:10832.
+2.  Solomon T. Control of Japanese encephalitis-within our grasp? N Engl J Med 2006;355:869-71.
+3.  Beasley DW, Lewthwaite P , Solomon T. Current use and development of vaccines for Japanese encephalitis. Expert Opin Biol Ther 2008;8:95-106.
+4.  Solomon T, Dung NM, Kneen R, et al. Japanese encephalitis. J Neurol Neurosurg Psychiatry 2000;68:405-15.
+5.  Campbell GL, Hills SL, Fischer M, et al. Estimated global incidence of Japanese encephalitis: a systematic review. Bull World Health Organ 2011;89:766-74, 74A-74E.
+6.  T sai TF. New initiatives for the control of Japanese encephalitis by vaccination: minutes of a WHO/CVI meeting, Bangkok, Thailand, 13-15 October 1998. Vaccine 2000;18(Suppl. 2):1-25.
+7.  Jmor  F,  Emsley  HCA,  Fischer  M,  et al.  The  incidence  of  acute encephalitis syndrome in western industrialised and tropical countries. Virol J 2008;5:134.
+8.  Ooi  MH,  Lewthwaite  P,  Lai  BF,  et al.  The  epidemiology,  clinical features, and long-term prognosis of Japanese encephalitis in central Sarawak, Malaysia, 1997-2005. Clin Infect Dis 2008;47:458-68.
+9.  Hoke  CH,  Nisalak  A,  Sangawhipa  N,  et al.  Protection  against Japanese encephalitis by inactivated vaccines. N Engl J Med 1988; 319:608-14.
+10.  Hills  SL,  Griggs AC, Fischer  M.  Japanese  encephalitis in  travelers from  non-endemic  countries,  1973-2008.  Am  J  Trop  Med  Hyg 2010;82(5):930-6.
+
+============================================================
+CHUNK 22
+============================================================
+REFERENCES
+11.  Solomon T, Dung NM, Kneen R, et al. Seizures and raised intracranial pressure  in  Vietnamese  patients  with  Japanese  encephalitis.  Brain 2002;125:1084-93.
+12.  Kumar  R,  T ripathi  P ,  Singh  S,  et al.  Clinical  features  in  children hospitalized  during  the  2005  epidemic  of  Japanese  encephalitis  in Uttar Pradesh, India. Clin Infect Dis 2006;43:123-31.
+13.  Dung NM, Turtle L, Chong WK, et al. An evaluation of the usefulness of neuroimaging for the diagnosis of Japanese encephalitis. J Neurol 2009;256:2052-60.
+14.  Solomon T, Thao TT, Lewthwaite P , et al. A cohort study to assess the new WHO Japanese encephalitis surveillance standards. Bull World Health Organ 2008;86:178-86.
+15.  Hoke CH, Vaughn DW, Nisalak A, et al. Effect of high dose dexamethasone  on  the  outcome  of  acute  encephalitis  due  to  Japanese encephalitis virus. J Infect Dis 1992;165:631-7.
+16.  Solomon T, Dung NM, Wills B, et al. Interferon alfa-2a in Japanese encephalitis: a randomised double-blind placebo-controlled trial. Lancet 2003;361:821-6.
+17.  Kumar R, Tripathi P , Baranwal M, et al. Randomized, controlled trial of oral ribavirin for Japanese encephalitis in children in Uttar Pradesh, India. Clin Infect Dis 2009;48:400-6.
+18.  Turtle L, Solomon T. Japanese encephalitis - the prospects for new treatments. Nat Rev Neurol 2018;14:298-313.
+19.  http://www.liv.ac.uk/media/livacuk/infectionandglobalhealth/docs/ long-term-care.pdf.
+20.  Lewthwaite P , Ravikumar R, et al A simple tool for assessing disability in Japanese encephalitis. American Society of Tropical Medicine and Hygiene 54th Annual Meeting, Washington; 2005.
+
+============================================================
+CHUNK 23
+============================================================
+REFERENCES
+21.  Solomon T, Weston J, Gray V . Long term care of patients with encephalitis - a simple guide for resource poor settings. 2007. http://www.liv. ac.uk/neuroscience/brain_infections_group/education_presentations. htm.
+22.  Hennessy S, Strom BL, Bilker WB, et al. Effectiveness of live-attenuated Japanese encephalitis vaccine (SA14-14-2): a case-control study. Lancet 1996;347:1583-6.
+23.  T auber E, Kollaritsch H, Korinek M, et al. Safety and immunogenicity of  a  Vero-cell-derived,  inactivated  Japanese  encephalitis  vaccine:  a non-inferiority, phase III, randomised controlled trial. Lancet 2007;370: 1847-53.
+

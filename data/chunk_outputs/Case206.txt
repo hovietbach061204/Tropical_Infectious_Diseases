@@ -1,0 +1,142 @@
+============================================================
+CHUNK 0
+============================================================
+Trichinellosis 115
+Fabrizio Bruschi, K Darwin Murrell biotopes may become linked through man's activities, resulting in the exposure of humans to Trichinella species normally confined to wild animals. Only T. spiralis is highly infective to pigs; consequently, commercial pig production needs to have stringent barriers to exposure to  wild  animals,  especially  commensal  rats,  and  uncooked  meat scraps [1].
+
+============================================================
+CHUNK 1
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+When  humans  consume  raw  or  rare  flesh  infected  with  first-stage Trichinella larvae (which may be encysted or not, depending on the species) (Fig. 1 15.1), the larvae are freed from the muscles by digestion in the stomach. The larvae, resistant to gastric juice, pass into the small intestine, burrow beneath the columnar epithelium and lie just above the lamina propria. There, they undergo four molts and develop into adult worms, male and female, which mate. After fertilization, the females begin to discharge live (newborn) early first-stage larvae, the production of which can continue for 4 to 16  weeks or  more, depending on host species, until the adult worms are finally expelled from the intestine; the longevity of adult worms in the human intestine is not known.
+Newborn larvae make their way into the lamina propria, to a draining lymph node or blood vessel, and are carried to the arterial circulation via  the  thoracic  duct.  Larvae  arrive  at  striated  skeletal  muscle  cells, where, after invasion, they induce changes that culminate in a new cell  phenotype  termed  the  nurse  cell;  the  nurse  cell  can  develop  a collagenous capsule around the larvae (in the case of the encapsulated Trichinella ).  After  2 1  days,  the  larvae  are  fully  infective.  In  humans, calcification of the cyst may begin within 6 months to a year, a process that eventually leads to death of the encysted larvae.
+
+============================================================
+CHUNK 2
+============================================================
+CLINICAL FEATURES
+The degree of illness is usually related to infection level, particularly the number of larvae per gram of muscle: in light subclinical infections, up to ten larvae; in moderate infections, 50 to 500 larvae; and in severe, life-threatening infections, 1000 or more larvae. The species of Trichinella may also be an important variable. Most human infections with Trichinella have been attributed to T . spiralis ; infections with T. nelsoni and T. britovi appear to be less clinically severe [3].
+The symptoms of trichinellosis can be separated into an early intestinal  phase,  a  later  phase  associated  with  inflammatory  and  allergic responses caused by muscle invasion, and a convalescent phase. The incubation period ranges from 5 to 51 days; the course of infection is more severe. During this period, gastrointestinal symptoms occur. The incubation period ends when the acute infection phase begins and is characterized  by  the  fever,  myalgia,  periorbital  edema,  and  eosinophilia (i.e., the so-called trichinotic syndrome or general trichinosis syndrome). Acute infection lasts 1 to 8 weeks, and it may have a mild, moderate,  or  severe  course,  depending  on  the  fever  severity  and length,  the  intensity  of  symptoms,  the  time  taken  to  recover  from disease, and the presence of complications.
+
+============================================================
+CHUNK 3
+============================================================
+Key features
+- Trichinellosis (also called trichinosis) is the name for a parasite infection caused by the nematode Trichinella
+- It is acquired by humans from eating the muscles of wild or domestic animals harboring the larval stage of the parasite
+- The severity of disease is usually proportional to the number of larvae ingested, and the disease is characterized by fever, gastrointestinal symptoms, myositis, swollen eyelids, and eosinophilia
+- The diagnosis is made by muscle biopsy and a highly speci c serologic test (e.g. Western blot)
+- Treatment involves symptom management, corticosteroid use, and anthelmintics (albendazole or mebendazole)
+
+============================================================
+CHUNK 4
+============================================================
+INTRODUCTION
+Trichinellosis  has  been  a  zoonotic  disease  for  thousands  of  years, acquired by humans from eating insufficiently cooked infected meat. Trichinella was first described in 1835 by James Paget, when studying muscle tissue from a cadaver. The eight species of Trichinella responsible for infection occur in many wild and domestic animals distributed throughout the Arctic, temperate and tropical zones [1]. Virtually all  mammals  are  susceptible  to  infection  although  only  humans appear to be prone to developing clinical disease. While diminishing in developed countries, outbreaks continue to be reported in developing regions, especially Southeast Asia, Latin America, and Africa [2].
+
+============================================================
+CHUNK 5
+============================================================
+EPIDEMIOLOGY
+Trichinellosis  is  an  important  food-borne  zoonosis  because  of  the economic burden associated with maintaining systems to prevent it entering  the  human  food  chain,  particularly  from  domestic  swine (meat inspection). The prevalence of swine infection due to T. spiralis has  greatly  diminished  because  of  the  widespread  adoption  of modern  pig-rearing  systems.  However,  outbreaks  due  to  infected horse meat and game animals, often involving other species (especially T. britovi, T. murrelli , and T. nativa) frequently occur. Such outbreaks  have  occurred  recently  in  China,  Thailand,  Laos,  Vietnam, Mexico, Argentina, and Bolivia (Table 1 15-1). More than 100 species of mammals are susceptible. The infective encysted larvae (trichina) may remain viable in the host's musculature for several years (depending upon host species). Their ability to survive long periods in decaying  and  putrefying  muscle  increases  the  probability  of  successful transmission in nature.
+A feature of Trichinella epidemiology is the existence of two normally separate  ecologic  systems,  the  sylvatic  and  the  domestic.  The  two
+
+============================================================
+CHUNK 6
+============================================================
+TABLE 115-1 Recent Trichinellosis Cases
+United States, Period = 1996-2005. United States, Number of cases = 61. United States, Sources = Pork; game. Canada, Period = 2005. Canada, Number of cases = 9. Canada, Sources = Bear. Argentina, Period = 1990-2002. Argentina, Number of cases = 6919. Argentina, Sources = Pork; game. Bulgaria, Period = 1993-2000. Bulgaria, Number of cases = 5683. Bulgaria, Sources = Pork; game. Croatia, Period = 1997-2000. Croatia, Number of cases = 1047. Croatia, Sources = Pork. Serbia, Period = 1995-2001. Serbia, Number of cases = 3925. Serbia, Sources = Pork. Germany, Period = 1996-2007. Germany, Number of cases = 99. Germany, Sources = Pork; game. Russia, Period = 1998-2002. Russia, Number of cases = 864. Russia, Sources = Game; pork. Israel, Period = 2002. Israel, Number of cases = 30. Israel, Sources = Pork. Turkey, Period = 2004. Turkey, Number of cases = 418. Turkey, Sources = Pork. China, Period = 1964-2004. China, Number of cases = 23,004. China, Sources = Pork; dog; game. Thailand, Period = 1994-2007. Thailand, Number of cases = 136. Thailand, Sources = Pork. Laos, Period = 2005. Laos, Number of cases = 625. Laos, Sources = Pork
+Adapted from Bruschi F, Murrell KD. Trichinellosis. In: Guerrant RL, Walker DH, Weller PF, eds. Tropical Infectious Diseases: Principles, Pathogens and Practice, 3rd edn. Philadelphia: Churchill Livingstone Elsevier; 2011.
+
+============================================================
+CHUNK 7
+============================================================
+INTESTINAL OR ENTERAL PHASE
+The initial consequences of infection occur within the first week after ingestion of larval worms in inadequately cooked meat (Table 1 15-2). The symptoms, reflecting mucosal irritation as adult worms develop in  the  small  intestine,  include  nausea,  abdominal  cramps,  loss  of appetite, vomiting, low-grade fever, and either mild diarrhea or constipation. Frontal headaches, dizziness, and weakness can also occur, especially in light to moderate infections. Severe diarrhea, persisting for weeks, can be seen in heavy infections. Infected Inuit Indians in North America experience an unusually high frequency of diarrhea and a low frequency of myalgia. This may reflect chronic exposure and the development of intestinal immunity [4].
+
+============================================================
+CHUNK 8
+============================================================
+MUSCLE INVASION OR PARENTERAL PHASE
+This stage, beginning as early as 9 to 10 days after exposure, is associated with penetration of the newborn larvae into muscle cells, initiating an inflammatory response of neutrophils, eosinophils, lymphocytes, and macrophages. It especially occurs in the extraocular muscles; masseters; muscles of the  larynx, tongue, diaphragm, and neck; intercostals; and muscular attachments to tendons and joints. The fibers become edematous and enlarged. This process reaches its peak  at  about  5  to  6  weeks  of  infection  and  diminishes  when  the larvae are encapsulated.
+Early  symptoms are swelling of the eyelids and facial edema. After this, muscle swelling, tenderness, pain on movement, and fever can develop. Headache, fainting, urticaria, splinter hemorrhages, conjunctivitis, loss of appetite, hoarseness, dysphagia, dyspnea, and edema of the legs can also occur. Fever can be delayed until several weeks after infection, but temperature may eventually reach 104°F for a week or more in heavy infections.
+Pain  is  noticed  at  about  the  time  facial  edema  appears.  It  is  most severe  between  the  second  and  fourth  weeks  of  infection  but may  persist  for  a  longer  period  and  can  be  intense  enough  to make chewing, talking, and swallowing difficult. Respiratory symptoms,  including  dyspnea,  result  from  involvement  of  respiratory muscles,  and  myocarditis,  sometimes  fatal,  may  result  from  larval invasion of  the  heart,  but  immunopathologic  processes  could  also play a role.
+
+============================================================
+CHUNK 9
+============================================================
+Neurologic Complications
+Neurologic symptoms can accompany migration of the larvae through central  nervous system tissue; resulting in intracerebral hemorrhage and meningitis. Patients can exhibit dizziness,  ataxia,  hysteria,  psychotic disturbances, seizures, monoparesis, and eventually coma in severe  infections.  Larvae  cannot  successfully  encyst  in  the  nervous system.
+
+============================================================
+CHUNK 10
+============================================================
+CONVALESCENT PHASE
+Beginning in the second month after infection, myalgia, along with fever and itching, decreases. At this time, evidence of congestive heart failure may appear, especially if the patient becomes active too soon. Larvae remain alive in the cysts for one or more years, depending on the species,  even  after  the cyst  wall becomes  calcified. These  larvae release antigens that lead to a persistent low to moderate eosinophilia and  stimulate  specific  circulating  antibody.  Fatal  outcome  is  infrequent in trichinellosis, normally occurring only in massive infections, and is most frequently associated with myocarditis, encephalitis, and pneumonitis. In the period 2002-2007, of 66 cases of trichinellosis reported in the US, no fatalities were reported [5].
+
+============================================================
+CHUNK 11
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+An algorithm for identification of trichinellosis cases (see Table 1 153),  as  well  as  one  for  chronic  trichinellosis  and sequelae,  has  been developed by Dupouy-Camet and Bruschi [6]. Diagnosis can be made by direct or indirect demonstration of infection. Eosinophilia, leukocytosis,  elevated  levels  of  muscle  enzymes,  and  increased  immunoglobulin  levels,  especially  total  IgE,  are  the  most  characteristic laboratory findings of this disease. Specific immunodiagnostic tests are now available.
+
+============================================================
+CHUNK 12
+============================================================
+Enteral Phase
+Adult Trichinella can  sometimes  be  recovered  from  the  intestinal mucosa at autopsy and could, theoretically, be recovered from a living patient by duodenal aspiration or biopsy.
+
+============================================================
+CHUNK 13
+============================================================
+Parenteral Phase
+The muscle stage offers the best chance for direct demonstration of worms. The larvae can be found on examination of a biopsy of a superficial  skeletal  muscle.  A  specimen  measuring  approximately  1  cm 3 should be taken, preferably from either the deltoid or gastrocnemius muscle. A portion of the specimen is fixed and examined histologically. The remainder is processed either by: 1) compression between glass slides, followed by microscopic examination; and/or 2) digestion in 1% pepsin and 1% hydrochloric acid, followed by microscopic examination of a filtrate or washed sediment of the digested specimen.
+
+============================================================
+CHUNK 14
+============================================================
+INDIRECT DEMONSTRATION
+A nondiagnostic biopsy does not exclude the possibility of infection. Circulating antibody can be detected even in lightly infected patients 3 to 4 weeks after infection and as early as 2 weeks in heavily infected individuals.  The  fluorescent  antibody  test  and  ELISA  are  the  most useful serologic tests. ELISA using larval E/S (excretory/secretory) antigens is sensitive and can also detect a rise and fall in titer [7]. ELISA should be confirmed by Western blot, which should show reactivity against the TSL-1 antigen family (40-70 kDa) in the reduced form [7].
+
+============================================================
+CHUNK 15
+============================================================
+DIFFERENTIAL DIAGNOSIS
+Trichinellosis can mimic a wide variety of diseases. Mild cases can be misdiagnosed as influenza or other viral fevers unless the clinician
+Newborn larvae pass through
+lymphatic system
+Trichinella spiralis
+FIGURE 115.1 Life cycle of Trichinella spiralis showing stages and locations of development.
+TABLE 115-2 Clinical Phases of Trichinellosis, 1 = TABLE 115-2 Clinical Phases of Trichinellosis. TABLE 115-2 Clinical Phases of Trichinellosis, 2 = TABLE 115-2 Clinical Phases of Trichinellosis. Days after infection, 1 = Developmental phase. Days after infection, 2 = Symptoms and signs (heavy infections). 2 to 7, 1 = Intestinal. 2 to 7, 2 = Gastrointestinal signs, i.e. nausea, abdominal pain, headache. 9 to 28, 1 = Muscle. 9 to 28, 2 = Muscular pain, facial edema, fever, chills, eosinophilia, tachycardia, coma, respiratory diBculties. 14 +, 1 = Encystment or chronic. 14 +, 2 = Mental apathy, neurotoxic symptoms, possible myocarditis, anemia, muscular swelling
+recognizes  a  history  of  recent  ingestion  of  pork  or  game,  febrile myalgia,  periorbital  edema,  and  rising  eosinophilia  (to  50%  or higher), and confirms the diagnosis by either serologic tests or muscle biopsy.  Similar  symptoms  among  others  who  dined  on  the  same occasion reflect a common source of infection and further substantiate the diagnosis.
+
+============================================================
+CHUNK 16
+============================================================
+TREATMENT
+It is difficult to differentiate the efficacy of drug therapy from natural recovery of infection in mild to moderate cases. Symptomatic treatment [6] includes analgesic and antipyretic drugs, bed rest, and corticosteroids (prednisolone at 50 mg/day), especially in severe infections to prevent shock-like symptoms. Antiparasitic treatment [6]
+TABLE 115-3 Signs and Symptoms Useful in Assessing the Probability of Being Infected With Trichinella
+Fever, Group B = Diarrhea. Fever, Group C = Eosinophilia ( > 1 G/l and/or increased IgE levels). Fever, Group D = Positive serology (with a highly speciCc test). Eyelid and/or facial edema, Group B = Neurological signs. Eyelid and/or facial edema, Group C = Increased levels of muscular enzymes. Eyelid and/or facial edema, Group D = Seroconversion. Myalgia, Group B = Cardiological signs. Myalgia, Group C = . Myalgia, Group D = Positive muscular biopsy. , Group B = Conjunctivitis. , Group C = . , Group D = . , Group B = Subungual hemorrhages. , Group C = . , Group D = . , Group B = Cutaneous rash. , Group C = . , Group D = 
+The diagnosis is: Very unlikely: one A or one B or one C Suspected: one A or two B and one C Probable: three A and one C Highly probable: three A and two C ConCrmed: three A, two C, and one D; any of groups A or B and one C and one D
+Reproduced with permission from Dupouy-Camet J, Bruschi F. Management and diagnosis of human trichinellosis. In: Dupou12y-Camet J, Murrell KD, eds. FAO/WHO/OIE Guidelines for the Surveillance, Management, Prevention and Control of Trichinellosis. Paris: OIE; 2007:37-69.
+
+============================================================
+CHUNK 17
+============================================================
+TREATMENT
+is with mebendazole (in adults, usually at a daily dose of 5 mg/kg [in some countries up to 20-25 mg/kg/day] in two doses for a period of 10 to 15 days) or albendazole (administered at a dose of 15 mg/kg/ day in two doses for 10 to 15 days, in adults). For severe infection, treatment may be repeated after 5 days.
+Factors  such  as  the Trichinella species,  intensity  of  infection  (worm burden), duration of infection, and the host's response characteristics, especially  immunocompetence  and/or  premunition,  should  help dictate treatment. Unfortunately, only a limited number of prospective, controlled clinical trials of treatment for trichinellosis have been carried out, which has led to uncertainties in the treatment choice [6].
+
+============================================================
+CHUNK 18
+============================================================
+REFERENCES
+1. Pozio E, Murrell KD. Systematics and epidemiology of Trichinella . Adv Parasitol 2006;63:367-439. This reference represents the landmark for people involved in the study of taxonomy of the genus Trichinella .
+2. Bruschi F, Murrell KD. Trichinellosis. In: Guerrant RL, Walker DH, Weller PF, eds. Tropical Infectious Diseases: Principles, Pathogens and Practice, 3rd edn. Philadelphia: Churchill Livingstone Elsevier; 201 1.
+3. Bruschi  F,  Murrell  KD.  New aspects of  human  trichinellosis:  the impact of new Trichinella species. Postgrad Med J 2002;78:15-22.
+4. Murrell KD, Bruschi F. Clinical trichinellosis. Prog Clin Parasitol 1994;4:116-50.
+5. Kennedy  ED,  Hall  RL,  Montgomery  SP,  et  al.  Trichinellosis  surveillance  United States, 2002-2007. MMWR Surveill Summ 2009;58:1-7.
+6. Dupouy-Camet J, Bruschi F. Management and diagnosis of human trichinellosis. In: Dupouy-Camet J, Murrell KD, eds. FAO/WHO/OIE Guidelines for the  Surveillance,  Management,  Prevention  and  Control  of  Trichinellosis. Paris: OIE; 2007:37-69.
+7. This  reference  is  one  of  the  most  complete  and  updated  reviews  on  human trichinellosis.
+7. Gamble HR, Pozio E, Bruschi F, et al. International Commission on Trichinellosis:  recommendations on the use of serological tests for the detection of Trichinella infection in animals and man. Parasite 2004;11:3-13.
+

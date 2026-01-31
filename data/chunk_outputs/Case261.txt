@@ -1,0 +1,808 @@
+============================================================
+CHUNK 0
+============================================================
+35
+
+============================================================
+CHUNK 1
+============================================================
+INTRODUCTION
+Many viruses can cause hepatitis in humans, such as cytomegalovirus (CMV), or Epstein-Barr virus (EBV), but most cases are caused by at least {ve viruses belonging to {ve different families. 1,2 Hepatitis A virus (HAV) and hepatitis E virus (HEV) are acquired chie|y through ingestion of fecally contaminated food or water and cause a self-limited acute illness. 3-5 Hepatitis B virus (HBV), hepatitis C virus (HCV), and hepatitis D virus (HDV) are transmitted by blood, percutaneously, perinatally, and sexually 6-12 and frequently cause  acute  hepatitis  and  persistent  infection  that  can  lead  to chronic hepatitis, cirrhosis, and its complications. 13,14 Epstein-Barr virus (EBV) and cytomegalovirus (CMV) also cause human hepatitis, but it is not their principal clinical characteristic. 15,16
+Improved sanitation and screening blood products have signi{cantly reduced HAV, HBV and HCV in developed countries, but these remain a serious public health problem in less developed countries, and travelers to these areas are at risk for infection. 1,17 These {ve hepatitis viruses are a major worldwide public health challenge because of morbidity and occasional mortality during acute  infections  and  complications  of  chronic  HBV  and  HCV infections. 13,14,18
+
+============================================================
+CHUNK 2
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Viral entry to the liver can be oral in the case of HAV and HEV , or parenterally in HBV and HCV. Common to all causes of acute viral hepatitis are focal hepatocyte necrosis and histiocytic periportal in|ammation. The reticulin framework of the liver is well preserved except in cases of massive necrosis. Hepatocyte necrosis is usually multifocal with severe changes occurring in centrilobular areas. A mononuclear cellular in{ltration, which is particularly marked in  the  portal zones, is accompanied by proliferation of the bile ducts, Kupffer's cells, and endothelial cells. Cholestasis may occur, and plugs of bile thrombi may be present in the bile canaliculi. Lesions in patients with anicteric hepatitis (i.e., without jaundice) are  generally  less  severe,  consisting  of  focal  in|ammation  and necrosis. Either viral infection of hepatocytes and/or the  host's immune response to the infection is the etiology of the pathologic lesions in viral hepatitis. 19,20
+Repair occurs by regeneration of hepatocytes. There is a gradual disappearance of the mononuclear cell in{ltrate from the portal tracts, but elongated histiocytes and {broblasts may persist. The outcome of acute viral hepatitis may be complete resolution or fatal massive hepatic necrosis. In HBV and HCV infections the virus may persist, and chronic hepatitis, with lymphocytic in|ammation  and  lymphoid  aggregation  in  portal  tracts  occurs  (Fig. 35.1). There may also be microvesicular fatty changes and damage to  the  bile  ducts  and  acidophilic  changes  in  the  hepatocytes. Cirrhosis and hepatocellular carcinoma (HCC) may develop in 15 to 35 years in those with persistent infections. 21
+
+============================================================
+CHUNK 3
+============================================================
+Acute Hepatitis
+Characteristically,  four  clinical  phases  occur  during  a  hepatitis virus infection. After exposure, the virus incubates during the viral
+
+============================================================
+CHUNK 4
+============================================================
+Viral Hepatitis
+Samer S. El-Kamary, Shyamasundaran Kottilil replication phase for 2 to 6 weeks for HAV and HEV and 4 to 10 weeks  for  HBV  and  HCV. 4,22 Then  there  may  be  a prodromal phase, characterized by fever, chills, headache, fatigue, malaise, rash, arthritis, right upper quadrant pain, and a tender liver. Coincident with an improvement in systemic symptoms, the patient will have more pronounced anorexia, nausea, vomiting, weight loss, and right upper quadrant abdominal pain. During the acute icteric phase, jaundice occurs and may persist for several weeks along with dark urine, light (clay-colored) stools, and pruritus. 2,23,24  Most symptoms of viral hepatitis abate within 1 to 3 weeks. Acute HCV infections are usually anicteric and are often not diagnosed. During outbreaks of  HAV,  and  particularly  HEV,  there  are  many  asymptomatic, mild, and anicteric cases. As the acute hepatitis continues into the convalescent phase, the patient may or may not remain icteric, but almost always has anorexia, nausea, weight loss, and, if they smoke cigarettes, lose their taste for smoking. Patients infected with HAV or HEV are more likely to have intestinal symptoms, whereas those with HBV infections may have more systemic symptomatology, such as rash, arthralgias, and arthritis. 2
+
+============================================================
+CHUNK 5
+============================================================
+Chronic Hepatitis
+Whereas acute infections with HAV and HEV resolve, HBV , HCV , and HDV infections may persist. In the setting of immunosuppression, chronic HEV infection is also reported. The frequency of  persistence  varies  with  the  virus  and  the  host  and  inversely correlates,  with  the  severity  of  acute  infection  suggesting  that cell-mediated  immunity  is  involved  in  resolving  the  infection. HBV infection persists in less than 5% of those infected as adults, but in more than 80% of those infected as infants. Acute HCV infection is symptomatic less frequently than hepatitis B and is less likely to become chronic (ranging from 6%-85%) in children than in adults and in women than in men, those with jaundice, and  those  who  have  interleukin-28  B  (IL-28B)  C/C  genotype (described later).
+Chronic hepatitis B and C, and rarely HEV , remain asymptomatic for  15  to  35  years  before  complications  of  cirrhosis  and  HCC occur  (see  Fig  35.1).  Bouts  of  mild  acute  hepatitis  can  occur
+Fig. 35.1 Histologic illustration of hepatitis from a patient with chronic HCV infection. Note bridging fibrosis and piecemeal necrosis.
+intermittently in patients with occult chronic HCV infections. 24 They usually have mild |ulike symptoms and mild jaundice with alanine aminotransferase (ALT) levels 100 to 200 mg/dL. These abnormalities and symptoms often clear in 2 or 3 weeks.
+
+============================================================
+CHUNK 6
+============================================================
+Complications
+Usually the symptoms of acute hepatitis abate after 2 or 3 weeks, but malaise, fatigue, anorexia, and weight loss may persist for up to 6 to 8 weeks.
+
+============================================================
+CHUNK 7
+============================================================
+Fulminating Hepatitis
+Rarely,  acute  viral  hepatitis  may  be  fulminant,  associated  with altered mental status, coagulopathy, and severe jaundice, leading to  death.  Fulminating  hepatitis  occurs  more  frequently  during acute  HEV  infections,  particularly  in  pregnant  women  in  the Indian  subcontinent,  but  this  complication  is  less  common  in other areas. It has been reported in fewer than 1 in 200 cases of HAV and is very rare in acute HCV infections but is more common in  acute  HBV,  particularly  when  there  is  a  concomitant  HDV infection.
+
+============================================================
+CHUNK 8
+============================================================
+Cirrhosis
+Chronic HBV and HCV are the most common causes of liver cirrhosis. Several factors are associated with the {brosis progression rate: duration of infection; age; male gender; alcohol consumption; HBV, HCV, and HIV co-infections; and low CD4 count. Steatosis, being overweight, and diabetes are co-factors of {brogenesis. The viral genotype and viral load have no relationship to the development of cirrhosis.
+
+============================================================
+CHUNK 9
+============================================================
+PATIENT EVALUATION
+The classic {nding in acute viral hepatitis is jaundice, although patients with milder infections may be anicteric when bilirubin levels remain below 2.0 to 2.5 mg/dL. There is also considerable variability of clinical manifestations in different age groups and environments. Patients with  stable  chronic  hepatitis usually  do not  have  jaundice.  In  both  conditions,  the  patient  has  other symptoms and signs listed in other sections. The classic laboratory abnormalities  of  acute  hepatitis  are  elevated  serum  AL T  and aspartate aminotransferase  (AST) up to 10 to 20  times normal and serum bilirubin up to 10 to 15 times normal. There may be elevations in alkaline phosphatase, and atypical lymphocytes can be noted in the peripheral blood {lm in the presence of a normal leukocyte count. Bilirubin is often also present in the urine. These laboratory abnormalities can help detect mild and asymptomatic cases. 20
+Diagnosis of anicteric cases of hepatitis are often based upon a history of potential exposures to patients with hepatitis or risk factors of infection. The severity of acute and chronic hepatitis is  best  measured  by  the  clinical  symptoms  and  serum  levels  of bilirubin, AL T , or AST. Additional tests that can be done in chronic hepatitis include liver biopsy, ultrasonography, and non-invasive tests to evaluate the degree of hepatic {brosis.
+Each virus elicits a characteristic antibody response. Detection of  virus-speci{c  immunoglobulin (Ig)M class  immunoglobulins generally represents acute infection, whereas IgG antibodies may be  present  years  after  resolution  of  disease.  Detection  of  viral antigens or nucleic acid represents chronic infection and correlates with transmissibility.
+
+============================================================
+CHUNK 10
+============================================================
+TREATMENT AND PREVENTION
+There is no speci{c treatment for acute HAV and HEV hepatitis. Supportive care, including rest, is important. 23,25 Silymarin, a milk thistle extract, was reported to slightly accelerate recovery of some symptoms of acute clinical hepatitis; however, the most effective dose schedule has not been ascertained. 26 Secondary transmission should  be  prevented  through  active  and  passive  immunization and careful sanitation and behavior modi{cation. (See subchapters on  HBV,  HCV,  and  HDV  on  treatment  of  acute  and  chronic infection with these viruses.)
+Highly effective vaccines are available for preventing HAV and HBV infections. T wo HEV vaccines were approved and found to be 95% effective, but they are not commercially available due to inadequate demand. 27,28 HDV infections, requiring HBV replication, can be prevented by immunization for HBV.
+
+============================================================
+CHUNK 11
+============================================================
+REFERENCES
+1.  Purcell RH. Hepatitis viruses: changing patterns of human disease. Proc Natl Acad Sci USA 1994;91(7):2401-6.
+2.  Ghabrah  TM,  Stickland  GT,  T sarev  S,  et al.  Acute  viral  hepatitis in  Saudi  Arabia:  seroepidemiological  analysis,  risk  factors,  clinical manifestations, and  evidence for a sixth hepatitis agent. Clin Infect Dis 1995;21(3):621-7.
+3.  Martin A, Lemon SM. Hepatitis A virus: from discovery to vaccines. Hepatology 2006;43(2 Suppl. 1):S164-72.
+4.  Purcell RH, Emerson SU. Hepatitis E: an emerging awareness of an old disease. J Hepatol 2008;48(3):494-503.
+5.  Aggarwal R, Naik S. Epidemiology of hepatitis E: current status. J Gastroenterol Hepatol 2009;24(9):1484-93.
+6.  Alter  MJ. Epidemiology  of hepatitis B in Europe and worldwide. J Hepatol 2003;39(Suppl. 1):S64-9.
+7.  Liang TJ. Hepatitis B: the virus and disease. Hepatology 2009;49(5 Suppl.):S13-21.
+8.  Thomas DL. Hepatitis C epidemiology. Curr T op Microbiol Immunol 2000;242:25-41.
+9.  Wedemeyer H, Manns MP. Epidemiology, pathogenesis and management of hepatitis D: update and challenges ahead. Nat Rev Gastroenterol Hepatol 2010;7(1):31-40.
+10.  Mohamed  MK,  Abdel-Hamid  M,  Mikhail  NN,  et al.  Intrafamilial transmission of hepatitis C in Egypt. Hepatology 2005;42(3):683-7.
+11.  Shebl FM, El-Kamary SS, Saleh DA, et al. Prospective cohort study of  mother-to-infant  infection  and  clearance  of  hepatitis  C  in  rural Egyptian villages. J Med Virol 2009;81(6):1024-31.
+
+============================================================
+CHUNK 12
+============================================================
+REFERENCES
+12.  Arshad  M,  El-Kamary  SS,  Jhaveri  R.  Hepatitis  C  virus  infection during pregnancy and the newborn period - are they opportunities for treatment? J Viral Hepat 2011;18(4):229-36.
+13.  McMahon BJ. The natural history of chronic hepatitis B virus infection. Hepatology 2009;49(5 Suppl.):S45-55.
+14.  Thomas DL, Seeff LB. Natural history of hepatitis C. Clin Liver Dis 2005;9(3):383-98, vi.
+15.  Kofteridis  DP ,  Koulentaki  M,  Valachis  A,  et al.  Epstein  Barr  virus hepatitis. Eur J Intern Med 2011;22(1):73-6.
+16.  Varani S, Landini MP . Cytomegalovirus as a hepatotropic virus. Clin Lab 2002;48(1-2):39-44.
+17.  Zanetti AR, Van Damme P , Shouval D. The global impact of vaccination against hepatitis B: a historical overview. Vaccine 2008;26(49):6266-73.
+18.  Yang JD, Roberts LR. Hepatocellular carcinoma: a global view. Nat Rev Gastroenterol Hepatol 2010;7(8):448-58.
+19.  Chisari FV , Isogawa M, Wieland SF . Pathogenesis of hepatitis B virus infection. Pathol Biol (Paris) 2010;58(4):258-66.
+20.  Guidotti LG, Chisari FV. Immunobiology and pathogenesis of viral hepatitis. Annu Rev Pathol 2006;1:23-61.
+21.  Alter HJ, Seeff LB. Recovery, persistence, and sequelae in hepatitis C virus infection: a perspective on long-term outcome. Semin Liver Dis 2000;20(1):17-35.
+22.  Maheshwari  A,  Ray  S,  Thuluvath  PJ.  Acute  hepatitis  C.  Lancet 2008;372(9635):321-32.
+
+============================================================
+CHUNK 13
+============================================================
+REFERENCES
+23.  Chalmers TC, Eckhardt RD, Reynolds WE, et al. The treatment of acute  infectious  hepatitis.  Controlled  studies  of  the  effects  of  diet, rest, and physical reconditioning on the acute course of the disease and on the incidence of relapses and residual abnormalities. J Clin Invest 1955;34(7 Pt II):1163-235.
+24.  Meky FA, Stoszek SK, Abdel-Hamid M, et al. Active surveillance for acute viral hepatitis in rural villages in the Nile delta. Clin Infect Dis 2006;42(5):628-33.
+25.  Chalmers TC, Reynolds WE, Eckhardt RD, et al. Treatment of acute infectious hepatitis in the armed forces; advantages of ad lib. bed rest and early reconditioning. J Am Med Assoc 1955;159(15):1431-4.
+26.  El-Kamary SS, Shardell MD, Abdel-Hamid M, et al. A randomized controlled  trial  to  assess  the  safety  and  ef{cacy  of  silymarin  on symptoms, signs  and biomarkers  of  acute  hepatitis.  Phytomedicine 2009;16(5):391-400.
+
+============================================================
+CHUNK 14
+============================================================
+35.1 Hepatitis A
+Samer S. El-Kamary, Shyamasundaran Kottilil
+
+============================================================
+CHUNK 15
+============================================================
+KEY FEATURES
+- and epidemic outbreaks (usually water-borne).
+- patients after exposure.
+- to protection afforded by asymptomatic early childhood exposures; major risk to travelers to these areas.
+- discomfort, and elevated AL T and AST.
+- others with potential exposures.
+
+============================================================
+CHUNK 16
+============================================================
+INTRODUCTION
+HAV causes short-incubation infectious hepatitis that is transmitted by  the  fecal-oral  route  and  has  caused  epidemics,  particularly when it  contaminates  the  water  supply. 1 HAV  is  a  small,  nonenveloped,  icosahedral,  positive-sense  RNA  virus  in  the  family Picornaviridae , genus Hepatovirus (Fig.  35.1.1). 1 Although  four HAV genotypes are recognized in humans, there is only one HAV serotype such that neutralizing antibody to any HAV strain will protect against infection worldwide.
+Most infections in developing countries occur early in life and cause few or no symptoms, whereas infections in transitional or developed countries often lead to acute hepatitis in adolescents and adults. Unlike hepatitis B and C viruses, HAV never causes chronic infection. 1
+Although epidemic jaundice has been recognized from epidemics of 'campaign jaundice' that affected armies during the Middle Ages up until the Korean and Vietnam con|icts, HAV was not identi{ed until the 1950s. 2,3 Diagnostic serologic tests are commercially available, and an effective vaccine is licensed. 4
+
+============================================================
+CHUNK 17
+============================================================
+Age and Pattern of Infection
+Although  HAV  infection  occurs  worldwide,  the  epidemiology differs according to sanitary conditions (e.g., water puri{cation, sewage disposal, and crowding). Nearly all inhabitants of some economically developing countries are infected during their {rst 2 or 3 years without symptoms. Low-income regions (sub-Saharan Africa and parts of South Asia) have high endemicity and almost no  susceptible  adolescents  and  adults,  whereas  middle-income regions in Asia, Latin America, Eastern Europe, and the Middle East  have  an  intermediate  level  of  endemicity.  In  countries
+27.  Goel A, Aggarwal R. Advances in hepatitis E - II: epidemiology, clinical manifestations, treatment and prevention. Expert Rev Gastroenterol Hepatol. 2016;10(9):1065-74.
+28.  Strickland GT , El-Kamary SS, Klenerman P , Nicosia A. Hepatitis C vaccine: supply and demand. Lancet Infect Dis 2008;8(6):379-86.
+Fig. 35.1.1 Hepatitis A virus particles in a fecal extract obtained from a patient during the late incubation period of the infection. The particles measure 25 to 27 nm in diameter and possess cubic symmetry ( × 300,000).
+undergoing economic transformation, infection is often delayed to  the  second  and  third  decades,  and  thus,  paradoxically,  HAV becomes a greater public health problem. 5 Higher-income regions (Western Europe, Australia, New  Zealand, Canada, the United States, Japan, the Republic of Korea, and Singapore) have very low HAV endemicity and a high proportion of illness-susceptible adults. 6 Large outbreaks may occur in economically middle- and high-income nations, generally because of exposure to a common source of contaminated food or water; in particular, HAV infection is  a  threat  to  persons  traveling  from  non-endemic  to  endemic areas (Fig. 35.1.2).
+
+============================================================
+CHUNK 18
+============================================================
+Routes of Transmission
+HAV-caused acute hepatitis is principally transmitted person to person  by  a  fecal-oral  route  in  persons  with  close  contact.
+Fig. 35.1.2 Estimated prevalence of hepatitis A virus, 2005. (From Centers for Disease Control and Prevention.)
+Asymptomatic transmission between children and then to a parent is  especially characteristic, illustrating why daycare centers may be implicated in the spread of infection. Food- and water-borne HAV infection often involves a food handler who failed to observe handwashing protocol after defecation. Contamination of inadequately chlorinated water sources has led to both epidemic and sporadic infections. Shell{sh are particularly associated with HAV transmission, because they concentrate the virus by {ltering large volumes of contaminated water, as reported in the 1988 massive epidemic  in  Shanghai. The  short  period  of  viremia  before  the onset of symptoms accounts for rare parenteral transmission.
+Speci{c  risk  factors  in  developed  countries  include  contact with another person with hepatitis or jaundice, men having sex with  men  (MSM),  travel  to  an  endemic  country,  contact  with children attending daycare centers, and intravenous drug use. HAV infection is still endemic among Native Americans in the western states and Alaska.
+
+============================================================
+CHUNK 19
+============================================================
+CLINICAL FEATURES
+After a susceptible person ingests food contaminated with HAV, viral  replication  occurs  principally  in  the  liver.  Virions  can  be detected in stool and blood before the onset of symptoms. Serum transaminases increase several days after viral replication, indicating that hepatocellular damage may be immunologically mediated. 1 Up to 2 weeks after viral excretion and on average 25 to 30 days after exposure, prodromal symptoms may occur. The prodrome, which has an abrupt onset and consists of fever, fatigue, malaise, anorexia, nausea, and vomiting, occurs in over 60% of adults but is uncommon among children. After several days, jaundice occurs in over 60% of adults and less than 25% of children. About 60% of children and 20% of adults have diarrhea. Within 2 weeks of the onset of jaundice, HAV is generally not detected in stool. The serum bilirubin peaks after 7 to 10 days around 10 mg/dL. Within 2  to  4  weeks  of  the  onset  of  symptoms,  jaundice  resolves,  but malaise, fatigue, and anorexia may be prolonged for months. Hepatic failure occurs in 1 in 300 cases and generally does not result in death or the need for liver transplantation.
+Relapsing hepatitis symptoms may occur in up to one-{fth of adult patients within 6 months of resolution of symptoms along with viral excretion and elevated transaminases. Variations include asymptomatic resurgence in liver enzymes, which may persist for as long as a year, and multiple relapses. Prolonged cholestasis with fever, pruritus, and diarrhea can last for months without sequelae. 7
+
+============================================================
+CHUNK 20
+============================================================
+DIAGNOSIS
+Infection is diagnosed by detecting IgM antibodies to the virus (IgM anti-HAV) in the blood at the onset of symptoms. It peaks 4 to 6 weeks after exposure and persists for 3 to 12 months. IgG HAV antibodies, which can  be  detected  1  week  after  the  IgM response, have lifelong neutralizing activity. IgG anti-HAV may also be detected for 2 to 6 months after immunoglobulin administration or HAV vaccination. HAV can also be detected in stool by electron microscopy, which is not a diagnostic tool.
+
+============================================================
+CHUNK 21
+============================================================
+TREATMENT
+There is no speci{c treatment for HAV infection, only symptomatic management. 2,8
+
+============================================================
+CHUNK 22
+============================================================
+Sanitation
+The most important measures to reduce HAV infection involve improvements in sewage disposal, crowding, and hygiene. Food handlers or persons who are ill with unexplained jaundice should be  restricted  from  work,  and  handwashing  should  be  strictly enforced. If hospitalization is necessary, enteric isolation is recommended for 1 week after the onset of jaundice, which coincides with the highest quantities of viral excretion in stool. Additional precautions are needed only in incontinent or demented patients.
+
+============================================================
+CHUNK 23
+============================================================
+Immunization
+When exposure has occurred or is anticipated, passive immunoprophylaxis using concentrated immunoglobulin that contains at least  100 IU/mL of anti-HAV and vaccination with inactivated HAV should be given. The two vaccines licensed in the United States are formalin-inactivated viral particles produced in infected human diploid {broblasts, which provides protection for 10 or more years. Adverse events (e.g., mild soreness at  the injection site, fever) are rare. Over 95% of healthy adults develop anti-HAV antibodies  within  a  month  after  receiving  a  single  dose  of  the vaccine. A booster dose, recommended 6 months after the {rst dose, raises the IgG anti-HAV titer. In clinical trials, a single 25-U dose of vaccine completely prevented symptomatic HAV hepatitis in heavily exposed children 18 days or more after immunization. 9
+People who move or travel to regions where HAV is endemic should  receive  a  {rst  dose  of  vaccine  at  least  1  month  before departure. In the United States, it is recommended that all children receive HAV vaccine at age 1 year. 10 Early childhood asymptomatic infections usually protect the majority of inhabitants of lower- and
+
+============================================================
+CHUNK 24
+============================================================
+KEY FEATURES
+- acute and chronic hepatitis in 400 million people.
+- sexual intercourse, and from mother to her fetus.
+- universal screening of blood and childhood immunization.
+- have been attributed to maternal-fetal transmission leading to higher incidence of chronicity.
+- HCC.
+- has side effects but reduces long-term complications.
+
+============================================================
+CHUNK 25
+============================================================
+INTRODUCTION
+Up until the late 1960s the diagnosis of long-incubation serum hepatitis was made on the basis of jaundice occurring 60 to 120 days after injection of human blood or plasma or the use of inadequately
+
+============================================================
+CHUNK 26
+============================================================
+Hepatitis B
+Samer S. El-Kamary, Shyamasundaran Kottilil middle-income  countries from  HAV-caused  acute  hepatitis. However,  the  more  af|uent  people  in  these  countries  could miss having this early exposure and might bene{t from immunization.
+
+============================================================
+CHUNK 27
+============================================================
+REFERENCES
+1.  Martin A, Lemon SM. Hepatitis A virus: from discovery to vaccines. Hepatology 2006;43(2 Suppl. 1):S164-72.
+2.  Chalmers TC, Eckhardt RD, Reynolds WE, et al. The treatment of acute  infectious  hepatitis.  Controlled  studies  of  the  effects  of  diet, rest, and physical reconditioning on the acute course of the disease and on the incidence of relapses and residual abnormalities. J Clin Invest 1955;34(7 Pt II):1163-235.
+3.  Chalmers TC, Reynolds WE, Eckhardt RD, et al. Treatment of acute infectious hepatitis in the armed forces; advantages of ad lib. bed rest and early reconditioning. J Am Med Assoc 1955;159(15):1431-4.
+4.  Innis BL, Snitbhan R, Kunasol P , et al. Protection against hepatitis a by an inactivated vaccine. JAMA 1994;271(17):1328-34.
+5.  Zakaria S, Fouad R, Shaker O, et al. Changing patterns of acute viral hepatitis at a major urban referral center in Egypt. Clin Infect Dis 2007;44(4):e30-6.
+6.  Jacobsen KH, Wiersma ST. Hepatitis A virus seroprevalence by age and world region, 1990 and 2005. Vaccine 2010;28(41):6653-7.
+7.  Cuthbert JA. Hepatitis A: old and new. Clin Microbiol Rev 2001;14(1):38-58.
+8.  El-Kamary SS, Shardell MD, Abdel-Hamid M, et al. A randomized controlled  trial  to  assess  the  safety  and  ef{cacy  of  silymarin  on symptoms, signs  and biomarkers  of acute  hepatitis.  Phytomedicine 2009;16(5):391-400.
+9.  Nothdurft HD. Hepatitis A vaccines. Expert Rev Vaccines 2008;7(5):535-45.
+10.  Fiore  AE,  Wasley  A,  Bell  BP .  Prevention  of  hepatitis  A  through active  or  passive  immunization:  recommendations  of  the  advisory committee  on  immunization  practices  (ACIP).  MMWR  Recomm Rep 2006;55(RR-7):1-23.
+
+============================================================
+CHUNK 28
+============================================================
+REFERENCES
+sterilized syringes and needles. Serum hepatitis followed vaccination for smallpox in the 19th century and became more prevalent with the increasing use of syringes and needles to treat syphilis in the {rst half of the 20th century. During the 1940s epidemics of hepatitis, later determined to be caused by HBV , followed the administration of yellow fever vaccines stabilized by adding human serum. In 1965 the Australia antigen was discovered by Blumberg and colleagues. Subsequently, this protein in the sera, hepatitis B surface antigen (HBsAg), was shown to be a marker of HBV infection and was used in a very effective vaccine. HBV is a small, enveloped, incompletely double-stranded DNA virus of the genus Orthohepadnavirus, family Hepadnaviridae , which has three distinct viral particles (Fig. 35.2.1). 1 HBV replication occurs by highly error-prone reverse transcription that predisposes to mutations. Mutation in the pre-core region of the genome interrupts translation of mRNA into HBeAg, often leading to aggressive chronic hepatitis. Viral replication and synthesis of core polypeptide still occur, as indicated by HBV DNA in plasma, but HBeAg is not detected. HBeAg is not required for viral replication but seems necessary for establishment of chronic infection by acting as a tolerogen. Clinically, detection of HBeAg correlates with high-level viremia.
+
+============================================================
+CHUNK 29
+============================================================
+EPIDEMIOLOGY
+It  is  estimated  that  400  million  people  are  living  with  chronic HBV infection  (mostly  in  Asia,  sub-Saharan  Africa,  and  other
+3
+Fig. 35.2.1 Electron micrograph showing the complex morphology of hepatitis B virus in serum: (1) small spherical particles of HBsAg; (2) tubular structures of the surface antigen; and (3) large spheroidal particles, the complete virus particle, which may be solid or doubleshelled ( × 252,000).
+developing countries), with half a million deaths annually due to cirrhosis and HCC, and an additional 40,000 due to acute HBV infection. 2
+
+============================================================
+CHUNK 30
+============================================================
+Geographic Distribution
+There  are  marked  geographic  differences  in  the  prevalence  of HBV infection (Fig. 35.2.2) and principal routes of transmission. The incidence of infection has been markedly reduced by widespread use of the HBV vaccines, serologic tests to screen blood transfusions and blood products, and avoiding the reuse of disposable syringes and needles. Despite a marked reduction in transmission in developed countries during the past 30 to 35 years, HBV remains  a  major  cause  of  chronic  liver  disease.  This  is  mostly because of the delay (15-35 years on average) between infection and severe medical complications. In most areas higher HBV rates are  found  in  persons  of  low  socioeconomic  status.  Immigrants from countries with high HBV prevalence have a higher probability of being infected and developing chronic liver disease.
+
+============================================================
+CHUNK 31
+============================================================
+Modes of Transmission
+HBV transmission 3 is facilitated by the large human reservoir of carriers. The virus can be transmitted through blood and blood products, by needle stick, by heterosexual activity or MSM, and from mothers to infants. It is the most infectious of  the major blood-borne  viruses.  In  Asia,  HBV  transmission  often  occurs perinatally  or  during  early  childhood,  whereas  in  sub-Saharan Africa and other developing countries, it is generally acquired in the  {rst  decade  of  life  through  horizontal  transmission  within families and among playmates or, later,  by heterosexual sex.  In the United States, Europe, and other developed nations, MSM and heterosexual exposures and use of illicit drugs are the most important risk factors for HBV infection. Blood transfusions can still  be  an  important  mode  of  transmission where screening of blood before transfusion is inadequate or absent. HBV also may be transmitted to patients or health care workers by contaminated equipment or increased vascular access during hemodialysis, by tattoos, acupuncture, surgery, barbers during shaving, male and female circumcisions, human bite, or in group homes with mentally disabled individuals.
+The highest concentration of HBV is found in the blood of HBeAg-positive patients. HBsAg has been detected in saliva, semen, cerebrospinal |uid, tears, urine, feces, breast milk, and other body |uids. Nonparenteral transmission requires high concentrations of  virus  or  a  break  in  mucosal  barriers,  for  example,  as  might occur due to anal receptive intercourse, in someone with a genital ulcer, and between children with ulcerative skin lesions.
+
+============================================================
+CHUNK 32
+============================================================
+Acute Infections
+From 2 to 4 months after exposure, prodromal symptoms occur in less than half of HBV infections. 1,4 Approximately 15% of adult patients have a serum sickness-like illness characterized by fever, malaise, symmetric distal joint pain, and urticaria; jaundice occurs in 25% to 35%. 1,4 There may be right upper quadrant tenderness with  an  enlarged  liver.  Rarely,  acute  HBV  becomes  fulminant, with increased abdominal pain, fever, vomiting, and encephalopathy. This rare complication occurs more frequently in the elderly and in those with HCV or HIV co-infection.
+
+============================================================
+CHUNK 33
+============================================================
+Chronic Infections and Complications
+Acute HBV infection is self-limited in 95% of healthy adults but persists in almost all infants infected during the perinatal period and  in  40%  to  50%  of  children  infected  before  the  age  of  5. 5 Acute clinical illness is directly related to the immune response to the virus, and those having no or minimal symptoms are more likely to become chronic carriers. This reverse relationship between symptoms  and  persistent  infection  is  highly  in|uenced  by  age when the infection occurs. Thus young children are likely to have asymptomatic chronic HBV infections, whereas adults usually have symptomatic acute hepatitis without a persisting infection. Many with persistent HBV infection have waxing and waning of symptoms and serum levels of AL T and AST over 15 to 35 years with eventual progression to cirrhosis and liver failure. 6
+
+============================================================
+CHUNK 34
+============================================================
+Chronic Hepatitis and Cirrhosis
+Most patients with persistent HBV infection (HBsAg + , HBeAg -, HBe antibody + ) are asymptomatic and have little histologic evidence of liver damage by biopsy (inactive carrier phase). Others progressively develop liver disease, sometimes in association with systemic symptoms (e.g., fatigue and malaise). Long-term complications include cirrhosis, liver failure, and HCC. Evidence of persistence can be detected histologically (immune active phase). In one study, the 5-year survival was 86% in patients with chronic active hepatitis and 55% once cirrhosis was evident. 6,7
+
+============================================================
+CHUNK 35
+============================================================
+Hepatocellular Carcinoma
+HBV infection increases the risk of HCC by 100- to 200-fold, and those with chronic infections develop HCC at a rate of 0.5% to  1.0%  per  year.  Mechanisms  include  increasing  malignant transformation of cells indirectly by increasing cell turnover and {brogenesis and the induction of oncogenes or proto-oncogenes. The risk of HCC is much higher in those with cirrhosis, in males, in  those  who  consume large  amounts of alcohol, in those with high levels of HCV RNA and detectable HBeAg, and in those with HCV co-infections. The tumors are slow growing and present with weight loss, right upper quadrant pain, and occasionally fever or gastrointestinal bleeding. Hepatomegaly and ascites are common, but a discrete mass is often not palpable. 6,7
+
+============================================================
+CHUNK 36
+============================================================
+Prevalence of hepatitis B virus infection
+Fig. 35.2.2 Estimated prevalence of hepatitis B virus infection. (From https://wwwnc.cdc.gov/travel/ yellowbook/2018/infectious-diseases-related-to-travel/hepatitis-b.)
+
+============================================================
+CHUNK 37
+============================================================
+Co-infections With HIV
+Compared with HIV-negative patients, HIV-positive patients more often have HBeAg, HBV genotype A, and co-infection with HCV or HDV. HIV infection did not have a negative impact on the likelihood of HBV therapeutic success, but overall mortality was increased  over  14  times  in  patients  co-infected  with  HIV  and HBV. 8,9
+
+============================================================
+CHUNK 38
+============================================================
+Detection of HBV Antigens and Antibodies
+During the 6- to 8-week incubation period, before biochemical evidence of liver dysfunction or the onset of jaundice, HBV-DNA, HBsAg, and HBeAg can be detected in the plasma. Hepatitis B core antibody (anti-HBc)  is present in the serum 2 to 4 weeks after the appearance of HBsAg, and IgM class becomes undetectable within 6 months of the onset of uncomplicated acute infection, but IgG persists, possibly for life. Antibodies to the surface (antiHBs) and e (anti-HBe) antigens then appear. 10
+
+============================================================
+CHUNK 39
+============================================================
+Detection of HBV-DNA
+The  presence  of  HBV-DNA  represents  viral  replication  and infectivity and is present early in acute cases of HBV and persistently in chronic infections. In addition, the loss of HBV-DNA has been used as a marker of successful therapy (T able 35.2.1).
+
+============================================================
+CHUNK 40
+============================================================
+TREATMENT
+Spontaneous natural clearance of HBsAg occurs in about 2% of chronic carriers each year. Seroclearance is greater in older individuals and those with lower viral loads, and HBV-DNA levels almost always become undetectable before HBsAg clears. 5 Treatment is given for chronic hepatitis B to prevent the development of cirrhosis and HCC. Treatment criteria are based on HBV replication status and  stage  of  liver  disease,  modulated  by  the  patient's  age  and HBeAg status. Therapeutic end points are viral suppression, AL T normalization, HBeAg and HBsAg loss, and improvement in liver histology. 11,12
+Two formulations of interferon and {ve orally administered nucleos(t)ide analogs are approved for use in the United States.
+
+TABLE 35.2.1 Interpretation of Results of Serologic Tests for Hepatitis B
+
+============================================================
+CHUNK 41
+============================================================
+TREATMENT
++, HBeAg = +. +, Anti-HBe = -. +, Anti-HBc.IgM = -. +, Anti-HBc.IgG = -. +, Anti-HBs = -. +, Interpretation = Incubation period. +, HBeAg = +. +, Anti-HBe = -. +, Anti-HBc.IgM = +. +, Anti-HBc.IgG = +. +, Anti-HBs = -. +, Interpretation = Acute hepatitis B. +, HBeAg = +. +, Anti-HBe = -. +, Anti-HBc.IgM = -. +, Anti-HBc.IgG = +. +, Anti-HBs = -. +, Interpretation = Persistent carrier state. +, HBeAg = -. +, Anti-HBe = +. +, Anti-HBc.IgM = + /-. +, Anti-HBc.IgG = +. +, Anti-HBs = -. +, Interpretation = Persistent carrier state. -, HBeAg = -. -, Anti-HBe = +. -, Anti-HBc.IgM = + /-. -, Anti-HBc.IgG = +. -, Anti-HBs = +. -, Interpretation = Convalescence. -, HBeAg = -. -, Anti-HBe = -. -, Anti-HBc.IgM = -. -, Anti-HBc.IgG = +. -, Anti-HBs = +. -, Interpretation = Recovery. -, HBeAg = -. -, Anti-HBe = -. -, Anti-HBc.IgM = +. -, Anti-HBc.IgG = -. -, Anti-HBs = -. -, Interpretation = Infection with hepatitis B virus without detectable HBsAg. -, HBeAg = -. -, Anti-HBe = -. -, Anti-HBc.IgM = -. -, Anti-HBc.IgG = +. -, Anti-HBs = -. -, Interpretation = Recovery with loss of detectable anti-HBs. -, HBeAg = -. -, Anti-HBe = -. -, Anti-HBc.IgM =
+
+============================================================
+CHUNK 42
+============================================================
+TREATMENT
+-. -, Anti-HBc.IgG = -. -, Anti-HBs = +. -, Interpretation = Immunization without infection. Repeated exposure to antigen without infection, or recovery from infection with loss of detectable anti-HBc
+From Zuckerman AJ: Priorities for immunisation against hepatitis B. 20
+These therapies are effective in suppressing HBV replication and preventing disease progression. They have reduced the number of patients requiring liver transplants, and age-related HBV deaths. Treatment is clearly indicated for patients with acute liver failure, decompensated  cirrhosis,  advanced  {brosis  with  high  serum HBV-DNA levels, and those who are HBsAg positive who will be receiving cancer or immunosuppressive chemotherapy. Therapy is also often recommended for patients with compensated cirrhosis who have high levels of HBV replication  (i.e., HBeAg positive and/or high levels of serum HBV-DNA). Because anti-viral therapy reduces the incidence of HCC, these criteria may be broadened to  treat  all  patients  with  compensated  cirrhosis.  Furthermore, those patients who plan to undergo immunosuppressive therapy (chemotherapy for cancer, rituximab) will need to be on anti-viral therapy, even if they do not meet initial criteria to start anti-viral therapy, to prevent reactivation of HBV . Finally, recent data suggest that HBV reactivation may occur in HBV/HCV co-infected patients who  undergo  treatment  for  HCV.  These  patients  should  be monitored  for  ALT  |ares  and  initiated  on  anti-HBV  therapy. Recent  studies  have  also  demonstrated  the  effectiveness  of nucleoside therapy during the third trimester for those patients with  chronic  hepatitis  B  and  high  HBV  viral  load  to  prevent maternal-fetal transmission. 13
+
+============================================================
+CHUNK 43
+============================================================
+TREATMENT
+The decision to use nucleos(t)ide or interferon therapy is based on patient characteristics and preference. Interferon is not recommended for patients with hepatic decompensation, immunosuppression, or medical or psychiatric contraindications. The advantage of  interferon  is  it  is  administered  for  a  {nite  duration  and  is associated  with  a  higher  rate  of  HBsAg  and  HBeAg  clearance. The main disadvantages of interferon are the need for parenteral administration and its frequent side effects and limited ef{cacy in a subset of patients (HBeAg positive and genotype B). Nucleos(t)ide  analogs  are  administered  orally  and  are  well  tolerated,  but sustained remission is uncommon, necessitating lifelong treatment.
+The nucleos(t)ide analogs  in  use  for  treating  HBV  fall  into three groups: L-nucleosides, such as lamivudine; acyclic nucleoside phosphonates, including tenofovir (and TAF) and adefovir; and entecavir,  a  deoxyguanosine  analog.  T elbivudine  is  no  longer manufactured. 14 Mutations  associated  with  drugs  in  one  group confer some resistance to other drugs within the same group and may reduce the sensitivity  to  drugs  in  other  groups.  Entecavir and  tenofovir  have  more  potent  anti-viral  activity  and  a  lower rate of resistance. Nucleos(t)ide analogs are most appropriate for patients with decompensated liver disease or contraindications to interferon  and  who  will  tolerate  long  durations  of  treatment. Entecavir is preferred in patients with other medical conditions that are associated with increased risks of renal insuf{ciency, whereas tenofovir  is  preferred  in  young  female  patients  contemplating pregnancy and patients who might have been exposed to lamivudine in the past. Lamivudine should not be used as {rst-line therapy because of high rates of drug resistance, whereas adefovir is largely superseded by tenofovir because of its weak anti-viral activity.
+
+============================================================
+CHUNK 44
+============================================================
+TREATMENT
+Peginterferon-alpha-2a  (40 kD;  PEG  INF)  is  used  to  treat adults with HBeAg-positive or HBeAg-negative chronic hepatitis B  with  compensated  liver  disease  having  viral  replication  and hepatic in|ammation. It is given subcutaneously once a week; 48 weeks of therapy with PEG INF, with or without lamivudine, was more  effective  than  lamivudine  alone  in  achieving  a  sustained response in patients with  HBeAg-positive or -negative chronic hepatitis B. A long-term follow-up study in patients with HBeAgpositive  disease who received PEG INF monotherapy revealed an HBeAg seroconversion rate of 42% 1 year  after the end of treatment.  A  5-year  follow-up  after  the  end  of  treatment  of HBeAg-negative patients who received PEG INF, with or without lamivudine,  reported  HBsAg  clearance  in  12%  of  patients  and inactive chronic hepatitis B in 17%.
+A meta-analysis of 15 studies reported that 33% and 37% of interferon-treated patients had undetectable levels of HBeAg and HBV-DNA compared with 12% and 17% among those given placebo. The nucleos(t)ide analogs can reduce HBV replication and increase the rate of HBeAg clearance and decrease hepatic in|ammation  but  do  require  lifelong  treatment.  Clearance  of HBeAg after treatment has been associated with improved biochemical, virologic, and histologic outcomes in both HBeAg-positive and -negative patients, leading to reduced risk of progressing to cirrhosis, HCC, liver transplant, and death.
+
+============================================================
+CHUNK 45
+============================================================
+PREVENTION AND CONTROL
+HBV infection can be prevented by reducing exposures, by passive immunoprophylaxis, and by immunization. Dramatic reductions in post-transfusion HBV infection have been achieved by screening blood and blood products for HBsAg. Infection control policies to  prevent  transmission  in  hemodialysis  units  and  health  care centers also have reduced nosocomial transmission. Reductions in  high-risk  sexual  and  drug-related  practices  led  to  declining rates of HBV infection. 3
+
+============================================================
+CHUNK 46
+============================================================
+HBV Vaccination
+Vaccination  is  the  most  important  means  of  reducing  HBV transmission. The {rst vaccine was made from heat-inactivated or chemically inactivated subviral particles derived from chronic
+HBsAg carriers (plasma-derived vaccine) and has been replaced by  HBsAg  particles  expressed  from  recombinant  DNA  in  the yeast Saccharomyces cerevisiae (recombinant vaccine). Combination vaccines  that  contain  recombinant  HBsAg  coupled  with  HAV , Haemophilus  inRuenzae, and  other  childhood  vaccines  are  also available.
+Hepatitis B vaccines are among the safest and most immunogenetic products available. Protection occurs in more than 95% of healthy infants, children, and adults. The recommended schedule includes  three  doses  at  0,  1,  and  6  months,  and  protection  is evident within a couple of weeks of the second dose and correlates with anti-HBs titers above 10 mIU/mL.
+A  nationwide  HBV  vaccination  program  started  in  1984  in Taiwan markedly reduced the prevalence of HBsAg carriage in that nation 15 and markedly reduced HCC incidence in T aiwanese children by 1994. 16
+Post-exposure prophylaxis, including perinatal or sexual exposures, and needle stick accidents, can prevent HBV infection. 17 Anti-HBsAg  should  be  assessed  in  individuals  who  have  been vaccinated or who are at high risk of infection. Those with anti-HBs titers  greater  than  10  mIU/mL  can  be  reassured.  Previously vaccinated  persons  with  anti-HBs  titers  less  than  10  mIU/mL should receive HBV-enriched immunoglobulin (HBIG) and a dose of vaccine. Individuals without prior HBV vaccination or infection and infants born to HBV-positive mothers should receive HBIG and three doses of vaccine to reduce the incidence of HBV infection in  infants  born  to  HBeAg-positive  mothers  and  to  those  with occupational/sexual exposures. 18,19
+
+============================================================
+CHUNK 47
+============================================================
+REFERENCES
+1.  Liang TJ. Hepatitis B: the virus and disease. Hepatology 2009;49(5 Suppl.):S13-21.
+2.  Sorrell MF , Belongia EA, Costa J, et al. National Institutes of Health consensus development conference statement: management of hepatitis B. Ann Intern Med 2009;150(2):104-10.
+3.  Alter  MJ. Epidemiology of hepatitis B in Europe and worldwide. J Hepatol 2003;39(Suppl. 1):S64-9.
+4.  Shiffman  ML.  Management  of  acute  hepatitis  B.  Clin  Liver  Dis 2010;14(1):75-91, viii-ix.
+5.  Liu J, Yang HI, Lee MH, et al. Incidence and determinants of spontaneous  hepatitis  B  surface  antigen  seroclearance:  a  community-based follow-up study. Gastroenterology 2010;139(2):474-82.
+
+============================================================
+CHUNK 48
+============================================================
+KEY FEATURES
+- acute HBV ( co-infection ) or in a patient chronically infected with HBV ( superinfection ).
+- exposures.
+- associated with more severe hepatitis and increased progression to cirrhosis.
+
+============================================================
+CHUNK 49
+============================================================
+Hepatitis D
+Samer S. El-Kamary, Shyamasundaran Kottilil
+
+============================================================
+CHUNK 50
+============================================================
+Hepatitis D
+6.  McMahon BJ. The natural history of chronic hepatitis B virus infection. Hepatology 2009;49(5 Suppl.):S45-55.
+7.  Chisari FV , Isogawa M, Wieland SF. Pathogenesis of hepatitis B virus infection. Pathol Biol (Paris) 2010;58(4):258-66.
+8.  Piroth  L,  Pol  S,  Lacombe  K,  et al.  Management  and  treatment  of chronic hepatitis B virus infection in HIV positive and negative patients: the EPIB 2008 study. J Hepatol 2010;53(6):1006-12.
+9.  Thomas  DL,  Thio  CL,  Martin  MP,  et al.  Genetic  variation  in IL28B  and  spontaneous  clearance  of  hepatitis  C  virus.  Nature 2009;461(7265):798-801.
+10.  Bonino F, Piratvisuth T , Brunetto MR, Liaw YF . Diagnostic markers of chronic hepatitis B infection and disease. Antivir Ther 2010;15(Suppl. 3):35-44.
+11.  Wiegand J, van Bommel F, Berg T. Management of chronic hepatitis B:  status  and challenges beyond treatment guidelines. Semin Liver Dis 2010;30(4):361-77.
+12.  Perrillo RP . Therapy of hepatitis B - viral suppression or eradication? Hepatology 2006;43(2 Suppl. 1):S182-93.
+13.  Pan  CQ,  Duan  Z,  Dai  E,  et al.  T enofovir  to  prevent  hepatitis B  transmission  in  mothers  with  high  viral  load.  N  Engl  J  Med 2016;374(24):2324-34.
+14.  Miller  J.  HBV  drug  T yzeka  discontinued.  https://www.healio.com/ hepatology/viral-hepatitis/news/online/%7B19abbd6d-cd78-478 2-be36-257e2929e9e9%7D/hbv-drug-tyzeka-discontinued.
+15.  Chen HL, Chang MH, Ni YH, et al. Seroepidemiology of hepatitis B virus infection in children: ten years of mass vaccination in T aiwan. JAMA 1996;276(11):906-8.
+
+============================================================
+CHUNK 51
+============================================================
+Hepatitis D
+16.  Chang MH, Chen CJ, Lai MS, et al. Universal hepatitis B vaccination  in  T aiwan  and  the  incidence  of  hepatocellular  carcinoma  in children. T aiwan  childhood  hepatoma  study group.  N  Engl  J  Med 1997;336(26):1855-9.
+17.  Iwarson S. Post-exposure prophylaxis for hepatitis B: active or passive? Lancet 1989;2(8655):146-8.
+18.  Mast EE, Margolis HS, Fiore AE, et al. A comprehensive immunization strategy  to  eliminate  transmission  of  hepatitis  B  virus  infection  in the United States: recommendations of the advisory committee on immunization practices (ACIP) part 1: immunization of infants, children, and adolescents. MMWR Recomm Rep 2005;54(RR-16):1-31.
+19.  Mast EE, Weinbaum CM, Fiore AE, et al. A comprehensive immunization strategy to eliminate transmission of hepatitis B virus infection in the United States: recommendations of the Advisory Committee on Immunization Practices (ACIP) part II: immunization of adults. MMWR Recomm Rep 2006;55(RR-16):1-33. quiz CE1-4.
+20.  Zuckerman  AJ.  Priorities  for  immunisation  against  hepatitis  B.  Br Med J (Clin Res Ed) 1982;284(6317):686-8.
+
+============================================================
+CHUNK 52
+============================================================
+INTRODUCTION
+In 1981 an outbreak of severe hepatitis was investigated among the  indigenous  population  in Venezuela. The  disease,  having  a high mortality, especially among young children and adolescents, was due to delta agent. The clinical and epidemiologic features of the outbreak were similar to those in previous reports of Labrea hepatitis (black fever) in the upper Amazon River basin along the Purus and Juruá Rivers in Brazil. 1,2
+HDV is an unclassi{ed RNA virus that is dependent on HBV envelope  proteins  for  replication. 3 It  is  distinct  from  antigenic determinants of HBV and is localized in the nuclei of liver cells of patients with HBV infection. HDV RNA encodes for two forms of the nucleocapsid protein, the delta antigen (HDAg). The two HDAg products function differently, with the short form being necessary for viral replication and the longer required for packaging the genome and suppressing replication.
+
+============================================================
+CHUNK 53
+============================================================
+EPIDEMIOLOGY
+The distribution  and transmission of HDV infection has three patterns: (1) endemic and associated with non-parenteral spread in Italy, other Mediterranean countries, and the Middle East; (2) endemic-epidemic in the Amazon area and other remote areas of South America; and (3) sporadic and associated with parenteral transmission in almost all other geographic areas. Like HBV and HCV,  HDV  is  parenterally  transmitted. 4 HDV  in  developed countries  is  most  prevalent  in  certain  high-risk  groups  (e.g., intravenous drug users). It can be transmitted both sexually and through  non-sexual  household  contacts;  the  latter  is  the  most common route of transmission in indigenous populations in South America, Africa, and parts of Central and Southeast Asia.
+
+============================================================
+CHUNK 54
+============================================================
+CLINICAL FEATURES AND NATURAL HISTORY
+After an incubation of 4  to 8  weeks, there is a viral hepatitis  syndrome that is generally more severe than with other hepatitis viruses and that may be fulminant. When HDV and HBV co-infection occurs, recovery is the rule.  In  contrast,  HDV superinfection of  chronic hepatitis B persists in more than 60% of patients and is associated with a threefold increased rate of progression to cirrhosis. 4
+A retrospective study of 188 Italian patients studied the impact of viral and patient features on survival. 5 Eighty-two patients (43%) had chronic hepatitis at histology; the remaining 106 individuals had a clinical/histologic diagnosis of cirrhosis. Ninety-six patients received interferon or lamivudine therapy, and 27 (30%) attained a sustained viral cure. During follow-up, 21 of the treated patients with chronic hepatitis progressed to cirrhosis. Of the 127 cirrhotic patients, hepatic decompensation occurred in 33% and HCC in 13%. The 5- and 10-year survival-free events were 96.8% and 81.9%, respectively, for patients with chronic hepatitis, and 83.9% and  59.4% for  those  with  cirrhosis.  Lack  of  anti-viral  therapy,
+
+============================================================
+CHUNK 55
+============================================================
+35.4 Hepatitis C
+Samer S. El-Kamary, Shyamasundaran Kottilil
+
+============================================================
+CHUNK 56
+============================================================
+KEY FEATURES
+- (1%) people, most in lesser developed countries. 1
+- intravenous drug use, but multiple causes of transmission are present, including unsterile injections from health care providers and familial exposures in less developed countries.
+- chronic hepatitis, 15% to 20% of whom develop cirrhosis and hepatocellular carcinoma over decades.
+- considerably in the last few years, with a considerable improvement in ef{cacy and reduction of side effects.
+
+============================================================
+CHUNK 57
+============================================================
+INTRODUCTION
+HCV was  cloned  and  sequenced  in  1989. 2,3 Shortly  thereafter assays were developed to detect HCV RNA and antibodies. 4 Huge epidemics of both HCV and HBV occurred in some countries cirrhosis at presentation, and male sex independently predicted a worse outcome. Interferon therapy was recommended to slow or alter the natural course of liver disease, although sustained remission with interferon therapy is only modest. 5
+
+============================================================
+CHUNK 58
+============================================================
+DIAGNOSIS
+Acute  HDV  and  HBV co-infection is  recognized  by  transient detection of HDAg or, more often, antibody to HDAg (anti-HD) with the typical serologic pro{le for acute HBV infection. Within months of infection, there may be no serologic evidence of HDV co-infection . HDV superinfection is recognized by anti-HD (IgG or  IgM)  and/or  HDV  RNA  or  HDAg;  persistent  detection  of these signi{es chronic infection.
+
+============================================================
+CHUNK 59
+============================================================
+PREVENTION
+There is no anti-viral treatment for HDV . HDV infection is deterred by prevention of HBV infection using its vaccine.
+
+============================================================
+CHUNK 60
+============================================================
+REFERENCES
+1.  Bensabath G, Hadler SC, Soares MC, et al. Hepatitis delta virus infection and Labrea hepatitis. Prevalence and role in fulminant hepatitis in the Amazon basin. JAMA 1987;258(4):479-83.
+2.  Gomes-Gouvea MS, Soares MC, Bensabath G, et al. Hepatitis B virus and hepatitis delta virus genotypes in outbreaks of fulminant hepatitis (Labrea black fever) in the western Brazilian Amazon region. J Gen Virol 2009;90(Pt 11):2638-43.
+3.  Casey JL. Hepatitis delta virus: molecular biology, pathogenesis and immunology. Antivir Ther 1998;3(Suppl. 3):37-42.
+4.  Wedemeyer H, Manns MP . Epidemiology, pathogenesis and management of hepatitis D: update and challenges ahead. Nat Rev Gastroenterol Hepatol 2010;7(1):31-40.
+5.  Niro  GA,  Smedile A, Ippolito AM,  et al.  Outcome  of  chronic  delta hepatitis in Italy: a long-term cohort study. J Hepatol 2010;53(5):834-40.
+after well-intended efforts to control endemic infectious diseases (schistosomiasis, sleeping sickness, malaria) during the middle of the 20th century. 5,6
+The majority of initial infections are asymptomatic. 7,8 Chronic infections have a prolonged asymptomatic chronic hepatitis phase that  may progress  over  15  to  35  years  to  cirrhosis  and  HCC. 9 Unlike for HBV, there is no preventive vaccine for HCV . 10,11 Prior therapy was prolonged, toxic, complex, and only modestly effective. 12 New therapies have improved considerably with high ef{cacy and few side effects. 13
+
+============================================================
+CHUNK 61
+============================================================
+REFERENCES
+The virus is a single-stranded, positive-sense RNA virus in the genus Flavivirus, family Flaviviridae . 14 It has an RNA polymerase that lacks a proofreading ability and has a replication rate of an estimated 10 12 virions per day, thereby making it potentially possible to generate a mutation in every single position of the genome in one  infected  host  every  day. 15 Within  an  individual  there  are innumerable HCV variants that constitute a quasi-species, whose presence often confounds the immune response and complicates vaccine development. 16
+
+============================================================
+CHUNK 62
+============================================================
+Distribution
+HCV infection rates increase with age and are much higher in high-risk  groups.  The  World  Health  Organization  (WHO)
+estimates  that  1%  of  the  world's  population  has  been  infected with HCV and that 71 million persons are chronic carriers 1 (Fig. 35.4.1). There may be 8 million carriers in Egypt alone; nearly 4 million Americans are infected with HCV , with an estimated 17,000 new infections each year, and it is believed to be responsible for the deaths of 10,000 Americans annually. 6,17,18
+
+============================================================
+CHUNK 63
+============================================================
+Transmission
+Sharing  of  needles  by  injecting  illicit  drugs  accounts  for  most HCV cases in developed countries. 9,17 Inhabitants of developing countries  are  usually  infected  from  parenteral  exposures  from injections and other activities that penetrate the skin, inadequate screening of blood and blood products before transfusion, during renal dialysis, and from 'interfamilial exposures.' 19,20-23
+In countries with high rates of HCV infections, transfusions remain risky because there is inadequate screening of blood or blood  products  for  HCV.  From  2%  to  6%  of  infants  born  to HCV-infected mothers have persistent infections. 24,25 In children, perinatal transmission is the most common route of transmission in developed countries, 26,27 though breastfeeding is not an important transmission route. 25,28 Assessment of infant HCV infection should include HCV RNA detection, because antibody-negative infection has been documented and maternal HCV antibodies are passively transferred to infants. 24 Sexual transmission of HCV also occurs but with low frequency. 29 In  over one-third of  HCV infections no speci{c exposure is identi{ed.
+The high prevalence in Egypt and equatorial Africa is believed to be due to various percutaneous exposures. For example, from the  1950s  to  the  1970s  the  Egyptian  government  sponsored  a national schistosomiasis control program that used intravenous tartar emetic in mass treatment campaigns, and health care providers in the Central African Republic and Cameroon during the same period treated and controlled African trypanosomiasis,  malaria, and other endemic infectious diseases with intravenous medications. 5,20 Exposure to blood by injections from conventional and traditional  village  health  workers,  dental  procedures,  cuts  from barbers, male and female circumcisions, and other activities are believed to continue HCV transmission in communities with a large HCV reservoir. 19,20-23,30
+
+============================================================
+CHUNK 64
+============================================================
+Prevalence of hepatitis C virus infection
+Fig. 35.4.1 Estimated prevalence of hepatitis C virus infection. (From https://wwwnc.cdc.gov/travel/ yellowbook/2018/infectious-diseases-related-to-travel/hepatitis-c.)
+
+============================================================
+CHUNK 65
+============================================================
+PATHOGENESIS AND PATHOLOGY
+Individuals with chronic hepatitis C generally have lymphocytic in|ammation with lymphoid aggregation in portal tracts. There may also be microvesicular fatty changes and damage to bile ducts and acidophilic changes in hepatocytes-histologic {ndings that may also occur with HBV infection but are more characteristic of  hepatitis  C.  Cirrhosis  may  also  be  present,  being  associated with a long duration of infection. 31
+
+============================================================
+CHUNK 66
+============================================================
+Acute Infection
+The onset of HCV infection is usually unrecognized. 32 Within 1 to  3  weeks  of  exposure,  HCV  RNA  can  be  detected  in  blood. Transaminases may  become  elevated  3  to  9  weeks  (average  50 days) later, but only 20% to 25% are jaundiced or are symptomatic, which tends to be mild. The mean incubation period until the onset  of  symptoms  is  7  weeks,  and  clinical  illness  usually  lasts from 2 to 12 weeks with AL T and AST returning to normal and HCV RNA becoming undetectable within that time. Fulminating hepatitis from HCV infection is rare. 32
+
+============================================================
+CHUNK 67
+============================================================
+Chronic Infection
+HCV RNA can be persistent in 60% to 80% of patients after exposure. 9 The chronic HCV carrier often has intermittent elevations  in  transaminases  and  mild  jaundice. 33 Liver  biopsies  in HCV-positive patients with persistently normal AL T levels usually reveal evidence of in|ammation and have better prognosis. Clinical symptoms or signs of liver disease tend to initially be non-speci{c, mild, and intermittent, with fatigue described as lethargy, malaise, lack of energy, anorexia, nausea, arthralgia, myalgia, weakness, and weight loss. 9
+Many chronic HCV carriers are asymptomatic. The duration of infection and co-factors (e.g., use of alcohol, concurrent HIV-1 infection, or the HCV genotype causing the infection) may affect hepatitis C prognosis, which remains unpredictable. 34
+
+============================================================
+CHUNK 68
+============================================================
+Cirrhosis
+From 10% to 20% of HCV-infected patients develop cirrhosis over a period of 15 to 30 years. Once cirrhosis develops, marked fatigue, muscle weakness and wasting, |uid retention with edema and ascites, easy bruising, dark urine, jaundice, itching, and upper gastrointestinal  hemorrhage  can  occur. Hepatic failure  is more likely in those with additional causes of liver disease (e.g., schistosomiasis, concomitant HBV or HIV, and alcoholic liver disease). Staging  of  the  {brosis  as  detected  on  liver  biopsy  can  predict clinical outcomes, need for liver transplantation, and liver-related death. 35
+
+============================================================
+CHUNK 69
+============================================================
+Hepatocellular Carcinoma
+The annual incidence of HCC is 2% to 3% in those who have cirrhosis. 36,37 There are geographic differences in the incidence of HCV-caused HCC, perhaps due to the length of time HCV has  been  transmitted  in  the  local  area  or  to  differences  in  the prevalence of other HCC-causing cofactors.
+
+============================================================
+CHUNK 70
+============================================================
+Extrahepatic Complications
+HCV  infection  has  been  associated  with  several  extrahepatic syndromes, including essential mixed cryoglobulinemia (with or without vasculitis) and membranoproliferative glomerulonephritis. There  are  also  reported  correlations  of  HCV  infection  with arthritis,  type  2  diabetes  mellitus,  keratoconjunctivitis  sicca, lymphoma, Hashimoto's thyroiditis, lichen planus, and porphyria cutanea tarda.
+
+============================================================
+CHUNK 71
+============================================================
+Essential Mixed Cryoglobulinemia
+Hepatitis C appears to be the most common cause of this syndrome, which  is  marked  by  varying  combinations  of  fatigue,  myalgia, arthralgia and arthritis, hives, purpura or vasculitis, neuropathy, and glomerulonephritis. 38 Cryoglobulins, composed of immune complexes of HCV and anti-HCV, immunoglobulins, rheumatoid factor, and complement, are present in the serum. Cryoglobulins are detectable in up to one-third of patients with chronic HCV, but  the  clinical  syndrome  of  essential  mixed  cryoglobulinemia occurs in less than 2%.
+
+============================================================
+CHUNK 72
+============================================================
+Non-Hodgkin's Lymphoma
+Chronic HCV infection is a risk factor for non-Hodgkin's lymphoma (NHL). 39 Case series studies had a higher-than-expected prevalence of NHL in patients with essential mixed cryoglobulinemia and chronic HCV infection.
+
+============================================================
+CHUNK 73
+============================================================
+DIAGNOSIS
+The detection of anti-HCV in plasma or serum indicates prior or current infection, and RNA detection using reverse transcription polymerase chain reaction (RT-PCR) assays can quantitate the virus. 40 About  60%  to  80%  of  those  who  are  positive  by  the third-generation  enzyme  immunosorbent  assay  (EIA)  tests  are also positive by RT-PCR and are considered to have active HCV infections.  The  remaining  20%  to  40%  of  anti-HCV-positive subjects  who  are  RT-PCR  negative  have  usually  cleared  their viremia.
+Detection  of  HCV  RNA  indicates  ongoing  infection  and transmissibility. Studies of perinatal hepatitis C have demonstrated that  anti-HCV-positive,  HCV-RNA-negative  mothers  do  not transmit infection to their infants, whereas HCV-RNA-positive mothers can. 24  HCV RNA may rarely be detected in anti-HCVnegative individuals, mostly in the acute phase of infection. RT-PCR can be used to determine HCV genotypes and viral load. Also, the quantity of HCV RNA correlates with perinatal and sexual transmission.
+
+============================================================
+CHUNK 74
+============================================================
+Justification for Treatment
+Sixty percent to eighty percent of individuals with acute hepatitis C progress to chronic infections. 40 Spontaneous resolution is more common  among  infected  infants,  children  and  young  women, those who have jaundice, and those who have the IL-28B C/C genotype  (described  later). 22,24 Spontaneous  clearance  of  acute HCV infection and therapeutic response of patients with chronic hepatitis  C  to  the  older  therapy  with  pegylated  interferon  is associated with a single nucleotide polymorphism (SNP) upstream of the IL-28B gene. 41,42 Spontaneous clearance of infection was much more common in patients with the C/C genotype (64%) than in the C/T genotype (24%) and rare in those with the T/T genotype (6%). There are racial differences in spontaneous clearance of acute HCV and sustained viral response after treatment with pegylated interferon alpha a or b (PEG) and ribavirin, with black patients having poorer responses than Caucasians, which is likely re|ective of the higher prevalence of the IL-28B C/C haplotype in  Caucasians.  Current  therapies  with  directly  acting  anti-viral (DAA) oral regimens are not affected by the host's IL-28B gene or the viral genotype (pangenotypic).
+People with HCV-related cirrhosis are at 30% risk over 10 years of developing hepatic decompensation, as well as HCC (1%-3%
+
+TABLE 35.4.1 Direct Acting Antiviral All-Oral Therapies Approved for Treatment of Hepatitis C Infection
+
+============================================================
+CHUNK 75
+============================================================
+Justification for Treatment
+Ledipasvir/sofosbuvir, Year Approved = 2014. Ledipasvir/sofosbuvir, Genotype = 1, 4. Ledipasvir/sofosbuvir, Route = PO. Ledipasvir/sofosbuvir, Usual Adult Dosage = 90 mg/400 mg once daily for 12-24 weeks. Ledipasvir/sofosbuvir, SVR (%) = > 95. Sofosbuvir/velpatasvir, Year Approved = 2016. Sofosbuvir/velpatasvir, Genotype = All. Sofosbuvir/velpatasvir, Route = PO. Sofosbuvir/velpatasvir, Usual Adult Dosage = 400 mg/100 mg/day for 12 weeks. Sofosbuvir/velpatasvir, SVR (%) = > 99. Sofosbuvir/velpatasvir/voxilaprevir, Year Approved = 2017. Sofosbuvir/velpatasvir/voxilaprevir, Genotype = All. Sofosbuvir/velpatasvir/voxilaprevir, Route = PO. Sofosbuvir/velpatasvir/voxilaprevir, Usual Adult Dosage = 400 mg/100 mg/100 mg/day for 12 weeks. Sofosbuvir/velpatasvir/voxilaprevir, SVR (%) = > 99. Daclatasvir/sofosbuvir, Year Approved = 2015. Daclatasvir/sofosbuvir, Genotype = All. Daclatasvir/sofosbuvir, Route = PO. Daclatasvir/sofosbuvir, Usual Adult Dosage = 60 mg/400 mg/day for 12-24 weeks. Daclatasvir/sofosbuvir, SVR (%) = > 95. Grazoprevir/elbasvir, Year Approved = 2016. Grazoprevir/elbasvir, Genotype = 1, 4. Grazoprevir/elbasvir, Route = PO. Grazoprevir/elbasvir, Usual Adult Dosage = 100 mg/50 mg/day for 12-16 weeks. Grazoprevir/elbasvir, SVR (%)
+
+============================================================
+CHUNK 76
+============================================================
+Justification for Treatment
+= > 95. Glecaprevir/pibrentasvir, Year Approved = 2017. Glecaprevir/pibrentasvir, Genotype = All. Glecaprevir/pibrentasvir, Route = PO. Glecaprevir/pibrentasvir, Usual Adult Dosage = 300 mg/120 mg/day for 8-16 weeks. Glecaprevir/pibrentasvir, SVR (%) = > 99. Ombitasvir/paritaprevir/ ritonavir + dasabuvir, Year Approved = 2014. Ombitasvir/paritaprevir/ ritonavir + dasabuvir, Genotype = 1, 4. Ombitasvir/paritaprevir/ ritonavir + dasabuvir, Route = PO. Ombitasvir/paritaprevir/ ritonavir + dasabuvir, Usual Adult Dosage = 12.5 mg/75 mg/50 mg (two pills once daily) + dasabuvir 250 mg twice daily for 12-24 weeks ( + RBV for 1a). Ombitasvir/paritaprevir/ ritonavir + dasabuvir, SVR (%) = > 95. Daclatasvir/asunaprevir*, Year Approved = 2017. Daclatasvir/asunaprevir*, Genotype = 1b. Daclatasvir/asunaprevir*, Route = PO. Daclatasvir/asunaprevir*, Usual Adult Dosage = 60 mg/400 mg/day for 24 weeks. Daclatasvir/asunaprevir*, SVR (%) = > 90. Sofosbuvir/simeprevir, Year Approved = 2014. Sofosbuvir/simeprevir, Genotype = 1. Sofosbuvir/simeprevir, Route = PO. Sofosbuvir/simeprevir, Usual Adult Dosage = 400/150 mg once daily for 12-24 weeks. Sofosbuvir/simeprevir, SVR (%) = 90. PEG-interferon alfa-2a, Year Approved = 2002. PEG-interferon alfa-2a, Genotype = All. PEG-interferon alfa-2a, Route = SC.
+
+============================================================
+CHUNK 77
+============================================================
+Justification for Treatment
+PEG-interferon alfa-2a, Usual Adult Dosage = 180 μ g weekly for 48 weeks. PEG-interferon alfa-2a, SVR (%) = 50. or PEG-interferon alfa-2b, Year Approved = 2001. or PEG-interferon alfa-2b, Genotype = . or PEG-interferon alfa-2b, Route = SC. or PEG-interferon alfa-2b, Usual Adult Dosage = 1.5 μ g/kg weekly for 48 weeks. or PEG-interferon alfa-2b, SVR (%) = . plus ribavirin, Year Approved = . plus ribavirin, Genotype = . plus ribavirin, Route = PO. plus ribavirin, Usual Adult Dosage = 800-1200 mg/day, depending on weight. plus ribavirin, SVR (%) = 
+- *Approved only in Japan and China as of 2017. All others FDA approved. SVR , Sustained virologic response; RBV , ribavirin.
+per year). A liver biopsy or non-invasive techniques such as serum {brosis biomarkers or ultrasound-based or magnetic resonance elastography can diagnose the level of {brosis or cirrhosis.
+
+============================================================
+CHUNK 78
+============================================================
+Therapeutic Goals
+Therapy  is  given  to  eliminate  infection  and  prevent  overall mortality. 40,43,44
+
+============================================================
+CHUNK 79
+============================================================
+Therapeutic Regimens
+Starting  in  the  1990s  HCV  treatment  consisted  of  parenteral interferon and oral ribavirin, with a modest cure rate. Although the cure rate gradually improved for the next two decades, this therapy was toxic, was prolonged, was genotype-dependent, and was, at best, successful in 50% to 60% of patients. It required 24 to 48 weeks of treatment, and the patient had to be followed for another 24 weeks to con{rm a sustained viral response as evidence of a complete cure (SVR-24).
+A series of major breakthroughs started in 2009 with the Food and  Drug Administration (FDA) approval of two oral protease inhibitors, boceprevir and telaprevir, which were combined with pegylated interferon and  ribavirin. 45-47 This  improved  the  cure rate to 70% to 75% but with numerous side effects. In 2013 the FDA approved two highly effective drugs, sofosbuvir (a nucleotide analog  NS5B  polymerase  inhibitor)  and  simeprevir  (protease inhibitor), which improved the response rate to 90%, but still in combination with  pegylated  interferon  and  ribavirin. The  next year (2014) ushered in a new era, where the FDA approved the {rst  all-oral  direct  acting  antiviral  (DAA)  therapeutic  regimens (without interferon or ribavirin) that had very high success rates, few  side  effects,  and  shorter  duration  of  treatment  (12  weeks), with  a  shorter  12-week  follow-up  period  to  con{rm  sustained viral response (SVR-12). Since then several new drugs and drug combinations have been approved (Table 35.4.1). Whereas all of these were approved for adults, in 2017, the FDA approved the {rst DAAs for the treatment of chronic HCV infection in adolescents aged 12 to 17 years: sofosbuvir/ledipasvir for genotypes 1, 4, 5, or 6, and sofosbuvir plus ribavirin for genotypes 2 or 3.
+
+============================================================
+CHUNK 80
+============================================================
+Therapeutic Regimens
+The vast numbers of HCV therapies available now are truly remarkable and provide the clinician with a wide range of therapies that can be tailored to each patient's condition. All regimens are well  tolerated  and  achieve  cure  rates  in  most  treated  patients. Expansion of HCV treatment globally depends on the availability of cheaper, effective generic medications, as demonstrated in the case of HIV infection.
+
+============================================================
+CHUNK 81
+============================================================
+Treatment of Acute Hepatitis C
+A minority of acute HCV infections are diagnosed, but up to half of patients with symptomatic acute hepatitis C spontaneously clear their infections, usually within 12 weeks. Before the current all-oral DAA therapies, treatment with standard pegylated monotherapy was the gold standard, where the cure rate was better than 80%. With the advent of DAAs, the exposed asymptomatic or symptomatic patient should be tested for anti-HCV antibody and HCV RNA every 4 to 8 weeks for 6 to 12 months until chronic infection is  con{rmed, then treatment with DAA should be started. Preexposure or post-exposure prophylaxis with anti-viral therapy is not recommended. 48
+
+============================================================
+CHUNK 82
+============================================================
+PREVENTION AND CONTROL
+Dramatic reductions in post-transfusion hepatitis C occurred after the institution of screening of blood donors for HCV antibodies and HCV RNA, which were highly effective in developed countries but not as rigorously applied in developing countries. Activities in the communities, for example, cuts from barbers, dental procedures, and injections from traditional healers as well as health care providers, all may transmit HCV and can be in|uenced by appropriate health education. 20
+There is no available vaccine to prevent HCV infection, and, due  to  the  extent  of  viral  heterogeneity,  a  universally  effective HCV vaccine will be dif{cult to develop. 10
+
+============================================================
+CHUNK 83
+============================================================
+REFERENCES
+1.  Polaris  Observatory  HCV  Collaborators.  Global  prevalence  and genotype distribution of hepatitis C virus infection in 2015: a modelling study. Lancet Gastroenterol Hepatol 2017;2(3):161-76.
+2.  Choo QL, Kuo G, Weiner AJ, et al. Isolation of a cDNA clone derived from  a  blood-borne  non-A,  non-B  viral  hepatitis  genome.  Science 1989;244(4902):359-62.
+3.  Houghton M. The long and winding road leading to the identi{cation of the hepatitis C virus. J Hepatol 2009;51(5):939-48.
+
+============================================================
+CHUNK 84
+============================================================
+REFERENCES
+4.  Scott  JD,  Gretch  DR.  Molecular  diagnostics  of  hepatitis  C  virus infection: a systematic review. JAMA 2007;297(7):724-32.
+5.  Frank C, Mohamed MK, Strickland GT, et al. The role of parenteral antischistosomal therapy in the spread of hepatitis C virus in Egypt. Lancet 2000;355(9207):887-91.
+6.  Strickland GT. Liver disease in Egypt: hepatitis C superseded schistosomiasis as a result of iatrogenic and biological factors. Hepatology 2006;43(5):915-22.
+7.  Al-Sherbiny M, Osman A, Mohamed N, et al. Exposure to hepatitis C virus induces cellular immune responses without detectable viremia or seroconversion. Am J Trop Med Hyg 2005;73(1):44-9.
+8.  Hashem M, El-Karaksy H, Shata MT, et al. Strong hepatitis C virus (HCV)-speci{c  cell-mediated  immune  responses  in  the  absence  of viremia or antibodies among uninfected siblings of HCV chronically infected children. J Infect Dis 2011;203(6):854-61.
+9.  Thomas DL, Seeff LB. Natural history of hepatitis C. Clin Liver Dis 2005;9(3):383-98, vi.
+10.  Strickland GT , El-Kamary SS, Klenerman P, Nicosia A. Hepatitis C vaccine: supply and demand. Lancet Infect Dis 2008;8(6):379-86.
+11.  Houghton M, Abrignani S. Prospects for a vaccine against the hepatitis C virus. Nature 2005;436(7053):961-6.
+12.  Klenerman  P ,  Fleming  V,  Barnes  E.  What  are  the  prospects  for controlling hepatitis C? PLoS Med 2009;6(6):e1000096.
+13.  AASLD/IDSA HCV Guidance Panel. Hepatitis C guidance: AASLDIDSA recommendations  for  testing,  managing,  and  treating  adults infected with hepatitis C virus. Hepatology 2015;62(3):932-54.
+
+============================================================
+CHUNK 85
+============================================================
+REFERENCES
+14.  Lindenbach BD, Rice CM. Unravelling hepatitis C virus replication from genome to function. Nature 2005;436(7053):933-8.
+15.  Neumann AU, Lam NP, Dahari H, et al. Hepatitis C viral dynamics in vivo and the antiviral ef{cacy of interferon-alpha therapy. Science 1998;282(5386):103-7.
+16.  Smith  JA,  Aberle  JH,  Fleming  VM,  et al.  Dynamic  coinfection with  multiple  viral  subtypes  in  acute  hepatitis  C.  J  Infect  Dis 2010;202(12):1770-9.
+17.  Alter  MJ,  Kruszon-Moran D, Nainan OV,  et al. The prevalence of hepatitis C virus infection in the United States, 1988 through 1994. N Engl J Med 1999;341(8):556-62.
+18.  Armstrong GL, Wasley A, Simard EP , et al. The prevalence of hepatitis C virus infection in the United States, 1999 through 2002. Ann Intern Med 2006;144(10):705-14.
+19.  Mohamed  MK,  Abdel-Hamid  M,  Mikhail  NN,  et al.  Intrafamilial transmission of hepatitis C in Egypt. Hepatology 2005;42(3):683-7.
+20.  Strickland GT. An epidemic of hepatitis C virus infection while treating endemic infectious diseases in equatorial Africa more than a half century ago: did it also jump-start the AIDS pandemic? Clin Infect Dis 2010;51(7):785-7.
+21.  Mohamed MK, Magder LS, Abdel-Hamid M, et al. Transmission of hepatitis C virus between parents and children. Am J T rop Med Hyg 2006;75(1):16-20.
+22.  Saleh DA, Shebl F, Abdel-Hamid M, et al. Incidence and risk factors for hepatitis C infection in a cohort of women in rural Egypt. Trans R Soc Trop Med Hyg 2008;102(9):921-8.
+
+============================================================
+CHUNK 86
+============================================================
+REFERENCES
+23.  Saleh DA, Shebl FM, El-Kamary SS, et al. Incidence and risk factors for community-acquired hepatitis C infection from birth to 5 years of  age  in  rural  Egyptian  children.  Trans  R  Soc  T rop  Med  Hyg 2010;104(5):357-63.
+24.  Shebl FM, El-Kamary SS, Saleh DA, et al. Prospective cohort study of  mother-to-infant  infection  and  clearance  of  hepatitis  C  in  rural Egyptian villages. J Med Virol 2009;81(6):1024-31.
+25.  Arshad  M,  El-Kamary  SS,  Jhaveri  R.  Hepatitis  C  virus  infection during pregnancy and the newborn period - are they opportunities for treatment? J Viral Hepat 2011;18(4):229-36.
+26.  Thomas  DL,  Villano  SA,  Riester  KA,  et al.  Perinatal  transmission of  hepatitis  C  virus  from  human  immunode{ciency  virus  type
+24. 1-infected mothers. Women and infants transmission study. J Infect Dis 1998;177(6):1480-8.
+27.  El-Kamary SS, Serwint JR, Joffe A, et al. Prevalence of hepatitis C virus infection in urban children. J Pediatr 2003;143(1):54-9.
+28.  Resti  M, Azzari C, Mannelli F,  et al. Mother to child transmission of hepatitis C virus: prospective study of risk factors and timing of infection in children born to women seronegative for HIV-1. T uscany study group on hepatitis C virus infection. BMJ 1998;317(7156):437-41.
+29.  T ohme RA, Holmberg SD. Is sexual contact a major mode of hepatitis C virus transmission? Hepatology 2010;52(4):1497-505.
+30.  Habib M, Mohamed MK, Abdel-Aziz F, et al. Hepatitis C virus infection in a community in the Nile delta: risk factors for seropositivity. Hepatology 2001;33(1):248-53.
+31.  Liang TJ, Rehermann B, Seeff LB, Hoofnagle JH. Pathogenesis, natural history,  treatment,  and  prevention  of  hepatitis  C. Ann  Intern  Med 2000;132(4):296-305.
+
+============================================================
+CHUNK 87
+============================================================
+REFERENCES
+32.  Maheshwari  A,  Ray  S,  Thuluvath  PJ.  Acute  hepatitis  C.  Lancet 2008;372(9635):321-32.
+33.  Meky FA, Stoszek SK, Abdel-Hamid M, et al. Active surveillance for acute viral hepatitis in rural villages in the Nile delta. Clin Infect Dis 2006;42(5):628-33.
+34.  Emmanuel B, Shardell MD, T racy L, et al. Racial disparity in all-cause mortality among hepatitis C virus-infected individuals in a general US population, NHANES III. J Viral Hepat 2017;24(5):380-8.
+35.  Castera L. Invasive and non-invasive methods for the assessment of {brosis and disease progression in chronic liver disease. Best Pract Res Clin Gastroenterol 2011;25(2):291-303.
+36.  Thomas MB, Jaffe D, Choti MM, et al. Hepatocellular carcinoma: consensus recommendations of the National Cancer Institute Clinical trials planning meeting. J Clin Oncol 2010;28(25):3994-4005.
+37.  Gebo KA, Chander G, Jenckes MW, et al. Screening tests for hepatocellular  carcinoma  in  patients  with  chronic  hepatitis  C:  a  systematic review. Hepatology 2002;36(5 Suppl. 1):S84-92.
+38.  Dore MP, Fattovich G, Sepulveda AR, Realdi G. Cryoglobulinemia related to hepatitis C virus infection. Dig Dis Sci 2007;52(4):897-907.
+39.  Marcucci F, Mele A. Hepatitis viruses and non-Hodgkin lymphoma: epidemiology, mechanisms of tumorigenesis, and therapeutic opportunities. Blood 2011;117(6):1792-8.
+40.  Ghany MG,  Strader DB,  Thomas  DL,  Seeff  LB.  Diagnosis, management, and treatment of hepatitis C: an update. Hepatology 2009;49(4):1335-74.
+41.  Thomas  DL,  Thio  CL,  Martin  MP,  et al.  Genetic  variation  in IL28B  and  spontaneous  clearance  of  hepatitis  C  virus.  Nature 2009;461(7265):798-801.
+
+============================================================
+CHUNK 88
+============================================================
+REFERENCES
+42.  Ge  D,  Fellay  J,  Thompson  AJ,  et al.  Genetic  variation  in  IL28B predicts hepatitis C  treatment-induced viral clearance. Nature 2009;461(7262):399-401.
+43.  Seeff LB, Ghany MG. Management of untreated and nonresponder patients with chronic hepatitis C. Semin Liver Dis 2010;30(4):348-60.
+44.  Gebo KA, Jenckes MW, Chander G, et al. Management of chronic hepatitis C. Evid Rep T echnol Assess (Summ) 2002;60:1-7.
+45.  Bacon  BR,  Gordon  SC,  Lawitz  E,  et al.  Boceprevir  for  previously  treated  chronic  HCV  genotype  1  infection.  N  Engl  J  Med 2011;364(13):1207-17.
+46.  Poordad F , McCone J Jr, Bacon BR, et al. Boceprevir for untreated chronic HCV genotype 1 infection. N Engl J Med 2011;364(13):1195-206.
+47.  Pawlotsky JM. The results of phase III clinical trials with telaprevir and boceprevir presented at the liver meeting 2010: a new standard of care for hepatitis C virus genotype 1 infection, but with issues still pending. Gastroenterology 2011;140(3):746-54.
+48.  American Association for the Study of Liver Diseases. HCV Guidance: Recommendations for T esting, Managing, and Treating Hepatitis C. Management of Acute HCV Infection. http://www.hcvguidelines.org/ unique-populations/acute-infection.
+35.5
+
+============================================================
+CHUNK 89
+============================================================
+KEY FEATURES
+- viral hepatitis in many developing countries and rarely in the United States and Europe.
+- hepatitis in humans, whereas others (e.g., genotype-3) are zoonotic and primarily cause infection in animals, mainly pigs.
+- subcontinent, and it can also be transmitted by the fecal-oral route, viremic blood exposures, and eating uncooked pork.
+- hepatitis E infection can persist and lead to progressive liver disease.
+- two effective vaccines have been developed but have not been marketed due to inadequate demand.
+
+============================================================
+CHUNK 90
+============================================================
+INTRODUCTION
+In 1983 HEV was visualized by immune electron microscopy in stool from infected patients. It was then transmitted to a human volunteer and cynomolgus monkeys, thereby establishing its role in  enterically  transmitted  non-A,  non-B  (NANB)  hepatitis. 1 Development of speci{c diagnostic tests followed cloning of the HEV  genome  in  1990  and  by  recombinant  DNA  technology expressing viral antigens. 2 HEV was retrospectively recognized as a major cause of fecal-oral-transmitted NANB hepatitis when clinical samples collected during epidemics of water-borne hepatitis in India in the 1950s and 1960s were serologically tested. 3,4  HEV is a single-stranded, positive-sense RNA virus that has been placed in the genus Hepevirus but has not been assigned to a viral family.
+
+============================================================
+CHUNK 91
+============================================================
+EPIDEMIOLOGY
+HEV infections transmitted by a fecal-oral route are rarely detected in  the  United  States  and  other  developed  countries.  However, sporadic cases of HEV have been recognized in most developing countries, and major water-borne epidemics have been reported in  India,  Pakistan,  Nepal,  and Africa. 2 HEV is also endemic to the remainder of Central and Southeast Asia, the Middle East, Africa, and Central America (Fig. 35.5.1). In these areas HEV is the etiologic cause of 20% to 30% of cases of acute hepatitis and even more so in the Indian subcontinent and during outbreaks. HEV is a risk to travelers to endemic areas, albeit less so than HAV. 5
+Although  sharing  the  same  basic  route  of  transmission  as HAV,  HEV  infection  in  endemic  countries  occurs  more  often in the second and third decades of life, whereas HAV infection more  commonly  occurs  in  the  {rst  and  second  decades.  Also, the  secondary  attack  rate  is  lower  for  HEV  than  for  HAV . Links to a common source of contaminated water are the rule
+
+============================================================
+CHUNK 92
+============================================================
+Hepatitis E
+Samer S. El-Kamary, Shyamasundaran Kottilil during  large  outbreaks,  and  these  often  follow  heavy  rains. As with HAV, HEV infection can occur after exposure to contaminated blood  products,  due  to  viremia  that  occurs  during  acute infection.
+HEV is a zoonosis having been isolated from pigs, rats, and other animals. The rare cases of HEV reported in North America, Europe, and Japan are  due  to  human genotype-1 infections in travelers  to  endemic  areas  or  due  to  the  porcine  genotype-3 infections in people exposed to pigs or who ate undercooked pig or boar in Japan. 6,7 Genotype-3 HEV has been isolated from pigs in Egypt (which are rare in the country), and genotype-1 has been isolated from a few cases of HEV-caused acute hepatitis in humans. HEV causes 20% to 25% of the cases of acute hepatitis in Egypt, 8 but it is uncertain whether zoonotic transmission of genotype-3 is  the  cause of the 70% to 80% rate of HEV antibodies in the country. 9,10
+
+============================================================
+CHUNK 93
+============================================================
+CLINICAL FEATURES
+The course of HEV infection is similar to that of hepatitis A. The incubation period averages 40 days (range 15-60 days), after which the virus replicates in the liver. HEV can be detected in stool and blood 3 to 4 weeks after ingestion, before the onset of symptoms, and for 1 to 2 weeks afterward. Like HAV, children often have asymptomatic,  anicteric  infections;  however,  the  clinical  attack rate  is  higher  in  the  15-  to  40-year  age  group,  and  severity  of illness increases with age.
+Symptoms and signs are similar to those caused by other types of viral hepatitis: malaise, fatigue, anorexia, nausea and vomiting, jaundice and dark urine, abdominal pain, fever, and hepatomegaly. The most common laboratory {ndings include elevated bilirubin, ALT, AST, and alkaline phosphatase. Histopathologic {ndings in biopsies  from  patients  with  HEV  hepatitis  have  included  both cholestatic hepatitis and classic acute hepatitis changes.
+Clinical symptoms, hyperbilirubinemia, and elevated aminotransferase levels generally resolve within 1 to 6 weeks after onset of illness. Jaundice may be prolonged with HEV infection, which may also cause fulminant hepatitis; 10% to 20% of pregnant women in the third trimester who are hospitalized with acute HEV infection during outbreaks in India were reported to have fatal fulminant hepatitis. 11,12 HEV causes chronic infection very rarely in immunosuppressed patients. 13,14
+
+============================================================
+CHUNK 94
+============================================================
+DIAGNOSIS
+Acute and chronic HEV infection can be diagnosed as follows 15 : Proposed diagnostic criteria for HEV testing.
+- > 2  times  baseline + HEV  IgM  reactive  using  two different assays or
+- > 2 times baseline + HEV IgM reactive + HEV RNA detected in stool or blood or
+- > 2 times baseline + HEV IgG > 2  weeks apart with greater than {vefold increase in titer or
+- > 2 times baseline + HEV IgM reactive + interferon gamma enzyme linked immunospot assay (ELISPOT) for HEV ( > 50 HEV-speci{c spots/10 6 cells).
+Fig. 35.5.1 Hepatitis E-endemic countries (From https://wwwnc.cdc.gov/travel/yellowbook/2018/infectiousdiseases-related-to-travel/hepatitis-e.)
+The titer of IgM anti-HEV declines rapidly but can be detected in some patients for 5 to 6 months. IgG HEV antibodies persist and often have been detected in persons from regions without recognized infection. Their presence must be coupled with the appropriate clinical and epidemiologic presentation. Acute HEV infection can also be diagnosed by detection of HEV in the stool or blood with PCR.
+
+============================================================
+CHUNK 95
+============================================================
+TREATMENT
+Like other clinical cases of acute hepatitis, supportive care, including rest, is recommended, 16,17 and if available, oral silymarin may be used to alleviate some symptoms. 18
+
+============================================================
+CHUNK 96
+============================================================
+PREVENTION AND CONTROL
+HEV-caused  acute  hepatitis  rarely  occurs  in  developed  countries.  The  primary  means  of  control  is  through  improvements in hygiene, especially by providing non-contaminated food and potable  water.  Immunization  with  recombinant  HEV  proteins can  prevent  HEV  infection.  Immunization with a vaccine based  on  the  ORF-2  protein  protected  rhesus  monkeys  from intravenous challenge with both homologous and heterologous HEV.  Protective  vaccines  have  undergone  successful  phase  III
+clinical trials in Nepal and China but are not yet commercially available. 19,20
+
+============================================================
+CHUNK 97
+============================================================
+REFERENCES
+1.  Kane MA, Bradley DW, Shrestha SM, et al. Epidemic non-A, non-B hepatitis in Nepal. Recovery of a possible etiologic agent and transmission studies in marmosets. JAMA 1984;252(22):3140-5.
+2.  Bryan JP , T sarev SA, Iqbal M, et al. Epidemic hepatitis E in Pakistan: patterns of serologic response and evidence that antibody to hepatitis E virus protects against disease. J Infect Dis 1994;170(3):517-21.
+3.  Arankalle VA, Chadha MS, T sarev SA, et al. Seroepidemiology of waterborne hepatitis in India and evidence for a third enterically-transmitted hepatitis agent. Proc Natl Acad Sci USA 1994;91(8):3428-32.
+4.  Khuroo MS, Rustgi VK, Dawson GJ, et al. Spectrum of hepatitis E virus infection in India. J Med Virol 1994;43(3):281-6.
+5.  T eshale EH, Hu DJ, Holmberg SD. The two faces of hepatitis E virus. Clin Infect Dis 2010;51(3):328-34.
+6.  T amada Y, Yano K, Yatsuhashi H,  et al. Consumption of  wild boar linked to cases of hepatitis E. J Hepatol 2004;40(5):869-70.
+7.  Cossaboom CM, Heffron CL, Cao D, et al. Risk factors and sources of foodborne hepatitis E virus infection in the United States. J Med Virol 2016;88(9):1641-5.
+8.  Zakaria S, Fouad R, Shaker O, et al. Changing patterns of acute viral hepatitis at a major urban referral center in Egypt. Clin Infect Dis 2007;44(4):e30-6.
+
+============================================================
+CHUNK 98
+============================================================
+REFERENCES
+9.  Fix AD, Abdel-Hamid M, Purcell RH, et al. Prevalence of antibodies to hepatitis E in two rural Egyptian communities. Am J Trop Med Hyg 2000;62(4):519-23.
+10.  Stoszek SK, Engle RE, Abdel-Hamid M, et al. Hepatitis E antibody seroconversion  without  disease  in  highly  endemic  rural  Egyptian communities. Trans R Soc Trop Med Hyg 2006;100(2):89-94.
+11.  Aggarwal R. Clinical presentation of hepatitis E. Virus Res 2011;161(1):15-22.
+12.  Arankalle VA, Jha J, Favorov MO, et al. Contribution of HEV and HCV in causing fulminant non-A, non-B hepatitis in western India. J Viral Hepat 1995;2(4):189-93.
+13.  Kamar N, Selves J, Mansuy JM, et al. Hepatitis E virus and chronic hepatitis in organ-transplant recipients. N Engl J Med 2008;358(8):811-17.
+14.  Dalton  HR,  Bendall  RP ,  Keane  FE,  et al.  Persistent  carriage  of hepatitis  E  virus  in  patients  with  HIV  infection.  N  Engl  J  Med 2009;361(10):1025-7.
+15.  Purcell RH, Emerson SU. Hepatitis E: an emerging awareness of an old disease. J Hepatol 2008;48(3):494-503.
+
+============================================================
+CHUNK 99
+============================================================
+Non-A-E Hepatitis
+Samer S. El-Kamary, Shyamasundaran Kottilil
+From 2% to 20% of acute hepatitis cases are not due to any of the  well-described  hepatitis  viruses.  Induction  of  hepatitis  in primates with plasma from some non-A-E patients suggests that at least some are caused by an infectious disease. 1 An RNA virus has been recognized in the plasma of humans with acute non-A-E hepatitis, persons injecting illicit drugs, dialysis patients, and blood donors. It has been provisionally named hepatitis G virus (HGV) or  GB virus  C. 2 This  agent  is  a  single-stranded,  positive-sense RNA virus  with  approximately  25%  nucleic  acid  identity  with HCV. Its occurrence in humans can be demonstrated by detection of RNA and antibody to the viral envelope. HGV/GBV-C infection appears to persist, with a frequency intermediate between those of HBV and HCV without causing liver disease. Neither HGV/ GBV-C or TT virus has been associated with liver disease, and
+
+============================================================
+CHUNK 100
+============================================================
+Non-A-E Hepatitis
+16.  Chalmers TC, Eckhardt RD, Reynolds WE, et al. The treatment of acute  infectious  hepatitis.  Controlled  studies  of  the  effects  of  diet, rest, and physical reconditioning on the acute course of the disease and on the incidence of relapses and residual abnormalities. J Clin Invest 1955;34(7 Pt II):1163-235.
+17.  Chalmers TC, Reynolds WE, Eckhardt RD, et al. Treatment of acute infectious hepatitis in the armed forces; advantages of ad lib. bed rest and early reconditioning. J Am Med Assoc 1955;159(15):1431-4.
+18.  El-Kamary SS, Shardell MD, Abdel-Hamid M, et al. A randomized controlled  trial  to  assess  the  safety  and  ef{cacy  of  silymarin  on symptoms, signs  and biomarkers  of acute  hepatitis.  Phytomedicine 2009;16(5):391-400.
+19.  Shrestha  MP ,  Scott  RM,  Joshi  DM,  et al.  Safety  and  ef{cacy  of  a recombinant hepatitis E vaccine. N Engl J Med 2007;356(9):895-903.
+20.  Zhu FC, Zhang J, Zhang XF , et al. Ef{cacy and safety of a recombinant hepatitis E vaccine in healthy adults: a large-scale, randomised, doubleblind placebo-controlled, phase 3 trial. Lancet 2010;376(9744):895-902.
+these viruses are probably not hepatropic. HGV has been detected in cases of fulminant hepatitis not due to other recognized viruses. However, there are no data suggesting it causes either acute or chronic liver disease. 3
+
+============================================================
+CHUNK 101
+============================================================
+REFERENCES
+1.  Chu CM, Lin DY, Yeh CT, et al. Epidemiological characteristics, risk factors, and clinical manifestations of acute non-A-E hepatitis. J Med Virol 2001;65(2):296-300.
+2.  Stapleton  JT .  GB  virus  type  C/hepatitis  G  virus.  Semin  Liver  Dis 2003;23(2):137-48.
+3.  Reshetnyak VI, Karlovich TI, Ilchenko LU. Hepatitis G virus. World J Gastroenterol 2008;14(30):4725-34.
+

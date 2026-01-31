@@ -1,0 +1,107 @@
+============================================================
+CHUNK 0
+============================================================
+Key features
+- Penicilliosis marne+ei is a systemic fungal infection that causes morbidity and mortality in HIV-infected patients resident in or having visited Southeast Asia, northeastern India, southern China, Hong Kong, and Taiwan
+- Papular skin lesions provide a clue for diagnosis. Other clinical manifestations are less speci,c: fever, weight loss, nonproductive cough, hepatosplenomegaly, and generalized lymphadenopathy
+- Diagnosis is made by isolation of the fungus from clinical specimens or identi,cation of organisms in tissue sections
+- Mortality is high in delayed or untreated patients. Antifungal therapy with amphotericin B and itraconazole is e+ective in most cases
+- After induction therapy, lifelong maintenance therapy is necessary; treatment can be discontinued if immune recovery occurs
+- Synonyms: Penicillium marneGLYPH<c=12,font=/CIDFont+F9>ei infection, disseminated Penicillium marneGLYPH<c=12,font=/CIDFont+F9>ei infection, disseminated penicilliosis marne+ei
+
+============================================================
+CHUNK 1
+============================================================
+INTRODUCTION
+Penicillium are  a  genus  of  fungi  that  are  widely  distributed  in  the environment, but rarely cause infection in humans [1]. P. marneffei is the most common Penicillium species to cause human infection and can occur both in normal hosts but more frequently in immunocompromised hosts. At the peak of the HIV/AIDS epidemic in northern Thailand, penicilliosis marneffei was the fourth most common AIDSrelated  opportunistic  infection,  after  tuberculosis,  extrapulmonary cryptococcosis,  and Pneumocystis pneumonia  [2].  Cases  of  disseminated infection have also been reported in HIV-infected patients from other countries following visits to the endemic area [3].
+P. marneffei was first isolated from the visceral organs of a bamboo rat ( Rhizomys sinensis ) in Vietnam in 1956 [4]. The first natural human infection  was  reported  in  an  American  missionary  with  Hodgkin disease who had been living in Southeast Asia for several years [5]. The first case of penicilliosis marneffei in an HIV-infected native of Southeast Asia was reported in 1989 from Bangkok, coinciding with the beginning of the AIDS epidemic in the region [6]. The number of cases has markedly increased since.
+
+============================================================
+CHUNK 2
+============================================================
+EPIDEMIOLOGY
+P. marneffei is endemic in Southeast Asia and southern China [7, 8]. Although  the  majority  of  cases  have  been  reported  from  northern Thailand, the prevalence of this infection has also increased in other countries in the region after the HIV/AIDS epidemic; these include Vietnam,  Hong  Kong,  Taiwan,  Malaysia,  Cambodia,  and  the  provinces  of  Guangxi  and  Guangdong  in  China.  Recently,  indigenous cases  of  penicilliosis  marneffei  have  been  described  from  Manipur State, India [9]. Figure 85.1 illustrates the current endemic areas for this fungal infection. Residents or travelers who visit these areas, in particular those with HIV infection, have a risk of acquiring this systemic fungal infection.
+
+============================================================
+CHUNK 3
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+P. marneffei is the only species of the genus that is a dimorphic fungus. In  the  environment,  it  grows  in  mycelial  form,  and  in  humans  or animals, it grows as a yeast-like form. Many aspects of the ecology of P. marneffei and the relationship to human infection remain unknown. Several studies have found that P. marneffei can infect four species of bamboo rats, i.e. R. sinensis , R. pruinosus , R. sumatrensis , and Cannomys badius [10]. However, attempts to link bamboo rats and human infection have been unsuccessful. The mode of transmission of P. marneffei is unknown; however, similar to other endemic fungal pathogens, it is likely that inhalation is the major route. A case report from France of a laboratory-acquired infection also suggests an airborne route of infection [1 1].
+
+============================================================
+CHUNK 4
+============================================================
+CLINICAL FEATURES
+P. marneffei infection usually occurs late in the course of HIV infection. The majority of cases are observed in patients who have CD4 + cell counts of < 100 cells/mm 3 [12]. Clinical manifestations of penicilliosis  marneffei  are  nonspecific,  including  fever,  weight  loss, nonproductive  cough,  hepatosplenomegaly,  and  generalized  lymphadenopathy [7]. Skin lesions are seen in more than 70% of patients and, when present, are the best clues to the diagnosis. They are usually found as papules on the face, chest, and extremities. The center of the papule subsequently becomes necrotic, giving the appearance of an umbilicated papule (Fig. 85.2). Atypical presentations are osteoarthritis,  lung  mass  or  cavitary  lesions,  mesenteric  lymphadenitis,  and mucosal lesions in the oral cavity, oropharynx, hypopharynx, stomach, colon,  and  genitalia.  Laboratory  values  are  nonspecific  and  can include slight elevation of liver enzymes and bilirubin, anemia, and leukocytosis or leukopenia. Roentgenograms of the chest may show diffuse  reticulonodular,  localized  alveolar,  or  diffuse  alveolar  infiltrates. Clinical features in children are the same as those seen in adults.
+
+============================================================
+CHUNK 5
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Clinical  diagnosis  of  penicilliosis  marneffei,  especially  in  patients with advanced HIV infection, is often difficult. Differential diagnoses include disseminated fungal infection, mycobacterial infection, and other HIV-related opportunistic infections. Physician awareness and a high degree of suspicion can lead to a timely diagnosis and management.  History  of  travel  to  or  residence  in  the  endemic  region  is
+FIGURE 85.1 Endemic areas of penicilliosis marne3ei.
+FIGURE 85.2 Typical  papulonecrotic  skin  lesions  on  the  arm  of  an  HIVinfected patient with penicilliosis marne3ei.
+essential information. The definitive diagnosis is based on isolation of  organisms  from  culture  of  clinical  specimens  (Fig.  85.3)  or  by histopathologic demonstration of characteristic organisms in biopsy materials. However, these may require several days or weeks to get the results. Rapid diagnosis can be made by a bedside technique: microscopic examination of Wright-stained samples of skin scrapings, bone marrow aspirate, or lymph node biopsy touch smear. Many intracellular and extracellular basophilic, spherical, oval and elliptical yeastlike organisms are usually found. Some cells have a central septum which is a characteristic  feature  of P.  marneffei (Fig.  85.4)  [7].  This technique can also be used with tissue obtained by fine needle aspiration of the lymph node. It is particularly helpful in cases where there is no skin lesion or peripheral lymphadenopathy [13]. On some occasions, the fungus can be identified by microscopic examination of a Wright-stained peripheral blood smear [14]. P. marneffei bears a morphologic  resemblance  to Histoplasma  capsulatum but  tends  to  form more elongated yeast cells and divides by central septate fission rather than budding.
+Recently, special techniques to identify organisms in tissue samples and serologic testing have been described [15, 16]. However, these tests are not widely used because commercial reagents are not available.
+FIGURE 85.3 A blood-agar plate of a skin scraping from an HIV-infected patient  with  penicilliosis  marne3ei  after  incubation  at  25°C  for  4  days. Typical P. marneGLYPH<c=19,font=/CIDFont+F3>ei colonies have red pigment di3used into the surrounding culture media.
+
+============================================================
+CHUNK 6
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+FIGURE 85.4 A photomicrograph of a Wright-stained sputum smear from an HIV-infected patient, showing numerous intracellular yeast-like organisms, some of which have the typical septate yeast forms.
+
+============================================================
+CHUNK 7
+============================================================
+TREATMENT
+P. marneffei is highly susceptible to itraconazole, ketoconazole, miconazole, and 5-flucytosine. Amphotericin B has intermediate antifungal activity, and fluconazole is the least active [17]. The mortality rate with delayed or no treatment is high [7,17]. In patients with severe disease, treatment with amphotericin B 0.6 mg/kg/day intravenously for 2 weeks followed by itraconazole 400 mg/day orally for 10 weeks is  recommended  [18].  Oral  itraconazole  400 mg/day  for  8  to  12 weeks can be used in patients with less severe disease [9, 19]. Voriconazole is an effective alternative; it can be given by intravenous followed  by  oral  administration  or  orally  from  the  beginning  [20]. Treatment in children is similar to that in adults. Relapse of penicilliosis  marneffei  is  common  after  discontinuation  of  antifungal therapy [19, 21]. Suppressive therapy with itraconazole 200 mg once daily after successful antifungal therapy is required lifelong or for as long as immunocompromise persists [21].
+Primary prevention of P. marneffei with an antifungal agent in HIVinfected  patients  is  not  usually  recommended.  However,  in  areas
+where systemic fungal infections are common, primary prophylaxis of AIDS-associated opportunistic infections can be considered [12].
+In  advanced  HIV  disease  and P.  marneffei infection,  antiretroviral therapy (ART) should be administered after 2 to 8 weeks of antifungal therapy in all patients who are clinically stable. Primary and secondary  prophylaxis  of  penicilliosis  marneffei  can  be  discontinued  in patients receiving ART and with CD4 + cell counts of > 100 cells/mm 3 for at least 6 months [22]. However, antifungal prophylaxis should be reintroduced if the CD4 + count decreases to < 100 cells/mm 3 .
+
+============================================================
+CHUNK 8
+============================================================
+REFERENCES
+1. Lyratzopoulos G, Ellis M, Nerringer R, Denning DW. Invasive infection due to Penicillium species other than P. marneffei . J Infect 2002;45:184-95.
+2. Chariyalertsak S, Sirisanthana T, Saengwonloey O, Nelson KE. Clinical presentation  and  risk  behaviors  of  patients  with  acquired  immunodeficiency syndrome in Thailand, 1994-1998: regional variation and temporal trends. Clin Infect Dis 2001;32:955-62.
+3. Walsh TJ, Groll A, Hiemenz J, et al. Infections due to emerging and uncommon medically important fungal pathogens. Clin Microbiol Infect 2004;10 (Suppl 1):48-66.
+4. Capponi M, Sureau P, Segretain G. Penicillose de Rhizomys sinensis. Bull Soc Pathol Exot 1956;49:418.
+5. Disalvo AF, Fickling AM, Ajello L. Infection caused by Penicillium marneffei : description  of  first  natural  infection  in  man.  Am  J  Clin  Pathol  1973;60: 259-63.
+6. Sathapatayavongs  B,  Damrongkitchaiporn  S,  Saengditha  P,  et  al.  Disseminated penicilliosis associated with HIV infection. J Infect 1989;19:84-5.
+7. Supparatpinyo K, Khamwan C, Baosoung V, et al. Disseminated Penicillium marneffei infection in southeast Asia. Lancet 1994;344:110-13. The first large series of HIV-infected patients with penicilliosis marneffei. Clinical manifestations and management of patients are reviewed.
+8. Duong  TA.  Infection  due  to Penicillium  marneffei ,  an  emerging  pathogen: review of 155 reported cases. Clin Infect Dis 1996;23:125-30. A literature review of all patients with penicilliosis marneffei, including both HIV and non-HIV cases, reported before 1996 from many countries. This emphasizes the emerging nature of this fungal pathogen.
+
+============================================================
+CHUNK 9
+============================================================
+REFERENCES
+9. Ranjana KH, Priyokumar K, Singh TJ, et al. Disseminated Penicillium marneffei infection among HIV-infected patients in Manipur state, India. J Infect Dis 2002;45:268-71.
+10.  Gugnani HC, Fisher MC, Paliwal-Johsi A, et al. Role of Cannomys badius as a natural  animal  host  of Penicillium  marneffei in  India.  J  Clin  Microbiol 2004;42:5070-5.
+11. Hilmarsdottir  I,  Coutellier  A,  Elbaz  J,  et  al.  A  French  case  of  laboratoryacquired disseminated Penicillium marneffei infection in a patient with AIDS. Clin Infect Dis 1994;2:357-8.
+12.  Chariyalertsak S, Supparatpinyo K, Sirisanthana T, et al. A controlled trial of itraconazole as primary prophylaxis for systemic fungal infections in patients
+13. with advanced human immunodeficiency virus infection in Thailand. Clin Infect Dis 2002;34:277-84.
+14. The first double-blind, randomized, controlled trial to demonstrate the efficacy and safety  of  using  oral  itraconazole  for  primary  prophylaxis  in  HIV-infected  patients with CD4 + cell counts of <200 cells/mm 3 , in an area where Penicillium marneffei is endemic.
+13.  Chaiwun B, Khunamornpong S, Sirivanichai C, et al. Lymphadenopathy due to Penicillium marneffei infection: diagnosis by fine needle aspiration cytology. Mod Pathol 2002;15:939-42.
+14.  Supparatpinyo K, Sirisanthana T. Disseminated Penicillium marneffei infection diagnosed  on  examination  of  a  peripheral  blood  smear  of  a  patient  with human immunodeficiency virus infection. Clin Infect Dis 1994;18:246-7.
+15.  Kaufman  L,  Standard  PG,  Anderson  SA,  et  al.  Development  of  specific fluorescent-antibody test for tissue form of Penicillium marneffei . J Clin Microbiol 1995;33:2136-8.
+
+============================================================
+CHUNK 10
+============================================================
+REFERENCES
+16.  Sekhon AS, Li JSK, Garg AK. Penicilliosis marneffei: serological and exoantigen studies. Mycopathology 1982;77:51.
+17.  Supparatpinyo K, Nelson KE, Merz WG, et al. Response to antifungal therapy by human immunodeficiency virus-infected patients with disseminated Penicillium marneffei infections and in vitro susceptibilities of isolates from clinical specimens. Antimicrob Agents Chemother 1993;37:2407-11.
+18.  Sirisanthana T, Supparatpinyo K, Perriens J, et al. Amphotericin B and itraconazole for treatment of disseminated Penicillium marneffei infection in human immunodeficiency virus-infected patients. Clin Infect Dis 1998;26:1107-10. The  largest  therapeutic  clinical  trial  in  HIV-infected  patients  with  penicilliosis marneffei. It demonstrates the efficacy of amphotericin B followed by oral itraconazole in the treatment of this systemic fungal infection.
+19.  Supparatpinyo K, Chiewchanvit S, Hirunsri P, et al. An efficacy study of itraconazole in the treatment of Penicillium marneffei infection. J Med Assoc Thai 1992;75:688-91.
+20.  Supparatpinyo K, Schlamm HT. Voriconazole as therapy for systemic Penicillium  marneffei infections  in  AIDS  patients.  Am  J  Trop  Med  Hyg  2007; 77:350-3.
+21.  Supparatpinyo K, Perriens J, Nelson KE, et al. A controlled trial of itraconazole to prevent relapse of Penicillium marneffei infection in patients infected with the human immunodeficiency virus. N Engl J Med 1998;339:1739-43. The first double-blind, randomized, controlled trial to demonstrate the efficacy and safety of using oral itraconazole for the secondary prophylaxis of penicilliosis marneffei in HIV-infected patients after successful primary treatment. This resulted in the recommendation of secondary prophylaxis as a standard of care in endemic areas.
+
+============================================================
+CHUNK 11
+============================================================
+REFERENCES
+22.  Chaiwarith R, Charoenyos N, Sirisanthana T, et al. Discontinuation of secondary prophylaxis against penicilliosis marneffei in AIDS patients after HAART. AIDS 2007;21:365-7.
+25. The first retrospective cohort study with historical control to determine the safety of discontinuation  of  secondary  prophylaxis  against  penicilliosis  marneffei  in  HIVinfected  patients  after  having  received  antiretroviral  therapy  and  with  CD4 + cell counts >100 cells/mm 3 for at least 6 months.
+

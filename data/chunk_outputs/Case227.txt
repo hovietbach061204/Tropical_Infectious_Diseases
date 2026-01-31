@@ -1,0 +1,749 @@
+============================================================
+CHUNK 0
+============================================================
+Key features
+- Hymenoptera venom anaphylaxis: stings by bees, vespids, and ants may lead to hypersensitization and anaphylaxis, preventable by desensitization with puri,ed venoms and treatable with epinephrine (adrenaline)
+- Bites by mosquitoes, midges, +ies and other arthropods, and super,cial infestations by +eas, lice, bedbugs, etc. are very common nuisances. They cause pruritus, papular urticaria and secondary bacterial infections and may result in hypersensitization
+- Scabies remains prevalent in most parts of the world. It causes distressing symptoms and may be complicated by streptococcal infection leading to glomerulonephritis and rheumatic fever
+- Skin, wounds and body cavities may be invaded by +y larvae (myiasis) and adult +eas (tungiasis), causing discomfort, infection and tissue destruction
+- Spider bites are common in the Americas, Mediterranean, South Africa and Australia but there are few fatalities. Only recluse spiders ( Loxosceles ) are reliably associated with necrotic araneism. Bites by cosmopolitan black and brown widow spiders ( Latrodectus ), Latin American banana spiders ( Phoneutria ) and Sydney funnel web spiders ( Atrax ) cause neurotoxic araneism
+- Scorpion stings still cause numerous fatalities in North and South Africa, the Middle East, Mexico, Latin America, and India. Severe local pain and systemic autonomic e-ects may be fatal, especially in children
+- Mass attacks by bees or vespids are uncommon, except during the Africanized killer bee epidemic in the Americas, during which many fatalities occurred
+- Lepidopterism and erucism: stinging hairs of many species of moths and their larvae (caterpillars) can excite cutaneous irritation, allergy and, in the case of caterpillars of the genus Lonomia , systemic envenoming
+Bites  and  stings  by  arthropods  may  have  a  variety  of  pathologic consequences:
+
+============================================================
+CHUNK 1
+============================================================
+Key features
+- allergic reactions - cutaneous or systemic;
+- auto-immune  reactions,  such  as  endemic  pemphigus  foliaceus ('fogo selvagem') by Simulium pruinosum bites in Brazil (Fig. 136.1) [1];
+- infection of the bite site by bacteria and other microorganisms;
+- acquisition  of systemic  infections  transmitted by the arthropod vector;
+- envenoming.
+
+============================================================
+CHUNK 2
+============================================================
+David A Warrell
+FIGURE  136.1 Fogo  salvagem  -  endemic  pemphigus  foliaceus,  an autoimmune  disease  associated  with  bites  by  black  Fies  ( Simulium pruinosum ) in some parts of South America (© David A. Warrell).
+
+============================================================
+CHUNK 3
+============================================================
+ALLERGIC REACTIONS TO ARTHROPODS
+Cutaneous, respiratory and systemic hypersensitivity reactions may be caused  by  a  large  variety  of  arthropods.  Sensitization  results  from inoculation of salivary protein allergens during a blood meal in the case of mosquitoes, sandflies, midges, fleas, bed bugs and lice; contact with urticating hairs of Lepidoptera larvae; inhalation of aerosolized arthropod allergens, such as those of non-biting chironomid midges ( Cladotanytarsus lewisi 'green nimmiti' in North and East Africa) [2], or  injection  of  venoms,  most  commonly  by  Heminoptera  stings. Allergic effects of arthropod proteins must be distinguished from (i) direct toxic effects of their venoms which, by releasing histamine and other mediators, may produce identical clinical effects, (ii) from infections transmitted by these vectors and (iii) secondary infection of the bite wounds.
+
+============================================================
+CHUNK 4
+============================================================
+REFERENCES
+1. Culton  DA,  Qian  Y,  Li  N,  et  al.  Advances  in  pemphigus  and  its  endemic pemphigus  foliaceus  (Fogo  Selvagem)  phenotype:  a  paradigm  of  human autoimmunity. J Autoimmun 2008;31:311-24.
+2. Tee RD, Cranston PS, Kay AB. Further characterisation of allergens associated with  hypersensitivity  to  the  'green  nimitti'  midge  ( Cladotanytarsus  lewisi , Diptera: Chironomidae). Allergy 1987;42:12-9.
+136
+
+============================================================
+CHUNK 5
+============================================================
+136.1 Hypersensitization and Anaphylaxis Caused by Stings of Hymenopteran Insects (Bees, Wasps, Yellow Jackets, Hornets,
+Ants)
+These include members of the families Apidae (e.g. honey bees Apis mellifera , Apis  cerania , Apis  dorsata ,  etc.  -  and  bumble bees, Bombus spp.), Vespidae [e.g. European wasps ( Vespula germanica, Vespula vulgaris ) American wasps, yellow-jackets and white-faced hornets ( Vespula and Dolichovespula spp.) paper wasps ( Polistes spp.) and European and Asian true hornets ( Vespa spp.)], and Formicidae [e.g. American fire ants, genus Solenopsis (Fig.  136.1.1)  and Australian  bull  or  bulldog ants  ( Myrmecia spp.)].  Venom  allergens  include  phospholipases  A, hyaluronidase, acid phosphomonoesterases and polypeptide neurotoxins,  such  as  apamin  and  melittin  ( A.  mellifera ).  Non-allergenic compounds include vasoactive amines such as histamine, 5-hydroxytryptamine, catecholamines and kinins, cholinesterase (in the venom of V.  germanica ),  pheromones, 2-methylpiperidine alkaloids (in venoms of fire ants, Solenopsis spp.) and anti-inflammatory peptides  from  honey  bee  venom,  such  as  peptide  401  (mast  cell degranulating peptide) [1].
+
+============================================================
+CHUNK 6
+============================================================
+EPIDEMIOLOGY
+In the USA, 40-50 deaths per year are attributed to hymenoptera sting anaphylaxis; in England and Wales, fewer than 5; and in Australia, 2-3. In children, the annual incidence of systemic reactions to stings by hymenoptera has been reported to be 0.4-0.8% and in an adult population in the USA, the prevalence of systemic allergic sting reactions was found to be 4%, while 20 % of this population showed evidence  of  venom  hypersensitivity  by  skin  testing  or  radioallergosorbent  testing  (RAST).  Most  patients  allergic  to  bee  venom  are beekeepers or their relatives [2, 3]. Two species of fire ants, Solenopsis richteri and Solenopsis invicta , were imported into the USA from South America in 1918 and have now spread to 13 southern states, where an estimated 2.5 million people are stung each month. The incidence of systemic allergic reactions is about 4 per 100,000 population per year, and there have been fatalities. In Tasmania and southern Australia, the jack jumper ant ( Myrmecia pilosula ) causes 90% of all ant stings.  About  2-3%  of  the  population  are  hypersensitive  and  fatal anaphylaxis has occurred [4].
+
+============================================================
+CHUNK 7
+============================================================
+PREVENTION
+Patients who with a history of systemic anaphylaxis provoked by a sting and  detectable venom-specific IgE should  be considered for desensitization with purified venoms. This treatment proved significantly  more  effective  than  placebo  or  whole  body  extracts  of hymenoptera in preventing anaphylactic reactions to sting challenge [5]. Desensitization involves a series of visits to the clinic for administration of gradually increasing doses of venom followed by years of maintenance  therapy.  Systemic  reactions  (anaphylaxis)  occur  in 5-15% of courses and local reactions in 50%.
+Wasps are attracted by sweet things and meat in homes, greengrocers, orchards and vineyard. At night, hornets are attracted by light. Some species, such as the Asian Vespa mandarina , are so aggressively territorial that their nests must be eradicated before the area can be farmed. Vespid  nests  may  be  destroyed  by  fumigation  with  insecticides.  In aggressive bee colonies, the queens should be replaced.
+Death from anaphylaxis can be prevented by self-administered firstaid with epinephrine (adrenaline).
+FIGURE 136.1.1 Multiple Gre ant ( Solenopsis ) stings in Mexico (Courtesy of Ms Jean Dickinson).
+
+============================================================
+CHUNK 8
+============================================================
+CLINICAL FEATURES
+Symptoms of anaphylaxis may start within minutes of the sting. They include itching, which may start in the scalp, palms, soles, axillae and perineum, and then become generalized; flushing; dizziness; syncope; wheezing; epigastric pain, abdominal colic (uterine colic in women), diarrhea, incontinence of urine and feces; tachycardia and visual disturbances - all developing within a few minutes of the sting. Urticaria, angioedema  of  the  lips,  gums  and  tongue,  generalized  cutaneous erythema and swelling, edema of the glottis, profound hypotension and coma may develop over the next 15-20 minutes. The median time to first cardiac arrest is 10-20 minutes after the sting, but deaths have occurred after only two minutes. A few patients develop serum sickness a week or more after the sting. Reactions are enhanced by β -blockers.
+
+============================================================
+CHUNK 9
+============================================================
+DIAGNOSIS OF ANAPHYLAXIS AND VENOM HYPERSENSITIVITY
+Detection of a raised plasma/serum mast-cell tryptase concentration confirms  anaphylaxis,  excluding  panic  attacks  and  other  causes  of collapse. The peak is 0.5-1.5 hours after the attack but levels persist for  6-8  hours.  Type  I  hypersensitivity  is  confirmed  by  detecting venom-specific (Vespidae, Apidae, Formicidae) IgE in the serum using RAST or prick skin tests. Bumble bee and honey bee venoms cross react,  as  do  wasp,  yellow-jacket  and  true  hornet venoms. However, venoms of Apidae and Vespidae do not cross react. Patients who have
+suffered a systemic reaction, have a 50-60% risk of a reaction to their next sting. In the absence of systemic symptoms, even massive and persistent local reactions do not predict a systemic reaction following subsequent  stings.  Children  who  have  generalized  urticaria  after  a sting have only a 10% chance of a systemic reaction when re-stung. Hypersensitivity to venom may be lost spontaneously in some children and young adults, but this is unpredictable and unreliable. In some countries, live insect sting challenge is used to assess hypersensitivity and response to immunotherapy. The RAST test can be used for a post-mortem diagnosis of hymenoptera sting anaphylaxis.
+
+============================================================
+CHUNK 10
+============================================================
+TREATMENT
+The barbed stings of Apidae remain embedded at the site of the sting and continue to inject venom, so they should be removed immediately by any possible means. Vespids can withdraw their stings and sting  repeatedly.  Wasp  stings  may  become  infected  because  some species  feed  on  rotting  meat.  Diluted  domestic  meat  tenderizer (papain), ice packs and aspirin relieve local pain in some cases. Systemic  antihistamines  can  be  used  for  more  severe  local  reactions. Severe  local  reactions  may  require  treatment  with  antihistamines, nonsteroidal anti-inflammatory agents or even corticosteroids.
+
+============================================================
+CHUNK 11
+============================================================
+TREATMENT OF ANAPHYLAXIS [6]
+The patient is laid down in the recovery position. Cardiopulmonary resuscitation  may  be  needed.  Epinephrine  (adrenaline)  should  be given immediately by intramuscular injection into the antero-lateral thigh: 0.1% (1  :  1000) (0.5-1 ml for adults; 0.01 mg/kg for children).
+
+============================================================
+CHUNK 12
+============================================================
+136.2
+If  the  patient  is  unconscious  or  pulseless,  epinephrine  diluted 1  :  1 00,000 is given by slow intravenous (IV) injection. In rare cases, blood pressure fails to respond to even large doses of adrenaline and plasma expanders and requires pressor agents, such as dopamine. Use of IV histamine H1 blockers such as chlorphenamine maleate (10 mg for  adults;  0.2 mg/kg  for  children)  and  steroids  are  of  unproven benefit, but may prevent relapses. People with known hypersensitivity should wear an identifying tag in case they are found unconscious after being stung. They should be trained to give themselves adrenaline  using  an  'EpiPen'  or  'Ana-Pen',  but  many  of  those  who  are prescribed these kits are unable to use them effectively because they have not been trained. Shock and airway obstruction are the main causes of death following insect sting anaphylaxis.
+
+============================================================
+CHUNK 13
+============================================================
+REFERENCES
+1. Piek  T.  Venoms  of  the  Hymenoptera.  Biochemical,  Pharmacologicaland Behavioural Aspects. London: Academic Press; 1986.
+2. Mueller UR. Insect Sting Allergy. Clinical Picture, Diagnosis and Treatment. Stuttgart: Gustav Fischer; 1990.
+3. Novartis  Foundation.  Anaphylaxis.  Novartis  Foundation  Symposium  257. Chichester: Wiley; 2004.
+4. Brown SG, Wiese MD, Blackman KE, Heddle RJ. Ant venom immunotherapy: a double-blind, placebo-controlled, crossover trial. Lancet 2003;361:1001-6.
+5. Hunt  KJ,  Valentine  MD,  Sobotka  AK,  et  al.  A  controlled  trial  of  immunotherapy in insect hypersensitivity. N Engl J Med 1978;2991:157-61.
+6. Soar J, Pumphrey R, Cant A, et al. Working Group of the Resuscitation Council (UK)  Statement  Paper.  Emergency  treatment  of  anaphylactic  Reactions  guidelines for healthcare providers. Resuscitation 2008;77:157-69.
+Bites by Other Insects Resulting in Irritation, Allergy and Transmission of Infections [1]
+Blood-feeding insects such as mosquitoes, midges, black flies, sand flies,  tabanid flies  (horse, deer,  and stable flies),  tsetse  flies and triatomine 'kissing' bugs (Fig. 136.2.1) carry out brief, blood-feeding attacks  on  humans  and  animals,  which  have  a  variety  of  medical consequences.
+
+============================================================
+CHUNK 14
+============================================================
+CLINICAL FEATURES
+Bites,  for  example  by  the  large  aggressive  flies  variously  known  as horse flies, gadflies or cleggs (Tabanidae), may be immediately painful and traumatic but the commonest problem is delayed local swelling and itching from exposure to insects' salivary allergens incurred by previous bites. A small, intensely itchy, reddish lump with a central (hemorrhagic)  punctum  develops  immediately  or  after  a  delay  of 24-48 hours. A papule, urticarial weal, blister or bulla may develop (e.g.  after  'Blandford  fly' Simulium posticatum bites  in  Oxfordshire, UK), or bites may provoke a more generalized erythema multiforme or,  especially  in  children,  papular  urticaria,  and  sometimes  even systemic  anaphylaxis  may  be  provoked.  Triatomine  bug  bites  are usually multiple - often near the eye or angle of the mouth. They are painful, swollen, ooze blood and may be surrounded by black staining from the bug's feces (see Chapter 98, 'Chagas' Disease'). Scratching may lead to secondary infection, an inflamed, painful pustule or carbuncle, or a demarcated, hot, bright red, raised area of erysipelas or cellulitis. Causative bacteria include Staphylococcus aureus and Streptococcus pyogenes . The risk of secondary infection seems to be higher under humid tropical conditions. It may be difficult to distinguish between  envenoming  or  allergy,  resulting  in  early  symptoms  after minutes or a few hours, and infection, resulting in late symptoms after many hours or even days.
+FIGURE 136.2.1 Bug bite, São Paulo, Brazil (© David A. Warrell).
+
+============================================================
+CHUNK 15
+============================================================
+CLINICAL FEATURES
+Papular urticaria is a chronic or recurrent rash of numerous very itchy weals and papules with skin edema usually seen on the legs, buttocks, neck  and  arms  of  young  children.  It  erupts  as  weals  with  visible puncta and progresses to papules surmounted by vesicles or bullae that may become excoriated and infected. It is associated with chronic superficial infestations by fleas (e.g. cat fleas Ctenocephalides felis ) and bedbugs (see below), and with bites by mosquitoes, mites and other arthropods [2, 3].
+
+============================================================
+CHUNK 16
+============================================================
+SPECIFIC INFECTIONS TRANSMITTED BY BITING FLIES <DIPTERA= AND BUGS <HEMIPTERA=
+- Mosquitoes  (family  Culicidae)  transmit  many  viral  infections, malaria, lymphatic filariasis and myiasis.
+- Sandflies  (subfamily  Phlebotominae)  transmit  Phlebovirus  (Pappataci) fever, Oroya fever ( Bartonella bacilliformis ) and leishmaniasis.
+●
+Tsetse flies (family Glossinidae) transmit African trypanosomiasis.
+- Chrysops or deer flies (family Tabanidae) transmit Loa loa .
+- Black flies (family Simuliidae) transmit onchocerciasis.
+- Reduviid bugs (family Reduviidae) transmit American trypanosomiasis.
+- Giant  water  bugs  (family  Belastomatidae)  may  transmit  Buruli ulcer.
+
+============================================================
+CHUNK 17
+============================================================
+TREATMENT
+- Apply a cooling antiseptic solution, cream or ointment (e.g. triclosan,  hydrogen  peroxide,  'Savlon')  to  sooth  irritation  and prevent secondary infection.
+- Reduce itch with counter irritants such as crotamiton ('Eurax') cream/lotion  with  or  without  hydrocortisone.  Calamine  is  as useless as it is for prickly heat.
+- Topical corticosteroids (e.g. hydrocortisone 0.5% cream or ointment)  can  be  tried  but  topical  antihistamines  are  not  recommended as they may be light-sensitizing.
+- For severe  pruritus,  use oral  antihistamines. Try  full dose, nonsedating anti-H1 drugs such as cetirizine (adult dose up to 10 mg twice a day) during the day and chlorphenamine ('Piriton') 4 mg at night.
+- Early systemic symptoms of anaphylaxis should be treated with adrenaline (epinephrine) 0.1% (1  :  1 000) by intramuscular injection.
+- If inflamed pustules develop, apply a topical antibacterial such as mupirocin  ('Bactroban').  They  may  need  to  be  lanced  under  aseptic conditions. Multiple infected bites may warrant a course of oral antibiotic, such as flucloxacillin, erythromycin or clindamycin.
+
+============================================================
+CHUNK 18
+============================================================
+PREVENTION
+Be  prepared  for  insect  bites,  not  only  in  tropical  rain  forests  and beaches, but also in the arctic and in cool mountainous terrain such as  the  Californian  Sierra  Nevada,  Italian  Dolomites  and  Scottish Highlands. The risk of getting bitten varies geographically, seasonally and diurnally. Seek specific advice.
+- Sensible clothing should be as ample and protective as comfort (but not vanity) demands. Long sleeves and long trousers should be worn after dusk. Light colors are less attractive to mosquitoes than dark ones. Blue color attracts African tsetse flies (see Chapter 97, 'Sleeping Sickness'). Hats and face veils may be necessary to protect against mass attacks on face and scalp by swarms of Scottish midges (Culicoides), or tropical blackflies (Simulium). This protection is recommended in places where there is a high risk of acquiring muco-cutaneous leishmaniasis by bites of tiny sandflies (Phlebotomus,  Lutzomyia),  for  example  Manu  National  Park in Peru.
+- Effective repellents include diethyl-toluamide (DEET) and p-methane-diol. These can be applied to exposed skin or impregnated into cotton clothing and socks, and ankle, wrist and head bands.
+- Clothes can be impregnated with pyrethroid insecticides but this may impair waterproofing.
+- Protect sleeping quarters. Night bites by mosquitoes that transmit malaria,  cone-nosed  (triatomine)  'kissing'  bugs  (Central  and South America) that transmit Chagas' disease, bed bugs, soft ticks that  transmit  tick-borne  encephalitis  and  tick-borne  relapsing fever, and even vampire bats that transmit rabies (see Chapters 34.1 and 134.6), can be prevented by sleeping under a a well tucked-in pyrethroid-impregnated  mosquito  net.  Mosquito  proofing  of sleeping quarters and insecticide spraying at dusk reduces the risk. Pyrethroid-releasing mosquito coils can be burned or, if there is electricity,  plug-in  insecticide  vaporizers  can be used. Fans  may deter mosquitoes from biting.
+Although  not  related  to  insect  bites,  beware  of  Chagas'  disease acquired through drinking raw jungle fruit and sugar cane juices (e.g. in Brazil and Venezuela) contaminated with infected triatomine bugs (see 'American trypanosomiasis').
+
+============================================================
+CHUNK 19
+============================================================
+REFERENCES
+1. Shatin H, Canizares O. Dermatoses caused by arthropods. In: Canizares O, Harman  RMR,  eds.  Clinical Tropical Dermatology. Oxford: Blackwell; 1992:372-403.
+2. Stibich AS, Schwartz RA. Papular urticaria. Cutis 2001;68:89-91.
+3. Naimer SA, Cohen AD, Mumcuoglu KY, Vardy DA. Household papular urticaria. Isr Med Assoc J 2002;4(suppl. 1 1):91 1-3.
+
+============================================================
+CHUNK 20
+============================================================
+MYIASIS
+Infestation of living animals by larval flies (Insecta, Diptera) is known as  myiasis.  In  humans,  larvae  of  three  families  of  flies  have  been associated  with  myiasis:  Oestridae  (botflies),  Calliphoridae  (blowflies) and Sarcophagidae (fleshflies). Myiasis is classified by its location  as  cutaneous,  wound,  nasopharyngeal,  orbital,  ophthalmic, aural, urogenital, pulmonary and intestinal.
+Primary or specific myiasis is caused by flies whose larvae are obligate parasites of living tissues.
+Opportunistic or secondary myiasis is caused by saprophagous larvae that feed on decaying tissue.
+Accidental myiasis is caused by coprophagous larvae that enter the gastrointestinal tract by chance or by inhalation of the gravid female fly to cause pulmonary myiasis.
+Aural, nasopharyngeal and malignant wound myiasis are potentially lethal, demanding removal of the larvae, debridement and reconstructive surgery.
+Diagnosis is by discovering and expertly identifying larvae in infested patients.
+
+============================================================
+CHUNK 21
+============================================================
+CUTANEOUS MYIASIS [3, 4]
+Human bot flies,  also  known  as  ver  macaque,  berne,  el  torsalo  or beefworm ( Dermatobia  hominis Oestridae),  are  a  common  cause  of dermal myiasis in Central and South America. Their eggs are deposited on biting arthropods, such as mosquitoes, which carry them to the  skin  of  the  host.  Here,  the  eggs  hatch  and  the  larvae  burrow into the skin. As the  larva grows  over a period of 10 weeks, a boil develops with a small aperture. Larvae may grow to more than 1 cm
+removal of the larvae, debridement of affected tissue and treatment of secondary infection. Reconstructive surgery may be required.
+OPHTHALMOMYIASIS (OCULAR
+MYIASIS) [5, 61
+in  length  (Fig.  136.3.1A,  B).  An  early  symptom  is  sporadic  pain caused by the spiny larva. Unless the eye is involved, infestation is generally  harmless.  Secondary  infection  of  the  wound  is  the  most common complication.
+Tumbu flies, also known as putsi fIy or ver du cayor ( Cordylobia anthropophaga Calliphoridae),  occur  throughout  sub-Saharan  Africa  and southern  Spain.  Females  lay  their  eggs,  usually  on  urine-  or  fecescontaminated sand or moist soil, and on clothes hung outside to dry. Skin contact with viable ova on clothing results in infestation. Larvae penetrate the skin and grow rapidly to mature in about 10 days. A painful inflamed boil develops which seems to wriggle, exudes bloodstained pus and has a definite head, through which the larval spiracles may  protrude  (Fig.  136.3.2).  There  may  be  associated  fever  and lymphadenopathy.
+Larvae of warble flies ( Hypoderma spp.)  and  horse bot  flies, Gasterophilus spp.  (Oestridae),  can  invade  human  skin  causing  intense itching and a creeping eruption.
+
+============================================================
+CHUNK 22
+============================================================
+PREVENTION AND TREATMENT
+Ironing the washing before it is worn destroys the eggs and prevents tumbu fly infestation. Larvae are best excised under local anesthesia. Folk remedies such as the application of raw meat, glue or petroleum
+FIGURE 136.3.1 Human  bot  Fy  ( Dermatobia hominis )  infestation  of  the cheek acquired in Costa Rica. (A) Boil-like lesion with punctum. (B) Extracted larvae.
+jelly  to  the  lesion  usually  fail.  Squeezing  may  rupture  the  larva, causing inflammation or a granulomatous reaction.
+
+============================================================
+CHUNK 23
+============================================================
+WOUND MYIASIS
+Larvae  of  many  species  of  flies  invade  open  wounds  and  feed  on necrotic tissue - a habit that has been employed therapeutically to debride wounds and promote healing.
+However,  New  World  screw-worms Cochliomyia  hominivorax (Calliphoridae)  in  the  Americas  and  North  Africa,  and  the  Old  World screw-worms, Chrysomya  bezziana (Calliphoridae)  and  Wohlfahrt's wound myiasis fly Wohlfahrtia magnifica (Sarcophagidae) in the Old World are obligate parasites of living tissue. Larvae hatch from eggs laid  on  wounds,  in  ears,  in  the  nasal  cavity  orbit  and  on  mucous membranes and genitalia. They burrow en masse into healthy tissue, causing destruction, and  even  death,  from secondary  bacterial infection.
+
+============================================================
+CHUNK 24
+============================================================
+CONTROL, PREVENTION AND TREATMENT
+A massive epidemic of C.  hominivorax myiasis,  mainly  in  sheep,  in Northern Africa, started in 1989. It was controlled by releasing 1260 million sterile male C. hominivorax flies  in  the  15,000 km 2 infested area (Fig. 136.3.3).
+Wounds should be protected from flies. Treatment involves surgical removal of the larvae, debridement of affected tissue and treatment of secondary infection. Reconstructive surgery may be required.
+
+============================================================
+CHUNK 25
+============================================================
+OPHTHALMOMYIASIS <OCULAR MYIASIS= [5, 6]
+Fewer than 5% of cases of human myiasis affect the eye. Usually, only external structures, such as the lids and conjunctivae, are infested but some fly larvae can penetrate the conjunctiva or sclera, causing corneal ulceration and damage to anterior and posterior internal structures that may result in blindness. The usual cause of ophthalmomyiasis externa is Oestrus ovis , the cosmopolitan sheep and goat nasal botfly, whose natural host is herbivorous mammals. Although most common in tropical developing countries (especially North Africa, the Middle East and the Caribbean), it still occurs rarely in Western cities. Female flies eject their larvae into the nostrils of the host, where they mature.
+FIGURE 136.3.2 Tumbu Fy ( Cordylobia anthropophaga ): multiple lesions in a Peruvain man at Instituto de Medicina Tropical 'Alexander von Humboldt' Universidad Peruana Cayetano Heredia, Lima, Peru, who had been working in Zambia (© David A. Warrell).
+penas rela
+Mathe namoreira
+FIGURE 136.3.3 Poster  advertising  the  screw  worm  control  program  in North Africa.
+
+============================================================
+CHUNK 26
+============================================================
+OPHTHALMOMYIASIS <OCULAR MYIASIS= [5, 6]
+Human victims  may  give  a  history  of  having  been  buzzed  in  the face or struck on the eye by an insect and later of developing irritation and  redness  of  the  eye,  foreign  body  sensation,  pain,  lacrimation, palpebral edema and signs of purulent conjunctivitis or a stye (hordeolum). Oestrus  ovis larvae  rarely  develop  beyond  the  first  instar  in humans and so symptoms are self-limiting, but they may be more rapidly relieved by slit lamp examination and removal of larvae which cling to the conjunctivae and may cause follicular conjunctival reaction and pseudomembrane formation. Other causes of human ophthalmomyiasis  include Rhinoestrus  purpureum,  Dermatobia  hominis, Hypoderma spp.,  (Oestridae),  and Cochlyomyia  hominis,  Lucilia spp. and Phormia spp. (Calliphoridae). Larvae of Hypoderma, Cochlyomyia and Dermatobia are more dangerous as they may burrow into the eye, resulting  in  pain,  nausea  and  destruction.  They  must  be  surgically removed.
+Congo floor maggots, larvae  of the fly Auchmeromyia luteola live  in earthen  floors  of  huts  throughout  tropical  Africa  between  latitudes 18°N and 26°S. They suck blood from those sleeping on the ground, causing local swelling and itching.
+
+============================================================
+CHUNK 27
+============================================================
+PREVENTION AND TREATMENT
+If possible, avoid sleeping on the ground. Fumigate the hut. Treat bites symptomatically, making sure that no secondary infection is  introduced. If there are signs of infection, wipe the skin with tincture of iodine and give systemic antimicrobials.
+
+============================================================
+CHUNK 28
+============================================================
+TUNGIASIS
+Tungiasis, also known as 'nigua', 'pio/bicho de pie' and 'pique' is caused  by  the  'chigger',  'jigger'  or  'chigoe'  flea  ( Tunga  penetrans family  Hectopsyllidae)  which  must not  to  be  confused  with  trombiculid mites, also known as 'chiggers' or harvest mites (see below) Adult female fleas are acquired while walking barefoot in the sand. They burrow into the epidermis of the toes and foot, causing itching or painful lesions.
+After fertilization, the female flea jumps (feebly) and burrows alongside  the  nailfold  or  into  the  skin  of  the  groin,  loses  her  legs  and produces eggs each night. A painful swelling develops, typically under a toe nail, with the risk of secondary infection and even fatal tetanus. The encapsulated flea must be curetted out and iodine applied. Complete enucleation is required.
+
+============================================================
+CHUNK 29
+============================================================
+PREVENTION
+Wear proper shoes; do not walk around bare-footed.
+
+============================================================
+CHUNK 30
+============================================================
+DISTINCTION FROM OTHER CREEPING ERUPTIONS
+Arthropod infestations must be distinguished from 'Creeping eruption' (cutaneous larva migrans) caused by larvae of cat and dog hook worms,  such  as Ancylostoma  braziliense , Uncinaria  stenocephala and Ancylostoma caninum that are acquired by lying on a beach in Central/ Southern America. The larva moves day-by-day producing an itchy or painful tortuous serpiginous track.
+
+============================================================
+CHUNK 31
+============================================================
+REFERENCES
+1. Zumpt  F.  Myiasis in Man  and  Animals  in  the  Old  World.  London: Butterworth; 1965.
+2. Hall  M,  Wall  R.  Myiasis  of  humans  and  domestic  animals.  Adv  Parasitol 1995;35:257-334.
+3. McGraw  TA,  Turiansky  GW.  Cutaneous  myiasis.  J  Am  Acad  Dermatol 2008;58:907-26.
+4. Caissie R, Beaulieu F,  Giroux M, et al. Cutaneous  myiasis: diagnosis, treatment, and prevention. J Oral Maxillofac Surg 2008;66:560-8.
+5. Dunbar J, Cooper B, Hodgetts T, et al. An outbreak of human external ophthalmomyiasis due to Oestrus ovis in  southern  Afghanistan.  Clin Infect  Dis 2008;46:e124-6.
+6. Chodosh J, Clarridge J. Ophthalmomyiasis: a review with special reference to Cochliomyia hominivorax. Clin Infect Dis 1992;14:444-9.
+
+============================================================
+CHUNK 32
+============================================================
+136.4 Mites and Ticks
+Some blood-feeding invertebrates infest the skin and hair of human bodies  and  clothing  for  long  periods.  Tropical  climate,  poverty and lack of personal hygiene increase the risk of acquiring ectoparasites  from  other  humans  or  from  the  environment  and  harboring them. These infestations are irritating, distressing, embarrassing and antisocial but it is only in the past century that Westerners have grown less accustomed to being flea-ridden and lousy. The biting and burrowing of these ectoparasites causes pain and irritation and may lead to hypersensitivity, secondary local infection or transmission of systemic infectious diseases.
+
+============================================================
+CHUNK 33
+============================================================
+SPECIFIC INFECTIONS TRANSMITTED BY INFESTING ARTHROPODS
+- Fleas transmit rickettsioses and plague.
+- Tcks transmit  viral encephalitides, viral hemorrhagic  fevers, Colorado, Oklahoma and Kemerovo tick fevers, louping ill, spirochaetoses, rickettsioses, bartonelloses, ehrlichiosis, anaplasmosis and protozoal infections (babesiosis).
+- Lice transmit spirochaetoses and rickettsioses.
+- Trombiculid mites transmit scrub typhus.
+- Scabies mites encourage local streptococcal infection leading to acute glomerulonephritis.
+
+============================================================
+CHUNK 34
+============================================================
+FLEAS <INSECTA FAMILY PULICIDAE=
+Humans can be infested and bitten by human fleas ( Pulex irritans ) and by dog, cat, rat, pigeon and other animal fleas. Direct contact with an infested person or animal is not necessary. Tropical rodent fleas (Xenopsylla  species)  transmit  plague  and  murine  typhus.  The  first evidence of fleas is the appearance of small groups of intensely itchy bites producing red macules with a central puncta often in a line a few centimeters apart, especially on the trunk or buttocks. Fleas may not remain on the body after feeding, but retreat to bedding or crevices and cracks in the bed or room. Examination of underclothing or turning back the bedclothes may reveal the jumping fleas.
+
+============================================================
+CHUNK 35
+============================================================
+TREATMENT
+Itching bites are treated with counter-irritants, topical corticosteroid or  systemic  antihistamines  (see  Chapter  136.2).  Domestic  animals and the infested environment should be kept as clean as is practicable and treated with pyrethroid or other pesticides.
+
+============================================================
+CHUNK 36
+============================================================
+LICE <INSECTA FAMILY PEDICULIDAE= [1]
+Human head lice, body (clothing)  lice  and  pubic lice  are  obligate human parasitic insects that spread through close physical contact. Nymphs and adults require blood for survival and feed daily.
+
+============================================================
+CHUNK 37
+============================================================
+HEAD LICE ( PEDICULUS CAPITIS)
+Head lice  flourish  on  the  human  scalp,  even  in  hygienic,  affluent conditions (e.g. in English teenage schoolgirls). Eggs ('nits') stuck to head hairs are recovered using a fine comb. Itching and scratching may cause secondary infection with occipital lymphadenopathy.
+
+============================================================
+CHUNK 38
+============================================================
+Treatment
+Repeated application of insecticide lotion (pyrethroid, organophosphate or carbamate) and combing.
+
+============================================================
+CHUNK 39
+============================================================
+Prevention
+Avoid head-to-head contact and sharing of combs and hair adornments.
+
+============================================================
+CHUNK 40
+============================================================
+BODY LICE ( PEDICULUS HUMANUS)
+Body lice infestation is promoted by poor hygiene (unwashed clothes and bodies) and crowding. Such conditions are common accompaniments of disasters, wars, forced immigration and cold, wet seasons (e.g. highlands of Ethiopia). Lice and their eggs may be discovered on skin,  body hair  or  in  clothing,  especially  in  the  seams.  More  than 21,500 lice have been found on one person. Individual bites look like flea bites but lack their linearity. There is only mild local irritation.
+
+============================================================
+CHUNK 41
+============================================================
+Treatment
+Clothing  is  burned  or  heat-sterilized  and  impregnated  with  pyrethroids. Infested people are bathed with soap and 1% lysol.
+
+============================================================
+CHUNK 42
+============================================================
+PUBIC (CRAB) LICE ( PTHIRUS PUBIS FAMILY PHTHIRIDAE )
+Pubic  lice  cause  sexually-transmitted  infestation  of  the  pubic  hair, body  hair,  eyebrows  and  eyelashes,  where  they  provoke  itching, scratching, secondary infection and a curious bluish staining (maculae caeruliae). Eggs are stuck to the hairs.
+
+============================================================
+CHUNK 43
+============================================================
+Treatment
+Insecticides (see above) are applied to affected areas, left on for 1-2 days and then re-applied after a week. Sexual contacts should also be treated.
+
+============================================================
+CHUNK 44
+============================================================
+SCABIES MITES (ASTIGMATA FAMILY SARCOPTIDAE) [2]
+The human scabies mite Sarcoptes scabiei var. hominis causes a chronic infestation. Scabies mites adapted to other mammalian hosts, such as Sarcoptes  scabiei var. canis, cause  only  self-limiting  pruritus  in humans.  Avian  mites Dermanyssus  gallinae and Ornithonyssus spp. occasionally bite humans, causing lesions which resemble scabies.
+Prevalence rates increase when there is overcrowding and following social disruption in wartime. For example, prevalence among dermatology patients in Edinburgh rose from 5-30% during the world wars. Outbreaks may occur in nursing homes and hospitals. Most cases are acquired by  close contact rather than  fomites,  as  the  mites  do  not survive  long  away  from the body.  Symptoms of scabies  are  caused only by the 3-mm long adult female mites, which burrow through the epidermis within the stratum granulosum and deposit 2-3 eggs daily during their month of life. Six-legged larvae hatch after a few days, migrate to the skin surface and moult to become eight-legged nymphs and later adults, maturing in about 10-14 days. The smaller males die after mating on the epidermis and do not burrow. Females feed on cells of the stratum corneum and its secretions. Mite excretions, saliva and eggs incite a delayed type-IV hypersenstitivity reaction  in  the  host,  responsible  for  the  familiar  irritation  and  itching which begins up to three weeks after initial infestation but soon after re-infestation.  In  an  immunocompetent  host,  a  typical  infestation involves fewer than 20 mites. Scabies is transmitted by close physical contact often involving whole families.
+
+============================================================
+CHUNK 45
+============================================================
+Clinical features
+Burrows most commonly occur in the interdigital clefts between the fingers  and  on  the  wrists,  but  may  be  widespread  (Fig.  136.4.1). Tracks  are  serpiginous,  extending  for  a  few  millimeters  up  to  one centimeter,  creating  linear  papulovescular  lesions  with  excoriation, secondary  infection,  eczematization,  lichenification  and  erythematous papules. Lesions are intensely itchy, especially at night and after a  hot  bath  or  shower, provoking scratching -  excoriation that promotes secondary infection. In about 7% of cases, very itchy reddish brown  nodules  occur  on  the  genitalia,  groin,  buttocks  and  axillae (nodular scabies). In infants, vesicular, pustular and nodular lesions are found on the axillae, head, face, diaper region, palms and soles. An exuberantly crusting form, Norwegian scabies, occurs in patients immunosuppressed by HIV, human T-lymphotropic virus (HTLV)-1 or by drugs employed in organ transplantation, and in people with trisomy-21. Demarcated, hyperkeratotic, scaly plaques involve, in particular,  the  extremities,  scalp,  face,  neck  and  buttocks.  The  scales contain thousands of mites and the load per patient may exceed 1 million mites. This type of scabies is very infectious and a single case can give rise to nosocomial outbreaks.
+
+============================================================
+CHUNK 46
+============================================================
+Complications
+In  developing  countries,  scabetic  lesions  often  become  secondarily infected with Staphylococcus aureus and Streptococcus pyogenes . Strains of  the  latter  organism  may  cause  rheumatic  fever,  rheumatic  heart disease and post-streptococcal glomerulonephritis.
+FIGURE 136.4.1 Extensive scabies in two Koranic students in Zaria, Nigeria. In  this  region,  scabies  infestation  may  be  associated  with  streptococcal glomerulonephritis (© David A. Warrell).
+
+============================================================
+CHUNK 47
+============================================================
+Diagnosis
+This  is  confirmed  by  microscopy  of  scrapings  from  affected  areas, especially interdigital spaces, but many cases are atypical and a dermatologic opinion may be required to exclude other causes.
+
+============================================================
+CHUNK 48
+============================================================
+Treatment
+Topical  aqueous  lotions  of  0.5%  malathion  or  5%  permethrin  are applied to the whole body surface of all affected people and close contacts on two occasions one week apart. Itching may persist and requires topical counter irritants, a corticosteroid (e.g. crotamiton and hydrocortisone)  and  a  sedating  antihistamine  (chlorphenamine  at night).  Resistance  to  permethrin  is  resulting  in  treatment  failures. Lindane is no longer used in Western countries on the grounds of safety.  Nodular  scabies  may  require  additional  corticosteroid  treatment. Patients cured of scabies may be left with persistent post-scabies eczematous  rashes.  Systemic  ivermectin  (200 μ g/kg,  in  multiple doses) has proved effective  for Norwegian scabies  when combined with  topical  treatment  and  keratolytics.  Ivermectin  is  being  used increasingly to treat and control ordinary scabies in a dose of 200 μ g/ kg  repeated  after  1-2  weeks.  Successful  combined  mass  treatment campaigns  against  scabies  and  intestinal  helminthes  have  been carried out, and elimination of human scabies is envisaged by some optimists.
+
+============================================================
+CHUNK 49
+============================================================
+TROMBICULID (HARVEST) MITES (ACARANI LEPTOTROMBIDIUM SPP. FAMILY TROMBICULIDAE) [3]
+Sometimes known misleadingly as 'chiggers', trombiculid mites can infest  in  large  numbers,  especially  under  tight  underpants,  causing multiple, persisting, painful, itchy, blistering bites. They occur particularly  in  grassy,  rodent-infested  'mite  islands'  in  jungle  clearings throughout Asia and the Pacific region, where they are responsible for transmitting scrub typhus.
+
+============================================================
+CHUNK 50
+============================================================
+Prevention
+Use  diethyl-toluamide  (DEET)-containing  repellents,  tuck  trousers into  boots  and  avoid  notorious  'mite  islands',  which  are  densely infested with these trombiculids.
+FIGURE 136.4.2 Multiple  blistering  lesions  from  bites  by  Cayenne  ticks ( Amblyomma  cajennense ) in Brazil. This species can transmit  Rocky Mountain Spotted Fever (Courtesy of Dr João Luiz Costa Cardoso).
+
+============================================================
+CHUNK 51
+============================================================
+BEDBUGS (INSECTA CIMEX SPP. FAMILY CIMICIDAE)
+The common bedbug, Cimex lectularius is cosmopolitan and, in recent years, infestations have increased in developed countries, such as the UK. In tropical countries, it is replaced by Cimex hemipterus. There is no  convincing  evidence  that  bedbugs  transmit  infections  such  as hepatitis  B.  Adults  reach  a  length  of  about  5 mm.  Nymphs  pass through  five  instars  to  reach  adulthood  after  about  four  months. Nymphs and adults take about 5-10 minutes to obtain a full blood meal. Adults may take several blood meals over several weeks but can survive six months' starvation.
+At night, bedbugs emerge from cracks and crevices in the bedroom to bite sleeping humans. Sometimes, bites go unnoticed but bedbugs may cause sleeplessness through pain and allergic reactions to their bites. Swellings, red papules and even disseminated bullous eruptions may appear. Rooms that are heavily infested may acquire an unpleasant odor. Bites are discouraged by keeping the light on all night, by sleeping  under  a  permethrin-impregnated  mosquito  net  and  by putting newspaper beneath the under-sheet. Eradication is by thorough  cleaning  of  the  environment  (heavily-infested  furniture  may have to be burned), steam cleaning sheets or exposing them to the sun  and  application  of  the  usual  residual  insecticides.  However, insecticide-resistance has developed and bedbugs are becoming more abundant.
+
+============================================================
+CHUNK 52
+============================================================
+TICKS <ACARINA= [3, 4]
+Soft (argasid) ticks (family Argasidae) [5] live in animal burrows and human dwellings. They attach briefly at night, engorge rapidly with blood and then drop off and hide in cracks and crevices. Ticks of the genus Ornithodorus transmit relapsing fevers ( Borrelia spp.).
+Hard (ixodid) ticks (family Ixodidae) or their tiny nymphs may be picked up from vegetation or brought into gardens by deer or indoors by dogs. They find a secluded area (groin, perineum, waist, umbilicus, axilla,  scalp  and  even  external  auditory  meatus)  and  feed  for  days until they are spherical and engorged. The bite of hard ticks is not usually detected during feeding. Multiple bites may cause local vesicular lesions (Fig. 136.4.2). Some species transmit Lyme disease, Rocky Mountain  spotted  fever,  African  tick  fevers,  European  tick-borne encephalitis, Crimean-Congo hemorrhagic fever, Colorado tick fever, louping ill, babesiosis, ehrlichiosis, anaplasmosis and other human infections.  Some  ticks  in  North  America  and  Australia  can  inject  a paralyzing neurotoxin (see below).
+FIGURE 136.4.3 (A, B) Technique for removing ticks (Courtesy of US Centers for Disease Control and Prevention, Atlanta).
+
+============================================================
+CHUNK 53
+============================================================
+Prevention of tick-transmitted infections
+- Common sites  for  tick  attachment  should  be  examined  when undressing at night after being in the field.
+- Contact with tick-infested domestic animals should be avoided.
+- Light-coloured trousers (pants) allow ticks to be seen more easily.
+- Trouser (pant) bottoms should be tucked into boots.
+- DEET-containing repellents should be applied.
+- Specific  antibiotic  chemoprophylaxis  against  tick-transmitted infections is not justified.
+
+============================================================
+CHUNK 54
+============================================================
+Removing ticks
+The  tick  is  grasped  as  close  as  possible  to  the  skin  surface  using fine curved (iris) forceps. Squeezing the tick's engorged body should be  avoided.  The  tick  should  be  pulled  out  gently  without  twisting (Fig.  136.4.3A,  B).  If  the  mouth  parts  break  off,  they  should  be removed separately. The aim is not to leave the barbed hypostome in the wound as it may provoke inflammation and granuloma formation.  The  tick  should  be  kept  for  later  expert  examination  in  case symptoms develop.
+
+============================================================
+CHUNK 55
+============================================================
+REFERENCES
+1. Roberts DT, ed. Lice and Scabies: A Health Professional's Guide to Epidemiology and Treatment. London: Public Health Laboratory Service; 2000.
+2. Hengge UR, Currie BJ, Jä ger G, et al. Scabies: an ubiquitous neglected skin disease. Lancet Infect Dis 2006;6:769-79.
+3. Baker AS. Mites and Ticks of Domestic Animals: An Identification Guide and Information Source. London: The Stationery Office; 1999.
+4. Hoogstraal  H.  Changing  patterns  of  tickborne  diseases  in  modern  society. Annu Rev Entomol 1981;26:75-99.
+5. Hoogstraal  H.  Argasid  and  nuttalliellid  ticks  as  parasites  and  vectors.  Adv Parasitol 1985;24:135-238.
+
+============================================================
+CHUNK 56
+============================================================
+TAXONOMY AND EPIDEMIOLOGY
+Ticks, with mites, form the order Acarana of the class Arachnida. Adult females of about 34 species of hard tick (family Ixodidae ) and immature specimens of 9 species of soft ticks (family Argasidae ) have been implicated in human tick paralysis. The tick's saliva contains a neurotoxin which causes presynaptic neuromuscular block and decreased nerve-conduction velocity. The tick embeds itself in the skin with its barbed hypostome introducing the salivary  toxin while it  engorges with blood [1].
+Although tick paralysis has been reported from all continents, most cases occur in western North America ( Dermacentor andersoni ), eastern USA ( Dermacentor variabilis ) and eastern Australia from north Queensland to Victoria ( Ixodes holocyclus , known as the bush, scrub, paralysis-, or dog- tick). In British Columbia, Canada, there were 305 cases with a  1 0% case fatality  between 1900 and 1968. About 120 cases have been reported in the USA and in New South Wales (Australia), there were at least 20 deaths between 1900 and 1945 [2, 3].
+
+============================================================
+CHUNK 57
+============================================================
+CLINICAL FEATURES [4]
+Ticks  are  picked  up  in  the  countryside  or  from  domestic  animals, particularly dogs, in the home. The majority of patients and almost all fatal cases are children. After the tick has been attached for 5-6 days, a progressive ascending, lower motor neuron paralysis develops with paraesthesiae. Often, a child, who may have been irritable for the previous 24 h, falls on getting out of bed first thing in the morning and is found to be weak or ataxic. Paralysis increases over the next few  days:  death  results  from  bulbar  and  respiratory  paralysis  and aspiration  of  stomach  contents.  Vomiting  is  a  feature  of  the  more acute course of I. holocyclus envenoming.
+This  clinical  picture  is  often  misinterpreted  as  poliomyelitis.  Other neurologic conditions, including Guillain-Barré syndrome, paralytic rabies, Eaton-Lambert syndrome, myasthenia gravis or botulism, may also be suspected. Diagnosis depends on finding the tick, which is likely to be concealed in a crevice, orifice or hairy area of the body. The scalp is the commonest place. Fatal tick paralysis has been caused by a tick attached to the tympanic membrane.
+
+============================================================
+CHUNK 58
+============================================================
+TREATMENT
+The tick must be discovered and detached without being squeezed (Fig. 136.4.3A, B). It can be painted with ether, chloroform, paraffin, petrol or turpentine, or prized out between the partially separated tips of a pair of small, curved forceps. Following removal of the tick there is  usually  a  rapid  and  complete  recovery;  however,  in  Australia, patients have died even after the tick had been detached. The antivenoms, raised in dogs and rabbits in Australia, are no longer produced.
+
+============================================================
+CHUNK 59
+============================================================
+SPIDERS (ORDER ARANEAE)
+All  but  one family  of this enormous  order are  venomous,  but  few species have proved dangerous to humans. Spiders bite with a pair of fangs, the chelicerae, to which the venom glands are connected.
+Necrotic  araneism  is  caused  by  recluse  spiders, Loxosceles (family Sicariidae) (Fig. 136.5.1)
+Neurotoxic araneism is caused by:
+- black and brown widows Latrodectus (family Theriidae) (Fig. 136.5.2);
+- wandering, armed or banana spiders Phoneutria (family Ctenidae) (Fig. 136.5.3A, B);
+- Sydney and other Australian funnel-web spiders Atrax, Hadronyche and Missulena spp. (Mygalomorphae family Hexathelidae) (Fig. 136.5.4).
+FIGURE 136.5.1 Female Brazilian recluse spider ( Loxosceles gaucho ), Brazil (© David A. Warrell).
+FIGURE  136.5.2 Black  widow  spider  ( Latrodectus  curacaviensis ),  Brazil (© David A. Warrell).
+FIGURE 136.5.3 Brazilian armed, wandering or banana spider ( Phoneutria nigriventer ). (A) Defensive posture with raised 'arms' (copyright D. A. Warrell). (B) Dorsal view (scale in cm).
+FIGURE  136.5.4 Sydney  funnel-web  spider  ( Atrax  robustus ) (Courtesy  of South Australian Museum).
+1
+1
+2
+3
+4
+
+============================================================
+CHUNK 60
+============================================================
+Epidemiology
+Spider bites are common in some parts of the world but there are now few fatalities. Brazil reported 19,634 bites (10/100,000 population) in 2005 with only 9 deaths (0.05%). In Central and Southern America, Loxosceles spp. such as Loxosceles laeta and Loxosceles gaucho are widely distributed and cause many bites. In Chile, the case fatality of loxoscelism ranges from 1% to 17%. In the south and south-central USA, the brown recluse spider, Loxosceles reclusa , caused at least 200 bites and 6 deaths in the USA during the last century. More than 60 cases were reported from Texas between 1959 and 1962. In the Mediterranean region, North Africa, and Israel bites by Loxosceles rufescens have been reported. Most bites from Loxosceles spp. occur in bedrooms while people are asleep or dressing. In the USA, a number of men were bitten on the genitalia while they sat on outdoor privies in which the spiders had spun their webs.
+Black  and  brown  widow  spiders  are  cosmopolitan  in  distribution. Latrodectus tredecemguttatus (sometimes referred to, loosely, as 'tarantula') lives in fields in Mediterranean countries and was responsible for  a  series  of  epidemics  of  bites.  In  Italy,  946  cases  were  reported between 1946 and 1951 [5]. Latrodectus hasselti , the Australian redback spider causes up to 340 bites each year in Australia and 20 deaths have  been  reported  [6,  7].  The  black  widow  spider  ( Latrodectus mactans ) was responsible for 63 deaths in the USA between 1950 and 1959. Several species of Latrodectus occur in Latin America
+Wandering, armed or banana spiders ( Phoneutria spp.) cause bites and a few deaths in Latin American countries. They have been imported into temperate countries in bunches of bananas, causing a few bites and deaths.
+Highly  dangerous  funnel-web  spiders  ( Atrax spp.)  are  restricted  to south-eastern Australia and Tasmania. The Sydney funnel web spider ( Atrax robustus ) is found only within a 160-mile (256 km) radius of Sydney. The aggressive males caused at least 13 deaths between 1927 and 1980. Members of the related genera Hadronyche and Missulena may be equally dangerous [8].
+
+============================================================
+CHUNK 61
+============================================================
+Epidemiology
+In England, mild neurotoxic araneism has been described after bites by Steatoda  nobilis and Steatoda  grossa (family  Theridiidae)  [9]  and woodlouse spider ( Dysdera crocata family Dysderidae).
+
+============================================================
+CHUNK 62
+============================================================
+Necrotic araneism
+Skin  lesions  varying  in  severity  from  mild,  localized  erythema  and blistering  to  extensive  granulomas  and  tissue  necrosis  have  been falsely attributed to a large variety of familiar peri-domestic species, such as the Australian white-tailed spider ( Lampona cylindrata ), North American  hobo  spider  ( Tegenaria agrestis ),  European  and  South American wolf spiders ( Lycosa , including the Italian 'tarantula' Lycosa terentula ) and cosmopolitan sac spiders ( Cheiracanthium ) [10]. However, only members of the genus Loxosceles have proved capable of  causing  'necrotic  arachnidism/araneism' .  Venom  sphingomyelinase  D  is  implicated  in  the  pathogenesis  of  dermonecrosis.  Neutrophils  adhere  to  the  endothelium  of  cutaneous  capillaries  and degranulate. The bite itself is usually painless and unnoticed. Burning develops over several hours at the site of the bite, with swelling and development of a characteristic macular lesion - the red-white-andblue sign ( Fig. 136.5.5A ) showing areas of red vasodilatation, white vasoconstriction and central blue prenecrotic cyanosis. A blackened eschar develops (Fig. 136.5.5B), which sloughs in a few weeks leaving a full thickness necrotic ulcer. Sometimes, an entire limb or area of the face is involved. Facial bites cause much swelling. Some 13% of cases  have  systemic  symptoms,  such  as  fever,  headaches,  scarlatiniform  rash,  jaundice,  methaemoglobinemia,  and  hemoglobinuria resulting  from  intravascular  hemolysis.  Acute  kidney  injury  may ensue. The average case fatality is about 5%.
+
+============================================================
+CHUNK 63
+============================================================
+Neurotoxic araneism
+The bite is immediately very painful but local signs are minimal ( L. mactans )  or  moderate  ( L.  hasselti ).  After  about  30  minutes  there  is painful regional lymphadenopathy, then headache, nausea, vomiting
+5 cm
+FIGURE 136.5.5 Necrotic araneism. (A) 'Red-white-and-blue' sign developing 18 hours after a bite by the Brazilian recluse spider ( Loxosceles gaucho ),  São  Paulo,  Brazil (© David A. Warrell). (B) Eschar  after Loxosceles amazonica bite, Belém, Brazil (Courtesy of Dr Pedro Pardal).
+and local sweating with piloerection ('gooseflesh') - a sign highly suggestive of neurotoxic araneism. In cases of bites by L. mactans and L.  tredecemguttatus, there  is  profuse  generalized  sweating  and  fever with painful muscle spasms, tremors and rigidity. This may be sufficiently severe to embarrass respiration. The classic 'facies latrodectismica' is  an  agonized  grimace  caused by  facial  spasm  and  trismus, associated with swollen eyelids, congested conjunctivae, flushing and sweating. Abdominal rigidity may simulate an acute abdomen and prompt  laparotomy.  Other  features  include  tachycardia,  hypertension, restlessness, irritability, psychosis, priapism and rhabdomyolysis.  A  localized or  diffuse  rash  may  appear  several  days  later. Envenoming by Phoneutria and Atrax spp. produces similar features.
+
+============================================================
+CHUNK 64
+============================================================
+First-aid treatment
+In Australia, pressure-immobilization (see Chapter 134.5) is recommended for bites by A. robustus and Hadronyche species.
+
+============================================================
+CHUNK 65
+============================================================
+Speci>c treatment
+Antivenoms for envenoming by Latrodectus spp. are made in Australia, Mexico, South Africa, Brazil and some other South American countries for Atrax spp. in Australia [1 1], for Loxosceles spp. in Peru, Brazil, Mexico,  and  Argentina,  and  for Phoneutria spp.  in  Brazil.  Despite
+decades of use, there is no decisive evidence for the efficacy of Loxosceles antivenoms [12]. Neurotoxic araneism may be more obviously responsive to antivenom [8], but the effectiveness of antivenom for L. hasselti bites in Australia has been questioned [13].
+
+============================================================
+CHUNK 66
+============================================================
+Supportive treatment
+Oral  dapsone  (100 mg  twice  daily)  is  said  to  reduce  the  extent  of necrotic lesions by inhibiting neutrophil degranulation and calcium gluconate (10 ml of a 10% solution, given by slow intravenous injection) is said to relieve the pain of muscle spasms caused by the venom of Latrodectus spp. rapidly and more effectively than muscle relaxants, such  as  diazepam  or  methocarbamol.  Unfortunately,  evidence  for efficacy  is  lacking.  Antihistamines,  corticosteroids, α -blockers  and atropine have also been advocated. For necrotic araneism caused by Loxosceles spp., early surgical debridement, corticosteroids, antihistamines and hyperbaric oxygen all have their advocates, but there is no basis for recommending their use.
+
+============================================================
+CHUNK 67
+============================================================
+TARANTULA SPIDERS (MYGALOMORPHAE, FAMILY THERAPHOSIDAE)
+Tarantula spiders are becoming increasingly popular pets, kept and bred by both children and adults in Western countries. The largest of  these  giant  spiders,  the  goliath  birdeater  ( Theraphosa  blondi )  of Venezuela and Brazil weighs  up to 150 g with a leg-span  of  up  to 30 cm. In human victims, a  strike by the large vertically-orientated fangs  (Fig.  136.5.6)  is  powerful  enough  to  penetrate  a  finger  nail. However, despite their size, tarantulas are generally perceived to be harmless pets. Bites are uncommon but are under-reported.
+New  World  tarantulas,  such  as  the  popular  Mexican  pink/orange/ red-kneed tarantula ( Brachypelma  smithi ),  can  eject  urticating  abdominal  setae,  causing  kerato-uveal  injuries  ('ophthalmia  nodosa') and irritation of skin, nasopharynx and respiratory tract. Bites may cause allergic reaction, but envenoming appears to be clinically trivial, with  the  possible  exception  of  a  few  genera,  such  as  Sericopelma (Theraphosinae).
+Old  World  tarantulas  which  lack  protective  urticating  hairs,  seem more ready to bite. In birds, and mammals (as large as dogs), bites may be lethal [14]. In humans, their bites are increasingly recognized as being potentially dangerous. Apart from intense local pain, inflammation and swelling, severe systemic symptoms may ensue. Episodic,
+FIGURE 136.5.6 Vertically  placed  venom jaws (25-mm long) of  the  East African  king  baboon  tarantula  ( Citharischius  crawshayi Eumenophorinae Theraphosidae) (Courtesy of Peter Kirk).
+
+============================================================
+CHUNK 68
+============================================================
+TARANTULA SPIDERS (MYGALOMORPHAE, FAMILY THERAPHOSIDAE)
+generalized, painful muscle cramps have been reported after bites by Ornithoctoninae spp. Orange-fringed ( Haplopelma doriae ) (Ornithoctoninae) from Borneo, African baboon  tarantula ( Pterinochilus murinus ) (Harpactirinae), Indian ornamental tarantula ( Poecilotheria regalis ) (Poecilotheriinae) and Southeast Asian and Australasian Lampropelma (Ornithoctoninae), Eumenophorus (Eumenophorinae), Selenocosmia (Selenocosmiinae) and African Stromatopelma and Heteroscodra (Stromatopelminae) [15].
+
+============================================================
+CHUNK 69
+============================================================
+Treatment
+In the absence of any antivenom, muscle spasms can only be palliated with large doses of benzodiazepines and other muscle relaxants. Dantrolene might be considered.
+
+============================================================
+CHUNK 70
+============================================================
+Prevention
+The  dangers  of  tarantula  hairs  and  bites  must  be  recognized  and tarantula keepers should be warned of the danger of handling these animals incautiously, especially after drinking alcohol.
+
+============================================================
+CHUNK 71
+============================================================
+SCORPIONS <SCORPIONES: BUTHIDAE, HEMISCORPIIDAE=
+Species  capable  of  inflicting  fatal  stings  occur  in  North  Africa  and the Middle East ( Androctonus , Buthus , Hemiscorpius and Leiurus spp.) (Fig. 136.5.7), South Africa ( Parabuthus spp.), India and Nepal ( Hottentota tamulus ), North, Central and Southern America, and Trinidad, and  Tobago  ( Centruroides and Tityus spp.)  (Fig.  136.5.8)  [16,  17]. Scorpion toxins target Na + , K + , Ca 2 + and Cl -channels, causing direct effects and the release of neurotransmitters, such as acetylcholine and catecholamines [18, 19]. Scorpions are nocturnally-active arachnids. Discovery of scorpions during the daytime is usually made by removing their protective shelter in the field (e.g. loose bark, debris, rocks), in the house (e.g. footwear, storage boxes, clothing on the floor) and in other places protected from light.
+
+============================================================
+CHUNK 72
+============================================================
+EPIDEMIOLOGY
+In  Mexico,  there  are  250,000  stings  with  less  than  50  deaths/year attributed to Centruroides limpidus, Centruroides noxius and Centruroides suffusus . In Khuzestan Province, Iran, 25,000 stings ( Hemiscorpius lepturus , Androctonus and Buthus spp.) are treated each year. They are the
+FIGURE 136.5.7 'Death stalker'  scorpion  ( Leiurus  quinquestriatus ),  Egypt (© David A. Warrell).
+FIGURE 136.5.8 South American scorpion ( Tityus serrulatus ), female with young, São Paulo, Brazil (© David A. Warrell).
+fourth major cause of death. In Algeria, there were 150 deaths in 1998 and 74 in 2005. In Tunisia, there are about 40,000 stings per year, 1000 hospital admissions and 100 deaths. In Arizona, 15,000 stings, mainly by Centruroides exilicauda , are reported each year but there have been no deaths in the USA since 1968. In Brazil, where important species are Tityus serrulatus (Fig. 136.5.8) and other Tityus spp., there were 36,558 reported stings with only 50 deaths (case fatality 0.14%) in 2005. In India, many people are stung by the  red scorpion ( M. tamulus ), with fatalities in adults and children.
+
+============================================================
+CHUNK 73
+============================================================
+PREVENTION
+Scorpions  can  be  excluded  from  houses by  incorporating a  row  of ceramic tiles into the base of the outside wall, making the doorsteps at  least  20 cm  high,  and  using  residual  insecticides,  such  as  1% lindane or dieldrin powders, indoors.
+
+============================================================
+CHUNK 74
+============================================================
+CLINICAL FEATURES
+Buthid scorpion stings cause intense local pain with minimal local edema and tender enlargement of regional lymph nodes. However, stings  by H. lepturus (Iran,  Iraq,  Pakistan  and  Yemen)  are relatively painless, but macular erythema, pupura and bullae develops at the site, with induration in 39% of cases, and swelling and necrosis that requires  surgery  in  20%  of  cases  [20].  Systemic  symptoms  may develop within minutes or be delayed for as long as 24 hours. Many scorpion venoms stimulate the release of acetylcholine and catecholamines, often resulting in initial transient cholinergic and, later, prolonged adrenergic symptoms [21]. Early symptoms include vomiting, profuse  sweating,  piloerection,  alternating  brady-  and  tachycardia, abdominal colic,  diarrhea,  loss  of  sphincter  control  and  priapism. Later,  severe  life-threatening  cardiorespiratory  effects  may  appear: hypertension, shock, tachy- and bradyarrhythmias, electrocardiogram (ECG) changes and pulmonary edema with, or without, evidence of myocardial dysfunction. Severe cardiovascular complications are particularly associated with stings by Androctonus spp., Leiurus quinquestriatus, Hottentota tamulus and Tityus spp. In Arizona, C. (sculpturatus) exilicauda stings  cause  neurotoxic  effects,  such  as  erratic  eye  movements, fasciculation and muscle spasms, that can be misinterpreted as  tonic-clonic  convulsive  movements,  and  respiratory  distress.  In southern Africa, Parabuthus transvaalicus envenoming is more likely to cause ptosis and dysphagia. Hemiplegia and other neurologic lesions have been attributed to fibrin deposition resulting from disseminated intravascular coagulation, for example after stings by Nebo hierichonticus in the Middle East. Hypercatecholaminemia could explain hyperglycemia and glycosuria but, in the case of stings by the black scorpion of  Trinidad  ( Tityus  trinitatis ),  there  is  severe  abdominal  pain
+
+============================================================
+CHUNK 75
+============================================================
+CLINICAL FEATURES
+with nausea, vomiting and hematemesis, hyperglycemia and biochemical evidence of acute pancreatitis attributable to simultaneous spasm of the shincter of Oddi and pancreatic exocrine hypersecretion [22]. In Iran  and  Iraq,  stings  by H.  lepturus (Hemiscorpiidae)  produce  a unique  clinical  syndrome.  Systemic  symptoms  include  dry  mouth, thirst,  dizziness,  nausea,  vomiting,  fever,  cardiac  arrhythmias,  ECG ST-depression, hypoglycemia, confusion and convulsions, leukocytosis, thrombocytopenia, coagulopathy, hemolytic anemia with hemoglobinuria, proteinuria and renal failure. Twenty percent of pediatric cases require dialysis. Early treatment with Rhazi Institute antivenom proved effective.
+
+============================================================
+CHUNK 76
+============================================================
+TREATMENT
+Pain responds temporarily to local infiltration or ring block with local anesthetic. Although they are said to relieve pain, local injection of emetine or dehydroemetine may cause necrosis and systemic myotoxic effects and are not recommended. Parenteral opiate analgesics, such as meperidine (pethidine) or morphine, may be required.
+Antivenom is manufactured in several countries. Its use  is  strongly advocated  in  Africa  and  the  Americas,  but  vasodilators  have  been preferred in Israel and India [23]. If specific antivenom is available, it should  be  administered  intravenously  (IV)  as  soon  as  possible  in patients with systemic envenoming and in young children stung by dangerous species, even before the development of these symptoms. Patients with cardiovascular symptoms benefit from ancillary vasodilator  treatment  with α -blockers  (e.g.  prazosin),  calcium-channel blockers (e.g. nifedipine), or angiotensin converting enzyme (ACE) inhibitors (e.g. captopril). Atropine should not be used except in cases of sinus bradycardia with hypotension. The use of cardiac glycosides and β -blockers is controversial [24]. Benzodiazepines may be useful in patients with muscle spasms.
+
+============================================================
+CHUNK 77
+============================================================
+WIND SCORPIONS, CAMEL SPIDERS OR SUN SPIDERS (SOLIFUGAE)
+These arthropods  are neither scorpions nor spiders,  but  nonvenomous  solifugids.  They  may  exceed  15 cm  in  length  and  have terrified foreign troops in Iraq and Afghanistan. In Turkana (northern Kenya), the local people believe that their bite can cause coma and hypersalivation. However, solifugids lack venom and venom apparatus although they possess formidable jaws. They are mainly nocturnal and seek shade during the day. This has led to the impression that they  chase  people  when  they  are  merely  seeking  the  refuge  of  the person's shadow.
+
+============================================================
+CHUNK 78
+============================================================
+COLEOPTERA (BEETLES)
+The most notorious vesicating beetle is 'Spanish fly' Lytta vesicatoria (Meloidae - blister beetles). Its venom contains cantharidin, which causes  blistering  2-3 h  after  application  to  the  skin,  and  priapism (hence its reputation as an aphrodisiac) and renal failure when given systemically or absorbed after eating the legs of frogs which have fed on meloid beetles [25].
+'Nairobi  eye'  and  similar  blistering  conditions  in  Australia  and Southeast Asia are caused by species of the genus Paederus (Staphylinidae), which are 5-10 mm in length [26, 27]. The typical skin lesions (dermatitis linearis) (Fig. 136.5.9), whose appearance may be delayed 12-96 h  after  contact,  consist  of  erythema,  itching  and  blistering caused by inadvertently crushing and smearing the beetle. Systemic symptoms, such as fever, arthralgia and vomiting, may arise in severe cases.  The  active  principle  pederin  is  the  most  complex  nonproteinaceous insect toxin known. Treatment is palliative. The toxin is easily spread to other sites, such as the eye, by fingers.
+
+============================================================
+CHUNK 79
+============================================================
+HEMIPTERA (BUGS)
+Giant  water  bugs  or  water  beetles  (family  Belastomatidae)  (Fig. 136.5.10) are found in freshwater, especially in the Americas, and may swarm in large numbers in some urban areas. They may exceed 15 cm in length and have powerful mouth parts. Their bites can inject saliva that proved lethal to mice experimentally and can cause severe pain
+2
+3
+5
+7
+9
+8 81
+FIGURE 136.5.9 Dermatitis linearis caused by contact with a blister beetle ( Paederus spp.) in Nigeria (© David A. Warrell).
+FIGURE  136.5.10 Giant  water  bug  ( Lethocerus spp.),  Darwin,  Australia (© David A. Warrell).
+and swelling in human victims [28, 29]. In North America, Lethocerus americanus is known as 'toe biter' from its habit of attacking swimmers. Whether or not these bugs have a true venom is unknown.
+
+============================================================
+CHUNK 80
+============================================================
+HYMENOPTERA (see also Chapter 136.1)
+In non-sensitized people, a single sting, which, in the case of Vespidae and Apidae, introduces about 50 μ g of venom, will rapidly produce a hot, red, painful swelling and weal a few centimeters in diameter, which persists for not more than a few hours. These effects are dangerous only if the airway is obstructed, for example following stings on the tongue. However, as few as 30 bee or wasp stings can cause fatal systemic envenoming in children, but children and adults have survived more than 1000 stings by Apis mellifera .
+FIGURE  136.5.11 Multiple  stings  from  Africanized  bees  ( Apis  mellifera scutellata ), Brazil (© David A. Warrell).
+
+============================================================
+CHUNK 81
+============================================================
+Epidemiology
+Accidental release of African queen bees ( Apis mellifera scutellata )  in Brazil  in  1957  resulted  in  the  spread  of  this  aggressive  genotype throughout Latin America and as far north as Las Vegas, NV, USA [30]. An  average  of  30  deaths  from  mass  attacks  by  these  insects  were reported each year at the height of the epidemic (Fig. 136.5.1 1). Fatal mass  attacks  by  bees  or  wasps  have  been  reported  as  uncommon events in Europe, Africa, Asia and Australia.
+
+============================================================
+CHUNK 82
+============================================================
+Clinical features [31]
+Some patients have symptoms suggesting histamine toxicity: vasodilatation, hypotension, vomiting, diarrhea, throbbing headache, coma and bronchoconstriction. In Latin America, victims of attacks by A. m.  scutellata have  shown  evidence  of  generalized  rhabdomyolysis (grossly elevated  serum creatine kinase, aminotransferases  and myoglobin), intravascular hemolysis, hypercatecholaminemia (hypertension,  pulmonary  edema  with  hyaline  membrane,  myocardial damage), bleeding, hepatic dysfunction and acute renal failure. Mass vespid attacks can result in hepatic damage. In non-sensitized people, stings from Solenopsis and Myrmecia spp. produce pain, itching, swelling and erythema around a central weal which last a few hours, and later  vesicles  or  pustules.  In  an  un-sensitized  patient,  an  estimated 10,000 Solenopsis invicta stings caused no systemic envenoming. Multiple  traumatic bites  by soldiers  of army, driver, safari ants or  siafu (genus Dorylus, Ecitoninae)  may  ulcerate  and  become  secondarily infected.
+
+============================================================
+CHUNK 83
+============================================================
+Treatment
+Severe envenoming from multiple stings by hymenoptera should be treated with epinephrine (adrenaline), IV antihistamines and corticosteroids (doses as above). Intensive care is essential. IV mannitol and bicarbonate may protect the kidneys from the damaging effects of myoglobinuria and hemoglobinaemia ('pigment nephropathy'), as  in  patients  with  the  crush  syndrome.  Experimental  antivenoms have been produced for bee envenoming, but are not yet commercially  available.  Exchange  transfusion  or  plasmapheresis  might  be considered to remove venom in severe cases. Renal dialysis is often needed.
+FIGURE  136.5.12 Lepidoperism  caused  by  yellowtail  or  ashen  moths  ( Hylesia  metabus ). (A) Hylesia  metabus adult  moths,  Cayenne,  French  Guiana. (B) Vesiculo-papular lesions caused by setae from Hylesia metabus moths, Peruibe, São Paulo State, Brazil (© David A. Warrell).
+
+============================================================
+CHUNK 84
+============================================================
+LEPIDOPTERA
+The stinging abdominal hairs (barbed setae or 'flechettes') of some species of adult female moths [genus Hylesia , (Fig. 136.5.12A) family Saturniidae] which they use to protect their  eggs can cause contact dermatitis and urticaria ('lepidopterism'), while caterpillars of many species  of  moths  can  produce  local,  or even  systemic, effects ('erucism') [32]. Venomous lepidoptera are found in all parts of the world, but most cases of lepidopterism are reported from Middle and Southern America.
+Common causes of cutaneous urticating vesiculo-papular eruptions and upper respiratory and gastrointestinal tract irritation with a risk of hypersensitization and anaphylaxis are:
+- caterpillars of oak processionary moths ( Thaumetopoea processionea - family Thaumetopoeidae) in central/southern Europe [33];
+- caterpillars  of  moths  of  the  genus Megalopyge (Megalopygidae, called 'puss caterpillars' in the southern USA) [32];
+- adult female yellowtail or ashen moths of the genus Hylesia (Saturniidae). Epidemics of stings by these moths have been described, especially  from  coastal  areas  of  Brazil,  (Fig.  136.5.12B),  Peru, Venezuela and Mexico, including sailors and travelers [34, 35].
+
+============================================================
+CHUNK 85
+============================================================
+Systemic envenoming:
+- caterpillars of the genus Lonomia Saturniidae ( Lonomia obliqua, Lonomia achelous ) (Saturniid moths) (Fig. 136.5.13A) cause thousands of stings each year in Venezuela,  Colombia, Brazil, Peru, Paraguay and French Guiana [36]. Venom injected through their bristles contains fibrinolytic (Factor XIII-activator); anticoagulant; procoagulant  (prothrombin-,  Factor  X-,  Factor  V-  activators); kallikrein-like metalloproteinase and phospholipase A2 activities that  cause defibrinogenation and spontaneous bleeding. Symptoms  include  local  burning,  erythema,  swelling,  inflammation, headache, nausea, vomiting, malaise, extensive ecchymoses (Fig. 136.5.13B); bleeding from nose, gums, gut, genito-urinary tract tract  and  partly-healed  scars;  polyarthralgia  and  acute  kidney injury [37]. The case fatality of about 2% is usually attributable to  cerebral  hemorrhage.  Laboratory  findings  in  envenomed patients are decreased plasma fibrinogen, Factor V, Factor XIII, and plasminogen concentrations, as well as increased fibrin/fibrinogen degradation products and fibrinolytic activity, but a normal platelet count. A fatal imported case from Peru was reported in Canada [38]. An effective antivenom ('Soro antilonômico') is produced by Instituto Butantan, São Paulo, Brazil [39];
+FIGURE 136.5.13 Erucism caused by Saturniid moth caterpillars ( Lonomia obliqua ). (A) Lonomia  achelous  achelous caterpillar,  Leticia,  Colombia. (B) Extensive bruising in a 58-year-old woman after contact with Lonomia obliqua caterpillars, Boissucanga, São Paulo State, Brazil (© David A. Warrell).
+FIGURE 136.5.14 Local  reaction  to  contact  with  millipedes  in  Madang, Papua New Guinea (Courtesy of Dr Bernie Hudson).
+
+============================================================
+CHUNK 86
+============================================================
+Systemic envenoming:
+- stinging hairs of caterpillars ( Premolis semirufa ) can cause a disabling arthritis of the hands ('pararama') in rubber tappers in Pará State, Brazil, who are frequently in contact with them [40].
+
+============================================================
+CHUNK 87
+============================================================
+CENTIPEDES (CLASS CHILOPODA)
+Epimorph centipedes have 15-191 pairs of legs and move rapidly and distractedly.  They  occur  in  most  parts  of  the  world,  including  the Arctic Circle. The largest, Scolopendra gigantea of South America, can grow to more than 30 cm in length. Many species can inflict painful stings  through  a  pair  of  modified  claws  (forcipules)  on  the  postcephalic segment. More than 3000 stings are reported each year in Brazil. Venoms contain serotonin, histamine, lipids, polysaccharides, proteases  and  peptides  that  are  neurotoxic  to  insects.  Stings  cause intense  radiating  pain,  swelling,  inflammation,  erythema  and  lymphangitis,  and,  sometimes,  local  necrosis.  Systemic  effects,  such  as vomiting, sweating, headache, cardiac arrhythmias, myocardial ischemia,  rhabdomyolysis, proteinuria, acute renal failure and convulsions, are extremely rare. The risk of mortality was probably greatly exaggerated  in  older  literature.  Hypersensitivity  may  have  played  a role  in  these  reactions.  Reports  of  documented  fatalities  remain elusive but are said to occur on some Indian Ocean islands. The most important genus is Scolopendra , which is distributed throughout tropical countries. Local treatment is the same as for scorpion stings. No antivenom is available [41].
+
+============================================================
+CHUNK 88
+============================================================
+MILLIPEDES (CLASS DIPLOPIDA) [42, 43]
+Millipedes are widely distributed. They may exceed 35 cm in length, have hundreds (not thousands) of legs, move sluggishly and tend to coil  into  a  ball.  Most  species  possess  glands  in  each  of  their  body segments which secrete, and in some cases squirt out, irritant liquids for defensive purposes. These contain hydrogen cyanide and a variety of  aldehydes,  esters,  phenols  and  quinonoids.  Members  of  at  least eight genera of millipedes have proved injurious to humans. Important  genera  are Rhinocricus (Caribbean), Spirobolus (Tanzania  and Papua New Guinea), Spirostreptus and Iulus (Indonesia), and Polyceroconas ( Salpidobolus ) (Papua New Guinea). Children are particularly at risk  when  they  handle  or  try  to  eat  these  large  arthropods.  When venom is squirted into the eye, intense conjunctivitis results and there may be corneal ulceration and, allegedly, blindness. Skin lesions initially stain brown ('mahogany stains') or purple, blister after a few days  and  then  peel  (Fig.  136.5.14).  They  have  been  mistaken  for signs of child abuse. First aid is generous irrigation with water. Eye injuries  should  be  treated  as  for  snake  venom  ophthalmia  (see Chapter 134.5).
+
+============================================================
+CHUNK 89
+============================================================
+REFERENCES
+1. Gothe R, Kunze K, Hoogstraal H. The mechanism of pathogenicity in the tick paralyses. J Med Entomol 1979;16:357-69.
+2. Murnaghan  MF,  O'Rourke  FJ.  Tick  paralysis.  In:  Bettini  S,  ed.  Arthropod Venoms. Handbook of Experimental Pharmacology, Vol. 48. Berlin: SpringerVerlag; 1979:419.
+3. Stone  BF.  Toxicoses  induced  by  ticks  and  reptiles  in  domestic  animals.  In: Harris JB, ed. Natural Toxins: Animal, Plant and Microbial. Oxford: Oxford University Press; 1987:56-71.
+4. Pearn J. The clinical features of tick bite. Med J Aust 1977;2:313.
+5. Mareti  Z, Lebez D. Araneism with Special Reference to Europe. Pula-Ljubjan: Novit; 1979.
+6. Clark RF, Wethern-Kestner S, Vance MV, Gerkin R. Clinical presentation and treatment of black widow spider envenomation: a review of 163 cases. Ann Emerg Med 1992;21:782-7.
+7. Southcott  RV.  Arachnidism  and  allied  syndromes  in  the  Australian  region. Records of the Adelaide Children's Hospital 1976;1:97-186.
+8. Isbister  GK  Fray  MR,  Balit  CR,  et  al.  Funnel-web  spider  bite:  a  systematic review of recorded clinical cases. Med J Aust 2005;182:407-1 1.
+9. Warrell DA, Shaheen J, Hillyard PD, Jones D. Neurotoxic envenoming by an immigrant  spider  ( Steatoda  nobilis )  in  southern  England.  Toxicon  1991;29: 1263-5.
+10.  Isbister GK, White J, Currie BJ, et al. Spider bites: addressing mythology and poor evidence. Am J Trop Med Hyg 2005;72:361-4.
+11.  Sutherland  SK,  Tibballs  J.  Australian  Animal  Toxins.  The  Creatures,  Their Toxins  and  Care  of  the  Poisoned  Patient,  2nd  edn.  Melbourne:  Oxford University Press; 2001.
+
+============================================================
+CHUNK 90
+============================================================
+REFERENCES
+12.  Pauli I, PUka J Gubert IC, Minozzo JC. The efficacy of antivenom in loxoscelism treatment. Toxicon 2006;48:123-37.
+13.  Isbister  GK.  Antivenom  efficacy  or  effectiveness:  the  Australian  experience. Toxicology 2010;268:148-54.
+14.  Isbister GK, Seymour JE, Gray MR, Raven RJ. Bites by spiders of the family Theraphosidae in humans and canines. Toxicon 2003;41:519-24.
+15.  Ahmed N, Pinkham M, Warrell DA. Symptom in search of a toxin: muscle spasms following bites by Old World tarantula spiders ( Lampropelma nigerrimum,  Pterinochilus murinus, Poecilotheria regalis )  with  review.  Q  J  Med 2009;102:851-7.
+16.  Fet V, Selden PA, eds. Catalog of the Scorpions of the World. (1758-998). New York: New York Entomological Society; 2000.
+17.  Polis GA, ed The Biology of Scorpions. Stanford: Stanford University Press; 1990.
+18.  Bettini S, ed. Athropod Venoms. Handbook of Experimental Pharmacology, Vol. 48. Berlin: Springer-Verlag; 1978:977.
+19.  Brownell P, Polis G, eds. Scorpion Biology and Research. New York: Oxford University Press; 2001.
+20.  Pipelzadeh  MH,  Jalali  A,  Taraz  M,  et  al.  An  epidemiological  and  a  clinical study on scorpionism by the Iranian scorpion Hemiscorpius lepturus . Toxicon 2007;50:984-92.
+21.  Ismail M. The scorpion envenoming syndrome. Toxicon 1995;33:825-58.
+22.  Waterman JA. Some notes on scorpion poisoning in Trinidad. Trans Soc Trop Med Hyg 1938;31:607-24.
+23.  Bawaskar  HS,  Bawaskar  PH.  Management  of  the  cardiovascular  manifestations  of  poisoning  by  the  Indian  red  scorpion  (Mesobuthus  tamulus). Br Heart J 1992;68:478-80.
+
+============================================================
+CHUNK 91
+============================================================
+REFERENCES
+24.  Freire-Maia L, Campos JA, Amaral CFS. Treatment of scorpion envenoming in  Brazil.  In:  Bon  C,  Goyffon  M,  eds.  Envenomings  and  Their  Treatments. Lyon: Edition Fondation Marcel Mérieux; 1996:301-10.
+25.  Eisner T, Conner J, Carrel JE, et al. Systemic retention of ingested cantharidin by frogs. Chemoecology 1990;1:57-62.
+26.  Southcott RV. Injuries from Coleoptera. Med J Aust 1989;151:654-9.
+
+============================================================
+CHUNK 92
+============================================================
+REFERENCES
+27.  Frank  JH,  Kanamitsu  K. Paederus  sensu  lato (Coleoptera:  Staphylinidae): natural history and medical importance. J Med Entomol 1987;24:1555-91.
+28.  Vigors Earle K. Injuries produced by tropical 'water-beetles' . Trans R Soc Trop Med Hyg 1948;42:101-4.
+29.  Haddad V, Jr, Schwartz EF, Schwartz CA, Carvalho LN. Bites caused by giant water bugs belonging to Belostomatidae family (Hemiptera, Heteroptera) in humans: A report of seven cases. Wilderness Environ Med 2010;21:130-3.
+30.  Winston ML. Killer Bees. The Africanized Honey Bee in the Americas. Cambridge, MA: Harvard University Press; 1992.
+31.  França FOS, Benvenuti LA, Fan HW, et al. Severe and fatal mass attacks by 'killer' bees (Africanised honey bees - Apis melliferascutellata in Brazil: clinicopathological studies with measurement of serum venom concentrations. Q J Med 1994;87269-82.
+32.  Hossler EW. Caterpillars and moths: Dermatologic manifestations of encounters with Lepidoptera. J Am Acad Dermatol 2010;62:1-10, 13-28.
+33.  Maier H, Spiegel W, Kinaciyan T, et al. The oak processionary caterpillar as the cause of an epidemic airborne disease: survey and analysis. Br J Dermatol 2003;149:990-7.
+34.  Rodriquez J, et al. External morphology of abdominal setae from male and female Hylesia metabus adults (Lepidoptera: Saturniidae) and their function. Florida Entomologist 2004;87:30-6.
+35.  Rodriguez-Morales AJ, Arria M, Rojas-Mirabal J, et al. Lepidopterism due to exposure to the moth Hylesia metabus in northeastern Venezuela. Am J Trop Med Hyg 2005;73:991-3.
+
+============================================================
+CHUNK 93
+============================================================
+REFERENCES
+36.  Kelen  EMA,  Picarelli  ZP,  Duarte  AC.  Hemorrhagic  syndrome  induced  by contact with caterpillars of the genus Lonomia (Saturniidae, Hamileucinae). J Toxicol: Toxin Rev 1995;14:283-308.
+37.  Carrijo-Carvalho  LC,  Chudzinski-Tavassi  AM.  The  venom  of  the  Lonomia caterpillar: an overview. Toxicon 2007;49:741-57.
+38.  Chan K, Lee A. Onell R, et al. Caterpillar-induced bleeding syndrome in a returning traveller. CMAJ 2008;179:158-61.
+39.  Da Silva WD, Campos CM, Gonçalves LR, et al. Development of an antivenom against toxins of Lonomia obliqua caterpillars. Toxicon 1996;34:1045-9.
+40.  Costa RM, Atra E, Ferraz MB. 'Pararamose': an occupational arthritis caused by lepidoptera ( Premolis semirufa ).  An  epidemiological study. Rev Paul Med 1993;111:462-5.
+41.  Bettini S, ed. Arthropod Venoms. Handbook of Experimental Pharmacology, Vol. 48. Berlin: Springer-Verlag; 1978: 977.
+42.  Radford AJ. Millipede burns in man. Trop Geogr Med 1975;27:279-87.
+43.  Radford  AJ.  Giant  millipede  burns  in  Papua  New  Guinea.  PNG  Med  J 1976;18:138-41.
+
+============================================================
+CHUNK 94
+============================================================
+USEFUL WEBSITE
+http://www.ntnu.no/ub/scorpion-files/links.php (last accessed 03-03-2012)
+PART
+NUTRITIONAL PROBLEMS AND DEFICIENCY DISEASES
+

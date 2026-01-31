@@ -1,0 +1,170 @@
+============================================================
+CHUNK 0
+============================================================
+141 Transmission
+Duane J Gubler
+
+============================================================
+CHUNK 1
+============================================================
+Key features
+- Vector-borne diseases are among the most important global public health problems
+- These diseases occur primarily in the tropics, but expand to a&ect human and animal populations in temperate areas
+- Vector-borne diseases are transmitted by hematophagous arthropods, the most important of which are mosquitoes
+- Globally, the most important vector-borne diseases are caused by viruses; however, in Africa, malaria is the most important
+- Most vector-borne diseases exist in complex zoonotic cycles involving a variety of birds, rodents, and other vertebrate hosts
+- The emergence/re-emergence of vector-borne diseases in the past 40 years has been driven by population growth, urbanization, globalization and lack of public health infrastructure
+
+============================================================
+CHUNK 2
+============================================================
+HISTORY
+Although early scholars recognized a relationship between arthropods and illness in humans and animals, the concept of disease transmission by insects is relatively new. The first demonstration that a parasite of humans required a developmental phase in an insect to complete its life cycle occurred about 135 years ago. Sir Patrick Manson, working in China in 1877, showed that the human filarial parasite Wuchereria bancrofti required  an obligatory period of development in the mosquito Culex pipiens fatigans ( Cx . pipiens quinquefasciatus ). This discovery was followed over the next 30 years by a series of observations that demonstrated transmission of protozoa, helminths, viruses and bacteria by ticks, flies, mosquitoes, fleas and lice (Table 141-1) [1]. Since that time, many important disease pathogens of humans and animals have been shown to depend on arthropods to complete their transmission cycles.
+The pathogens transmitted to humans by arthropods fall into four categories: nematodes or roundworms, protozoa, bacteria (including rickettsiae and spirochetes), and viruses. Some are true parasites of humans (e.g. W. bancrofti ), but most are zoonotic, with other primary vertebrate hosts (reservoirs). In these cases, humans become an incidental host, and although they may contribute to the transmission cycle on a temporary basis, they are not required for survival of the pathogen in nature.
+
+============================================================
+CHUNK 3
+============================================================
+DISEASE TRANSMISSION
+An arthropod can transmit a disease agent from one person or animal to another in one of two basic ways.
+
+============================================================
+CHUNK 4
+============================================================
+MECHANICAL TRANSMISSION
+This consists of transfer of the organism on contaminated mouthparts or  other  body  parts.  There  is  no  multiplication  or  developmental change of the pathogen on or in the insect. Examples include some enteroviruses,  bacteria,  and  protozoa  of  humans that  have a  direct fecal-oral transmission cycle. Insects, such as houseflies, can become contaminated with these pathogens while feeding on feces and can transport them directly to the food of humans.
+
+============================================================
+CHUNK 5
+============================================================
+BIOLOGIC TRANSMISSION
+The  second  and  most  important  type  of  disease  transmission  by arthropods is biologic. The pathogen must undergo development in the insect vector in order to complete its life cycle. There are four types of biologic transmission.
+
+============================================================
+CHUNK 6
+============================================================
+Propagative
+This occurs when the organism is ingested with a blood meal and undergoes simple multiplication in the body of the arthropod. Examples are the arboviruses, which replicate extensively in the tissues of the arthropod, and are transmitted to a new host in the saliva when another blood meal is taken.
+
+============================================================
+CHUNK 7
+============================================================
+Cyclopropagative
+The pathogen undergoes a developmental cycle (changes from one stage to another) as well as multiplication in the body of the arthropod. The best example of cyclopropagative transmission is malaria, in which a single zygote may give rise to > 200,000 sporozoites.
+
+============================================================
+CHUNK 8
+============================================================
+Cyclodevelopmental
+The  pathogen  undergoes  developmental  changes  from  one  stage to another, but does not multiply. With the filariae, for  example, a single  microfilaria  ingested  by  a  mosquito  can  result  in  only  one infective larva. In most instances, however, the number of infective larvae  is  lower  than  the  number  of  microfilariae  ingested  with  the blood meal.
+
+============================================================
+CHUNK 9
+============================================================
+Transovarial or Vertical
+Some  viral  and  rickettsial  disease  agents  are  transmitted  from  the female  parent  arthropod  through  the  eggs  to  the  offspring.  If  the pathogen can infect the developing egg germ cells, it is termed transovarial transmission. With some arboviruses, only the ovarial sheath and oviduct  are  infected;  the  egg  is  infected  as  it  passes  down  the
+TABLE 141-1 Early History of the Discovery of the Arthropod Transmission of Human and Animal Disease
+
+1877, Scientist = Manson. 1877, Disease = Filariasis. 1877, Vector = Culex mosquitoes. 1877, Host = Human. 1891, Scientist = Smith & Kilborne. 1891, Disease = Piroplasmosis. 1891, Vector = Boophilus ticks. 1891, Host = Cattle. 1896, Scientist = Bruce. 1896, Disease = Nagana. 1896, Vector = Glossina Fies. 1896, Host = Cattle. 1895, Scientist = Ross. 1895, Disease = Malaria. 1895, Vector = Culex mosquitoes. 1895, Host = Birds. 1900, Scientist = Manson. 1900, Disease = Malaria. 1900, Vector = Anopheles mosquitoes. 1900, Host = Human. 1900, Scientist = Reed. 1900, Disease = Yellow fever. 1900, Vector = Aedes aegypti. 1900, Host = Human. 1902, Scientist = Graham. 1902, Disease = Dengue. 1902, Vector = Aedes mosquitoes. 1902, Host = Human. 1903, Scientist = Bruce. 1903, Disease = African sleeping sickness. 1903, Vector = Glossina Fies. 1903, Host = Human. 1904, Scientist = Dutton. 1904, Disease = African tick fever. 1904, Vector = Soft ticks. 1904, Host = Human. 1905, Scientist = Liston. 1905, Disease = Plague. 1905, Vector = Rat Feas. 1905, Host = Human. 1906, Scientist = Ricketts. 1906, Disease = Rocky Mountain spotted fever. 1906, Vector = Hard ticks. 1906, Host = Human. 1907, Scientist = Mackie. 1907, Disease = Relapsing fever. 1907, Vector = Lice. 1907, Host = Human. 1908, Scientist = Chagas. 1908, Disease = Chagas disease. 1908, Vector = Reduviid bugs. 1908, Host = Human
+
+============================================================
+CHUNK 10
+============================================================
+Transovarial or Vertical
+Adapted from Philip CB, Rozeboom LE. Medico-veterinary entomology: a generation of progress. In: Smith RF, Mittler TE, Smith CN, eds. History of Entomology. Palo Alto, CA: Annual Reviews; 1973:333-59.
+oviduct and is inseminated. This is distinguished from transovarial transmission and is  called  vertical  transmission.  In  either  case,  the newly hatched larval stages are infected with the pathogen, which is then transmitted to subsequent developmental stages of the arthropod  (transstadial  transmission).  Finally,  venereal  transmission  of certain  viruses  has  also  been  documented.  Thus,  male  mosquitoes that become infected transovarially or vertically, can transfer the infective virus to female mosquitoes in the seminal fluid during copulation. These latter types have epidemiologic importance in the infection of humans or other animals and in the maintenance of the pathogen in nature.
+
+============================================================
+CHUNK 11
+============================================================
+Extrinsic Incubation Period
+In all types of biologic transmission, a period of time is required for the pathogen to develop the arthropod vector to an infective stage that can be transmitted. With arboviruses, transmission requires replication in the salivary glands; for the malaria parasite, there is invasion  of  the  salivary  glands  by  the  infectious  sporozoites;  and  with filariae, there is development of the juvenile worms to the infective stage III larvae. This period of time between infection of the arthropod vector and transmission is called the extrinsic incubation period. The extrinsic incubation period is generally 7 to 14 days but can be longer, depending on the pathogen, the vector, and various environmental factors, especially temperature.
+
+============================================================
+CHUNK 12
+============================================================
+FACTORS INFLUENCING TRANSMISSION
+The ability of insects to transmit an agent depends on the interaction of complex intrinsic and extrinsic factors. Successful mechanical transmission depends on the degree of contact insects have with humans, and on the arthropod feeding behavior. For example, the domestic housefly  has  been  incriminated  as  a  mechanical  vector  of  various intestinal  pathogens,  primarily  because  this  insect  breeds  in  large numbers, lives in intimate contact with humans, and has the habit of feeding  on  feces  and  food.  Tabanid  flies  are  efficient  mechanical vectors of viruses and protozoa because of frequent interrupted blood feeding. Certain flies can mechanically transmit the bacteria that cause yaws and other tropical diseases from open sores.
+The ability to transmit a pathogen biologically varies greatly among species  of  arthropods  and  even  among  geographic  strains  within a species.  There  can  be  variation  in  the  susceptibility  to  becoming infected and subsequently to transmitting a pathogen. Most work has been done with mosquitoes, and variation in vector competence has been documented with all of the major disease agents they transmit (i.e. malaria, filarial parasites, and arboviruses). Thus, within a single mosquito species  it  is  common  to  find geographic  strains  that  are good and poor vectors. Because vector competence (susceptibility to infection,  growth of the  pathogen, and transmission)  is  genetically controlled, it may be expected to change as a result of selective pressures on either the pathogen or the arthropod over time.
+In addition to innate susceptibility to infection, the overall vectorial capacity is influenced by other biologic and behavioral characteristics of the arthropod. The degree of contact the species has with humans is influenced by the blood meal host preference, the intrinsic bloodfeeding and resting behavior of the arthropod, and the population density  of  the  vector,  animal  and  human  hosts.  Longevity,  resting behavior,  flight  behavior  and  oviposition  (breeding)  behaviors  are important intrinsic factors which are influenced by extrinsic environmental factors, such as temperature, humidity, wind and rainfall.
+
+============================================================
+CHUNK 13
+============================================================
+FACTORS INFLUENCING TRANSMISSION
+Other  extrinsic  factors  may  influence  whether  an  individual  insect becomes infected with a pathogen. For example, it has been shown that mosquitoes ingesting blood containing both microfilariae and Rift Valley fever virus have a higher viral infection rate because disseminated virus infection is facilitated by microfilariae escaping from the midgut into the hemocoel. Other factors can also influence this 'leaky  gut'  phenomenon.  Finally,  infection  of  the  arthropod  and subsequent transmission is influenced by the strain of pathogen. This is especially important with the arboviruses, where certain strains or subtypes of virus have greater infectivity and more rapid replication in the vectors [2].
+Because arthropods are cold-blooded, transmission of diseases in temperate regions is seasonal, usually only occurring during warm months. Cessation of transmission in these regions is usually determined by temperature and day length. In the tropics and subtropics, transmission generally occurs year-round. In these areas, increased seasonal transmission is most frequently correlated with the rainy season.
+
+============================================================
+CHUNK 14
+============================================================
+SYSTEMATICS
+The order Diptera is by far the most important, primarily because of the family Culicidae (mosquitoes). Most vector-borne pathogens are zoonoses (pathogens of animals), and have a primary vertebrate reservoir host and a primary arthropod vector that maintains the transmission cycle in nature; this is usually via horizontal transmission, but is sometimes facilitated by transovarial or vertical transmission. This primary cycle is usually silent to humans and domestic animals. On occasion, the pathogen may be introduced into the peri-domestic or urban environment by secondary vectors or by the vertebrate host, which often establish a secondary transmission cycle involving other vertebrate  hosts  and  arthropod  vectors.  Humans  and  domestic animals are usually infected by bridge vectors from these secondary cycles, and are often dead-end or incidental hosts, not contributing to the transmission cycle by infecting the arthropod vectors. A basic vector-borne pathogen transmission cycle is shown in Figure 141.1.
+FIGURE 141.1 Transmission cycles for arthropod-borne infections.
+
+============================================================
+CHUNK 15
+============================================================
+SYSTEMATICS
+Viruses, Disease = Viruses. Viruses, Animal reservoirs = Viruses. Viruses, Geographic distribution = Viruses. Viruses, Vector = Viruses. Togaviridae, Disease = Togaviridae. Togaviridae, Animal reservoirs = Togaviridae. Togaviridae, Geographic distribution = Togaviridae. Togaviridae, Vector = Togaviridae. , Disease = Chikungunya. , Animal reservoirs = Primates, humans. , Geographic distribution = Africa, Asia. , Vector = Mosquitoes. , Disease = Ross River. , Animal reservoirs = Marsupials, humans. , Geographic distribution = Australia, South PaciGc. , Vector = Mosquitoes. , Disease = Mayaro. , Animal reservoirs = Birds. , Geographic distribution = South America. , Vector = Mosquitoes. , Disease = Onyong-nyong fever. , Animal reservoirs = Not known. , Geographic distribution = Africa. , Vector = Mosquitoes. , Disease = Sindbis fever. , Animal reservoirs = Birds. , Geographic distribution = Asia, Africa, Australia, Europe, Americas. , Vector = Mosquitoes. , Disease = Eastern equine encephalomyelitis. , Animal reservoirs = Birds. , Geographic distribution = Americas. , Vector = Mosquitoes. , Disease = Western equine encephalomyelitis. , Animal reservoirs = Birds, rabbits. , Geographic distribution = Americas. , Vector = Mosquitoes. , Disease = Venezuelan equine encephalomyelitis. , Animal reservoirs = Rodents. , Geographic distribution = Americas. , Vector = Mosquitoes. , Disease = Barmah Forest. , Animal reservoirs = Not known. , Geographic distribution = Americas. , Vector = Mosquitoes. Flaviviridae, Disease = Flaviviridae. Flaviviridae, Animal reservoirs = Flaviviridae. Flaviviridae, Geographic distribution = Flaviviridae. Flaviviridae, Vector = Flaviviridae. , Disease = Dengue (serotypes 1-4). , Animal reservoirs = Primates, humans. , Geographic distribution = Worldwide in tropics. , Vector = Mosquitoes. , Disease = Yellow fever. , Animal reservoirs = Primates, humans. , Geographic distribution = Africa, South America. , Vector = Mosquitoes. , Disease = Kyasanur Forest disease. , Animal reservoirs = Primates, rodents, camels. , Geographic distribution = India, Saudi Arabia. , Vector =
+
+============================================================
+CHUNK 16
+============================================================
+SYSTEMATICS
+Ticks. , Disease = Omsk hemorrhagic fever. , Animal reservoirs = Rodents. , Geographic distribution = Asia. , Vector = Ticks. , Disease = Japanese encephalitis. , Animal reservoirs = Birds. , Geographic distribution = Asia. , Vector = Mosquitoes. , Disease = Murray Valley encephalitis. , Animal reservoirs = Birds. , Geographic distribution = Australia. , Vector = Mosquitoes. , Disease = Rocio. , Animal reservoirs = Birds. , Geographic distribution = South America. , Vector = Mosquitoes. , Disease = St Louis encephalitis. , Animal reservoirs = Birds. , Geographic distribution = Americas. , Vector = Mosquitoes. , Disease = West Nile encephalitis. , Animal reservoirs = Birds. , Geographic distribution = Asia, Africa, Americas, Europe. , Vector = Mosquitoes. , Disease = Tick-borne encephalitis. , Animal reservoirs = Rodents. , Geographic distribution = Europe, Asia, North America. , Vector = Ticks. Bunyaviridae, Disease = Bunyaviridae. Bunyaviridae, Animal reservoirs = Bunyaviridae. Bunyaviridae, Geographic distribution = Bunyaviridae. Bunyaviridae, Vector = Bunyaviridae. , Disease = SandFy fever. , Animal reservoirs = Not known. , Geographic distribution = Europe, Africa, Asia. , Vector = SandFies
+
+============================================================
+CHUNK 17
+============================================================
+SYSTEMATICS
+, Disease = Rift Valley fever. , Animal reservoirs = Cattle, sheep, camels. , Geographic distribution = Africa. , Vector = Mosquitoes. , Disease = La Crosse encephalitis. , Animal reservoirs = Rodents. , Geographic distribution = North America. , Vector = Mosquitoes. , Disease = California encephalitis. , Animal reservoirs = Rodents. , Geographic distribution = North America, Europe, Asia. , Vector = Mosquitoes. , Disease = Crimean-Congo hemorrhagic fever. , Animal reservoirs = Rodents, sheep. , Geographic distribution = Europe, Asia, Africa. , Vector = Ticks. , Disease = Oropouche fever. , Animal reservoirs = Not known. , Geographic distribution = Central and South America. , Vector = Midges, mosquitoes. Rhabdoviridae, Disease = Rhabdoviridae. Rhabdoviridae, Animal reservoirs = Rhabdoviridae. Rhabdoviridae, Geographic distribution = Rhabdoviridae. Rhabdoviridae, Vector = Rhabdoviridae. Vesicular stomatitis virus, Disease = Vesicular stomatitis. Vesicular stomatitis virus, Animal reservoirs = Cattle, horses, pigs. Vesicular stomatitis virus, Geographic distribution = Global. Vesicular stomatitis virus, Vector = Phlebotomus Fies, mosquitoes. Orbiviridae, Disease = Orbiviridae. Orbiviridae, Animal reservoirs = Orbiviridae. Orbiviridae, Geographic distribution = Orbiviridae. Orbiviridae, Vector = Orbiviridae. Bluetongue virus, Disease = Bluetongue. Bluetongue virus, Animal reservoirs = Cattle, sheep, goats. Bluetongue virus, Geographic distribution = Global. Bluetongue virus, Vector = Culicoides Fies. Bacteria, Disease = Bacteria. Bacteria, Animal reservoirs = Bacteria. Bacteria, Geographic distribution = Bacteria. Bacteria, Vector = Bacteria. Yersinia pestis, Disease = Plague. Yersinia pestis, Animal reservoirs = Rodents. Yersinia pestis, Geographic distribution = Global. Yersinia pestis, Vector = Fleas. Francisella tularensis, Disease = Tularemia. Francisella tularensis, Animal reservoirs = Rabbits, rodents. Francisella tularensis, Geographic distribution = North America, Europe, Asia. Francisella tularensis, Vector
+
+============================================================
+CHUNK 18
+============================================================
+SYSTEMATICS
+= Ticks, tabanid Fies. Coxiella, Disease = Q fever. Coxiella, Animal reservoirs = Ungulates. Coxiella, Geographic distribution = Global. Coxiella, Vector = Ticks. Rickettsia rickettsii, Disease = Rocky Mountain spotted fever. Rickettsia rickettsii, Animal reservoirs = Rabbits, rodents, dogs. Rickettsia rickettsii, Geographic distribution = Western hemisphere. Rickettsia rickettsii, Vector = Ticks. Rickettsia typhi, Disease = Murine typhus. Rickettsia typhi, Animal reservoirs = Rats. Rickettsia typhi, Geographic distribution = Global. Rickettsia typhi, Vector = Ticks. Rickettsia conorii, Disease = Boutonneuse fever. Rickettsia conorii, Animal reservoirs = Dogs, rodents. Rickettsia conorii, Geographic distribution = Europe, Africa. Rickettsia conorii, Vector = Ticks. Rickettsia australis, Disease = Queensland tick typhus. Rickettsia australis, Animal reservoirs = Rodents. Rickettsia australis, Geographic distribution = Australia. Rickettsia australis, Vector = Ticks. Rickettsia sibirica, Disease = Siberian tick typhus. Rickettsia sibirica, Animal reservoirs = Rodents. Rickettsia sibirica, Geographic distribution = Asia. Rickettsia sibirica, Vector = Ticks. Rickettsia africae, Disease = African tick fever. Rickettsia africae, Animal reservoirs = Rodents. Rickettsia africae, Geographic distribution = Sub-Saharan Africa, Caribbean. Rickettsia africae, Vector = Ticks. Orientia tsutsugamushi, Disease = Scrub typhus. Orientia tsutsugamushi, Animal reservoirs = Rodents. Orientia tsutsugamushi, Geographic distribution = Asia, Australia. Orientia tsutsugamushi, Vector = Mites. Borrelia species, Disease = Relapsing fever. Borrelia species, Animal reservoirs = Rodents. Borrelia species, Geographic distribution = Global. Borrelia species, Vector = Ticks and lice. Borrelia burgdorferi, Disease = Lyme disease. Borrelia burgdorferi, Animal reservoirs = Rodents. Borrelia burgdorferi, Geographic distribution = Americas, Europe. Borrelia burgdorferi, Vector = Ticks.
+
+============================================================
+CHUNK 19
+============================================================
+SYSTEMATICS
+Protozoa, Disease = Protozoa. Protozoa, Animal reservoirs = Protozoa. Protozoa, Geographic distribution = Protozoa. Protozoa, Vector = Protozoa. Plasmodium spp, Disease = Malaria. Plasmodium spp, Animal reservoirs = Primate, humans. Plasmodium spp, Geographic distribution = Global. Plasmodium spp, Vector = Anopheline mosquitoes. Trypanosoma rhodesiense, Disease = African trypanosomiasis (sleeping sickness). Trypanosoma rhodesiense, Animal reservoirs = Ungulates. Trypanosoma rhodesiense, Geographic distribution = Eastern Africa. Trypanosoma rhodesiense, Vector = Glossina Fies. Trypanosoma qambiense, Disease = African trypanosomiasis (sleeping sickness). Trypanosoma qambiense, Animal reservoirs = Pig, ungulates. Trypanosoma qambiense, Geographic distribution = Africa. Trypanosoma qambiense, Vector = Glossina Fies. Trypanosoma cruzi, Disease = Chagas disease. Trypanosoma cruzi, Animal reservoirs = Dogs, cats, opossum. Trypanosoma cruzi, Geographic distribution = Western hemisphere. Trypanosoma cruzi, Vector = Triatomid bugs. Leishmania spp, Disease = Leishmaniasis. Leishmania spp, Animal reservoirs = Dogs, rodents. Leishmania spp, Geographic distribution = Asia, Africa, Europe, Central and South America. Leishmania spp, Vector = Phlebotomus Fies. Babesia spp, Disease = Babesiosis. Babesia spp, Animal reservoirs = Ungulates, rodents. Babesia spp, Geographic distribution = Global. Babesia spp, Vector = Ticks. Filaria, Disease = Filaria. Filaria, Animal reservoirs = Filaria. Filaria, Geographic distribution = Filaria. Filaria, Vector = Filaria. Wuchereria bancrofti, Disease = Bancroftian Glariasis. Wuchereria bancrofti, Animal reservoirs = Humans. Wuchereria bancrofti, Geographic distribution = Global. Wuchereria bancrofti, Vector = Mosquitoes. Brugia malayi, Disease = Brugian Glariasis. Brugia malayi, Animal reservoirs = Humans, primates. Brugia malayi,
+
+============================================================
+CHUNK 20
+============================================================
+SYSTEMATICS
+Geographic distribution = Asia. Brugia malayi, Vector = Mosquitoes
+
+============================================================
+CHUNK 21
+============================================================
+IMPORTANCE
+Collectively, arthropods are responsible for hundreds of millions of cases of disease each year. The most important vector-borne diseases of man and domestic animals are presented in Table 141-2. In the past  40  years,  the  world  has  experienced  a  dramatic  global re-emergence of epidemic infectious disease in general and vector-borne diseases in particular,  e.g.  malaria,  leishmaniasis,  dengue  hemorrhagic  fever, yellow  fever,  Japanese  encephalitis,  West  Nile  encephalitis,  chikungunya, epidemic polyarthritis, and many more [3]. In addition, several new vector-borne diseases have emerged, e.g. Barmah Forest in Australia, Alkhurma virus, a flavivirus that causes hemorrhagic disease in Saudi Arabia, and Lyme disease and ehrlichiosis in the US. The arboviruses  have  been  the  most  important  emergent  and  re-emergent vector-borne pathogens, with expanding distribution of epidemics of severe diseases [3].
+
+============================================================
+CHUNK 22
+============================================================
+IMPORTANCE
+The shrinking world, with highly increased human mobility due to air  travel  and  commerce  using  containerized  shipping  (globalization), has made vector-borne diseases not just problems of the tropics; they  present  the  world  community  with  one  of  its  greatest  health problems, and are a threat to regional and global economic security [3]. For example, over 1000 cases of malaria are imported into the US each year, and there are several fatalities, mainly because of late diagnosis. With anopheline vectors in many areas of the US, there has been  sporadic  transmission  documented  in  some  coastal  states, including  California,  New  Jersey,  Georgia  and  Florida.  Similarly, many cases of dengue fever are imported into the US each year. The principal vector, Aedes aegypti , occurs in most Gulf Coast states, and in 1985, another important vector, Ae. albopictus , was found in Texas. This species subsequently spread throughout the eastern US. The first indigenous dengue transmission since 1945, secondary to imported disease, was documented in Texas in 1980. and since then there has been  sporadic  autochthonous  transmission  in  Texas,  initiated  by introduced  viruses.  In  2001,  a  small  outbreak  occurred  in  Hawaii, caused  by  dengue  viruses  from  Tahiti,  and  in  2009-2010,  a  small outbreak recurred in Florida as a result of introduced viruses [4]. In 2007, chikungunya virus was introduced to Italy from India, causing the first outbreak in Italy [5]. The transmission episodes underscore the need for physicians in non-endemic areas to be aware of vectorborne diseases and to be knowledgeable about how to diagnose and treat them.
+In tropical regions, the incidence of dengue has increased dramatically, occurring not only as larger and more frequent epidemics but also newly occurring in some countries. Moreover, severe and fatal dengue,  dengue  hemorrhagic  fever,  has  also  spread  geographically and is now a major public health problem in Asia, the Pacific and the Americas. Other viruses such as yellow fever, Japanese encephalitis, Ross River, West Nile, Venezuelan equine encephalitis, chikungunya, Rift Valley fever and O'nyong-nyong have expanded their geographic distribution  and  caused  major  epidemics.  The re-infestation  of  the American tropics by Ae. aegypti has put that region at the highest risk for urban epidemics of yellow fever in more than 60 years.
+
+============================================================
+CHUNK 23
+============================================================
+IMPORTANCE
+The  factors  responsible  for  this  dramatic  twentieth-century  re-emergence of  epidemic  vector-borne  disease  are  several  [3].  The  successes  in controlling  malaria,  leishmaniasis,  African  trypanosomiasis,  yellow fever, dengue, Japanese encephalitis, and plague in the years following World War II, which led to complacency, a redirection of resources, and deterioration in public health infrastructure, were contributing factors, as were changing lifestyles and environment. Although vectorborne diseases are climate-sensitive, there is no good evidence that global warming has contributed to the re-emergence. Other drivers of this  re-emergence have been demographic and societal. Population growth has been a principal driver of environmental change, as well as  animal  husbandry  practices.  Population  growth  combined  with economic development have led to unprecedented urbanization in developing countries over the past 50 years, which has driven globalization.  Annually,  there  is  an  unprecedented  movement  of  people, animals, commodities and pathogens into new geographic areas where there  is  a  lack  of  effective  vector  control.  The  result  has  been  the dramatic re-emergence of epidemic vector-borne disease in the past 40 years.
+
+============================================================
+CHUNK 24
+============================================================
+REFERENCES
+1.  Philip  CB,  Rozeboom  LE.  Medico-veterinary  entomology:  a  generation  of progress. In: Smith RF, Mittler TE, Smith CN, eds. History of Entomology. Palo Alto, CA: Annual Reviews; 1973:333-59.
+2.  Gubler DI. Vector-borne diseases. Rev Sci Tech Off Int Epiz 2009;28;583-8.
+3.  Gubler DJ. The global threat of emergent/reemergent vector-borne diseases. In: Vector-Borne  Diseases:  Understanding  the  Environmental,  Human  Health, and  Ecological  Connections.  Washington,  DC:  National  Academies  Press; 2008:43-64.
+4.  Centers for Disease Control and Prevention. Locally acquired Dengue - Key West, Florida, 2009-2010. MMWR Morb Mortal Wkly Rep 2010;59:577-81.
+5.  Rezza G, Nicoletti L, Angelini R, et al. Infection with chikungunya virus in Italy: an outbreak in a temperate region. Lancet 2007;370:1840-6.
+PART
+

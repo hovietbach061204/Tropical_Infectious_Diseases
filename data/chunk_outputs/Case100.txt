@@ -1,0 +1,306 @@
+============================================================
+CHUNK 0
+============================================================
+Key features
+- Urinalysis (dipsticks and microscopy) remains an essential part of the clinical evaluation of any patient
+- Ultrasonography is the best noninvasive imaging modality for evaluating patients with suspected urinary tract disease
+- Causes of acute renal failure seen in tropical areas include malaria, infectious diarrhea, snakebites, insect stings, herbal medicines, and obstetric complications
+- Causes of chronic renal failure include infection-related glomerulonephritis, schistosomiasis, tuberculosis, HIV infection, and sickle cell nephropathy
+- Tropical parasites a"ecting the urinary tract include echinococcus (hydatid cysts) and #lariasis (chyluria) and schistosomiasis (hematuria)
+- Vesicovaginal #stulas in women and urethral strictures in men comprise a large burden of disease in some tropical countries
+This chapter focuses on renal and urinary tract diseases that are more common in tropical countries; a wide spectrum of disease associated with  renal  and  urinary  tract  pathology  occurs  in  tropical  regions (Table 6-1) [1].
+
+============================================================
+CHUNK 1
+============================================================
+INVESTIGATIONS
+In addition to a complete history and physical examination, urinalysis,  both dipstick (Fig. 6.1) and microscopy (Fig. 6.2), provides the most  important  clues  to  urinary  tract  disease.  A  midstream  urine (MSU) specimen should be collected in a sterile container. In nontoilet-trained  children,  bag  specimens  can  be  used  for  obtaining  a urine sample.
+
+============================================================
+CHUNK 2
+============================================================
+Hematuria
+Hematuria (blood in the urine) (Box 6.1) can be macroscopic (visibly red urine) or microscopic. A positive dipstick test for blood can be caused by either free hemoglobin or myoglobin, therefore microscopy is indicated to confirm the presence of red cells [2].
+
+============================================================
+CHUNK 3
+============================================================
+Leukocytes and Nitrites
+Dipstick urinalysis that is positive for leukocytes as well as nitrites has a  high  specificity  for  UTI.[3].  Microscopy  is  more  time-consuming and expensive than a dipstick, but is faster and less expensive than urine culture. If microscopy shows pyuria (white cells in the urine)
+
+============================================================
+CHUNK 4
+============================================================
+Chris F Heyns
+and bacteriuria, it indicates UTI, and culture is not essential. If microscopy shows either pyuria or bacteriuria, but not both, confirmatory culture is necessary. Leukocyturia with negative urine culture (sterile pyuria) may be caused by several conditions (Box 6.2).
+
+============================================================
+CHUNK 5
+============================================================
+Proteinuria
+Proteinuria  (especially  in  the  presence  of  edema,  hypertension  or elevated serum creatinine) indicates glomerular disease.
+
+============================================================
+CHUNK 6
+============================================================
+URINE MICROSCOPY
+Red  cell  casts  and  dysmorphic  red  cells  (acanthocytes)  indicate glomerular disease (see Fig. 6.2). White cell casts indicate acute interstitial nephritis or severe pyelonephritis. Granular and epithelial casts indicate acute tubular  necrosis (ATN), glomerulonephritis, or acute interstitial nephritis.
+
+============================================================
+CHUNK 7
+============================================================
+URINE CULTURE
+Ideally, urine should be sent for culture before antibiotic treatment is started. However, this is not always feasible or affordable; therefore, empiric treatment is acceptable in the presence of symptoms, signs and urinalysis indicating UTI. Recurrent or persistent UTI is an indication for urine culture.
+
+============================================================
+CHUNK 8
+============================================================
+IMAGING
+Ultrasonography is relatively inexpensive and avoids the risks associated with radiologic contrast and ionizing radiation (Fig. 6.3). It is especially  valuable  in  the  evaluation  of  patients  with  renal  failure (Box 6.3).
+Intravenous pyelography (IVP), or excretory  urography  (EUG), remains  an excellent  imaging  study.  The contraindications are iodine  allergy,  renal  failure,  pregnancy,  hemorrhagic  shock  and dehydration.
+Computed tomography (CT) is more accurate than ultrasonography or IVP for imaging all abdominal organs, but it is expensive and not readily available. Non-contrast-enhanced CT is becoming the modality of choice for imaging urinary tract stones.
+In patients with renal failure, when ultrasound shows hydronephrosis, bladder catheterization may solve the problem if there is infravesical  obstruction;  if  not,  uni-  or  bilateral  percutaneous  nephrostomy can be life-saving.
+
+============================================================
+CHUNK 9
+============================================================
+URINARY TRACT INFECTION (UTI)
+UTI is  most  often  caused  by  Gram-negative organisms.  In women, further  investigations  are indicated  only for  recurrent, persistent  or complicated UTI. However, in children  and  adult men,  imaging  is indicated to rule  out underlying urinary tract abnormalities. UTI is
+TABLE 6-1 Conditions Associated with Renal and
+Urinary Tract Disease
+
+============================================================
+CHUNK 10
+============================================================
+Common in all regions of the world
+FIGURE  6.1 Urine  dipstick  -  essential  for  the  clinical  evaluation  of  any patient.
+
+Malaria, 1 = Congenital anomalies. Schistosomiasis, 1 = Hypertension. AIDS, 1 = Diabetes mellitus. Tuberculosis, 1 = Urinary tract infection. Sickle cell disease, 1 = Urolithiasis. Filariasis, 1 = Renal failure. Hydatid disease, 1 = Benign prostatic hyperplasia. Vesicovaginal @stula (females), 1 = Cancer of the kidney,. Urethral stricture (males), 1 = bladder and prostate
+
+============================================================
+CHUNK 11
+============================================================
+BOX 6.1  Causes of Hematuria
+- Contamination: red cells from balanitis or menstrual blood
+- Trauma
+- Infection: bacterial cystitis, schistosomiasis, tuberculosis
+- Glomerulonephritis
+- Interstitial nephritis
+- Polycystic kidney disease
+- Papillary necrosis (sickle cell disease, tuberculosis, diabetes mellitus)
+- Urolithiasis
+- Malignancy: renal, bladder or prostate cancer, Wilms tumor (children)
+- Coagulopathy
+- Miscellaneous: urethral caruncle, factitious
+
+============================================================
+CHUNK 12
+============================================================
+BOX 6.2  Causes of Sterile Pyuria
+- Gram-negative UTI on antibiotic treatment
+- Tuberculosis of the urinary tract
+- Schistosomiasis
+- Urolithiasis
+- Papillary necrosis
+- Chlamydia trachomatis infection
+- Chemical or radiation cystitis
+- Bladder cancer
+
+============================================================
+CHUNK 13
+============================================================
+BOX 6.3  Ultrasonography in Renal Failure
+- Dilated renal calyces and pelvis ± thin cortex = obstructive uropathy
+- Small, shrunken kidneys = chronic intrinsic renal disease
+- Normal-sized, hyperechoic  kidneys = acute  glomerulonephritis or acute tubular necrosis
+- Normal-sized kidneys with normal echogenicity = prerenal failure
+- Enlarged kidneys = malignant in@ltration, renal vein thrombosis, amyloidosis or HIV-associated nephropathy (HIVAN)
+
+============================================================
+CHUNK 14
+============================================================
+Acute uncomplicated UTI:
+- Oral trimethoprim ± sulfamethoxazole (TMP-SMX), Auoroquinolone (e.g. ciproAoxacin), cephalosporin (e.g. cefuroxime), nitrofurantoin, amoxicillin ± clavulanate
+
+============================================================
+CHUNK 15
+============================================================
+Complicated UTI:
+- Parenteral ceftriaxone, Auoroquinolone, gentamicin ( ± ampicillin) - speci@c treatment according to urine culture
+the cause of fever of unknown origin (FUO) in almost 10% of children < 3 years of age in tropical countries, and UTI often coexists with gastroenteritis,  protein  energy  malnutrition  and  acute  respiratory infection [4]. Treatment of UTI is indicated in Box 6.4.
+
+============================================================
+CHUNK 16
+============================================================
+GLOMERULAR DISEASE
+The clinical features of glomerular disease presentation in the tropics are shown in Box 6.5 and treatment in Boxes 6.6 and 6.7. The glomerulonephritides are more prevalent and severe in Africa than in Western countries, with nephrotic syndrome as the major presentation. The etiology is often undetermined, as is the histologic type, due to the infrequency of renal  biopsies  and absence  of  facilities  for  immunofluorescence and electron microscopy in many countries.
+The incidence of post-streptococcal glomerulonephritis (PSGN) has decreased worldwide in the past two to three decades, but it remains common in developing countries [5]. It usually affects children, with a 2  :  1 predominance in boys.
+Infections such as malaria, schistosomiasis, hepatitis B and HIV have been suggested as major causes of the nephrotic syndrome (NS) in African children, ascribed to an immune complex pathogenesis where parasitic  antigens  and  host  antibodies  cause  glomerular  damage.
+FIGURE 6.2 Urine sediment. Light microscopy of (A) normal red blood cells, (B) white blood cells, and (C) dysmorphic red cells; phase contrast microscopy of (D) red cells, (E) white cells, (F) bacteria (cocci);
+Continued
+FIGURE 6.2, cont'd (G) red cell cast, (H) white cell haematobium.
+cast, (1) granular cast, (J) ovum of Schistosoma
+However,  recent  reviews  found  little  evidence  for  steroid-resistant 'tropical glomerulopathies' in children with NS and suggested that the term 'tropical nephrotic syndrome' should be discarded.
+In Africa, focal segmental glomerulosclerosis (FSGS) is now becoming the most common cause of NS in renal biopsies instead of minimal change  glomerulonephritis  and  amyloid,  which  were  the  most common causes prior to the AIDS pandemic.
+
+============================================================
+CHUNK 17
+============================================================
+RENAL FAILURE
+Acute renal failure (ARF) in tropical regions may be caused by conditions not commonly seen in nontropical areas: infectious diarrheal disease, malaria, leptospirosis, snakebite, insect stings, herbal medicines and pregnancy-related conditions (septic abortion, eclampsia, peripartum hemorrhage and puerperal sepsis).
+Chronic renal failure (CRF) in tropical countries is commonly caused by infection-related glomerulonephritis (possibly related to the high prevalence of soft tissue infections), diabetic nephropathy, hypertensive nephrosclerosis, malaria, schistosomiasis, tuberculosis, HIV infection and sickle cell nephropathy.
+Facilities for hemodialysis are not readily available in many tropical countries. However, chronic ambulatory peritoneal dialysis (CAPD) is  an  effective  and  less  expensive  option,  with  the  advantage  that patients are less hospital-dependent. The risk of infective peritonitis is increased.
+
+============================================================
+CHUNK 18
+============================================================
+MALARIA
+Malarial acute kidney injury (MAKI) predominantly affects adults and older children from areas of low intensity of malaria transmission,
+FIGURE 6.3 Ultrasound is the ideal imaging modality in patients with renal failure. This image shows hydronephrosis.
+
+============================================================
+CHUNK 19
+============================================================
+BOX 6.5  Clinical Presentations of Glomerular Disease
+- Asymptomatic: proteinuria 150 mg to 3 g per day
+- Hematuria:
+- microscopic: dysmorphic red cells
+- macroscopic: brown/red urine, painless
+- Nephritic  syndrome:  abrupt  onset,  edema,  hypertension, oliguria, hematuria (with red cell casts), proteinuria ( < 3 g/ day)
+- Nephrotic syndrome: edema, proteinuria (adult > 3.5 g/day, child > 40 mg/h per m 2 ), lipiduria, hypoalbuminemia ( < 3.5 g/dL), hypercholesterolemia
+- Rapidly progressive glomerulonephritis: renal failure, proteinuria  ( < 3 g/day),  hematuria  (with  red  cell  casts),  often normotensive
+- Chronic  glomerulonephritis:  hypertension,  renal  insuBciency, proteinuria ( > 3 g/day)
+
+============================================================
+CHUNK 20
+============================================================
+BOX 6.6  Treatment of Acute Nephritic Syndrome
+- Restricted  sodium  and  water  intake  for  12-24  hours  to establish  the  severity  of  oliguria  and  to  achieve  an  early negative balance
+- Patients with edema may bene@t from IV furosemide
+- For hypertension: oral nifedipine, IV hydralazine or diazoxide;  hypertensive  encephalopathy  may  require  sodium nitroprusside
+- Avoid: digitalis preparations (ineCective in this condition), spironolactone, angiotensin-converting enzyme inhibitors and  propanolol  (hyperkalemia),  and  alpha-methyldopa (ineCective, and risk of oversedation)
+- Dialysis is indicated for uremia or hyperkalemia
+
+============================================================
+CHUNK 21
+============================================================
+BOX 6.7  Treatment of Nephrotic Syndrome
+- Diuretics combined with moderate dietary sodium restriction, aiming at Auid removal of no more than 2 kg daily in adults
+- If  serum albumin is < 2.5 g/dL, prophylactic low-dose anticoagulation is recommended if possible
+- A high clinical suspicion for infection is vital
+- Immunosuppressive therapy: corticosteroids, azathioprine or cyclophosphamide
+
+============================================================
+CHUNK 22
+============================================================
+BOX 6.8  Management of Malarial Acute Renal Failure
+- Maintenance  of  Auid  and  electrolyte  levels  with  central venous pressure monitoring
+- If  oliguria  persists  after  Auid  replacement,  furosemide 40 mg or bumetanide 1 mg can be given
+- The administration of albumin for volume expansion may reduce mortality rates
+- Management of concomitant infection
+- Nephrotoxic drugs should be avoided: angiotensinconverting enzyme inhibitors, nonsteroidal antiinAammatory drugs, aminoglycosides
+- Peritoneal or hemodialysis should be started early if there is a rapid increase of serum creatinine
+- Indications for  dialysis  include  uremic  symptoms,  pulmonary  edema,  congestive  cardiac  failure,  pericardial  rub, severe metabolic acidosis and hyperkalemia
+and is invariably caused by Plasmodium falciparum malaria. It is characterized  by  oliguria  and  rapidly  increasing  serum  creatinine.  Risk factors for the development of MAKI are pregnancy, high parasitemia, severe  jaundice,  prolonged  dehydration  and  NSAID  therapy.  The prognosis is worse in patients with jaundice, cerebral malaria (coma and convulsions),  hypoglycemia  and  multi-organ  dysfunction.  The mortality is 15-50% [6].
+Blackwater fever (BWF) is a clinical syndrome characterized by fever, anemia, jaundice, massive intravascular hemolysis, hemoglobinuria and ARF that is classically seen in European expatriates chronically exposed to Plasmodium falciparum and irregularly taking quinine [7]. Management is described in Box 6.8.
+
+============================================================
+CHUNK 23
+============================================================
+TROPICAL NEPHROTOXINS
+Botanical  nephrotoxins  are  encountered  in  common  edible  plants and medicinal herbs. Traditional medicines are a mix of herbs and unknown chemicals administered orally or as enemas. The prevalence of nephropathy caused by traditional medicines is related to poverty and lack of medical facilities [8].
+Animal  nephrotoxins  (venoms  of  snakes  and  stinging  insects)  are complex mixtures of proteins, enzymes and chemicals. Acute kidney injury is attributed to decreased renal blood flow (anaphylactic shock, disseminated  intravascular  coagulation),  intravascular  hemolysis  or rhabdomyolysis  causing  hemoglobinuria  and  myoglobinuria,  or direct tubular toxicity.
+Treatment consists of antihistamines, corticosteroids, hydration, diuretics, urine alkalinization and hemodialysis with hemofiltration.
+
+============================================================
+CHUNK 24
+============================================================
+HIV-ASSOCIATED NEPHROPATHY (HIVAN)
+HIV/AIDS has a high prevalence in several tropical regions (especially sub-Saharan Africa) and HIVAN occurs in up to 10% of AIDS patients. It presents with proteinuria and renal failure, usually in patients with an AIDS-defining condition, CD4 counts < 200 cells/ μ L, and normal to enlarged echogenic kidneys on ultrasonography. ESRD invariably develops,  usually  within  4-6  months.  Some  studies  have  demonstrated dramatic responses to ART.
+
+============================================================
+CHUNK 25
+============================================================
+HEMOLYTIC UREMIC SYNDROME (HUS)
+HUS is a thrombotic microangiopathy that may present in (1) a classical form, associated with gastroenteritis, and (2) an idiopathic form, not associated with diarrhea. Classical HUS results from gastrointestinal infections with shiga toxin-producing Escherichia coli and Shigella spp. Most cases are in children 6 months to 4 years of age, but infants and adults can be affected. The mortality of HUS was reduced from nearly 50% to 2-4% with the use of peritoneal dialysis.
+
+============================================================
+CHUNK 26
+============================================================
+SCHISTOSOMIASIS (BILHARZIA)
+The ova of Schistosoma haematobium are deposited in the wall of the bladder and ureters, where they evoke a granulomatous inflammatory reaction with eventual calcification of the bladder wall (Fig. 6.4) [9]. The  typical  presentation  is  painful  terminal  hematuria.  Secondary bacterial infection may occur, particularly with Pseudomonas , Proteus or Salmonella , especially following instrumentation of the bladder.
+Dipstick hematuria is valuable for screening children at risk of urinary schistosomiasis.  Microscopic  examination  of  a  fresh  urine  sample usually shows S.  haematobium ova  (see Fig.  6.2).  Serologic  tests  are useful in confirming the diagnosis in the absence of ova. Ultrasonography can assess bladder abnormalities and urinary tract obstruction. Cystoscopy and bladder biopsy should only be performed if the diagnosis can not be established noninvasively.
+Treatment  is  usually  with  praziquantel.  Praziquantel  lacks  efficacy against juvenile schistosomes, leading to lower cure rates in hyperendemic areas.
+
+============================================================
+CHUNK 27
+============================================================
+UROGENITAL TUBERCULOSIS (UGTB)
+Most patients with UGTB are < 50 years of age. The symptoms include LUTS,  recurrent  UTI,  abdominal  pain,  epididymitis,  macroscopic hematuria, hemospermia or infertility. On examination there may be hypertension, an abdominal mass secondary to hydronephrosis, or scrotal swelling.
+FIGURE 6.4 Plain x-ray of the pelvis showing calci@cation of Schistosoma haematobium granuloma in the bladder wall.
+On urinalysis, acid sterile pyuria should raise the suspicion of TB, but in up to one-third of patients a Gram-negative organism is cultured. Micro-  or  macroscopic  hematuria  is  often  present.  Ziehl-Neelsen (ZN) staining of urine has a high false-negative rate. At  least three early morning urine specimens should be sent for TB culture.
+IVP is the best imaging modality for suspected UGTB. Biopsy of the bladder  wall,  epididymis  or  prostate  may  confirm  the  diagnosis histologically.
+Treatment of UGTB requires combination therapy to prevent bacterial resistance - usually four drugs for 2 months (isoniazid, rifampicin, pyrazinamide and ethambutol) and two drugs for the remaining 4 months (rifampicin and isoniazid). Drug-resistant TB can be treated with addition of streptomycin or ciprofloxacin.
+
+============================================================
+CHUNK 28
+============================================================
+SICKLE CELL DISEASE (SCD)
+SCD is an autosomal recessive inherited disorder with a genetic prevalence of 25-50% in some West African areas. Relative hypoxia in the renal medulla leads to sickling, with obliteration of  the vasa recta, papillary  necrosis  and  macroscopic  hematuria.  Patients  with  SCD have an increased susceptibility to bacterial infections. Renal failure is the cause of death in about 14% of cases. A common problem in men with SCD is priapism (prolonged painful erection).
+Microscopic  examination  of  a  blood  smear  may  show  sickle  cells. Hemoglobin electrophoresis  is  required  to  establish  the  diagnosis. Treatment includes bed rest, IV fluids, diuretics, urine alkalinization with  sodium  bicarbonate,  blood  transfusion,  bladder  washout  for removal of blood clots, and irrigation of the pelvicaliceal system with silver nitrate.
+
+============================================================
+CHUNK 29
+============================================================
+CHYLURIA
+Chyluria is  caused by microfilariae of a mosquito-borne nematode ( Wuchereria bancrofti )  causing rupture of  lymphatic  varices into  the urinary tract [10]. It occurs in about 2% of filarial afflicted patients, mainly in South Asian countries. Chyluria may result in severe protein loss leading to hypoalbuminemia and anasarca. The urine is usually milky white, but may be pink if there is also hematuria. Spontaneous resolution  occurs  in > 50%  of  cases.  A  low-fat  diet  and  high  fluid intake reduce the risk of urinary stasis and clot formation. Diethylcarbamazine (DEC) may result in long-term remission.
+
+============================================================
+CHUNK 30
+============================================================
+HYDATID DISEASE
+The  urinary  tract  is  involved  in  2-4%  of  cases  of  cystic  hydatid disease caused by the tapeworm Echinococcus  granulosus .  Flank pain occurs  in  about  60%  of  cases.  Hydaturia  (scoleces  in  the  urine)  is rare  (5%).  Ultrasonography  typically  shows  a  complex  cyst.  The Casoni test or indirect hemagglutination test can be used to confirm the diagnosis. Percutaneous aspiration of the cyst carries the risk of anaphylaxis and hydatid seeding. Albendazole is the first-line treatment,  because  surgery  carries  the  risk  of  dissemination  if  spillage occurs.
+
+============================================================
+CHUNK 31
+============================================================
+UROLITHIASIS
+Risk factors for urolithiasis in the tropics include low urine volumes due  to  sweating  or  chronic  diarrhea  [1 1].  The  incidence  of  upper urinary tract stones in adults is increasing in more affluent, urbanized  populations.  In  children,  bladder  stones  are  more  common in  tropical  countries,  probably  due  to  dietary  factors  or  chronic diarrhea.
+
+============================================================
+CHUNK 32
+============================================================
+VESICOVAGINAL FISTULA (VVF)
+Postpartum  VVFs  mostly  occur  in  young  women  in  remote  areas where obstetric services are inadequate. Most are large, complex fistulas involving the continence mechanism. Vaginal repair can be performed under spinal anesthesia by adequately trained staff; however, currently, thousands of women remain untreated due to lack of facilities [12].
+
+============================================================
+CHUNK 33
+============================================================
+URETHRAL STRICTURES
+In men, urethral strictures due to previous gonorrheal or chlamydial urethritis  are  relatively common in some tropical countries. It may present with UTI or urinary retention. Transurethral catheterization is impossible; therefore, a suprapubic catheter is required until dilatation, internal urethrotomy or urethroplasty can be performed.
+
+============================================================
+CHUNK 34
+============================================================
+REFERENCES
+1. Hotez PJ, Kamath A. Neglected tropical diseases in sub-Saharan Africa: review of  their  prevalence,  distribution,  and  disease  burden.  PLoS  Negl  Trop  Dis 2009;3:e412.
+2. Rodgers M, Nixon J, Hempel S, et al. Diagnostic tests and algorithms used in the investigation of haematuria: systematic reviews and economic evaluation. Health Technol Assess 2006;10:iii-iv, xi-259.
+3. Whiting  P,  Westwood  M,  Bojke  L,  et  al.  Clinical  effectiveness  and  costeffectiveness of tests for the diagnosis and investigation of urinary tract infection in children: a systematic review and economic model. Health Technol Assess 2006;10:iii-iv, xi-xiii, 1-154.
+4. Jeena PM, Coovadia HM, Adhikari M. Probable association between urinary tract  infections  (UTI)  and  common  diseases  of  infancy  and  childhood:  a hospital-based  study  of  UTI  in  Durban,  South  Africa.  J Trop  Pediatr 1996;42:112-14.
+5. Seedat  YK.  Glomerular  disease  in  the  tropics.  Semin  Nephrol  2003;23: 12-20.
+6. Authoritative  review  of  the  etiology,  histology,  prevention,  and  management  of glomerular diseases in the tropics.
+6. Mishra  SK,  Das  BS.  Malaria  and  acute  kidney  injury.  Semin  Nephrol 2008;28:395-408.
+8. Clinically  useful  review  of  the  management  of  acute  renal  dysfunction  associated with malaria.
+7. Bruneel  F,  Gachot  B,  Wolff  M,  et  al.  Corresponding  Group.  Resurgence  of blackwater fever in long-term European expatriates in Africa: report of 21 cases and review. Clin Infect Dis 2001;32:1 133-40.
+8. Jha V, Chugh KS. Nephropathy associated with animal, plant, and chemical toxins in the tropics. Semin Nephrol 2003;23:49-65. Interesting review of the recently recognized entity of toxic nephropathy as an important segment of renal disease in tropical countries.
+
+============================================================
+CHUNK 35
+============================================================
+REFERENCES
+9. Jyding  Vennervald B, Kahama AI, Reimert CM. Assessment of morbidity in Schistosoma haematobium infection: current methods and future tools. Acta Trop 2000;77:81-9.
+10.  Gulati S, Gupta N, Singh NP, et al. Chyluria with proteinuria or filarial nephropathy? An enigma. Parasitol Int 2007;56:251-4.
+11.  Robertson WG. Renal stones in the tropics. Semin Nephrol 2003;23:77-87.
+12.  Gutman RE, Dodson JL, Mostwin JL. Complications of treatment of obstetric fistula in the developing world: gynatresia, urinary incontinence, and urinary diversion. Int J Gynaecol Obstet 2007;99(Suppl 1):S57-64. Comprehensive review of existing literature and expert recommendations of the Gates
+15. Fistula Institute meeting on surgical repair of obstetric fistula, including its complications such as gynatresia and urinary incontinence.
+

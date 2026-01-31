@@ -1,0 +1,169 @@
+============================================================
+CHUNK 0
+============================================================
+Key di9erences in imaging in resource-poor countries, compared to industrialized countries:
+- Ultrasound and plain radiography cover the majority of imaging indications
+- Image acquisition and interpretation are frequently performed by non-specialists
+- Lack of maintenance, quality assurance and radiation protection programs is widespread
+- Very little evidence of the impact of imaging on patient management, outcome and cost is available
+
+============================================================
+CHUNK 1
+============================================================
+Key features unique to the tropics:
+- Diagnostic imaging should be used within the framework of WHO-algorithm
+- High prevalence of chronic and asymptomatic infections confounds image interpretation
+- Imaging appearances of diseases vary with geographic location and endemic background
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+Although the industrialized world has made great strides in diagnostic imaging,  low-resource  countries  have  remained  at  a  disadvantage. This is related to a lack of basic equipment, accessories, maintenance and  trained staff.  Computed  tomography  (CT)  and magnetic  resonance imaging (MRI), which are standard in industrialized countries, are rare. Little  evidence is available  related to the impact  and  costeffectiveness  of  imaging  in  the  management  of  diseases  in  a  lowresource setting.
+
+============================================================
+CHUNK 3
+============================================================
+EQUIPMENT AND SERVICE DEVELOPMENT
+WHO guidance is available on the appropriate choice of equipment for each level of care [1,2]. A district hospital will ideally require a basic x-ray system and ultrasound. More advanced techniques such as fluoroscopy require contrast media and specialist knowledge. In the setting of a regional hospital with several specialists, this is an appropriate imaging modality. Specialist ultrasound applications, such as echocardiography, complex obstetric scanning and ultrasound-guided interventions, may also be available. At the tertiary teaching hospital level, services are generally supported by radiologists. More advanced techniques such as Doppler ultrasound, CT and MRI may be appropriate,  depending  on  the  clinical  specialties  and  treatment  options available.
+
+============================================================
+CHUNK 4
+============================================================
+Diagnostic Imaging in the Tropics 19
+Elizabeth Joekes, Sam Kampondeni
+Imaging equipment is extremely expensive to install and run and is very susceptible to break down: in particular in a setting of irregular power supply and in the absence of regular maintenance. It is essential that implementation is part of a wider national program of healthcare provision with appropriate imaging facilities chosen for the level of overall healthcare available [3]. Consideration of location, case mix and volume of patients is important, as high-cost equipment which is used sporadically will not be cost-effective. Choosing x-ray equipment requires specialist input and discussion with regional healthcare providers,  national  imaging  societies  and  atomic  energy  commissions. Support is also available from international imaging societies [4,5]  and  WHO.  No  equipment  should  be  donated  or  purchased without  prior  needs  assessment,  a  long-term  maintenance  contract and appropriate training. Well-intended, but uncoordinated, secondhand equipment donations by hospitals in wealthy countries should be  discouraged  (Fig.  19.1).  They  have  all  too  often  resulted  in  the equipment standing idle or in misdirection of scarce local resources to  run  this  equipment.  Pooling  resources  for  regional  equipment servicing will reduce equipment breakdown and cost. Radiation protection  and  a  quality  assurance  (QA)  program  should  be in  place. Poor image quality has been shown to be a major source of unnecessary radiation to patients in developing countries [6]. At a minimum, quality control should include regular equipment checks, radiation dose  monitoring,  and  reporting  incidents  of  inadvertent  overexposure. However, other elements of QA which are helpful in improving imaging services are regular analysis of rejected films, review of referrals,  and  follow-up  of  the  impact  of  the  investigation  on  patient outcome and management. Ensuring staff have appropriate qualifications and access to continuing professional development are no less important. WHO has developed specifications for a basic, screen filmbased  x-ray  system,  the  WHO  Imaging  System-Radiology,  (WHISRAD), suited to the needs of district hospitals in low-resource settings. More recently, digital systems have been developed, solving the problems of film processing and the unreliable supply of film and dark room  chemicals  [7].  Digital  systems  reduce  running  costs  and  the need for retakes of poor-quality films [8]. The images are also suitable for tele-radiology purposes. WHO has published several manuals on maintenance, quality assurance and radiographic technique, available in print and online [9].
+
+============================================================
+CHUNK 5
+============================================================
+Diagnostic Imaging in the Tropics 19
+Ultrasound equipment is much cheaper and easier to install. It does not use radiation and is available in portable format. The downside is the need for intensive user training [10]. Without appropriate training there is a significant risk of misdiagnosis and harm to the patient. The choice of system will largely depend on the application required. Advice can be sought from national imaging societies or the World Federation for Ultrasound [1 1]. Maintenance is less complex than for x-ray equipment, but a regional engineer should be available.
+If resources do not permit installation of both x-ray and ultrasound, traditional WHO guidance advocates implementation of x-ray before ultrasound, except in hospitals dedicated to obstetrics [2]. However, ultrasound in combination with appropriate training is cheaper and more versatile than x-ray installation and maintenance. Applications and impact of these two modalities differ and currently no evidence
+B
+A.H.C
+FIGURE 19.1 This  x-ray  machine (A) was  donated  to  a  district  hospital without prior needs assessment or provisions for an x-ray room, consumables, sta8ng or maintenance. It was never used. Years later, in the same hospital, the ultrasound machine (B) was provided at the request of the hospital. A trained obstetrician has taken charge of the machine and a training program for midwives and general physicians was provided along with the machine.
+is available on their relative merits and overall cost to the healthcare system.
+
+============================================================
+CHUNK 6
+============================================================
+PERSONNEL
+Brain drain and a shortage of training programs in radiology, radiography and sonography are major issues in the tropics [12,13]. Equipment  is  frequently  operated  by  untrained  staff  and  images  are interpreted  by  general  physicians  or  non-medical  health  workers. Many studies have shown that interpretation errors may occur in up to half of all films when they are reported by non-radiologists [14,15]. If film quality is poor, the error rate increases even further [6]. The diagnostic value of an examination may be reduced significantly in these  circumstances. In the absence of trained staff to  interpret the images, the benefit of the test is unlikely to outweigh the considerable costs.
+To  improve  matters,  capacity  building  through  hybrid  programs between  local  countries  and  major  regional  centers  is  becoming increasingly popular. Ultrasound training programs, tailored to local needs, have been developed in the last decade [16]. Evidence of the impact of these programmes is scanty, but a few encouraging studies
+
+============================================================
+CHUNK 7
+============================================================
+BOX 19.1  Pediatric Considerations
+- Radiographic exposures should be adjusted to age to avoid unnecessary radiation
+- Nutritional disorders such as rickets and scurvy can be diagnosed from skeletal x-rays
+- In  neonates  and  infants,  ultrasound  can  aid  in  the  diagnosis of intracranial abnormalities, osteomyelitis and intussusception
+have  been  published  recently  [17,18].  Short  intensive  courses,  followed  by  documentation  of  independently  performed  scans  and regular review by trainers, ensure continuous learning and sustainability and allow evaluation of the impact of scans on patient outcome. Increasingly, teleradiology is being used to connect remote hospitals to large regional centers for expert second opinion [19,20]. Industrial image transfer systems come at a large cost, but simple images of films taken with a standard digital camera from a light box are sufficient for remote interpretation in most cases. Compression of these digital files  on a home computer and sending them via e-mail provides a low-cost teleradiology option [21]. The rapid increase in internet connectivity in low-resource countries brings hope that this will be a great tool for supporting imaging in future.
+
+============================================================
+CHUNK 8
+============================================================
+THE IMAGING OF TROPICAL DISEASES
+Most tropical diseases have established WHO algorithms for diagnosis and treatment. Imaging should be used in accordance with these algorithms, bearing in mind that there may be limited evidence to support  the  use  of  imaging  in  some.  Where  none  exist,  imaging should only be used when the test result is likely to have a significant impact  on patient management. Plain  radiographs  and  ultrasound should be the investigations of first choice whenever possible, even in the presence of fluoroscopy, CT or MRI.
+
+============================================================
+CHUNK 9
+============================================================
+PLAIN RADIOGRAPHS
+A  good-quality  frontal  chest  x-ray  is  adequate  in  most  situations. Routine  lateral  films  are  not  necessary.  Occasionally,  they  may  be helpful to localize a retrosternal or retrocardiac lesion on a frontal film and to detect hilar adenopathy in children. Fluoroscopy is a realtime, dynamic x-ray investigation which is useful to assess the gastrointestinal  tract  for  example.  However,  the  resolution  is  relatively poor in order to keep radiation dose to a minimum and it cannot be used to replace a proper chest x-ray. In children, exposures should be adjusted to their age group to avoid unnecessary radiation (Box 19.1). Common indications for chest radiographs include the diagnosis of smear-negative tuberculosis (TB) in symptomatic patients [22] and the detection of complications such as pneumothorax. Screening of high-risk  populations  such  as  asymptomatic  HIV-infected  patients eligible  for  TB  prevention  therapy  is  a  subject  of  ongoing  debate [23,24]. TB in symptomatic HIV-infected patients with reduced CD4 counts commonly presents with a lobar pneumonia or an effusion on chest films, instead of the classical appearance of bilateral upper lobe cavitating bronchopneumonia. The x-ray may even be entirely normal in about 15% of cases [25]. In general, chest x-rays are not necessary in uncomplicated pneumonias, effusions or for follow-up during treatment.
+Abdominal  x-rays  are  helpful  in  diagnosing  intestinal  obstruction, perforation  and  renal  calculi.  Although  a  calcified  bladder  wall  in schistosomiasis  or  a  calcified  hydatid  cyst  may  be  identified  as  an incidental finding, these films are not suitable to diagnose new, active infection and the appropriate laboratory tests or ultrasound should be performed.
+Skeletal  x-rays  will  mainly  be  used  in  the  setting  of  trauma.  Other indications  in  the  tropics  include  acute  or  chronic  osteomyelitis,
+
+============================================================
+CHUNK 10
+============================================================
+PLAIN RADIOGRAPHS
+hemoglobinopathies,  and  nutritional  diseases  such  as  rickets  and scurvy. The widespread use of skull x-rays in head trauma should be strongly  discouraged  even  in  the  absence  of  CT.  Management  will depend on the neurologic symptoms rather than on the presence or absence of a skull fracture on x-ray. Similarly, the use of lumbar spine x-rays in chronic back pain, in the absence of trauma or a suspicion of malignancy or TB, is not indicated as it will not significantly alter management.
+As the imaging appearances of many tropical infections overlap, it is important to correlate all findings with the clinical presentation and laboratory test results. Even then it may be difficult to make a definitive diagnosis with the available imaging results. In addition, asymptomatic or previous infection with a wide variety of organisms is very common. They are often not the cause of the presenting symptoms, but may show abnormalities on imaging. For example, a fibrotic lung following  successful TB  treatment in the past may  be  mistaken  for active  infection.  Assuming  all  these  findings  are  active  disease  will lead  to  multiple  diagnoses  and  overburdening  of  medical  services. Similarly, differences in endemic background and comorbidities may change the way diseases present: HIV co-infection alters the presenting  appearances  of  TB  on  chest  x-rays  [25],  and  primary  infection patterns that are classically seen in children in endemic areas can be present in adults in non-endemic areas. Knowledge of local disease patterns  is  essential  for  accurate  interpretation  of  imaging  studies. Other  pitfalls  in  the  interpretation  of  imaging  studies  are  the  geographic variation in the appearances of both infectious and noninfectious diseases, as well as the variation in baseline standards between different  populations. For example,  Asian  fetal  biometric tables  on low-cost Chinese ultrasound equipment cannot be applied in African countries, as the average birth weight of the Asian population is lower, leading to overestimation of fetal size in African countries.
+
+============================================================
+CHUNK 11
+============================================================
+ULTRASOUND
+As in the industrialized world, antenatal care and emergency obstetrics are the most common indications for ultrasound in the tropics. Its application is now recognized as a valuable tool in low-resource settings [26]. Increasingly, ultrasound has also been implemented in general  medical,  surgical  and  tropical  diseases.  It  is  currently  used extensively  in  the  diagnosis  of  liver  diseases,  including  abscesses, hydatid disease, and schistosomiasis-related peri-portal fibrosis [2729].  In  areas  with  a  high  incidence  of  cirrhosis  and  hepatocellular carcinoma (HCC), ultrasound can often reliably confirm the diagnosis  (Box  19.2).  Biliary  pathology  such  as  ascaris,  flukes  and  HIVrelated cholangiopathy are all readily diagnosed in the appropriate
+
+============================================================
+CHUNK 12
+============================================================
+BOX 19.2 Summary
+- Procurement of x-ray equipment should include a maintenance contract and QA programme
+- Safe  and  e9ective  use  of  ultrasound  requires  intensive user-training
+- The relative merits of x-ray and ultrasound in di9erent lowresource settings are unknown
+- Errors in x-ray interpretation by non-radiologists can occur in up to half of all :lms
+- Images taken o9 a light box with a digital camera can be sent via e-mail for remote second opinion
+- Many di9erent infections and diseases show similar appearances on chest x-rays
+- Chest  x-rays  are  normal  in  approximately  15%  of  HIVinfected patients with active pulmonary TB
+- Ultrasound can diagnose many infectious diseases of the liver as well as cirrhosis and HCC
+- IVU should be replaced by ultrasound in the initial assessment of suspected kidney disease
+clinical setting. Ultrasound should be the first modality in investigation of the renal tract, where it will identify hydronephrosis, tumors, TB, and schistosomiasis-related abnormalities, in addition to simple calculi. This applies to all levels of care, including those with access to intravenous urography (IVU). If ultrasound is available, IVU should no longer be used as the  primary investigation for hydronephrosis or  hematuria.  Ascites,  effusions  and  soft  tissue  abscesses  can  be diagnosed with relative ease. In more experienced hands, ultrasound can  pick  up  intra-abdominal  adenopathy,  TB  peritonitis,  psoas abscesses and bowel masses. It can guide biopsies and percutaneous treatment  of  abscesses  and  hydronephrosis.  Pediatric  applications include many of the above, as well as the diagnosis and treatment of intussusception  and  subperiosteal  abscess  [30].  In  neonates  and young infants, the large fontanelle can be used as a window to assess the brain for hydrocephalus, congenital malformations, hemorrhage and infections.
+Although not specifically related to tropical diseases, assessment of the acute abdomen with ultrasound can reduce the need for exploratory laparotomy and thus avoid unnecessary morbidity and cost to the patient.
+
+============================================================
+CHUNK 13
+============================================================
+BOX 19.2 Summary
+Overall, ultrasound is a very powerful diagnostic tool which is currently  greatly  underutilized  in  low-resource  settings.  However,  as stated previously, to benefit from its full potential and to avoid unnecessary harm, further development of high-quality training programs and regulation of misuse are essential.
+
+============================================================
+CHUNK 14
+============================================================
+ADVANCED IMAGING TECHNIQUES
+Fluoroscopy,  CT,  MRI  and  nuclear  medicine  are  complex  imaging techniques  which  fall  outside  the  scope  of  this  chapter.  The  main indications for fluoroscopy are related to the gastrointestinal tract and include esophageal strictures, stomach ulcers and ileocolitis.
+In the current setting of soaring numbers of road traffic accidents, the greatest benefit of CT scanning probably lies in the assessment of head injuries rather  than  tropical diseases.  Detection  of  neuro-infections such as TB, toxoplasmosis and cysticercosis is possible, but unlikely to be cost-effective in low-resource settings.
+
+============================================================
+CHUNK 15
+============================================================
+REFERENCES
+1. [Anonymous].  Effective  choices  for  diagnostic  imaging  in  clinical  practice. Report  of  a  WHO  Scientific  Group.  World  Health  Organ  Tech  Rep  Ser 1990;795:1-131.
+2. Palmer P. Imaging equipment for small hospitals. Trop Geogr Med 1990;45: 98-102.
+3. Garner P, Kiani A, Supachutikul A. Diagnostics in developing countries. BMJ 1997;315:760-1.
+4. International  Society  of  Radiology  http://www.isradiology.org/  (accessed  9 October 2009).
+5. International Society of Radiographers and Radiological Technologists. http:// www.isrrt.org/isrrt/default_EN.asp?SnID=330535879 (accessed 9 October 2009).
+6. Muhogora WE, Ahmed NA, Almosabihi A, et al. Patient doses in radiographic examinations in 12 countries in Asia, Africa, and eastern Europe: Initial results from IAEA projects. AJR Am J Roentgenol 2008;190:1453-61.
+7. World Health Imaging, Telemedicine and Informatics Alliance. http://www. worldhealthimaging.org/ (accessed 9 October 2009).
+8. Akhtar  W,  Aslam  M,  Ali  A,  et  al.  Film  retakes  in  digital  and  conventional radiography. J Coll Physicians Surg Pak 2008;18:151-3.
+9. World  Health  Organization  Diagnostic  Imaging  Documentation  Centre. http://www.who.int/diagnostic_imaging/publications/en/index.html (accessed 9 October 2009).
+10.  [Anonymous]. Training in diagnostic ultrasound:  essentials,  principles  and standards. Report of a WHO study group. World Health Organ Tech Rep Ser 1998;875:i-46; back cover.
+11.  World  Federation  for  Ultrasound  in  Medicine  and  Biology.  http://www. wfumb.org/ (accessed 9 October 2009).
+12.  Pearson B. The brain drain: a force for good? Mera 2004;Jan:10-11.
+13.  Broadhead R, Muula A. The challenges facing post-graduate medical training in Malawi. Mera 2004;Jan:13-15.
+
+============================================================
+CHUNK 16
+============================================================
+REFERENCES
+14.  Mehrotra  P,  Bosemani  V,  Cox  J.  Do  radiologists  still  need  to  report  chest x-rays? Postgrad Med J 2009;85:339-41.
+
+============================================================
+CHUNK 17
+============================================================
+REFERENCES
+15.  Eisen LA, Berger JS, Hegde A, Schneider RF. Competency in chest radiography: a comparison of medical students, residents, and fellows. J Gen Intern Med 2006;21:46-65.
+16.  Jefferson Ultrasound  Research  and  Education  Institute.  Global  affiliate network. http://www.jefferson.edu/jurei/affiliate/ (accessed 9 October 2009).
+17.  Shah S, Noble VE, Umulisa I, et al. Development of an ultrasound training curriculum in a limited resource international setting: successes and challenges of ultrasound training in rural Rwanda. Int J Emerg Med 2008;1:193-6.
+18.  Baltarowich OH, Goldberg BB, Wilkes AN, et al. Effectiveness of 'teaching the teachers' initiative for ultrasound  training  in Africa.  Acad  Radiol 2009;166:758-62.
+19.  Corr P. Digital imaging and telemedicine. In: Pattern Recognition in Diagnostic Imaging. Geneva: WHO; 2001.
+20.  Fraser  H.  Information  technology  and  telemedicine  in  sub-Saharan  Africa. BMJ 2000;321:465-66.
+21.  Szot  A,  Jacobson  FL,  Munn  S,  et  al.  Diagnostic  accuracy  of  chest  X-rays acquired using a digital camera for low-cost teleradiology. Int J Med Inform 2004;73:65-73.
+22.  Tuberculosis Coalition for Technical Assistance.  International Standards for Tuberculosis  Care (ISTC). The Hague:  Tuberculosis  Coalition  for Technical Assistance, 2006.
+23.  Havlir  DV,  Getahun  H,  Sanne  I,  Nunn  P.  Opportunities  and  challenges for  HIV  care  in  overlapping  HIV  and  TB  epidemics.  JAMA  2008;300: 423-30.
+24.  Mosimaneotsile B, Talbot EA, Moeti TL, et al. Value of chest radiography in a  tuberculosis  prevention  programme  for  HIV  infected  people,  Botswana. Lancet 2003;362:1551-2.
+25.  Greenberg  S,  Frager  D,  Suster  B,  et  al.  Active  pulmonary  tuberculosis  in patients with AIDS: spectrum of radiographic findings (including a normal appearance). Radiology 1994;193:1 15-19.
+26.  Kongnyuy E, van den Broek N. The use of ultrasonography in obstetrics in developing countries. Trop Doct 2007;37:70-2.
+
+============================================================
+CHUNK 18
+============================================================
+REFERENCES
+27.  Benedetti NJ, Desser TS, Jeffrey RB. Imaging of hepatic infections. Ultrasound Q 2008;24:267-78.
+28.  Richter J, Hatz C, Hä ussinger D. Ultrasound in tropical and parasitic diseases. Lancet 2003;362:900-2.
+29.  Berhe  N,  Geitung  JT,  Medhin  G,  Gundersen  SG.  Large  scale  evaluation  of WHO's ultrasonographic staging system of schistosomal periportal fibrosis in Ethiopia. Trop Med Int Health 2006;11:1286-94.
+30.  Justice FA, de Campo M, Liem NT, et al. Accuracy of ultrasonography for the diagnosis  of  intussusceptions  in  infants  in  Vietnam.  Pediatr  Radiol  2007; 37:195-9.
+

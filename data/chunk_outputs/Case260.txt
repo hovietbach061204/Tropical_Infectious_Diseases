@@ -1,0 +1,232 @@
+============================================================
+CHUNK 0
+============================================================
+34
+
+============================================================
+CHUNK 1
+============================================================
+KEY FEATURES
+- gastroenteritis, both in developing and developed countries, particularly in children younger than 5 years of age; in this age group diarrhea is the second most common cause of death in low income countries.
+- diarrhea viruses, cause acute-onset, watery, non-bloody diarrhea.
+- recognized as established causes of gastroenteritis in humans: rotavirus, norovirus, sapovirus, astrovirus, and human adenovirus F (also referred to as enteric adenovirus ).
+- indistinguishable by clinical features alone; etiologic diagnosis requires laboratory investigation.
+- individuals, but, depending on disease severity, oral or intravenous rehydration therapy is required for dehydrated patients.
+- one of the most important causes of viral diarrhea.
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+Globally,  the  burden  of  acute  gastroenteritis  (AGE)  has  been decreasing steadily over the last two decades; from being the {fth most important cause of mortality across all age  groups in the year  2000,  AGE  ranked  eighth  in  2015,  with  the  number  of attributable deaths decreasing from 2.18 million to 1.39 million. However,  diarrhea  remains  the  second  most  common  cause  of death in low-income economies, responsible for 10% of the overall mortality and claiming 57.2 lives per 100,000 of the population each year (Fig. 34.1). Viruses account for the major proportion of causative agents responsible for AGE in both developing and developed countries. Acute diarrhea is the cardinal symptom of viral  gastrointestinal  infection  and  is  de{ned  as  the  passage  of three or more watery or looser-than-usual stools within the preceding 24 hours for less than 2 weeks' duration.
+Viral  gastroenteritis  generally  presents  a  common  clinical picture,  requiring  laboratory  investigation  for  establishment  of
+TABLE 34.1 Characteristics of the Major Gastroenteritis Viruses
+
+Rotavirus (species Rotavirus A, genus Rotavirus, family Reoviridae), Virus Characteristics = Non-enveloped, characteristic wheel-like, triple-layered capsid, 70-80 nm in diameter, double-stranded RNA genome. Rotavirus (species Rotavirus A, genus Rotavirus, family Reoviridae), Methods of Detection = EM, ELISA LFI, PAGE, PCR. Rotavirus (species Rotavirus A, genus Rotavirus, family Reoviridae), Epidemiologic Features = The most important cause of severe acute gastroenteritis in infants and young children. Vaccines are available for infants.. Norovirus (family Caliciviridae), Virus Characteristics = Indistinct substructure of virion surface, non-enveloped, 27-35 nm in diameter, single-stranded ( + ) RNA. Norovirus (family Caliciviridae), Methods of Detection = EM, ELISA, LFI, PCR. Norovirus (family Caliciviridae), Epidemiologic Features = Causes gastroenteritis in all age groups. Endemic in children and associated with outbreaks across the age groups. It can lead to severe disease among elderly and immunodeficient patients. Major cause of food-borne gastroenteritis.
+
+============================================================
+CHUNK 3
+============================================================
+Viral Gastroenteritis
+Miren Iturriza-Gómara, Nigel A. Cunliffe etiology. Signs and symptoms of typical acute viral gastroenteritis include acute onset of diarrhea, often with preceding vomiting, and sometimes with fever and abdominal pain. The most important complication is dehydration, and this requires oral or intravenous |uid replacement therapy, depending on the degree of dehydration. The disease typically lasts 3 to 5 days and is self-limiting. The viruses are transmitted feco-orally and infect the epithelial cells of the small intestine.  Damage to the villous epithelium of the small intestine affects the absorption of |uid and causes watery diarrhea. No in|ammation occurs, as the viruses multiply only within  the  enterocytes  in  the  intestinal  epithelium  and  do  not spread into the submucosa.
+There are  currently  four  genera  and  one  species  of  viruses recognized as the main causes of viral gastroenteritis in humans: rotavirus, norovirus, sapovirus, astrovirus, and human adenovirus F (to which serotypes 40 and 41 belong and which are also referred to as enteric adenoviruses ). As these viruses are often shed in large numbers  into  stool  of  symptomatic  patients,  early  diagnostic approaches relied on the use of electron microscopy. However, molecular methods based on ampli{cation of the virus's nucleic acid that provide both high sensitivity and speci{city have now become the gold standard for virus detection. The major features of these gastroenteritis viruses are summarized in T able 34.1.
+Fig. 34.1 Proportion of mortality associated with diarrhea between 2000 and 2015 according to World Bank income groups. (Data from the WHO data repository: https://www.who.int/healthinfo/global_ burden_disease/estimates/en/.)
+
+============================================================
+CHUNK 4
+============================================================
+Viral Gastroenteritis
+TABLE 34.1 Characteristics of the Major Gastroenteritis Viruses-cont'd
+
+Sapovirus (family Caliciviridae), Virus Characteristics = Characteristic cup-like depression on the surface, 27-35 nm in diameter, single-stranded ( + ) RNA. Sapovirus (family Caliciviridae), Methods of Detection = EM, PCR. Sapovirus (family Caliciviridae), Epidemiologic Features = Causes sporadic cases of gastroenteritis in all age groups. Rarely associated with outbreaks.. Enteric adenovirus (family Adenoviridae), Virus Characteristics = Non-enveloped, characteristic icosahedrons, 70 nm in diameter, double-stranded DNA. Enteric adenovirus (family Adenoviridae), Methods of Detection = EM, ELISA, LFI, PCR. Enteric adenovirus (family Adenoviridae), Epidemiologic Features = Serotypes 40/41. Causes sporadic cases of acute gastroenteritis mostly in children < 5 years of age.. Astrovirus (family Astroviridae), Virus Characteristics = Non-enveloped, characteristic star-like structure on the surface, 27-35 nm in diameter, single-stranded ( + ) RNA. Astrovirus (family Astroviridae), Methods of Detection = EM, ELISA, PCR. Astrovirus (family Astroviridae), Epidemiologic Features = Causes sporadic cases of acute gastroenteritis primarily in children and occasional outbreaks.
+ELISA , Enzyme-linked immunosorbent assay; EM , electron microscopy; LFI , lateral flow immunoassay; PAGE , polyacrylamide gel electrophoresis; PCR , polymerase chain reaction.
+
+============================================================
+CHUNK 5
+============================================================
+34.1 Rotavirus
+Miren Iturriza-Gómara, Nigel A. Cunliffe
+
+============================================================
+CHUNK 6
+============================================================
+KEY FEATURES
+- of acute gastroenteritis in infants and young children worldwide.
+- mediated by rotavirus-speci{c secretory IgA antibodies on the intestinal mucosal surface.
+- by the detection of viral antigen in stool using a variety of immunologic methods, or by the detection of viral RNA in stool using reverse transcription-polymerase chain reaction.
+- evident in temperate countries, whereas year-round infection is common in tropical countries.
+- G3P[8], G4P[8], G9P[8], and G12P[8]) together comprise more than 90% of global rotavirus strains; however, in some developing countries other types may predominate (e.g., G10, G8 or P[6]).
+- the primary aims of treatment of acute rotavirus gastroenteritis.
+- globally and have been incorporated into childhood immunization schedules in 87 countries with a substantial reduction of rotavirus hospitalizations and deaths.
+
+============================================================
+CHUNK 7
+============================================================
+INTRODUCTION
+Rotavirus  is  recognized  as  the  single  most  important  agent  of diarrhea  in  infants.  Before  the  rollout  of  vaccination,  rotavirus caused 37% ( ≈ 450,000) of diarrheal deaths and 5% of all deaths among children younger than 5 years of age. 1 Although a child will experience at least one rotavirus infection by 3 to 5 years of age in all settings, the consequence of infection is strikingly different between high- and low-income countries: {ve countries account for more than half of all deaths attributable to rotavirus infection, and India alone accounts for 22% of all deaths. 1
+The recognition of this huge burden of rotavirus disease led to the development of rotavirus vaccines soon after its discovery in 1973 on thin-section electron microscopy of duodenal biopsies from a child with acute gastroenteritis (AGE). 2 The name rotavirus was coined due to its characteristic wheel-shaped ( rota is  Latin for wheel) morphology on electron microscopy (Fig. 34.1.1). The virus  is  a  double-stranded  RNA  virus:  genus Rotavirus, family Reoviridae. 3
+Fig. 34.1.1 Negative-stain electron micrograph of rotavirus particles. The bar represents 100 nm. (Courtesy, Brian Getty, University of Liverpool.)
+The introduction of rotavirus vaccination programs has resulted in a signi{cant reduction in the global burden of diarrhea; it has been estimated that among children younger than 5 years of age, vaccination has resulted in a 67% and 38% reduction in rotavirus diarrhea and all-cause AGE hospitalizations, respectively. 4 Notably, rotavirus vaccine introduction has led to a halving of rotavirusattributable deaths in less than a decade. 5
+
+============================================================
+CHUNK 8
+============================================================
+EPIDEMIOLOGY
+Rotavirus infections occur worldwide. Most symptomatic infections occur in children between 3 months and 2 years of age. In temperate countries,  rotavirus infections  show winter seasonality, whereas infections occur year-round in most tropical countries. 6
+Rotavirus spreads via the fecal-oral route, primarily through person-to-person  transmission.  Only  a  few  virus  particles  are required to infect the susceptible host.
+Species A  rotaviruses  are  classi{ed  into  G  and  P  genotypes based on the sequence diversity of the RNA segments encoding the outer capsid proteins VP7 and VP4, respectively. 7 T o date, 32 G  genotypes  and  47  P  genotypes  have  been  described  among species A rotaviruses, and these can be found in different combinations. 3 Globally, G1P[8], G2P[4], G3P[8], G4P[8], G9P[8], and G12 in combination with P[6] or P[8] typically account for > 90% of  the  genotypes  that  infect  humans,  although  geographic  and temporal  differences  in  the  distribution  of  genotypes  are  well documented. 8-11 Immunization with the currently licensed vaccines provides cross-protection against commonly circulating strains, and  there  is  no  evidence  that  vaccination  has  resulted  in  the emergence of vaccine-escape strains. However, evidence suggests that vaccine ef{cacy is higher against vaccine-containing (homotypic) strains, and in the context of a highly reduced incidence of rotavirus diarrhea, strain distribution post-vaccine introduction may shift. 12-17
+
+============================================================
+CHUNK 9
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Rotavirus infection occurs throughout life, and successive rotavirus infections commonly occur during infancy and early childhood. The {rst rotavirus infection typically results in the most severe disease outcome, although infection in the neonatal period often tends to be asymptomatic. 18 Subsequent rotavirus infections, irrespective of strain type, are associated with milder disease or may even be asymptomatic, although differences in the age of {rst infection and  number  of  infections  required  to  acquire  protection  from symptomatic disease vary according to population. T ypically, infants in low-income countries experience earlier infection and a larger number of symptomatic episodes. 19-21 Although severe disease is less common, rotavirus infection may nevertheless cause gastroenteritis in older children and adults, and the elderly appear to become more susceptible as their immunity wanes. 22-25 Since the introduction of rotavirus vaccines, there is evidence that rotavirus disease may be shifting to older ages. 26,27
+Rotaviruses infect the duodenal mucosa and replicate in the mature enterocytes. The infection causes shortening and atrophy of the intestinal villi and enterocyte vacuolization and death that leads to impairment of the absorption of water and electrolytes from the lumen, contributing to osmotic diarrhea, which is followed by dehydration. 28 Additional mechanisms have also been proposed, such as expression of the rotavirus non-structural protein NSP4, which acts as an enterotoxin, and secretion mediated by the enteric nervous system 29,30 ; in addition, secretion of serotonin can activate signaling pathways that induce diarrhea and vomiting. 31,32
+
+============================================================
+CHUNK 10
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Susceptibility  to  rotavirus  infection  is  determined  by  nonimmunologic factors such as the differential expression of genetically determined rotavirus receptors, histo-blood group antigens, 33-35 and immunologic factors. Antibodies and T cells play a critical role in protection against recurrent infection and virus clearance. This is clearly  demonstrated  by  the  failure  to resolve rotavirus infection, including infection with live-attenuated vaccine strains, in children with severe combined immunode{ciency. 36-38  Serum rotavirus-speci{c  immunoglobulin  A  (IgA)  antibody  levels  are currently the best marker of protection against rotavirus disease, and  the  presence  of  anti-rotavirus  IgA  antibodies  in  serum  is widely used as a marker of vaccine take, although the validity of this measure across populations remains to be demonstrated. 39-41
+
+============================================================
+CHUNK 11
+============================================================
+CLINICAL FEATURES
+The onset of symptoms is abrupt after a short incubation period of 1 to 2 days. Fever, vomiting, and non-bloody watery diarrhea are seen in the majority of infected children and last for 2 to 6 days. The major complication is dehydration that appears shortly after the onset of disease and varies in severity. The cause of death after  rotavirus  infection  is  dehydration,  leading  to  metabolic disturbances and shock.
+Rotavirus can enter the bloodstream, and both antigenemia and viremia have been described. 42-45 Despite the detection of rotavirus RNA in cerebrospinal |uid of infected children presenting with neurologic symptoms 46,47 and  the  association  of  neurologic  symptoms with rotavirus diarrhea, 48-50 direct evidence or speci{c pathologic {ndings of extra-intestinal disease caused by rotavirus are lacking.
+
+============================================================
+CHUNK 12
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+The patient with AGE should {rst be evaluated for the presence and the degree of dehydration before seeking the etiology of the disease. It is not possible to distinguish rotavirus gastroenteritis from other viral or bacterial causes of non-in|ammatory diarrhea solely  on  clinical  grounds.  T o  establish  an  etiologic  diagnosis, stool specimens from the patient in the acute phase of the disease can  be  examined  by  a  variety  of  methods  for  the  presence  of rotavirus.  Antigen  detection  is  currently  the  most  widely  used method; immuno-chromatographic assays have been developed that  can be  used at the point of  care. However, enzyme-linked immunosorbent assay  (ELISA) offers  a  low-cost,  sensitive,  and speci{c  approach  for  the  diagnosis  of  acute  rotavirus  diarrhea, and is the most commonly used method for rotavirus detection in routine clinical practice.
+Molecular methods that rely on the detection of rotavirus RNA in stool samples are also widely available, often as part of a multipathogen syndromic diagnostic approach. 51,52 Reverse transcriptionpolymerase chain reaction (RT-PCR) offers both high sensitivity and  speci{city;  however,  RT-PCR  can  detect  the  presence  of rotavirus  in  asymptomatically  infected  individuals,  as  rotavirus can be shed for prolonged periods after acute infection. Because rotavirus load in stool correlates with disease severity, the use of a  viral  load  cut-off  is  advisable  when  applying  quantitative  or semi-quantitative RT-PCR for rotavirus diagnosis. 53,54
+
+============================================================
+CHUNK 13
+============================================================
+TREATMENT AND PREVENTION
+The mainstay of therapy for dehydration associated with rotavirus gastroenteritis consists of oral rehydration with |uids of speci{ed electrolyte  and  glucose  composition. 55 Intravenous  rehydration therapy is indicated for the patient with severe dehydration, shock, or reduced level of consciousness.
+Dietary management is important in the care of children with acute diarrhea, and breastfeeding as well as the maintenance of adequate protein-calorie intake using age-appropriate foods should be encouraged. 56 Zinc supplementation can improve the outcome of acute diarrhea in populations in which malnutrition is common, and the  World Health Organization (WHO) recommends daily zinc supplementation for infants starting as soon as the diarrhea episode
+
+TABLE 34.1.1 Characteristics of Rotavirus Vaccines
+
+============================================================
+CHUNK 14
+============================================================
+TREATMENT AND PREVENTION
+Rotarix, Manufacturer = GlaxoSmithKline, Belgium. Rotarix, Vaccine Characteristics = Oral live attenuated: Human rotavirus strain RIX4414, G1P[8]. Rotarix, Stage of Development = Licensed globally. Rotarix, Schedule = Two doses 4 weeks apart from 6 weeks of age. RotaTeq, Manufacturer = Merck & Co., USA. RotaTeq, Vaccine Characteristics = Oral live attenuated: Bovine reassortant: WC3 G6P[5] + 5 monoreassortants containing human rotavirus G1, G2, G3, G4, and P[8]. RotaTeq, Stage of Development = Licensed globally. RotaTeq, Schedule = Three doses 4 weeks apart from 6 weeks of age. ROTAVAC, Manufacturer = Bharat Biotech, India. ROTAVAC, Vaccine Characteristics = Oral live attenuated: Human neonatal 116E strain, G9P[11]. ROTAVAC, Stage of Development = Licensed in India in 2014 WHO pre-qualification January 2018. ROTAVAC, Schedule = Three doses at 6, 10, and 14 weeks of age. Lanzhou lamb rotavirus vaccine, Manufacturer = Lanzhou Institute of Biomedical Products, China. Lanzhou lamb rotavirus vaccine, Vaccine Characteristics = Oral live attenuated: Lamb G10P[12] strain. Lanzhou lamb rotavirus vaccine, Stage of Development = Licensed in China in 2000. Lanzhou lamb rotavirus vaccine, Schedule = One to three doses, from 2-35 months of age. Rotavin-M1, Manufacturer = Center for Research and Production of Vaccines and Biologicals, Vietnam. Rotavin-M1, Vaccine Characteristics = Oral live attenuated: Human G1P[8] strain. Rotavin-M1, Stage of Development = Licensed in Vietnam in 2014. Rotavin-M1, Schedule = Two doses at 6 and 10 weeks of age. ROTASIIL, Manufacturer = Serum Institute of India. ROTASIIL, Vaccine Characteristics = Heat-stable, oral live attenuated: bovine-human reassortant: UK G6P[5] + 5 monoreassortants containing human rotavirus G1, G2, G3, G4, and G9.. ROTASIIL, Stage of Development = Under review for WHO pre-qualification. Licensed in India 2016.
+
+============================================================
+CHUNK 15
+============================================================
+TREATMENT AND PREVENTION
+ROTASIIL, Schedule = Three-dose schedule at 6, 10, and 14 weeks. RV3-BB, Manufacturer = PT Bio Farma, Indonesia/ Murdoch Children's Research Institute, Australia. RV3-BB, Vaccine Characteristics = Oral live attenuated: Human neonatal strain, G3P[6]. RV3-BB, Stage of Development = Phase II trials. RV3-BB, Schedule = Proposed three doses, including a birth dose. P2-VP8-P[8], Manufacturer = PATH, USA. P2-VP8-P[8], Vaccine Characteristics = Parenteral, non-replicating, monovalent P2-VP8-P[8] sub-unit vaccine. P2-VP8-P[8], Stage of Development = Phase I/II. P2-VP8-P[8], Schedule = To be determined
+
+============================================================
+CHUNK 16
+============================================================
+has been recognized and lasting 10 to 14 days (http://apps.who.int/ iris/bitstream/10665/68627/1/WHO_FCH_CAH_04.7.pdf).
+Some studies have suggested modest bene{ts associated with the  use  of  probiotics,  reducing  the  duration  of  rotavirus  diarrhea  by  1  to  2  days. 57-62 Use  of  anti-emetics  (metoclopramide, dimenhydrinate, and ondansetron) for the treatment of rotavirus disease  is  not  widely  recommended  despite  a  small  number  of studies suggesting a reduction in the number of vomiting episodes and a reduced need for intravenous rehydration and hospitalization. 62 Other  potential  therapies  for  rotavirus  gastroenteritis, including racecadotril, octreotide, 63 or broad-spectrum antivirals such  as  nitazoxanide  have  reported  mixed  results  and  do  not substantiate  their  use  for  the  routine  treatment  of  rotavirus diarrhea. 64-69
+Personal hygiene measures, such as handwashing, safe disposal of feces, and disinfection of contaminated surfaces, are important in reducing the risk of transmission.
+Two rotavirus vaccines are used worldwide: RotaT eq (Merck, USA), and  Rotarix (GlaxoSmithKline,  Belgium)  (T able  34.1.1). Both vaccines are live attenuated and are highly ( > 90%) effective in preventing severe rotavirus disease in high-income countries, 70,71 but ef{cacy is reduced in low-income countries to ≈ 50% to 60%. 72-74 Although factors that determine this difference in ef{cacy are not fully understood, the impact of rotavirus vaccination is greater in low-income countries, saving more infant lives due to the higher rotavirus diarrhea burden in these countries.
+Other live  attenuated  rotavirus  vaccines  are  in  use  in  some countries,  and  various  others  are  in  development,  including  a non-replicating  parenteral  vaccine.  Current  data  suggest  that live  attenuated  vaccines,  regardless  of  strain  composition,  have similar  ef{cacy  and  effectiveness  and  confer  comparable  levels of  cross-protection  against  a  variety  of  rotavirus  genotypes (Box 34.1.1).
+
+============================================================
+CHUNK 17
+============================================================
+BOX 34.1.1 Treatment Considerations for Children With Acute Rotavirus Gastroenteritis
+- gastroenteritis comprises oral rehydration solutions providing essential electrolyte replacement plus sugar and zinc.
+- consciousness, intravenous rehydration therapy is required.
+- young children, as they are reported to be associated with rare but severe complications.
+- age and then according to the Expanded Programme on Immunization schedule are the best approach to prevent severe rotavirus gastroenteritis and hospitalization.
+
+============================================================
+CHUNK 18
+============================================================
+REFERENCES
+1.  T ate JE, Burton AH, Boschi-Pinto C, et al. 2008 estimate of worldwide rotavirus-associated mortality in children younger than 5 years before the introduction of universal rotavirus vaccination programmes: a systematic review and meta-analysis. Lancet Infect Dis 2012;12(2):136-41.
+2.  Bishop RF, Davidson GP . Virus-particles in Epithelial-cells of duodenal mucosa from children with acute non-bacterial gastroenteritis. Lancet 1973;2(7841):1281-3.
+3.  Crawford SE, Ramani S, T ate JE, et al. Rotavirus infection. Nat Rev Dis Primers 2017;3:17083.
+4.  Burnett E, Jonesteller CL, T ate JE, et al. Global impact of rotavirus vaccination on childhood hospitalizations and mortality from diarrhea. J Infect Dis 2017;215(11):1666-72.
+
+============================================================
+CHUNK 19
+============================================================
+REFERENCES
+5.  T ate  JE,  Burton  AH,  Boschi-Pinto  C,  et al.  Global,  Regional,  and national estimates of rotavirus mortality in children < 5 years of age, 2000-2013. Clin Infect Dis 2016;62(Suppl. 2):S96-105.
+6.  Cook  SM,  Glass  RI,  LeBaron  CW,  Ho  MS.  Global  seasonality  of rotavirus infections. Bull World Health Organ 1990;68(2):171-7.
+7.  Matthijnssens J, Ciarlet M, McDonald SM, et al. Uniformity of rotavirus strain nomenclature proposed by the rotavirus classi{cation working group (RCWG). Arch Virol 2011;156(8):1397-413.
+8.  Ouermi D, Soubeiga D, Nadembega WMC, et al. Molecular epidemiology of rotavirus in children under {ve in Africa (2006-2016): a systematic review. Pak J Biol Sci 2017;20(2):59-69.
+9.  Liu N, Xu Z, Li D, et al. Update on the disease burden and circulating strains of rotavirus in China: a systematic review and meta-analysis. Vaccine 2014;32(35):4369-75.
+10.  Hungerford D, Vivancos R, EuroRotaNet network members, et al. In-season and out-of-season variation of rotavirus genotype distribution  and  age  of  infection  across  12  European  countries  before  the introduction of routine vaccination, 2007/08 to 2012/13. Euro Surveill 2016;21(2).
+11.  Banyai  K,  Laszlo  B,  Duque  J,  et al.  Systematic  review  of  regional and  temporal  trends  in  global  rotavirus  strain  diversity  in  the  pre rotavirus vaccine era: insights for understanding the impact of rotavirus vaccination programs. Vaccine 2012;30 Suppl 1:A122-30.
+12.  Doro R, Laszlo B, Martella V, et al. Review of global rotavirus strain prevalence data from six years post vaccine licensure surveillance: is there evidence of strain selection from vaccine pressure? Infect Genet Evol 2014;28:446-61.
+
+============================================================
+CHUNK 20
+============================================================
+REFERENCES
+13.  Braeckman T, Van Herck K, Meyer N, et al. Effectiveness of rotavirus vaccination in prevention of hospital admissions for rotavirus gastroenteritis among young children in Belgium: case-control study. BMJ 2012;345:e4752.
+14.  Pitzer VE, Bilcke J, Heylen E, et al. Did Large-scale vaccination drive changes in the circulating rotavirus population in Belgium? Sci Rep 2015;5:18585.
+15.  Bar-Zeev N, Jere KC, Bennett A, et al. Population impact and effectiveness of monovalent rotavirus vaccination in urban Malawian children 3 years after vaccine introduction: ecological and case-control analyses. Clin Infect Dis 2016;62(Suppl. 2):S213-19.
+16.  Paulke-Korinek M, Kollaritsch H, Aberle SW, et al. Sustained low hospitalization rates after four years of rotavirus mass vaccination in Austria. Vaccine 2013;31(24):2686-91.
+17.  Mukhopadhya  I,  Murdoch  H,  Berry  S,  et al.  Changing  molecular epidemiology of rotavirus infection after introduction of monovalent rotavirus vaccination in Scotland. Vaccine 2017;35(1):156-63.
+18.  Haffejee  IE.  Neonatal  rotavirus  infections.  Rev  Infect  Dis  1991;13(5):957-62.
+19.  Velazquez FR. Protective effects of natural rotavirus infection. Pediatr Infect Dis J 2009;28(3 Suppl.):S54-6.
+20.  Velazquez  FR,  Matson  DO,  Calva  JJ,  et al.  Rotavirus  infection  in infants  as  protection  against  subsequent  infections.  N  Engl  J  Med 1996;335(14):1022-8.
+21.  Gladstone BP, Ramani S, Mukhopadhya I, et al. Protective effect of natural rotavirus infection in an Indian birth cohort. N Engl J Med 2011;365(4):337-46.
+22.  Anderson EJ, Weber SG. Rotavirus infection in adults. Lancet Infect Dis 2004;4(2):91-9.
+
+============================================================
+CHUNK 21
+============================================================
+REFERENCES
+23.  Anderson EJ, Katz BZ, Polin JA, et al. Rotavirus in adults requiring hospitalization. J Infect 2012;64(1):89-95.
+24.  T atte VS, Chothe NS, Chitambar SD. Characterisation of rotavirus strains identi{ed in adolescents and adults with acute gastroenteritis highlights  circulation  of  non-typeable  strains:  2008-2012.  Vaccine 2014;32(Suppl. 1):A68-74.
+25.  Dorleans F, Falkenhorst G, Bottiger B, et al. A case-control study of risk factors  for rotavirus infections in  adults, Denmark, 2005-2009. Epidemiol Infect 2016;144(3):560-6.
+26.  Markkula  J,  Hemming-Harlo  M,  Salminen  MT,  et al.  Rotavirus epidemiology 5-6 years after universal rotavirus vaccination: persistent rotavirus  activity  in  older  children  and  elderly.  Infect  Dis  (Lond) 2017;49(5):388-95.
+27.  Sabbe M, Berger N, Blommaert A, et al. Sustained low rotavirus activity and hospitalisation rates in the post-vaccination era in Belgium, 2007 to 2014. Euro Surveill 2016;21(27).
+28.  Estes MK, Kang G, Zeng CQ, et al. Pathogenesis of rotavirus gastroenteritis. Novartis Found Symp 2001;238:82-96, discussion 96-100.
+29.  Lundgren O, Svensson L. Pathogenesis of rotavirus diarrhea. Microbes Infect 2001;3(13):1145-56.
+30.  Ge Y, Mansell A, Ussher JE, et al. Rotavirus NSP4 triggers secretion of proin|ammatory cytokines from macrophages via T oll-like receptor 2. J Virol 2013;87(20):11160-7.
+31.  Bialowas S, Hagbom M, Nordgren J, et al. Rotavirus and serotonin cross-talk in diarrhoea. PLoS ONE 2016;11(7):e0159660.
+
+============================================================
+CHUNK 22
+============================================================
+REFERENCES
+32.  Hagbom M, Istrate C, Engblom D, et al. Rotavirus stimulates release of serotonin (5-HT) from human enterochromaf{n cells and activates brain  structures  involved  in  nausea  and  vomiting.  PLoS  Pathog 2011;7(7):e1002115.
+33.  Gunaydin G, Nordgren J, Sharma S, Hammarstrom L. Association of elevated rotavirus-speci{c antibody titers with HBGA secretor status in  Swedish individuals:  the  FUT2  gene  as  a  putative  susceptibility determinant for infection. Virus Res 2016;211:64-8.
+34.  Jiang X, Liu Y, T an M. Histo-blood group antigens as receptors for rotavirus, new understanding on rotavirus epidemiology and vaccine strategy. Emerg Microbes Infect 2017;6(4):e22.
+35.  Mohanty E, Dwibedi B, Kar SK, Pandey RM. Association of rotavirus gastroenteritis with histo-blood group antigens. Indian Pediatr 2016;53(7):653-4.
+36.  Rosenfeld  L,  Mas  Marques  A,  Niendorf  S,  et al.  Life-threatening systemic  rotavirus  infection  after  vaccination  in  severe  combined immunode{ciency  (SCID).  Pediatr  Allergy  Immunol  2017;28(8): 841-3.
+37.  Bogaert D, Van Schil K, T aghon T, et al. Persistent rotavirus diarrhea post-transplant in a novel JAK3-SCID patient after vaccination. Pediatr Allergy Immunol 2016;27(1):93-6.
+38.  Bakare N, Menschik D, Tiernan R, et al. Severe combined immunode{ciency (SCID) and rotavirus vaccination: reports to the vaccine adverse events reporting system (VAERS). Vaccine 2010;28(40):6609-12.
+
+============================================================
+CHUNK 23
+============================================================
+REFERENCES
+39.  Lee B, Carmolli M, Dickson DM, et al. Rotavirus-speci{c IgA responses are impaired and serve as a sub-optimal correlate of protection among infants in Bangladesh. Clin Infect Dis 2018;67(2):186-92.
+40.  Patel M, Glass RI, Jiang B, et al. A systematic review of anti-rotavirus serum IgA antibody titer as a potential correlate of rotavirus vaccine ef{cacy. J Infect Dis 2013;208(2):284-94.
+41.  Gonzalez R, Franco M, Sarmiento L, et al. Serum IgA levels induced by rotavirus natural infection, but not following immunization with the RRV-TV vaccine (Rotashield), correlate with protection. J Med Virol 2005;76(4):608-12.
+42.  Hemming M, Huhti L, Rasanen S, et al. Rotavirus antigenemia in children is associated with more severe clinical manifestations of acute gastroenteritis. Pediatr Infect Dis J 2014;33(4):366-71.
+43.  Moon  S,  Wang  Y,  Dennehy  P ,  et al.  Antigenemia,  RNAemia,  and innate  immunity  in  children  with  acute  rotavirus  diarrhea.  FEMS Immunol Med Microbiol 2012;64(3):382-91.
+44.  Ramani  S,  Paul  A,  Saravanabavan  A,  et al.  Rotavirus  antigenemia in  Indian  children  with  rotavirus  gastroenteritis  and  asymptomatic infections. Clin Infect Dis 2010;51(11):1284-9.
+45.  Blutt SE, Matson DO, Crawford SE, et al. Rotavirus antigenemia in children is associated with viremia. PLoS Med 2007;4(4):e121.
+46.  Nakagomi T, Nakagomi O. Rotavirus antigenemia in children with encephalopathy accompanied by rotavirus gastroenteritis. Arch Virol 2005;150(9):1927-31.
+
+============================================================
+CHUNK 24
+============================================================
+REFERENCES
+47.  Goldwater PN, Rowland K, Thesinger M, et al. Rotavirus encephalopathy: pathogenesis reviewed. J Paediatr Child Health 2001;37(2):206-9.
+48.  Yokoyama T, Yamada S, Doichi N, Kato E. Rotavirus-infected children with clinically mild encephalopathy with a reversible splenial lesion (MERS). BMJ Case Rep 2013; pii: bcr2013008644.
+49.  Matsuoka T, Yodoshi T, Sugai M, et al. A case of mild encephalopathy with a reversible splenial lesion associated with g5p[6]rotavirus infection. Case Rep Pediatr 2013;2013:197163.
+50.  Incecik F , Herguner MO, Altunbasak S, Solgun H. Acute encephalopathy associated  rotavirus  gastroenteritis.  J  Pediatr  Neurosci  2009;4(2): 141-3.
+51.  Liu J, Gratz J, Amour C, et al. A laboratory-developed T aqMan array card for simultaneous detection of 19 enteropathogens. J Clin Microbiol 2013;51(2):472-80.
+52.  Leva A, Eibach D, Krumkamp R, et al. Diagnostic performance of the luminex xTAG gastrointestinal pathogens panel to detect rotavirus in  Ghanaian children with and without diarrhoea. Virol J 2016;13: 132.
+53.  Bennett A, Bar-Zeev N, Jere KC, et al. Determination of a viral load threshold to distinguish symptomatic versus asymptomatic rotavirus infection in a high-disease-burden African population. J Clin Microbiol 2015;53(6):1951-4.
+

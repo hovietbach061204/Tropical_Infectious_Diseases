@@ -1,0 +1,223 @@
+============================================================
+CHUNK 0
+============================================================
+50
+
+============================================================
+CHUNK 1
+============================================================
+KEY FEATURES
+- Campylobacter jejuni is one of the most common causes of bacterial gastroenteritis in humans worldwide.
+- Barré syndrome (GBS), in|ammatory bowel syndrome (IBS), and reactive arthritis (ReA), contribute signi{cantly to the global burden of disease caused by Campylobacter infections.
+- Campylobacter strains associated with human infections can be attributed to poultry reservoirs.
+- C. jejuni is the most frequently observed antecedent infection in GBS worldwide.
+- has increased the sensitivity of laboratory con{rmation of Campylobacter infections.
+- C. jejuni to |uoroquinolones is a major problem worldwide.
+- treatment of Campylobacter diarrhea in severe, persistent, or relapsing diarrhea and in immunocompromised persons, including pregnant women.
+- Campylobacter infections and its complications is required to reduce the global burden of disease caused by this microorganism.
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+Campylobacter infections among humans are predominantly caused by Campylobacter jejuni and C. coli in both high-income and lowincome countries. NonC. jejuni/coli infections are less frequent, and the clinical relevance and public health importance of some of these species remain unclear. Therefore this chapter will mainly focus on C. jejuni and C. coli. C. jejuni is one of the most common causes of bacterial gastroenteritis in humans worldwide. 1 Serious long-term  complications  of Campylobacter infections  include Guillain-Barré syndrome (GBS), Miller-Fisher syndrome (MFS), functional bowel syndromes such as in|ammatory bowel syndrome (IBS), and reactive arthritis (ReA).
+Campylobacters are  motile,  comma-shaped,  microaerophilic, gram-negative rods that exhibit a corkscrew-like motion produced by a polar, unsheathed |agellum. Campylobacter was {rst identi{ed in 1909, when two British veterinary surgeons reported the isolation of a Vibrio -like organism from aborted sheep fetuses. Vibrio fetus and V. jejuni were the names proposed for these newly identi{ed veterinary pathogens. 2 The {rst well-documented description of a Campylobacter outbreak in humans was published in 1946 and describes a milk-born outbreak of diarrhea in two state institutions in  the  United  Kingdom  involving  355  patients.  Organisms resembling V. jejuni were detected in broth cultures of blood samples from 13 patients. 3 In 1947 Vinzent et al. reported the case histories of three pregnant women with fever of unknown origin. V. fetus was  isolated  from  the  blood  specimens  taken  from  these  three
+
+============================================================
+CHUNK 3
+============================================================
+Campylobacter Infections
+Hubert P. Endtz women. T wo out of three of these pregnancies aborted within 4 weeks of infection, and necrotizing in|ammation was observed on the placentas. In 1957 King described 11 additional bloodstream infections associated with V. fetus and related species, and provided a full bacteriologic, biochemical, and serologic description of the strains. 4,5 V. jejuni and V. coli were later transferred to the genus of Campylobacter . 6
+An association between Campylobacter and diarrhea in humans was not made until the early 1970s; this discovery was precipitated by the advent of mechanical  {ltration methods. The {rst fecal isolation of 'related Vibrio ' from human stools was followed by the {nding that C. jejuni/C. coli were isolated from the stools of 5.3% of 3800 children. 7 As a result of new isolation protocols and selective media based on various combinations of selective antibiotics being rapidly introduced to diagnostic laboratories, Campylobacter diarrhea emerged as the most frequent cause of bacterial diarrhea in humans in high-income countries. 8 Although data are scarce, emerging evidence suggests the burden of Campylobacter -related disease is also considerable in low- and middle-income countries (LMIC). 1
+
+============================================================
+CHUNK 4
+============================================================
+EPIDEMIOLOGY
+Campylobacter is  the  most  common  bacterial  zoonotic  disease observed in most regions of the world. Warm-blooded animals (mammals  and  birds)  are  the  main  reservoir  for Campylobacter. Campylobacter can be isolated from animals reared for food, including poultry,  pigs,  cattle,  and  sheep, 9 as  well  as  companion  animals such as dogs and cats, and wild animals. The presence of Campylobacter in  these  animals is  usually asymptomatic. 9 Transmission of Campylobacter to the human host is facilitated through handling and consumption of animal food products, the environment, and direct animal contact. 9,10 Various reports suggest that 50% to 70% of the Campylobacter strains associated with human infections can be attributed to poultry reservoirs. 9 T argeted and natural interventions  in  Iceland,  New  Zealand,  Belgium, and The  Netherlands have  reduced  the  incidence  of Campylobacter infections  among humans by 40% to 72%. 11-14 Surface water (e.g., drinking water, swimming  water)  also  provides  an  effective  pathway  for  the transmission of Campylobacter to humans. 15
+Food and water have also been described as important pathways of transmission in Campylobacter outbreaks. Though Campylobacter infections are usually  observed as  sporadic  cases,  outbreaks are not uncommon. 16,17
+Campylobacter infections are more common during the summer and  early  autumn  in  the  United  States  and  Europe;  seasonal |uctuations are less pronounced in low-resource countries.
+The  increasing  use  of  culture-independent  diagnostic  tests (CIDTs) has complicated the interpretation and comparison of surveillance data. In the United States, surveillance studies indicated the incidence of culture-con{rmed Campylobacter infections decreased  between  1996  and  2016  to  an  average  of  17.4  cases (con{rmed cases plus CIDT-positive only) per 100,000 in 2016. 18 A similar substantial reduction was also observed in New Zealand, where  the  incidence  decreased  from  400  cases  per  100,000  in 2006 to 135 cases per 100,000 in 2015. 19 The incidence of Campylobacter infections in the European Union varies from 30 to 80 cases per 100,000 per year. 20-22
+Whereas surveillance of enteric infections, including campylobacteriosis, is widely employed in high-income countries, it is
+
+============================================================
+CHUNK 5
+============================================================
+EPIDEMIOLOGY
+rarely attempted in other parts of the world. 1,23 Surveys of children with diarrhea in low-income countries in Asia, Africa, and Latin America have reported Campylobacter isolation rates ranging from 5% to 20%. Adults are rarely infected and are usually asymptomatic, most likely due to acquired immunity, which increases with age. Recent data from studies in Africa have con{rmed Campylobacter infections are highly prevalent in young children. 24 Campylobacter has also been associated with diarrhea and a signi{cant disease burden  in  three  Asian  countries,  though  not  in  four  African countries involved in the same study. 25
+Travelers represent a speci{c population at risk of diarrheal diseases, most frequently caused by bacterial pathogens, including Campylobacter . 26 The  travel  destination  is  probably  the  major determinant of the risk of travelers'  diarrhea. The  highest risk areas include Asia, Africa, and Central and South America. 27 Other determinants are the duration, purpose, style (e.g., backpacking compared with luxury), and season of travel. 28 The travel destination also in|uences the distribution of the varied pathogens commonly isolated from these patients. Campylobacter spp. appear to be more frequently isolated in patients returning from travel in Southeast Asia  than  from  Africa. 26,29 Post-infectious  IBS  is  a  long-term complication of travelers' diarrhea involving Campylobacter. In  a recent meta-analysis, post-infectious IBS was shown to occur in 5.4% of patients with traveler's diarrhea. 30 ReA and GBS are other long-term complications strongly associated with Campylobacter -related travel diarrhea. 28,31
+
+============================================================
+CHUNK 6
+============================================================
+BREASTFEEDING AND INFECTION
+The protection against Campylobacter observed in breastfed infants appears to be mediated through acquired and innate defense factors present  in  human  milk,  including  antibodies,  oligosaccharides, and their glycol-conjugates. Experimentally, human milk oligosaccharides  have  been  shown  to  inhibit  disease  pathogenesis  and reduce  disease  severity  in  a  human  cellular  in  vitro  model  and mouse model of C. jejuni 81-176 infection. 32,33
+
+============================================================
+CHUNK 7
+============================================================
+CLINICAL FEATURES
+A low infective dose of 360 colony forming units (CFU)/mL of C. jejuni can lead to diarrhea in healthy human volunteers, though doses of around 10 5 CFU/mL have the highest illness-to-infection ratio. 34-36 The onset of symptoms usually occurs 1 to 3 days after ingestion. The  most  common  symptoms  are  diarrhea,  malaise, fever,  and  abdominal  pain.  The  clinical  spectrum  ranges  from watery diarrhea to dysentery and may include mesenteric adenitis, which can mimic the clinical signs of appendicitis. In high-income countries ,  C.  jejuni enteritis  can  be quite severe in children and adults. The most prominent symptom is often a bloody diarrhea. However, in low-income countries, C.  jejuni enteritis  is  usually milder, particularly in adults, and more often associated with watery diarrhea. The incidence of diarrhea and duration of illness appear to decrease with age. 37 Asymptomatic infections or intermittent carriership is frequently  observed in adults  in  low-income countries.
+The gastroenteritis is usually self-limited, and may last up to 7  days.  Persistent  abdominal  symptoms  occur  in  a  minority  of patients. Bacteremia seems to be more frequent in younger and elderly patients. Untreated patients typically continue to excrete Campylobacter for  2  to  3  weeks.  Rare  extra-intestinal  infectious sequelae include bacteremia, meningitis, endocarditis,  cellulitis, peritonitis, and brain abscesses.
+Post-infectious  complications  include  IBS,  ReA,  and  GBS. Post-infectious in|ammatory complications usually present within 3 months after infection and GBS often within 3 weeks. 38,39 In a recent publication, 2.86% (95% CI, 1.4%-5.61%), 4.01% (95% CI, 1.41%-10.88%) and 0.07% (95% CI, 0.03%-0.15%) of patients with Campylobacter infections were estimated to develop ReA, IBS, and GBS, respectively. 38 Therefore due to the high prevalence of Campylobacter diarrhea, these complications contribute signi{cantly to the total burden of disease caused by Campylobacter infections.
+
+============================================================
+CHUNK 8
+============================================================
+Guillain-Barré Syndrome
+GBS is an acute, immune-mediated |accid paralysis frequently associated with a variety of preceding infections; C. jejuni is the most frequently observed antecedent infection in GBS worldwide. 39 In a large cohort of patients with GBS from Bangladesh, 57% of patients had laboratory-con{rmed evidence of a recent Campylobacter infection. 40 The estimated incidence of GBS in Bangladesh is 3.25 cases/100,000 children under 15 years old. 41 An estimate of  the  global  incidence  distribution  is  depicted  in  Fig.  50.1. A recent meta-analysis estimated the risk of developing GBS after Campylobacter infection is 0.07% (95% CI, 0.03%-0.15%). 38
+Campylobacter infection leads to GBS by inducing a complementmediated immune response targeting the glycan structures on the surface lipooligosaccharides of certain C. jejuni strains that crossreact with identical glycan structures on human nerve gangliosides. 42 Symptoms of GBS usually occur 1 to 3 weeks after the onset of Campylobacter enteritis. In Bangladesh, Campylobacter -related GBS is  most common in young adults, and is often more severe and associated with an increased mortality compared with patients in Europe or North America. 40 Treatment with intravenous immunoglobulins or plasma exchange, in combination with supportive care, is the optimal patient management. 39 However, these interventions  are  not  available  to the  majority of  patients with  GBS in low-resource countries. Novel, low-cost interventions based on complement  inhibitors  and  small-volume  plasma  exchange  are currently being evaluated as treatment modalities and, if proven ef{cacious, may signi{cantly decrease the disease burden of this serious complication of Campylobacter infections in low-resource countries. 43
+
+============================================================
+CHUNK 9
+============================================================
+Irritable Bowel Syndrome
+Infectious gastroenteritis is the most well-characterized environmental risk factor for the development of IBS. 1,44,45 Studies have reported up to 36% of patients who suffer acute campylobacteriosis develop IBS within 1 to 2 years. 46 However, a recent meta-analysis estimated the risk of Campylobacter infection triggering IBS was 4.01% (95% CI, 1.41%-10.88%). 38 Post-infectious IBS can occur after Campylobacter enteritis  and  usually  manifests  as  persistent abdominal  discomfort,  bloating,  and  diarrhea,  alternating  with constipation that continues even after clearance of the inciting pathogen. 45 However, data on the association between IBS and Campylobacter infections  are  predominantly  from high-resource countries; good data from low-resource countries are lacking. 38
+
+============================================================
+CHUNK 10
+============================================================
+Reactive Arthritis
+Reactive  arthritis  (ReA)  is  an  in|ammatory  type  of  arthritis,  a group of joint diseases characterized by the absence of rheumatoid factors, a familial aggregation, and frequent extra-articular symptoms. An association with HLA-B27 has been reported, but the precise relation is not clear. Acute ReA is characterized by sterile joint in|ammation and typically develops within 3 months after a  gastrointestinal  or  genitourogenital  infection. Various  studies have estimated the risk of ReA associated with Campylobacter to range from 1% to 13%. 15 A more recent meta-analysis found that 2.86%  (95%  CI,  1.40%-5.61%)  of  patients  with C.  jejuni and C. coli infections developed ReA. 38 The joint symptoms vary from mild mono- or oligo-arthralgia to severely disabling polyarthritis,
+Fig. 50.1 Worldwide incidence per 100,000 per year of the Guillain-Barré syndrome among all ages before the epidemic of Zika virus in 2015 to 2017. 61-63
+with a predilection for arthritis of the joints of the lower extremities, particularly  the  knees  and  ankles. 47 Unfortunately,  there  are inadequate data on the prevalence and characteristics of ReA in low-resource countries. 48
+
+============================================================
+CHUNK 11
+============================================================
+LABORATORY DIAGNOSIS AND TYPING
+Stool samples from patients with diarrhea can be transported in conventional containers, but if a delay is anticipated, samples should be placed in transport medium such as Cary-Blair medium and kept cool. Transport medium should always be used to transport rectal swabs.
+Campylobacter is  dif{cult  to  isolate,  grow,  and  identify.  Only C.  jejuni can  be  routinely  identi{ed  using  phenotypic  markers, and commercial systems may misidentify nonC. jejuni species. 1 Stool culture and isolation of C. jejuni and C. coli require specialized, enriched, selective media incubated at 37°C or, preferably, at 42°C under microaerobic conditions. 49 Selective media for Campylobacter can  be  divided  into  two  main  groups:  blood-containing  media and  charcoal-containing  media.  Most  selective  media  include antibiotic mixtures to suppress the growth of other contaminating |ora. 50 Passive {ltration is an alternative culture-based isolation method, which takes advantage of the high motility of Campylobacter, does not require selective media, and can be used in resource-limited settings. The use of selective media and a {lter method has long been advocated to maximize the sensitivity of culture methods. 49,51
+The Global Enteric Multicenter Study (GEMS) is the largest, most comprehensive study of moderate to severe childhood diarrheal diseases ever conducted in developing countries. GEMS was a  3-year,  case-control  study  conducted  at  seven  sites  in  Asia (Pakistan,  India,  Bangladesh)  and  Africa  (The  Gambia,  Kenya, Mali, Mozambique). Based on culture as the only detection method, Campylobacter infection was not signi{cantly associated with diarrhea among any age group at the four African sites, but was associated with  a  signi{cant  disease  burden  in  Bangladesh,  Pakistan,  and India. 25 Re-analysis of the GEMS study using a 32-plex quantitative polymerase chain reaction (PCR) method substantially improved attribution at the population level and clinical diagnostic yield, and indicated six enteropathogens, including Campylobacter, were responsible for a high proportion of disease burden. 52 The use of culture-independent DNA-based detection methods has an impact on surveillance data and improves our understanding of the burden of disease of Campylobacter infections.
+
+============================================================
+CHUNK 12
+============================================================
+LABORATORY DIAGNOSIS AND TYPING
+The increasing use of CIDTs has increased the sensitivity of laboratory con{rmation of Campylobacter infections. In addition to  DNA-based  diagnostic  tools,  several  enzyme  immunoassays have  been  developed  and  marketed.  However,  the  sensitivity, speci{city, and positive predictive value of Campylobacter antigen tests remain highly variable. In a recent study, the sensitivity of stool antigen CIDT s ranged from 79.6% to 87.6%, with speci{city of  95.9%  to  99.5%  and  positive  predictive  value  of  41.3%  to 84.3%. 50 PCR-based assays are now increasingly replacing culture for the detection of Campylobacter in high-income countries. Highly sensitive and speci{c nucleic acid ampli{cation assays have recently been approved by the Food and Drug Administration (FDA), and may be preferable to stool antigen assays as non-culture-based alternatives for detecting Campylobacter in stools. 50 Comparative analyses have also been performed in low-resource countries. In a study performed in T anzania, Peru, and Bangladesh, more than half  of all infections caused by Campylobacter were due to nonC. jejuni or nonC. coli species. 23 The clinical relevance of some the  nonC.  jejuni or  nonC.  coli  Campylobacter species  remains unclear. The implementation of CIDT s will enable better monitoring  of  disease  burden  worldwide.  However,  the  sensitivity  and speci{city of serologic assays need to be validated in low-resource and high-endemic settings; if con{rmed, CIDTs may bring the goal of presumptive diagnosis within reach in these countries. 1
+Until recently, heat-labile protein (Lior) or heat-stable protein (Penner)  serotyping  schemes  were  commonly  used.  However, multilocus sequence typing (MLST) has replaced serotyping, in particular  when  used  for  reservoir  and  pathway  attribution. 9,53 Whole genome sequencing is increasingly being used for clinical and epidemiologic studies. 54
+
+============================================================
+CHUNK 13
+============================================================
+TREATMENT
+Campylobacter enteritis is  often  a self-limited  infection  that does not  require  antimicrobial  treatment. The  most  important
+intervention is  supportive  and rehydration  therapy to  maintain hydration and the electrolyte balance. This treatment can usually be  administered  orally,  though  very  severe  cases  may  require intravenous rehydration. Antimicrobial treatment is indicated in very severe, persistent, or relapsing infections (e.g., bacteremia) and immunocompromised patients (e.g., patients with HIV , agammaglobulinemia, or pregnant women). 49,55 Macrolide antibiotics (e.g., erythromycin, clarithromycin, azithromycin) and |uoroquinolones  are  widely  advocated  as  the  {rst-line  treatment  for Campylobacter diarrhea, though |uoroquinolones are contraindicated in pregnant women.
+Unfortunately,  resistance  of C.  jejuni to  |uoroquinolones  is now a major problem worldwide, especially in Southeast Asia, and markedly limits the ef{cacy of these agents to treat individuals with campylobacteriosis. Fluoroquinolone resistance can be partly attributed to the widespread use of these drugs in animal husbandry after their introduction in the 1980s. 56,57 Typically, resistance levels are negligible in countries where |uoroquinolones are not utilized in livestock and animal husbandry, such as Australia, Finland, and Sweden. 58,59 Resistance to macrolide antibiotics is low but slowly rising. Macrolide antibiotics remain the drugs of choice, though active  surveillance  indicates  resistance  is  emerging. 1 T reatment recommendations for diarrhea usually range from 3 to 7 days. In immunocompromised patients with bacteremia, treatment should be selected on the basis of susceptibility tests. T reatment regimens may include carbapenem antibiotics (e.g., meropenem and imipenem), eventually combined with aminoglycosides.
+
+============================================================
+CHUNK 14
+============================================================
+PREVENTION AND CONTROL
+Prevention of Campylobacter infections can be achieved via interventions  at  different  levels.  Due  to  the  complex  epidemiology  of Campylobacter, a multi-tiered approach to control is required, taking the different reservoirs, pathways, exposures, and risk factors into consideration. 1 Targeted interventions at the food chain level in Iceland and New Zealand have reduced the incidence of human infections  by  74%  and  54%,  respectively. 11,12 At  the  consumer level, appropriate precautions during the handling and preparation of foods of animal origin can reduce cross-contamination. Raw meat and poultry should be cooked adequately. Hands should be washed thoroughly with soap after handling raw foods of animal origin and before touching anything else. Chopping boards used for raw meats should not be used for preparing other foods and should be cleaned thoroughly with soap and hot water.
+Development of vaccines for Campylobacter remains challenging. The cross-reactive complement-mediated immune response against C. jejuni that leads to GBS precludes the use of whole-cell vaccine approaches. Vaccine development is complex due in part to the antigenic diversity and the lack of small animal models. 60 Most recent vaccine studies have focused on recombinant protein subunit antigens and capsular polysaccharide-conjugate vaccines 60 ; these approaches have been used to develop vaccines for other mucosal pathogens. However, as of now, no vaccine is commercially available to prevent Campylobacter infection and complications in humans.
+
+============================================================
+CHUNK 15
+============================================================
+Acknowledgment
+We are grateful to Paola  J. Maurtua-Neumann and Richard A. Oberhelman, who authored a previous version of this chapter.
+
+============================================================
+CHUNK 16
+============================================================
+REFERENCES
+1.  World Health Organisation. Food and Agriculture Organisation of the United Nations, World Organisation for Animal Health. The global view of campylobacteriosis: report of an expert consultation, Utrecht, Netherlands, 9-July 11, 2012. Geneva, Switzerland: WHO; 2013.
+2.  McFadyean J, Stockman S. Report of the Departmental Committee appointed by the Board of Agriculture and Fisheries to inquire into epizonotic abortion. III. Abortion in sheep. London: HMSO; 1913.
+3.  Levy A. A gastro-enteritis outbreak probably due to a bovine strain of vibrio. J Infect Dis 1946;18:243-58.
+4.  Vinzent R, Dumas J, Picard N. Septicémie grave au cours de la grossesse due à un Vibrion. Avortement consécutif. Bull Acad Natl Med 1947;131:90-2.
+5.  King EO. Human infections with Vibrio fetus and a closely related vibrio. J Infect Dis 1957;101:119-28.
+6.  Veron M. The taxonomic position of Vibrio and certain comparable bacteria. C R Acad Sci Hebd Seances Acad Sci D 1965;261(23):5243-6.
+7.  Dekeyser  P , Gossuin-Detrain  M,  Butzler  JP, Sternon  J.  Acute enteritis  due  to  related  vibrio:  {rst  positive  stool  cultures.  J  Infect Dis 1972;125(4):390-2.
+8.  Skirrow  MB.  Campylobacter  enteritis:  a  'new'  disease.  Br  Med  J 1977;2(6078):9-11.
+9.  Wagenaar JA, French NP , Havelaar AH. Preventing Campylobacter at the source: why is it so dif{cult? Clin Infect Dis 2013;57(11):1600-6.
+10.  Domingues AR, Pires SM, Halasa T, Hald T. Source attribution of human campylobacteriosis using a meta-analysis of case-control studies of sporadic infections. Epidemiol Infect 2012;140(6):970-81.
+
+============================================================
+CHUNK 17
+============================================================
+REFERENCES
+11.  Stern  NJ,  Hiett  KL,  Alfredsson  GA,  et al.  Campylobacter  spp.  in Icelandic  poultry  operations  and  human  disease.  Epidemiol  Infect 2003;130(1):23-32.
+12.  Sears A, Baker MG, Wilson N, et al. Marked campylobacteriosis decline after interventions aimed at poultry, New Zealand. Emerg Infect Dis 2011;17(6):1007-15.
+13.  Vellinga A, Van Loock F. The dioxin crisis as experiment to determine  poultry-related  campylobacter  enteritis.  Emerg  Infect  Dis 2002;8(1):19-22.
+14.  Friesema  IH,  Havelaar  AH,  Westra  PP ,  et al.  Poultry  culling  and Campylobacteriosis reduction among humans, the Netherlands. Emerg Infect Dis 2012;18(3):466-8.
+15.  Kaakoush  NO,  Castano-Rodriguez  N,  Mitchell  HM,  Man  SM. Global  Epidemiology  of  Campylobacter  Infection.  Clin  Microbiol Rev 2015;28(3):687-720.
+16.  Little CL, Gormley FJ, Rawal N, Richardson JF. A recipe for disaster: outbreaks of campylobacteriosis associated with poultry liver pate in England and Wales. Epidemiol Infect 2010;138(12):1691-4.
+17.  Batz MB, Hoffmann S, Morris JG Jr. Ranking the disease burden of 14 pathogens in food sources in the United States using attribution data from outbreak investigations and expert elicitation. J Food Prot 2012;75(7):1278-91.
+18.  Marder EP , Cieslak PR, Cronquist AB, et al. Incidence and Trends of Infections with Pathogens T ransmitted Commonly Through Food and the Effect of Increasing Use of Culture-Independent Diagnostic T ests on Surveillance - Foodborne Diseases Active Surveillance Network, 10 U.S. Sites, 2013-2016. MMWR Weekly 2017;66:397-403.
+19.  Lopez L, Roos R, Cressey P, et al. Foodborne Disease Report 2015. Wellington, New Zealand; 2016.
+
+============================================================
+CHUNK 18
+============================================================
+REFERENCES
+20.  Bouwknegt M, van Pelt W, Havelaar AH. Scoping the impact of changes in population age-structure on the future burden of foodborne disease in  the  Netherlands,  2020-2060.  Int  J  Environ  Res  Public  Health 2013;10(7):2888-96.
+21.  Sivadon-T ardy V, Porcher R, Orlikowski D, et al. Increased incidence of Campylobacter jejuni-associated Guillain-Barre syndromes in the Greater Paris area. Epidemiol Infect 2014;142(8):1609-13.
+22.  Steens  A,  Eriksen  HM,  Blystad  H.  What  are  the  most  important infectious diseases among those ≥65 years: a comprehensive analysis on noti{able diseases, Norway, 1993-2011. BMC Infect Dis 2014;14:57.
+23.  Platts-Mills JA, Kosek M. Update on the burden of Campylobacter in developing countries. Curr Opin Infect Dis 2014;27(5):444-50.
+24.  Mason J, Iturriza-Gomara M, O'Brien SJ, et al. Campylobacter infection in  children in Malawi  is common and is frequently associated with enteric virus co-infections. PLoS ONE 2013;8(3):e59663.
+25.  Kotloff KL, Nataro JP , Blackwelder WC, et al. Burden and aetiology of  diarrhoeal  disease  in  infants  and  young  children  in  developing countries (the Global Enteric Multicenter Study, GEMS): a prospective, case-control study. Lancet 2013;382(9888):209-22.
+26.  T ribble DR. Resistant pathogens as causes of traveller's diarrhea globally and impact(s) on treatment failure  and recommendations.  J Travel Med 2017;24(Suppl. 1):S6-12.
+27.  Connor BA, Riddle MS. Post-infectious sequelae of travelers' diarrhea. J Travel Med 2013;20(5):303-12.
+28.  Steffen  R.  Epidemiology  of  travellers' diarrhea.  J  Travel  Med 2017;24(Suppl. 1):S2-5.
+
+============================================================
+CHUNK 19
+============================================================
+REFERENCES
+29.  Shah N, DuPont HL, Ramsey DJ. Global etiology of travelers' diarrhea: systematic review from  1973  to  the  present. Am  J T rop  Med  Hyg 2009;80(4):609-14.
+
+============================================================
+CHUNK 20
+============================================================
+REFERENCES
+30.  Schwille-Kiuntke  J,  Mazurak  N,  Enck  P .  Systematic  review  with metaanalysis: post-infectious irritable bowel syndrome after travellers' diarrhoea. Aliment Pharmacol Ther 2015;41(11):1029-37.
+31.  Jackson BR, Zegarra JA, Lopez-Gatell H, et al. Binational outbreak of Guillain-Barre syndrome associated with Campylobacter jejuni infection, Mexico and USA, 2011. Epidemiol Infect 2014;142(5):1089-99.
+32.  Morrow AL, Ruiz-Palacios GM, Jiang X, Newburg DS. Human-milk glycans that inhibit pathogen binding protect breast-feeding infants against infectious diarrhea. J Nutr 2005;135(5):1304-7.
+33.  Yu ZT, Nanthakumar NN, Newburg DS. The Human Milk Oligosaccharide  2'-Fucosyllactose  Quenches  Campylobacter  jejuni-Induced In|ammation in Human Epithelial Cells HEp-2 and HT-29 and in Mouse Intestinal Mucosa. J Nutr 2016;146(10):1980-90.
+34.  Black RE, Levine MM, Clements ML, et al. Experimental Campylobacter jejuni infection in humans. J Infect Dis 1988;157(3):472-9.
+35.  Hara-Kudo Y, T akatori K. Contamination level and ingestion dose of foodborne pathogens associated with infections. Epidemiol Infect 2011;139(10):1505-10.
+36.  Medema GJ, T eunis PF, Havelaar AH, Haas CN. Assessment of the doseresponse relationship of Campylobacter jejuni. Int J Food Microbiol 1996;30(1-2):101-11.
+37.  Oberhelman R, T aylor DE. Campylobacter infectios in developing countries. In: Nachamkin I, Blaser MJ, editors. Campylobacter. ASM Press; 2000. p. 139-53.
+
+============================================================
+CHUNK 21
+============================================================
+REFERENCES
+38.  Keithlin J, Sargeant J, Thomas MK, Fazil A. Systematic review and metaanalysis of the proportion of Campylobacter cases that develop chronic sequelae. BMC Public Health 2014;14:1203.
+39.  Willison HJ,  Jacobs  BC,  van  Doorn  PA.  Guillain-Barré  syndrome. Lancet 2016;388(10045):717-27.
+40.  Islam Z, Jacobs BC, van Belkum A, et al. Axonal variant of Guillain-Barré syndrome  associated  with  Campylobacter  infection  in  Bangladesh. Neurology 2010;74(7):581-7.
+41.  Islam Z, Jacobs BC, Islam MB, et al. High incidence of Guillain-Barré syndrome in children, Bangladesh. Emerg Infect Dis 2011;17(7):1317-18.
+42.  Goodfellow JA, Willison HJ. Guillain-Barré syndrome: a century of progress. Nat Rev Neurol 2016;12(12):723-31.
+43.  Islam MB, Islam H, Rahman S, et al. Small volume plasma exchange for Guillain-Barré syndrome in resource-limited settings: a phase II safety and feasibility study. BMJ Open 2018;8:e022862. Pilot Feasibility Stud 2017;3:40.
+44.  Halvorson HA, Schlett CD, Riddle MS. Postinfectious irritable bowel syndrome-a meta-analysis. Am J Gastroenterol 2006;101(8):1894-9, quiz 942.
+45.  Thabane  M,  Kottachchi  DT,  Marshall  JK.  Systematic  review  and metaanalysis: the incidence and prognosis of post-infectious irritable bowel syndrome. Aliment Pharmacol Ther 2007;26(4):535-44.
+46.  Spiller R, Garsed  K. Postinfectious irritable bowel syndrome. Gastroenterology 2009;136(6):1979-88.
+47.  Pope JE, Krizova A, Garg AX, et al. Campylobacter reactive arthritis: a systematic review. Semin Arthritis Rheum 2007;37(1):48-55.
+
+============================================================
+CHUNK 22
+============================================================
+REFERENCES
+48.  Ajene AN, Fischer Walker CL, Black RE. Enteric pathogens and reactive arthritis: a systematic review of Campylobacter, salmonella and Shigella associated reactive arthritis. J Health Popul Nutr 2013;31(3):299-307.
+49.  Butzler JP . Campylobacter, from obscurity to celebrity. Clin Microbiol Infect 2004;10(10):868-76.
+50.  Fitzgerald C, Patrick M, Gonzalez A, et al. Multicenter Evaluation of Clinical Diagnostic Methods for Detection and Isolation of Campylobacter spp. from Stool. J Clin Microbiol 2016;54(5):1209-15.
+51.  Endtz HP, Ruijs GJ, van Klingeren B, et al. Quinolone resistance in campylobacter isolated from man and poultry following the introduction of |uoroquinolones in veterinary medicine. J Antimicrob Chemother 1991;27(2):199-208.
+52.  Liu J, Platts-Mills JA, Juma J, et al. Use of quantitative molecular diagnostic methods to identify causes of diarrhoea in children: a reanalysis of the GEMS case-control study. Lancet 2016;388(10051):1291-301.
+53.  Maiden MC, Jansen van Rensburg MJ, Bray JE, et al. MLST revisited: the gene-by-gene approach to bacterial genomics. Nat Rev Microbiol 2013;11(10):728-36.
+54.  Llarena AK,  T aboada  E,  Rossi  M.  Whole-Genome  Sequencing  in Epidemiology of Campylobacter jejuni Infections. J Clin Microbiol 2017;55(5):1269-75.
+55.  McDonald  SD,  Gruslin  A.  A  review  of  Campylobacter  infection during pregnancy: a focus on C. jejuni. Prim Care Update Ob Gyns 2001;8:253-7.
+56.  Endtz HP, Ruijs GJ, Zwinderman AH, et al. Comparison of six media, including a semisolid agar, for the isolation of various Campylobacter species from stool specimens. J Clin Microbiol 1991;29(5):1007-10.
+
+============================================================
+CHUNK 23
+============================================================
+REFERENCES
+57.  Endtz  HP ,  Mouton  RP,  van  der  Reyden T,  et al.  Fluoroquinolone resistance in Campylobacter spp isolated from human stools and poultry products. Lancet 1990;335(8692):787.
+58.  Cheng AC, T urnidge J, Collignon P , et al. Control of |uoroquinolone resistance through successful regulation, Australia. Emerg Infect Dis 2012;18(9):1453-60.
+59.  Wieczorek K, Osek  J. Antimicrobial resistance mechanisms among Campylobacter. Biomed Res Int 2013;2013:340605.
+60.  Riddle MS, Guerry P . Status of vaccine research and development for Campylobacter jejuni. Vaccine 2016;34(26):2903-6.
+61.  McGrogan A,  Madle  GC,  Seaman  HE,  de Vries  CS.  The  Epidemiology  of  Guillain-Barré  syndrome  worldwide.  Neuroepidemiol 2009;32:150-63.
+62.  Sejvar JJ, Baughman AL, Wise M, Morgan OW. Population incidence of Guillain-Barré syndrome: a systematic review and meta-analysis. Neuroepidemiol 2011;36:123-33.
+63.  Rivera-Lillo G, T orres-Castro R, Burgos PI, et al. Incidence of GuillainBarré syndrome in Chile: a population-based study. J Peripher Nerv Syst 2016;21:339-44.
+

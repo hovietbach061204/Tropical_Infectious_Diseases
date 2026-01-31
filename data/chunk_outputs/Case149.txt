@@ -1,0 +1,146 @@
+============================================================
+CHUNK 0
+============================================================
+Key features
+- Botulism is a rare paralytic illness caused by potent neurotoxins produced by Clostridium botulinum
+- Botulism typically presents with bilateral cranial nerve palsies followed by symmetrical descending *accid paralysis and occasional progression to respiratory muscle weakness. The four 'Ds' are the key clues-dysphonia, dysphagia, dysarthria and descending paralysis
+- Clostridial spores are ubiquitous in the environment and botulism is presumed to occur worldwide, but underreporting is signi+cant
+- Several naturally occurring forms are recognized: foodborne botulism, wound botulism, infant botulism and adult intestinal toxemia botulism
+- Food-borne disease remains a signi+cant problem in countries where home-preservation of food is popular
+- Wound botulism has increased in recent years as a result of an epidemic among injecting drug users
+
+============================================================
+CHUNK 1
+============================================================
+INTRODUCTION
+Botulism  is  a  rare,  naturally-occurring  paralytic  illness  caused  by potent  neurotoxins  produced  by Clostridium  botulinum and,  rarely, other Clostridium species. It manifests as a characteristic syndrome of symmetrical  cranial  nerve  palsies  followed,  to  a  varying  extent,  by symmetrical  descending  paralysis  of  voluntary  muscle  that  can progress to respiratory compromise and death. Botulinum spores are ubiquitous in the natural environment and cases occur worldwide, although they are probably greatly under-reported.
+The first complete clinical description of botulism was published by Kerner in 1822 who termed the disease 'sausage poisoning', having observed outbreaks associated with the consumption of spoiled meat. The early 20th century saw a massive rise in cases of botulism owing to the increasing popularity of food canning. Following the elucidation of its mechanism of action in the mid-20th century, the potential therapeutic use of botulinum toxin has been exploited [1-3].
+
+============================================================
+CHUNK 2
+============================================================
+EPIDEMIOLOGY
+Attempts to describe the global epidemiology of botulism are hampered by the lack of detailed incidence data [4]. In particular, there is a complete absence of data from Africa. As C. botulinum spores  are ubiquitous in the environment, it is presumed that cases occur globally, although rates may vary with dietary customs and food handling practices.
+
+============================================================
+CHUNK 3
+============================================================
+Food-borne Botulism
+Food-borne  botulism  is  caused  by  consumption  of  food  contaminated with preformed botulinum toxin. It is usually associated with
+
+============================================================
+CHUNK 4
+============================================================
+St e phe n J  A st on ,   Nic holas J B e e c hin g
+uncooked food products as heating food to > 85°C for more than five minutes  inactivates  toxin.  Although  botulinum  spores  may  potentially  contaminate many foodstuffs, germination and toxin production only occur when spores are incubated in an anaerobic, low-salt milieu at greater than 4°C. The processes of canning and fermentation of foods are particularly conducive to producing such conditions. Effective methods of inactivating spores introduced in the early 20th century mean that outbreaks of food-borne botulism attributable to commercially  canned  foods  are  now  rare.  However,  home-canned foods  continue  to  be  a  major  source  of  intoxication,  especially  in Eastern Europe and the southern USA [5]. There is an exceptionally high incidence of food-borne botulism in Alaska attributable to the widespread consumption of fermented aquatic mammal meat [6].
+
+============================================================
+CHUNK 5
+============================================================
+Wound Botulism
+Wound botulism follows the absorption of toxin produced by organisms contaminating a wound site, so clinical incubation periods are longer than for botulism caused by food which contains preformed toxin.  Cases  have  increased  in  developed  countries  in  recent  years, driven by an epidemic among injecting drug-users and strongly associated with the practice of injecting into the subcutaneous tissues or muscle, known as 'skin-' or 'muscle-popping' . The majority of cases occur  in  the  USA  [7].  Sporadic  cases  of  botulism  associated  with contaminated compound fractures are occasionally reported.
+
+============================================================
+CHUNK 6
+============================================================
+Infant Botulism
+Infant botulism is caused by the endogenous production of toxin by C. botulinum that has colonized the infant gastrointestinal tract following the germination of ingested spores [8]. In 2008, 83 cases, representing  70%  of  total  botulism  cases,  were  reported  in  the  USA. Ingestion  of  honey,  which  is  often  contaminated  by C.  botulinum spores, was implicated in the majority of early cases. More recently, concerns have been raised  over  the potential  for  contamination  of commercial powdered infant formula and corn-syrup. A few cases of a similar syndrome have been described in adults and has been termed ' adult intestinal toxemia botulism ' , and is associated with gastrointestinal surgery, inflammatory bowel disease and/or antimicrobial use.
+Iatrogenic botulism following the direct inoculation of concentrated botulinum  toxin  preparations for cosmetic purposes  has  been reported. Intoxication following absorption of toxin across the respiratory  mucosa,  termed  inhalational  botulism,  has  also  been  rarely reported.
+
+============================================================
+CHUNK 7
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+Clostridium  botulinum are  anaerobic,  Gram-positive,  spore-forming bacilli  that  are  found  in  soils  and  aquatic  sediments.  Strains  of C. botulinum are classified into seven types, designated A to G, according to the antigenic properties of the botulinum toxin they produce. Human botulism is caused by types A, B, E and, rarely, type F. Some strains of Clostridium baratii and Clostridium butyricum can also produce botulinum neurotoxin and have been implicated in human disease. The  spores  of C.  botulinum are  highly  resistant.  Under  appropriate conditions,  they  germinate  to  release  vegetative  organisms  that
+produce neurotoxin.  Following  absorption  and  hematogenous  dissemination, botulinum toxin exerts its effects at the presynaptic terminals of cholinergic nerve junctions by blocking neurotransmitter release.
+
+============================================================
+CHUNK 8
+============================================================
+CLINICAL FEATURES
+The clinical presentation of all forms of botulism is dominated by neurologic features resulting from the toxin-induced blockade of voluntary motor and autonomic cholinergic junctions.
+In adults, cranial nerve palsies are almost always the initial presenting symptoms. Extraocular muscle paresis results in blurred, or double, vision. Marked ptosis is usually evident and pupillary responses may also  be  depressed.  The  face  may  appear  expressionless  as  a  consequence  of  bilateral  facial  nerve  dysfunction.  Involvement  of  lower cranial nerves causes dysphonia, dyarthria and dysphagia. Early autonomic involvement causes anhydrosis leading affected individuals to complain  of  extremely  dry,  and  often  painful,  mouth,  tongue  and throat.
+Disease progression manifests as a symmetrical, flaccid, descending paralysis of voluntary muscles  associated with  loss of  deep tendon reflexes. Involvement of the diaphragm and accessory thoracic muscles may result in respiratory compromise and death  unless supportive care is provided. Because of the generalized lack of motor function, respiratory failure often occurs without apparent features of respiratory distress and may be overlooked until very advanced. Significant pharyngeal muscle weakness causing airway compromise may necessitate intubation and ventilation, even in the absence of respiratory muscle weakness. Progressive autonomic involvement leads to constipation, urinary retention and hemodynamic dysregulation.
+Fever is usually absent, except in some cases of wound botulism when it probably indicates concurrent wound infection with other bacteria. Sensory nerves are unaffected by botulinum toxin. Similarly, there is no effect  on level  of  consciousness or cognitive function, although the features of expressionless facies and dysarthria are often mistaken for alcohol or drug intoxication.
+The extent, severity and rate of progression of clinical features vary, and not all untreated cases progress to respiratory muscle paralysis. Some  affected  individuals  only  develop  cranial  nerve  palsies  that gradually resolve without any other features of botulism becoming evident. Botulinum toxin binding is irreversible, and recovery of function depends on nerve terminal regeneration. Individuals with respiratory  compromise  typically  require  ventilatory  support  for  2-8 weeks, although, occasionally, recovery is much more protracted.
+
+============================================================
+CHUNK 9
+============================================================
+CLINICAL FEATURES
+In  food-borne  disease,  the  neurologic  features  of  botulism  may  be preceded by abdominal pain, nausea, vomiting and diarrhea, although at  the  time  of  neurologic  manifestation,  constipation  is  common. Such gastrointestinal  disturbance  has  not  been  reported  in  wound botulism and probably represents the effect of other bacteria and their toxins  co-contaminating  the  causative  improperly  preserved  food. Clinical  effects  of  botulinum  toxin  usually  become  evident  18-36 hours after consumption of the implicated foodstuff.
+
+============================================================
+CHUNK 10
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+In the context of a large outbreak in which multiple patients present with combinations of cranial nerve palsies and subsequent development of descending flaccid paralysis, botulism is easily recognizable. However, it is a rare condition, and the majority of cases occur singularly,  meaning  that  the  diagnosis  is  often  delayed  or  missed altogether.
+Botulism should be suspected in any adult with acute-onset gastrointestinal, autonomic and cranial nerve dysfunction. The four 'Ds' are the key clues: dysphonia, dysphagia, dysarthria and descending paralysis. Demonstration of bilateral cranial nerve findings and evidence of  neurologic  progression  increase  the  level  of  suspicion.  Reported recent  consumption  of  home-canned  foods  or  similar  illness  in
+
+============================================================
+CHUNK 11
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+TABLE 56-1 Di5erential diagnoses (in alphabetical order), 1 = TABLE 56-1 Di5erential diagnoses (in alphabetical order). Di0erential diagnosis, 1 = Distinguishing features. CNS infections, 1 = Altered mental status; abnormal CSF; EEG changes. CNS space-occupying lesion, 1 = Asymmetrical weakness and upper motor neurone signs; abnormal brain imaging. Diabetic neuropathy, 1 = Sensory features; limited cranial nerve involvement. Diphtheria, 1 = Antecedent pharyngitis; sensory features; associated cardiac complications. Eaton-Lambert syndrome, 1 = Similar EMG 3ndings; often evidence of underlying lung cancer. Electrolyte disturbances (e.g. hypermagnesemia), 1 = Abnormal serum electrolytes. Guillain-Barré syndrome, 1 = Ascending paralysis with early are4exia; history of antecedent infection; raised CSF protein; abnormal nerve conduction studies. Hyperthyroidism, 1 = Thyrotoxic features; abnormal thyroid function tests. In4ammatory myopathy, 1 = Elevated creatine kinase; EMG 3ndings. Intoxication (e.g. alcohol, drugs, carbon monoxide), 1 = History of exposure; CNS features; elevated serum drug levels. Myasthenia gravis, 1 = Fatiguable muscle weakness with positive response to edrophonium; acetylcholine receptor antibodies; decrease in muscle action potentials with repetitive stimulation. Organophosphate poisoning, 1 = History of exposure; prominent cholinergic features (e.g. rhinorrhea, excess salivation, bronchospasm) before onset of paralysis. Paralytic shell3sh poisoning, 1 = History of shell3sh ingestion; rapid disease onset; sensory 3ndings. Poliomyelitis, 1 = Travel to endemic region; antecedent febrile illness; asymmetrical weakness; CSF pleocytosis and elevated protein. Psychiatric conversion disorder, 1 = Normal EMG; atypical or inconsistent neurologic signs. Stroke, 1 = Asymmetrical weakness and upper motor neurone signs; abnormal brain imaging. Tick paralysis, 1 = Resident or traveler to endemic areas; ascending paralysis often with paresthesiae; tick attached to skin; abnormal nerve
+
+============================================================
+CHUNK 12
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+conduction
+CNS, central nervous system; CSF, cerebrospinal 4uid; EEG,
+electroencephalography; EMG, electromyography.
+family  members  or  close  contacts  provides  further  supporting  evidence for the diagnosis. Alternatively, features of injecting drug use are highly suggestive.
+Important differential diagnoses  to consider when  botulism is suspected  include  alcohol  or  drug  misuse,  Guillain-Barré   syndrome
+(GBS),  myasthenia  gravis,  stroke  syndromes,  Eaton-Lambert  syndrome and tick paralysis. Table 56-1 includes other differential diagnoses with important distinguishing features.
+GBS typically presents as an ascending paralysis and there is often a history  of  antecedent  infection.  Distinguishing  botulism  from  the triad  of  ophthalmoplegia, ataxia  and  areflexia  that  characterize  the Miller Fisher variant, is often more difficult. However, in contrast to botulism, areflexia typically precedes the onset of significant muscle weakness  in  GBS.  Fatiguable  muscle  weakness  is  the  hallmark  of myasthenia  gravis.  A  marked  improvement  with  administration  of edrophonium  is  highly  suggestive  of  myasthenia  gravis,  although about 25% of patients with botulism show some response. Patients with Eaton-Lambert syndrome usually have clinically apparent lung cancer,  although  electromyographic  findings  are  indistinguishable from botulism. The asymmetrical weakness and upper motor neurone signs caused by most stroke syndromes should be readily distinguishable  from  botulism  on  clinical  examination.  Tick  paralysis  causes paresthesiae  and  ascending  paralysis;  the  diagnosis  is  particularly apparent if the tick is still attached.
+
+============================================================
+CHUNK 13
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+Cerebrospinal fluid analysis may be useful; protein levels are normal in  botulism  compared  with  GBS,  where  they  are  typically  raised, although this may not be apparent until several days after symptom onset.  Electromyography (EMG) may also be helpful. In particular, repetitive stimulation at high frequencies shows facilitation of muscle action  potentials  in  botulism  that  is  not  evident  in  either  GBS  or myasthenia gravis. EMG is best performed and interpreted by an experienced operator, as results may vary between muscle groups. To avoid false-negative  results,  it  is  essential  that  clinically  affected  muscle groups are tested. Brain imaging by computed tomography (CT) or magnetic resonance imaging (MRI) should be used to uncover the rare brain stem stroke syndromes that produce symmetrical bulbar palsies.
+Definitive laboratory confirmation of botulism requires the demonstration of toxin in specimens of patient serum, gastric secretions or stool  or,  in  the  case  of  food-borne  botulism,  a  food  sample.  The standard method for the  demonstration of botulinum toxin is the mouse lethality bioassay in which mice are observed for the presence of botulism-specific symptoms following intraperitoneal injection of extracts of clinical specimens. It is performed in only a limited number of laboratories and there is a significant false-positivity rate. Moreover, it  cannot  be  used  as  a  basis  for  clinical  management  decisions  as results may not be available for up to four days. Several rapid in vitro assays are currently in development, but none are yet widely standardized as adequate replacements for mouse bioassays to confirm botulism diagnosis.
+
+============================================================
+CHUNK 14
+============================================================
+TREATMENT
+The core principles of botulism management are the early administration of antitoxin and the prompt recognition of respiratory compromisation, allowing the timely implementation of ventilatory support. Having been as high as 70%, the current mortality rate from botulism is less than 5% where adequate intensive care is available.
+Most antitoxin preparations contain combinations of equine-derived antibodies  directed  against  specific  botulinum  toxin  serotypes  [9]. The only preparation for which there is prospective comparative trialbased evidence of effectiveness is the use of human-derived botulinum  immune  globulin  for  the  treatment  of  infant  botulism  [3]. Systemic administration of antitoxin neutralizes botulinum toxin that is not yet bound to nerve terminals and thus arrests further disease progression. In retrospective series of food-borne botulism, its early use is associated with a reduction in mortality and shortening of the duration of respiratory failure requiring ventilatory support. Hypersensitivity  reactions,  including  anaphylaxis,  have  previously  been  a significant  concern,  although using currently recommended  dosing schedules serious reactions are seen in < 1% patients.
+The use of antitoxin  is  indicated  on  the  basis  of  clinical  suspicion of  botulism  and  treatment  should  not  be  delayed  while  waiting for the results of laboratory investigations. Botulinum antitoxins are generally given by slow intravenous infusion. Vital signs should be monitored carefully  during  administration  and  medication  for  the management of acute allergic reactions should be readily available. Some  national  guidelines  recommend  repeat  treatment  within  24 hours if the patient continues to deteriorate.
+All patients with botulism should be managed in a high-dependency setting to facilitate close monitoring. Ventilatory support should be promptly instituted upon development of respiratory compromisation, indicated by diminishing vital capacity; up to 50% of patients with  food-borne  botulism  require  ventilatory  support.  Meticulous attention  should  be  paid  to  the  prevention  and  early  treatment  of nosocomial infection and to the maintenance of adequate nutritional status.  Attendants  should  remember  that,  unlike  many  patients  on ventilatory support, patients with botulism are fully awake and have no sensory deficits, unless they have specifically received sedation.
+
+============================================================
+CHUNK 15
+============================================================
+TREATMENT
+In wound botulism, appropriate management of the wound is also essential in order to prevent relapse caused by ongoing toxin production by persisting vegetative organisms after antitoxin has been cleared from the body. All wounds should be surgically debrided and treated with  antibiotics  until  completely  healed.  Relevant  wounds  may appear trivial or innocuous, and the presence of deep-seated abscesses should be always considered.
+Upon suspicion of a diagnosis of botulism, the local public health authorities should be contacted immediately. Investigations should be undertaken to rapidly identify other possible cases and suspected food  exposures,  as  rapid  control  measures  such  as  impounding home-canned foods or emergency products recalls may need to be instigated.
+
+============================================================
+CHUNK 16
+============================================================
+PEDIATRIC CONSIDERATIONS CLINICAL FEATURES
+Constipation  is  usually  the  first  manifestation  of  infant  botulism. Over 1-2 weeks, neurologic features develop leading to presentations with a weakened cry, diminished feeding and an increasingly 'floppy' infant as descending paresis occurs. Examination reveals hypotonia, loss  of  facial  expression,  extraocular  muscle  weakness  and  dilated pupils. The extent and severity of clinical features is highly variable, ranging from mild hypotonia to severe flaccid paralysis. Up to 70% of  patients  require  intubation  and  ventilation,  although  mortality rates are < 1%.
+
+============================================================
+CHUNK 17
+============================================================
+TREATMENT
+Historically, equine-derived antitoxin has not been used to treat infant botulism because of concerns regarding serious hypersensitivity reactions  and  an  inadequate  duration  of  therapeutic  effect.  A  humanderived  antitoxin  product,  known  as  BabyBIG,  has  been  recently developed. A randomized, controlled trial demonstrated that when administered early in the disease course it significantly reduces the duration of mechanical ventilation and length of hospital stay [3].
+
+============================================================
+CHUNK 18
+============================================================
+REFERENCES
+1. Sobel J. Botulism. Clin Infect Dis 2005;41:1167-73.
+2. Centers for Disease Control and Prevention: Botulism in the United States, 1899-1996.  Handbook  for  Epidemiologists,  Clinicians,  and  Laboratory Workers. Atlanta: Centers for Disease Control and Prevention; 1998.
+3. Chalk C, Benstead TJ, Keezer M. Medical treatment for botulism. Cochrane Database Syst Rev 2011;3:CD008123.
+4. Reller ME, Douce RW, Maslanka SE, et al. Wound botulism acquired in the Amazonian rain forest of Ecuador. Am J Trop Med Hyg 2006;74:628-31.
+5. Sobel J, Tucker N, Sulka A, et al. Food-borne botulism in the United States, 1990-2000. Emerg Infect Dis 2004;10:1606-11.
+6. Fagan RP, McLaughlin JB, Castrodale LJ, et al. Endemic foodborne botulism among  Alaska  Native  persons-Alaska,  1947-2007.  Clin  Infect  Dis  201 1; 52:585-92.
+7. Werner SB, Passaro D, McGee J, et al. Wound botulism in California, 19511998: Recent epidemic in heroin injectors. Clin Infect Dis 2000;31:1018.
+8. Brook I. Infant botulism. J Perinatol 2007;27:175-80.
+9. Tacket  CO, Shandera  WX,  Mann JM,  et al.  Equine  antitoxin  use  and  other factors  that  predict  outcome  in  type  A  food-borne  botulism.  Am  J  Med 1984;76:794-8.
+

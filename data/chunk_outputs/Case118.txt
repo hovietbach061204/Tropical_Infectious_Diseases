@@ -1,0 +1,275 @@
+============================================================
+CHUNK 0
+============================================================
+Key features
+- Traditional medicines are used by many patients in all countries
+- Although in part a profession, traditional medicine is often a home-based, familial practice
+- Some traditional treatments are safe and some are unsafe or have adverse eGLYPH<c=31,font=/CIDFont+F8>ects
+- Some have been proven eGLYPH<c=31,font=/CIDFont+F8>ective through controlled clinical trials; some have been shown ineGLYPH<c=31,font=/CIDFont+F8>ective
+- An open-minded, critical and respectful perspective on traditional medicine is fundamental for a good professional partnership with the patients and the population
+- In resource-poor areas, traditional medicines may not be a choice, but the only accessible form of healthcare. Such local resources may have a positive impact on the population health
+
+============================================================
+CHUNK 1
+============================================================
+DEFINITION
+The local health traditions of developing countries and of indigenous communities are commonly referred to as 'traditional medicine' . As most have a theoretical basis, materia medica, a range of therapeutic modalities,  an  empirical  approach  to  treatment  and  a  tradition  of training, a more appropriate term is 'traditional health systems' .
+
+============================================================
+CHUNK 2
+============================================================
+GENERAL PRINCIPLES
+This chapter presents an overview of the question: how can a modern, Western-style  health professional  deal today with  the  major health traditions of regions in which tropical and traditional health systems interface? Survey chapters typically provide breadth of coverage at the expense of depth. However,  the 'References' contains publications that provide deeper coverage of the traditions, their treatment modalities and their efficacy.
+
+============================================================
+CHUNK 3
+============================================================
+TRADITIONAL MEDICINE IS WIDELY USED
+What has become clear  since the  publication  of  the  World  Health Organization (WHO) Global Atlas on Traditional, Complementary
+
+============================================================
+CHUNK 4
+============================================================
+Gerard Bodeker, Bertrand Graz
+and  Alternative  Medicine  in  2005  [1],  is  that  the  majority  of  the population in most developing countries rely on traditional medicine for their everyday health needs, often integrating it on an ad hoc basis with modern medicines [1].
+Considerable use of traditional medicine exists in many developing countries: 40% in China and Colombia, 71% in Chile, while utilization in some African countries is estimated at 80% and above [2]. It can sometimes be difficult to differentiate what is traditional medicine and what is not, as in the example of the 'kangaroo mother care' for preterm babies: although a 'low-technology' method, it is actually a recent treatment modality [3].
+
+============================================================
+CHUNK 5
+============================================================
+TRADITIONAL MEDICINE IS OFTEN THE FIRST TREATMENT USED
+There are many reasons why patients use traditional medicine. First, they may be in a remote location where modern medicine is simply not available when they need it. For cultural reasons, they may prefer traditional  medicine, for example in  an attempt to have  fewer side effects. They may also have experienced a failure with a modern treatment and want to try a traditional one. Modern health facilities are sometimes avoided because they are perceived as expensive, dangerous, unfriendly or run with corruption. Patients may also fear the fact that many modern medicines sold on the market are counterfeit or 'fake' drugs.
+
+============================================================
+CHUNK 6
+============================================================
+TRADITIONAL MEDICINE MAY INTERACT WITH MODERN TREATMENT
+Some traditional treatments have known interactions with modern treatment. An example is St John's wort ( Hypericum perforatum ). It has become one of the most prescribed antidepressants, but must be used with caution by patients taking other drugs such as the contraceptive pill and some antiretroviral drugs, among others.
+Therefore,  it  is  prudent  for  physicians  to  discuss  traditional  medicine  use  with  their  patients.  It  is  also  useful  to  have  some  background in the safety, benefits and herb-drug interactions that may be  involved,  as  well  as  familiarity  with  databases  which  provide such information.
+
+============================================================
+CHUNK 7
+============================================================
+TRADITIONAL MEDICINE MAY, IN SOME CASES, BE A VALUABLE OPTION
+Most physicians are unaware that a considerable amount of clinical research  has  already  been  conducted  and  published  on  traditional medicine. It is therefore incorrect to state that there is 'no evidence of effectiveness' . As a matter of professional ethics, doctors need to know the present state of this knowledge through a regular check of the literature. If  a  treatment has  a  proven  effectiveness  and a  good safety profile, this also must be known. In the same manner, if a treatment (e.g. a herbal tea) has potential secondary effects, doctors need to know this also (Box 25.1).
+
+============================================================
+CHUNK 8
+============================================================
+BOX 25.1  Databases on Complementary and Traditional Medicine
+- Cochrane Complementary Medicine Group (http:// cochrane.org/reviews/en/topics/22_reviews.html).
+- University of Maryland School of Medicine Cochrane CAM Field o6ers summary of 7ndings tables and plain language summaries of CAM-related Cochrane reviews ( http:// www.compmed.umm.edu/cochrane_about.asp).
+- HerbMed:  scienti7c  data  on  the  use  of  herbs  for  health (www.herbmed.org).
+- MedicinesComplete: on interactions, clinical evidence, mechanisms of action (www.medicinescomplete.com).
+- Natural Medicines Comprehensive Database (www. naturaldatabase.com). Contains 'The Natural Product/Drug Interaction  Checker'  and 'The  Natural  Products  E6ectiveness Checker' .
+- Globinmed (www.globinmed.com) has a section related to intellectual property rights and the development of traditional medicine.
+
+============================================================
+CHUNK 9
+============================================================
+CAN THE EFFECTIVENESS OF TRADITIONAL MEDICINE BE EVALUATED?
+Traditional medicine can be evaluated as any other medicine. In most cases, it is possible to use a standard research method. For example, it is straightforward to organize a randomized, controlled trial (RCT) of a herbal treatment, provided one can make a placebo. For acupuncture trials, a 'placebo acupuncture' (called 'sham acupuncture') has been developed for control groups in clinical studies. Even very individualized  treatments,  such  as  complex  mental  techniques,  can  be evaluated through a prospective, randomized, controlled trial. Sometimes  blinding  (which  makes  it  impossible  to  know  whether  the 'real'  treatment  is  given  or  the  placebo)  is  impossible,  just  as  for surgery research, but non-blinded studies can still be of high value.
+Contrary to a commonly held myth, clinical studies (even RCTs) can be conducted at a relatively low cost if the researcher works with local/ regional research institutes and with doctoral students, focusing on meaningful  clinical  measures  rather  than  sophisticated  laboratory analyses.
+Recent studies on traditional medicine have begun to change perspectives on its effects and its role in the health of various populations. The safety and effectiveness of some traditional medicines have been studied, paving the way to better collaboration between modern and traditional  systems.  Traditional  medicines  still  remain  a  largely untapped health resource: they are not only sources of new leads for drug discoveries, but can also provide novel approaches that may have direct public health and economic impacts [4].
+
+============================================================
+CHUNK 10
+============================================================
+SOME EXAMPLES OF EFFECTIVE TRADITIONAL TREATMENTS
+The  number  of  traditional  treatments  that  have  been  scrutinized through  clinical  studies  is  high  ( > 1500  clinical  studies  at  the  last count).
+
+============================================================
+CHUNK 11
+============================================================
+Malaria: from Local Practice to Global Solution
+Cinchona and Artemisia annua have provided the basis for two of the three  main  classes  of  anti-malarials  [5,  6],  and  many  other  plants contain antimalarial agents.
+FIGURE  25.1 The  traditional  healer  Thiemoko  Bengaly  and  the  plant Argemone mexicana used in his decoction against malaria (South Mali).
+
+============================================================
+CHUNK 12
+============================================================
+Case Study
+It started  with a 'retrospective  treatment-outcome' population survey  in  Mali  that  showed  that  all  patients  using  a  decoction  of Argemone mexicana (Fig. 25.1) for uncomplicated malaria reported a complete cure  with  very  few  side-effects  [7].  Subsequently,  a  doseescalating prospective study showed a dose-response phenomenon [8].  A  prospective,  randomized,  controlled  trial was organized in  a remote village: the 'control' treatment was the artemisinin combination therapy (ACT) artesunate-amodiaquine. Deterioration to severe malaria  was  1.9%  in  both  groups  in  children  aged ≤ 5  years  (with 0%  coma/convulsions),  and  there  were  no  cases  in  patients  aged > 5 years.
+The A.  mexicana decoction could be proposed as a complement to standard modern drugs in high-transmission areas in order to reduce the drug pressure for development of resistance to ACT. It may also constitute a first-aid treatment when access to other anti-malarials is delayed [9]. A 3-month follow-up study confirmed that, even when all  parasites  were  not  eliminated,  the  rate  of  severe  malaria  and anemia remained low. Another plant of interest for malaria treatment is Artemisia  annua .  This  plant  provides  the  rough  material  for  the production of ACT. It was reportedly used in China for a long time as a treatment for recurrent fevers. So, the question arose: why not cultivate the plant on the spot and use the plant itself [5, 6, 8]? The first consideration was that it does not grow everywhere. For example, it  does not grow well in dry areas where A. mexicana grows-which could make these two plants complementary, geographically speaking. Another problem is that the content of artemisinine is quite low, even in selected  species. It  was,  however,  hypothesized  that  several active  constituents  might  work  in  synergy.  Clinical  studies  showed promising results, although with a relatively high recrudescence rate [10, 1 1].
+
+============================================================
+CHUNK 13
+============================================================
+Wounds
+Herbal treatments are widely used for wounds in non-industrialized countries, as they are often more readily available and affordable, and may possibly be equally, or more, efficacious than the modern alternatives.  Evidence  indicates  that  a  number  of  plant  treatments  are useful in a variety of dermatologic conditions, including wounds.
+Centella asiatica extract is one of the most widely studied plant-based wound treatments. It is used in a number of tropical countries, including  India,  Malaysia,  Madagascar  and  Sri  Lanka. In  vivo laboratory studies have shown its topical application to significantly accelerate wound healing and in vitro studies of treated granulating tissues have demonstrated a significant increase in fibroblast activity, total DNA and collagen content.
+Research on Aloe barbadensis has shown it to be a powerful woundhealing agent. Extracts from A. barbadensis , or ' Aloe vera' as it is commonly known, have been found to penetrate tissue, have anesthetic, antibacterial,  antifungal  and  antiviral  properties,  serve  as  an  antiinflammatory agent, and dilate capillaries  and  increase  blood  flow [12, 13].
+Chen et al. [14] studied the effects of 'dragon's blood' (sap from the bark  of Croton  lechleri used  as  a  wound-healing  agent  in  South America). The researchers found that C. lechleri acts as a natural dressing  which  forms  an  occlusive  layer  with  an  antimicrobial  environment and cell proliferative effects.
+In Vietnam, research at the National Institute for Traditional Medicine in Hanoi has examined the mechanism by which Cudrania cochinchinensis ,  commonly used in Vietnam as a traditional wound-healing agent, produces a wound-healing effect. An extract of the plant was found to protect fibroblasts and endothelial cells  against hydrogen peroxide-induced damage, leading to the suggestion that protection of cells against destruction by mediators of inflammatory processes may  be  mechanisms  by  which  this  plant  contributes  to  wound healing [14, 15].
+
+============================================================
+CHUNK 14
+============================================================
+Wounds
+In  studies  at  the  Oxford  Wound  Healing  Institute  and  Singapore General Hospital, Phan et al. studied the wound-healing properties of Eupolin, a topical agent produced from the leaves of Chromolaena odorata , and which is used widely for the treatment of burns and soft tissue  wounds  in Vietnam [16,  17].  Eupolin  enhanced  hemostasis, stimulated granulation tissue and re-epithelialization, and inhibited collagen contraction. These results suggest a mechanism for clinical reports on the effectiveness of Eupolin in reducing wound contraction and scarring, which are critical complications in post-burn trauma.
+A comprehensive review of research by Burford et al. [18] on traditional medicine and wound healing presents information on utilization and research trends in this field.
+
+============================================================
+CHUNK 15
+============================================================
+Ophthalmic Conditions: a Range of Practices, from Harmful to Sight-Saving
+Traditional eye treatment (TET) has been the cause of much concern becuase  of  serious  eye  infections  and  injury  associated  with  some traditional  treatments.  Public  health  programmes  have  focused  on training  traditional practitioners  to  refer patients for eye treatment. Following an interactive training programme with traditional healers in Malawi, based on a collaborative approach to eye care, it was found that  among  the  175  pre-intervention  and  97  post-intervention patients, delay in presentation improved slightly [19]. In a multicenter RCT at the All India Institute of Medical Sciences, an Ayurvedic herbal eye drop formulation was significantly more effective in treating trachoma and chronic conjunctivitis than placebo. Research by the same group  has  found  that  an  Ayurvedic  herbal  eye  drop  significantly improved dry eye syndrome [20].
+Trachoma is among the most frequent causes of preventable blindness in the world. At the trichiasis/entropion stage, there is only one officially advocated treatment: lid surgery. There are, however, numerous reports of its limitations (late attendance, poor uptake, imperfect outcome and common recurrence of the disease). A valuable complement to the 'lid-surgery only' strategy would be a non-surgical, easyto-apply, inexpensive and safe treatment.
+A traditional treatment for trachomatous trichiasis was observed in the Sultanate of Oman: lashes contention. Based on the traditional treatment idea, a modern technique was devised (Fig. 25.2). Once the outside  skin  of  the  lid  is  clean  and  dry,  malpositioned  lashes  are
+FIGURE 25.2 Based on a traditional method from the Arabic Peninsula, a non-surgical treatment of trachoma at the trichiasis stage was found safe and e6ective: lashes contention with a sticking plaster.
+grasped with clean fingers and stuck on the outside skin with a small piece  of  sticking  plaster.  Check  that  eye  opening  and  lid  closure remain normal. The patient (or a friend or relative) is instructed to replace the sticking plaster when it falls off (this happens about once a week), for 3 months. This procedure was tested through a small, prospective, randomized clinical trial in China [21]. The results were that lashes contention with a sticking plaster was much more effective than  epilation  in  relieving  symptoms  and  correcting  lashes-and similar to lid surgery.
+
+============================================================
+CHUNK 16
+============================================================
+REGULATORY DEVELOPMENT
+Regulatory  requirements  for  herbal  and  traditional  medicines  vary from country to country, depending on their history. Countries such as China and Vietnam, with millennia of actual use and more than 50 years of official modern health sector incorporation of traditional medicine,  safety  and  regulatory  standards  are  highly  developed.  In other  countries  where  traditions  may  be  centuries  old  but  official recognition is still absent or only recent, safety standards may not yet be fully developed.
+Indonesia's Health Law Act, for example, classifies traditional medicines ( jamu ) into two groups: (1) traditional medicines produced by individual persons or by home industries, which do not require registration; (2) traditional medicines produced and packed on a commercial scale, which do require registration, including submission of data on safety, composition, dosage, efficacy, claimed indications and quality control.
+
+============================================================
+CHUNK 17
+============================================================
+COUNTERFEIT OR 'FAKE' MEDICINES
+The WHO has estimated that the annual earnings from the sales of counterfeit and substandard medicines are in excess of US$ 32 billion globally [22].
+Traditional medicines do not escape the plague of counterfeit products.  Irregularities  have  been  detected  in  traditional  preparations, including adulteration, substitution, contamination (e.g. with heavy metals or fungi), misidentification and incorrect preparation [23].
+Attempts are being made to control products, with identification of constituents and assessment of product quality problems, be it intentional or not, and to trace back the source of inadequate products. Activities of drug quality control involve the International Criminal Police Organization (INTERPOL), the WHO, national authorities and non-governmental organizations (NGOs).
+Improving  the  control  of  traditional  preparations  may,  in  turn, increase the level of public confidence in these products.
+
+============================================================
+CHUNK 18
+============================================================
+TRADITIONAL AND MODERN HEALTH SYSTEMS-THE NEED FOR COOPERATION
+It is important for physicians, whether in private practice, working in a hospital, a research institute or in health administration to keep a close and lively relationship with the population that they are supposed to serve. Traditional medicine is one of the many community health  factors  that  physicians  need  to  know  about  and  take  into account. If a professional perspective is maintained along with a wellinformed,  constructive  and  non-judgemental  attitude  towards  all health practices, community members will acknowledge this as a sign of respect and the outcome can be very rewarding in terms of relationship with the population.
+
+============================================================
+CHUNK 19
+============================================================
+In a Refugee Population
+In a number of studies among refugees, it was found that Western physicians and treatments were not able to address cultural disease constructs  or  traditional  practices,  in  some  cases  resulting  in  false diagnoses and inappropriate, or ineffective, care [24-26]. These lapses in  understanding  and  care  can  (and  have)  compromise  refugee health. Such oversight of cultural perceptions and practices has also deterred refugees from seeking timely, and often vital, Western health services  for  fear  of  misunderstandings  or  stigma  attached  to  traditional practices.
+When working in a refugee camp, it can be helpful to seek out those refugees interested in helping to set up and maintain the best possible interim health system, given the difficult situation that this population faces. There may be physicians and nurses who can readily work with the expatriate teams; there may be paramedics who will be ready to  help  in  preventive  interventions;  and  there  may  be  traditional practitioners,  who  should be  contacted  for,  at  very  the least, safety reasons. Because of their displacement, they may well be unfamiliar with local flora and could be at risk of providing unsafe preparations. Meetings  between  displaced  and  local  traditional  healers  can  be organized, if possible with a botanical outing, for refugees to learn to recognize local plants and avoid dangerous ones.
+Many studies on psychosocial and primary health practices among refugees  validate  the  effects  of  integrating  traditional  practices  into refugee care. One of the first examples of such integration efforts was seen in the 1980s, when Dr J.P. Hiegel of the International Committee for the Red Cross (ICRC) helped Cambodian refugees in Thailand set up  traditional  medicine  centers.  Western  clinicians  and  traditional practitioners cooperated to build a dual treatment system with effective, mutual referral procedures [27].
+Another leading example is seen in Cambodia, where the  Harvard Center  for  Refugee  Trauma  has  shown  that  refugee  trauma  can  be reduced by re-introducing traditional  healing systems  to  dislocated communities [24]. Work with Karen refugees and internally displaced persons at the Thai-Burma border has included the training of refugee community health workers clinic staff in herbal medicine, research on refugee patients' use of, and belief in, traditional medicine and spiritual practices, and initial work on the development of networks of  herbalists  in  the  Thai-Burma  border  region  [26,  28].  Training programs were found to have contributed to stimulating several grassroots initiatives and to the development of herbal clinics along the border region.
+
+============================================================
+CHUNK 20
+============================================================
+In a Refugee Population
+These  examples  of  integrating  and  supporting  traditional  health resources within refugee interventions highlight the need for increased international  awareness  regarding  existing  health  resources  within refugee populations.
+
+============================================================
+CHUNK 21
+============================================================
+In a Health District
+Patients  typically  undertake  their  own  self-referral,  with  few  errors. They choose when they need to go to the modern medical system and when  to  turn  to  their  traditional  health  practices.  In  the  modern health  center,  the  most  frequent  diagnoses  (i.e.  the  'case-mix')  are typically infant and childhood diarrhea, pneumonia and malaria. In the traditional practitioner clinic, patients present with chronic and congenital disorders, mental problems, and functional and terminal diseases. These diagnoses represent a challenge for modern medicine which often has little to offer in resource-poor settings. Patients can be  counselled  and  supported  in  making  their  choices  in  order  to minimize mistakes.
+
+============================================================
+CHUNK 22
+============================================================
+DEVELOPMENT OF NEW DRUGS AND TREATMENTS; INTELLECTUAL PROPERTY RIGHTS
+In the classical research process, many substances are selected through field studies (ethnobotany or ethnopharmacology), but very few are eventually found safe and effective in human studies. The selection process itself is questionable [29], as it is hard to find any treatment that  has  been  found  through  this  process in  history.  Conventional drug development is slow and expensive. The finished products are often unavailable and unaffordable to the poorest patients in remote areas, unless they are part of a heavily subsidized scheme.
+In contrast, phytomedicines consisting of locally available products can,  if  proven  safe  and  effective,  become  useful  complements  to imported drugs if they are cheaper and more readily available. The development of local phytomedicines of proven safety and effectiveness  can  be  conducted  through  a  relatively  cheap  and  fast  process called 'reverse pharmacology' [30].
+Exploitation of traditional medical knowledge for drug development without the consent of customary knowledge holders is not acceptable under international law {[United Nations (UN) Convention on Biological Diversity (CBD), [31]}. Under the CBD, state parties are required to 'respect, preserve and maintain knowledge, innovations and practices of indigenous and local communities embodying traditional lifestyles …and promote involvement of the holders of such knowledge and practices encourage the equitable sharing of the benefits arising from the utilisation of such knowledge, innovations and practices' .
+The International Society of Ethnobiology [32] has developed a comprehensive set of ethical guidelines for researchers working on traditional medicine, which can be accessed at: http://ethnobiology.net/ code-of-ethics/.
+The  WHO's  Global  Strategy  and  Plan  of  Action  on  Public  Health, Innovation and Intellectual Property [33] gives priority to research in this field and supports drug research and development in traditional medicine  systems  in  developing  countries  (http://apps.who.int/gb/ ebwha/pdf_files/A61/A61_R21-en.pdf).
+
+============================================================
+CHUNK 23
+============================================================
+CLINICAL SCENARIOS
+The following anecdotal cases are not meant to recommend the particular intervention or strategy, but rather to illustrate that traditional medicine and practices are deeply established in many cultures and
+FIGURE 25.3 A  traditional bone-setter  in  Mali  taking care of  a patient with acute low back pain.
+often preferred by the local populations over accepted Western practices. In some cases, these traditional practices accomplish therapeutic goals as well as any Western intervention. In any case, the wise practitioner will seek to understand and work within the local traditional medicine culture.
+
+============================================================
+CHUNK 24
+============================================================
+A TRADITIONAL BONE-SETTER IN MALI
+After 9 hours of travelling bumpy roads on the Dogon plateau in Mali, this visiting doctor was incapacitated for any further work, thanks to an attack of lower backache. His local colleague proposed visiting a well-known bone-setter. Once inside the courtyard, the patient (as the doctor was then) removed his shirt and was submitted to a series of energetic pulls and twists of trunk and limbs eliciting distinct cracking sounds. Five minutes later, he stretched, sprang up and found that he could walk again, the back pain almost gone. In such a case, there is no need for sophisticated clinical studies to conclude that we have observed a case of rapidly effective treatment for acute low back pain (Fig. 25.3).
+
+============================================================
+CHUNK 25
+============================================================
+LAST HOPE AFTER AN OPEN FRACTURE
+In a clinic in the desert near Nouakchott, Mauritania, two traditional practitioners-a brother and sister-hold their consultations together on a  carpet  in  a  cool  adobe  house.  Their  practice  is  based  on  the Greco-Arabic tradition dating back to Avicenna and Hippocrates [34]. A boy of about 15 years of age is brought in by his parents. All three are in tears and despair: the boy, after an open fracture of the tibia, was taken to the National hospital where it was declared that his leg was deeply infected and must be amputated. The practitioner examines the leg and proposes a therapeutic trial. For several days, every morning he fills  the  purulent  sinuses  with  powdered  resin  from  a local tree (we learned later that this is a local variety of myrrh, Commifora africana ). Three weeks later, we find the boy playing football in the courtyard. We took the resin to a microbiology lab for an antibiogram; the result was zero observed antibiotic properties. The effect-if there  was  any-remains  of  unknown  nature.  All  we  know  is  that, subsequently, we observed several other deep infections successfully treated with the same resin (Fig. 25.4).
+
+============================================================
+CHUNK 26
+============================================================
+TACKLING WATER-BORNE DISEASE THE TRADITIONAL WAY
+The ancient texts of Ayurveda in India recommend the use of metals such as gold, silver and copper for water purification and, traditionally, Indian homes stored drinking water in copper and silver pots. In recent years, this practice  has been replaced by the use of steel and plastic containers, as copper and silver have become expensive.
+FIGURE 25.4 Traditional healers in the Sahara, practicing Greco-Arabic medicine (Mauritania).
+Ayurvedic  physicians,  to  the  perplexity  of  the  modern  world,  have argued that rising levels of childhood diarrhea and water-borne diseases are linked to this shift.
+In a number of rural villages of India, water that contained Escherichia coli , Salmonella typhi and Vibrio cholerae was stored in copper pots or in glass containers along with a simple four-inch coil made of pure copper.
+As  expected  by  the  Ayurvedic  physicians,  and  to  the  considerable surprise of the modern medical research community, after 16 hours of storage, there was no growth of bacteria after overnight incubation with the copper pots or copper device, whereas control bottles without the device showed more than a 30-fold increase in E. coli counts and more than a fourfold increase in S. Typhi and V. cholerae. At the same time,  the  pH  and  levels  of  copper  in  the  test  containers  were  well within the permissible limits set by the WHO [35]. (This is part of ongoing evaluation of traditional health practices conducted by the Foundation for Revitalization of Local Health Traditions in Bangalore, India (www.frlht.org).)
+
+============================================================
+CHUNK 27
+============================================================
+CONCLUSION
+The majority of the population of most tropical countries continue to use traditional medicine as a primary source of healthcare.
+Accordingly, physicians in the tropics need to understand what traditional medicines and traditional therapeutic approaches their patients are using, in order to best advise on issues of herb-drug interactions, possible benefits and harms of traditional medicine and to work with local health practitioners on appropriate cross-referrals.
+The  tropical  medicine  practitioner  may  be  faced  with  the  negative effects of traditional medicine practice, but should not forget that only failures are seen (and the reverse is true: traditional healers only see the failures of modern medicine).
+In view of the trust of local communities in traditional medicine and its practitioners, a policy of partnership with traditional health practitioners is warranted, based on mutually respectful exchange. In addition to enhancing a patient-centered approach to clinical practice, this will build a constructive relationship and credibility within the wider community.
+
+============================================================
+CHUNK 28
+============================================================
+ACKNOWLEDGMENTS
+The Global Initiative for Traditional Systems (GIFTS) of Health, Oxford, UK (www.giftsofhealth.org) and the Research Initiative on Traditional
+Antimalarial Methods (RITAM) (www.gifts-ritam.org); The Swiss Cooperation and the Organisation Antenna Technologies (Geneva) for their support; Merlin Willcox, Jacques Falquet and Jean-Claude François for their pictures; populations and authorities in the many tropical countries where the authors have gained experience: India, China, Vietnam, Thailand, Laos, Malaysia; Erytrea and Ethiopia; countries in East and Southern Africa, particularly Kenya, Tanzania, Uganda and South Africa; Madagascar; Mauritania, Mali, Oman, etc.
+
+============================================================
+CHUNK 29
+============================================================
+REFERENCES
+1. Bodeker G, Ong C-K, Burford G, et al, eds. World Health Organization Global Atlas  on  Traditional  and Complementary Medicine.  Geneva:  World Health Organization; 2005.
+2. Kasilo  OMJ,  Alley  ES,  Wambebe  C,  Chatora  R.  Regional  overview:  African region. In: Bodeker G, Ong C-K, Burford G, et al, eds. World Health Organization  Global  Atlas  on  Traditional  and  Complementary  Medicine.  Geneva: World Health Organization; 2005.
+3. Charpak N, Ruiz JG, Zupan J, Cattaneo A, et al. Kangaroo Mother Care: 25 years after. Acta Paediatr 2005;94:514-22.
+4. Graz B, Kitua AY, Malebo HM. To what extent can traditional medicine contribute  a  complementary  or  alternative  solution  to  malaria  control  programmes?  Malar  J  201 1;10(suppl.  1:S6):  http://www.malariajournal.com/ supplements/10/S1 (accessed 12 March 2012).
+5. Willcox M, Rasoanaivo P, Sharma VP, Bodeker G. Comment on: Randomized controlled  trial  of  a  traditional  preparation  of Artemisia  annua L.  (Annual Wormwood) in the treatment of malaria. Trans R Soc Trop Med Hyg 2004; 98:755-6.
+6. Willcox M. Artemisia species: from traditional medicines to  modern antimalarials-and back again. J Altern Complement Med 2009;15:101-9.
+7. Diallo D, Graz B, Falquet J, et al. Malaria treatment in remote areas of Mali: use of modern and traditional medicines, patient outcome. Trans R Soc Trop Med Hyg 2006;100:515-20.
+8. Willcox M, Graz B, Falquet J, et al. Argemone mexicana decoction for the treatment  of  uncomplicated  falciparum  malaria.  Trans  R  Soc  Trop  Med  Hyg 2007;101:1190-8.
+
+============================================================
+CHUNK 30
+============================================================
+REFERENCES
+9. Graz  B,  Willcox  ML,  Diakite  C,  et  al. Argemone  mexicana decoction  versus artesunate-amodiaquine for the management of malaria in Mali: policy and public-health implications. Trans R Soc Trop Med Hyg 2010;104:33-41.
+10.  Mueller MS, Runyambo N, Wagner I, et al. Randomized controlled trial of a traditional  preparation  of Artemisia  annua L.  (Annual  Wormwood)  in  the treatment of malaria. Trans R Soc Trop Med Hyg 2004;98:318-21.
+11.  Blanke  CH,  Naisabha  GB,  Balema  MB,  et  al.  Herba Artemisiae  annuae tea preparation  compared  to  sulfadoxine-pyrimethamine  in  the  treatment  of uncomplicated  falciparum  malaria  in  adults:  a  randomized  double-blind clinical trial. Trop Doct 2008;38:1 13-16.
+12.  Grindlay D, Reynolds T. The aloe vera phenomenon; a review of the properties and modern uses. J Ethnopharmacol 1986;16:117-31.
+13.  Tian B, Hua YJ, Ma XQ, Wang GL. Relationship between antibacterial activity of  aloe  and  its  anthaquinone  compounds.  Zhongguo  Zhong  Yao  Za  Zhi 2003;28:1034-7 [in Chinese].
+14.  Chen ZP, Cai Y, Phillipson JD. Studies on the antitumor, antibacterial and wound healing properties of dragon's blood. Planta Medica 1994;60:541-5.
+15.  Van Hien T, Hughes MA, Cherry GWC. In vitro studies on the antioxidant and growth stimulatory activities of a polyphenolic extract from Cudrania cochinchinensis used  in  the  treatment  of  wounds  in  Vietnam.  Wound  Repair  Regen 1997;5:159-67.
+16.  Phan TT, Hughes MA, Cherry GW, et al. An aqueous extract of the leaves of Chromolaena odorata (formerly Eupatorium odoratum ) inhibits hydrated collagen  lattice  contraction  by  normal  human  dermal  fibroblasts.  J  Altern  and Complement Med 1996;2:335-44.
+
+============================================================
+CHUNK 31
+============================================================
+REFERENCES
+17.  Phan TT, Wang L, See P, et al. Phenolic compounds of Chromolaena odorata protect cultured skin cells from oxidative damage: implication for cutaneous wound healing. Biol Pharm Bull 2001;24:1373-9.
+18.  Burford G, Bodeker G, Ryan TJ. Skin disease. In: Bodeker G, Burford G, eds. Public  Health  and  Policy  Perspectives  on  Traditional,  Complementary  and Alternative Medicine. London: Imperial College Press; 2007.
+19.  Courtright P,  Lewallen S, Kanjaloti  S. Changing  patterns of  corneal disease and  associated  vision  loss  at  a  rural  African  hospital  following  a  training programme for traditional healers. Br J Ophthalmol 1996;80:694-7.
+20.  Biswas  NR,  Beri  S,  Das  GK,  et  al.  Comparative  double  blind  multicentric randomised placebo controlled clinical trial of a herbal preparation of eye drops in some ocular ailments. J Indian Med Assoc 1996;94:101-2.
+21.  Graz  B,  Xu  JM,  Yao,  ZS,  et  al.  Trachoma:  can  trichiasis  be  treated  with  a sticking-plaster? A randomised controlled trial in China. Trop Med Int Health 1999;4:222-8.
+22.  World  Health  Organization.  Substandard  and  counterfeit  medicines.  Fact sheet  N  275,  November  2003:  http://www.who.int/mediacentre/factsheets/ 2003/fs275/en/ (accessed 12 March 2012).
+23.  Yee SK, Chu SS, Xu YM, Choo PL. Regulatory control of Chinese proprietary medicines in Singapore. Health Policy 2005;71:133-49.
+24.  Mollica RF, Cui X, Mcinnes K, Massagli MP. Science-based policy for psychosocial interventions in refugee camps: a Cambodian example. J Nerv Men Dis 2002;190:158-66.
+25.  Dhooper SS. Health care needs of foreign-born Asian Americans: an overview. Health Soc Work 2003;28:63-73.
+26.  Bodeker G, Neumann C, Lall P, Oo ZM. Traditional medicine use and health worker  training  in  a  refugee  setting  at  the  Thai-Burma  border.  J  Refugee Studies 2005;18:76-99.
+
+============================================================
+CHUNK 32
+============================================================
+REFERENCES
+27.  Hiegel  JP.  Do  Traditional  Healers  have  a  Role  in  Refugee  Camps?  Refugee Participation Network, 8: Oxford Refugee Studies Program; 1990.
+28.  Neumann C, Bodeker G. Humanitarian responses to traditional medicine for refugee care. In: Bodeker G, Burford G, eds. Public Health and Policy Perspectives on Traditional, Complementary & Alternative Medicine. London: Imperial College Press; 2007.
+29.  Heinrich M, Edwards S, Moerman DE, Leonti M. Ethnopharmacological field studies: A critical assessment  of their  conceptual  basis and methods.  J Ethnopharmacol 2009;124:1-17.
+30.  Willcox  ML,  Graz  B,  Falquet  J,  et  al.  A  'reverse  pharmacology'  approach for  developing  an  anti-malarial  phytomedicine.  Malar  J  201 1;10(suppl.  1): S8.
+31.  Convention on Biological Diversity (1993). Available at: http://www.biodiv. org/convention/articles.asp (accessed 12 March 2012).
+32.  International  Society of  Ethnobiology (2006). International Society of Ethnobiology  Code  of  Ethics  (with  2008  additions).  Available  at:  http:// ethnobiology.net/code-of-ethics/ (accessed 12 March 2012).
+33.  World  Health  Organization.  World  Health  Organization's  Global  Strategy and Plan of Action on Public Health, Innovation and Intellectual Property; 2008. Available at: http://apps.who.int/gb/ebwha/pdf_files/A61/A61_R21-en. pdf (accessed 12 March 2012).
+34.  Graz  B.  Prognostic  Ability  of  Practitioners  of  Traditional  Arabic  Medicine: Comparison with Western Methods Through a Relative Patient Progress Scale. Evidence Based Complementary and Alternative Medicine 2010;7:471-6.
+35.  Sudha VBP, Singh KO, Prasad SR, Venkatasubramanian P. Killing of enteric bacteria in drinking water by a copper device for use in the home: laboratory evidence. Trans R Soc Trop Med Hyg 2009;103:819-22.
+

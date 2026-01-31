@@ -1,0 +1,57 @@
+============================================================
+CHUNK 0
+============================================================
+Key features
+- This condition is suspected following a history of exposure to water in a /sh tank, swimming pool, aquarium or seawater with infected /sh and/or amphibians
+- Clinical signs manifest 2-8 weeks after exposure to infected /sh or water. The 'sporotrichoid' distribution of non-healing nodules frequently involves /ngers, hands and upper limbs unilaterally and with proximal dissemination
+- Severe and chronic nodular lesions unresponsive to treatment occur in the immunocompromised host
+- Investigate and exclude sporotrichosis, cutaneous leishmaniasis, nocardiosis, sarcoidosis and cutaneous tuberculosis. Diagnosis rests on a history of exposure, typical skin lesions and granulomatous in0ammation on histology. Laboratory isolation of Mycobacterium marinum from a clinical specimen con/rms the diagnosis
+- Mycobacterium marinum is a multi-drug-resistant organism; however, cure can be achieved in ~85% of cases with combinations of clarithromycin, rifampin, ethambutol, tetracyclines and/or trimethoprim-sulfamethoxazole. Relapse can occur
+
+============================================================
+CHUNK 1
+============================================================
+INTRODUCTION
+Mycobacterium marinum is an environmental mycobacterium ubiquitous in fresh, brackish and sea water. It infects more than 150 species of fish and also causes clinical illness in frogs, eels, oysters, toads and snakes. It is responsible for human granulomatous cutaneous infection  through  direct  inoculation  into  the  skin.  Currently,  it  is  an uncommon human disease and most patients respond to treatment with combinations of anti-mycobacterial drugs.
+
+============================================================
+CHUNK 2
+============================================================
+EPIDEMIOLOGY
+The disease is uncommon and usually presents as sporadic individual cases, although outbreaks have been reported. The disease is associated with exposure to fresh- or seawater; M. marinum can infect fish and amphibians.
+
+============================================================
+CHUNK 3
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+Inoculation  of M.  marinum takes  place  through  skin  abrasion  or injury while handling infected fish or water. Skin lesions appear on the  inoculation  site  2-8  weeks  later  and  spread  proximally  on  the affected  limb  to  dermal  and  lymphatic  tissue.  Infection  is  often
+
+============================================================
+CHUNK 4
+============================================================
+Francisco Vega-López
+chronic,  lasting  months.  Lymphangitic  (sporotrichoid)  spread  can occur. Spontaneous resolution has been observed and relapse is not uncommon after weeks or months of apparently successful treatment. The clinical features can last for many years if left untreated.
+Histologic examination of a lesion biopsy reveals either chronic, nonspecific inflammation or a mixed inflammatory response with granuloma formation. In advanced cases, well-formed epithelioid tuberculoid  granuloma  and  intracellular  acid-fast  bacilli  can  be observed.
+
+============================================================
+CHUNK 5
+============================================================
+CLINICAL FEATURES
+A  single,  erythematous,  papule  or  small  nodule  with  a  smooth  or warty surface appears at the inoculation site - commonly the dorsal aspect  of  a  finger.  Proximal  spread then slowly  progresses over the next few weeks and nodular lesions can involve the lymphatic track (Fig. 59.1). The lesions are commonly asymptomatic but may become tender or with pyogenic features from secondary bacterial infection (Fig. 59.2). Cutaneous lesions can affect the whole limb. Deep extension can lead to involvement of bone or tendons in more than 2% of  cases.  Disease  severity  is  increased  in  immunocompromised individuals.
+
+============================================================
+CHUNK 6
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+A history of exposure to infected water, fish or amphibians, together with a typical clinical picture allow for high diagnostic suspicion. This, together with a compatible histologic picture, can be used to recommend a therapeutic course. Definitive diagnosis rests on identifying the  organism,  but  microbiologic  culturing  is  insensitive  (approximately 50%). In the laboratory, M. marinum is an intermediate grower and develops best at lower temperatures of between 30° and 33°C.
+Differential diagnosis  includes sporothrichosis, nocardiosis, cutaneous leishmaniasis, cutaneous tuberculosis and cutaneous sarcoidosis.
+
+============================================================
+CHUNK 7
+============================================================
+TREATMENT
+Mycobacterium  marinum is  a  multi-drug-resistant  organism  and  is often best  treated with combinations of two or three anti-mycobacterial drugs. Mycobacterium  marinum is  susceptible  to  anti-mycobacterial drugs, including clarithromycin, rifampin, ethambutol, minocycline and trimethoprim-salfamethoxazole. Susceptibility to fluoroquinolones is variable. Most current treatment regimens include clarithromycin,  often  with  rifampin  and  ethambutol.  Treatment  is  usually  for months. The length of optimal treatment is uncertain; many authorities  treat  for  a  minimum  of  4  weeks  after  clinical  resolution  (Fig. 59.3).  Paradoxical  worsening  after  initiation  of  therapy  has  been noted in some patients. Surgical debridement is required if there is involvement of tendon or bone. Therapeutic failure has to be considered after 4-6 weeks of treatment without improvement; a different drug combination should be tried at this stage.
+FIGURE 59.1 Sporotrichoid dissemination in GLYPH<c=31,font=/CIDFont+F3>sh tank granuloma following dog bite.
+FIGURE 59.2 Erythematous and GLYPH<c=30,font=/CIDFont+F3>esh-colored nodules on the right upper limb in a GLYPH<c=31,font=/CIDFont+F3>sh tank owner.
+FIGURE 59.3 Fish tank granuloma erythemato-violaceous nodules before and after treatment.
+

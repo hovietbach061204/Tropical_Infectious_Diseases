@@ -1,0 +1,315 @@
+============================================================
+CHUNK 0
+============================================================
+Key features
+- Pneumonia is the leading global cause of death among children younger th a n 5 years of age
+- Bacterial causes of pneumonia include Streptococcus pneumoniae , Haemophilus in2uenzae , Staphylococcus aureus , mycoplasma, chlamydia and Mycobacterium tuberculosis , among others
+- Pneumonia should be suspected in patients with tachypnea and cough
+- Signs of severe pneumonia include grunting, lower chest wall in-drawing, central cyanosis, inability to drink or feed (or vomiting anything ingested), lethargy, obtundation and convulsions
+- Children with pneumonia should be categorized as not severe, severe and very severe based on established criteria, and treatment targeted appropriately
+- It is estimated that appropriate administration of currently available vaccines would decrease global mortality from pneumonia by 50%
+
+============================================================
+CHUNK 1
+============================================================
+INTRODUCTION
+Pneumonia is a syndrome of inflammation, congestion and compromise  of  gas  exchange  in  the  lungs  that  disproportionately  affects children, but affects all ages, and can lead to severe illness, hospitalization and death [1]. It is usually caused by infection, although it may be  caused  by  non-infectious  exposures  and  aspiration.  Bacteria  are among the leading infectious causes of pneumonia, with many being vaccine-preventable.  Pneumonia  is  currently  the  leading  cause  of child  death  worldwide  [2],  excluding  neonatal  deaths,  with  most deaths occurring in low- and middle-income countries (see Fig. 38.1). Although pneumonia was once the leading cause of child death in children in high income countries [1], the introduction of vaccines and  improvements  in  overall  living  standards  have  substantially reduced infection and mortality rates. Similar reductions are possible in the developing world, although important knowledge gaps remain for optimal disease control.
+
+============================================================
+CHUNK 2
+============================================================
+EPIDEMIOLOGY
+A  review  of  28  longitudinal,  community-based  studies  conducted between 1969 and 1999 estimated the median incidence of clinical pneumonia in the developing world to be 0.28 episodes per childyear  (interquartile  range  of  0.21-0.7 1 episodes/child-year)  [3].  This translates into 151.8 million cases of pneumonia per year from developing countries alone, of which, 13.1 million (8.7%) are of hospitalizable severity. An additional 4 million cases are estimated to arise in wealthier countries, for a total global burden of 156 million pneumonia cases per year. Over 97% of incident pneumonia cases among children occur among tropical and subtropical developing countries, and over 50% occur in India, China, Pakistan, Bangladesh, Indonesia and  Nigeria.  Across  the  six  World  Health  Organization  (WHO) regions  (see  Fig.  38.2),  the  average  pneumonia  incidence  rates  (in episodes/child-year) are: Southeast Asia (0.36), Africa (0.33), Eastern Mediterranean (0.28), Western Pacific (0.22), the Americas (0.10) and the European Regions (0.06). In terms of pneumonia mortality, over 70% of deaths from clinical pneumonia occur in developing countries, primarily in the tropical/subtropical belt [3], with two-thirds of pneumonia deaths occurring in 10 countries. Pneumonia mortality has been associated with a number of risk factors, but the strongest include malnutrition, low birth weight, absence of breastfeeding, lack of measles vaccination, indoor air pollution and over-crowding [1, 3].
+
+============================================================
+CHUNK 3
+============================================================
+THE BACTERIAL ETIOLOGY OF PNEUMONIA
+There  are  several  bacterial  agents  associated  with  pneumonia.  The evidence for these has been reported by two classes of studies, each with  important  limitations.  One  type  of  study  is  the  prospective observational study (in some cases, simply surveillance). These have been  primarily  hospital-based  and  have  primarily  relied  on  blood cultures for etiologic detection. One limitation is that blood culture is  insensitive. Typically, microbiologic analysis of blood is less than 15% sensitive for establishing a  causative  agent during pneumonia [1];  this  sensitivity  falls  further  by  pre-culture  antibiotic  exposure. Moreover, some pathogens are fastidious and do not grow well in standard media. Lung aspirates, though somewhat more sensitive, are considered too invasive for most investigations. Sputum is difficult to obtain  from  young  children  and  its  interpretation  is  controversial, while nasopharyngeal swabs and aspirates may demonstrate carriage, which  is  common  in  young  children  in  developing  countries,  but does not necessarily confirm invasive disease. Thus, nearly all bacterial pneumonia  pathogens  are  substantially  under-estimated.  Another limitation is that, as most of these studies were of hospitalized children, they were at the more severe spectrum of illness and may not be representative of most incident pneumonia cases. The second type of study is vaccine trials - often referred to as probe studies - where the attributable burden from a particular pathogen is estimated from the proportion of pneumonia prevented by a vaccine specific for that organism. An important caveat is that bacterial and viral pathogens have both been shown to interact [4], and pneumococcal vaccine, in particular, has been shown to reduce influenza-positive pneumonia [5], thus, not all pneumonia prevented by a vaccine may be caused by the specific pathogen targeted by the vaccine.
+Nonetheless,  both  types  of  studies  appear  to  support Streptococcus pneumoniae (pneumococcus)  as  being  the  main  bacterial  cause  of childhood pneumonia (30-50%), with Haemophilus influenzae being the second most common (10-30%) [3]. These two agents account for approximately 50% of cases of children hospitalized with pneumonia  in  developing  countries  [1].  Other  bacteria  that  have  been reported  in  young  children  include Staphylococcus  aureus , Klebsiella pneumoniae and non-typable H. influenzae (Papua New Guinea and The  Gambia).  Of  note,  although  non-typhoidal Salmonella spp.
+
+============================================================
+CHUNK 4
+============================================================
+THE BACTERIAL ETIOLOGY OF PNEUMONIA
+FIGURE 38.1 Global distribution of deaths from pneumonia and other causes among children < 5 years old (courtesy of Igor Rudan; redrawn with permission from Rudan I, Boschi-Pinto C, Biloglav Z, et al. Epidemiology and etiology of childhood pneumonia. Bull World Health Organ 2008;86:408-16.)
+(sub-Saharan Africa), and Salmonella Typhi (South Asia) have been isolated from the blood of children with pneumonia in Africa and Asia,  this  may  represent  co-infection,  rather  than  imply  causation. Mycobacterium tuberculosis, Mycoplasma pneumoniae and Chlamydia spp. have  also  been  reported  as  causes  of  acute  childhood  pneumonia; however, there is little consensus regarding their relative importance to acute childhood pneumonia [3]. Viral etiologies are also common causes of acute childhood pneumonia and include influenza virus, respiratory syncytial virus, parainfluenza virus, metapneumonia virus, adenoviruses and others (discussed elsewhere), and bacterial suprainfection of lung tissue following viral infection is common, with S. pneumoniae , S. aureus , Streptococcus spp., and H. influenzae being the most commonly associated supra-infecting agents. The causes of acute bacterial pneumonia in children infected with HIV mirror those seen in HIV non-infected children, with S.  pneumoniae and H. influenzae being the most commonly reported. Children co-infected with HIV are more likely to develop acute bacterial pneumonia than HIV noninfected children.
+
+============================================================
+CHUNK 5
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+Pathogen invasion and entry into the respiratory tract is poorly understood,  although  animal  studies  suggest  that,  at  least  in  the  case  of pneumococcus, it is receptor mediated [6]. The syndrome of pneumonia, however, is one in which the alveoli and interstitium become inflamed, and fluid and cells fill the alveolar air sacs. Because liquids have surface tension, the fluid in the alveolar sacs draws the walls of the alveoli together, collapsing the alveoli. During inspiration, these alveolar  air  sacs  are  forcibly  re-opened  against this  surface  tension, giving rise to the crackling sound heard during inspiration by auscultation with a stethoscope. In turn, this surface tension creates lower airway obstruction. Normally, the alveolar air sac is only one cell layer thick, allowing for easy gas exchange. Transudate fluid and debris in the alveolar air sac compromises oxygenation (air entry into the lung) and respiration (gas exchange or the transfer of CO2 in exchange for oxygen). The body's initial compensatory reaction is increased respiratory rate (tachypnea). This is, perhaps, the most sensitive indicator of  lower  airway  obstruction  [7].  As  more  alveoli  become  fluid filled, lower air obstruction becomes more severe and effort shifts to keeping the alveoli open. This is appreciated clinically by the use of accessory  muscles  -  initially  the  intercostal  muscles  (intercostal retractions) - and, as obstruction progresses, the diaphragm contracts with  greater  force  to  overcome  inertia,  producing  lower  chest  wall in-drawing  (primarily  noted  in  children  less  than  three  years  old whose chest walls are relatively soft because of a greater cartilage/bone ratio). Other compensatory mechanisms at this stage include grunting, which is a sound produced by exhaling against a partially closed glottis or 'laryngeal braking' [8]. This maintains positive pressure in the airway by retaining inspired air in the alveolar sac longer in order to prevent alveolar collapse [9]. This increases lung volume and functional  residual  capacity,  the  effect  of  which  is  to  increase  alveolar ventilation  (the  amount  of  air  that  reaches  the  alveoli  such
+
+============================================================
+CHUNK 6
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+that oxygen can be exchanged for CO2 per unit time), which results in a measurable increase in arterial oxygen tension (PaO2) and a decrease in  arterial  carbon  dioxide  (PaCO 2 ).  The  respiratory  muscles  in  a young child, particularly the diaphragm, have little  reserve  and are prone to fatigue and respiratory failure. Laryngeal braking (grunting) decreases diaphragmatic work by keeping more alveoli open at the end of expiration and improving gas exchange. Additional accessory muscles  of  the  upper  and  lower  thorax  may  be  recruited  in  more advanced stages of lower airway obstruction, resulting in the clinical signs of 'head-bobbing' and chest-abdomen 'see-sawing'. Clinically, these changes are seen as 'respiratory distress'. Maladaptive compensatory responses to obstruction include cessation of feeding, resulting in the WHO danger sign of 'inability to feed or drink' [10]. As the child is  fighting  to  prevent alveolar collapse and  maintain  positive pressure at the end of the respiratory cycle, as well as maximize alveolar ventilation, it opts against breath holding, which is necessary for swallowing during feeding. The effect is to deprive the child's respiratory muscles of needed fuel, which will hasten respiratory fatigue and failure, and is thus a danger sign. As lower airway obstruction continues without intervention, diaphragmatic and accessory muscle fatigue set in and respiratory rate and effort fall. This can be misinterpreted as evidence that lower airway obstruction is not severe, rather than as decompensation and impending respiratory failure. As PaCO2 rises, the child may become initially agitated; as it rises further, the child may  convulse.  As  PaO2  falls  and  the  child's  brain  is  progressively deprived of oxygen, the child may, at first, become less active, then lethargic  or  obtunded.  These  are  terminal  phases  before  complete respiratory failure and death.
+
+============================================================
+CHUNK 7
+============================================================
+CLINICAL FEATURES
+The clinical features of pneumonia follow from the underlying pathophysiology of infection followed by inflammation and congestion in the lower airway. There is a range of symptoms that may vary somewhat with age [7]. The most consistent feature is tachypnea, or rapid breathing,  the  underlying  pathophysiology  of  which  is  described above. This is  age-dependent  and  the  WHO  have  established age-specific cut-offs as follows (breaths/minute): age < 2 months ≥ 60/ minute; age 2-1 1 months ≥ 50/min; children 12-59 months ≥ 40/min [10]. In addition to tachypnea, a history and presentation of cough is nearly  universal.  These two signs,  fast  breathing and  cough should place pneumonia at the top of a differential diagnosis until proven otherwise  by  systematic  exclusion.  Other  clinical  features  are  discussed below in patient evaluation.
+
+============================================================
+CHUNK 8
+============================================================
+CLINICAL EXAMINATION FINDINGS
+A thorough history should precede the examination, with emphasis on the initial symptom onset, progression of other symptoms and their duration prior to seeking medical care. During the history, the clinician should observe the patient, specifically looking for rate and effort of breathing, cyanosis, level of alertness and responsiveness to the caretaker. These should be evaluated in the context of the patient's age  (the  younger  the  patient  is,  the  more  vulnerable  they  are  to respiratory  failure)  and  nutritional  status  (if  severe  malnutrition  is present, hospitalize - even if pneumonia signs are not severe). The interview should solicit any history of convulsions, feeding behavior, and responsiveness to the caregiver.
+A systematic clinical examination is necessary, with emphasis on key organ systems that may be compromised by the underlying pathophysiology.  These  include:  (i)  the  respiratory  tract,  with  emphasis on the effort of breathing, the quality of breath sounds and investigation  for  hypoxia;  (ii)  neurologic  status,  with  emphasis  on  level  of alertness and responsiveness to external stimuli; and (iii) supportive findings suggestive of severe bacterial infection, including temperature, perfusion, the presence of skin lesions and an ability to drink or feed.
+
+============================================================
+CHUNK 9
+============================================================
+CLINICAL EXAMINATION FINDINGS
+Pneumonia is graded according to three levels of severity: non-severe, severe and very severe (Table 38-1 - online only). It is important to note that even non-severe pneumonia is a severe illness, as anything that  compromises  breathing  in  a  small  child  is  potentially  lifethreatening and should prompt intervention. Non-severe pneumonia is characterized  by  age-specific  tachypnea  and  history  of  cough.  The child may be irritable or less active than normal, but should otherwise be  alert  and  responsive.  On  auscultation,  crepitations  (short,  fine crackles on inspiration) or reduced breath sounds should be appreciated.  This  requires  that  the  health  provider  time  the  breath  sound with the breathing cycle in order to minimize confusion with other adventitious  breath  sounds,  such  as  wheezing  (long,  high-pitched whistling sounds primarily on expiration that originate in the bronchioles). Chest-wall percussion  is less diagnostic in young children than in adults. Severe pneumonia is characterized by tachypnea, with cough  and  at  least  one  of  the  following  signs:  lower  chest  wall in-drawing  (not  to  be  confused  with  intercostal  retractions),  nasal flaring or grunting (primarily in young infants < 24 months old). Of these,  lower  chest  wall  in-drawing  is  the  most  obvious.  This  is  the collapse of the lower chest wall during inspiration and is caused by a sharp decrease in intrathoracic pressure as the child forcibly contracts the diaphragm to overcome lower airway obstruction. The external atmospheric pressure subsequently collapses the chest wall, much like the effect on a paper straw when one forcibly sucks against resistance. The chest wall of a young child, particularly less than three years old, is composed of more cartilage than that of an older child and is thus softer and more collapsible. Chest wall in-drawing may not be consistently  appreciated  in children older  than three  years  of age  [1 1]. Very severe pneumonia is characterized by tachypnea and cough plus at least one of the classic WHO danger signs: central cyanosis; inability to drink or feed (or vomiting anything ingested); lethargy or obtundation; convulsions; and other signs of severe respiratory distress such as head nodding and chest-abdominal see-sawing. As noted above, tachypnea may not be present in the later stages of very severe pneumonia  as  the  patient  begins  to  decompensate;  however,  the
+
+============================================================
+CHUNK 10
+============================================================
+CLINICAL EXAMINATION FINDINGS
+other danger signs will be present, particularly a decline in mental status
+
+============================================================
+CHUNK 11
+============================================================
+CLINICAL EXAMINATION FINDINGS
+Respiratory Observational, TABLE 38.1.Findings = Respiratory Observational. Respiratory Observational, Non-severe = Respiratory Observational. Respiratory Observational, Severe = Respiratory Observational. Respiratory Observational, Very severe = Respiratory Observational. •, TABLE 38.1.Findings = Rate. •, Non-severe = Age-speciRc tachypnoea. •, Severe = Age-speciRc tachypnoea. •, Very severe = Age-speciRc tachypnoea (unless decompensating). • •, TABLE 38.1.Findings = E?ort (Chest wall) *. • •, Non-severe = Normal - Intercostal retractions. • •, Severe = Lower chest wall indrawing Respiratory distress. • •, Very severe = Lower chest wall indrawing Severe respiratory distress. Cough, TABLE 38.1.Findings = Cough. Cough, Non-severe = Present. Cough, Severe = Present. Cough, Very severe = Present or absent. Danger signs, TABLE 38.1.Findings = Danger signs. Danger signs, Non-severe = Absent. Danger signs, Severe = Absent. Danger signs, Very severe = Present. • Oxygenation, TABLE 38.1.Findings = • Oxygenation. • Oxygenation, Non-severe = . • Oxygenation, Severe = Acrocyanosis. • Oxygenation, Very severe = Central cyanosis. •, TABLE 38.1.Findings = Feeding. •, Non-severe = Normal. •, Severe = Normal - reduced. •, Very severe = Inability to drink or feed Vomits everything. •, TABLE 38.1.Findings = A?ect. •, Non-severe = Less active, Irritable. •, Severe = Less active, Irritable. •, Very severe = Lethargy or unconscious. •, TABLE 38.1.Findings = Neurologic. •, Non-severe = None. •, Severe = None. •, Very severe = Convulsions. •, TABLE 38.1.Findings = Accessory e?ort. •, Non-severe = None. •, Severe = Nasal Saring. •, Very severe = Head-nodding, grunting, nasal Saring. , TABLE 38.1.Findings = . , Non-severe = . , Severe = . , Very severe = Chest-abdominal see-sawing. Auscultation,
+
+============================================================
+CHUNK 12
+============================================================
+CLINICAL EXAMINATION FINDINGS
+TABLE 38.1.Findings = Auscultation. Auscultation, Non-severe = Crepitations, Reduced breath sounds. Auscultation, Severe = Crepitations Reduced breath sounds Other (pleural rub). Auscultation, Very severe = Crepitations Severely diminished breath sounds Other (pleural rub). Pulse oximetry †, TABLE 38.1.Findings = Pulse oximetry †. Pulse oximetry †, Non-severe = Normal. Pulse oximetry †, Severe = Mild - moderate hypoxia. Pulse oximetry †, Very severe = Severe hypoxia. Management facility, TABLE 38.1.Findings = Management facility. Management facility, Non-severe = Outpatient. Management facility, Severe = Hospital or Outpatient ‡. Management facility, Very severe = Hospital. Treatment, TABLE 38.1.Findings = Treatment. Treatment, Non-severe = Oral antimicrobials Oxygen Supportive care. Treatment, Severe = Parenteral or oral antimicrobials Oxygen Supportive care. Treatment, Very severe = Parenteral antimicrobials Oxygen Supportive care. Speci-c antimicrobial therapy, TABLE 38.1.Findings = Speci-c antimicrobial therapy. Speci-c antimicrobial therapy, Non-severe = Speci-c antimicrobial therapy. Speci-c antimicrobial therapy, Severe = . Speci-c antimicrobial therapy, Very severe = . • •, TABLE 38.1.Findings = S. pneumoniae (MIC ≤ 2 µg/ml). • •, Non-severe = Parenteral benzyl penicillin. • •, Severe = . • •, Very severe = . •, TABLE 38.1.Findings = S. pneumoniae and H. in.uenzae type b (MIC ≤ 4 µg/ml for pneumococcus). •, Non-severe = Standard Dose: Amoxicillin or Amoxicillin Clavulanic Acid (for resistant organisms) 45 mg/kg ÷ BID × 3-5 days Or High Dose: Amoxicillin or Amoxicillin Clavulanic Acid (for resistant organisms) 90 mg/kg ÷ BID × 3-5 days Or Cotrimoxazole 20 mg/kg sulfamethoxazole ÷ BID × 5 days. •, Severe
+
+============================================================
+CHUNK 13
+============================================================
+CLINICAL EXAMINATION FINDINGS
+= Benzyl penicillin 50,000 units/kg IM or IV Q6 hours Added gentamicin optional 6-7.5 mg/kg/24h IM or IV ÷ Q8 hours (gentamicin levels need monitoring) Or Chloramphenicol 50-75 mg/kg IM or IV ÷ Q6 hours Alternative Chloramphenicol dose: 25 mg/kg IM or IV Q8 hours § Or Ceftriaxone 50-75 mg/kg IM or IV ÷ Q24 hours (may be divided Q12h). •, Very severe = Ampicillin 200 mg/kg IM or IV ÷ Q6 hours Added gentamicin optional 6-7.5 mg/kg/24h IM or IV ÷ Q8 hours (gentamicin levels need monitoring) Or Ceftriaxone 50-75 mg/kg IM or IV ÷ Q24 hours (may be divided Q12h). •, TABLE 38.1.Findings = S. pneumoniae and H. in.uenzae type b Treatment failure. •, Non-severe = High Dose: Amoxicillin or Amoxicillin Clavulanic Acid (for resistant organisms) 90 mg/kg ÷ BID × 3-7 days or Macrolide (e.g. Azithromycin) in standard dose. •, Severe = Choose an alternative antibiotic from above. •, Very severe = Choose an alternative antibiotic from above. •, TABLE 38.1.Findings = Staphylococcus aureus. •, Non-severe = . •, Severe = Cloxacillin 50 mg/kg IM or IV Q6 hours and Gentamicin 7.5 mg/kg IM or IV once daily (gentamicin levels need monitoring). •, Very severe = Cloxacillin 50 mg/kg IM or IV Q6 hours and Gentamicin 7.5 mg/kg IM or IV once daily (gentamicin levels need monitoring)
+*Most reliable in children < 3 years old
+† AQected by altitude
+‡ WHO recommends hospitalisation
+§ SOURCE: WHO/UNICEF, Management of the child with a serious infection or severe malnutrition: guidelines for care at the Rrst-level in developing countries. 2000: Dept of Child and Adolescent Health and Development, WHO
+
+============================================================
+CHUNK 14
+============================================================
+CLINICAL EXAMINATION FINDINGS
+(lethargy, obtundation). This combination should prompt immediate intervention (Table 38-1 - online only).
+
+============================================================
+CHUNK 15
+============================================================
+SUPPORTIVE CLINICAL FINDINGS
+Hypoxia is an under-appreciated feature of pneumonia with prognostic  significance.  Up  to  59%  of  children  admitted  to  hospital  with pneumonia  have  oxygen  saturation < 90%  (moderate  hypoxia)  or even less (severe hypoxia; SPO2 at elevation can be lower than 50%) [1]. The risk of mortality is substantially increased (by up to four times in certain settings) among hypoxic children. Clinical signs for identifying hypoxia have proven less reliable than pulse oxymetry. The use of pulse oxymetry has been shown to reduce mortality by up to 35% compared  with  clinical  criteria  [1].  Continuous  oxygen  therapy  by nasal prongs or nasal cannula is recommended for all children with moderate or greater hypoxia, as well as those with cyanosis, inability to drink or feed, or a respiratory rate > 60/minute.
+
+============================================================
+CHUNK 16
+============================================================
+LABORATORY INVESTIGATIONS
+Blood cultures are insensitive at establishing an etiologic agent [1]. Nasopharyngeal swabs are indicative of carriage, but do not establish invasiveness. A number of rapid antigen assays to detect respiratory viruses in nasopharyngeal washes or swabs are available in industrialized countries, but these are not readily available in resource-limited settings. Outside of intensive care settings, lung aspirates are considered too invasive as a general diagnostic approach. As such, there is currently no gold standard for etiologic diagnosis of acute pneumonia,  although  a  positive  blood  culture  with  a  potentially  causative agent  is,  in  most  cases,  considered  conclusive  of  invasive  disease. Newer  technologies  to  identify  invasive  pathogens  include  assays resting on antigen detection and/or amplification, but none of these have, as yet, become a standard.
+
+============================================================
+CHUNK 17
+============================================================
+CHEST ROENTGENOGRAMS (CHEST X-RAYS)
+Abnormal chest roentgenograms (CXRs) show reasonable sensitivity but  poor  specificity  for  bacterial  pneumonia  [12];  however,  many children  with  pneumonia  initially  have  normal  chest  radiographs. One reason is that CXR findings can lag behind clinical presentation [13], and CXRs are often not repeated. Current emphasis is on empirical therapy, rather than radiographic diagnosis [7].
+
+============================================================
+CHUNK 18
+============================================================
+MISCELLANEOUS CLINICAL FINDINGS
+Staphylococcal  pneumonia  may  be  associated  with  rapid  illness progression  in  the  presence  of  treatment,  and  can  result  in  lung cavitation,  pneumatocele, pneumothorax,  pleural  effusions  and empyema.
+Tuberculosis is often a diagnosis of exclusion in the absence of available laboratory support. If children have fever for > 14 days and clinical  pneumonia,  health  providers  should  consider  tuberculosis.  If other  causes  of  fever  cannot  be  identified,  then  anti-tuberculosis therapy should also be considered based on national epidemiology and guidelines.
+Pneumocystis (carinii) jiroveci infection should be considered in HIVinfected children, especially in the setting of hypoxia, respiratory distress  and  interstitial  infiltrates  on  CXR.  Therapy  should be  tailored accordingly.
+
+============================================================
+CHUNK 19
+============================================================
+DIFFERENTIAL DIAGNOSIS
+The signs and symptoms of clinical pneumonia are designed to be maximally  sensitive  (include  the  largest  possible  fraction  of  true pneumonia-positive cases), while sacrificing specificity (inclusion of false-positives  -  children  without  pneumonia)  in  order  to  ensure that the largest possible fraction of true pneumonia patients receive antimicrobial treatment.  Although  there  are  regional differences  in the  prevalence  of  other  diagnoses  and  comorbidities,  some  of  the more important syndromes to consider include the following, listed below.
+
+============================================================
+CHUNK 20
+============================================================
+Reactive Airways Disease (RAD or Asthma)
+This is reversible lower airway obstruction, associated with history of cough (particularly at night), with or without wheezing on auscultation (long, musical, high-pitched whistling sound on expiration originating in the bronchioles) and can be differentiated from crepitations (short crackling sounds on inspiration associated with pneumonia) in the alveoli by both the quality of the sound and particularly by the timing in the respiratory cycle. RAD may follow, or accompany, a viral infection, but often persists after the viral infection has resolved, and may be triggered by other causes (e.g. indoor air pollution). Fever is often not present. Cough, particularly night-time coughing may be the primary sign. This may be diagnosed by a beta-agonist challenge, such as with an albuterol nebulizer and is appreciated by a decrease in respiratory rate (by ≥ 5 breaths/minute) and effort, and improved oxygen saturation.
+
+============================================================
+CHUNK 21
+============================================================
+Bronchiolitis
+This is usually, but not always, viral in origin and is commonly caused by respiratory syncytial virus (RSV), but is associated with many respiratory viruses. It is characterized by cough and wheezing on expiration,  along  with  signs  of  viral  infection  -  notably  fever  and  often rhinorrhea. Children tend to be < 2 years of age and may present with wheezing for the first time. Children may or may not respond to betaagonist challenge, but young age and febrile wheezing are strongly suggestive.
+
+============================================================
+CHUNK 22
+============================================================
+Tuberculosis
+Tuberculosis has been discussed above, but should also be considered in children who have been successfully treated for pneumonia who then  return  with  subsequent  pneumonia  re-diagnoses.  These  may occur within days or weeks of prior successful treatment. Tuberculosis should  also  be  considered  in  children  who  do  not  respond  completely to conventional antibiotic therapy and/or have weight loss or failure-to-thrive (failure to appropriately gain weight), and/or have a known  exposure  or  other  suggestive  history.  Sputum  for  acid  fast bacilli (AFB) is difficult to obtain in children, but gastric lavage, tuberculous skin testing (e.g. Mantoux) and CXR may all be considered.
+
+============================================================
+CHUNK 23
+============================================================
+Malaria
+Malaria has been shown to present with many of the same signs and symptoms as severe pneumonia in high malaria endemic areas. Pallor (signs of anemia) and hemorrhagic skin lesions favor malaria [10]. Blood smears will identify malaria parasites, but may not always be diagnostic. Intervention in these cases should follow local or national guidelines.
+
+============================================================
+CHUNK 24
+============================================================
+Foreign Body Aspiration
+This  can  mimic  infectious  pneumonia  and  can  be  identified  by patient history if  ingestion was observed or suspected by a missing object.  Auscultation  findings can include either  crepitations and/or wheezing depending on the location of the foreign body. A CXR can be  diagnostic  and  treatment  often  requires  bronchoscopy,  where available.
+
+============================================================
+CHUNK 25
+============================================================
+Pertussis
+Pertussis is a vaccine-preventable infection that may present with a paroxysmal cough followed by a 'whoop' on inhalation. The infection is  primarily  in the bronchi. Fever may or  may not be present. Other indicators suggestive of pertussis include: subconjunctival hemorrhages (from extreme Valsalva-straining during paroxysms); apnea following  cough;  and  an  absence  of  diphtheria-pertussis-tetanus immunization.
+
+============================================================
+CHUNK 26
+============================================================
+Diphtheria
+Diphtheria is a vaccine-preventable infection that is characterized by fever, a gray membrane in the posterior pharynx and enlarged cervical lymph nodes often resulting in a 'bull neck'.
+
+TABLE 38-2 Evidence for Case-Management Ordered by Strength of Study Design
+
+============================================================
+CHUNK 27
+============================================================
+Diphtheria
+Category 1: double-blind studies, Objective = Category 1: double-blind studies. Category 1: double-blind studies, Size = Category 1: double-blind studies. Category 1: double-blind studies, Outcome = Category 1: double-blind studies. Category 1: double-blind studies, Signi>cance = Category 1: double-blind studies. Category 1: double-blind studies, Interpretation = Category 1: double-blind studies. Multicenter double-blind ePcacy [29], Objective = 3 vs 5 days amoxicillin for non-severe pneumonia. Multicenter double-blind ePcacy [29], Size = 2000. Multicenter double-blind ePcacy [29], Outcome = Treatment failure: 21% 3-day vs 20% 5-day. Multicenter double-blind ePcacy [29], Signi>cance = DiQerence 0.7% (95% CI: 1.8, 3.2). Multicenter double-blind ePcacy [29], Interpretation = 3-days equally eQective as 5-days*. Double-blind randomized multi-site controlled trial [16], Objective = To compare a 3-day course of standard dose (45 mg/kg/day) or double-dose (90 mg/kg/ day) amoxicillin in the management of non-severe pneumonia. Double-blind randomized multi-site controlled trial [16], Size = 876 children aged 2-59 months. Double-blind randomized multi-site controlled trial [16], Outcome = Treatment failure by day 5 and at 14 day follow-up. Double-blind randomized multi-site controlled trial [16], Signi>cance = 4.5% in standard vs 5.7% in double- dose regimen failed treatment by day 5; and 5.9% vs 7.9%, respectively by day 14 p = 0.55 p = 0.29. Double-blind randomized multi-site controlled trial [16], Interpretation = Non-severe pneumonia can be treated eQectively with a standard dose 3-day course of amoxicillin. Category 2: partially blinded and non-blinded multicenter studies, Objective = Category 2: partially blinded and non-blinded multicenter studies. Category 2: partially blinded and non-blinded multicenter studies, Size =
+
+============================================================
+CHUNK 28
+============================================================
+Diphtheria
+Category 2: partially blinded and non-blinded multicenter studies. Category 2: partially blinded and non-blinded multicenter studies, Outcome = Category 2: partially blinded and non-blinded multicenter studies. Category 2: partially blinded and non-blinded multicenter studies, Signi>cance = Category 2: partially blinded and non-blinded multicenter studies. Category 2: partially blinded and non-blinded multicenter studies, Interpretation = Category 2: partially blinded and non-blinded multicenter studies. Multi-center open-label randomized ePcacy [30], Objective = Chloramphenicol vs ampicillin and gentamicin x 5 days. Multi-center open-label randomized ePcacy [30], Size = 956. Multi-center open-label randomized ePcacy [30], Outcome = Treatment failure at 5 days: 16% failed chloramphenicol vs 11% ampicillin/ gentamicin †. Multi-center open-label randomized ePcacy [30], Signi>cance = RR 1.43 (95% CI 1.03, 1.97) §. Multi-center open-label randomized ePcacy [30], Interpretation = Ampicillin plus gentamicin is superior to chloramphenicol for very severe pneumonia. Open-label randomized ePcacy [31], Objective = Penicillin/gentamicin vs parenteral amoxicillin/ clavulanic acid. Open-label randomized ePcacy [31], Size = 72. Open-label randomized ePcacy [31], Outcome = Respiratory rate, oxygen saturation, chest wall in-drawing. Open-label randomized ePcacy [31], Signi>cance = 76 h ( ± 25) vs 75 h ( ± 24) p > 0.100. Open-label randomized ePcacy [31], Interpretation = Parenteral amoxicillin clavunate followed by oral amoxicillin/clavulanic is as eQective as penicillin/ gentamicin followed by oral amoxicillin for severe pneumonia. Randomized multicenter open-label study [32], Objective = To determine the ePcacy of parenteral-oral antimicrobial switch in treating severe (hospitalized) lobar or segmental
+
+============================================================
+CHUNK 29
+============================================================
+Diphtheria
+pneumonia. Randomized multicenter open-label study [32], Size = 177. Randomized multicenter open-label study [32], Outcome = Treatment failure. Randomized multicenter open-label study [32], Signi>cance = 100% of patients on 2 days parenteral ceftriaxone vs 96% on 1 day ceftriaxone were cured (failure 0% vs 4%). Randomized multicenter open-label study [32], Interpretation = Parenteral oral switching is feasible for serious pediatric community- acquired pneumonia. Randomized multisite open-label trial [20], Objective = To determine whether chloramphenicol vs combination benzyl penicillin plus gentamicin is better as Rrst-line parenteral therapy for severe pneumonia in children. Randomized multisite open-label trial [20], Size = 1116 (1 month-5 years). Randomized multisite open-label trial [20], Outcome = Adverse outcome (treatment failure or relapse). Randomized multisite open-label trial [20], Signi>cance = All adverse outcomes chloramphenicol vs penicillin/ gentamicin: RO 1.25; 95% CI 0.95, 1.67; p = 0.11 Death: 1.25; 95% CI 0.74, 2.15; p = 0.44. Randomized multisite open-label trial [20], Interpretation = Outcomes for severe pneumonia treated by either chloramphenicol or combination benzyl penicillin/gentamicin are similar. Randomized multisite open label trial [19], Objective = To determine whether home-management with high-dose oral amoxicillin (80-90 mg/kg/day ÷ BID) and inpatient parenteral ampicillin were equivalent in the management of severe pneumonia. Randomized multisite open label trial [19], Size = 2037 children aged 3-59 months. Randomized multisite open label trial [19], Outcome = Treatment failure by day 6. Randomized multisite open label trial [19], Signi>cance = Risk diQerence 1.1%, 95% CI 1.3-3.5. Randomized multisite open label trial [19], Interpretation = Home treatment with high-dose
+
+============================================================
+CHUNK 30
+============================================================
+Diphtheria
+oral amoxicillin is equivalent to hospital management with parenteral ampicillin.WHO recommendations for severe pneumonia should be revised. Category 3: non-randomized observational studies, Objective = Category 3: non-randomized observational studies. Category 3: non-randomized observational studies, Size = Category 3: non-randomized observational studies. Category 3: non-randomized observational studies, Outcome = Category 3: non-randomized observational studies. Category 3: non-randomized observational studies, Signi>cance = Category 3: non-randomized observational studies. Category 3: non-randomized observational studies, Interpretation = Category 3: non-randomized observational studies. Multicenter prospective observational study [22], Objective = To determine whether in vitro penicillin-resistant Streptococcus pneumoniae increases the risk of clinical failure in children hospitalized with severe pneumonia. Multicenter prospective observational study [22], Size = 240 children aged 3-59 months. Multicenter prospective observational study [22], Outcome = Treatment failure. Multicenter prospective observational study [22], Signi>cance = (adjusted) RR 1.03; 95% CI 0.49-1.90. Multicenter prospective observational study [22], Interpretation = No association between treatment failure and in vitro resistance. Penicillin remains drug of choice for treating penicillin-resistant pneumococcal pneumonia where MIC ≤ 2 μ g/ml
+
+TABLE 38-2 Evidence for Case-Management Ordered by Strength of Study Design-cont'd
+
+============================================================
+CHUNK 31
+============================================================
+Diphtheria
+Category 4: pooled analyses, Objective = Category 4: pooled analyses. Category 4: pooled analyses, Size = Category 4: pooled analyses. Category 4: pooled analyses, Outcome = Category 4: pooled analyses. Category 4: pooled analyses, Signi>cance = Category 4: pooled analyses. Category 4: pooled analyses, Interpretation = Category 4: pooled analyses. Pooled analysis of prospective double-blind randomized and non-comparative studies [21], Objective = To determine the ePcacy of enhanced amoxicillin/ clavulanate to treat penicillin-resistant S. pneumoniae. Pooled analysis of prospective double-blind randomized and non-comparative studies [21], Size = 5531. Pooled analysis of prospective double-blind randomized and non-comparative studies [21], Outcome = Treatment failure. Pooled analysis of prospective double-blind randomized and non-comparative studies [21], Signi>cance = Success rate pooled comparator arm: 86.5% Penicillin-resistant S. pneumoniae arm: 98.2%. Pooled analysis of prospective double-blind randomized and non-comparative studies [21], Interpretation = Enhanced amoxicillin/ clavulanate twice daily is eQective as empirical treatment of respiratory infections in children at risk for resistant S. pneumoniae. Category 5: reviews, Objective = Category 5: reviews. Category 5: reviews, Size = Category 5: reviews. Category 5: reviews, Outcome = Category 5: reviews. Category 5: reviews, Signi>cance = Category 5: reviews. Category 5: reviews, Interpretation = Category 5: reviews. Review [17], Objective = To review recommendations for Rrst-line treatment of non-severe pneumonia, targeting S. pneumoniae and Haemophilus in uenzae type b. Review [17], Size = . Review [17], Outcome = . Review [17], Signi>cance = . Review [17], Interpretation = Best Rrst-line agent for non-severe childhood pneumonia is amoxicillin twice daily for 3-5 days with antibiotic change (e.g. high-dose amoxicillin/clavulanate or macrolide) for failure to improve after 48-72 hours. Review [33], Objective = Determine the ePcacy of ß-lactams
+
+============================================================
+CHUNK 32
+============================================================
+Diphtheria
+for CAP. Review [33], Size = . Review [33], Outcome = . Review [33], Signi>cance = . Review [33], Interpretation = ß-lactams good for sensitive and intermediate resistant pneumococci. For hospitalized patients with CAP, recommend combination therapy (ß-lactam plus macrolide). Review [34], Objective = Evaluate amoxicillin/ clavulanate extended release against ß-lactamase-producing pathogens ( H. in uenzae, Moraxella catarrhalis, Haemophilus parain uenzae, Staphylococcus aureus ) and S. pneumoniae with reduced susceptibility (MIC 2.0 μ g/ml). Review [34], Size = . Review [34], Outcome = . Review [34], Signi>cance = . Review [34], Interpretation = Amoxicillin/clavulanate ER eQective in outpatient CAP against these pathogens. Review [35], Objective = To evaluate the ePcacy of new respiratory Suoroquinolones against resistant organisms. Review [35], Size = . Review [35], Outcome = . Review [35], Signi>cance = . Review [35], Interpretation = GemiSoxacin given twice daily for 5-7 days is non-inferior and even superior to other standard agents. Category 6: animal studies, Objective = Category 6: animal studies. Category 6: animal studies, Size = Category 6: animal studies. Category 6: animal studies, Outcome = Category 6: animal studies. Category 6: animal studies, Signi>cance = Category 6: animal studies. Category 6: animal studies, Interpretation = Category 6: animal studies. In vivo and in vitro multiarm study, Objective = Evaluate synergy between amoxicillin and gentamicin vs amoxicillin against highly resistant vs susceptible S. pneumoniae serotype 19. In vivo and in vitro multiarm study, Size = Amoxicillin/ gentamicin more eQective than amoxicillin alone after single injection and on repeated doses. Cumulative survival rate superior with amoxicillin/ gentamicin than amoxicillin alone. In vivo and in vitro multiarm study, Outcome = Single dose: (p < 0.001) Repeated doses: (p <
+
+============================================================
+CHUNK 33
+============================================================
+Diphtheria
+0.05). In vivo and in vitro multiarm study, Signi>cance = Combination therapy with amoxicillin/ gentamicin may be a viable alternative for highly penicillin- resistant pneumococcal pneumonia. In vivo and in vitro multiarm study, Interpretation = In vivo and in vitro multi-arm study
+*Treatment failure more likely in noncompliant children and those aged < 12 months (p < 0.001), and those with illness ≥ 3 days (p = 0.004).
+† Of 112 bacterial isolates from blood and lung aspirates in 110 children (11.5% of total) 47 were S. aureus and 22 were S. pneumonia .
+§ Bacteremia with any organism increased treatment failure in the chloramphenicol group (2.09, 1.41-3.10), but not in the ampicillin/gentamicin group (1.12, 0.59-2.13). CAP, community-acquired pneumonia; CI, conRdence interval; ER, extended release; MIC, minimum inhibitory concentration; RR, relative risk; WHO, World Health
+Organization.
+
+============================================================
+CHUNK 34
+============================================================
+TREATMENT
+Early  intervention  with  appropriate  antibiotics  is  associated  with  a 36%  reduction  in  pneumonia  mortality  [14].  Although  there  are general guidelines for treatment [7, 10], these should be tailored to local data on antimicrobial resistance. Table 38-2 includes recent supportive evidence, ranked by strength of study design, for current standard guidelines. The treatment regimens follow general principles of oral therapy for non-severe and even severe pneumonia in some cases, and parenteral antimicrobials for severe and very severe pneumonia, with  two  important  caveats.  Children  with  non-severe  pneumonia who are less than 2 months old [7] and those who are severely malnourished [10] should be referred to hospital because of their high risk of progressing to severe illness. Coverage for pneumonia should at least target S. pneumoniae and H. influenzae . The current guidance for first-line therapy for outpatient, non-severe, childhood pneumonia is to use standard dose amoxicillin (45 mg/kg divided into two daily doses) for 3-5 days. Evidence suggests that high-dose oral amoxicillin  should  be  effective  against  pneumococci  with  a  minimum inhibitory concentration (MIC) of ≤ 4 μ g/ml [15]. Current evidence also suggests that a three-day regimen of double-dose amoxicillin may be  as  effective  as  a  five-day  regimen  of  standard  dose  amoxicillin for  pediatric  community-acquired  pneumonia  [16].  Cotrimoxazole (20 mg/kg  sulfamethoxazole  divided  into  two  daily  doses  for  five days) may be used as an alternative agent. If a child fails to improve by  48-72 hours,  then  change  to high-dose  amoxicillin/clavulanate (90 mg/kg ÷ BID) for up to seven days or a macrolide such as azithromycin [17]. Additionally, the cause for treatment failure should be systematically determined.
+
+============================================================
+CHUNK 35
+============================================================
+TREATMENT
+The current practice for very severe pneumonia remains hospital treatment with either ampicillin with or without gentamicin or a thirdgeneration  cephalosporin  (e.g.  ceftriaxone  IV  at  50 mg/kg/day). Chloramphenicol resistance  remains high and  its clinical  performance in multicenter evaluation has been inferior [18]. The optimal treatment of children with severe pneumonia is less established. Historically,  international  guidance  was  that  children < 5  years  old  with severe pneumonia should be hospitalized for parenteral therapy [10]; however,  recent  evidence  suggests  that  children  treated  for  severe pneumonia on an outpatient basis with double-dose amoxicillin for five  days  recovered as  well  as  hospitalized  children  treated  for  two days with ampicillin followed by three days with high-dose amoxicillin  [19].  Combination  benzyl  penicillin  and  gentamicin  and  chloramphenicol  have  shown  equivalent  efficacy  in  the  treatment  of severe pneumonia [20].
+For outpatient non-severe pneumonia ,  enhanced amoxicillin/clavulanate twice  daily  is  effective  in  treating  penicillin-resistant S.  pneumoniae [21] and parenteral benzyl penicillin remains the drug of choice for treatment of S. pneumoniae where the penicillin MIC is ≤ 2 μ g/ml [22]. Limited data indicate that both severe and very severe pneumonia can be managed on an outpatient basis in a daycare clinical facility [23]; however, further studies on the management of severe pneumonia are needed to determine optimal treatment guidelines.
+If staphylococcal pneumonia is suspected, which is suggested by rapid clinical  deterioration  in  the  presence  of  standard  antimicrobial therapy, by CXR findings of a pneumatocele or pneumothorax with pleural  effusion,  by  skin  pustules,  soft  tissue  infection,  or  heavy growth of S. aureus in sputum, blood or empyema cultures, a regimen of  cloxacillin  (50 mg/kg  IM or IV  every  six  hours)  and gentamicin (7.5 mg/kg IM or IV once daily) is recommended [10].
+
+============================================================
+CHUNK 36
+============================================================
+TREATMENT
+In  addition  to  antimicrobial  coverage,  patients  with  moderate  or severe hypoxia ( ≤ 90% SPO2 on room air) should be provided continuous supplemental oxygen [24]. Flow rates are limited to ≤ 2 L/min by nasal prongs. If greater oxygenation is required, continuous positive air pressure (CPAP) or intubation in very severe cases should be considered, if feasible.
+Another important support for improving pneumonia case management is breastfeeding, which has been shown to have a strong effect on both pneumonia prevention and case-management, and should be encouraged as part of all management regimens for children up to 12 months of age [10].
+Other  supplemental  support  includes  beta-agonist  inhaler  use  for children who are wheezing and antipyretics for fever. Adequate hydration support is also important, as both tachypnea and fever increase insensible  water  loss  [10].  This  raises  the  possibility  of  using  oral rehydration solution as a hydration choice both because many children with pneumonia have diarrhea and also because of its ease of absorption; however, there is currently no evidence that oral rehydration solution versus other liquids is superior in treating children with pneumonia.
+
+============================================================
+CHUNK 37
+============================================================
+GOOD CLINICAL PRACTICE
+Once the patient  has  begun treatment and is  stabilized,  it is  good clinical practice to review with the parent the signs and symptoms of pneumonia and the indications for future clinical referral by illustrating  these  in  the  child.  Many  parents  in  high  pneumonia  endemic areas are poor at recognizing these signs, despite the high incidence of pneumonia [7] - presentation to a clinic may provide a 'teachable moment'. All patients  managed  on  an  outpatient  basis  should  be advised to return to the clinic if they fail to improve by 72 hours, or worsen at any time. The physician should follow-up all outpatients at least once to assess their status [25].
+
+============================================================
+CHUNK 38
+============================================================
+PREVENTION AND CONTROL
+Immunization  with H.  influenzae B  (Hib)  and  protein-conjugate pneumococcal  vaccines  may  be  able  to  prevent  up  to  50%  of  all pneumonia-related child mortality [26]. Currently, the Hib vaccine is used in over 100 countries and 61 out of 72 (85%) countries eligible for Global Alliance for Vaccines and Immunizations (GAVI) funding have agreed to introduce the Hib vaccine [27]. As of January 2009, 42  GAVI-eligible  countries  (58%)  expressed  interest  in  introducing pneumococcal vaccine [28]. Current recommendations include Hib, pneumococcal protein-conjugates, measles, and pertussis vaccines to decrease the global burden of pneumonia [7]. In addition to these vaccines, other interventions for which there is strong preventive evidence include zinc and hand-washing [1, 7]. Exclusive breastfeeding for the first six months of life reduces pneumonia mortality fivefold, while  continuation  of  breastfeeding  for  infants  aged  6-1 1  months further reduces pneumonia mortality and should be encouraged [7]. Finally,  as  malnutrition  is  estimated  to  contribute  an  additional  1 million child deaths per year and complicates over 50% of all lessthan-five-year-old mortality [2], long-term solutions and programs to reduce  pneumonia  mortality  should  include  ensuring  adequate nutrition.
+
+============================================================
+CHUNK 39
+============================================================
+REFERENCES
+1. Scott JA, Brooks  WA,  Peiris JS, et  al.  Pneumonia  research  to  reduce childhood  mortality  in  the  developing  world.  J  Clin  Invest  2008;1 18: 1291-300.
+2. Bryce  J,  Boschi-Pinto  C,  Shibuya  K,  et  al.  WHO  estimates  of  the  causes  of death in children. Lancet 2005;365:1147-52.
+3. Rudan  I,  Boschi-Pinto  C,  Biloglav  Z,  et  al.  Epidemiology  and  etiology  of childhood pneumonia. Bull World Health Organ 2008;86:408-16.
+4. McCullers JA. Insights into the interaction between influenza virus and pneumococcus. Clin Microbiol Rev 2006;19:571-82.
+5. Madhi SA, Klugman KP. A role for Streptococcus pneumoniae in virus-associated pneumonia. Nat Med 2004;10:811-13.
+6. McCullers  JA,  Bartmess  KC.  Role  of  neuraminidase  in  lethal  synergism between influenza virus and Streptococcus pneumoniae . J Infect Dis 2003;187: 1000-9.
+7. Wardlaw  T,  Johansson  EW,  Hodge  M.  Pneumonia:  The  Forgotten  Killer  of Children. New York, Geneva: The United Nations Children's Fund (UNICEF)/ World Health Organization (WHO); 2004:1-44.
+8. Davis GM, Bureau MA. Pulmonary and chest wall mechanics in the control of respiration in the newborn. Clin Perinatol 1987;14:551-79.
+9. Knelson JH, Howatt WF, DeMuth GR. The physiologic significance of grunting respiration. Pediatrics 1969;44:393-400.
+
+============================================================
+CHUNK 40
+============================================================
+REFERENCES
+10.  World Health Organization. Management of the child with a serious infection or severe malnutrition: guidelines for care at the first-referral level in developing countries. Geneva: World Health Organization and UNICEF; 2000:162.
+11.  Harari M, Shann F, Spooner V, et al. Clinical signs of pneumonia in children. Lancet 1991;338:928-30.
+12.  Ferrero F, Torres F, Noguerol E, et al. Evaluation of two standardized methods for chest radiographs interpretation in children with pneumonia. Arch Argent Pediatr 2008;106:510-14.
+13.  Redd  SC,  Patrick  E,  Vreuls  R,  et  al.  Comparison  of  the  clinical  and  radiographic  diagnosis  of  paediatric  pneumonia.  Trans  R  Soc  Trop  Med  Hyg 1994;88:307-10.
+14.  Sazawal S, Black RE. Effect of pneumonia case management on mortality in neonates,  infants,  and  preschool  children:  a  meta-analysis  of  communitybased trials. Lancet Infect Dis 2003;3:547-56.
+15.  Klugman KP. Bacteriological evidence of antibiotic failure in pneumococcal lower respiratory tract infections. Eur Respir J 2002;36(Suppl.):3s-8s.
+16.  Hazir T, Qazi SA, Bin Nisar Y, et al. Comparison of standard versus double dose of amoxicillin  in  the  treatment  of non-severe  pneumonia in children aged 2-59 months: a multi-centre, double blind, randomised controlled trial in Pakistan. Arch Dis Child 2007;92:291-7.
+17.  Grant GB, Campbell H, Dowell SF, et al. Recommendations for treatment of childhood non-severe pneumonia. Lancet Infect Dis 2009;9:185-96.
+18.  Asghar  R,  Banajeh S,  Egas  J,  et  al.  Chloramphenicol  versus  ampicillin  plus gentamicin for community acquired very severe pneumonia among children aged 2-59 months in low resource settings: multicentre randomised controlled trial (SPEAR study). BMJ 2008;336:80-4.
+
+============================================================
+CHUNK 41
+============================================================
+REFERENCES
+19.  Hazir  T,  Fox  LM,  Nisar  YB,  et  al.  Ambulatory  short-course  high-dose  oral amoxicillin  for  treatment  of  severe  pneumonia  in  children:  a  randomised equivalency trial. Lancet 2008;371:49-56.
+20.  Duke T, Poka H, Dale F, et al. Chloramphenicol versus benzylpenicillin and gentamicin for the treatment of severe pneumonia in children in Papua New Guinea: a randomised trial. Lancet 2002;359:474-80.
+21.  File TM Jr, Jacobs MR, Poole MD, et al. Outcome of treatment of respiratory tract  infections  due  to Streptococcus  pneumoniae ,  including  drug-resistant strains,  with  pharmacokinetically  enhanced  amoxycillin/clavulanate.  Int  J Antimicrob Agents 2002;20:235-47.
+22.  Cardoso MR, Nascimento-Carvalho CM, Ferrero F, et al. Penicillin-resistant pneumococcus and risk of treatment failure in pneumonia. Arch Dis Child 2008;93:221-5.
+23.  Ashraf H, Jahan SA, Alam NH, et al. Day-care management of severe and very severe pneumonia, without associated co-morbidities such as severe malnutrition, in an urban health clinic in Dhaka, Bangladesh. Arch Dis Child 2008; 93:490-4.
+24.  Subhi  R,  Adamson  M,  Campbell  H,  et  al.  The  prevalence  of  hypoxaemia among ill children in developing countries: a systematic review. Lancet Infect Dis 2009;9:219-27.
+25.  Lanata CF, Rudan I, Boschi-Pinto C, et al. Methodological and quality issues in epidemiological studies of acute lower respiratory infections in children in developing countries. Int J Epidemiol 2004;33:1362-72.
+26.  Madhi SA, Levine OS, Hajjeh R, et al. Vaccines to prevent pneumonia and improve child survival. Bull World Health Organ 2008;86:365-72.
+27.  PneumoADIP.  Hib Vaccines.  2009  Available  at:  http://www.preventpneumo.org/ vaccine_status/hib_vaccines/index.cfm.
+
+============================================================
+CHUNK 42
+============================================================
+REFERENCES
+28.  PneumoADIP.  Pneumococcal  Vaccines.  2009. Available at: http://www. preventpneumo.org/vaccine_status/pneumococcal_vaccines/index.cfm.
+29.  Pakistan Multicentre Amoxycillin Short Course Therapy (MASCOT) pneumonia study group. Clinical efficacy of 3 days versus 5 days of oral amoxicillin for  treatment  of  childhood  pneumonia:  a  multicentre  double-blind  trial. Lancet 2002;360:835-41.
+30.  Asghar  R,  Banajeh  S,  Egas  J,  et  al.  Chloramphenicol  versus  ampicillin  plus gentamicin for community acquired very severe pneumonia among children aged 2-59 months in low resource settings: multicentre randomised controlled trial (SPEAR study). BMJ 2008;336:80-4.
+31.  Bansal  A,  Singhi  SC,  Jayashree  M.  Penicillin  and  gentamicin  therapy  vs amoxicillin/clavulanate  in  severe  hypoxemic  pneumonia.  Indian  J  Pediatr 2006;73:305-9.
+32.  Dagan R, Syrogiannopoulos G, Ashkenazi S, et al. Parenteral-oral switch in the management of paediatric pneumonia. Drugs 1994;47(Suppl. 3):43-51.
+33.  Aspa J, Rajas O, de Castro FR. Pneumococcal antimicrobial resistance: therapeutic strategy and management in community-acquired pneumonia. Expert Opin Pharmacother 2008;9:229-41.
+34.  Benninger  MS.  Amoxicillin/clavulanate  potassium  extended  release  tablets: a  new  antimicrobial  for  the  treatment  of  acute  bacterial  sinusitis  and community-acquired pneumonia. Expert Opin Pharmacother 2003;4: 1839-46.
+35.  Blondeau  JM,  Tillotson  G.  Role  of  gemifloxacin  in  the  management  of community-acquired  lower  respiratory  tract  infections.  Int  J  Antimicrob Agents 2008;31:299-306.
+

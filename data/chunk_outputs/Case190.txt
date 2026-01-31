@@ -1,0 +1,557 @@
+============================================================
+CHUNK 0
+============================================================
+Key features
+- Caused by Trypanosoma cruzi , a @agellate protozoan parasite of the order Kinetoplastida, family Trypanosomatidae
+- Endemic in the Americas from Mexico to northern Argentina and Chile. Twenty-eight million people are at risk; it is estimated that 8-10 million people are currently infected. Forty-one thousand and two hundred new infections and 12,500 deaths are estimated to occur annually
+- The southern half of the USA has enzootic vector-borne transmission and rare autochthonous human cases
+- Owing to migration now seen in North America, Europe (particularly Spain), Australia and Japan, acute Chagas disease has rarely been reported in travelers returning from endemic countries
+- Transmitted by hematophagous triatomine vectors (Hemiptera, Reduviidae, Triatominae), more than 100 species of mammal act as reservoirs
+- Trypanosoma cruzi can also be transmitted congenitally, by blood transfusion or organ donation, and via contaminated food or drink
+- Factors that may aAect pathogenesis include parasite burden, the severity of the initial infection, host immune response and human genetic factors. Tissue in@ammation may be caused directly by the parasite and secondary to the host's immune response
+
+============================================================
+CHUNK 1
+============================================================
+INTRODUCTION
+Chagas  disease  is  a  zoonotic  protozoan  infection  transmitted  by hematophagous triatomine bugs (Hemiptera, Reduviidae, Triatominae), a subfamily of the reduviid bugs (http://www.cdc.gov/parasites/ chagas/gen_info/vectors/index.html). In 1909, Carlos Chagas, a Brazilian  scientist,  discovered  the  etiologic  agent  (the  flagellate  protozoan parasite Trypanosoma cruzi) , described the clinical picture of acute disease and documented the vector and reservoir hosts.
+In Latin America, Chagas disease affects millions and is one of the leading causes of cardiomyopathy with a high morbidity and mortality rates [1].
+Thanks to efforts undertaken to control the vector and secure blood supply,  the  incidence  and  prevalence  have  decreased  considerably since  the  1990s.  However,  imported  Chagas  disease  is  increasingly recognized as an emerging problem in the USA and Europe as a result of immigration from Latin America. Most immigrants were infected during childhood and may now be at an age when the first manifestations of cardiomyopathy would be expected to appear. Clinicians in
+
+============================================================
+CHUNK 2
+============================================================
+American Trypanosomiasis (Chagas disease)
+98
+Rogelio López-Vélez, Francesca F Norman, Caryn Bern
+- The natural history includes the acute phase lasting 2-3 months and the chronic phase, which lasts the lifetime of the host. An estimated 20-30% of people who initially have the indeterminate (asymptomatic) form progress over a period of years to clinically-evident cardiac and/or gastrointestinal disease
+- Severe and fatal cases of T. cruzi infection following organ, tissue, or cell transplantation, and HIV co-infection can occur
+- Diagnosis of acute and early congenital T. cruzi infection requires demonstration of the parasite in blood by microscopy, PCR or hemoculture. Diagnosis of chronic infection relies on serologic tests (e.g. ELISA) to detect IgG antibodies to T. cruzi
+- Indication for anti-parasitic therapy depends on the phase of the disease and the clinical status and age of the patient. There are currently only two available drugs: benznidazole and nifurtimox
+- Prevention and control relies on residual application of long-lasting insecticides in human dwellings and peridomestic structures, and serologic screening of blood donors, pregnant women and the newborns of women found to be infected
+- Chagas disease has now emerged in North America and Europe. Physicians in non-endemic countries should therefore be aware of the existence, or even the potential transmission, of this parasitic disease during their routine clinical practice
+non-endemic areas may, therefore, face migrants with symptomatic or asymptomatic T. cruzi infection, as well as acute infections transmitted congenitally, through organ donation or blood transfusions. Chagas disease is considered a neglected tropical disease, characterized by an urgent need for new tools for screening, treatment and test of cure.
+
+============================================================
+CHUNK 3
+============================================================
+VECTOR-BORNE TRANSMISSION, VECTORS AND NON-HUMAN RESERVOIR HOSTS
+Trypanosoma cruzi is carried in the gut of the triatomine bug; transmission occurs when infected bug feces are inoculated through the bite wound or intact mucous membranes [2]. Vector-borne transmission occurs  exclusively  in  the  Americas  and  remains  the  predominant mechanism for new human infections.
+Triatomines of both sexes must take blood meals to develop through their nymphal stages to adults; females require a blood meal to lay
+eggs.  Thus,  nymphs  and  adults  of  either  sex  may  be  infected  with T. cruzi , but infection rates increase with increasing vector stage and age. There are at least 130 triatomine species in the Americas, many of which have been documented to carry T. cruzi . However, a handful of highly domiciliated vector species are of disproportionate importance  in  the  human  epidemiology  of  disease  [3].  These  include: Triatoma  infestans in  the  Southern  Cone  (Argentina,  Bolivia,  Chile, Paraguay, southern Peru, Uruguay and southern Brazil); Rhodnius prolixus and Triatoma dimidiata in northern South America and Central America; and Panstrongylus megistus and Triatoma brasiliensis in Brazil. Most domestic species feed nocturnally and are able to complete their blood  meal  without  waking  the  host.  The  major  Latin  American vectors defecate during,  or immediately after taking, a blood meal, increasing  the  likelihood  of  infecting  the  host.  Some  triatomine species  can  infest  both  domestic  and  sylvatic  sites  and  may  play  a bridging role.
+
+============================================================
+CHUNK 4
+============================================================
+VECTOR-BORNE TRANSMISSION, VECTORS AND NON-HUMAN RESERVOIR HOSTS
+More  than  100  species  of  mammals  have  been  reported  to  carry natural infections with T. cruzi . Sylvatic transmission cycles are maintained by wild mammals and triatomine  species; the  vectors often colonize nests of rodent or marsupial reservoir hosts. Wild triatomine adults may fly into  human dwellings, attracted by light, and cause sporadic  human  infections.  Domestic  transmission  cycles  occur where  vectors  are  adapted  to  living  in  human  houses  and  nearby animal enclosures. The peridomestic environment provides abundant hosts that act as blood meal sources and poor quality housing provides  crevices  and  other  diurnal  hiding  places  for  triatomines.  In endemic communities, a high proportion of houses may be infested, and a house and its immediate surroundings may support large colonies of bugs. Dogs, cats and guinea pigs act as important domestic T.  cruzi reservoir  hosts,  while  opossums,  rodents,  armadillos  and raccoons are important sylvatic hosts.
+
+============================================================
+CHUNK 5
+============================================================
+NON-VECTORIAL TRYPANOSOMA CRUZI TRANSMISSION
+Trypanosoma cruzi can also be transmitted congenitally, by blood transfusion or organ donation, and via contaminated food or drink. An estimated  5-6%  (range  1-10%) of infants of infected  mothers  are born with congenital T.  cruzi infection [4]. Congenital transmission can occur from women who were infected congenitally, perpetuating the disease in the absence of the vector. Factors reported to increase risk include higher maternal parasitemia level, less robust maternal antiT. cruzi immune responses, HIV and, in an animal model, parasite  strain.  Transfusional  transmission of T.  cruzi was  first  hypothesized in 1936 and the first documented occurrence was published in 1952. The risk of T. cruzi transmission per infected unit transfused is estimated to be 10-25% [5]. Platelet transfusions are thought to pose a higher risk than those of other components, such as packed red cells. Uninfected recipients who receive an organ from a T.  cruzi -infected donor may develop acute T. cruzi infection. However, transmission is not  universal  and varies  depending on  the organ transplanted and degree of immunosuppression [6]. In a series of 16 uninfected recipients of kidneys from infected donors, only 3 (19%) acquired T. cruzi infection; cardiac transplantation is thought to pose a much higher risk. Eighteen instances of transmission by organ transplantation have been documented in the literature to date (12 kidney, 1 kidney and pancreas, 3 liver, 2 heart transplants) [6]. Recently, increasing attention has focused on the oral route of T. cruzi transmission, with several outbreaks attributed to contaminated fruit or sugar cane juice reported from Brazil and Venezuela [7, 8].
+
+============================================================
+CHUNK 6
+============================================================
+GEOGRAPHIC DISTRIBUTION AND DISEASE BURDEN
+Historically, Chagas disease primarily affected rural Latin America [2, 9]. In settings with endemic vector-borne transmission, T. cruzi infection  is  usually  acquired  in  childhood.  Because the infection is lifelong,  the  seroprevalence  in  an  area  with  sustained  vector-borne transmission rises with age and may reach high levels in adulthood, reflecting  cumulative  incidence.  The  country  with  the  highest  estimated prevalence of T. cruzi infection is Bolivia, where many endemic rural communities have adult infection prevalences > 20%, followed by  Argentina,  El  Salvador  and  Honduras.  However,  vector-borne transmission occurred historically throughout the Americas from the southern USA to Chile and Argentina in the south [2]. Because cardiac and gastrointestinal manifestations usually begin in early adulthood and progress over a period of years (to decades), the prevalence of symptomatic clinical disease increases with increasing age.
+Several Chagas disease control initiatives have made major advances in  decreasing  house  infestation  and  ensuring T.  cruzi screening  of blood supplies [9, 10]. As a consequence, the estimated global prevalence of Chagas disease has fallen from 18 million in 1991 to 8-10 million in 2005. At the same time, migration has brought infected individuals to cities both within and outside of Latin America. The estimated disease burden outside of Latin America includes as many as 67,000 T. cruzi -infected immigrants in Spain and tens of thousands in Italy, France and Switzerland [1 1]. Immigrants with Chagas disease are also known to be living in Japan, Australia and Canada (Fig. 98.1).
+The USA is a special case in that the southern half of the USA contains established  enzootic  cycles  of T.  cruzi ,  involving  several  triatomine vector species and mammalian hosts, such as rodents, raccoons, opossums and domestic dogs. A total of seven vector-borne T. cruzi infections are documented to have occurred in the USA since the 1950s, but  most  are  presumed  to  go  undetected  [12].  Nevertheless,  the number of autochthonous T. cruzi infections is dwarfed by the estimated  300,000  infected  immigrants  from  endemic  areas  of  Latin America [13].
+
+============================================================
+CHUNK 7
+============================================================
+CONTROL AND PREVENTION
+Application of long-lasting insecticides in human dwellings and peridomestic structures is effective  against domestic  triatomine vectors, but must be followed by monitoring for re-infestation [9]. Between 1991 and 2004, four sub-regional control programs were established. The  major  aims  were  to  control  transmission  by  domestic  vectors through house spraying programs and to prevent blood-borne T. cruzi transmission by establishing blood donation screening. Programs to address  congenital T.  cruzi infection  were  subsequently  added  in several countries.
+The Southern Cone Initiative, the first program to be established, has resulted  in  the  certification  of  elimination  of  transmission  by T. infestans in  Chile  (1999),  Uruguay  (1997)  and  Brazil  (2006),  plus several  departments/provinces  of Argentina and Paraguay [10]. The success of the Southern Cone Initiative inspired the subsequent establishment of initiatives in Central America, the Amazon and Andean countries. Trypanosoma cruzi transmission by R. prolixus was certified as interrupted throughout Guatemala in 2008.
+Serologic screening of blood components for T. cruzi is now compulsory in all but one of the endemic countries in the region, and the prevalence of infection in screened donors has decreased substantially [14]. Nevertheless, Chagas disease screening coverage by country was estimated to vary from 25% to 100% in 2002, and the risk of transmission through blood transfusion, though much decreased, has not been eliminated. The residual risk in Latin America where screening has been implemented is estimated to be 1  : 200,000 units.
+Congenital Chagas disease screening programs usually rely on prenatal  serologic  screening  followed  by  microscopic  examination  of concentrated  cord  blood  from  infants  of  seropositive  mothers  [4]. Conventional IgG serology is recommended after nine months of age for infants with negative screening tests at birth. These programs have been challenged  by suboptimal sensitivity of cord  blood screening and high loss to follow-up later in infancy.
+Surveys of sentinel populations, usually children younger than five years of age or new military recruits, are used to monitor the impact of control initiatives:  steep  declines  in T.  cruzi infection  prevalence have been documented in many Latin American countries. However, focal vector-borne transmission continues in most endemic countries of Latin America and the success of the Southern Cone Initiative is now challenged by re-infestation from residual vector colonies and
+
+============================================================
+CHUNK 8
+============================================================
+CONTROL AND PREVENTION
+FIGURE 98.1 Distribution of cases of Trypanosoma cruzi infection, based on oTcial estimates and status of vector transmission worldwide, 2006-2009. (From WHO, Global Health Observatory. http://gamapserver.who.int/mapLibrary/Files/Maps/Global_chagas_2009.png).
+the  development  of  insecticide  resistance,  especially  in  the  Gran Chaco-a heavily infested ecologic zone shared by Argentina, Bolivia and Paraguay.
+
+============================================================
+CHUNK 9
+============================================================
+LIFE CYCLE
+Trypanosoma cruzi is a flagellate protozoan parasite of the order Kinetoplastida,  family  Trypanosomatidae,  which  passes  part  of  the  life cycle in the triatomine vector and part in the human or nonhuman mammalian host. In the mammalian host, infective trypomastigotes circulate  in  the  bloodstream  and  intracellular  dividing  amastigotes occur in tissues. Dividing epimastigotes and infective metacyclic trypomastigotes are found in the vector. Triatomine vectors are infected by ingestion of circulating trypomastigotes in a blood meal. In the triatomine  midgut,  trypomastigotes  transform  into  epimastigotes which replicate by binary fission. Daughter epimastigotes migrate to the vector hindgut and differentiate into metacyclic trypomastigotes. Infective  metacyclic  trypomastigotes  are  excreted  during  defecation and  enter  the  mammalian  host  by  penetrating  the  bite  wound  or other breaks in the skin, or through intact mucous membranes. Trypomastigotes circulate  in  blood,  invade  cells  and  differentiate  into amastigotes which replicate and then transform into trypomastigotes. Infected cells rupture and disseminate trypomastigotes into the circulation to invade adjacent cells and other tissues at distant sites via the bloodstream  and  lymphatics,  with  special  affinity  for  muscle  and ganglion cells. A blood meal with ingestion of trypomastigotes by the vector completes the cycle (Fig. 98.2) [2].
+
+============================================================
+CHUNK 10
+============================================================
+PATHOGENESIS AND PATHOLOGY
+Both parasite and host factors are thought to influence the development of clinical manifestations and severity of disease following T. cruzi infection. The pathogenesis of Chagas disease is not completely understood,  but  possible  factors  that  may  alter  chronic  severity include  the  parasite  burden  and  severity  of  the  initial  infection, re-infections, the host immune response and human genetic factors. Distinct evolutionary lineages of the parasite ( T. cruzi Discrete Typing
+Units [DTUs] I-VI) have been identified [15]. Specific T. cruzi DTUs may be associated with different geographical distributions, transmission cycles and susceptibility to trypanocidal drugs. The occurrence of the digestive form of Chagas disease principally in areas south of the Amazon basin is believed to be as a result of differences in parasite strains [16]. Multiple DTUs with different tissue tropism may coexist in the same patient and the type detected in blood may not be the same as that found in tissue lesions. Recent data suggest that specific parasite  DTUs  may  be  more  frequently  associated  with  cardiac involvement  [17].  Parasite  molecules  such  as  cruzipain  and  transsialidases regulate adhesion and invasion of host cells and/or immune evasion; variations in expression of these molecules may influence the virulence of T. cruzi .
+Tissue damage appears to be caused both by direct parasite effects and secondary to the host's immune response. Cross-reactivity between T. cruzi antigens  and  auto-antigens,  and  an  imbalance  between  CD4 + and CD8 + T lymphocyte responses leading to excessive production of inflammatory cytokines may have roles in immune-mediated tissue damage [2, 18].
+During the acute phase of infection (usually corresponding to the first 2-3  months  after  infection),  all  types  of  nucleated  cells  may  be infected  and  inflammatory  changes  are  especially  marked  close  to ruptured  infected  cells.  Lesions  reveal  localized  inflammatory  reactions,  acute  diffuse  myocarditis  with  myocyte  necrosis,  interstitial edema and inflammatory cell infiltrates [19]. Inflammatory lesions may also be found in the smooth muscle of the esophagus and colon, and the central and peripheral nervous systems.
+
+============================================================
+CHUNK 11
+============================================================
+PATHOGENESIS AND PATHOLOGY
+In nearly all infected individuals, an effective host immune response, involving T helper-1, CD4 + and CD8 + lymphocytes and the production of interferonγ , tumor necrosis factorα and interleukin-12, develops  within  60  days  of  infection  which  controls  the  parasitemia. However, in the absence of effective treatment, tissue infection persists for the life of the host. In the indeterminate form of the chronic phase, isolated inflammatory foci may be found in tissues.
+The parasite  is  difficult  to  detect  in  the  chronic  phase,  but  there  is now a consensus that parasite persistence is required for development of  disease.  A  positive  correlation  between  parasite  DNA  in  tissue lesions  and  disease  progression  and  severity  has  been  shown  [20].
+ingested)
+Triatomine bug takes a blood meal (passes metacyclic trypomastigotes in feces, trypomastigotes enter bite wound or mucosal membranes, such as the conjunctiva)
+FIGURE 98.2 Life cycle of Trypanosoma cruzi .
+However, the pathogenesis of cardiomyopathy includes components of immunologically-mediated damage to heart tissue; autoantibodies that cross-react with heart tissue may contribute to the pathology. A low-level, ongoing myocarditis of all chambers leads to diffuse myocardial fibrosis, scarring of the conduction system and reduction in cardiac  fibers,  often  leading  to  dilated  cardiomyopathy,  sometimes accompanied by an apical aneurysm.
+Gastrointestinal  involvement  in  chronic  Chagas  disease  is  thought to  be  produced  by  destruction  of  autonomic  ganglia  in  the  gut walls,  with  unmasking  as  a  result  of  age-related  attrition  of  the remaining  nerve  cells  and  eventually  leading  to  megaesophagus and/or megacolon [21].
+
+============================================================
+CHUNK 12
+============================================================
+ACUTE TRYPANOSOMA CRUZI INFECTION
+Metacyclic trypomastigotes penetrate various nucleated cells at bite wound site. Inside cells they transform into amastigotes.
+Following vector-borne T. cruzi exposure, the incubation period is 1-2 weeks, after which the acute phase of infection begins [2]. The acute phase lasts 8-12 weeks and is characterized by circulating trypomastigotes detectable by microscopy of fresh blood or buffy coat smears. Most patients are asymptomatic or have mild, nonspecific symptoms, such as fever, lymphadenopathy and/or hepatosplenomegaly, and do not  come  to  clinical  attention  during  the  acute  phase.  In  some patients, acute infection is associated with inflammation and swelling at the site of inoculation, known as a chagoma. Chagomas typically occur on the face or extremities, and parasites may be demonstrable in an aspirate of the lesion. Inoculation via the conjunctiva leads to the  characteristic  unilateral  swelling  of  the  upper  and  lower  eyelid known as the Romañ a sign (Fig. 98.3). Severe acute disease occurs in less  than  1%  of patients; manifestations include acute myocarditis,
+FIGURE 98.3 Acute Chagas disease in a child. The eye sign of Romaña is present. This is frequently seen in acute cases and is presumed to mark the point of entry of the parasite. (From Special Programme for Reseach & Training in Tropical Diseases, World Health Organization).
+pericardial effusion, and/or meningoencephalitis. Acute Chagas disease carries an estimated risk of mortality in the range of 1 in 200 to 1 in 400 cases [2]. Orally-transmitted T. cruzi infection appears to be associated with more severe acute morbidity and higher mortality than vector-borne infection. For example, 75% of 103 infected individuals in a 2007 outbreak in a Caracas school linked to contaminated  fruit  juice  were  symptomatic,  59%  had  electrocardiography (ECG) abnormalities, 20% were hospitalized and there was one death from acute myocarditis [8].
+B
+
+============================================================
+CHUNK 13
+============================================================
+CHRONIC TRYPANOSOMA CRUZI INFECTION
+Eight to 12 weeks after infection, parasitemia levels become undetectable by microscopy and, in the absence of effective anti-trypanosomal treatment,  the  individual  passes  into  the  chronic  phase  of T.  cruzi infection. Despite the absence of microscopically-detectable parasites in the peripheral blood, persons with chronic T. cruzi infection can transmit  the  parasite  to  the  vector  and  directly  to  other  humans through blood  components,  organ  donation and  congenitally. Persons with chronic T. cruzi infection, but without signs or symptoms of Chagas disease, are considered to have the indeterminate or aysmptomatic form. An estimated 20-30% of people who initially have the indeterminate form of Chagas disease progress over a period of years (to  decades)  to  clinically-evident  cardiac  and/or  gastrointestinal disease [2].
+
+============================================================
+CHUNK 14
+============================================================
+CHAGAS CARDIOMYOPATHY
+Chagas  cardiomyopathy  is  characterized  by  chronic  inflammation affecting all chambers of the heart, conduction system damage and often an apical aneurysm [22]. The first manifestations usually consist of  right  bundle  branch  block,  left  anterior  fascicular  block  and/or segmental left ventricular wall motion abnormalities (Table 98-1) [2, 23].  Later  manifestations  include:  complex  ventricular  extrasystoles and non-sustained and sustained ventricular tachycardia; sinus node dysfunction leading to severe bradycardia; a high degree of atrioventricular block; an apical aneurysm, usually in the left ventricle; emboli as  a  result  of  thrombus  formation  in  the  dilated  left  ventricle  or aneurysm; and progressive dilated cardiomyopathy with congestive heart  failure.  Signs  of  impaired  left  ventricular  function,  New  York Heart  Association  functional  class  III  or  IV,  cardiomegaly  on  chest x-ray and/or non-sustained ventricular tachycardia on 24-hour ambulatory  ECG  monitoring  indicate  poor  prognosis  and  high  risk  of mortality in the short-term [24].
+TABLE 98-1 Interpretation of Electrocardiogram (ECG) Findings in a Patient with Chagas disease
+
+============================================================
+CHUNK 15
+============================================================
+ECG Andings characteristic of and common in Chagas disease
+Right bundle branch block
+Incomplete right bundle branch block with QRS 0.10-0.11 (in adults)* Left anterior fascicular block 1° atrioventricular block 2° atrioventricular block
+Complete atrioventricular block
+Bradycardia and other manifestations of sinus node dysfunction Ventricular extrasystoles, often frequent, multifocal and/or paired Non-sustained or sustained ventricular tachycardia
+
+============================================================
+CHUNK 16
+============================================================
+ECG Andings less common but clinically signiAcant in Chagas disease
+Atrial Ubrillation or Vutter Left bundle branch block Low QRS voltage
+Q waves
+
+============================================================
+CHUNK 17
+============================================================
+NonspeciAc ECG Andings
+NonspeciUc ST-T wave changes Minor increase in PR interval rsR' not meeting duration criteria for right bundle branch block
+*Criteria based on the Minnesota Code Manual of Electrocardiographic Findings with modiUcations from Maguire JH, Mott KE, Souza JA, et al. Electrocardiographic classiUcation and abbreviated lead system for populationbased studies of Chagas' disease. Bull Pan Am Health Organ 1982;16:47-58. DiWerent criteria may be required for ECGs in children.
+
+============================================================
+CHUNK 18
+============================================================
+CHAGAS DIGESTIVE DISEASE
+Gastrointestinal  involvement  is  less  common  than  Chagas  heart disease. This form is more frequently seen in patients infected in the countries of the Southern Cone, and is rare in northern South America, Central  America  and  Mexico.  The  effects  on  the  esophagus  span a  spectrum  from  asymptomatic  motility  disorders  through  mild achalasia  to  severe  megaesophagus.  Symptoms  include  dysphagia, odynophagia, esophageal reflux, weight loss, aspiration, cough and regurgitation. As in idiopathic achalasia, the risk of esophageal carcinoma is elevated. Megacolon (Fig. 98.4) is characterized by prolonged
+FIGURE 98.4 (A) The trypomastigote form of Trypanosoma cruzi in  a  Giemsastained peripheral blood smear from a patient with acute Chagas disease. (B) Several nests of T. cruzi amastigotes in a hematoxylin and eosin stained slide of heart muscle tissue. The parasites in the nest at the bottom of the image are in the process of transformation to trypomastigotes (Fom Division of Parasitic Diseases and Malaria, Centers for Disease Control and Prevention).
+constipation  and  may  give  rise  to  fecaloma,  volvulus  and  bowel ischemia.
+
+============================================================
+CHUNK 19
+============================================================
+CONGENITAL TRYPANOSOMA CRUZI INFECTION
+Most infected  newborns are asymptomatic or have subtle findings, but a minority presents with severe life-threatening disease [4]. The manifestations of symptomatic congenital Chagas disease can include low birth weight, prematurity, low Apgar scores, hepatosplenomegaly, anemia and thrombocytopenia. Severely affected neonates may have myocarditis,  meningoencephalitis,  gastrointestinal  megasyndromes, anasarca,  pneumonitis  and/or  respiratory  distress.  In  published studies from the 1990s and earlier, mortality among infected infants was significantly higher than in uninfected infants, ranging from < 5% to 20%. However, even severe congenital Chagas disease may not be recognized,  as  signs  are  often  non-specific  or  the  diagnosis  is  not considered.  More  recent  cohort  studies  have  shown  lower  rates  of severe congenital Chagas disease and some investigators hypothesize that disease severity has decreased as a result of better vector control and decreasing maternal parasite exposure.
+
+============================================================
+CHUNK 20
+============================================================
+Acute Trypanosoma cruzi infection in organ transplantation recipients
+Acute T.  cruzi infection  in organ  recipients  has several features  that differ from acute T.  cruzi infection in immunocompetent hosts [6].
+The incubation period can be prolonged over several months to more than one year. A relatively severe clinical spectrum has been reported, with  manifestations  that  include  fever,  malaise,  anorexia,  hepatosplenomegaly, acute myocarditis and decreased cardiac function; 2 of the 18 reported patients presented with fulminant myocarditis and congestive heart failure.
+
+============================================================
+CHUNK 21
+============================================================
+Reactivation of chronic Trypanosoma cruzi infection in organ recipients
+Patients with chronic T. cruzi infection are considered candidates for organ  transplants.  Indeed,  in  a  large  cohort  of  heart  transplant patients, survival of patients who received the transplant because of chronic Chagas cardiomyopathy was better than among those with idiopathic  or  ischemic  cardiomyopathy,  and T.  cruzi reactivation was a  rare  cause  of  death  [25].  The  cumulative  risk  of  reactivation among patients who received a heart transplant for Chagas cardiomyopathy  ranged  from  29%  to  50%  in  published  cohort  studies. Reactivation was diagnosed at times varying from 38 days to more than  7  years  after  transplantation.  In  addition  to  fever  and  acute Chagas  myocarditis  in  the  transplanted  heart,  common  manifestations of reactivation disease include inflammatory panniculitis and skin  nodules  [26].  Central  nervous  system  (CNS)  involvement  has been reported, but is  a much less frequent manifestation of reactivation among transplant recipients than in AIDS patients. Reactivation  should  be  considered  in  the  differential  diagnosis  of  febrile episodes  and  apparent  rejection  crises.  When  reactivation  is  suspected,  serial  monitoring  by  peripheral  blood  buffy  coat  examination  and  PCR  is  recommended  (see  below  ' Utility  of  PCR  for Diagnosis or Monitoring ' and Box 98.1).
+
+============================================================
+CHUNK 22
+============================================================
+BOX 98.1  Management of Trypanosoma cruzi -infected Blood Donors in the USA
+In December 2006, the USA Food and Drug Administration (FDA) approved  an  ELISA  assay  to  screen  for  antibodies  to T.  cruzi in donated blood. A second T. cruzi ELISA was approved for blood bank screening in April 2010. No conUrmatory test has been approved by the FDA but, to date, most blood banks have used the radioimmune precipitation  assay  (RIPA). The  FDA  has  not  issued  formal guidance for appropriate use of the tests and screening of blood donations  remains  voluntary.  In  data  collated  by  the  American Association of Blood Banks (AABB) through to 18 April 2011, 1406 conUrmed seropositive donations have been detected in 43 states, with  the  largest  numbers  found  in  California,  Florida  and  Texas (http://www.aabb.org/programs/biovigilance/Pages/chagas.aspx).
+The management of a blood donor with reported positive results by blood bank screening assays should begin with conUrmation by at least two serologic tests conducted by a diagnostic laboratory. Options  for T.  cruzi serologic  testing  in  the  USA  are  relatively limited. Three ELISA kits based on parasite lysate or recombinant antigens  (Ortho  ELISA  (Raritan,  NJ,  USA),  Wiener  Chagatest  3.0 (Riobamba,  Rosario,  Argentina),  Hemagen  (Columbia,  MD,  USA)) are currently FDA-cleared for diagnostic application. Of these three tests, the Ortho and Wiener ELISAs demonstrated high sensitivity and speciUcity in  published  evaluations [50, 51]. The Centers  for Disease Control (CDC) oWers consultation to clinicians in the USA regarding  patients  with  suspected  Chagas  disease  and,  when determined to be appropriate, serologic testing. The CDC routinely tests  each  specimen  by  two  conventional  serologic  assays  and, when necessary, uses a third test to resolve discordant results. The CDC also provides information concerning patient evaluation and treatment, and acts as a reference laboratory for Trypanosoma cruzi
+
+============================================================
+CHUNK 23
+============================================================
+BOX 98.1  Management of Trypanosoma cruzi -infected Blood Donors in the USA
+PCR (Parasitic Diseases  Public Inquiries: Tel.:  404-718-4745;  email parasites@cdc.gov; for emergencies after business hours, on weekends  and  federal  holidays,  CDC  Emergency  Operations  Center: Tel.: 770-488-7100; website: http://www.cdc.gov/parasites/chagas/ index.html).
+Patients  with  conUrmed  infection  should  be  counseled  not  to donate  blood  in  future  and  testing  should  be  oWered  to  family members with likely exposure to vectorial transmission and children of T. cruzi -infected women. The evaluation of a T. cruzi -infected individual should include a complete medical history and physical examination, including a detailed review of cardiac and gastrointestinal  systems,  and  a  12-lead  electrocardiogram  (ECG)  with 30-second  rhythm  strip.  If  the  Undings  of  this  basic  evaluation suggest the presence of cardiomyopathy, a comprehensive cardiac examination, including 24-hour ambulatory ECG monitoring, ECG and  exercise  testing,  is  recommended.  If  gastrointestinal  symptoms are present, barium contrast studies should be performed.
+Anti-trypanosomal  treatment  is  recommended  for  all  cases  of acute  and  congenital  Chagas  disease,  reactivated  infection  and T.cruzi -infected  individuals  aged ≤ 18  years  old.  In  adults  aged 19-50 years without advanced heart disease, etiologic treatment may slow development and progression of cardiomyopathy and should generally be oWered (Infectious Diseases Society of America strength of recommendation B, quality of evidence II). Treatment is considered optional for those older than 50 years. Individualized treatment decisions for adults should balance the potential beneUt, prolonged  course  and  frequent  side  eWects  of  the  drugs.  In  the USA,  the  CDC  is  currently  the  only  source  of  anti-trypanosomal drugs (contact information above).
+
+TABLE 98-2 DiWerential Diagnosis of Trypanosoma cruzi Infection
+
+============================================================
+CHUNK 24
+============================================================
+BOX 98.1  Management of Trypanosoma cruzi -infected Blood Donors in the USA
+Acute T. cruzi infection, Clinical manifestations = Asymptomatic Fever Myocarditis, pericardial eWusion, meningoencephalitis, hepatosplenomegaly, lymphadenopathy Chagoma (inVammation at site of inoculation) Romaña sign (unilateral bipalpebral swelling). Acute T. cruzi infection, Di@erential diagnosis = Parasitic infections: toxoplasmosis, schistosomiasis, leishmaniasis, malaria Viral infections: CMV, EBV, HIV Bacterial infections: brucellosis, typhoid fever, infective endocarditis Localized signs of portal of entry (Chagoma, Romaña sign): local allergic reaction to insect bite, lesions secondary to trauma. Chronic T. cruzi infection cardiac disease, Clinical manifestations = Arrhythmias, dilated cardiomyopathy/heart failure, cardiac aneurysm formation + / - thrombotic events. Chronic T. cruzi infection cardiac disease, Di@erential diagnosis = Other causes of dilated cardiomyopathy: ischemic heart disease, viral infections (coxsackie, CMV, HIV, EBV, echovirus infections), bacterial infections (post-streptococcal rheumatic fever, rickettsial disease, Lyme disease), fungal infections (histoplasmosis), other parasitic infections, deposition diseases (amyloidosis, hemochromatosis), cardiomyopathy secondary to drugs and toxins (chemotherapeutic agents, anti-retrovirals, ethanol, cocaine), nutritional deUciencies, rheumatologic diseases (SLE, scleroderma), granulomatous disorders (sarcoidosis), endocrinologic disorders (thyroid disease, diabetes mellitus), familial causes. Gastrointestinal (GI) disease, Clinical manifestations = Upper GI tract: motility disorders/achalasia, megaesophagus, increased risk of esophageal carcinoma Lower GI tract: megacolon. Gastrointestinal (GI) disease, Di@erential diagnosis = Upper GI: primary idiopathic achalasia, malignancy
+
+============================================================
+CHUNK 25
+============================================================
+BOX 98.1  Management of Trypanosoma cruzi -infected Blood Donors in the USA
+(pseudoachalasia), amyloidosis, sarcoidosis, neuroUbromatosis and eosinophilic gastroenteritis Lower GI (constipation): malignancy, metabolic disorders, amyloidosis, systemic sclerosis. Congenital T. cruzi infection, Clinical manifestations = Low birth weight, hepatosplenomegaly, anemia/ thrombocytopenia, meningoencephalitis, pneumonitis/respiratory distress. Congenital T. cruzi infection, Di@erential diagnosis = Toxoplasmosis, rubella, CMV, syphilis, HIV. T. cruzi infection in the immunocompromised host, Clinical manifestations = . T. cruzi infection in the immunocompromised host, Di@erential diagnosis = . Acute infection in organ transplant recipients Reactivation of infection in organ recipients Reactivation of infection in HIV/AIDS patients, Clinical manifestations = Fever, hepatosplenomegaly, myocarditis (fulminant), congestive heart failure Fever, myocarditis, inVammatory panniculitis/ skin nodules (CNS disease) Meningoencephalitis, space-occupying CNS lesions, (myocarditis, skin lesions, parasitic invasion of GI tract). Acute infection in organ transplant recipients Reactivation of infection in organ recipients Reactivation of infection in HIV/AIDS patients, Di@erential diagnosis = Acute rejection Infections occurring in post-transplant patients Acute rejection Infections occurring in post-transplant patients Toxoplasmosis, lymphoma, progressive multifocal leucoencephalopathy, cryptococcosis, tuberculosis
+CMV, cytomegalovirus; CNS, central nervous system; EBV, Epstein-Barr virus; SLE, systemic lupus erthyematosus.
+
+============================================================
+CHUNK 26
+============================================================
+Reactivation Chagas disease in HIV/AIDS patients
+Reactivation  of T.  cruzi infection  in  HIV/AIDS  patients  can  cause severe clinical disease with high risk of mortality [27, 28]. However, reactivation is not universal, even in those with low CD4 + lymphocyte counts.  The  only  published  prospective  cohort  study  followed  53 HIVT. cruzi co-infected patients in Brazil for 1-190 months; 1 1 (21%) had T.  cruzi reactivation  diagnosed  based  on  symptoms  and/or microscopically-detectable parasitemia [28]. Even in the absence of clinical  reactivation,  parasitemia  levels  are  higher  among  HIV-coinfected patients compared with HIV-negative patients. Symptomatic T. cruzi reactivation in AIDS patients is most commonly reported to cause meningoencephalitis and/or T. cruzi brain abscesses; the presentation may be confused with CNS toxoplasmosis and should be considered in the differential diagnosis of mass lesions on imaging or  CNS  syndromes  in  AIDS  patients.  The  second  most  commonly reported sign is acute myocarditis, sometimes superimposed on preexisting chronic Chagas cardiomyopathy. Patients may present with new arrhythmias, pericardial effusion, acute cardiac decompensation or  accelerated  progression  of  chronic  heart  disease.  Less  common manifestations  of  reactivation  in  HIV/AIDS  patients  include  skin lesions, erythema nodosum and parasitic invasion of the peritoneum, stomach or intestine.
+
+============================================================
+CHUNK 27
+============================================================
+DIFFERENTIAL DIAGNOSIS
+In the acute phase, the differential diagnosis includes many parasitic, viral and bacterial infections (Table 98-2). Localized signs of a portal of  entry  must  be  differentiated  from  a  local  allergic  reaction  to  an insect bite, or lesions secondary to trauma.
+Chronic  cardiac  involvement  caused  by  Chagas  disease  should  be differentiated from other causes of dilated cardiomyopathy, such as ischemic heart disease, many infectious causes, deposition diseases, cardiomyopathy secondary to drugs and toxins, nutritional deficiencies,  rheumatologic  diseases,  granulomatous  disorders,  endocrinologic  disorders  and  familial  causes.  The  differential  diagnosis  of esophageal motility abnormalities includes primary idiopathic achalasia, malignancy (pseudoachalasia), amyloidosis, sarcoidosis, neurofibromatosis  and  eosinophilic  gastroenteritis.  Chronic  constipation can  result  from  malignancy,  metabolic  disorders,  amyloidosis  and systemic sclerosis.
+TABLE 98-3 disease, 1 = Summary of Diagnostic Testing for Chagas. TABLE 98-3 disease, 2 = Summary of Diagnostic Testing for Chagas. TABLE 98-3 disease, 3 = Summary of Diagnostic Testing for Chagas. Setting, 1 = Microscopy. Setting, 2 = PCR. Setting, 3 = Anti- T. cruzi IgG serology. Acute infection, 1 = Useful. Acute infection, 2 = Very useful. Acute infection, 3 = Takes several weeks to become positive. Early congenital infection, 1 = Useful. Early congenital infection, 2 = Very useful. Early congenital infection, 3 = Only useful after ~9 months. Chronic infection, 1 = Not useful. Chronic infection, 2 = Not useful. Chronic infection, 3 = Best test. Reactivation, 1 = Useful. Reactivation, 2 = Quantitative PCR useful. Reactivation, 3 = Not useful. Monitoring in organ recipient or accidental exposure, 1 = Useful. Monitoring in organ recipient or accidental exposure, 2 = Very useful. Monitoring in organ recipient or accidental exposure, 3 = Useful but seroconversion may be delayed or never occur
+Congenital  Chagas  disease  must  be  differentiated  from  congenital toxoplasmosis, rubella, cytomegalovirus, syphilis and HIV.
+
+============================================================
+CHUNK 28
+============================================================
+DIFFERENTIAL DIAGNOSIS
+The  differential  diagnosis  of  CNS  lesions  in  immunosuppressed hosts (especially HIV-infected patients) includes toxoplasmosis, lymphoma, progressive multifocal leucoencephalopathy, cryptococcosis and tuberculosis. In the setting of non-HIV-related immunosuppression (typically transplant patients), the differential diagnosis of myocarditis,  menigoencephalitis  or  cutaneous  lesions  is  extensive  and includes the wide range of infections which may be found in transplant  recipients. Trypanosoma  cruzi infection  in  a  transplant  patient may also mimic acute organ rejection.
+
+============================================================
+CHUNK 29
+============================================================
+DIAGNOSIS
+Appropriate diagnostic testing for T. cruzi infection varies depending on the phase of the disease and the status of the patient (Table 98-3).
+
+============================================================
+CHUNK 30
+============================================================
+DIAGNOSIS OF ACUTE TRYPANOSOMA CRUZI INFECTION
+Because the parasitemia level is high during the acute phase, motile trypomastigotes can be detected by microscopy of fresh preparations of  anti-coagulated  blood  or  buffy  coat  [3].  Parasites  may  also  be visualized  by  microscopy  of  blood  smears  stained  by  Giemsa  or other standard stains. Even without treatment, the parasitemia level decreases within 90 days of infection and is undetectable by microscopy  in  the  chronic  phase.  PCR  is  a  sensitive  diagnostic  tool  in the acute phase of Chagas disease and to monitor for acute T.  cruzi infection  in  the  recipient  of  an  infected  organ,  or  after  accidental exposure [6].
+
+============================================================
+CHUNK 31
+============================================================
+DIAGNOSIS OF CONGENITAL TRYPANOSOMA CRUZI INFECTION
+In  the  first  months  of  life,  congenital  Chagas  disease  is  an  acute T. cruzi infection and similar diagnostic methods are employed [4]. Concentration methods give better sensitivity than direct examination of whole blood. The most widely used technique in Latin American health  facilities  is  the  microhematocrit  method.  In  this  technique, cord  or neonatal blood is collected  and  sealed in  4-6  heparinized microhematocrit tubes, centrifuged and the buffy coat layer examined by  microscopy.  Repeated sampling on several occasions during the first months of life increases sensitivity, but may not be acceptable to the parents  of a  neonate. Hemoculture can increase sensitivity, but the technique is not widely available, and results are not available for 30-60 days. Molecular techniques have higher sensitivity and detect congenital infections earlier in life compared with the microhematocrit method [29]. Transient detection of parasite DNA has occasionally been reported in specimens from infants who subsequently are found to be uninfected [4]. For this reason, positive PCR results on two samples drawn on separate occasions are sometimes required for confirmation of congenital infection. PCR is increasingly used for the early diagnosis of congenital Chagas disease in Latin America and is the  method  of  choice  in  industrialized  countries.  For  infants  not diagnosed at birth, conventional IgG serology (as outlined below for chronic T. cruzi infection) is recommended after nine months of age, when transferred  maternal  antibody  has  disappeared  and  the  congenital infection has passed into the chronic phase.
+
+============================================================
+CHUNK 32
+============================================================
+DIAGNOSIS OF CHRONIC TRYPANOSOMA CRUZI INFECTION
+Diagnosis of chronic infection relies on tests to detect IgG antibodies to T. cruzi , most commonly the ELISA and immunofluorescent antibody assay (IFA). No single serologic assay has sufficient sensitivity and  specificity  to  be  relied  on  alone;  two  tests  based  on  different antigens (e.g. whole parasite lysate and recombinant antigens) and/ or techniques (e.g. ELISA, IFA, immunoblot) are used in parallel to increase the accuracy of the diagnosis [3]. Published data suggest that the sensitivity of serologic assays varies by geographical location, possibly  because  of T.  cruzi strain  differences  and  resulting  antibody responses [30, 31]. Inevitably, a proportion of individuals tested by two  assays  will  have  discordant  serologic  results  and  need  further testing to resolve their infection status. The status of some individuals remains difficult to resolve, even after a third test, because there is no true gold standard assay for chronic T. cruzi infection [32]. Assays such as  the  radioimmune precipitation assay (RIPA) and trypomastigote excreted-secreted antigen immunoblot (TESA-blot) are promoted as reference tests but even these do not have perfect sensitivity and specificity, and may not be capable of resolving the diagnosis.
+
+============================================================
+CHUNK 33
+============================================================
+UTILITY OF PCR FOR DIAGNOSIS OR MONITORING
+Molecular  techniques  currently  provide  the  most  sensitive  tools  to diagnose  acute  phase  and  early  congenital  Chagas  disease  and  to monitor for  acute T.  cruzi infection  in  the  recipient  of  an  infected organ or after accidental exposure (Table 98-3). PCR assays usually show positive results days to weeks before circulating trypomastigotes are visible by microscopy of peripheral blood [29]. In chronic T. cruzi infection, PCR is used as a research tool, but is not generally a useful diagnostic test. Although PCR results will be positive for a proportion of patients, the sensitivity is highly variable depending on characteristics of the population tested, as well as the PCR primers and methods used.  Quantitative  PCR  assays  (e.g.  real-time  PCR)  are  useful  for monitoring  for  reactivation  in  immunosuppressed  patients  with chronic T.  cruzi infection,  such  as  an  organ  recipient  or  HIV-coinfected patient. In these patients, a positive result on conventional PCR does not prove reactivation, but quantitative PCR assays showing rising parasite numbers over time provide the earliest and most sensitive  indicator  of  reactivation  [33].  The  Centers for  Disease  Control (CDC) currently  performs  several  conventional  and  real-time  PCR assays with primers targeting kinetoplast and nuclear DNA (Box 98.1) [34-36].
+
+============================================================
+CHUNK 34
+============================================================
+PATIENT EVALUATION
+The initial evaluation of a patient diagnosed with T.  cruzi infection should begin with the complete medical history and physical examination. Details on family history, potential exposure to the vector and history of blood transfusion in endemic areas should be recorded. A detailed review of systems should focus on cardiovascular and gastrointestinal symptoms (Table 98-4). Screening should be offered to other  family  members,  including children of  seropositive  mothers,
+TABLE 98-4 Symptoms Suggestive of Chagas disease that Should Be Covered in the Review of Systems
+
+============================================================
+CHUNK 35
+============================================================
+Cardiac symptoms
+Arrhythmias and conduction system disease
+Palpitations
+Syncope
+Presyncope or dizziness
+Congestive heart failure
+Dyspnea
+Decreased exercise tolerance
+Peripheral edema
+
+============================================================
+CHUNK 36
+============================================================
+Other
+Thromboembolic phenomena (transient ischemic attack or stroke)
+Atypical chest pain
+
+============================================================
+CHUNK 37
+============================================================
+Esophagus
+Requires longer time to eat than others (early sign)
+Dysphagia for both liquids and solids (solids usually worse)
+Progression of dysphagia
+Regurgitation and aspiration
+Odynophagia
+Weight loss
+
+============================================================
+CHUNK 38
+============================================================
+Colon
+Prolonged constipation
+Acute abdominal pain (volvulus or ischemia)
+Abrupt worsening of symptoms and the patient should be advised  regarding possible transmission routes (such as blood and organ donation). An HIV test and/or evaluation for other causes of immunosuppression should be considered, as  management  of  Chagas  disease  in  these  patients  merits  special attention.
+Every patient should have a resting 12-lead ECG with a 30-second rhythm strip; other tests should be ordered if warranted by signs and symptoms elicited during the history and examination. In the strict sense, the indeterminate form is defined by positive antiT. cruzi serology in an asymptomatic person with a normal physical examination, a  normal  12-lead  ECG  and  normal  radiologic  examination  of  the chest, esophagus and colon. However, patients with a normal ECG and no cardiovascular and gastrointestinal symptoms have a favorable prognosis and yearly follow-up may be sufficient without having to perform any additional tests [2, 37].
+Patients  with  cardiovascular  symptoms  and/or  ECG  abnormalities suggestive of Chagas cardiac disease (Tables 98-1 and 98-4) should undergo further evaluation, including two-dimensional (2-D) ECG, exercise testing and 24-hour ambulatory ECG monitoring. The need for  additional  cardiac  studies  should  be  assessed  on  an  individual basis. A barium swallow or enema should be performed in patients with upper or lower gastrointestinal symptoms respectively. Esophageal manometry may be of use for patients with suggestive symptoms in  whom  the  barium swallow  is  inconclusive.  Patients  with  megaesophagus  may  be  at  increased  risk  for  esophageal  cancer  and  an upper  gastrointestinal  endoscopy  may  be  indicated,  especially  in patients  with  new,  or  progressive,  symptoms.  An  increased  risk  of colorectal cancer has not been found in patients with megacolon.
+Additional procedures may have a role in patient evaluation in the future. Segmental cardiac wall motion abnormalities detected by 2-D ECG  and  areas  of  myocardial  fibrosis  demonstrated  by  delayedenhancement magnetic resonance imaging (MRI) have been found in  patients  with  normal  ECGs;  research  studies  suggest  that  minor abnormalities of ventricular contractility may be predictive of future deterioration in function [38-40]. Diastolic dysfunction and elevated
+
+============================================================
+CHUNK 39
+============================================================
+Colon
+blood levels  of  brain  natriuretic  peptide  (BNP)  appear to  correlate with prognosis in patients with cardiomyopathy owing to a variety of etiologies,  including  Chagas  disease  [41].  2-D  echo  and  24-hour ambulatory ECG monitoring results are used to assess risk in some prognostic scores for Chagas disease [24].
+
+============================================================
+CHUNK 40
+============================================================
+MANAGEMENT
+Currently,  the  only  available  anti-trypanosomal  drugs  with  proven efficacy in humans are benznidazole and nifurtimox. Both drugs have a  high  rate  of  adverse  effects,  especially  in  adults,  and  require  prolonged treatment courses (usually 60-90 days). Tolerance and compliance  are  therefore  suboptimal.  There  are  currently  no  pediatric formulations. Although the cure rate in acute  and early  congenital infection is high and has been accepted as standard of care since these drugs were introduced in the 1970s, their use in the chronic phase has been more controversial, because of the lack of a reliable test of cure and the variable natural history of the disease. Adverse effects of benznidazole  and  nifurtimox  with  recommendations  for  management are outlined in Table 98-5. Benznidazole and nifurtimox are not approved  by  the  USA  Food  and  Drugs  Administration  (FDA),  but both can be obtained free of charge from the CDC and used under investigational  protocols  (Box  98.1).  Questions  about  drug  access outside the USA can be addressed to the World Health Organization (www.who.int/neglected_diseases/diseases/chagas/en/index.html).
+
+============================================================
+CHUNK 41
+============================================================
+SPECIFIC ANTI-PARASITIC DRUGS
+Nifurtimox,  a  nitrofuran  compound,  acts  through  production  of nitrogenated  free  radicals  (e.g.  superoxide,  hydrogen  peroxide)  for which parasites have much lower detoxification capacity than vertebrates [42]. Benznidazole, a nitroimidazole derivative, is thought to act through the mechanism of reductive stress by covalent binding of nitroreduction intermediates to parasite molecules [42]. Both drugs are  rapidly  absorbed  from  the  gastrointestinal  tract  (plasma  levels peak at 1 hour after a single oral dose); the average biological half-life is 12 hours. Nifurtimox is rapidly and extensively metabolized in the liver  using  cytochrome  P-450  and  P-450  reductase.  Interindividual variability  suggests  that  metabolism  of  nifurtimox  may  be  under genetic  control.  Elimination  of  both  drugs  is  predominantly  renal. Hepatic or renal function impairment increase blood concentrations of  the  medication,  increasing  the  risk  of  side  effects.  Concurrent alcohol intake may enhance the occurrence of side effects. In tissue other than the liver (testicles, ovaries, adrenal glands, colon, esophagus), the reducing activity is variable. Both drugs are mutagenic and have been reported to increase the risk of lymphomas in experimental animals but no increase in incidence of human lymphoma has been reported  among  treated  populations.  The  drugs  are  known  to  be teratogenic in experimental animals and their use in pregnant women is  contraindicated.  Risk  for  significant  infant  exposure  to  drugs through breast milk seems small and below the level of exposure of infants  with  Chagas  disease  receiving  nifurtimox  treatment.  This potential  degree  of  exposure  may  not  justify  discontinuation  of breastfeeding [43].
+Recent trials have all used benznidazole and this drug is usually better tolerated than nifurtimox; for these reasons benznidazole is viewed by most experts as the first line treatment. Nevertheless,  individual tolerance varies-if one drug must be discontinued, the other can be used as an alternative.  Nifurtimox  is  indicated  for  a  patient  in  the acute phase with documented benznidazole treatment failure.
+
+============================================================
+CHUNK 42
+============================================================
+Evidence base for anti-trypanosomal drug therapy
+In symptomatic acute T. cruzi infection, treatment reduces severity and shortens the clinical course. The parasitologic cure rate in acute and early  congenital  infection  ranges  from  60%  to  100%  in  published reports [2].
+The degree of efficacy in chronic T. cruzi infection is still uncertain, in part because of a lack of a reliable test of cure. Results by conventional
+TABLE 98-5 SpeciUc Antiparasitic Treatment for Trypanosoma cruzi : Dosage, Regimens and Toxicity
+
+============================================================
+CHUNK 43
+============================================================
+Benznidazole (Rochagan® or Radanil®)
+Released in 1971 by Roche but production is being transferred to Lafepe in Pernambuco (Brazil). Available in 100-mg tablets.
+Standard dosage regimen: 5-10 mg/kg/day (7.5 mg/kg/day) p.o. in 2 doses for 30-60 days in adults and children > 12 years or > 40 kg; 10 mg/kg/day p.o. in 2 doses for 30-60 days in children < 12 years or < 40 kg
+
+============================================================
+CHUNK 44
+============================================================
+Nifurtimox (Lampit®)
+Released in 1967 by Bayer, but suspended the production in Argentina in 1997. In 2000, production was resumed at the company's plant in Ilopango (El Salvador). Available in 30-mg and 120-mg tablets.
+Standard dosage regimen: 8-10 mg/kg/day p.o. in 3-4 doses for 90-120 days in adults; 12.5-15 mg/kg/day in 3-4 doses for 90-120 days in children aged 11-16 years; 15-20 mg/kg/day p.o. in 3-4 doses for 90-120 days in children 1-10 years
+
+============================================================
+CHUNK 45
+============================================================
+Toxicity † , §
+Dermatologic adverse e@ects in 25-30%. The rash rarely progresses to exfoliative dermatitis. The dermatitis is usually mild-to-moderate and manageable with topical or low-dose systemic corticosteroids. The drug should be discontinued immediately in case of severe or exfoliative dermatitis or dermatitis associated with fever and lymphadenopathy Gastrointestinal tract complaints in 10-40%. Anorexia, nausea, vomiting, and occasionally abdominal pain and diarrhea. (Taken with meals to minimize gastrointestinal irritation) Dose-dependent peripheral neuropathy in 30%. Paresthesias, acute polyneuritis. It occurs most commonly late in the treatment course and the drug should be discontinued. It is nearly always reversible but may take months to resolve
+Bone marrow suppression is rare and should prompt immediate treatment interruption Additional adverse e@ects include anorexia and weight loss, nausea and/or vomiting, myalgias and arthralgias, insomnia and dysgeusia
+Monitoring : laboratory testing (complete blood cell count and levels of hepatic enzymes, bilirubin, serum creatinine and blood urea nitrogen) before beginning treatment and repeated every 2-3 weeks during the treatment course. Patients should be monitored for dermatitis beginning 10 days after initiation of treatment. Alcohol should be avoided
+Gastrointestinal tract complaints in 30-70%. Anorexia, nausea, vomiting, and occasionally abdominal pain and diarrhea
+Central nervous system toxicity . Irritability, insomnia, disorientation and, less often, tremors. Less common but more serious are paresthesias, polyneuropathy and peripheral neuritis. The peripheral neuropathy is dose-dependent, appears late in the treatment course and should prompt interruption
+Additional adverse e@ects include skin disorders, headache, dizziness or vertigo, nervous excitation, myalgias and arthralgias
+Monitoring : laboratory testing (complete blood cell count and levels of hepatic enzymes, bilirubin, serum creatinine and blood urea nitrogen) before beginning treatment and repeated at 4-6 weeks and at the end of treatment ¶ . Patients should be weighed and monitored for symptoms and signs of peripheral neuropathy every 2 weeks, especially during the second and third months of treatment. Alcohol should be avoided
+
+============================================================
+CHUNK 46
+============================================================
+Toxicity † , §
+*Neither drug is commercialized in Western countries but can be obtained under investigational/foreign drug protocols.
+† Children have fewer adverse eWects than adults and tolerate higher doses.
+§ Contraindicated in pregnancy or severe hepatic or renal dysfunction.
+¶ Treatment must be discontinued with the appearance of peripheral neuropathy, leucopoenia (white blood cell count < 2.500 cells/ μ l) or severe rash not responding to oral steroids. Mild rash may be managed initially with oral antihistamines or steroids and by decreasing the dose or stopping the anti-trypanosomal drugs temporarily. A threefold increase in aspartate transaminase serum levels is an indication for decreasing or stopping the anti-trypanosomal drugs temporarily (reversible temporary secondary eWect).
+serology remain positive for years (to decades) after successful treatment  and  experimental  tests  of  cure  have  not  been  rigorously validated.  In  the  second  half  of  the  1990s,  two  double-blinded, randomized, placebo-controlled trials of benznidazole treatment in children  with chronic T.  cruzi infection  demonstrated  cure  rates  of 60-85%, as measured by conversion to negative serology four years post-treatment and, in one trial, by xenodiagnoses [44, 45]. Each trial used a different, experimental serologic test to assess cure. Based on these trials, treatment of children up to 12 years of age with chronic T. cruzi infection became the standard of care by the late 1990s.
+
+============================================================
+CHUNK 47
+============================================================
+Toxicity † , §
+The  evidence  base  for  anti-trypanosomal  treatment  of  adults  with longstanding chronic T. cruzi infection remains suboptimal, but, since 2000, there has been an increasing trend to offer treatment to these patients. This trend is based on the growing consensus that persistence of parasites, coupled with an unbalanced immune response in some individuals,  leads  to  the  sustained  inflammatory  responses  that underlie the characteristic lesions of chronic Chagas disease. In contrast to long-held views, this new paradigm indicates that elimination of T.  cruzi may  be  a  prerequisite  to  arrest  the  evolution  of  Chagas disease and avert its irreversible long-term consequences, and implies that  Chagas disease must be treated primarily as  an infectious and not an autoimmune condition. In a non-randomized, non-blinded trial that included 566 adults followed for a mean of 9.8 years, benznidazole treatment was associated with decreased development and progression  of  Chagas  cardiomyopathy  [46].  Based  on  these,  and other data, most experts now recommend that treatment be offered to adults with chronic T.  cruzi infection in the absence of advanced cardiomyopathy.  In  a  systematic  review  of  696  studies  and  metaanalysis of 9 studies on the treatment of chronic Chagas disease with benznidazole compared with placebo or no treatment [47], benznidazole  increased  the  probability  of  response  to  therapy  18-fold. However,  up  to  18%  of  patients  discontinued  treatment  because of  toxicity.  A  multicenter,  randomized,  double-blinded,  placebocontrolled trial of benznidazole 5 mg/kg/day for 60 days in patients with  mild-to-moderate  Chagas  cardiomyopathy  is  currently  under way (BENEFIT study). Data from this study are expected in 2012-2013 and should help clarify treatment decisions for this group of patients.
+
+============================================================
+CHUNK 48
+============================================================
+INDICATIONS FOR ANTI-TRYPANOSOMAL THERAPY
+Recommendations for anti-trypanosomal therapy vary according to phase and form of Chagas disease and by patient age (Table 98-6).
+
+============================================================
+CHUNK 49
+============================================================
+Treatment of acute and early congenital infection
+All acute and congenital infections should be treated. The earlier treatment is begun, the better the response obtained. There is currently no pediatric formulation of benznidazole or nifurtimox, and preparation of the drugs for infants and young children should be performed by a compounding pharmacy. A dispersible tablet containing a pediatric dose of benznidazole is under development.
+TABLE 98-6 Recommendations for Anti-trypanosomal Drug Therapy in Chagas Disease
+
+Recommended, Grade † = . • Acute infection, Grade † = AII. • Early congenital infection, Grade † = AII. • Children aged < 12 years with chronic infection, Grade † = AI. • Children aged 13-18 years with chronic infection, Grade † = AIII. • Reactivated infection in patient with HIV/AIDS or other immunosuppression, Grade † = AII §. OGLYPH<c=19,font=/CIDFont+F15>ered, Grade † = . • Adults aged 19-50 years with indeterminate form or mild-moderate cardiomyopathy, Grade † = BII. • Women of reproductive age, Grade † = BIII. Optional, Grade † = . • Adults > 50 years old without advanced cardiomyopathy, Grade † = CIII. Generally not oGLYPH<c=19,font=/CIDFont+F15>ered, Grade † = . • Patients with advanced cardiomyopathy, Grade † = DIII. • Patients with megaesophagus with signiUcant impairment of swallowing (await surgical correction), Grade † = DIII. Contraindicated, Grade † = . • Pregnancy, Grade † = EIII. • Severe renal or hepatic insuTciency, Grade † = EIII
+Adapted from Bern C, Montgomery SP, Herwaldt BL, et al. Evaluation and treatment of Chagas disease in the United States: a systematic review. JAMA 2007;298: 2171-81. Drugs and dosage regimens outlined in Table 98-5.
+
+============================================================
+CHUNK 50
+============================================================
+Treatment of acute and early congenital infection
+† Infectious Diseases Society of America quality of evidence standards. Strength of recommendation graded A-E. A: both strong evidence for eTcacy and substantial clinical beneUt support recommendation for use; should always be oWered. B: moderate evidence for eTcacy or strong evidence for eTcacy but only limited beneUt, support recommendation for use. Should generally be oWered. C: evidence for eTcacy is insuTcient to support a recommendation for or against use; or evidence for eTcacy might not outweigh adverse consequences or cost of treatment under consideration. Optional. D: moderate evidence for lack of eTcacy or for adverse outcome supports recommendation against use. Should generally not be oWered. E: good evidence for lack of eTcacy or for adverse outcome supports recommendation against use. Should never be oWered. Quality of evidence supporting the recommendation graded as I-III. I: evidence from at least one properly designed, randomized clinical trial. II: evidence from at least one well-designed clinical trial without randomization, from cohort or case-controlled analytic studies (preferably from more than one center), or from multiple time-series studies; or dramatic results from uncontrolled experiments. III: evidence from opinions of respected authorities based on clinical experience, descriptive studies, or reports of expert committees.
+§ Follows standard dosing recommendations but may need to be prolonged to 90 days for benznidazole or 120 days for nifurtimox. Drug toxicity may be increased.
+
+============================================================
+CHUNK 51
+============================================================
+Management of accidental exposures
+Management  of  accidental  exposures  remains  controversial.  Some experts  advocate  presumptive  prophylaxis  of  all  moderate-to-high risk  accidental  exposures  with  a  short  course  of  benznidazole  (710 mg/kg/day  for  10  days).  However,  the  efficacy  of  short-course therapy  has  not  been  established,  and  presumptive  treatment  may suppress  parasitemia  and  mask  indicators  of  inadequately  treated infection. Laboratory monitoring, preferably by PCR, as well as serology, at regular intervals (e.g. weekly for four weeks, then monthly for four months) is therefore generally recommended, and treatment is usually only offered if infection is documented.
+
+============================================================
+CHUNK 52
+============================================================
+Treatment of chronic infection
+Treatment is indicated for all children up to age 18 years with chronic T.  cruzi infection.  For  adults  between  19 and 50 years who do not have advanced  cardiomyopathy,  treatment should  generally be offered, bearing in mind the less certain efficacy and the higher frequency of side effects in adults compared with children. For adults older  than  50  years,  treatment  is  considered  optional  and  should reflect a careful assessment of the potential risks and benefits. Characteristic early signs (e.g. right bundle branch block) may indicate a higher risk of future cardiac progression and may alter the risk-benefit equation toward treatment. On the other hand, a patient over 50 years of age with longstanding infection and no cardiac signs or symptoms may have a low risk of developing significant disease during the rest of their lifetime.
+
+============================================================
+CHUNK 53
+============================================================
+Treatment of immunocompromised patients
+Reactivation carries a high risk of morbidity and mortality even with adequate anti-parasitic treatment. Treatment consists of the standard daily dosage regimen, but the course may need to be prolonged based on the clinical and parasitologic response.
+In  patients  with  pre-existing T.  cruzi infection  who  undergo  organ transplantation, presumptive anti-trypanosomal treatment is unlikely to be curative and is not recommended in the absence of evidence of reactivation. Monitoring for T. cruzi reactivation is recommended with the same schedule used for rejection monitoring, for example 1, 3, 6, 9 and 12 months after transplantation, plus one month after steroid treatment  for  rejection  and  when  fever  or  other  symptoms  occur. Laboratory testing should include microscopy and/or PCR of serial peripheral blood or buffy coat specimens, plus PCR and histologic examination  of  endomyocardial  biopsy  specimens  collected  for routine rejection monitoring.
+In HIVT. cruzi co-infected patients, standard dosing regimens are used for treatment of reactivation, but a more prolonged course (90-120
+days) may be needed. The usefulness of suppressive treatment (secondary prophylaxis) after  treatment  has  not  been  established.  Secondary prophylaxis with benznidazole 5 mg/kg/day p.o. in two doses administered three days per week has been used empirically but data on efficacy are lacking. Early effective anti-retroviral therapy is essential  in  HIVT.  cruzi co-infected  patients.  Benznidazole  is  mainly metabolized in the liver by the cytochrome P-450 system and some anti-retroviral drugs could increase or decrease efficacy and toxicity of benznidazole.  Moreover,  some  anti-retrovirals  can  add  toxicity  to benznidazole: fosamprenavir and abacavir produce cutaneous toxicity, zidovudine produces bone marrow suppression and didanosine, stavudine  and  efavirenz  are  toxic  to  the  nervous  system.  There  are no published reports of immune reconstitution syndrome (IRIS) in HIVT. cruzi co-infected patients.
+
+============================================================
+CHUNK 54
+============================================================
+DOCUMENTATION OF RESPONSE AFTER SPECIFIC TREATMENT
+For  monitoring response to treatment of acute, early congenital or reactivated T  cruzi infection,  direct  examination  of  blood  or  buffy coat,  hemoculture  and  PCR  have  high  sensitivity.  In  the  chronic phase,  negative  seroconversion  by  conventional  assays  occurs  after successful  treatment,  but  takes  years  (to  decades),  making  this  an impractical  test  of  cure.  There  is  currently  no  standard  test  recommended for the assessment of response to treatment in chronic T. cruzi infection. Changes in T. cruzi -specific T cell and antibody responses measured by the frequency of peripheral interferon gamma-producing T cells specific for T. cruzi have been advocated as a surrogate marker of treatment efficacy, but would require further validation and adaptation to a more practical format [48].
+
+============================================================
+CHUNK 55
+============================================================
+NOVEL ANTI-TRYPANOSOMAL DRUG CANDIDATES
+New drugs with high efficacy and with a better side effect profile are urgently needed, especially for the treatment of chronic infection [49]. Triazole derivatives combine potent inhibition of T.  cruzi ergosterol biosynthesis and pharmacokinetic properties (long terminal elimination half-life and large distribution volume), and currently represent the most promising candidates. Posaconazole reduces parasitism and inflammation in the heart in experimental acute and chronic murine infection. E-1224 (Eisai Pharmaceuticals, Woodcliff Lake, NJ, USA), a water soluble pro-drug of ravuconazole, has in vitro and in vivo activity against T.  cruzi; a  phase  II  clinical  trial  is  underway  in  adults  with asymptomatic  chronic  infection.  Other  promising  drug  candidates include Tak-187 (a triazole) and inhibitors of protein or purine synthesis,  trypanothione metabolism, cysteine protease, phospholipids (miltefosine)  or  pyrophosphate  metabolism  (residronate).  In  the future, drug combinations may improve efficacy and prevent development of resistance. In vitro synergy has been shown for azole derivatives with benznidazole and nifurtimox, and for posaconazole with amiodarone or dronedarone.
+
+============================================================
+CHUNK 56
+============================================================
+MANAGEMENT OF CARDIAC DISEASE
+(Table 98-7)
+
+============================================================
+CHUNK 57
+============================================================
+Congestive heart failure treatment
+In the absence of randomized controlled trials, treatment of patients with  Chagas  heart  failure  has  been  extrapolated  from  guidelines developed for the management of heart failure from other causes [2, 23]. Increased doses of diuretics are justified in the advanced stages of disease because of the predominance of systemic congestive manifestations over signs of pulmonary congestion. Angiotensin-converting enzyme inhibitors (captopril, enalapril) can reduce myocarditis and fibrosis in T. cruzi infection in animal models. Calcium channel antagonists (verapamil) may act early in the course of T. cruzi infection to prevent ventricular dilatation and myocardial dysfunction in animal models. Palliative procedures, such as dynamic cardiomyoplasty and partial left ventriculectomy, are contraindicated because of unsatisfactory results.
+TABLE 98-7 Management of Cardiac Disease in Trypanosoma cruzi Infected Patients
+
+No, Risk of death = Low. No, Selected treatment = APD. Mild with NSVT and no LVSD, Risk of death = Intermediate. Mild with NSVT and no LVSD, Selected treatment = APD + amiodarone. Mild with LVSD and no NSVT, Risk of death = Intermediate. Mild with LVSD and no NSVT, Selected treatment = APD + ACE-inhibitor + β -blocker + diuretic (for selected patients). Moderate, Risk of death = High. Moderate, Selected treatment = Amiodarone + ACE-inhibitor + β -blocker + diuretic (for selected patients) + consider implantable cardioverter deUbrilator. Severe (NHYA class III or IV), Risk of death = Very high. Severe (NHYA class III or IV), Selected treatment = Amiodarone + ACE-inhibitor + β -blocker (if tolerated) + diuretic-spironolactone + digitalis + consider implantable cardioverter deUbrillator + consider cardiac transplant
+Adapted from Rassi A Jr, Rassi A, Marin-Neto JA. Chagas disease. Lancet 2010;375: 1388-402.
+
+============================================================
+CHUNK 58
+============================================================
+Congestive heart failure treatment
+ACE: angiotensin-converting enzyme; APD: anti-parasitic drugs (benznidazole or nifurtimox); LVSD: left ventricular systolic dysfunction, measured by echocardiography or cardiomegaly by chest radiography or both; NSVT: non-sustained ventricular tachycardia, detected by 24-h Holter monitoring; NYHA: New York Heart Association.
+
+============================================================
+CHUNK 59
+============================================================
+Anti-arrhythmic treatment
+Almost all of the widely used anti-arrhythmic agents have been used in patients with Chagas disease. The potential role of β -blockers, possibly in combination with amiodarone, to reduce mortality remains to be established. Observational data suggest that amiodarone may improve  survival  in  cardiomyopathy  patients  at  high  risk  of  death from  malignant  arrhythmias.  Thus,  amiodarone  is  usually  recommended as  the  treatment  of  choice  for  all  patients  with  sustained ventricular tachycardia, and for those with non-sustained ventricular tachycardia  and  myocardial  dysfunction.  The β -blockers  have  been classically avoided in chagasic patients because of conduction defects, but, in some studies, β -blockers have been associated with improved survival.  Because  of  the  high  occurrence  of  thromboembolic  phenomena,  oral  anti-coagulants  are  recommended  for  patients  with atrial  fibrillation,  previous  embolism,  apical  aneurysm  and  mural thrombus. Recommendations for permanent cardiac pacing are sinus node dysfunction, atrial fibrillation with AV block, second and third degree AV block and trifascicular block, among others. Implantable cardioverter-defibrillators  are  the  first  line  therapeutic  option  for primary  and  secondary  prevention  of  terminating  life-threatening arrhythmias in patients with depressed LV function. Radiofrequency catheter ablation could be an option in patients with recurrent ventricular  tachycardia.  Infrared  laser  has  been  experimentally  tested with  promising  results.  Cardiac  resynchronization  has  become  an established  treatment  for  patients  with  moderate-to-severe  heart failure,  wide  QRS  complex,  optimized  heart  failure  treatment  and evidence  of  ventricular  dysynchrony,  and  it  is  also  a  promising therapy for patients with refractory heart failure.
+
+============================================================
+CHUNK 60
+============================================================
+Cell therapy
+Heart  transplantation  is  currently  the  only  available  option  for patients with heart failure who have failed optimal medical management.  The  potential  benefit  of  transplantation  of  bone  marrow cells for treatment of Chagas heart failure is being assessed in a multicenter,  randomized,  controlled  trial  sponsored  by  the  Brazilian Health Ministry.
+
+============================================================
+CHUNK 61
+============================================================
+MANAGEMENT OF DIGESTIVE DISEASE
+There are no data to suggest that anti-parasitic treatment affects progression of gastrointestinal tract disease. Patients with megaesophagus with significant dysphagia will not be able to take oral drugs.
+Treatment of megaesophagus is similar to that for idiopathic achalasia [21].  Sublingual  nitrates  and  nifedipine  induce  lower  esophagealsphincter  relaxation  and  could  be  used  before  meals.  Endoscopic botulin toxin injection in the sphincteric region is rarely used because of its transitory efficacy. The same is true for endoscopic pneumatic balloon dilatation, which is reserved for selected cases. Non-advanced megaesophagus is best treated by laparoscopic Heller's myotomy and fundoplication,  a  more  definitive  form  of  treatment.  In  advanced cases,  different  techniques  of  esophageal  resection  have  been  used with variable results.
+The  early  stage  of  colonic  dysfunction  can  be  treated  with  a  fiberrich diet and abundant fluid intake, as well as laxatives and intermittent  enemas.  Fecal  impaction  can  occur  as  the  disease  progresses, requiring manual emptying under general anesthesia. Patients with megacolon who fail to respond to conservative measures, and those with frequent fecaloma or sigmoid volvulus, need to undergo surgical organ resection.
+
+============================================================
+CHUNK 62
+============================================================
+REFERENCES
+1. Bocchi  EA,  Guimaraes G, Tarasoutshi F, et al. Cardiomyopathy,  adult valve disease and heart failure in South America. Heart 2009;95:181-9.
+2. Rassi A  Jr, Rassi A, Marin-Neto  JA. Chagas  disease. Lancet 2010;375: 1388-402.
+3. World Health Organization Expert Committee.  Control of  Chagas Disease. Brasilia, Brazil: World Health Organization; 2002. Report No.: WHO technical report series number 905.
+4. Oliveira I, Torrico F, Munoz J, Gascon J. Congenital transmission of Chagas disease: a clinical approach. Expert Rev Anti Infect Ther 2010;8:945-56.
+5. Wendel S. Transfusion-transmitted Chagas' disease. Curr Opin Hematol 1998; 5:406-11.
+6. Chin-Hong PV, Schwartz BS, Bern C, et al. Screening and treatment of Chagas disease in organ transplant recipients in the United States: Recommendations from  the  Chagas  in  Transplant  Working  Group.  Am  J  Transplant  201 1;11: 672-80.
+7. Nobrega AA, Garcia MH, Tatto E, et al. Oral transmission of Chagas disease by consumption of acai palm fruit, Brazil. Emerg Infect Dis 2009;15:653-5.
+8. de Noya B, Diaz-Bello Z, Colmenares C, et al. Large urban outbreak of orally acquired acute Chagas disease at a school in Caracas, Venezuela. J Infect Dis 2010;201:1308-15.
+9. Dias JC, Silveira AC, Schofield CJ. The impact of Chagas disease control in Latin America: a review. Mem Inst Oswaldo Cruz 2002;97:603-12.
+10.  Dias JC. Elimination of Chagas disease transmission: perspectives. Mem Inst Oswaldo Cruz 2009;104(suppl. 1):41-5.
+11.  Gascon J, Bern C, Pinazo MJ. Chagas disease in Spain, the United States and other non-endemic countries. Acta Trop 2010;115:22-7.
+
+============================================================
+CHUNK 63
+============================================================
+REFERENCES
+12.  Bern  C,  Kjos  S,  Yabsley  M,  Montgomery  SP. Trypanosoma  cruzi and  Chagas Disease in the United States. Clin Microbiol Rev 201 1;24:655-81.
+13.  Bern C, Montgomery SP. An estimate of the burden of Chagas disease in the United States. Clin Infect Dis 2009;49:e52-4.
+14.  Schmunis  GA,  Cruz  JR.  Safety  of  the  blood  supply  in  Latin  America.  Clin Microbiol Rev 2005;18:12-29.
+15.  Zingales B, Andrade SG, Briones MR, et al. A new consensus for Trypanosoma cruzi intraspecific nomenclature: second revision meeting recommends TcI to TcVI. Mem Inst Oswaldo Cruz 2009;104:1051-4.
+16.  Miles MA, Feliciangeli MD, de Arias AR. American trypanosomiasis (Chagas' disease) and the role of molecular epidemiology in guiding control strategies. BMJ 2003;326:1444-8.
+17.  Burgos JM, Diez M, Vigliano C, et al. Molecular identification of Trypanosoma cruzi discrete  typing  units  in  end-stage  chronic  Chagas  heart  disease  and reactivation after heart transplantation. Clin Infect Dis 2010;51:485-95.
+18.  Lescure FX, Le Loup G, Freilij H, et al. Chagas disease: changes in knowledge and management. Lancet Infect Dis 2010;10:556-70.
+19.  Coura  JR,  Borges-Pereira  J.  Chagas  disease:  100  years  after  its  discovery. A systemic review. Acta Trop 2010;115:5-13.
+20.  Schijman AG, Vigliano CA, Viotti RJ, et al. Trypanosoma cruzi DNA in cardiac lesions of Argentinean patients with end-stage chronic chagas heart disease. Am J Trop Med Hyg 2004;70:210-20.
+21.  de Oliveira RB, Troncon LE, Dantas RO, Menghelli UG. Gastrointestinal manifestations of Chagas' disease. Am J Gastroenterol 1998;93:884-9.
+
+============================================================
+CHUNK 64
+============================================================
+REFERENCES
+22.  Marin-Neto  JA,  Cunha-Neto  E,  Maciel  BC,  Simoes  MV.  Pathogenesis  of chronic Chagas heart disease. Circulation 2007;115:1 109-23.
+23.  Rassi A Jr, Rassi A, Little WC. Chagas' heart disease. Clin Cardiol 2000;23:883-9.
+24.  Rassi  A  Jr,  Rassi  A,  Rassi  SG.  Predictors  of  mortality  in  chronic  Chagas disease:  a  systematic  review  of  observational  studies.  Circulation  2007; 115:1 101-8.
+25.  Bocchi EA, Fiorelli A. The paradox of survival results after heart transplantation for cardiomyopathy caused by Trypanosoma cruzi. First Guidelines Group for Heart Transplantation of the Brazilian Society of Cardiology. Ann Thorac Surg 2001;71:1833-8.
+26.  Riarte A, Luna C, Sabatiello R, et al. Chagas' disease in patients with kidney transplants:  7  years  of  experience  1989-1996.  Clin  Infect  Dis  1999;29: 561-7.
+27.  Diazgranados CA, Saavedra-Trujillo CH, Mantilla M, et al. Chagasic encephalitis  in  HIV  patients:  common  presentation of  an  evolving epidemiological and clinical association. Lancet Infect Dis 2009;9:324-30.
+28.  Sartori AM, Ibrahim KY, Nunes Westphalen EV, et al. Manifestations of Chagas disease  (American  trypanosomiasis)  in  patients  with  HIV/AIDS.  Ann  Trop Med Parasitol 2007;101:31-50.
+29.  Duffy T, Bisio M, Altcheh J, et al. Accurate real-time PCR strategy for monitoring bloodstream parasitic loads in Chagas disease patients. PLoS Negl Trop Dis 2009;3:e419.
+30.  Sosa-Estani S, Gamboa-Leon MR, Del Cid-Lemus J, et al. Use of a rapid test on umbilical cord blood to screen for Trypanosoma cruzi infection in pregnant women in Argentina, Bolivia, Honduras, and Mexico. Am J Trop Med Hyg 2008;79:755-9.
+
+============================================================
+CHUNK 65
+============================================================
+REFERENCES
+31.  Verani J, Seitz A, Gilman R, et al. Geographic variation in the sensitivity of recombinant antigen-based rapid tests for chronic Trypanosoma cruzi infection. Am J Trop Med Hyg 2009;80:410-5.
+32.  Tarleton RL, Reithinger R, Urbina JA, et al. The challenges of Chagas Diseasegrim outlook or glimmer of hope. PLoS Med 2007;4:e332.
+33.  Diez M, Favaloro L, Bertolotti A, et al. Usefulness of PCR strategies for early diagnosis  of  Chagas'  disease  reactivation  and  treatment  follow-up  in  heart transplantation. Am J Transplant 2007;7:1633-40.
+34.  Piron M, Fisa R, Casamitjana N, et al. Development of a real-time PCR assay for Trypanosoma  cruzi detection  in  blood  samples.  Acta  Trop  2007;103: 195-200.
+35.  Schijman AG, Altcheh J, Burgos JM, et al. Aetiological treatment of congenital Chagas' disease diagnosed and monitored by the polymerase chain reaction. J Antimicrob Chemother 2003;52:441-9.
+36.  Schijman AG, Bisio M, Orellana L, et al. International study to evaluate PCR methods  for  detection  of Trypanosoma  cruzi DNA  in  blood  samples  from Chagas disease patients. PLoS Negl Trop Dis 2011;5:e931.
+37.  Bern  C,  Montgomery  SP,  Herwaldt  BL,  et  al.  Evaluation  and  treatment  of Chagas  disease  in  the  United  States:  a  systematic  review.  JAMA  2007;298: 2171-81.
+38.  Pazin-Filho A, Romano MM, Almeida-Filho OC, et al. Minor segmental wall motion abnormalities detected in patients with Chagas' disease have adverse prognostic implications. Braz J Med Biol Res 2006;39:483-7.
+39.  Rochitte CE, Oliveira PF, Andrade JM, et al. Myocardial delayed enhancement by magnetic resonance imaging in patients with Chagas' disease: a marker of disease severity. J Am Coll Cardiol 2005;46:1553-8.
+
+============================================================
+CHUNK 66
+============================================================
+REFERENCES
+40.  Viotti RJ, Vigliano C, Laucella S, et al. Value of echocardiography for diagnosis and  prognosis  of  chronic  Chagas  disease  cardiomyopathy  without  heart failure. Heart 2004;90:655-60.
+41.  Garcia-Alvarez  A,  Sitges  M,  Pinazo  MJ,  et  al.  Chagas  cardiomyopathy: the potential of diastolic dysfunction and brain natriuretic peptide in the early identification of cardiac damage. PLoS Negl Trop Dis 2010;4.
+42.  Urbina JA, Docampo R. Specific chemotherapy of Chagas disease: controversies and advances. Trends Parasitol 2003;19:495-501.
+43.  Garcia-Bournissen F, Altcheh J, Panchaud A, Ito S. Is use of nifurtimox for the treatment of Chagas disease compatible with breast feeding? A population pharmacokinetics analysis. Arch Dis Child 2010;95:224-8.
+44.  Andrade AL, Zicker F, de Oliveira RM, et al. Randomised trial of efficacy of benznidazole in treatment of early Trypanosoma cruzi infection. Lancet 1996; 348:1407-13.
+45.  Sosa Estani S, Segura EL, Ruiz AM, et al. Efficacy of chemotherapy with benznidazole in children in the indeterminate phase of Chagas' disease. Am J Trop Med Hyg 1998;59:526-9.
+46.  Viotti R, Vigliano C, Lococo B, et al. Long-term cardiac outcomes of treating chronic Chagas disease with benznidazole versus no treatment: a nonrandomized trial. Ann Intern Med 2006;144:724-34.
+
+============================================================
+CHUNK 67
+============================================================
+REFERENCES
+47.  Perez-Molina JA, Perez-Ayala A, Moreno S, et al. Use of benznidazole to treat chronic Chagas' disease: a systematic review with a meta-analysis. J Antimicrob Chemother 2009;64:1139-47.
+48.  Laucella  SA,  Mazliah DP,  Bertocchi G,  et  al.  Changes  in Trypanosoma  cruzi -specific  immune  responses  after  treatment:  surrogate  markers  of  treatment efficacy. Clin Infect Dis 2009;49:1675-84.
+49.  Urbina JA. Specific chemotherapy of Chagas disease: Relevance, current limitations and new approaches. Acta Trop 2010;1 15:55-68.
+50.  Gorlin J, Rossmann S, Robertson G, et al. Evaluation of a new Trypanosoma cruzi antibody assay for blood donor screening. Transfusion 2008;48:53-40.
+51.  Ramirez JD, Guhl F, Umezawa ES, et al. Evaluation of adult chronic Chagas' heart disease diagnosis by molecular and serological methods. J Clin Microbiol 2009;47:3945-51.
+

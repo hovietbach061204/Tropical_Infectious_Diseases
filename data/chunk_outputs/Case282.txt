@@ -1,0 +1,206 @@
+============================================================
+CHUNK 0
+============================================================
+46
+
+============================================================
+CHUNK 1
+============================================================
+KEY FEATURES
+- E. coli (DEC) pathotypes: enteropathogenic (EPEC), shiga toxinproducing (STEC), enteroaggregative (EAEC), enterotoxigenic (ETEC), enteroinvasive (EIEC), and diffusely adherent E. coli (DAEC), and a newly recognized pathotype: adherent invasive E. coli (AIEC).
+2. episodes in children in developing countries. The most common pathotypes in children are EAEC, EPEC, and ETEC.
+3. pathotypes are ETEC and EAEC.
+4. STEC and EIEC are associated with bloody diarrhea, whereas EAEC, EPEC, and AIEC could produce prolonged or persistent diarrhea.
+5. syndrome (HUS). Children with STEC infection have bloody diarrhea, usually without fever. Antibiotics should not be used because they increase the risk of developing HUS.
+6. speci{c virulence genes by polymerase chain reaction (PCR) or other molecular methods. STEC could be diagnosed by enzyme-linked immunosorbent assay (ELISA) or other immunologic methods.
+7. recommended for DEC prevention and management. There are no effective vaccines against DEC.
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+Escherichia coli are  gram-negative  bacteria  that  grow  in  the gastrointestinal tract as commensals. However, they can also cause extra-intestinal infections, such as urinary tract infections (UTIs), sepsis,  and  meningitis,  or  intestinal  infections. 1 Diarrheagenic E. coli are those that can cause diarrhea, mainly in children under 5 years of age. They can be classi{ed according to clinical criteria and pathophysiology. Classically, six groups are described: enteropathogenic E. coli (EPEC), shiga toxin-producing E. coli (STEC), enteroaggregative E. coli (EAEC), enterotoxigenic E. coli (ETEC), enteroinvasive E.  coli (EIEC),  and  diffusely  adherent E.  coli (DAEC). 2,3 Recently  a  new  pathotype  has  been  characterized: adherent invasive E. coli (AIEC) 4 (T able 46.1).
+
+============================================================
+CHUNK 3
+============================================================
+EPIDEMIOLOGY, CLINICAL MANIFESTATIONS, AND PATHOGENESIS
+In general, DEC strains are responsible for 30% to 40% of all diarrhea  cases  in  children  in  developing  countries.  The  most common pathotypes in children are EAEC, EPEC, and ETEC.
+
+============================================================
+CHUNK 4
+============================================================
+Escherichia coli Diarrhea
+Luis Cabrera-Sosa, Theresa J. Ochoa
+In adults with traveler's diarrhea, the main DEC pathotypes are ETEC and EAEC. From a public health perspective, STEC is the  most  important  pathogen  because  of  its  association  with hemolytic uremic syndrome (HUS).
+
+============================================================
+CHUNK 5
+============================================================
+Enteropathogenic E. coli
+EPEC was the {rst identi{ed DEC. It is an important cause of infant  diarrhea  (predominantly  in  children  under  2  years)  in developing countries. Diarrhea caused by EPEC is mostly subclinical and acute, but may be moderate, severe, or persistent; lead to malnutrition; and can cause death, particularly in children under 12  months. 5 Fever,  malaise,  and  vomiting  are  other  common symptoms. With a large inoculum, EPEC may induce diarrhea after 12 to 24 hours. 6 The distinctive characteristic of EPEC is its ability to produce an 'attaching and effacing' (A/E) lesion in the enterocytes. The A/E lesion is originated by a tight attachment between the bacterium and the enterocyte, microvillus effacement, and accumulation of actin, forming a pedestal-like structure. EPEC has a pathogenicity island called the locus of enterocyte effacement (LEE), with  type  III  secretion  system  (T3SS)-encoding  genes. The T3SS injects  enterotoxins  (EspA-B-D)  and  other  effector proteins into the enterocyte's cytoplasm. The LEE also encodes intimin ( eae gene), an adhesin that mediates the intimate attachment, and its receptor, Tir, which is translocated into the enterocyte's membrane. 7 Some  EPEC strains,  called typical  EPEC  (tEPEC), carry the E. coli adherence factor (EAF) plasmid, which encodes the  IV  bundle-forming  pilus  (BFP)  and  the  plasmid-encoded regulator (Per, a transcriptional activator). Atypical EPEC strains (aEPEC) are bfp (-) (do not encode BFP), less genetically homogeneous  than  tEPEC  strains,  and  more  frequently  detected  in control  and  asymptomatic  patients. 7 tEPEC  displays  localized adherence patterns (Fig. 46.1), whereas aEPEC can produce other adherence patterns. 6 The mechanism of how EPEC causes diarrhea is not well understood. 4,6
+
+============================================================
+CHUNK 6
+============================================================
+Shiga Toxin-Producing E. coli
+STEC,  also  referred  as verotoxin-producing E.  coli (VTEC) or enterohemorrhagic E. coli (EHEC), are E. coli strains that produce shiga  toxins  (Stx).  STEC  causes  diarrhea  in  all  age  groups. Approximately 2,801,000 acute  illnesses  are estimated  annually worldwide. 8 Ruminants are the main STEC reservoir. 9  STEC has a low infectious dose (50-100 colony-forming units [CFU]) and a short incubation period (3-4 days). STEC infection is characterized by abdominal cramps and bloody diarrhea, usually without fever. 10 Approximately 5% to 10% of children infected with STEC develop HUS, characterized by acute renal failure, thrombocytopenia, and microangiopathic hemolytic anemia. 9,11 STEC strains associated  with  disease  in  humans  are  called EHEC ;  the  most common EHEC serotype is O157:H7, which is the predominant cause of HUS. 10 The Stx are composed of an A subunit and {ve B subunits. The A subunit inhibits protein synthesis by its RNA N-glycosidase  activity  and  induces  apoptosis.  The  B  subunitpentamer binds to globotriaosylceramide-3 (Gb3) on the enterocyte. There are two types of Stx: Stx1 and Stx2. Both toxins are released through  lambdoid  phage-mediated  lysis,  which  is  induced  by antibiotics. 11 Similar to EPEC, some STEC strains have the LEE plasmid,  but  it  is  not  essential  for  pathogenesis.  It  is  not  well
+
+============================================================
+CHUNK 7
+============================================================
+Shiga Toxin-Producing E. coli
+TABLE 46.1 Clinical Characteristics and Virulence Determinants of Diarrheagenic E. coli
+
+EPEC, Diarrhea's Characteristics = Watery; acute or persistent. EPEC, Complications or Associated Conditions = Malnutrition in children. EPEC, Virulence Genes* = eae, bfp. STEC, Diarrhea's Characteristics = Bloody; acute. STEC, Complications or Associated Conditions = HUS. STEC, Virulence Genes* = stx1, stx2, eae, ehx, fliC. EAEC, Diarrhea's Characteristics = Watery; acute or persistent. EAEC, Complications or Associated Conditions = Malnutrition in children; traveler's diarrhea; HIV infection. EAEC, Virulence Genes* = aggR, astA, aatA, aaiC, aap, set1A. ETEC, Diarrhea's Characteristics = Watery; acute. ETEC, Complications or Associated Conditions = Dehydration; traveler's diarrhea. ETEC, Virulence Genes* = LT, ST, and CF genes. EIEC, Diarrhea's Characteristics = Bloody; acute. EIEC, Complications or Associated Conditions = . EIEC, Virulence Genes* = ipaH, ial. DAEC, Diarrhea's Characteristics = Watery; acute or persistent. DAEC, Complications or Associated Conditions = UTI. DAEC, Virulence Genes* = Afa/Dr adhesin genes: daaC, daaD, daaE , afaB, afaC. AIEC, Diarrhea's Characteristics = Watery; acute or persistent. AIEC, Complications or Associated Conditions = Crohn's disease. AIEC, Virulence Genes* = No specific gene reported
+- *In bold, main genes used for diagnosis of each pathotype.
+appearance of bacteria attaching both to the tissue culture cells and
+
+============================================================
+CHUNK 8
+============================================================
+Shiga Toxin-Producing E. coli
+AIEC, Adherent invasive E. coli; CF, colonization factors; DAEC, diffusely adherent E. coli; EAEC, enteroaggregative E. coli; EIEC, enteroinvasive E. coli; EPEC, enteropathogenic E. coli; ETEC, enterotoxigenic E. coli; HUS, hemolytic uremic syndrome; LT, heat-labile enterotoxin; ST, heat-stable enterotoxin; STEC, shiga toxin-producing E. coli; UTI, urinary tract infections.
+Fig. 46.1 The localized adherence pattern of enteropathogenic E. coli (EPEC) to HEp-2 cells in tissue culture. Focal clusters of bacteria are seen attached to one portion of the HEp-2 cells.
+understood how STEC produces diarrhea. 10  The 2011 German outbreak was caused by an O104:H14 strain that simultaneously produced Stx and some virulence factors of EAEC; it was called enteroaggregative hemorrhagic E. coli (EAHEC). This strain caused nearly 4000 cases of hemorrhagic colitis, more than 800 cases of HUS, and at least 50 deaths. 12
+
+============================================================
+CHUNK 9
+============================================================
+Enteroaggregative E. coli
+EAEC can produce a variety of clinical manifestations. It is associated with acute diarrhea in children; is the second most common cause  of  travelers'  diarrhea;  can  produce  acute  and  persistent diarrhea in HIV-infected patients; and can cause persistent diarrhea in malnourished children, mainly in children under 1 year of age in developing countries. 13 In addition, EAEC is frequently isolated from asymptomatic patients. 14 Diarrhea by EAEC is characterized by abdominal pain, nausea, vomiting, fever, watery stools, or blood or mucus in the stool. 15 Although the inoculum dose is high (10 10 CFU) for adults, it is unknown for children; the incubation period is 8 to 52 hours. 14 EAEC are a heterogeneous group of pathogens characterized for their aggregative adhesion phenotype or 'stackedbrick' pattern in HEp-2 cells (Fig. 46.2), mediated by the aggregative  adherence  plasmids  (pAA). 16 The  pathogenesis  of  EAEC
+Fig. 46.2 The aggregative pattern of adherence to HEp-2 cells diagnostic of enteroaggregative E. coli (EAEC). Note the stacked-brick appearance of bacteria attaching both to the tissue culture cells and to the glass slide in between the cells.
+
+============================================================
+CHUNK 10
+============================================================
+Enteroaggregative E. coli
+involves three steps: adherence to mucosal surface, bio{lm formation, and release of toxins with in|ammatory induction activity. The adhesion is mediated by the aggregative adherence {mbriae (AAF), which are encoded  by  the  pAA plasmids. An important transcriptional activator for AAF and dispersin is aggR, but there are EAEC strains lacking this gene. 14,15 Many factors are involved in  bio{lm  formation,  including AFF  and aggR expression. The bio{lm occurs mainly in the colon. 14 EAEC can produce a variety of toxins, including EAST1 (EAEC heat-stable enterotoxin), which increases secretion of chloride; Shigella enterotoxin-1 (ShET1), which  causes  |uid  accumulation;  hemolysin  E  (HlyE),  a  poreforming toxin; and serine protease autotransporters of Enterobacteriaceae (SPATE), including plasmid-encoded toxin (Pet), a protein  involved  in  intestinal  colonization  (Pic),  and Shigella extracellular protease (SepA). 14
+
+============================================================
+CHUNK 11
+============================================================
+Enterotoxigenic E. coli
+ETEC is an important cause of diarrhea in all ages. It is a common cause  of  infant  diarrhea  in  developing  countries,  is  the  most common cause of traveler's diarrhea, and can be associated with diarrhea  outbreaks  caused  by  natural  disasters  in  developing countries. 5,17 Worldwide, more than 200 million ETEC diarrhea cases and between 50,000 and 90,000 deaths are estimated. 18 In the GEMS study (Global Enteric Multicenter Study), ST-ETEC strains were associated with increased risk of death in moderate
+and  severe  diarrhea. 5 Watery  self-limiting  diarrhea  with  fever, abdominal cramps, nausea, and vomiting is distinctive of ETEC diarrhea. The infectious dose ranges between 10 6 and 10 8  CFU, and the incubation time is 1 to 2 days. ETEC secretes two major toxins: heat-labile (L T) and heat-stable (ST) enterotoxins, both encoded in plasmids. Other secreted toxins are EatA, EAST1, and CxeE. 1 LT is an AB5 toxin with homology with choleric toxin; it binds to the GM1 ganglioside and increases the level of cyclic adenosine monophosphate (cAMP). ST is a non-antigenic polypeptide  with  no  amino  acid  similarity  with  L T;  it  binds  to  the guanylyl cyclase receptor and increases the level of cyclic guanosine monophosphate  (cGMP).  The  increase  of  cAMP  and  cGMP produce an elevated secretion of Cl -and  HCO3 -to  the  lumen, causing the characteristic watery diarrhea. 16 Before toxin secretion, ETEC colonizes the intestine by colonization factors (CF) and other  non-{mbrial  adhesins  such  as Tia, TibA,  and  EtpA. 4 T o date, more than 26 CF types have been identi{ed; however, 30% to 50% of ETEC strains have no characterized CF. Worldwide, the most common CFs are CFA/I, CFA/II, and CFA/IV. 19
+
+============================================================
+CHUNK 12
+============================================================
+Enteroinvasive E. coli
+EIEC can  cause  diarrhea  in  children  and  adults  in  developing countries, and can cause outbreaks in developed countries. However, very  few  epidemiologic  studies  have  been  done  to  estimate  its burden. 20 It can produce dysentery-like illness or watery diarrhea; other symptoms include fatigue, malaise, fever, anorexia, abdominal cramps,  tenesmus,  scanty  stools  with  blood  and  mucus,  and dehydration. 1 The inoculum dose is 10 6 CFU, and the incubation time is 24 hours. 20,21 EIEC is biochemically very similar to Shigella. Both have the virulence plasmid VP, which confers the ability to invade  the  enterocytes.  The  VP  plasmid  encodes  a  T3SS;  the proteins expressed by this system, namely translocators IpaB, IpaC, and IpaD, are essential for invasiveness. 20 The bacteria penetrates the epithelial barrier by transcytosis through M cells. Once there, macrophages take up the bacteria; then they evade their degradation and invade the basolateral surface of intestinal epithelial cells by endocytosis. The bacteria promote their uptake into the phagosome. After escaping, EIEC can spread across the cells mediated by the effector proteins VirA and VirG. EIEC can destroy the epithelium by the in|ammatory response induced upon invasion. 21
+
+============================================================
+CHUNK 13
+============================================================
+Diffusely Adherent E. coli
+DAEC is associated with diarrhea in children between 1 and 5 years old in developing and developed countries; it is implicated in UTIs and pregnancy complications, and can be isolated from asymptomatic children and adults. 22 Diarrhea caused by DAEC is watery and can become persistent in young children. 3 Although DAEC strains are very heterogeneous, the diffuse adherence (DA) pattern in HEp-2 or HeLa cells (Fig. 46.3) is a distinctive characteristic of all of them. This adherence is mediated by {mbrial (i.e., Dr) and a{mbrial (Afa) adhesins, called Afa/Dr adhesins. These adhesins  can  interact  with  decay-accelerating  factor  (DAF)  as receptors, which results in damage of microvilli by disorganization of  the  cytoskeleton.  In  addition,  some  adhesins  can  bind  to carcinoembryonic antigen-related molecules (CEACAM), which lead to CEACAM aggregation and effacement of microvilli. 16,22 Some DAEC strains do not produce Ada/Dr adhesins; instead, they encode an adhesin involved in diffuse adherence (AIDA-I) and  are  called atypical  DAEC. DAEC  can  also  cause  a  proin|ammatory effect. 22
+
+============================================================
+CHUNK 14
+============================================================
+Adherent Invasive E. coli
+AIEC  is  a  novel  DEC  pathotype  implicated  in  ileal  Crohn's disease;  it  is  present  in  approximately  36%  of  cases.  However, it can also be found in healthy people; therefore it is considered
+Fig. 46.3 The diffuse pattern of adherence to HEp-2 cells that identifies diffuse adherence E. coli (DAEC). The bacteria are attached individually, interspersed over the surface of the entire HEp-2 cell.
+a pathobiont. 23,24 AIEC strains are de{ned as E. coli strains  that can adhere to Caco-2 or I-407 cells, invade I-407 cells, induce actin polymerization, and replicate within J774-A1 macrophages. 24 AIEC do not have known virulent determinants; studies in the reference  AEIC  strain  LF82  found  no  speci{c  genes  that  can explain  its  characteristics. 23   AIEC can adhere to CEACAM6 in the  ileum,  so  mutations  related  to  Crohn's  disease  can  predispose patients to infection by AIEC; AIEC can also up-regulate CEACAM6 by itself. 25 For its invasion to the epithelium, AIEC enters  M  cells  by  macropinocytosis  and  then  is  taken  up  by macrophages. After invasion, AIEC can reduce epithelial barrier function. 25
+
+============================================================
+CHUNK 15
+============================================================
+DIAGNOSIS
+Clinical and biochemical features can barely help to distinguish among the DEC pathotypes. Some O157:H7 STEC strains can be identi{ed by culturing in MacConkey-Sorbitol agar because they are unable to ferment sorbitol. Despite their genetic similarity, some  biochemical  assays  can  be  used  to  discriminate  between EIEC and Shigella . 1
+The HEp2 cell adherence assay can be used to identify EPEC, EAEC, and DAEC, based on their distinctive adherence pattern: localized or localized-like, aggregative ('stacked-brick'), and diffuse pattern,  respectively  (Figs.  46.1-46.3).  For  EAEC,  this  assay  is considered the gold standard for its identi{cation. 14 The standard gentamicin protection assay, which evaluates the ability to invade cells and replicate within macrophages, is the only test for AIEC detection because there is no speci{c gene associated with this pathotype. 24
+Some toxins and antigens can be detected by immunologic assays: for example, latex agglutination assay for O157 and H7 antigens, monosialoganglioside GM1 enzyme-linked immunosorbent assay (ELISA) for LT and ST, and commercial enzyme immunoassay (EIA) kits for Stx1 and Stx2, which is the preferred method for STEC detection because they can detect non-O157:H7 STEC strains.  For  the  latter,  the  Centers  for  Disease  Control  (CDC) recommends these tests in all bloody stool samples from communityacquired diarrhea; however, it is not implemented in all. 1
+Nowadays, molecular methods are preferred due to their high sensitivity and speci{city and because they are less laborious and time consuming than traditional methods. The most utilized are the  polymerase  chain  reaction  (PCR)-based  methods,  both conventional and real time. For differentiating DEC pathotypes, many speci{c targets have been evaluated (see T able 46.1). The
+simultaneous detection of many virulence genes for one pathotype can increase the sensitivity of the assay.
+
+============================================================
+CHUNK 16
+============================================================
+DIAGNOSIS
+Some molecular diagnostic platforms are cleared by the Food and Drug Administration (FDA) for diagnosis of several gastrointestinal pathogens, including DEC (i.e., FilmArray GI panel). The problem with these panels is that they detect more co-infections than  common  PCR-based  methods,  even  in  samples  from asymptomatic patients. Their high cost limits their use to reference and research laboratories. 26
+Some studies have highlighted the need of not only detecting virulence  genes,  but  also  determining  the  bacterial  load  in  the stool, mainly to distinguish between diarrhea and asymptomatic colonization. 27 For  this  reason,  quantitative  PCR  systems  are recommended and used in many studies. In the GEMS study, for example,  ST-ETEC  and  EIEC/ Shigella had  higher  quantities associated with diarrhea cases. 28
+Recently  some  isothermal  ampli{cation  diagnostic  methods have  been  developed,  such  as  the  loop-mediated  isothermal ampli{cation (LAMP) and the recombinase polymerase ampli{cation  (RPA).  Because  they  avoid  the  use  of  thermocyclers,  they have the potential to be used at the point of care. T o date, LAMP assays for all DEC pathotypes, except DAEC, have been developed, whereas, only an RPA assay for STEC is reported. 29,30
+
+============================================================
+CHUNK 17
+============================================================
+TREATMENT
+Because dehydration is the main complication of diarrhea, adequate |uid  management, including  oral rehydration solutions (ORS), should be used in all children with diarrhea. It is also recommended to continue breastfeeding and start foods, if applicable, as soon as possible. 31
+Except for traveler's and persistent diarrhea, antibiotics are not commonly used for DEC diarrhea. For children, there is no recommendation for antibiotic  use  because ef{cacy trials are lacking. For ETEC and EAEC, |uoroquinolones, azithromycin, rifaximin, amoxicillin/clavulanic  acid,  and  nalidixic  acid  can  be  used  in traveler's diarrhea in adults. 32
+Many studies have reported antibiotic resistance in DEC strains, both  from  symptomatic  and  asymptomatic  patients. This  is  an increasing worldwide problem. Of special interest is the increased rate of extended-spectrum β -lactamases (ESBL)-producing strains, especially the bla CTX-M genotype, in developing countries, because they have been associated with high morbidity and mortality. 33
+Treatment of STEC is particularly dif{cult because it is known that  antibiotics  can induce  Stx production. A recent systematic review found that antibiotic use was signi{cantly associated with an increased risk of developing HUS. 34 Another study found that the lack of intravenous |uid administration and a high hematocrit value before the development of HUS were associated with poor outcome in infected children. 35 Therefore |uid administration in STEC infections should be recommended to reduce HUS morbidity. T reatment of HUS is supportive; many children require early dialysis.
+
+============================================================
+CHUNK 18
+============================================================
+PREVENTION
+As  for  all  gastrointestinal  diseases,  food  and  personal  hygiene, water  quality,  and  sanitation  are  critical  for  the  prevention  of diarrhea, especially in developing countries. 36 Breastfeeding has been proposed as the most cost-effective intervention for protecting children  against  diarrhea. 37 In  developing  countries,  lack  of breastfeeding in infants less than 6 months of age is associated with 160% increase in diarrhea incidence and 950% increase in diarrhea mortality. 38 Breast milk protects infants due to the presence of several bioactive components such as lactoferrin, oligosaccharides, and secretory immunoglobulins. 39
+The development of vaccines against DEC could assist with diarrhea control, but to date, no effective vaccines are available.
+Many ETEC vaccines are being developed; however, their ef{cacy in children in developing countries is limited. The cholera vaccine Dukoral has been recommended for prevention of traveler' s diarrhea due to ETEC; however, the evidence is insuf{cient. 40 Vaccination of children and cattle has been proposed for STEC prevention. Two STEC vaccines (Econiche and Epitopix) have been developed, but they only target O157:H7 strains. In general, immune response to  DEC strains is not fully understood, making vaccine design challenging. 40
+
+============================================================
+CHUNK 19
+============================================================
+REFERENCES
+1.  Croxen  MA,  Law  RJ,  Scholz  R,  et al.  Recent  advances  in  understanding  enteric  pathogenic Escherichia  coli .  Clin  Microbiol  Rev 2013;26(4):822-80.
+2.  Nataro JP, Kaper JB. Diarrheagenic Escherichia  coli .  Clin  Microbiol Rev 1998;11(1):142-201.
+3.  Kaper JB, Nataro JP , Mobley HL. Pathogenic Escherichia coli . Nat Rev Microbiol 2004;2(2):123-40.
+4.  Clements A, Y oung JC, Constantinou N, Frankel G. Infection strategies of enteric pathogenic Escherichia coli . Gut Microbes 2012;3(2):71-87.
+5.  Kotloff KL, Nataro JP, Blackwelder WC, et al. Burden and aetiology of  diarrhoeal  disease  in  infants  and  young  children  in  developing countries (the Global Enteric Multicenter Study, GEMS): a prospective, case-control study. Lancet 2013;382(9888):209-22.
+6.  Hu J, T orres AG. Enteropathogenic Escherichia coli: foe  or innocent bystander? Clin Microbiol Infect 2015;21(8):729-34.
+7.  Ochoa TJ, Contreras CA. Enteropathogenic Escherichia coli infection in children. Curr Opin Infect Dis 2011;24(5):478-83.
+8.  Majowicz SE, Scallan E,  Jones-Bitton A, et al. Global incidence  of human Shiga toxin-producing Escherichia coli infections and deaths: a systematic review and knowledge synthesis. Foodborne Pathog Dis 2014;11(6):447-55.
+9.  Nguyen Y, Sperandio V. Enterohemorrhagic E. coli (EHEC) pathogenesis. Front Cell Infect Microbiol 2012;2:90.
+10.  Pacheco AR, Sperandio V. Shiga toxin in enterohemorrhagic E.coli: regulation  and  novel  anti-virulence  strategies.  Front  Cell  Infect Microbiol 2012;2:81.
+
+============================================================
+CHUNK 20
+============================================================
+REFERENCES
+11.  Smith JL, Fratamico PM, Gunther NW 4th. Shiga toxin-producing Escherichia coli . Adv Appl Microbiol 2014;86:145-97.
+12.  Bryan A, Youngster I, McAdam AJ. Shiga T oxin Producing Escherichia coli . Clin Lab Med 2015;35(2):247-72.
+13.  Estrada-Garcia  T,  Navarro-Garcia  F.  Enteroaggregative Escherichia coli pathotype:  a  genetically  heterogeneous  emerging  foodborne enteropathogen. FEMS Immunol Med Microbiol 2012;66(3):281-98.
+14.  Hebbelstrup  Jensen  B,  Olsen  KE,  Struve  C,  et al.  Epidemiology and clinical manifestations of enteroaggregative Escherichia coli . Clin Microbiol Rev 2014;27(3):614-30.
+15.  Kong H, Hong X, Li X. Current perspectives in pathogenesis and antimicrobial resistance of enteroaggregative Escherichia coli . Microb Pathog 2015;85:44-9.
+16.  Croxen  MA,  Finlay  BB.  Molecular  mechanisms  of Escherichia  coli pathogenicity. Nat Rev Microbiol 2010;8(1):26-38.
+17.  Jiang ZD, DuPont HL. Etiology of travellers' diarrhea. J T ravel Med 2017;24(suppl_1):S13-16.
+18.  Pires  SM,  Fischer-Walker CL, Lanata  CF , et al. Aetiology-Speci{c Estimates  of  the  Global  and  Regional  Incidence  and  Mortality  of Diarrhoeal  Diseases  Commonly Transmitted  through  Food.  PLoS ONE 2015;10(12):e0142927.
+19.  Fleckenstein JM, Munson GM, Rasko DA. Enterotoxigenic Escherichia coli: Orchestrated host engagement. Gut Microbes 2013;4(5):392-6.
+20.  Ud-Din A, Wahid S. Relationship among Shigella spp. and enteroinvasive Escherichia  coli (EIEC)  and  their  differentiation.  Braz  J  Microbiol 2015;45(4):1131-8.
+
+============================================================
+CHUNK 21
+============================================================
+REFERENCES
+21.  Newitt S, MacGregor V, Robbins V, et al. T wo Linked Enteroinvasive Escherichia coli Outbreaks, Nottingham, UK, June 2014. Emerg Infect Dis 2016;22(7):1178-84.
+22.  Servin AL. Pathogenesis of human diffusely adhering Escherichia coli expressing Afa/Dr adhesins (Afa/Dr DAEC): current insights and future challenges. Clin Microbiol Rev 2014;27(4):823-69.
+23.  Smith EJ, Thompson AP, O'Driscoll A, Clarke DJ. Pathogenesis of adherent-invasive Escherichia coli . Future Microbiol 2013;8(10):1289-300.
+24.  Martinez-Medina M, Garcia-Gil LJ. Escherichia coli in chronic in|ammatory bowel diseases: An update on adherent invasive Escherichia coli pathogenicity. World J Gastrointest Pathophysiol 2014;5(3):213-27.
+
+============================================================
+CHUNK 22
+============================================================
+REFERENCES
+25.  Shawki A, McCole DF. Mechanisms of Intestinal Epithelial Barrier Dysfunction by Adherent-Invasive Escherichia coli .  Cell Mol Gastroenterol Hepatol 2016;3(1):41-50.
+26.  Khare R, Espy MJ, Cebelinski E, et al. Comparative evaluation of two commercial multiplex panels for detection of gastrointestinal pathogens by use of clinical stool specimens. J Clin Microbiol 2014;52(10):3667-73.
+27.  Barletta F, Ochoa TJ, Mercado E, et al. Quantitative real-time polymerase chain reaction for enteropathogenic Escherichia coli: a tool for investigation  of  asymptomatic  versus  symptomatic  infections.  Clin Infect Dis 2011;53(12):1223-9.
+28.  Liu J, Platts-Mills JA, Juma J, et al. Use of quantitative molecular diagnostic methods to identify causes of diarrhoea in children: a reanalysis of the GEMS case-control study. Lancet 2016;388(10051):1291-301.
+29.  Daher  RK,  Stewart  G,  Boissinot  M,  Bergeron  MG.  Recombinase Polymerase Ampli{cation  for  Diagnostic Applications.  Clin  Chem 2016;62(7):947-58.
+30.  Li Y, Fan P , Zhou S, Zhang L. Loop-mediated isothermal ampli{cation (LAMP): A  novel  rapid  detection  platform  for  pathogens.  Microb Pathog 2017;107:54-61.
+31.  King CK, Glass R, Bresee JS, Duggan C. Centers for Disease Control and Prevention: Managing acute gastroenteritis among children: oral rehydration, maintenance, and nutritional therapy. MMWR Recomm Rep 2003;52:1-16.
+32.  T aylor DN, Hamer DH, Shlim DR. Medications for the prevention and treatment of travellers' diarrhea. J T ravel Med 2017;24(suppl_1): S17-22.
+33.  Rawat D, Nair D. Extended-spectrum β -lactamases in Gram Negative Bacteria. J Glob Infect Dis 2010;2(3):263-74.
+
+============================================================
+CHUNK 23
+============================================================
+REFERENCES
+34.  Freedman SB, Xie J, Neufeld MS, et al. Shiga T oxin-Producing Escherichia coli Infection, Antibiotics, and Risk of Developing Hemolytic Uremic  Syndrome:  A  Meta-analysis.  Clin  Infect  Dis  2016;62(10): 1251-8.
+35.  Grisaru  S,  Xie  J,  Samuel  S,  et al. Associations  Between  Hydration Status, Intravenous Fluid Administration, and Outcomes of Patients Infected With  Shiga T oxin-Producing Escherichia  coli: A  Systematic Review and Meta-analysis. JAMA Pediatr 2017;171(1):68-76.
+36.  Das JK, Salam RA, Bhutta ZA. Global burden of childhood diarrhea and interventions. Curr Opin Infect Dis 2014;27(5):451-8.
+37.  Jones G, Steketee RW, Black RE, et al; Bellagio Child Survival Study Group.  How  many  child  deaths  can  we  prevent  this  year?  Lancet 2003;362:65-71.
+38.  Lamberti LM, Fischer Walker CL, Noiman A, et al. Breastfeeding and the risk for diarrhea morbidity and mortality. BMC Public Health 2011;11(Suppl. 3):S15.
+39.  T urin CG, Ochoa TJ. The Role of Maternal Breast Milk in Preventing Infantile  Diarrhea  in  the  Developing World.  Curr  T rop  Med  Rep 2014;1(2):97-105.
+40.  O'Ryan M, Vidal R, del Canto F, et al. Vaccines for viral and bacterial pathogens  causing  acute  gastroenteritis:  Part  II:  Vaccines  for Shigella,  Salmonella, enterotoxigenic E.  coli (ETEC), enterohemorragic E.  coli (EHEC) and Campylobacter jejuni .  Hum Vaccin Immunother 2015;11(3):601-19.
+

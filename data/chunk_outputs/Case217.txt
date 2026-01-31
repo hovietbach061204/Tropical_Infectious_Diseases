@@ -1,0 +1,346 @@
+============================================================
+CHUNK 0
+============================================================
+Key features
+- There are three main Taenia species: Taenia saginata , Taenia solium , and Taenia asiatica. Taenia solium is also infectious in its larval form, causing human cysticercosis (see Chapter 127). Taenia infection occurs after ingestion of undercooked beef ( T. saginata ) or pork ( T. solium ) that are infected with larval cysticerci. Most intestinal infections are asymptomatic
+- The broad tapeworm, Diphyllobothrium latum, is acquired after eating raw or poorly cooked *sh. Most D. latum infections are asymptomatic
+- Both Taenia and D. latum infections can be prevented by adequate cooking or freezing of beef, pork, or *sh
+
+============================================================
+CHUNK 1
+============================================================
+INTRODUCTION
+Human infection with Taenia species is one of the most common parasitic infections. These tapeworms cause extensive human morbidity  and  major  production  losses  to  domestic  food  animals. Human infection with Taenia has  been  documented  since  antiquity; the first lifecycles for any tapeworm were demonstrated with Taenia almost 150 years ago [1]. The highest incidence is seen in areas  where  undercooked pork  and beef  are  consumed. Humans can serve as the definitive host for all Taenia species, as well as an accidental  intermediate  host  of T.  solium through  ingestion  of tapeworm  eggs.  This  can  lead  to  human  cysticercosis,  the  most common helminthic parasite affecting the central nervous system (CNS) [2]. While the majority of taeniasis is caused by T. saginata , the  three  species  of Taenia should  be  distinguished  in  order  to evaluate  a  patient's  risk  of  developing  neurocysticercosis  (see Chapter 127).
+
+============================================================
+CHUNK 2
+============================================================
+INFECTION
+Taeniasis  incidence  and  prevalence  are  highest  where  cattle  and swine have access to human fecal contamination and where raw or undercooked beef or pork is consumed. Taenia solium occurs most frequently in areas of poor sanitation where free-roaming pigs can become massively infected with cysticerci.  Urban sewage  used to fertilize cattle pastures is a risk factor for T. saginata infection if it is not properly sanitized [3].
+
+============================================================
+CHUNK 3
+============================================================
+Tapeworm Infections
+Joseph D Mega, Gerson Galdos-Cardenas, Robert H Gilman
+- The dwarf tapeworm Hymenolepis nana is acquired after ingestion of eggs in conditions of poor hygiene, usually by children. With large worm burdens it can cause nonspeci*c gastrointestinal symptoms
+- Infection with the dog tapeworm, Dipylidium caninum , occurs occasionally when a person accidentally swallows an infected )ea
+- All of the tapeworms can be treated with praziquantel or niclosamide
+Because meat consumption is  the main  route of  transmission of taeniasis, infection is uncommon prior to the age at which people begin  to  eat  meat.  In  rural  Mexico, T.  solium infection  has  been reported with similar frequency in all age groups older than two years.  However,  individuals  who  neither  consume  nor  raise  pork may still be at risk for cysticercosis if they ingest T. solium eggs. This mode of transmission was reported in orthodox Jews in New York City who acquired infection from contaminated food prepared by domestic helpers from endemic countries [4].
+
+============================================================
+CHUNK 4
+============================================================
+GEOGRAPHY
+Both T. saginata and T. solium have a global distribution. It is estimated that 50 million people worldwide are infected with T. saginata and 5 million with T.  solium [5].  The prevalence of taeniasis can vary greatly within, and between, countries.
+Taenia  saginata is  most  prevalent  in  East  Africa,  the  Middle  East, parts of Central and South America, central and Southeast Asia and eastern  Europe.  High  prevalence  has  been  demonstrated  in  Bali, East Africa and Tibetan populations in China [6]. The highest prevalence in Europe is in Slovakia and Turkey; however, levels for the region as a whole are low and range from less than 1% to 10% [3, 7]. Prevalence in Mexico has ranged from less than 1% to 6.5% [8, 9]. In the USA, most cases of T. saginata are introduced by migrants from Latin America. A survey along the Texas-Mexico border showed prevalence  of  3%  [10].  Most  diagnostic  tests  used  in  surveys  of taeniasis do not distinguish between species, which may confound T.  saginata prevalence  estimates  in  areas  where T.  solium is  also present.
+Taenia solium's cosmopolitan distribution is limited to areas of the world  where  pork  is  consumed.  This  makes  rates  of  infection extremely  low  in  Muslim  countries,  particularly  the  Middle  East. Taenia solium is endemic in most of Latin America, with the highest seroprevalences  seen  in  Peru,  Honduras,  Ecuador,  Guatemala, Bolivia, Venezuela, Brazil, and Mexico [1 1, 12]. Other high prevalence regions include India, China, Southeast Asia, Slavic countries, and sub-Saharan Africa. Some villages in Uganda report up to 45% of pigs to be infected with T. solium [1 1]. Western Europe and North America have few infections.
+Taenia asiatica is limited to Asia. Prevalence is particularly high in regions where people routinely eat undercooked pork with viscera. Taiwan,  Korea,  North  Sumatra,  Indonesia,  Vietnam,  and  several provinces in China have a prevalence as high as 21% [13, 14].
+
+============================================================
+CHUNK 5
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Adult tapeworms have segmentally arranged hermaphroditic sexual units called proglottids, which mature as they progress distally from the neck of the tapeworm. The most distal (gravid) proglottids are periodically released and can pass, intact, in human feces or rupture, scattering thousands of eggs that remain infectious for months.
+Taenia saginata worms are 4-12 meters in length and can contain 1000-2000  proglottids.  The  morphology  of  the  proglottid  helps to distinguish the different species. Taenia saginata's gravid proglottid has 12 or more primary uterine branches . Taenia solium worms are  shorter  (between  1.5  and  8  meters)  and  usually  contain  less than 1000 proglottids - the proglottid has an identifiable uterine pore and less than 12 primary uterine branches. Taenia asiatica is slightly smaller in size (4-8 meters in length, 300-1000 proglottids)  but is otherwise indistinguishable from T.  saginata .  The two species are distinct based on molecular phylogenetic work [15].
+Taenia lifecycles are unique, in that mammals serve as both definitive and intermediate hosts. The typical Taenia lifecycle involves two mammalian hosts: a carnivorous or omnivorous definitive host and a  herbivorous  intermediate  host.  Infection  with  the  larval-stage worm in the musculature, visceral organs or CNS of the intermediate host follows ingestion of parasite proglottids or eggs. The definitive  host  acquires  the  larvae  from  consuming  infected  meat  or viscera. The adult-stage worm then develops in the intestinal lumen of  the  definitive  host  and  sheds  gravid  proglottids  or eggs  in  the feces [1].
+Humans acquire T.  saginata through consumption of measly beef infected with the larval form, called a cysticercus. Once larvae are ingested, the scolex  within the cysticercus evaginates through the cyst  wall  and,  using  its  four  suckers,  the  scolex  attaches  to  the jejunal wall. Worms can migrate frequently.
+
+============================================================
+CHUNK 6
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+The  scolices of the three Taenia species  are  morphologically unique. Taenia saginata lacks a crown or rostellum with hooks. The scolex of T. solium is about 1 mm wide and possesses four suckers and a distinctive rostellum armed with a double row of large and small hooklets. Taenia asiatica exhibits a rostellum, but lacks hooks [16].
+Maturation into adult worms takes 10-12 weeks and results in the shedding of terminal proglottids (10-15 per day) and free eggs in the stool. Adult worms can live as long as 25 years; however, average infections are shorter.
+Taenia solium is acquired through the consumption of measly pork. Upon  ingestion  of  cysticerci  ( Cysticercus  cellulosae )  undergo  the same process as T. saginata . Maturation in the gut takes 5-12 weeks and worms can persist for years. Groups of 3-5 gravid proglottids can be shed in the stool on a daily basis.
+The lifecycle of T.  asiatica within its definitive  host is  identical  to that of T. saginata ; however, it begins with consumption of measly pork viscera, especially liver.
+Although  cattle  serve  as  the  primary  intermediate  host  for T. saginata , the parasite can infect other domesticated bovine, including water buffalo and yak. Reindeer are a host in northern latitudes [3].
+Pigs become infected with T. solium by ingesting gravid proglottids or eggs found in contaminated environments, where T. solium eggs remain viable for many months [12]. Dogs can become infected, presenting  as  an  alternate  intermediate  host  that  may  maintain infection in areas of Asia where dog consumption occurs [13].
+Taenia  asiatica is  typically  found  only  in  pigs.  Oncospheres  from T. asiatica have a predilection for viscera and preferentially migrate to, and encyst in, the liver. After four weeks,  the viscera becomes infectious. Cysticercosis attributable to T. asiatica does not occur.
+
+============================================================
+CHUNK 7
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Infection is most often caused by a single Taenia worm, but infections with multiple tapeworms may occur, in which case the size of the tapeworms is inversely proportional to the numbers that are present  [17,  18].  Worms obtain  nourishment  through  the  movement of host nutrients across the parasite's body surface (tegument) [6].
+
+============================================================
+CHUNK 8
+============================================================
+CLINICAL FEATURES
+Taeniasis  should  be  suspected  in  patients  who  live  in,  or  have traveled  to,  endemic  areas  where  consumption  of  raw  or  undercooked beef or pork is common.
+Most adult Taenia carriers are asymptomatic. In the case of T. saginata , carriers often first become aware of infection when they experience  the  sensation  of  motile  segments  migrating  through  the perianal area or in their underwear. Taenia saginata proglottids are passed on an almost daily basis in the stool. Taenia solium proglottids are not motile and less frequently passed in the stool. Thus, the presence of motile segments helps to rule out T. solium .
+Symptomatic patients with tapeworms complain of mild abdominal  discomfort,  cramps,  colicky  pain,  nausea,  vomiting,  fatigue, anorexia and weight loss [6]. Rare acute complications can occur, more commonly with T. saginata , as a result of proglottids migrating to  unusual  anatomic  sites.  Intestinal  perforation  [19],  intestinal obstruction  [20],  pancreatitis,  cholangitis  and  cholecystitis  as  a result  of  aberrant  proglottid  migration  have  all  been  reported [21-23].
+A history of taeniasis with T. solium increases an individual's risk of the more serious condition cysticercosis (see Chapter 127).
+
+============================================================
+CHUNK 9
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+T. saginata infections can be tentatively diagnosed from a patient's history,  particularly  if  migrating  proglottids  were  in  the  perianal area or underwear. When proglottids are observed, the differential diagnosis is limited to Taenia species and D. caninum ,  a  common tapeworm  of  dogs.  As  the  treatment  for  these  two  infections  is similar, examination of proglottids from stool is mostly to rule out a patient's risk of cysticercosis. In patients with nonspecific gastrointestinal  (GI)  symptoms,  the  differential  diagnosis  includes  other intestinal parasites and primary GI disorders.
+
+============================================================
+CHUNK 10
+============================================================
+MICROSCOPY
+If  a  patient  provides  gravid  proglottides,  species  identification should be attempted by counting the number of uterine branches using light microscopy. Specimens should be collected in saline or water and can be fixed in formalin, dehydrated in glycerol and then flattened between two microscope slides. India ink can be injected into  the  lateral  genital  pore  to  enhance  visibility  of  the  uterine branches. Twelve branches or less is diagnostic of T. solium and 12 or more may be either T. saginata or T. asiatica , depending on geographic location.
+WAGI
+If  only  mature,  non-gravid  proglottids  are  available,  a  stained segment  of T.  solium will  show  a  three-lobed  ovary; T.  saginata exhibits a  vaginal sphincter. Cleansing the intestine  with a  purge immediately  before  treatment  may  improve  recovery  of  parasite material for species identification [24].
+Taenia eggs  are  periodically  absent  from  feces  during  infection. When present, the eggs of all Taenia species appear identical [24, 25]. Taenia eggs consist of a mature six-hooked (hexacanth) embryo, termed an oncosphere (Figs 126.1 and 126.2).
+
+============================================================
+CHUNK 11
+============================================================
+IMMUNOLOGIC TESTS
+Parasite specific co-proantigens (CoAg) are amenable to immunologic detection. A CoAg ELISA detecting worm somatic or excretorysecretory products is at least twofold more sensitive at identifying
+FIGURE 126.1 Secretory vesicles of Taenia solium oncosphere.
+human carriers compared with traditional stool examination [25]. A microplate ELISA and dipstick test demonstrate a sensitivity of about 95% with false-negative tests at < 1% [26]. These tests are also useful in assessing treatment, as CoAgs disappear from feces within one week of successful treatment [27]; however, they are unable to differentiate between species.
+Copro-PCR for detection of DNA in human stool can make speciesspecific diagnoses prior to treatment [28-30].
+Species-specific stool tests capable of identifying taeniasis and cysticercosis using a single fecal sample detect a T. solium oncospherespecific protein Tso31 by PCR. In a field trial in Peru, this test was 100% sensitive and specific for identifying T.  solium ,  and  did  not cross-react with other parasites [31].
+
+============================================================
+CHUNK 12
+============================================================
+TREATMENT
+All  three  forms  of  human  taeniasis  can  be  eliminated  (85-98% efficacy) with a single oral dose of niclosamide (2 g PO) or praziquantel  (5-10 mg/kg  PO)  [6].  Praziquantel  presents  a small risk that asymptomatic viable brain cysts of T.  solium will be activated  during  treatment,  resulting  in  neurologic  sequelae  of  seizures and headache [32]. For this reason, some consider niclosamide  the  drug  of  choice  because  it  is  not  systemically absorbed. Despite being included on the World Health Organization's (WHO) list of essential drugs, its use has been discontinued in the USA [33].
+During  treatment  of T.  solium ,  autoinfection  or  dissemination with  parasite  eggs  can  occur.  Medications  that  induce  vomiting should  be  avoided,  as  retrograde  peristalsis  may  allow  gravid proglottids to be digested with egg hatching, penetration of larvae and development of cysticercosis. Adverse effects from praziquantel are  abdominal  discomfort,  diarrhea,  headache,  dizziness,  and drowsiness [34].
+Some  clinicians  recommend  a  bowel  purge  within  two  hours  of treatment. This will help to prevent release of eggs from disintegrating gravid proglottids. However, no documented cases of cysticercosis have occurred by this mechanism. If successful, a purge will also  improve  the  likelihood  of  recovering  an  intact  tapeworm within 6-12 hours, aiding in species identification. Finally, if the scolex of the tapeworm is not expelled, the worm can regenerate
+FIGURE 126.2 Scanning electron micrographs of T. solium oncospheres adhering to 1xed monolayer CHO-K1 cells. (A) T. solium oncospheres attached to the surface of CHO cells by elongated microvilli. (A) Secretory vesicles (arrows) that are present outside the oncosphere membrane. Microvilli are on the surface membrane of the oncosphere and secretory vesicles. (C) Elongate microvilli that are attached to the surface of CHO cells. Hooks are present outside the oncosphere.
+
+============================================================
+CHUNK 13
+============================================================
+TREATMENT
+within two months [12]. Electrolyte-polyethyleneglycol solution is more  effective  than  castor  oil  in  producing  intact  scolices  and proglottids and is the preferred purgative [18].
+Other anthelminth drugs used to treat roundworm infections (e.g. albendazole)  are  not  as  effective.  Nitazoxanide  cured T.  saginata unresponsive to niclosamide, praziquantel or both, and should be considered in resistant cases of taeniasis [35].
+
+============================================================
+CHUNK 14
+============================================================
+INTRODUCTION
+The broad-tapeworm, Diphyllobothrium latum , is the main species of Diphyllobothrium [36].  This  tapeworm  is  acquired  by  ingestion  of larval stages (plerocercoid) present in raw or insufficiently cooked fish. Worldwide, other species can infect humans such as Diphyllobothrium nihonkaiense in  coastal Japan and Diphyllobothrium  klebanovskii along the Amur River drainage in far-eastern Siberia. Species of  parasites  primarily  infecting  fish  eating  birds  such  as  gulls ( Diphyllobothrium dendriticum ), and gulls and dogs in Alaska ( Diphyllobothrium dalliae ) can also infect humans [37].
+
+============================================================
+CHUNK 15
+============================================================
+EPIDEMIOLOGY
+There  is  an  association  of Diphyllobothrium tapeworms  and  coldwater regions such as Scandinavia and North America [38]. Diphyllobothriasis  is  associated  with  consumption  of  raw  or  poorly cooked  fish,  including  raw  salted  or  marinated  fish  fillets  commonly  eaten  in  Europe  and  South  America  and  'sushi'  and 'sashimi' in Japan [39]. Diphyllobothrium latum is found in salmonid species and in the musculature of several fish species in North America  (pike,  yellow  perch,  walleye  and  sauger),  Europe  and northern Asia (pike, perch, ruffe and burbot).
+In  North  America,  diphyllobothriasis  was  a reportable disease  in the USA until 1982; most cases occurred in the Great Lakes region, central  Canada (Manitoba) and Alaska. Between 1977 and 1981, the Centers for Disease Control and Prevention (CDC) estimated about 125-200 cases occurred in the USA [40]. Decreasing trends of  human  diphyllobothriasis  have  been  observed  in  historically endemic countries of Western Europe (Finland, Poland, Romania, Sweden,  Norway,  Estonia,  Latvia  and  Lithuania)  and  in  North America over the last 20 years [41]. This decline is thought to be as a result of increased awareness of the disease, stricter monitoring of food fish, a change of eating habits and higher standards of public hygiene.
+Reports of diphyllobothriasis have increased in areas around Swiss, Italian and French lakes, where raw or undercooked perch is consumed. In the last six years, sporadic cases have been reported in some countries previously considered to be disease free (Austria, Czech Republic, Belgium, the Netherlands, and Spain), presumably linked to the consumption of raw imported fish [40].
+
+============================================================
+CHUNK 16
+============================================================
+EPIDEMIOLOGY
+South  America,  Chile,  Peru,  Argentina,  Brazi,  and  Ecuador  have reported  human  infections  caused  by Diphyllobothrium  pacificum and D.  latum [42-44].  Diphyllobothriasis  is  frequently  reported along the coast of the Sea of Japan, where the majority of human infections  are  caused  by D.  nihonkaiense. Since  1970,  an  average of 100 cases per year has been reported in Japan [45]. Prevalences of  1.0-3.3%  have  been  reported  in  Okhotsk  (Russia)  and  up  to 45 human cases from Korea. Rare clinical cases attributed to different species of Diphyllobothrium have  been  reported  in  the Middle  East.  There  are  no  reliable  reports  from  Africa  and  Australia [46].
+
+============================================================
+CHUNK 17
+============================================================
+PREVENTION AND CONTROL
+Infections  with Taenia can  be  prevented  by  adequate  cooking  or freezing  of  beef  and  pork  or,  in  the  case  of T.  asiatica ,  pig  liver. Freezing meat kills cysticerci of all species when the internal temperature  drops  below  -5°C  (23°F)  for  at  least  4  days  or  around -20°C for at least 12 hours. Cooked meat or viscera are safe to eat when it loses its pink color ( > 70°C), or is 'well done' .
+
+============================================================
+CHUNK 18
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Unembryonated eggs are released into the stool; a single worm can produce up to 1 million eggs per day. The motile first-stage larva hatches in the water, and can infect many species of first intermediate hosts (copepods) [47]. The larva penetrates the intestinal wall of the copepod and develops into the procercoid. After ingestion of infected copepods by the second intermediate hosts (freshwater, anadromous or marine fish), the procercoid enters their tissues and develops into the plerocercoid stage. Plerocercoids develop rapidly into adults in the definitive hosts' intestine, yielding their first eggs 2-6  weeks  later  [48].  Most Diphyllobothrium species  have  a  low specificity  at  the  adult  stage,  implying  that  humans  can  become infected  with  parasites  of  carnivore  mammals  or  even  fish-eating birds [40].
+Diphyllobothrium tapeworms can grow up to 2-15 meters in length (3000-4000 segments). Parasites can live up to 20 years and their growth rate may be as high as 22 cm/day.
+Diphyllobothrium are characterized by a scolex with a paired slit-like attachment groove (bothrium) on the dorsal and ventral surfaces. A proliferative zone (neck) is usually present posterior to the scolex. The remaining body (strobila) is composed of a high number of proglottids, each containing one set of genital organs of both sexes [40].
+
+============================================================
+CHUNK 19
+============================================================
+CLINICAL FEATURES
+Eggs are passed in stools approximately 15-45 days after ingestion of larvae. The presence of the tapeworm can be noted because of the  expulsion  of  segments  with  the  stools.  Adult  parasites  can survive for decades [40].
+Although most Diphyllobothrium species  are  large  and  can  have  a mechanical effect on the host, many infections are asymptomatic. Diarrhea,  discomfort  and  abdominal  pain  are  observed  in  about 20%.  Other  symptoms  such  as  fatigue,  constipation,  pernicious anemia, headache, and allergic reactions may also be present. Tapeworms usually attach in the ileum. Rarely, the worms attach in a bile  duct.  Massive  infections,  although  uncommon, can  result  in intestinal obstruction, and migrating segments can cause cholecystitis or cholangitis [49].
+When prolonged or heavy D. latum infection is present, megaloblastic anemia can occur and is characterized by macrocytic red cells and often associated with low platelet or white blood cell counts. Approximately  80%  of  the  B12  intake  is  absorbed  by  the  worm making  B12  unavailable  to  the  host.  Although  about  40%  of D. latum -infected  individuals  show  low  B12  levels,  only  2%  or  less develop  clinical  anemia. Diphyllobothrium -associated  pernicious anemia is now rarely reported [50].
+Symptoms with D. nihonkaiense infection are generally mild [51].
+
+============================================================
+CHUNK 20
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Human broad tapeworm diagnosis is based on finding eggs of an ovoid shape with an operculum on a narrowed pole. In most cases, identification  at  the  species  level  is  difficult  as Diphyllobothrium species can only be differentiated on the basis of the shape and size of the scolex, which is usually absent in clinical samples [40]. At present,  molecular  methods  represent  the  most  reliable  tool  to identify  clinical  samples  of Diphyllobothrium at  the  species  level. However, these are available only at research laboratories.
+
+============================================================
+CHUNK 21
+============================================================
+TREATMENT
+A  single  oral  dose  of  25 mg/kg  praziquantel  is  highly  effective against  human D.  latum infections.  Lower  doses  of  10 mg/kg  are
+
+============================================================
+CHUNK 22
+============================================================
+INTRODUCTION
+Humans are infected mainly by two species of tapeworms of the genus Hymenolepis :
+- Hymenolepis  nana :  dwarf  tapeworm  (1-5 cm  long),  the  most common tapeworm infection of humans;
+- Hymenolepis  diminuta :  considerably  larger  (20-90 cm  long);  a rodent tapeworm that rarely infects humans [53].
+
+============================================================
+CHUNK 23
+============================================================
+EPIDEMIOLOGY
+Hymenolepis  nana has  a  worldwide  distribution  with  estimates of  50-75  million  carriers.  There  is  a  high  prevalence  in  Central America. Hymenolepis nana infection is observed in households with poor  hygiene  and  overcrowding,  and  can  have  a  prevalence  of 5-25% in children [54]. In the southeastern USA, as many as 1% of young school-children are infected.
+Hymenolepis diminuta has a cosmopolitan distribution with prevalence up to 1% in parts of India. Children are most likely to contract infection after contact/play with stored grain or cereals.
+
+============================================================
+CHUNK 24
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Humans are the natural host for H. nana , which has a direct lifecycle (no intermediate host is needed); animal hosts of other Hymenolepis species utilize insect intermediate hosts. Infective eggs containing a hexacanth embryo or oncosphere are released to the intestine after disintegration  of  the  proglottid  [55].  The  cysticercoid  develops directly  in  the  intestinal  villi.  After  several  days,  it  emerges  and develops into a tapeworm in a few weeks. Autoinfection within the gut can possibly occur. Hymenolepis nana can also infect rodents and be transmitted via beetles or fleas [56].
+
+============================================================
+CHUNK 25
+============================================================
+INTRODUCTION
+Dipylidium caninum is the most common cestode of domestic dogs. It  can  also  infect  cats.  It  is  a  small-to-medium-sized  (10-50 cm) tapeworm,  pink  in  color,  with  double-pored,  barrel-shaped  segments [59]. It can infect humans when a person accidentally swallows an infected flea ( Ctenocephalides canis or Ctenocephalide felis ) [54].
+effective  against  human  infections  with D.  pacificum [40].  Oral administration of a single dose of praziquantel at 5-10 mg/kg has been reported to be effective and safe for D. nihonkaiense infections, but a single administration of a 25-50-mg/kg dose is usually used [52].  An  alternative  drug  is  niclosamide  (a  single  dose  of  1 g  in children older than 6 years and 2 g in adults).
+Intraduodenal gastrographin (used for contrast-enhanced intestinal radiographs) can be efficacious in the treatment of large cestodes. However, this method is cumbersome in practice. It will lead to the discharge of a complete, living worm with the scolex and is suitable for species identification [40].
+Infections  with Diphyllobothrium tapeworms  can  be  prevented by  eating  well-cooked  fish  or  deep-frozen  fish  (at  least -10°C for 24 h) or by placing the fish in a concentration of brine (12% NaCl) [46].
+Accidental ingestion of cysticercoid infected beetles, fleas or other insects in various grain products can rarely cause human infection with H. diminuta [47].
+
+============================================================
+CHUNK 26
+============================================================
+CLINICAL FEATURES
+The presence of an adult tapeworm occurs 3-4 weeks after direct egg/oncosphere infection. Abdominal discomfort, irritability, diarrhea and possibly malabsorption can be caused by large burdens of H. nana tapeworms ( > 300) in children. However, clinical signs in adults are rare; only in heavy infection have diarrhea and abdominal discomfort been noted. Diarrhea results from damage to the mucosal surface. Infection in adults, but not in young children, is generally self-limited [57].
+The prepatent period of H. diminuta in humans is about three weeks and infection is mild. Diarrhea, nausea, and anorexia have occurred but these symptoms are not unusual.
+
+============================================================
+CHUNK 27
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Diagnosis is made by the identification of ova in stool samples. Egg counts in stool of over 10,000 eggs per gram are considered heavy infection.
+
+============================================================
+CHUNK 28
+============================================================
+TREATMENT
+Praziquantel (25 mg/kg  in  adults  and  children), niclosamide ( > 90% efficacy) and nitazoxanide (75-93% efficacy) are effective. A carrier's family/household members should also be treated. Treatment is  successful  if  eggs  are  not  observed  in  stool  samples  one month post-treatment [58]. Prevention includes improved environmental and personal hygiene.
+
+============================================================
+CHUNK 29
+============================================================
+EPIDEMIOLOGY
+Humans, usually young children (0.5-5 years old) probably acquire infection  after  accidental  ingestion  of  fleas  or  lice  during  contact with pets [60]. Prevalence in dogs ranges from 1-60% in studies performed in South and Central America. In Europe, prevalence in wild foxes has ranged from 1-50% in several countries, including Spain, France, England, and Greece [60].
+
+============================================================
+CHUNK 30
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Infection is transmitted to dogs (or cats) by ingesting fleas or body lice (Trichodectes spp .) that are infected with the larval cysticercoid stage  of the  tapeworm.  More  than  20-30 tapeworms  of different lengths may reside in the dog small intestine with each worm containing  60-175  proglottids.  Egg  packets  can  be  expelled  by  the contraction of the proglottid or by disintegration of the proglottids in the perianal region. Each onchosphere has six hooklets [55, 56].
+
+============================================================
+CHUNK 31
+============================================================
+CLINICAL FEATURES
+Close contact between young children and dogs and cats is responsible for this mainly asymptomatic infection. However, proglottids can  cause  anal  irritation,  loss  of  appetite,  abdominal  pain  or diarrhea [57].
+
+============================================================
+CHUNK 32
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Infection is usually asymptomatic and its detection occurs by the discovery of small white motile rice-like segments in underwear or diapers. Microscopic confirmation can be made by the presence of characteristic egg packets/sacs containing numerous hooked oncospheres [47].
+
+============================================================
+CHUNK 33
+============================================================
+TREATMENT
+Praziquantel and niclosamide are effective treatments. Regular treatment of pet dogs or cats with anthelmintics and antiflea collars is preventive [58].
+
+============================================================
+CHUNK 34
+============================================================
+REFERENCES
+1. Hoberg EP. Taenia tapeworms: their biology, evolution and socioeconomic significance. Microbes Infect 2002;4:859-66.
+2. Verastegui M, Gilman R, Aeana Y, et al. Taenia solium oncosphere adhesion to intestinal epithelial and Chinese hamster ovary cells in vitro. Infect Immunity 2007;75:5158.
+3. Cabaret J, Geerts  S, Madeline M, et al. The use of urban sewage sludge on pastures: the cysticercosis threat. Vet Res 2002;33:575-97.
+4. Schantz PM, Moore AC, Munoz JL, et al. Neurocysticercosis in an Orthodox Jewish community in New York City. N Engl J Med 1992;327:692-5.
+5. Schantz  PM. Taenia  solium cysticercosis/taeniasis  is  a  potentially  eradicable disease: developing a strategy for action and obstacles to overcome. In: García HH, Martínez M, eds. Teniasis/Cisticercosis por T. solium . Lima: ICN; 1996: 227-30.
+6. Craig P, Ito A. Intestinal cestodes. Curr Opin Infect Dis 2007;20:524-32.
+7. Dornu P, Praet N. Taenia saginata in Europe. Vet Parasitol 2007;149:22-4,
+8. Flisser A, Sarti E, Lightowlers M, Schantz P. Neurocysticercosis: regional status, epidemiology,  impact  and  control  measures  in  the  Americas.  Acta  Tropica 2003;87:43-51.
+9. Flisser  A,  Rodriguez-Canul R,  Willingham AL, III. Control  of the  taeniosis/ cysticercosis complex: Future developments. Vet Parasitol 2006;139:283-92.
+10.  Behravesh  BC,  Mayberry  LF,  Bristol  JR,  et  al.  Population-based  survey  of taeniasis  along  the  United  States-Mexico  border.  Ann  Trop  Med  Parasitol 2008;102:325-33.
+
+============================================================
+CHUNK 35
+============================================================
+REFERENCES
+11.  Pawlowski Z, Allan J, Sarti E. Control of Taenia solium taeniasis/cysticercosis: From research towards implementation. Int J Parasitol 2005;35:1221-32.
+12.  Willingham AL, III, Engels D. Control of Taenia solium Cysticercosis/Taeniosis. Adv Parasitol 2006;61;509-66.
+13.  Ito A, Nakao M, Wandra T. Human taeniasis and cysticercosis in Asia. Lancet 2003;362:1918-20.
+14.  Fan PC, Chung WC. Sociocultural factors and local customs related to taeniasis in East Asia. Kaohsiung J Med Sci 1997;13:647-52.
+15.  Hoberg  EP.  Phylogeny  of Taenia:  species  definitions  and  origins  of  human parasites. Parasitol Int 2006;50(suppl.):S23-30.
+16.  Flisser  A,  Viniegra  A,  Aguilar-Vega  L,  et  al.  Portrait  of  human  tapeworms. J Parasitol 2004;90:914-6.
+17.  Read  CP.  The  'crowding  effect'  in  tapeworm  infections.  J  Parasitol  2000: 86(2):206-8.
+18.  Jeri  C,  Gilman RH, Lescano AG, et al. Species identification after treatment for taeniasis. Lancet 2004;363:949-50.
+19.  Jongwutiwes  S,  Putaporntip  C,  Chantachum  N,  Sampatanukul  P.  Jejunal perforation  caused  by  morphologically  abnormal Taenia  saginata infection. J Infect 2004;49:324-8.
+20.  Karanikas ID, Sakellaridis TE, Alexiou CP, et al. Taenia saginata: a rare cause of bowel obstruction. Trans R Soc Trop Med Hyg 2007;101:527-8.
+21.  Plane P, Ronceray J, Dubin P. Acute pancreatitis from obstruction of Wirsung's canal by Taenia saginata . J Chir (Paris) 1980;1 17:193-4.
+
+============================================================
+CHUNK 36
+============================================================
+REFERENCES
+22.  Bordon  LM.  Intestinal  obstruction  due  to Taenia  saginata infection:  a  case report, J Trop Med Hyg 1992;95:352-3.
+23.  Negre A. Rupture into the free peritoneum of a liver abscess caused by the presence of Taenia  saginata in  the  right  lobe.  Mem Acad  Chir  (Paris) 1957; 83:493-5.
+24.  Garcia HH, Gonzalez AE, Evans CAW, Gilman RH. Taenia solium cysticercosis. Lancet 2003;362:547-56
+25.  Allan JC, Craig PS. Coproantigens in taeniasis and echinococcosis. Parasitol Int 2006;55(suppl.):S75-80.
+26.  Allan JC, Velasquez Tohom M, Torres Alvarez R, et al. Field trial of diagnosis of Taenia solium taeniasis by coproantigen enzyme linked immunosorbent assay. Am J Trop Med Hyg 1996;54:352-6.
+27.  Allan  JC,  Avila  G,  Garcia-Noval  J,  et  al.  Immunodiagnosis  of  taeniasis  by coproantigen detection. Parasitology 1990;101:473-7.
+28.  Mayta H, Talley A, Gilman RH, et al. Differentiating Taenia solium and Taenia saginata infections by simple hematoxylin-eosin staining and PCR-restriction enzyme analysis. J Clin Microbiol 2000;38:133-7.
+29.  Gonzalez  LM,  Montero  E,  Sciutto  E,  et  al.  Differential  diagnosis  of Taenia saginata and Taenia solium infections: from DNA probes to polymerase chain reaction. Trans R Soc Trop Med Hyg 2002;96:S243-50.
+30.  Yamasaki H, Allan JC, Sato MO, et al. DNA differential diagnosis of taeniasis and cysticercosis by multiflex PCR. J Clin Microbiol 2004;42:548-53.
+
+============================================================
+CHUNK 37
+============================================================
+REFERENCES
+31.  Mayta H, Gilman RH, Prendergast E, et al. Nested PCR for specific diagnosis of Taenia solium taeniasis. J Clin Microbiol 2008;46(1):286-9.
+32.  Flisser A, Madrazo I, Placarte A, et al. Neurological symptoms in occult neurocysticercosis after single taenicidal dose of praziquantel. Lancet 1993;243:748.
+33.  Pawlowski ZS. Role of chemotherapy of taeniasis in prevention of neurocysticercosis. Parasitol Int 2006;55(suppl. 1):S105-9.
+34.  Loukas A, Hotez PJ. Chemotherapy of helminth infections. In: Brunton LL, Lazo JS,  Parker  KL,  eds.  Goodman  &  Gilman's  The  Pharmacological Basis  of  Therapeutics;  2006.  Available  at:  http://www.accessmedicine.com (accessed 8 November 2011).
+35.  Lateef M, Zargar SA, Khan AR, et al. Successful treatment of niclosamide- and praziquantel-resistant beef tapeworm infection with nitazoxanide. Int J Infect Dis 2008;12:80-2.
+36.  Adams AM,  Rausch  RL.  Diphyllobothriasis.  In:  Connor  DH,  Chandler  FW, Schwartz DA, et al, eds. Pathology of Infectious Diseases, vol. 2. Stamford; McGraw-Hill Professional; 1997;1377-90.
+37.  Schmidt GD. CRC handbook of tapeworm identification. Boca Raton: CRC Press; 1986.
+38.  Dick  T.  Diphyllobothriasis:  the  D iphyllobothrium  latum human  infection conundrum and reconciliation with a worldwide zoonosis. In: Murrell KD, Fried B, eds. Food-borne Parasitic Zoonoses: Fish and Plant-borne Parasites (World Class Parasites), vol. 1 1. London: Springer; 2008:151-84.
+39.  Lee KW, Suhk HC, Pai KS, et al. D iphyllobothrium latum infection after eating domestic salmon flesh. Korean J Parasitol 2001;39:319-21.
+
+============================================================
+CHUNK 38
+============================================================
+REFERENCES
+40.  Scholtz T, Garcia HH, Kuchta R, Wicht B. Update on the human broad tapeworm (genus Diphyllobothrium ), including clinical relevance. Clin Microbiol Rev 2009;22:146-60.
+41.  Scholz T, Garcia HH, Kuchta R, Wicht B. Update on the human broad tapeworm (Genus Diphyllobothrium ), including clinical relevance. Clin Microbiol Rev 2009;22:146-60.
+42.  Atias  A,  Cattan  PE.  Primer  caso  humano de infeccion por Diphyllobothrium pacificum en Chile. Rev Med (Chile) 1976;104:216-7 [in Spanish].
+43.  Eduardo MBP, Sampaio JLM, Goncalves EMN, et al. D iphyllobothrium spp.: um parasita emergence em São Paulo, asociado ao consumo de peixe cru - sulis e sashimis. Bol Epidemiol Paulista 2005;2:1-5.
+44.  Sker ˇíková  A, Brabec J, Kuchta R, et al. Is the human-infecting Diphyllobothrium pacificum a valid species or just a South American population of the Holarctic fish broad tapeworm, D. latum ? Am J Trop Med Hyg 2006;75:307-10.
+45.  Awakura  A.  The  infection  of Diphyllobothrium nihonkaiense plerocercoid in  salmonids  of  Japan.  Jpn  Soc  Syst  Parasitol  Circular  1992;10:1-4  [in Japanese].
+46.  Alkhalife IS, Hassan RR, Abdel-Hameed AA, Al-Khayal LA. Diphyllobothriasis in Saudi Arabia. Saudi Med J 2006;27:1901-4.
+47.  Raether W, Hanel H, Epidemiology, clinical manifestations and diagnosis of zoonotic cestode infections: an update. Parasitol Res 2003;91:412-38.
+
+============================================================
+CHUNK 39
+============================================================
+REFERENCES
+48.  Andersen  K,  Gibson  DI.  A  key  to  three  species  of  larval Diphyllobothrium Cobbold, 1858 (Cestoda: Pseudophyllidea) occurring in European and North American freshwater fishes. Syst Parasitol 1989;13:3-9.
+49.  Marty AM, Neafie RC. Diphyllobothriasis and sparganosis. In: Meyers WM, ed.  Pathology  of  Infectious  Diseases,  vol.  1.  Helminthiases.  Washington: Armed Forces Institute of Pathology; 2000:165-83.
+50.  Donoso SM, Raposo L, Reyes H, et al. Severe megaloblastic anaemia secondary to infection by Diphyllobothrium latum . Rev Med Chile 1986;114:1171-4.
+51.  Wicht B, de Marval F, Peduzzi R. Diphyllobothrium nihonkaiense (Yamane et al., 1986) in Switzerland: first molecular evidence and case reports. Parasitol Int 2007;56:195-9.
+52.  Ohnishi K, Kato Y. Single low-dose treatment with praziquantel for Diphyllobothrium nihonkaiense infections. Intern Med 2003;42:41-3.
+53.  Neafie  RC,  Marty  AM.  Unusual  infections  in  humans.  Clin  Microbiol  Rev 1993;6:34-56.
+54.  Andreassen J. Intestinal tapeworms. In: Cox FEG, Kreier JP, Wakelin D, eds. Topley and Wilson's Microbiology and Microbial Infection, 9th edn, vol 5. London: Arnold; 1998:521-37.
+55.  Schantz  PM.  Tapeworms  (cestodiasis).  Gastroenterol Clin  North  Am 1996; 25:637-53.
+56.  Thompson RCA, McManus DP. Aetiology: parasites and life cycles. In: Eckert J, Thompson RC, Bucklar H, et al., eds. Manual on Echinococcosis in Humans and  Animals  a  Public  Health  Problem  of  Global  Concern.  Geneva:  World Organization for Animal Health; 2001:1-19.
+57.  Despommier DD, Gwadz RW, Hotez PJ, eds. Parasitic diseases, 3rd edn. New York, Berlin: Springer; 1994.
+
+============================================================
+CHUNK 40
+============================================================
+REFERENCES
+58.  Mehlhorn  H,  ed.  Encyclopedic  Reference  of  Parasitology,  Vol.  1:  BiologyStructure-Function; Vol. 2: Diseases-Treatment-Therapy, 2nd edn. Berlin, Heidelberg: Springer; 2001.
+59.  Brandstetter W, Auer H. Dipylidium caninum, a rare parasite in man. Wien Klin Wochenschr 1994;106:115-6 [article in German].
+60.  Neira OP, Jofré  ML, Muñ oz SN. Dipylidium caninum infection in a 2 year old infant:  case  report  and  literature  review.  Rev  Chilena  Infectol  2008;25: 465-71.
+

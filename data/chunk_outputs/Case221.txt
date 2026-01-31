@@ -1,0 +1,75 @@
+============================================================
+CHUNK 0
+============================================================
+Polycystic Echinococcosis (Polycystic Hydatid Disease)
+Pedro L Moro, Peter M Schantz
+
+============================================================
+CHUNK 1
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+- Zoonotic parasitic disease principally transmitted between the bush dog (host of the adult cestode), Speothos venaticus , and the paca (the intermediate host), Cuniculus paca . Domestic dogs can become infected with the cestode
+- Cestodes that cause polycystic echinococcosis are indigeneous to humid tropical forests in Central America and northern South America
+- Nearly all cases of polycystic echinococcosis are caused by Echinococcus vogeli ; Echinococcus oligarthus is a rare cause of disease
+- The primary localization of E. vogeli infections is the liver, but cysts often invade contiguous sites; the lungs are involved in about 15% of cases
+- Treatment options include surgery and chemotherapy with anthelminthic agents
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+Polycystic echinococcosis is infection by the larval stage of Echinococcus  vogeli and,  less  frequently, Echinococcus  oligarthrus .  The  cestodes that cause polycystic echinococcosis are indigeneous to humid tropical forests in Central America and northern South America. Humans become  infected  after  accidental  ingestion  of  eggs  passed  in  the feces of definitive hosts-usually domestic dogs or, less likely, bush dogs [1].
+
+============================================================
+CHUNK 3
+============================================================
+EPIDEMIOLOGY
+As of 2007, 172 human cases of polycystic echinococcosis have been recorded from Central and South America. Most cases were reported from Brazil  (57.6%),  Colombia  (16.9%)  and  Ecuador  (6.4%)  [2]. Polycystic echinococcosis is an emerging disease, as suggested by its increasing frequency. In 1979, there were 12 cases in four countries; by 1997 there were 72 cases; by 1998 there were 86 cases in 1 1 countries [3, 4]. The natural hosts of E. vogeli range throughout neotropical areas of Central and South America, and, as local awareness and availability of diagnostic capability increase, it is probable that more cases will  be  recorded.  A survey  of  Colombian mammals found that  73 (22.5%) of 325 pacas harbored metacestodes of E.  vogeli but  only three (0.9%) harbored E. oligarthus [5]. The known range of E. oligarthrus extends from northern Mexico to southern Argentina; the three confirmed cases of human disease caused by this species have been reported from Venezuela and Brazil.
+The natural hosts of E. vogeli are the bush dog, Speothos venaticus , and the paca, Cuniculus paca [1, 2]. The larval stage occurs occasionally in rodents of other species, including the agouti and spiny rat. Bush dogs are  rarely  seen  animals  that are  an  unlikely  source  of infection  for humans. The intermediate host, the paca, is widely hunted for food in  northern  South  America,  and  local  hunters  routinely  feed  the viscera of pacas to their dogs; thus, dogs may be the primary source of infection for humans.
+The definitive hosts of E. oligarthrus are felids, including jaguarondi, ocelots,  and  pumas;  the  intermediate  hosts  are  the  same  as  for E. vogeli . Although the hydatid cysts of both species are similar macroscopically, differentiation of E. vogeli and E. oligarthrus can be made on the  basis  of  the  length  and  proportions  of  the  rostellar  hooks. Human  infection  with E.  oligarthrus is  extremely  rare;  only  three human cases are documented. The remote behavior of the definitive hosts presumably limits human exposure.
+
+============================================================
+CHUNK 4
+============================================================
+CLINICAL FEATURES
+The disease cause by polycystic echinococcosis is also known as polycystic hydatid disease (PHD). Patient ages at diagnosis range from 6 to 78 years (median 44); the most common signs at presentation have been hepatomegaly, palpable peritoneal masses, and jaundice [2, 4]. Polycystic echinococcosis has characteristics intermediate between the cystic and alveolar forms. The primary localization of E. vogeli infections is the liver but cysts often invade contiguous sites. Hepatomegaly or tumor-like masses in the liver have been typical findings. The lungs are involved in about 15% of cases. The three known cases of E.  oligarthrus infection  have  involved  the  eyes  (two  cases)  and  the heart.  The  prognosis  in  polycystic  echinococcosis  is  poor;  approximately 14% of patients die of complications of biliary obstruction and portal hypertension.
+Five clinical presentations have been described for polycystic echinococcosis [2]: type 1 is most common, occurring in 37% of patients and involving cysts in the liver and abdominal cavity; type II occurs in 26%, involves cysts in the liver and abdominal cavity and is associated with hepatic insufficiency; type III occurs in 14% of patients and cysts  occur  in  the  liver  and  lung/chest;  type  IV  occurs  in  16%  of patients and the cysts occur in the mesentery of the intestine or of the stomach; and type V occurs in 4% of patients and it involves calcified cysts in the liver and lung.
+At laparatomy, polycystic echinococcosis owing to E. vogeli appears as a whitish-gray polycystic structure that contains a yellow fluid or gel (Fig. 130.1A). The entire cyst may be only 10 mm in diameter or may form vesicular  aggregates that replace most of  the liver. The protoscolex with its four circular suckers and rostellum with hooks can be seen in wet mount preparations and tissue sections. The large hooks are 38-46 μ m long and the small hooks are 30-37 μ m.
+130
+A
+
+============================================================
+CHUNK 5
+============================================================
+CLINICAL FEATURES
+FIGURE 130.1 Polycystic hydatid disease. (A) Frontal section of a human heart showing a polycystic hydatid cyst of Echinococcus vogeli . (B) Histologic section  of  a  portion  of  a  cyst  showing  internal  septa  (se),  germinal  membrane  (gm),  brood  capsules  (bc),  and  necrotic  scoleces  (sc) (Reproduced with permission from Alessandro A, Rausch RL, Cuello C, Aristizabal N. Echinococcus vogeli in man, with a review of polycystic hydatid disease in Colombia and neighboring countries. Am J Trop Med Hyg 1979;28:303-17.).
+Numerous vesicles  are  often  seen  microscopically  and  vary  in  size from a few millimeters to centimeters (Fig. 130.1B). The vesicles are partitioned by septa formed from the hyaline laminated membrane, which  is  8-65 μ m thick  and  stains  intensely  by  the  periodic  acidSchiff  technique.  The  internal  surface  of  the  septa  is  lined  with  a germinal membrane that is 3-13 μ m thick and contains calcareous corpuscles.  The  brood  capsules  bud  internally  from  the  germinal epithelium. Externally, the cyst is surrounded by fibrous tissue, with only slight cellular infiltration. Portions of these cysts are frequently necrotic and mineralized, and the only remains of the larval metacestode are the hooks and calcareous corpuscles.
+
+============================================================
+CHUNK 6
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+The diagnosis of polycystic echinococcosis should be considered in patients  who  present  with  abdominal  masses  and  who  reside,  or previously resided, in rural Central or South American regions. Radiology (x-ray films, ultrasonography, or computed tomography) can demonstrate polycystic structures  and  diffuse mineralization in the liver  or  other  sites  [6].  Serologic  tests  are  helpful  for  diagnosis  but cross-reactivity can occur with E. granulosus infection, and with other helminth infections, cancer, and chronic immune disorders [7]. Specific E. vogeli antigens may differentiate hydatid disease owing to E. vogeli from that caused by E. granulosus ; however, tests using specific antigens are not widely available. Molecular techniques can be used to distinguish Echinococcus species by using PCR followed by sequencing or restriction fragment length polymorphism analysis.
+
+============================================================
+CHUNK 7
+============================================================
+TREATMENT
+The principles of management of cystic and alveolar echinococcosis also apply to polycystic echinococcosis [8]. As the lesions are extensive, surgical resection may be difficult and is usually incomplete. A combination of surgery with albendazole is most likely to be successful. In a review of the outcomes of human cases of polycystic echinococcosis, 35 (88%) out of 40 patients who underwent surgery recovered uneventfully  and  five  (12%)  died.  The  number  of  reported  cases treated with albendazole is very small, but of 13 treated with albendazole alone, six improved partially or completely [2].
+
+============================================================
+CHUNK 8
+============================================================
+REFERENCES
+1.  Eckert J, Deplazes P. Biological, epidemiological, and clinical aspects of echinococcosis,  a  zoonosis  of  increasing  concern.  Clin  Microbiol  Rev  2004;17: 107-35.
+2.  D'Alessandro A, Rausch RL. New aspects of neotropical polycystic ( Echinococcus vogeli )  and unicystic ( Echinococcus oligarthrus )  echinococcosis. Clin Microbiol Rev 2008;21:380-401.
+3.  Tappe D, Stich A, Frosch M. Emergence of polycystic neotropical echinococcosis. Emerg Infect Dis 2008;14:292-7.
+4.  D'Alessandro  A.  Polycystic  echinococcosis  in  tropical  America: Echinococcus vogeli and E. oligarthrus . Acta Trop 1997;67:43-65.
+5.  D'Alessandro  A,  Rausch  RL,  Morales  GA,  et  al.  Echinococcus  infections  in Colombian animals. Am J Trop Med Hyg 1981;30:1263-76.
+6.  Pawlowski Z, Eckert J, Vuitton DA, et al. Echinococcosis in humans: Clinical aspects, diagnosis and treatment. In: Eckert J, Gemmell MA, Meslin F-X, eds. WHO/OIE Manual on Echinococcosis in Humans and Animals. Paris: Office International des É pizooties; 2001:20-71.
+7.  Gottstein  B,  D'Alessandro  A,  Rausch  RL.  Immunodiagnosis  of  polycystic hydatid  disease/polycystic  echinococcosis  due  to  Echinococcus  vogeli.  Am  J Trop Med Hyg 1995;53:558-63.
+8.  Brunetti  E,  Kern  P,  Vuitton  DA.  Writing  Panel  for  the  WHO-IWGE.  Expert consensus for the diagnosis and treatment of cystic and alveolar echinococcosis in humans. Acta Trop 2010;114:1-16.
+se- gm-.
+B
+SC
+

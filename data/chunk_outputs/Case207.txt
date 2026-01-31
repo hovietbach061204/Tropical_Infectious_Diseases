@@ -1,0 +1,115 @@
+============================================================
+CHUNK 0
+============================================================
+Key features
+- Toxocariasis is a zoonotic infection that occurs worldwide and predominately a!ects children
+- Humans become infected by ingesting eggs in contaminated soil or, rarely, by consuming undercooked meat of an animal infected with Toxocara larvae
+- Two main clinical presentations are ocular toxocariasis and visceral toxocariasis. In visceral toxocariasis, body organs, such as the liver, are a!ected
+- Diagnosis of toxocariasis is made by clinical presentation and testing for antibody to the Toxocara parasite
+- Anthelmintics, corticosteroids and supportive treatment are the mainstays of treatment
+
+============================================================
+CHUNK 1
+============================================================
+INTRODUCTION
+Toxocariasis is caused by the dog and cat roundworms Toxocara canis or Toxocara  cati .  In  1950,  Wilder  was  the  first  person  to  detect  the nematode  larvae  in  a  series  of  enucleated  eyes.  In  1952, Toxocara larvae  were  identified  and  documented  in  humans  by  Beaver  and colleagues  who described a series  of patients  presenting with  eosinophilia and systemic disease [1]. Today, toxocariasis is recognized as a zoonotic infection that occurs anywhere dogs or cats are present, and causes a spectrum of disease in humans, ranging from asymptomatic infection to the development of visceral, ocular or covert toxocariasis.  Diagnosing Toxocara infection  remains  a  challenge  as  no standardized clinical definition of disease exists and presenting symptoms can be vague.
+
+============================================================
+CHUNK 2
+============================================================
+EPIDEMIOLOGY
+The geographic distribution of toxocariasis is worldwide. In the USA, the overall seroprevalence for antibodies to Toxocara is 14%; in other countries,  studies  have  demonstrated  seroprevalence  ranges  from 4-86%; however, a positive serologic test does not necessarily indicate active  clinical  disease  [2].  Higher  seropositivity  has  been  noted  in non-Hispanic  blacks and  linked to low socioeconomic  status, increased blood lead levels and dog or cat ownership. The true prevalence of active clinical disease remains unknown.
+Playgrounds  and  sandboxes  are  common  sources  of Toxocara ,  as animals frequently defecate there. An older study demonstrated contamination rates in soil as high as 40% [3]. Children comprise the majority  of  patients  diagnosed  with  toxocariasis  as  they  often  visit contaminated areas and put their fingers, toys, or other objects into their  mouths.  A  few  studies  have  cited  a  male  predominance  for seropositivity, possibly associated with greater risk activities, such as an increased likelihood to accidentally ingest dirt. Other associations with Toxocara infection  include  geophagia  and  residing  in  warmer climates.
+
+============================================================
+CHUNK 3
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Dogs and cats are the definitive hosts of T. canis and T. cati . In addition to the ingestion of Toxocara eggs from the environment, infection in puppies  and  kittens  can  also  occur  prenatally  or  early  postnatally through  lactogenic  transmission.  In  puppies  only,  transplacental transmission  can  occur.  In  dogs  and  cats,  the Toxocara lifecycle  is completed when Toxocara larvae develop into egg-laying adult worms in the intestine.
+Adult Toxocara worms in dog and cat intestines produce eggs that are shed in the feces.  Once  in the  external  environment, Toxocara eggs require  2-4  weeks  at  temperatures  of > 10°C  to  embryonate  and become infective. Transmission of Toxocara to humans occurs through ingestion of embryonated eggs directly from the soil or from contaminated  fomites  or  hands  (Fig.  1 16.1).  Transmission  may  also  occur following ingestion of undercooked meat from an animal infected with Toxocara larvae. Humans and other animals are paratenic hosts for Toxocara, as the larvae do not undergo further development into adult worms.
+In humans, after embryonated eggs are swallowed, the shell is partially digested in the intestine and the larva escapes. Larvae enter the vascular  system  and  may  burrow into  tissues,  causing hemorrhage, necrosis,  and  secondary  inflammation.  Larvae  have  been  found  in every tissue and organ system, including the liver, lungs, heart, and brain.  Granulomas, 1-2 mm in diameter, usually form around the larvae. These have a preponderance of eosinophils. Later, fibrosis and possible calcification occur. Despite a vigorous immunologic response, Toxocara larvae  can  survive  for  years  and  continue  to  cause  clinical disease [4].
+
+============================================================
+CHUNK 4
+============================================================
+CLINICAL FEATURES
+The development of clinical disease depends on the parasite load, the host's immune response and migration path of the larvae. In many cases,  infection  is  asymptomatic;  however,  two  syndromes,  visceral toxocariasis and ocular toxocariasis, are well defined. It is uncommon for patients to present with manifestations of both visceral and ocular toxocariasis.
+
+============================================================
+CHUNK 5
+============================================================
+VISCERAL TOXOCARIASIS (VISCERAL LARVA MIGRANS)
+Visceral toxocariasis, usually diagnosed in very young children (mean age 2-4 years), is a marked inflammatory immune response to numerous larvae migrating to the liver or other tissues. Signs and symptoms may  include  fever,  abdominal  pain,  or  hepatomegaly.  Symptoms may  also  include  wheezing  or  coughing;  pulmonary  infiltration is evident in a third of patients. A potential association between infection with Toxocara and asthma or neurologic manifestations, such as
+Mil mebleu uuy Ur cal sheds Toxocara eggs
+in their feces
+On
+TOX
+into
+WOl
+Dogs or cats ingest
+FIGURE 116.1 Toxocara lifecycle.
+seizures, has been described [5, 6]. Rare fatal cases have resulted from larval  migration  to  the  myocardium  or  the  central  nervous  system (CNS) [1].
+
+============================================================
+CHUNK 6
+============================================================
+OCULAR TOXOCARIASIS (OCULAR LARVA MIGRANS)
+Ocular involvement is more common in older children and adults (mean age 7-17 years). Ocular toxocariasis is caused by migration of Toxocara larvae  to  the  eye  resulting  in  inflammation  and  scarring which can lead to permanent vision loss [7]. Ocular disease is usually unilateral and typically affects the posterior segment of the eye. Presenting symptoms can include eye redness, eye pain, strabismus, photophobia or vision changes. Specific signs, such as subretinal granulomatous mass, endophthalmitis or posterior pole granuloma can be evident on ophthalmologic exam.
+
+============================================================
+CHUNK 7
+============================================================
+COVERT OR COMMON TOXOCARIASIS
+The term 'covert' or 'common' toxocariasis is used to describe signs and  symptoms  that  are  mild  and  nonspecific  but  together  form  a recognizable  symptom  complex  consistent  with  toxocariasis.  Such symptoms can include abdominal pain, anorexia, sleep and behavior disturbances, wheezing, and fever.
+
+============================================================
+CHUNK 8
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+The diagnosis of visceral toxocariasis should be considered in persons with a persistently elevated eosinophil count. Identification of larvae in  biopsy  tissue  permits  definitive  diagnosis  of Toxocara infection (Fig. 1 16.2); other larval nematodes can be differentiated based on characteristic  morphologic  features.  However,  biopsy  is  often  unrewarding because, unless the infection is massive, specimens may not yield larvae.
+A history of geophagia or association with dogs or cats is helpful. The clinical and laboratory findings (other than serologic tests) are nonspecific  and  do  not  help  to  differentiate  visceral  toxocariasis  from other  conditions associated with eosinophilia. Because the parasite does  not  mature  beyond  the  larval  stage  in  human  tissues,  adult worms do not develop in the intestine and diagnosis by egg detection in feces is not possible.
+Loss of vision in a child may not be recognized immediately. Disuse of the affected eye commonly leads to strabismus and the parents may note that a squint has developed. In other individuals, routine examination may reveal poor or absent sight in one eye; ophthalmologic exam can demonstrate vitritis, retinal scarring, granuloma formation,
+FIGURE  116.2 A  portion  of  a Toxocara  canis larva  is  surrounded  by in(ammatory cells in a preretinal mass. ( × 220; Courtesy of the Armed Forces Institute of Pathology, Photograph Neg. No. 29856329081.)
+or retinal detachment. Toxocara larva is rarely identified on ophthalmologic exam.
+
+============================================================
+CHUNK 9
+============================================================
+LABORATORY FINDINGS
+Eosinophilia is common in active visceral toxocariasis, but its duration is inconsistent and is probably related to the quantity and recentness of the infecting dose and the frequency of re-infection. In ocular toxocariasis, peripheral eosinophilia is often absent.
+
+============================================================
+CHUNK 10
+============================================================
+SEROLOGIC TESTS
+ELISA, using excretory-secretory antigens from infective-stage larvae, is  the  diagnostic  test  of  choice.  In  patients  whose  clinical  signs and history suggest visceral toxocariasis, a positive Toxocara ELISA is strong presumptive evidence of Toxocara infection. A rising or falling titer  with  a  twofold  difference in a recently  ill  patient  is  consistent with visceral toxocariasis. Because Toxocara antibody titers can remain elevated  for  years  after  initial  infection,  a  measurable  titer  is  not proof of a causative relationship between T.  canis or T.  cati and the current illness. Surveys have shown that as many as 1-10% of asymptomatic children have ELISA titers of 1  :  32 or more. In patients with ocular  lesions  compatible  with  toxocariasis,  positive  ELISA  titers support  the  diagnosis  but  do  not  rule  out  other  eye  pathology. Toxocaral ELISA testing is available at the Centers for Disease Control and  Prevention  (CDC)  and  several  other  clinical  laboratories  in the USA.
+
+============================================================
+CHUNK 11
+============================================================
+DIFFERENTIAL DIAGNOSIS
+Visceral toxocariasis must be differentiated from infections caused by other tissue-migrating helminths (other ascarids, hookworm, filiaria, Strongyloides stercoralis , and Trichinella spiralis ) and hypereosinophilic syndromes.  Hepatic  capillariasis  can  be  confused  with  toxocariasis involving  the  liver  when  patients  present  with  hepatomegaly,  eosinophilia,  and  abnormal  liver  function  test  results.  Differentiation between the two diseases is through liver biopsy which may demonstrate eggs of Capillaria species within a hepatic granuloma. Retinoblastoma, ocular tumors, developmental anomalies, exudative retinitis (Coats disease),  tuberculosis, trauma, and other childhood uveitides  should be considered  as possible alternative diagnoses in patients with ocular toxocariasis.
+
+============================================================
+CHUNK 12
+============================================================
+TREATMENT
+Asymptomatic  toxocariasis  does  not  require  anthelmintic  therapy. Although there are isolated reports of ocular disease occurring years after exposure to Toxocara , available data suggest that asymptomatic individuals  have  spontaneous  resolution  of  their  eosinophilia  and seroreactivity without adverse sequelae.
+Treatment of patients with symptoms of visceral toxocariasis is primarily supportive. Anthelmintics, albendazole (400 mg PO BID), or mebendazole (100-200mg PO BID), have been used for treatment in adults  and  children  although  the  optimum  duration  of  treatment remains unknown. A 5-day course is considered sufficient, although some practitioners treat for up to 20 days for severe infections. Severe pulmonary, myocardial, or CNS involvement may warrant corticosteroid therapy.
+Treatment of acute ocular toxocariasis is directed toward suppressing the inflammatory response. Systemic and intraocular corticosteroids (prednisone 30-60 mg PO each day for 2-4 weeks; triamcinolone acetonide  40 mg  sub-tenon  weekly  for  2  weeks;  or  topical  prednisolone acetate) are commonly utilized [8]. The benefit of concurrent  use  of  anthelminthic  drugs  in  managing  ocular  toxocariasis remains  unclear.  A  single  study  showed  improved  visual  acuity  in persons treated with albendazole and corticosteroids, however, there was  no  comparison  group  [9].  Relapse  and  progression  of  ocular disease are common and often lead to permanent structural damage. Intraocular fibrous adhesions, retinal traction and detachment, and chronic vitreal inflammation are most effectively managed by surgical intervention. Surgical procedures may include pars plana vitrectomy or scleral buckling.
+Implementation of simple prevention strategies can lead to a reduction  in  the  number  of  cases  of  human  toxocariasis.  Good  hygiene practices such as hand-washing and teaching children not to eat dirt will  minimize  human  exposure  to  infectious  eggs.  Excluding  pets from play areas and prompt disposal of pet feces will decrease environmental contamination. Routine veterinarian care for pets, including  deworming,  will  reduce Toxocara infection  in  dogs  and  cats. Healthcare  providers  should  educate  patients  about  toxocariasis  to increase public awareness of this preventable disease.
+
+============================================================
+CHUNK 13
+============================================================
+REFERENCES
+1.  Despommier D. Toxocariasis: clinical aspects, epidemiology, medical ecology, and molecular aspects. Clin Microbiol Rev 2003;16:265-72.
+2.  Won KY, Kruszon-Moran D, Schantz PM, Jones JL. National seroprevalence and risk factors for Zoonotic Toxocara spp. infection. Am J Trop Med Hyg 2008; 79:552-7.
+3.  Dubin S, Segall S, Martindale J. Contamination of soil in two city parks with canine nematode ova including Toxocara canis : a preliminary study. Am J Public Health 1975;65:1242-5.
+4.  Glickman LT, Schantz PM. Epidemiology and pathogenesis of zoonotic toxocariasis. Epidemiol Rev 1981;3:230-50.
+5.  Buijs, J, Borsboom G, van Gemund JJ. Toxocara seroprevalence in 5-year old elementary  schoolchildren:  relation  with  allergic  asthma.  Am  J  Epidemiol 1994;140:839-47.
+6.  Critchley EM, Vakil SD, Hutchinson, DN. Toxoplasma, Toxocara, and epilepsy. Epilepsia 1982;23:315-23.
+7.  Stewart  JM, Cubillan LD, Cunningham ET. Prevalence, clinical features, and causes  of  vision  loss  among  patients  with  ocular  toxocariasis.  Retina  2005; 25:1005-13.
+8.  Taylor  MR.  The  epidemiology  of  ocular  toxocariasis.  J  Helminthol  2001;75: 109-18.
+9.  Barisani-Asenbauer T, Maca SM, Hauff W, et al. Treatment of ocular toxocariasis with albendazole. J Ocul Pharmacol Ther 2001;17:287:94.
+

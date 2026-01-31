@@ -1,0 +1,202 @@
+============================================================
+CHUNK 0
+============================================================
+41 Helicobacter pylori Infection
+Caroline M den Hoed, Ernst J Kuipers
+
+============================================================
+CHUNK 1
+============================================================
+Key features
+- Occurs worldwide
+- Prevalence in developing countries > 80%
+- Mainly acquired in childhood, persisting for life
+- Associated with chronic gastritis, peptic ulcer disease, gastric cancer and gastric mucosa-associated lymphoid tissue (MALT) lymphoma
+- De-ned by the World Health Organization (WHO) as class I carcinogen
+- Diagnosed by variety of invasive and noninvasive methods
+- Consensus guidelines exist regarding indications for treatment and treatment regimens
+- Treatment requires multiday combination antibiotic therapy
+- No vaccine is currently available
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+The presence of spiral, Gram-negative bacteria on the human gastric mucosa was recognized in the late 19th century and related to peptic ulcer disease and gastric cancer. In 1983, Warren and Marshall were the first to successfully culture Helicobacter pylori from gastric biopsy samples. Through self-ingestion, they confirmed that this bacterium caused gastro-duodenal disorders [1]. Today, H. pylori is known to be the main cause of chronic gastritis, peptic ulcer disease, gastric carcinoma and gastric mucosa-associated lymphoid tissue (MALT) lymphoma and has been declared by the WHO, for these reasons, as a class I carcinogen. It is estimated that more than half of the world's population is colonized with H. pylori , with the vast majority becoming infected in childhood.
+
+============================================================
+CHUNK 3
+============================================================
+EPIDEMIOLOGY
+H. pylori is allegedly one of the world's most common infections, if not the  most common (see Fig. 41.1). The bacterium is present in human  populations  throughout  the  world,  and  phylogeographic studies indicate that humans have been colonized by H. pylori since their ancestral migration from east Africa more than 50,000 years ago. There are substantial differences in its prevalence, both within, and between, countries. In industrialized countries, the overall prevalence of H. pylori generally varies between 30 and 40 percent and increases with age. This is related to an age-cohort effect with decreasing infection  rates  in  subsequent  generations  because  of  improved  hygiene and housing conditions. In developing countries, however, H. pylori prevalence rises rapidly during the first 5 years of life often to 80% or more,  and  then  remains  constant  thereafter.  This  indicates  that H. pylori is mostly acquired early in childhood [2]. Once acquired, colonization persists throughout life in the absence of antibiotic therapy. The infection rate is thus inversely related with socioeconomic development and is a direct reflection of living conditions during childhood. In Western countries, prevalence remains considerably higher among first- and second-generation immigrants [3].
+H. pylori has a narrow host range and is almost exclusively found in humans.  The  exact  mechanisms  whereby H.  pylori is  acquired  are largely  unknown. New  infections are  thought  to occur  as  a consequence of direct human-to-human transmission, either via the oraloral or fecal-oral route, or both [1].
+
+============================================================
+CHUNK 4
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+H.  pylori is  a  spiral,  Gram-negative  bacterium  with  flagella.  It  is microaerophilic, requiring low levels of oxygen. Although its natural habitat is the acidic gastric lumen and it can resist brief exposure to pH levels below 4, growth only occurs at a pH between 5.5 and 8.0. Intragastric  survival  occurs  within  the  protective  mucus  layer,  with local acid-buffering by the high bacterial urease activity. The associated gastritis also impairs acid production and thus enhances bacterial survival [1].
+
+============================================================
+CHUNK 5
+============================================================
+PATHOGENESIS
+H. pylori colonization induces chronic active gastritis in virtually all infected subjects.  Colonization  is accompanied  by  a  persistent immune response, but this is ineffective  in clearing  the  bacterium. Only a minority of colonized subjects develop overt disease, in particular,  peptic  ulcer  disease  and  gastric  cancer.  The  risk  of  disease development in the presence of H. pylori is related to a combination of  factors,  including  bacterial  strain  differences,  host  susceptibility and environmental factors. H. pylori exhibits a high level of genetic diversity  which  translates  into  major  differences  in  virulence.  Two main virulence factors are the cagA and vacA genes. The cagA pathogenicity island is present in some 40-60% of strains, and is strongly associated with the development of peptic ulcers, as well as gastric cancer. The vacA gene is present in all strains, but has polymorphisms which translate into differences of expression. Host susceptibility is influenced by genetic polymorphisms in various cytokine genes that affect the level and profile of the inflammatory response to colonization with H. pylori . Furthermore, environmental factors play a role in H.  pylori -related pathogenesis. Smoking increases the risk  of  ulcers, while diets high in salt and low in antioxidants and vitamin C increase cancer risk.
+Finally, the pattern of H. pylori colonization also determines disease risk.  Subjects  with  normal-to-high  acid  output  have  an  antralpredominant gastritis and are most at risk for duodenal ulceration. Subjects with low acid output demonstrate pan-gastritis and are most at risk for gastric ulceration and cancer [1, 4].
+FIGURE  41.1 World  map  with Helicobacter  pylori infection  prevalence  [2,  3,  8].  Percentages  on  the map are the H. pylori infection rates in the speciGc regions.
+
+============================================================
+CHUNK 6
+============================================================
+CLINICAL FEATURES
+H.  pylori infection  is  associated  with  chronic  gastritis,  peptic  ulcer disease, distal gastric adenocarcinoma, gastric MALT lymphoma and Ménétrier's disease.
+
+============================================================
+CHUNK 7
+============================================================
+GASTRITIS
+Colonization with H. pylori is in the first weeks can be associated with acute gastritis, which can be accompanied by transient, nonspecific dyspepsia  symptoms,  such  as  fullness,  nausea  and  vomiting.  The majority of subjects do not clear the infection, despite the humoral and cellular response, and continue to develop chronic colonization with chronic active gastritis [1].
+
+============================================================
+CHUNK 8
+============================================================
+PEPTIC ULCER DISEASE
+It is estimated that approximately 20% of H. pylori -positive subjects develop peptic ulcer disease during their lifetime, and those with an ulcer have a more than 50% risk for recurrent ulcer disease in the years thereafter. Ulcers may be associated with intestinal bleeding and perforation  and,  in  some  cases,  stricture  formation.  Eradication  of H. pylori prevents recurrence of ulcers and their complications in most patients, unless they have a second risk factor for ulceration, in particular  use  of  nonsteroidal  anti-inflammatory  drugs  (NSAIDs)  or aspirin. This strong association exists for both duodenal ulcers and gastric ulcers [1, 5].
+
+============================================================
+CHUNK 9
+============================================================
+GASTRIC CANCER
+H. pylori infection is the starting point in a cancer-associated cascade that passes through the stages of chronic gastritis, atrophic gastritis, intestinal metaplasia and dysplasia, and cancer. H. pylori may initiate this process by causing chronic cellular proliferation, increasing the likelihood  of  mutagenic  processes  in  the  presence  of  carcinogenic substances. Although development of the initial stages of this progressive cascade (in particular atrophic gastritis and intestinal metaplasia) are common in H. pylori -positive individuals, only 1-2% of H. pylori -infected patients eventually develop gastric carcinoma as a result of lifelong infection [4-8].
+
+============================================================
+CHUNK 10
+============================================================
+MUCOSA-ASSOCIATED LYMPHOID TISSUE (MALT) LYMPHOMA
+Healthy gastric mucosa normally does not contain lymphoid follicles, but lymphocytes are inevitably present in the gastric mucosa in all H. pylori -positive individuals. In rare cases, this eventually leads to the development of MALT B-cell lymphomas (usually low-grade). Close to  100%  of  patients  with  low-grade  gastric  MALT  lymphoma  have evidence of H.  pylori infection. H.  pylori eradication  is  the  primary treatment for these patients, as it leads to partial, or complete, regression in more than 70% of patients [5, 8].
+
+============================================================
+CHUNK 11
+============================================================
+MÉNÉTRIER'S DISEASE
+Ménétrier's  disease,  also  called  hypertrophic  gastropathy,  is  a  rare condition  of  unknown  etiology.  However,  a  majority  has  evidence of H.  pylori infection;  successful  eradication  can  lead  to  major  improvement of symptoms and should therefore always be considered [5, 8].
+
+============================================================
+CHUNK 12
+============================================================
+GASTROESOPHAGEAL REFLUX DISEASE (GERD)
+Although H. pylori has been clearly demonstrated as a cause of the above-mentioned diseases, discussion remains as to whether it also carries  potential  beneficial  effects.  This  discussion,  in  particular, focuses  on  the  negative  association  between H.  pylori colonization and the development of gastroesophageal reflux disease (GERD) and its sequelae, including esophageal cancer [5, 8].
+
+============================================================
+CHUNK 13
+============================================================
+H. PYLORI INFECTION IN CHILDREN
+H.  pylori infection  in  children  may  be  associated  with  recurrent abdominal pain, iron deficiency and, during conditions of nutritional limitation, with growth retardation; however, the incidence of peptic ulcer  disease  is  lower  than  in  adults.  In  contrast,  there  are  reports which suggest that H. pylori protects children from developing asthma and atopy [2, 5, 8].
+
+============================================================
+CHUNK 14
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+H. pylori can be diagnosed by various methods, each with advantages and disadvantages. Noninvasive testing is recommended for primary screening of young individuals and children who present with upper abdominal complaints. These tests are based on the detection of H. pylori enzyme activity, antigen or antibodies. Invasive testing is usually reserved  for  patients  undergoing  diagnostic  or  therapeutic  upper intestinal  endoscopy  as  part  of  a  broader  evaluation,  and  involves sampling of  mucosal  tissue  for  evaluation  of  presence  of H.  pylori through direct detection of measuring enzyme activity. As H.  pylori may not be evenly spread throughout the stomach in infected individuals, multiple biopsy samples from various locations are required for optimal sensitivity [8, 9].
+
+============================================================
+CHUNK 15
+============================================================
+Urea Breath Tests
+Urea breath tests (UBT) are based on the large urease production by all H. pylori strains. UBTs are very reliable, low-burden tests that have been validated both in adults and children. Fasting patients consume a  small  amount  of  either 14 C  or 13 C-labeled  urea.  Urease  degrades urea, releasing labeled carbon dioxide which enters the blood stream via the gastric mucosa and can be detected in a breath sample.
+
+============================================================
+CHUNK 16
+============================================================
+Serology
+Serum  antibodies  (especially  IgG)  against H.  pylori can  easily  be detected.  The main disadvantage of serology is that antibodies can still be detected for a considerable period after eradication of H. pylori . Furthermore,  as  the  antigenic  properties  of H.  pylori strains  vary between countries, the tests should be locally standardized.
+
+============================================================
+CHUNK 17
+============================================================
+Fecal Antigen Testing
+H.  pylori specific  antigens  ( Hp SA)  can  be  detected  in  diluted  stool samples. This is an attractive test for use in small children, as obtaining  breath  samples  can  be  difficult  and  serum  sampling  can  be burdensome.
+
+============================================================
+CHUNK 18
+============================================================
+Culture
+In  reference  microbiologic  laboratories,  culturing  for  3-7  days  at 37°C under microaerophilic conditions can be performed, enabling detection of H. pylori and determination of antimicrobial resistance.
+
+============================================================
+CHUNK 19
+============================================================
+Histology
+H.  pylori can  be  identified  by  hematoxylin-eosin  staining  and  histopathologic  examination.  When  performed  by  an  experienced pathologist, it is highly reliable and often considered the gold standard for diagnosing H. pylori . Special stains enhance detection, but are not necessary.
+TABLE 41-1 International Recommendations for Helicobacter pylori Eradication in Infected Patients
+
+Non-ulcer dyspepsia (test and treat), Grade of recommendation = Strongly recommended. Un-investigated dyspepsia for populations with a prevalence of H. pylori > 20%, Grade of recommendation = Strongly recommended. Duodenal and gastric ulcer, Grade of recommendation = Strongly recommended. Atrophic gastritis, Grade of recommendation = Advisable. Gastric MALT lymphoma, Grade of recommendation = Strongly recommended. After gastric cancer resection, Grade of recommendation = Advisable. First-degree relatives of patients with gastric cancer, Grade of recommendation = Advisable. In patients on long-term NSAIDs treatment and who have peptic ulcer and/or ulcer bleeding, PPI maintenance treatment is better than H. pylori eradication in preventing ulcer recurrence and/or bleeding, Grade of recommendation = Strongly recommended. Patient requests (after explanation of risks and beneGts), Grade of recommendation = Strongly recommended
+Reprinted with permission from Malfertheiner P, Megraud F, O'Morain C, et al. Current concepts in the management of Helicobacter pylori infection: the Maastricht III Consensus Report. Gut 2007;56:772-81.
+
+============================================================
+CHUNK 20
+============================================================
+Histology
+TABLE 41-2 Overview of Antibiotics Used for Helicobacter pylori Eradication (Adapted from [8] and [11])
+
+Acid suppression, Drug = Proton pump inhibitor. Acid suppression, Triple therapy * Dose = 20-40 mg bid ¶. Acid suppression, Quadruple therapy † Dose = 20-40 mg bid ¶. Acid suppression, Sequential therapy § Dose = 20-40 mg bid ¶. Standard antimicrobials, Drug = Bismuth compound**. Standard antimicrobials, Triple therapy * Dose = 2 tablets bid. Standard antimicrobials, Quadruple therapy † Dose = 2 tablets bid. Standard antimicrobials, Sequential therapy § Dose = . , Drug = Amoxicillin. , Triple therapy * Dose = 1 g bid. , Quadruple therapy † Dose = . , Sequential therapy § Dose = 1 g bid. , Drug = Metronidazole ††. , Triple therapy * Dose = 500 mg bid. , Quadruple therapy † Dose = 500 mg tid. , Sequential therapy § Dose = 500 mg bid. , Drug = Clarithromycin. , Triple therapy * Dose = 500 mg bid. , Quadruple therapy † Dose = . , Sequential therapy § Dose = 500 mg bid. , Drug = Tetracycline. , Triple therapy * Dose = . , Quadruple therapy † Dose = 500 mg qid. , Sequential therapy § Dose = . Salvage antimicrobials, Drug = LevoHoxacin. Salvage antimicrobials, Triple therapy * Dose = 300 mg bid. Salvage antimicrobials, Quadruple therapy † Dose = . Salvage antimicrobials, Sequential therapy § Dose = . , Drug = Rifabutin. , Triple therapy * Dose = 150 mg bid. , Quadruple therapy † Dose = . , Sequential therapy § Dose = . , Drug = Furazolidone. , Triple therapy * Dose = 100 mg bid. , Quadruple therapy † Dose = . , Sequential therapy § Dose = 
+*Triple therapy consists of a protein pump inhibitor (PPI) or bismuth compound, together with two of the listed antibiotics, usually given for 7-14 days.
+† Quadruple therapy consists of a PPI plus bismuth compound with two antibiotics, as listed, given for 4-10 days.
+
+============================================================
+CHUNK 21
+============================================================
+Histology
+§ Sequential therapy consists of 10 days of treatment with a PPI plus amoxicillin for the Grst 5 days, and a combination of clarithromycin and metronidazole for the second
+5 days [9].
+¶ PPI dose equivalent to omeprazole 20 mg bid.
+**Bismuth subsalicylate or subcitrate.
+†† Alternative = tinidazole 500 mg bid.
+Adapted from Malfertheiner P, Megraud F, O'Morain C, et al. Current concepts in the management of Helicobacter pylori infection: the Maastricht III Consensus Report. Gut 2007;56:772-81 and Vakil N, Vaira D. Sequential therapy for Helicobacter pylori: time to consider making the switch? JAMA 2008;300:1346-7.
+
+============================================================
+CHUNK 22
+============================================================
+Rapid Urease Test
+Probably the most widely used invasive test is the rapid urease test, which is based on bacterial urease. Urea degradation is accompanied by a pH increase that is detected by a color change of an indicator. It is  an  easy  and  low-cost test, but also has the lowest sensitivity and specificity of the invasive assays.
+
+============================================================
+CHUNK 23
+============================================================
+INDICATIONS
+Indications for treatment are still evolving (Table 41-1). Consensus exists for the treatment of individuals with H. pylori -associated peptic ulcer disease and gastric MALT lymphoma. Treatment of individuals with  non-ulcer  dyspepsia  is  more  controversial.  Most  authorities would treat H. pylori -infected individuals thought to be at increased risk  of  gastric  carcinoma,  including  those  with  a  family  history  of gastric  cancer  and  those  with  gastric  dysplasia.  Individuals  with Ménétrier's disease and H. pylori should be treated [8].
+
+============================================================
+CHUNK 24
+============================================================
+ANTIMICROBIALS
+In vitro, H. pylori is susceptible to most antimicrobials, but in vivo only a  few  antimicrobials  can  be  used  to  cure  infected  patients.  This  is related to limited drug levels within the gastric mucus layer. Metronidazole,  clarithromycin,  amoxicillin  and  tetracycline  are  the  most widely  used  antimicrobial  drugs  used  to  treat  individuals  with H. pylori infection. None of the above-mentioned antibiotics is effective enough to eliminate H. pylori when given as monotherapy. Successful eradication of H. pylori requires a combination of drugs, consisting of two antibiotics in combination with an acid-suppressive drug. Current guidelines for the treatment of H. pylori are given in Table 41-2.
+In general practice,  20-30% of the treatment regimens fail, usually because of insufficient patient compliance or the presence of antibiotic resistance. Patients who fail treatment are usually retreated with another antimicrobial combination (Table 42-2) [8, 9].
+
+============================================================
+CHUNK 25
+============================================================
+ALTERNATIVES
+Increasing  antibiotic  resistance among H.  pylori is  occurring  worldwide.  Research  efforts  are  focusing  on  the  development  of  an effective  vaccine,  with  the  hope  that  prophylactic,  as  well  as  therapeutic,  vaccination  could  potentially  save  millions  of  lives  and reduce the costs related to the treatment of H. pyloriassociated diseases [1, 9].
+
+============================================================
+CHUNK 26
+============================================================
+REFERENCES
+1. Kusters JG, van Vliet AH, Kuipers EJ. Pathogenesis of H. pylori infection. Clin microbiol Rev 2006;19:449-90.
+2. Cover  TL,  Blaser  MJ. H.  pylori in  health  and  disease.  Gastroenterology 2009;136:1863-73.
+3. The EUROGAST Study Group. Epidemiology of, and risk factors for H. pylori infection  among  3194  asymptomatic  subjects  in  17  populations. Gut 1993;34:1672-6.
+4. Peek RM Jr, Crabtree JE. Helicobacter infection and gastric neoplasia. J Pathol 2006;208:233-48.
+5. Kuipers EJ, Blaser MJ. H. pylori and gastroduodenal disorders. In: Scheld WM, Armstrong D, Hughes JM, eds. Emerging Infections. ASM Press, Washington; 1998:191-205.
+6. de Vries AC, van Grieken NC, Looman CW, et al. Gastric cancer risk in patients with premalignant gastric lesions: a nationwide cohort study in the Netherlands. Gastroenterology 2008;134:945-52.
+7. Correa P, Haenszel W, Cuello C, et al. A model for gastric cancer epidemiology. Lancet 1975;2:58-60.
+8. Malfertheiner P, Megraud F, O'Morain C, et al. Current concepts in the management  of  H.  pylori  infection:  the  Maastricht  III  Consensus  Report.  Gut 2007;56:772-81.
+9. Gerrits MM, van Vliet AH, Kuipers EJ, et al. H. pylori and antimicrobial resistance:  molecular  mechanisms  and  clinical  implications.  Lancet  Infect  Dis 2006;6:699-709.
+10.  Kuipers EJ, Kusters JG, Blaser MJ. Clinical approach to the H. pylori positive patient. In: Blaser MJ, ed. Infections of the Gastroinestinal Tract. Lippincott Williams & Wilkins, Philadelphia, PA; 2002:495-529.
+
+============================================================
+CHUNK 27
+============================================================
+REFERENCES
+11.  Vakil N, Vaira D. Sequential therapy for H. pylori : time to consider making the switch? JAMA 2008;300:1346-7.
+

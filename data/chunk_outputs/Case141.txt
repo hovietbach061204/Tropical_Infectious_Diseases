@@ -1,0 +1,191 @@
+============================================================
+CHUNK 0
+============================================================
+David Mabey, Rosanna Peeling
+1000 organisms. These are released by lysis of the host cell 30-48 h after the start of the cycle. Chlamydia trachomatis contains two biovars: the more invasive lymphogranuloma venereum (LGV) biovar and the more common trachoma biovar, which is largely confined to squamocolumnar epithelial cells of the eye  and genital tract. Both contain several serovars defined by the presence of serovar-specific epitopes on the major outer membrane protein (MOMP). Serovars D-K cause genital and oculo-genital infections.
+
+============================================================
+CHUNK 1
+============================================================
+PATHOGENESIS AND IMMUNITY
+After an incubation period of 5-10 days, C. trachomatis elicits an acute inflammatory response with a purulent exudate. A period of chronic inflammation ensues, with the  development of sub-epithelial follicles;  this  eventually  leads,  in  some  cases,  to  fibrosis  and  scarring, which  is  responsible  for  much  of  the  morbidity  associated  with C.  trachomatis .  It  is  particularly  likely  to  be  seen  after  repeated infections.
+Genital C.  trachomatis infection  is  most  prevalent  in  the  youngest sexually active age groups, suggesting that infection elicits a degree of protective  immunity-the  chlamydial  isolation  rate  for  men  with non-gonococcal urethritis is lower in those who have had previous episodes.  In  animal  models  and  human  ocular  infection,  cellmediated  immune  responses  mediated  by  CD4 + lymphocytes  are important  for  the  clearance  of  infection.  Trachoma  vaccine  trials showed that killed, whole organism vaccines provided some degree of protection against ocular C. trachomatis infection in humans and non-human primates [3], but also suggested that vaccination could provoke more severe, immunopathologic disease on subsequent challenge [4]. This  would be in  keeping  with the  histopathology of C. trachomatis infection, in which the lymphoid follicle is the hallmark. A  chlamydial  heat-shock  protein  (hsp  60),  homologous  with  the GroEL protein of Escherichia coli, elicits antibody responses that are associated with the damaging sequelae of C. trachomatis infections. In recent years, research has focused on the development of a subunit vaccine against C. trachomatis . Purified preparations of MOMP were protective in murine models, provided the native trimeric structure of the protein was maintained. In non-human primates, a similar preparation  reduced  peak  shedding  from  the ocular surface, but  had  no effect on the duration of infection or on ocular disease [5, 6].
+
+============================================================
+CHUNK 2
+============================================================
+EPIDEMIOLOGY
+Chlamydia trachomatis is  the  most common bacterial sexually transmitted infection (STI) [7]. It is common in all sexually active populations; prevalence is usually highest in the young. The World Health Organization estimates that 101 million new cases of genital chlamydial infection occur annually worldwide.
+
+============================================================
+CHUNK 3
+============================================================
+CLINICAL MANIFESTATIONS
+The  clinical  manifestations  of  genital C.  trachomatis infection  are similar to those of gonorrhea, but are usually less severe (Table 48-1). Many chlamydial infections are asymptomatic. Long-term sequelae,
+
+============================================================
+CHUNK 4
+============================================================
+Key features
+- The most common bacterial sexually transmitted infection
+- Most prevalent in younger, sexually active age groups
+- Often asymptomatic
+- A cause of reproductive sequelae, such as infertility and ectopic pregnancy
+- Controlled by case !nding, screening and prompt treatment of patients and their sexual partners
+- Usually diagnosed by sensitive nucleic acid ampli!cation tests which can be performed on urine samples or self-administered vaginal swabs
+The Chlamydiae are pathogenic bacteria that can only replicate inside eukaryotic host cells. Their unique developmental cycle involves alternation between a metabolically inert, infectious, spore-like elementary  body  that  can  survive  in  the  extracellular  environment,  and  a metabolically  active,  replicating  reticulate  body  that  cannot.  The Chlamydiae have their own order ( Chlamydiales ) and family ( Chlamydiaceae ).
+
+============================================================
+CHUNK 5
+============================================================
+CLASSIFICATION
+The Chlamydiae have  been  classified  as  four  species  belonging  to  a single genus, Chlamydia : C.  trachomatis, a  human pathogen causing ocular and genital infections; C. pneumoniae causing mainly human respiratory disease; C. psittaci which infects birds and other animals; and C. pecorum , a pathogen of cattle and sheep. The latter two occasionally affect humans. A recent taxonomic re-classification based on ribosomal DNA sequence data has not been widely adopted. Chlamydiae have one of the smallest bacterial genomes, containing around 1 million  base  pairs  [1].  Virtually  all  strains  of C.  trachomatis also contain a 4.4 MDa plasmid of unknown function. Genomes of C. trachomatis serovars D, A, B and L2 have been sequenced, and show a high level of conservation of gene order and content ( > 99%) [2]. A high  degree  of  genetic  conservation  is  also  seen  across Chlamydia species.
+
+============================================================
+CHUNK 6
+============================================================
+BIOLOGY
+The elementary body is approximately 300 nm in diameter, binds to the host cell and enters by 'parasite-specified' endocytosis. Fusion of the chlamydia-containing endocytic vesicle with lysosomes is inhibited, and the elementary body differentiates into the larger, metabolically active reticulate body which divides by binary fission. By  20  hours  post-infection,  a  proportion  of  reticulate  bodies  has begun to  re-organize  into  a  new  generation  of  elementary  bodies. These reach maturity up to 30 h after entry into the cell and accumulate within the endocytic vacuole, which typically contains more than
+TABLE 48-1, 1 = Human Diseases Caused by Chlamydiae. TABLE 48-1, 2 = Human Diseases Caused by Chlamydiae. Species, 1 = Serovars. Species, 2 = Disease. C. trachomatis, 1 = A, B, Ba, C. C. trachomatis, 2 = Trachoma. , 1 = D-K. , 2 = Urethritis, epididymitis. , 1 = . , 2 = Cervicitis, pelvic in4ammatory disease. , 1 = . , 2 = Curtis-Fitz-Hugh syndrome. , 1 = . , 2 = Adult and neonatal conjunctivitis. , 1 = . , 2 = Neonatal pneumonia. , 1 = . , 2 = Reactive arthitis. , 1 = L 1 , L 2, L 3. , 2 = Lymphogranuloma venereum. , 1 = . , 2 = Proctocolitis. C. psittaci, 1 = Many. C. psittaci, 2 = Pneumonia, endocarditis, abortion. C. pneumoniae, 1 = Only one. C. pneumoniae, 2 = Community-acquired pneumonia. , 1 = . , 2 = Bronchitis
+such as infertility are generally caused by fibrosis and scarring following prolonged or repeated infections and may develop even in those with few, or no, symptoms.
+
+============================================================
+CHUNK 7
+============================================================
+URETHRITIS
+Chlamydia trachomatis is detectable in the urethra of up to 50% of men with symptomatic non-gonococcal urethritis. Patients present with a history  of  dysuria,  usually  accompanied  by  a  mild-to-moderate mucopurulent urethral discharge. As mixed infections are common, patients with gonococcal urethritis should also be treated for chlamydial  infection.  Failure  to  do  so  may  result  in  chlamydial  postgonococcal urethritis.
+
+============================================================
+CHUNK 8
+============================================================
+EPIDIDYMITIS
+Chlamydia trachomatis is responsible for a high proportion of cases of acute  epididymitis in young men presenting with unilateral scrotal pain, swelling and tenderness, often accompanied by fever. Most give a history of current or recent urethral discharge.
+
+============================================================
+CHUNK 9
+============================================================
+PROCTITIS
+Proctitis  in  men  who  practice  receptive  anal  intercourse  may  be caused by  LGV or non-LGV strains of C. trachomatis .  The  non-LGV strains cause a milder disease that may be asymptomatic or give rise to rectal pain, bleeding and mucopurulent anal discharge.
+
+============================================================
+CHUNK 10
+============================================================
+CERVICITIS
+Chlamydia trachomatis typically infects the columnar epithelial cells of the  endocervix,  but  not  the  squamous  epithelium  of  the  vagina. Chlamydia  trachomatis is  associated  with  a  mucopurulent  discharge from the cervix, visible on speculum examination, and with hypertrophic cervical ectopy that tends to bleed on contact. The prevalence of  cervical C.  trachomatis discharge.
+infection  is  no  higher  among  women who complain of vaginal discharge than among those who do not, suggesting  that  it  is  not  a  major  cause  of  symptomatic  vaginal
+
+============================================================
+CHUNK 11
+============================================================
+URETHRITIS
+Chlamydia trachomatis is a cause of the urethral syndrome, characterized by dysuria, frequency and sterile pyuria. Clinical signs of urethritis,  such  as  urethral  discharge  or  meatal  redness,  are  not  usually found.
+
+============================================================
+CHUNK 12
+============================================================
+PELVIC INFLAMMATORY DISEASE
+Chlamydia  trachomatis may  spread  from  the  endocervix  to  the endometrium  and  fallopian  tubes,  causing  pelvic  inflammatory disease (PID). This is more likely to occur after trauma to the cervix as a result of, for example, termination of pregnancy, insertion of an intrauterine  contraceptive device, or delivery. Classical signs of PID may be present  (fever,  lower  abdominal  pain  and  tenderness,  and cervical motion tenderness), but chlamydial PID may be subclinical. Spread  to  the  peritoneum  may  result  in  perihepatitis  (Curtis  FitzHugh syndrome). Infertility may be the first indication of asymptomatic tubal disease, resulting from endometritis, blocked or damaged fallopian tubes, or abnormalities of ovum transportation. Other consequences of PID are chronic pelvic pain and ectopic pregnancy.
+
+============================================================
+CHUNK 13
+============================================================
+PREGNANCY OUTCOME
+Some  studies  have  shown Chlamydia  trachomatis infection  in  pregnancy to be associated with low birth weight and preterm delivery, but others have failed to confirm this [8]. In general, C. trachomatis was diagnosed and treated at a later stage of gestation in those studies which  found  a  correlation  between  infection  and  adverse  birth outcome than in those that did not.
+
+============================================================
+CHUNK 14
+============================================================
+OTHER CONDITIONS OF THE FEMALE GENITAL TRACT
+A significant  association  between  cervical  chlamydial infection  and cervical squamous cell carcinoma has been established. It has been suggested that chlamydial infection may enhance the effect of oncogenic papillomaviruses.
+
+============================================================
+CHUNK 15
+============================================================
+ADULT PARATRACHOMA (INCLUSION CONJUNCTIVITIS) AND OTITIS MEDIA
+Adult chlamydial ophthalmia commonly results from the accidental transfer of infected genital discharge to the eye, presenting as a unilateral follicular conjunctivitis with swollen lids, mucopurulent discharge, papillary hyperplasia, follicular hypertrophy and, occasionally, punctate keratitis. About one-third of patients have otitis media.
+
+============================================================
+CHUNK 16
+============================================================
+REACTIVE ARTHRITIS
+Arthritis  occurring  with,  or  soon  after,  non-gonococcal  urethritis  is termed 'sexually acquired reactive arthritis' . Conjunctivitis and other features characteristic of Reiter's syndrome are seen in about a third of  patients.  Evidence  of  chlamydial  infection  (a  specific  serologic response, or C. trachomatis DNA or antigen in the joints) is found in at least one-third of cases.
+
+============================================================
+CHUNK 17
+============================================================
+NEONATAL INFECTIONS
+Conjunctivitis  occurs  in  20-50%  of  infants  exposed  to  cervical C. trachomatis infection at birth. A mucopurulent discharge occurs 1-3 weeks later. About half of infants with chlamydial conjunctivitis also develop pneumonia, usually presenting between the fourth and eleventh weeks of life  [9].  There  is  tachypnea  and  prominent,  staccato
+cough, but usually no fever. Radiographs show hyperinflation of the lungs with bilateral diffuse, symmetrical, interstitial infiltration and scattered areas of atelectasis.
+
+============================================================
+CHUNK 18
+============================================================
+DIAGNOSIS
+An endocervical swab is needed for the diagnosis of C. trachomatis infection by culture or antigen detection assay. However, the greater sensitivity of nucleic acid amplification tests (NAATs) for C. trachomatis means that vaginal swabs (which may be self-administered) and 'first-catch' urine specimens give equivalent  results to endocervical swabs when using these assays [10].
+
+============================================================
+CHUNK 19
+============================================================
+CULTURE
+Cell-culture techniques are no more than 70% sensitive when compared to NAATs. They are expensive and labor-intensive. As culture is essentially 100% specific, it still has a role in medico-legal cases.
+
+============================================================
+CHUNK 20
+============================================================
+DIRECT IMMUNOFLUORESCENCE
+Detection  of  elementary  bodies  using  species-specific  fluorescent monoclonal antibodies is rapid and highly sensitive and specific in the hands of skilled observers. However, it is subjective and not suitable for high-throughput testing.
+
+============================================================
+CHUNK 21
+============================================================
+ENZYME IMMUNOASSAYS
+Enzyme immunoassays that detect chlamydial antigens, usually the group-specific  lipopolysaccharide,  were  widely  used  before  NAATs became available. However, the lower limit of detection is 1000 organisms or more and these tests are only about 70% sensitive compared to the now more widely used NAATs.
+
+============================================================
+CHUNK 22
+============================================================
+NUCLEIC ACID AMPLIFICATION TESTS (NAATs)
+The  PCR  assay,  the  strand  displacement  assay  (SDA)  and  the transcription-mediated amplification (TMA) technique are extremely sensitive, detecting 10-100 organisms. Commercial assays based on each of these three amplification methods are widely used. The first two  assays  amplify  nucleotide  sequences  of  the  cryptic  plasmid present  in  multiple  copies  in  each  chlamydial  elementary  body.  A recently described Swedish variant of C. trachomatis harbors a deletion in the plasmid, which gives rise to false-negative results with these assays  [1 1,  12].  The  TMA  reaction  is  directed  against  rRNA,  which is  also  present  in  multiple  copies.  These  assays  are  now  the  'gold standard' for the diagnosis of C. trachomatis infection.
+
+============================================================
+CHUNK 23
+============================================================
+POINT-OF-CARE TESTS
+Several point-of-care antigen detection tests are available for the diagnosis of C. trachomatis infection, but they are less sensitive than NAATs and cannot be used on vaginal swabs or urine samples.
+
+============================================================
+CHUNK 24
+============================================================
+SEROLOGIC TESTS
+Serologic tests may be helpful in the diagnosis of PID, LGV and in Curtis Fitz-Hugh syndrome, as antibody titers tend to be higher in these conditions than in uncomplicated cervical infections. Chlamydia trachomatis IgM  antibody  is  the  gold  standard  for  the  diagnosis  of chlamydial pneumonia in babies.
+
+============================================================
+CHUNK 25
+============================================================
+TREATMENT OF CHLAMYDIA TRACHOMATIS INFECTION
+Tetracyclines  and  macrolides  are  the  mainstay  of  treatment  for C. trachomatis infections. Treatment is often started before a microbiologic diagnosis can be established, so additional broad-spectrum antibiotics  are  needed  to  cover  gonococcal  and,  in  the  case  of  PID, anaerobic  infections.  Treatment  of  patients'  partners  is  essential  to prevent re-infection.
+Uncomplicated C. trachomatis infections are treated with a single dose of azithromycin 1 g or with doxycycline 100 mg twice daily for 7 days. Chlamydial PID is treated with a 14-day course of doxycycline 100 mg twice daily. Doxycycline is contraindicated in pregnancy. Azithromycin 1 g as a single dose and amoxicillin 500 mg three times daily for 7  days  have both  been  shown  to be  safe  and  effective  in  pregnant women. Ophthalmia neonatorum and neonatal pneumonia caused by C.  trachomatis should  be  treated  with  erythromycin  syrup  by mouth, 50 mg/kg/day divided into four doses, for 14 days [13].
+
+============================================================
+CHUNK 26
+============================================================
+REFERENCES
+1. Stephens RS, Kalman S, Lammel C, et al. Genome sequence of an obligate intracellular  pathogen  of  humans: Chlamydia  trachomatis .  Science  1998; 282:754-9.
+2. Carlson  JH,  Porcella  SF,  McClarty  G,  Caldwell  HD.  Comparative  genomic analysis of Chlamydia trachomatis oculotropic and genitotropic strains. Infection and Immunity 2005;73:6407-18.
+3. Wang SP, Grayston JT, Alexander ER. Trachoma vaccine studies in monkeys. American Journal of Ophthalmology 1967;63:1615-20.
+4. Brunham RC, Rey-Ladino J. Immunology of Chlamydia infection: implications for a Chlamydia trachomatis vaccine. Nature Reviews Immunology 2005; 5:149-61.
+5. Kari L, Whitmire WM, Carlson JH, et al. Pathogenic diversity among Chlamydia  trachomatis ocular  strains  in  non-human  primates  is  affected  by  subtle genomic variations. J Infect Dis 2008;197:449-56.
+6. Kari L, Whitmire WM, Crane DD, et al. Chlamydia trachomatis native  major outer membrane protein induces partial protection in nonhuman primates: implication  for  a  trachoma  transmission  blocking  vaccine.  J  Immunol 2009;182:8063-70.
+7. www.who.int/topics/sexually_transmitted_infections/en/
+8. Silveira MF, Ghanem KG, Erbelding EJ, et al. Chlamydia trachomatis infection during pregnancy and the risk of preterm birth: a case-control study. Int J STD AIDS 2009;20:465-9.
+9. Beem MO, Saxon EM. Respiratory tract colonisation and a distinctive pneumonia syndrome in infants infected with Chlamydia trachomatis . N Engl J Med 1977;296:306-10.
+10.  Cook RL, Hutchison SL, Østergaard L, et al. Systematic review: noninvasive testing for Chlamydia trachomatis and Neisseria  gonorrhoeae .  Ann Intern Med 2005;142:914-25.
+
+============================================================
+CHUNK 27
+============================================================
+REFERENCES
+11.  Seth-Smith HMB, Harris SR, Persson K, et al. Co-evolution of genomes and plasmids within Chlamydia trachomatis and the emergence in Sweden of a new variant strain. BMC genomics 2009;10:239.
+12.  Watson EJ, Templeton A, Russell I, et al. The accuracy and efficacy of screening tests  for Chlamydia  trachomatis :  a  systematic  review.  J.  Med.  Micro  2002; 51:1021-31.
+13.  www.cdc.gov/std/treatment/2010/default.htm
+

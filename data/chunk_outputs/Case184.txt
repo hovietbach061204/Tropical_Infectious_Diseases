@@ -1,0 +1,98 @@
+============================================================
+CHUNK 0
+============================================================
+Cyclosporiasis 92
+David R Shlim, Bradley A Connor
+
+============================================================
+CHUNK 1
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+The seasonality of Cyclospora is  one  of  its  most  striking features.  In Nepal, the organism is present from May (just before the rainy season) until October (just after the rainy season) [3]. The peak risk is in June and July. In Peru, the Cyclospora season extends from January to July, with a peak from April to June. In Guatemala, the main season of risk is May to September. The organism exists in both a sporulated and unsporulated form. Although there are reasons to believe that only the sporulated form is likely to be infectious, human volunteers did not become infected when fed high inoculums of either sporulated or unsporulated oocysts [7]. The route of infection is presumed to be fecal-oral.  However,  person-to-person  transmission  has  not  been clearly  documented,  suggesting  that  there  is  some  necessary  but unknown  environmental  factor.  No  nonhuman  hosts  have  been identified.
+The  organism  infects  the  upper  intestine,  causing  flattening  of  the villi, crypt hyperplasia, inflammation and malabsorption. The complete asexual and sexual life cycle has been identified in cytoplasmic vacuoles  in  enterocytes  located  at  the  tips  of  intestinal  villi  on  the small intestine of infected humans. Cyclospora oocysts are excreted in stool,  but  are  not  likely  to  be  immediately  infectious.  Sporozoites have been found intracellularly in extracytoplasmic parasitophorous vacuoles at the luminal surface of the enterocyte in duodenal biopsies. Asymptomatic  excretion  of Cyclospora has  not  been  found  among travelers  in  Nepal,  but  has  been  reported  among  children  in  Peru. Untreated infections last from 2 to 12 weeks, with an average of 6 weeks [3].
+
+============================================================
+CHUNK 2
+============================================================
+CLINICAL FEATURES
+The incubation period is 2-7 days. The onset of illness is often abrupt, with severe watery diarrhea, nausea, and vomiting. Abdominal pain, including cramps, epigastric discomfort, and distention, is present in most patients with acute cyclosporiasis. Fever  can occur  in  30% of cases in the initial 3 days of illness. After 2 to 3 days, the severity of illness  decreases  and  the  illness  goes  into  a  more  chronic  phase. Anorexia  and  fatigue  are  the  two  most  prominent  and  consistent symptoms,  and  patients  with  a  good  appetite  almost  never  have cyclosporiasis. The symptoms of anorexia and fatigue are fairly consistent,  while  nausea  and  diarrhea  can  come  and  go.  Weight  loss almost always occurs in untreated cases. Diarrhea is not prominent late  in  the  disease,  in  which  the  hallmark  symptoms  are profound fatigue and anorexia.
+
+============================================================
+CHUNK 3
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+The history of illness should include any foreign travel that may have put the patient at risk for cyclosporiasis. However, sporadic cases occur in the US without a history of foreign travel owing to local acquisition
+
+============================================================
+CHUNK 4
+============================================================
+Key features
+- A prolonged protozoal infection characterized by initial severe diarrhea, which evolves into an illness with prominent fatigue and anorexia, along with intermittent nausea, and diarrhea
+- The organism has now been described in at least two dozen countries. In countries where local transmission has been studied, the risk is distinctly seasonal
+- Outbreaks have occurred in North America due to imported food
+- Microscopic diagnosis of the oocysts excreted in stool is enhanced by doing a concentration procedure followed by modi$ed acid-fast staining
+- The only e%ective treatment is trimethoprimsulfamethoxazole
+
+============================================================
+CHUNK 5
+============================================================
+INTRODUCTION
+Cyclosporiasis is an intestinal infection with the coccidian organism Cyclospora cayetanensis .  Infection is associated with diarrhea, fatigue, anorexia,  and  a  prolonged  course  in  the  absence  of  treatment. Cyclospora was  definitively  identified  in  1993  [1],  after  being  independently  discovered  by  four  different  researchers  dating  back  to 1979 [2,3].
+
+============================================================
+CHUNK 6
+============================================================
+EPIDEMIOLOGY
+Since  it  was  first  noted  in  1979, Cyclospora has  been  identified  in an increasing number of countries throughout the world, including Papua  New  Guinea,  Haiti,  Nepal,  Peru,  the  US,  Mexico,  Puerto Rico, India, Guatemala, Morocco, Pakistan, South Africa, the Dominican Republic, Malaysia, Thailand, Cambodia, the  Solomon Islands,  Vietnam,  Indonesia,  Kenya,  and  Tanzania.  Infection is distinctly seasonal in most environments, for reasons that have not been determined. The organism has been known to be transmitted in  both  food  and  water.  There  is  evidence  that  halogens,  such  as chlorine, may not disinfect Cyclospora oocysts in water [4]. Large outbreaks of cyclosporiasis in the US  in the mid-1990s were traced to Guatemalan  raspberries,  and  later  imported  fresh salad  greens and  fresh  basil  [5].  A  recent  review  details  the  epidemiology  of Cyclospora ,  summarizes  reported  food-  and  water-borne  outbreaks, and lists case reports in both returning travelers and those without a travel history [6].
+FIGURE 92.2 Cyclospora oocysts stained with a modified acid-fast stain
+FIGURE  92.1 Unstained Cyclospora oocysts  in  a  concentrated  stool preparation.  An  experienced  microscopist  can  easily  learn  to  recognize unstained oocysts.
+FIGURE 92.2 Cyclospora oocysts stained with a modi/ed acid-fast stain in a concentrated stool preparation. Note the variable staining, from nearly white to dark red.
+from endemic foci and ingestion of contaminated imported foods. Fatigue and anorexia should be specifically inquired about. A history of  sudden  onset  of  moderately  severe  diarrhea  that  becomes  less severe and more chronic after several days should increase the suspicion  of  cyclosporiasis.  Many  patients  with Cyclospora have  already taken an antibiotic, such as ciprofloxacin. Because the initial phase of cyclosporiasis closely resembles a bacterial infection, and gets better spontaneously  within  a  few  days,  it  often  appears  as  if  the  initial course of empiric antibiotics was beneficial, although the patient fails to return to his or her usual state of health. Tests for malabsorption, such  as  the  d-xylose  absorption  test,  although  rarely  necessary,  are abnormal in cyclosporiasis.
+
+============================================================
+CHUNK 7
+============================================================
+EPIDEMIOLOGY
+The  differential  diagnosis,  at  the  beginning  of  the  illness,  would include pathogenic enteric bacteria or viruses. However, as the illness progresses, the differential would include other intestinal protozoa, including Giardia lamblia .  A  rare  cause  of  illness  in  travelers, Cystoisospora  belli ,  can  produce  a  prolonged  diarrhea  after  travel,  and  is sensitive to trimethoprim-sulfamethoxazole. Fatigue and weight loss can be caused by Entamoeba histolytica , but anorexia is not as prominent. Dientamoeba fragilis can cause prolonged, low-grade intestinal symptoms, but without anorexia or weight loss. Fatigue and weight loss can be due to tropical sprue, which is a rare cause of prolonged diarrhea  in  travelers.  Celiac  sprue  occasionally  manifests  during foreign travel.
+
+============================================================
+CHUNK 8
+============================================================
+EPIDEMIOLOGY
+The diagnosis is confirmed by stool examination. Although organisms  can  be  detected  in  unstained  stool  by  an  experienced  microscopist  (Fig.  92.1),  the  organism  is  most  easily  detected  using  a concentration  technique  such  as  formalin-ethyl  acetate  centrifugation,  and  then  staining  with  a  modified  acid-fast  stain  (Fig.  92.2). Individuals with acute and severe disease can shed few organisms, so concentration techniques are essential. Concentration of the stool has been shown to increase the diagnostic yield by over 40% [8]. Once identified on acid-fast staining, C. cayetanensis , which measures 8 to 10 μ m,  must  be  distinguished  form Cryptosporidium spp.,  which measure only 4 to 5 μ m. Ultraviolet fluorescence microscopy can be useful as C. cayetanensis is autofluorescent while Cryptosporidium spp. are not. Cyclospora oocysts stain variably with modified Ziehl-Neelsen acid-fast stain. Some oocysts stain dark red, others stain pale pink and some do not take up stain at all. Safranin stains oocysts uniformly when the fecal smear and stain are heated by microwave treatment. Other stains used in parasite detection, such as Giemsa and trichrome, do not stain Cyclospora oocysts. The organism is consistently shed in the stools  of infected patients  until  the  illness  ends. C.  cayetanensis does not cause an inflammatory diarrhea and fecal leukocytes are not usually seen.
+Reliable, commercially available serologic assays to determine human exposure to Cyclospora are not available.
+
+============================================================
+CHUNK 9
+============================================================
+TREATMENT
+Trimethoprim-sulfamethoxazole  (TMP-SMX)  is  the  only  proven effective  treatment of cyclosporiasis. In a randomized placebo controlled trial,  a dose of sulfamethoxazole 800 mg and trimethoprim 160 mg given twice daily for 7 days was 94% curative [9]. The few patients who were not cured with 7 days of therapy were cured by a total  of  10  days  of  treatment.  In  patients  who  are  diagnosed  early during the acute phase when diarrhea is prominent, the response to TMP-SMX is fairly rapid, within 1-2 days. In later-stage illness, people start to feel better quite rapidly, but since they have usually been ill for a while before treatment, they do not feel better all at once. The recommended adult dose and regimen is sulfamethoxazole 800 mg and trimethoprim 160 mg given twice daily for 7 days. The treatment dose for  children  is  sulfamethoxazole  20 mg/kg  and  trimethoprim 4 mg/kg every 12 hours for 7 days.
+Cyclosporiasis  has  been  described  among  HIV-positive  patients  in Haiti. The symptoms were not more severe than in immunocompetent patients. Infection was easily treated with TMP-SMX, but relapse or  re-infection  was  common.  A  dose  of  TMP-SMX  three  times  per week  prevented  subsequent Cyclospora infection  in  HIV-positive patients during 7 months of surveillance [10].
+
+============================================================
+CHUNK 10
+============================================================
+TREATMENT
+In an evaluation of alternate regimens for patients who cannot tolerate sulfa-based treatments, 10 of 1 1 (90%) HIV-positive patients  in Haiti given ciprofloxacin 500 mg twice daily for 7 days were asymptomatic on day 8 and 64% (7 of 1 1) had negative stool specimens. The  standard  regimen  of  TMP-SMX usually eliminates parasites  by day 8, even in HIV-infected patients. Anecdotal use of ciprofloxacin in  immunocompetent  patients  with Cyclospora in  other  settings, however, has not been effective. In a case report, nitazoxanide, 500 mg twice daily for 7 days, resulted in improved symptoms and clearing of Cyclospora oocysts  from  the  stool  in  a  patient  with  severe  sulfa allergies  [1 1].  Nitazoxanide  was  tried  in  an  informal  study  at  the CIWEC Clinic in Kathmandu, and did not appear efficacious. A wide variety  of  antimicrobials have been tried against Cyclospora without success, including albendazole, trimethoprim (used alone), azithromycin, nalidixic acid, tinidazole, metronidazole, quinacrine, tetracycline,  doxycycline,  and  diloxanide  furoate.  Thus,  currently,  only ciprofloxacin and nitazoxanide have any published evidence that they might be effective against Cyclospora in individuals who cannot take TMP-SMX.
+
+============================================================
+CHUNK 11
+============================================================
+REFERENCES
+1. Ortega YR, Sterling CF, Gilman RH, et al. Cyclospora species: a new protozoan pathogen of humans. N Engl J Med 1993;328:1308-12.
+2. Ashford  RW.  An  undescribed  coccidian  in  man.  Ann  Trop  Med  Parasitol 1979;73:497-500.
+3. Shlim DR, Cohen MT, Eaton M, et al. An alga-like organism associated with an outbreak of prolonged diarrhea among foreigners in Nepal.  Am  J Trop Med Hyg 1991;45:383-9.
+4. Rabold JG, Shlim DR, Rajah  R, et  al.  Cyclospora  outbreak  associated  with chlorinated drinking water. Lancet 1994;344:1360-1.
+5. Herwaldt BL. Cyclospora cayetanensis :  a  review,  focusing  on  the outbreaks of cyclosporiasis in the 1990s. Clin Infect Dis 2000;31:1040-57.
+6. Ortega YR, Sanchez R. Update on Cyclospora  cayetanensis ,  a  food-borne and waterborne parasite. Clin Microbiol Rev 2010;23:218-34.
+7. Alfano-Sobsey EM, Eberhard ML, Seed JR, et al. Human challenge pilot study with Cyclospora cayetanensis . Emerg Infect Dis 2004;10:726-8.
+8. Shlim DR. Cyclospora cayetanensis. Clin Lab Med 2002;22:927-36.
+9. Hoge  CW,  Shlim  DR,  Ghimere  M,  et al. Placebo-controlled trial of co-trimoxazole  for  the  treatment  of  Cyclospora  infections  among  travelers and foreign residents in Nepal. Lancet 1995;345:691-3.
+10.  Verdier R, Fitzgerald DW, Johnson WD, Pape JW. Trimethoprimsulfamethoxazole compared with ciprofloxacin for treatment and prophylaxis of Isospora belli and Cyclospora cayetanensis infection in HIV-infected patients. Ann Intern Med 2000;132:885-8.
+
+============================================================
+CHUNK 12
+============================================================
+REFERENCES
+11.  Zimmer  SM,  Schuetz  AN,  Franco-Paredes  C.  Efficacy  of  nitazoxanide  for cyclosporiasis in patients with sulfa allergy. Clin Infect Dis 2007;44:466-7.
+

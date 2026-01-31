@@ -1,0 +1,602 @@
+============================================================
+CHUNK 0
+============================================================
+28.1 Measles
+William J Moss
+
+============================================================
+CHUNK 1
+============================================================
+Viral Infections with Cutaneous Lesions
+28
+recently, progress has been made in sub-Saharan Africa as a consequence of increasing routine measles vaccine coverage and provision of  a  second  opportunity  for  measles  vaccination  through  mass measles vaccination campaigns [2].
+- Highly contagious mucocutaneous disease caused by measles virus
+- One of the most important infectious diseases of humans, responsible for millions of deaths prior to the development of measles vaccines
+- Prodromal illness characterized by fever, cough, coryza and conjunctivitis
+- Koplik's spots, small white lesions on the buccal mucosa, appear before the rash
+- Characteristic erythematous and maculopapular rash appears ?rst on the face and behind the ears and then spreads to the trunk and extremities
+- Widespread use of measles vaccines has resulted in dramatic declines in incidence and mortality
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+Measles  is  a  highly  contagious  disease  caused  by  measles  virus. Endemic areas are largely confined to the tropics, although outbreaks and deaths continue to occur in temperate zones among unvaccinated individuals (Fig. 28.1.1). Measles is one of the most important infectious diseases of humans and has caused millions of deaths since its emergence thousands of years ago. Measles virus (genus Morbillivirus, family  Paramyxoviridae) most  closely  resembles  rinderpest  virus,  a pathogen of cattle.  It is  thought  to have evolved from an ancestral virus as a zoonotic infection in communities where cattle and humans lived  in  close  proximity.  Measles  virus  is  believed  to  have  become established  in  human  populations  about  5000-10,000  years  ago when human populations achieved sufficient size in Middle-Eastern river valley civilizations to maintain virus transmission.
+
+============================================================
+CHUNK 3
+============================================================
+EPIDEMIOLOGY
+Remarkable progress has been made in reducing the global measles incidence and mortality as a consequence of measles vaccination (Fig. 28.1.2) [1].  In  the  Americas, intensive vaccination and surveillance efforts  have  interrupted  endemic  transmission  of  the  virus.  More
+Measles virus is one of the most highly contagious, directly transmitted pathogens  and  outbreaks  can  occur  even  in  populations  in  which fewer than 10% of people are susceptible. There are no latent or persistent measles virus infections that result in prolonged contagiousness  and  no  animal  reservoirs  for  measles  virus.  Measles  virus  can only be maintained in human populations by an unbroken chain of acute infections.
+Infants  become  susceptible  to  measles  virus  infection  when  the passively acquired maternal antibody is lost [3]. The average age of measles  patients  depends  upon  the  rate  of  contact  with  infected persons, the rate of decline of protective maternal antibodies and the vaccine coverage rate. In densely populated urban settings with low vaccination coverage, measles is a disease of infants and young children.  As  measles  vaccine  coverage  increases,  or  population  density decreases, the age distribution shifts toward older children. As vaccination coverage increases further, the age distribution of cases may be shifted into adolescence and adulthood.
+When  endemic,  measles  incidence  has  a  typical  temporal  pattern characterized  by  yearly  seasonal  epidemics  superimposed  upon longer  epidemic  cycles  of  2-5  years  or  more.  These  cycles  result from the accumulation of susceptible persons over successive birth cohorts  and  the  subsequent  decline  in  the  number  of  susceptible people following an outbreak. In the tropics, measles outbreaks have variable relationships with rainy seasons. This seasonality, combined with high birth rates, can result in highly irregular, large outbreaks of measles [4].
+
+============================================================
+CHUNK 4
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+Measles  virus  is  primarily  transmitted  by  respiratory  droplets  over short distances and, less commonly, by small particle aerosols that remain suspended in the air for long periods of time. The time from infection to clinical disease is approximately 10 days to the onset of fever and 14 days to the onset of rash. Persons with measles are infectious for several days before and after the onset of rash, when levels of measles virus in blood and body fluids are highest and when the symptoms of cough, coryza and sneezing are most severe. The host immune response at sites of virus replication is responsible for the signs and symptoms of measles.
+FIGURE 28.1.1 Reported measles cases with date of  onset  between  July  2010  and  January  2011 (redrawn  from  World  Health  Organization.  Measles Surveillance  Data.  Available  at:  http://www.who.int/ i mmunization_monitoring/diseases/measles_ monthlydata/en/index.html.) © 2011  Geneva,  World Health Organization.
+FIGURE 28.1.2 Global annual reported measles cases and measles vaccine coverage, 1980-2009 (redrawn from World Health Organization, Department of Immunization, Vaccines and Biologicals. WHO vaccine-preventable diseases: monitoring system. 2010 global summary. Immunization, Vaccines and Biologicals. Available at: http://www.who.int/immunization/documents/who_ivb_2010/en/index.html. Geneva: World Health Organization; 2010.)
+
+============================================================
+CHUNK 5
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+Host  immune  responses  to  measles  virus  are  essential  for  viral clearance,  clinical  recovery  and  the  establishment  of  long-term immunity [5]. The protective efficacy of antibodies to measles virus is  illustrated  by  the  immunity  conferred  to  infants  from  passively acquired  maternal  antibodies  and  the  protection  of  exposed,  susceptible  individuals  following  administration  of  anti-measles  virus immune globulin.  The  duration  of  protective  immunity  following wild-type  measles  virus  infection  is  generally  life-long  [6].  The immune  responses  to  measles  virus  infection  are  associated  with depressed  responses  to unrelated  (non-measles  virus)  antigens, lasting for several weeks to months. This state of immune suppression  enhances  susceptibility  to  secondary  bacterial  and  viral  infections causing pneumonia and diarrhea, and is likely responsible for much  of  measles-associated  morbidity  and  mortality  [7].  Vitamin A  deficiency  is  a  recognized  risk  factor  for  severe  measles.  The vitamin is essential for the maintenance of normal epithelial tissues throughout the body; measles virus itself infects and damages these tissues.
+
+============================================================
+CHUNK 6
+============================================================
+CLINICAL FEATURES
+Clinically, features  begin  with  a  prodromal  illness  characterized  by fever,  cough,  coryza  and  conjunctivitis  (Fig.  28.1.3).  Koplik's  spots (small white lesions on the buccal mucosa) may be visible during the prodrome and allow the astute clinician to diagnose measles prior to the onset of rash (Fig. 28.1.4). The prodromal symptoms intensify several days before the onset of rash. A characteristic erythematous and maculopapular rash appears, first on the face and behind the ears, and then spreads, in a centrifugal fashion, to the trunk and extremities (Fig. 28.1.5). The rash lasts for 3-4 days and fades in the same manner as  it  appeared.  Malnourished  children  may  develop  a  deeply  pigmented rash that desquamates or peels during recovery [8].
+In uncomplicated measles, clinical recovery begins soon after appearance of the rash. Complications can occur in up to 40% of measles cases; the risk  of complication is increased by extremes of age and malnutrition (Fig. 28.1.6). The respiratory tract is a frequent site of
+FIGURE 28.1.3 Clinical course of measles 1992.)
+(redrawn from Krugman S, Katz SL, Gershon AA, Wilfert CM, eds. Infectious Diseases of Children, 9th edn. St Louis: Mosby;
+FIGURE 28.1.4 Koplik's spots of measles (reprinted from Centers for Disease Control and Prevention http://phil.cdc.gov/phil/details.asp?pid=6111).
+complication, with pneumonia accounting for most measlesassociated  deaths  [9].  Pneumonia  is  caused  by  secondary  viral  or bacterial infections, or  by the measles virus itself. Other respiratory complications  include  laryngotracheobronchitis  (croup)  and  otitis media. Mouth ulcers, or stomatitis, may hinder children from eating or  drinking.  Many  children  with  measles  develop  diarrhea,  which further contributes to malnutrition. Keratoconjunctivitis is common after measles, particularly in children with vitamin A deficiency, and is a frequent cause of blindness [10].
+
+============================================================
+CHUNK 7
+============================================================
+CLINICAL FEATURES
+Because the measles rash is a consequence of the cellular immune response,  persons  with  impaired  cellular  immunity,  such  as  those with AIDS, may not develop the characteristic measles rash [1 1]. These persons have a high case fatality and may develop a giant cell pneumonitis caused by measles virus.
+Measles virus causes three rare,  but serious, central  nervous  system complications:  post-measles  encephalomyelitis,  sub-acute  measles encephalitis  and  subacute  sclerosing  panencephalitis  (SSPE).  Postmeasles encephalomyelitis occurs in approximately 1 in 1000 cases, mainly in older children  and adults.  The  syndrome  develops within two weeks of the onset of rash and is characterized by fever, seizures and a variety of neurologic abnormalities. Around 15% of patients  die  and  half  are  left  with  severe  sequelae.  The  finding  of periventricular demyelination, the induction of immune responses to myelin basic protein and the absence of measles virus in the brain suggest that it is an autoimmune disorder triggered by measles virus infection.
+Subacute measles encephalitis (also known as measles inclusion body encephalitis) is  a  rare,  but  fatal,  complication  associated  with  progressive neurologic deterioration that affects individuals with defective cellular immunity and typically occurs 2-6 months after infection. There is lethargy, mental confusion, seizures, myoclonus and diffuse cerebral  dysfunction  which  relentlessly  progress  to  death  in  a  few months. Pathologically, inflammatory changes are seen throughout the  brain  and  there  are  eosinophilic  inclusions  in  the  nuclei  of neurons.
+SSPE is a slowly progressive disease that affects approximately one per million of those who have had measles, occurring 5-15 years after the  initial  infection.  It  is  characterized  by  seizures  and  progressive deterioration  of  cognitive  and  motor  functions,  followed  by  death within  two  years  [12].  SSPE  most  often  occurs  in  persons  infected with measles virus before the age of two years.
+
+============================================================
+CHUNK 8
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+Healthcare  workers  should  consider  measles  in  patients  with  fever and generalized rash, particularly when measles virus is known to be circulating, or in individuals with a history of travel to endemic areas. Physical examination should focus on the clinical features of measles, specifically Koplik's spots and rash, as well as potential sites of secondary  infections,  including pneumonia  and  otitis media. Appropriate precautions need to be taken to prevent transmission within healthcare settings.
+Measles is readily diagnosed on clinical grounds by clinicians familiar with  the  disease,  particularly  during  outbreaks.  Koplik's  spots  are especially helpful as they appear before the rash and are pathognomonic  (Fig.  28.1.4).  Clinical  diagnosis  is  more  difficult  in  regions where  the  incidence  of  measles  is  low,  as  other  pathogens  are
+B
+FIGURE  28.1.5 Measles  rash. (A) Courtesy  Centers  for  Disease  Control  and Prevention. (B) Reprinted from Moss WJ, GriFn DE. Global measles elimination. Nat Rev Microbiol 2006;4:900-8.
+responsible for the  majority of illnesses with fever and rash (Table 28.1-1). The World Health Organization (WHO) clinical case definition for measles consists of any person with fever and maculopapular rash  (i.e.  non-vesicular),  and  cough,  coryza  or  conjunctivitis  [13]. Although this is not very specific, it is devised primarily for outbreak control and monitoring, rather than clinical use.
+The detection of measles virus-specific IgM in a single specimen of serum or oral fluid is considered diagnostic of acute infection and is the most common method of laboratory confirmation (Fig. 28.1.7) [14]. IgM antibodies may not be detectable until four days or more after  rash  onset  and  usually  fall  to  undetectable  levels  within  4-8 weeks of rash onset. Alternatively, acute infection can be confirmed with a fourfold, or greater, increase in measles virus-specific IgG antibody levels between acute and convalescent sera. The presence of IgG antibodies in a single serum specimen is evidence of prior infection
+
+============================================================
+CHUNK 9
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+FIGURE  28.1.7 Classi`cation  of  measles  cases  for  measles  surveillance (redrawn from World Health Organization, Department of Vaccines and Biologicals.  WHO  recommended  standards  of  surveillance  of  selected  vaccinepreventable diseases. Geneva: World Health Organization; 2003.)
+or immunization,  which  cannot  be  distinguished  serologically. Commercially available  enzyme  immunoassays (EIA)  for  detecting IgM or IgG antibodies are the most frequently used diagnostic assays.
+Measles  also  can  be  diagnosed  by  isolating  measles  virus  in  cell culture from respiratory secretions, nasopharyngeal and conjunctival swabs,  blood  or  urine.  Detection  of  measles  virus  RNA  by  reverse transcriptase-PCR  (RT-PCR)  of  clinical  specimens  can  be  accomplished using primers targeted to highly conserved regions of measles virus genes. When combined with nucleotide sequencing, these assays
+TABLE 28.1-1 Diberential Diagnosis of Measles, 1 = TABLE 28.1-1 Diberential Diagnosis of Measles. Diagnosis, 1 = Distinguishing characteristics. Rubella, 1 = Mild illness with distinctive lymphadenopathy involving the posterior cervical, suboccipital and posterior auricular nodes. Roseola, 1 = Rash appears after fever subsides. Dengue, 1 = Headache, myalgia and hemorrhagic lesions are not seen with measles. Scarlet fever, 1 = Often with evidence of streptococcal infection. Infectious mononucleosis, 1 = Atypical lymphocytosis, in contrast to the lymphopenia of acute measles. Enterovirus infection, 1 = Mild illness without the complications of measles. Adenovirus infection, 1 = Epidemics of keratoconjunctivitis usually not associated with rash. Rickettsial infection, 1 = Rash not as conauent as with measles and patient may have exposure history. Kawasaki disease, 1 = Prolonged illness that evolves in stages; a number of characteristics not found in measles. Drug sensitivity reaction, 1 = History of exposure to drugs, such as sulfonamides
+permit the precise identification and characterization of virus genotypes for molecular epidemiologic studies, and can distinguish wildtype and vaccine measles virus strains.
+
+============================================================
+CHUNK 10
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+The  differential  diagnosis  of  measles  (Table  28.1-1)  includes  other causes  of  fever,  rash  and  conjunctivitis,  such  as  rubella,  roseola, dengue,  scarlet  fever,  infectious  mononucleosis,  and  enterovirus  or adenovirus infections. Less common causes include rickettsial infections (e.g. Rocky Mountain spotted fever), Kawasaki disease and drug reactions. Rubella, commonly mistaken for measles, is a milder illness without cough and with distinctive lymphadenopathy involving the posterior cervical, suboccipital and posterior auricular nodes. The rash of roseola (exanthema subitum) appears after the fever has subsided. The  atypical  lymphocytosis  in  infectious  mononucleosis  contrasts with the leukopenia commonly observed in children with measles.
+
+============================================================
+CHUNK 11
+============================================================
+PREVENTION AND TREATMENT
+The best means of preventing measles is active immunization with measles vaccine [15]. Measles vaccines are live, attenuated viral vaccines  that  replicate  within  the host  to  induce protective immunity. The recommended age of first vaccination varies from 6-15 months and is a balance between the optimum age for seroconversion and the probability of acquiring measles before that age. The proportions of children who develop protective levels of antibody after measles vaccination are approximately 85% at 9 months of age and 95% at 12 months of age. As not all children develop protective immunity after  vaccination,  an  opportunity  for  a  second  dose  is  needed  to eliminate measles virus transmission. The second dose can be pro-
+TABLE 28.1-2 Vitamin A Treatment of Measles
+Age
+12 months
+≥
+6-11 months
+6 months
+<
+1 st  Day
+200,000 IU
+100,000 IU
+50,000 IU
+2 nd  Day
+*
+200,000 IU
+100,000 IU
+50,000 IU
+*A third dose is recommended 2-4 weeks later in children with evidence of vitamin A de`ciency.
+Evidence: randomized controlled trials.
+vided either through the primary healthcare system or mass vaccination campaigns (also called supplemental immunization activities).
+The duration of vaccine-induced immunity is at least several decades, if not longer [16]. Secondary vaccine failure rates have been estimated to be approximately 5% at 10-15 years after immunization, but are probably  lower  when  vaccination  is  given  after  12  months  of  age. Decreasing antibody titers do not necessarily imply a complete loss of  protective  immunity,  as  a  secondary  immune  response  usually develops after re-exposure to measles virus, with a rapid rise in antibody titers without overt clinical disease.
+Standard  doses  of  currently  licensed  measles  vaccines  are  safe  in immunocompetent  children  and  adults.  Fever  to  39.4 ° C  (103 ° F) occurs  in  approximately  5%  of  seronegative  vaccine  recipients  and 2%  of  vaccine  recipients  develop  a  transient  rash.  Mild  transient thrombocytopenia has been reported with an incidence of approximately  1  in  40,000  doses  of  the  combined  measles,  mumps  and rubella (MMR) vaccine.
+
+============================================================
+CHUNK 12
+============================================================
+PREVENTION AND TREATMENT
+Measles vaccines are well tolerated and immunogenic in HIV-infected children  and  adults,  although  antibody  levels  may  be  lower  than uninfected  children  when  vaccination  occurs  in  later  infancy  and antibody levels may wane faster. Because of the potential severity of wild-type measles virus infection  in  HIV-infected children,  measles vaccination is recommended for routine administration to these children at six and nine months of age, except those who are severely immunocompromised.
+Other than general supportive measures, such as hydration and antipyretics, there is no specific antiviral therapy for persons with measles. Secondary  bacterial  infections  are  a  major  cause  of  morbidity  and mortality following measles and effective case-management involves prompt  treatment  with  antibiotics.  Antibiotics  are  indicated  for persons with measles who have clinical evidence of bacterial infection, including pneumonia and otitis media. Streptococcus pneumoniae and Haemophilus  influenza type  b  are  common  causes  of  bacterial pneumonia  following  measles;  vaccines  against  these  pathogens likely lower the incidence of secondary bacterial infections following measles.
+Vitamin A is effective for the treatment of measles and can result in marked reductions  in  morbidity and mortality (Table  28.1-2).  The WHO recommends administration of once-daily doses of 200,000 IU of vitamin A for two consecutive days to all children aged 12 months or  older  with  measles.  Lower  doses  are  recommended for  younger children:  100,000 IU  per  day  for  children  aged  6-12  months  and 50,000 IU per day for children younger than 6 months old. A third dose is recommended 2-4 weeks later in children with evidence of vitamin A deficiency [17].
+
+============================================================
+CHUNK 13
+============================================================
+REFERENCES
+1. World Health Organization. Global reductions in measles mortality 20002008  and  the  risk  of  measles  resurgence.  Weekly  Epidemiol  Rec  2009;84: 509-16.
+
+============================================================
+CHUNK 14
+============================================================
+REFERENCES
+2. Centers  for  Disease  Control and  Prevention. Progress  toward  measles control-African region, 2001-2008. MMWR Morb Mortal Wkly Rep 2009;58: 1036-41.
+3. Caceres VM, Strebel PM, Sutter RW. Factors determining prevalence of maternal antibody to measles virus throughout infancy: a review. Clin Infect Dis 2000;31:110-19.
+4. Ferrari MJ, Grais RF, Bharti N, et al. The dynamics of measles in sub-Saharan Africa. Nature 2008;7:679-84.
+5. Moss  WJ,  Scott  S.  WHO  Immunological  Basis  for  Immunization  Series: Measles. Geneva: World Health Organzation; 2009.
+6. Amanna  IJ,  Carlson  NE,  Slifka  MK.  Duration  of  humoral  immunity  to common viral and vaccine antigens. N Engl J Med. 2007;357:1903-15.
+7. Akramuzzaman SM, Cutts FT, Wheeler JG, Hossain MJ. Increased childhood morbidity after measles is short-term in urban Bangladesh. Am J Epidemiol 2000;151:723-35.
+8. Morley D. Severe measles in the tropics. Brit Med J 1969;1:297-300.
+9. Duke T, Mgone CS. Measles: not just another viral exanthem. Lancet 2003; 361:763-73.
+10.  Semba  RD,  Bloem  MW.  Measles  blindness.  Surv  Ophthalmol  2004;49: 243-55.
+11.  Moss WJ, Cutts F, Griffin DE. Implications of the human immunodeficiency virus epidemic for control and eradication of measles. Clin Infect Dis 1999; 29:106-12.
+12.  Bellini WJ, Rota JS, Lowe LE, et al. Subacute sclerosing panencephalitis: more cases of this fatal disease are prevented by measles immunization than was previously recognized. J Infect Dis 2005;192:1686-93.
+13.  Department of Vaccines and Biologicals, World Health Organization. WHOrecommended standards of surveillance of selected vaccine-preventable diseases. Geneva: World Health Organization; 2003.
+
+============================================================
+CHUNK 15
+============================================================
+28.2 Poxviruses
+Catherine G SutcliJe, Anne W Rimoin, William J Moss
+
+============================================================
+CHUNK 16
+============================================================
+INTRODUCTION
+Poxviruses  belong  to  the  family  Poxviridae.  Those  which  infect humans are found among four genera ( Orthopoxvirus,  Parapoxvirus , Molluscipoxvirus and Yatapoxvirus ) within the Chordopoxvirinae subfamily (Table 28.2-1). The majority of poxvirus infections in humans are zoonoses, with only variola and molluscum contagiosum viruses being  uniquely  human  pathogens.  Poxviruses  are  large,  generally brick-shaped virions containing double-stranded DNA that, in contrast to many other DNA viruses, replicate within the cytoplasm rather than in the nucleus [1].
+Variola virus is the etiologic agent of smallpox and has been responsible  for  millions  of  deaths  over  thousands  of  years.  The  earliest archeological  evidence  dates  to  the  Eighteenth  Dynasty  in  ancient Egypt (1580-1350 BC). Large epidemics of smallpox have occurred in most civilizations, with 10-30% of cases resulting in death. Smallpox was eradicated through an intensive global campaign based on vaccination with vaccinia virus, a related Orthopoxvirus likely derived from cowpox virus. The last endemic case of  smallpox occurred in Somalia in  1977; in  1980 the World Health Organization (WHO) officially declared smallpox eradicated [2].
+More recently, concern has been raised about the use of variola virus as a biological weapon, resulting in increased interest in poxviruses. With more frequent global travel and the expansion of human populations into new habitats, the public health importance of zoonotic poxviruses and their potential to cause outbreaks have been
+
+============================================================
+CHUNK 17
+============================================================
+Key features
+- Smallpox, caused by variola virus, historically the most important poxvirus of humans, was declared eradicated in 1980 following widespread vaccination with vaccinia virus
+- Monkeypox:
+- zoonosis endemic in central and western Africa, clinically similar to smallpox although lymphadenopathy is more prominent and the mortality rate lower
+- transmitted by direct contact with infected animals or person to person via respiratory droplets
+- prior vaccination with vaccinia virus (smallpox vaccine) results in milder disease and significantly lower mortality
+- Other important poxviruses diseases include:
+- Molluscum contagiousm - small umbilicated papules on the face, trunk or extremities of children worldwide
+- Orf - a zoonotic infection acquired from goats and sheep that manifests as papules, nodules and pustules at the site of inoculation
+14.  Bellini WJ, Helfand RF. The challenges and strategies for laboratory diagnosis of measles in an international setting. J Infect Dis 2003;187(suppl. 1):S28390.
+15.  World Health Organization. Measles vaccines. Weekly Epidemiol Rec 2009; 84:349-60.
+16.  Dine MS, Hutchins SS, Thomas A, Williams I, et al. Persistence of vaccineinduced antibody to measles 26-33 years after vaccination. J Infect Dis 2004; 189(suppl. 1):S123-30.
+17.  D'Souza  RM,  D'Souza  R.  Vitamin  A  for  the  treatment  of  children  with measles-a systematic review. J Trop Pediatr 2002;48:323-7.
+18.  World Health Organization. Measles Surveillance Data. Available at: http:// www.who.int/immunization_monitoring/diseases/measles_monthlydata/ en/index.html. Geneva: World Health Organization.
+19.  World Health Organization, Department of Immunization, Vaccines and Biologicals. WHO vaccine-preventable diseases: monitoring system. 2010 global summary.  Immunization,  Vaccines  and  Biologicals.  Available  at:  http:// www.who.int/immunization/documents/who_ivb_2010/en/index.html. Geneva: World Health Organization; 2010.
+
+============================================================
+CHUNK 18
+============================================================
+Key features
+20.  Krugman  S,  Katz  SL,  Gershon  AA,  Wilfert  CM,  eds.  Infectious  Diseases  of Children, 9th edn. St Louis: Mosby; 1992.
+21.  Moss WJ, Griffin DE. Global measles elimination. Nat Rev Microbiol 2006; 4:900-8.
+22.  World Health Organization, Department of Vaccines and Biologicals. WHOrecommended standards of surveillance of selected vaccine-preventable diseases. Geneva: World Health Organization; 2003.
+
+TABLE 28.2-1 Genera and Species of the Family Poxviridae, Subfamily Chordopoxvirinae that Abect Humans
+
+============================================================
+CHUNK 19
+============================================================
+Key features
+Orthopoxvirus, Geographical distribution = . Orthopoxvirus, Other infected animals = . Orthopoxvirus, Reservoir = . Variola, Geographical distribution = Eradicated (formerly worldwide). Variola, Other infected animals = Humans. Variola, Reservoir = None. Monkeypox, Geographical distribution = Africa (USA)*. Monkeypox, Other infected animals = Humans, primates, zoo animals, prairie dogs. Monkeypox, Reservoir = Squirrels, dormice, Gambian giant rat, hedgehog, Jerboa, opossum, woodchuck. Cowpox, Geographical distribution = Western Eurasia. Cowpox, Other infected animals = Humans, cats, cows, elephants, gerbils, rats, okapi, zoo animals. Cowpox, Reservoir = Rodents (bank voles, long-tailed `eld mouse). Vaccinia, Geographical distribution = Worldwide. Vaccinia, Other infected animals = Humans, cows, bubalo, rabbits, pigs. Vaccinia, Reservoir = Most likely rodents. Parapoxvirus, Geographical distribution = . Parapoxvirus, Other infected animals = . Parapoxvirus, Reservoir = . Bovine papular stomatitis, Geographical distribution = Worldwide. Bovine papular stomatitis, Other infected animals = Humans, cows. Bovine papular stomatitis, Reservoir = Unknown (cows?). Orf (contagious ectyma, contagious pustular dermatitis), Geographical distribution = Worldwide. Orf (contagious ectyma, contagious pustular dermatitis), Other infected animals = Humans, sheep, goat, artiodactyla, other ruminants. Orf (contagious ectyma, contagious pustular dermatitis), Reservoir = Unknown (sheep? goats?). Pseudocowpox (paravaccinia, milker's nodule), Geographical distribution = Worldwide. Pseudocowpox (paravaccinia, milker's nodule), Other infected animals = Humans, cows. Pseudocowpox (paravaccinia, milker's nodule), Reservoir = Unknown (cows?). Parapoxvirus of seals, Geographical distribution = Worldwide. Parapoxvirus of seals, Other infected animals = Humans, seals.
+
+============================================================
+CHUNK 20
+============================================================
+Key features
+Parapoxvirus of seals, Reservoir = Unknown (seals?). Parapoxvirus of reindeer, Geographical distribution = Finland. Parapoxvirus of reindeer, Other infected animals = Humans, reindeer. Parapoxvirus of reindeer, Reservoir = Unknown. Molluscipoxvirus, Geographical distribution = . Molluscipoxvirus, Other infected animals = . Molluscipoxvirus, Reservoir = . Molluscum contagiosum, Geographical distribution = Worldwide. Molluscum contagiosum, Other infected animals = Humans. Molluscum contagiosum, Reservoir = Humans. Yatapoxvirus, Geographical distribution = . Yatapoxvirus, Other infected animals = . Yatapoxvirus, Reservoir = . Tanapox, Geographical distribution = Africa. Tanapox, Other infected animals = Humans, rodents. Tanapox, Reservoir = Mosquitoes(?), rodents(?). Yabapox, Geographical distribution = Africa. Yabapox, Other infected animals = Humans, primates. Yabapox, Reservoir = Unknown (primates?). Yaba monkey tumor, Geographical distribution = Africa. Yaba monkey tumor, Other infected animals = Primates. Yaba monkey tumor, Reservoir = Unknown
+*Import of monkeypox to the USA with Gambian giant rats.
+Adapted from Damon IK. Poxviruses. In: Knipe DM, Howley PM, eds. Field's Virology. Philadelphia: Lippincott Williams & Wilkins; 2007:2948-75, Essbauer S, PfeJer M, Meyer H. Zoonotic poxviruses. Vet Microbiol 2009; 229-36, and Breman, JG. Poxviruses. In: Strickland GT, ed. Hunter's Tropical Medicine, 8th edn. Philadelphia: Saunders; 2000:207-10.
+recognized. Monkeypox virus is a zoonotic poxvirus currently regarded as  the  most important Orthopoxvirus infection  in humans since the global eradication of smallpox and is the focus of this chapter.
+
+============================================================
+CHUNK 21
+============================================================
+EPIDEMIOLOGY
+Monkeypox virus was first identified in captive monkeys at the State Serum Institute in Copenhagen in 1958, although they are not the natural viral reservoir. Monkeypox virus is endemic to tropical rainforests of central and western Africa, with the majority of human cases occurring in the Democratic Republic of Congo (formerly Zaire) (Fig. 28.2.1). However, reports of monkeypox have increased in neighboring Republic of Congo and a cluster of cases were reported in 2006 in Sudan for the first time [3, 4]. In 2003, the first report of human monkeypox outside  of  the  African  continent  occurred  in  the  midwestern USA, and was associated with imported African rodents [5].
+Outbreaks  typically  occur  in  small  villages  where  inhabitants  are engaged in hunting and gathering [2]. Humans contract monkeypox through direct contact with infected animals or humans. The majority of  cases  are  contracted  through  direct  contact  with  infected  body fluids or lesions during hunting, skinning, killing or cooking animal carcasses. Such mammals include the great apes (chimpanzees and orangutans), many species of monkey, domestic pigs, African hedgehogs,  opossums,  many  species  of  squirrel,  dormice,  African  porcupines,  rats,  jerboa  and  shrews.  The  natural  reservoir  species  is unknown; however, squirrels or other terrestrial rodents that inhabit the forests of central and western Africa are considered the most likely viral reservoirs [6, 7].
+
+============================================================
+CHUNK 22
+============================================================
+EPIDEMIOLOGY
+The first documented human case of monkeypox was a child in the Democratic Republic of Congo in 1970, two years after the last case of smallpox had occurred in the area [8]. After subsequent cases were recognized,  the  WHO  began  active  surveillance  in  the  Democratic Republic of Congo between 1981 and 1986, which identified a further 338 cases, with 28% attributed to secondary human-to-human transmission. The largest reported outbreak of monkeypox occurred in the Kasai Oriental region of the Democratic Republic of Congo during 1996 and 1997, although confusion with a concurrent varicella outbreak made precise estimates of the size of the outbreak difficult [9]. With increased global travel and interest in exotic pets, the geographic range  of  monkeypox  has  expanded.  In  2003,  the  first  outbreak  of monkeypox outside of Africa occurred in the mid-western USA, with 71 cases, of which 35 were laboratory-confirmed [10]. Many cases had direct contact with infected pet prairie dogs. The outbreak was traced to imported giant Gambian rats from Ghana that were housed with prairie dogs. Despite this importation and the potential for monkeypox  virus  to  infect  a  broad  range  of  mammals,  the  virus  does  not appear to have established an endemic animal reservoir within the USA [6, 1 1].
+Person-to-person transmission of monkeypox virus accounts for 1030% of cases [9]. Transmission is through large respiratory droplets during prolonged face-to-face contact, although transmission through
+FIGURE  28.2.1 Map  of  endemic  and  imported Monkeypox cases since 1970.
+contact with infected fomites or aerosols may occur [6]. Person-toperson  transmission  of  monkeypox  virus  is  less  efficient  than  for variola virus and the longest recorded human chain of transmission is six generations [3]. Studies conducted in the 1980s suggested that household transmission from an index case occurred  in 8-15% of contacts  [12].  These  data  were  used  to  create  a  stochastic  model for  the  spread  of  monkeypox  between  humans,  which  indicated that monkeypox virus was highly unlikely to sustain itself in human populations and therefore did not constitute a major public health problem  [13].  When  these  studies  were  conducted,  the  majority of household members were vaccinated against smallpox, which provided cross-protective immunity to monkeypox infection. Today, the majority of households are now vaccine-naïve, potentially increasing the risk for human-to-human transmission.
+
+============================================================
+CHUNK 23
+============================================================
+EPIDEMIOLOGY
+In  endemic  regions,  transmission  of  human  monkeypox  has  been reported throughout the year with no peak month or season. Incidence is highest in unvaccinated individuals under the age of 15 years and is slightly higher in males than females in this age group. In 1981, serologic  surveys  were  carried  out  in  four  countries  in  central  and western Africa to determine the prevalence of Orthopoxvirus infection and, in particular, monkeypox virus infection [14]. The prevalence of antibodies  to  orthopoxvirus  was  15.4%  among  people  without  a history  of  smallpox  vaccination.  Only  0.7%  of  people  tested  were seropositive for monkeypox virus, with seroprevalence highest among children  aged  5-9  years.  More  recently,  a  study  conducted  in  the Republic of Congo after an outbreak of monkeypox in 2003 found a seroprevalence of 57% for orthopox viruses, with some seropositivity likely  attributable  to  prior  smallpox  vaccination  [15].  A  20-fold increase in the incidence of monkeypox was found in the Democratic Republic of Congo by active surveillance 30 years after cessation of smallpox and unvaccinated individuals were at a 5.2-fold increased risk of monkeypox [16].
+The age distribution of cases and the secondary attack rate for monkeypox have changed, most likely as a result of cessation of smallpox vaccination and waning immunity among vaccinated persons. In the 1970s and 1980s, the majority of cases occurred among unvaccinated children younger than five years of age. Secondary cases tended to be older and were likely to be among mothers of infected children. As susceptibility to monkeypox increased, both the average age of infection  and  the  proportion  of  secondary  infections  increased  (Table 28.2-2). In the Democratic Republic of Congo, the mean age of cases of monkeypox increased from 4.4 years during the period 1981-1986 to 15.4 years during the period 2001-2004 [17].
+
+============================================================
+CHUNK 24
+============================================================
+EPIDEMIOLOGY
+Other  poxviruses  of  humans  include  molluscum  contagiosum,  orf and tanapox viruses (Table 28.2-1). Molluscum contagiosum is the most common poxvirus infection of humans and causes umbilicated papules of 1-5-mm in size on the face, trunk or extremities of children  worldwide.  Orf,  the  most  common Parapoxvirus infection  of humans, is a zoonotic infection acquired from goats and sheep manifesting  as  papules,  nodules  and  pustules  at  the  site  of  inoculation. Tanapox virus, in the genus Yatapoxvirus and endemic in equatorial Africa, is transmitted by nonhuman primates via an arthropod vector or by direct contact, and results in a febrile illness with papulonodular skin lesions and lymphadenopathy.
+
+============================================================
+CHUNK 25
+============================================================
+NATURAL HISTORY AND PATHOGENESIS
+Monkeypox begins with infection of either the dermis (after transmission from infected animals) or the respiratory epithelium (after transmission from an infected person). The virus disseminates through the lymphatic system resulting in primary viremia and systemic infection. A secondary viremia results in infection of epithelium, producing skin and  mucosal  lesions.  As  a  consequence  of  replication  in  mucosal surfaces  the  virus  can  be  transmitted  through  oropharyngeal  secretions to close contacts. The risk of transmission likely depends on the density  of  oropharyngeal  lesions,  the  proximity  and  duration  of contact, and virus survival, despite host immune responses. Monkeypox virus, like  other  poxviruses,  has  evolved  mechanisms  to  evade host immune responses. Monkeypox virus is likely to be stable on fomites and the number of virions required for infection is thought to  be  low,  based  on  potential  similarities  with  variola  virus.  Strain differences  may  exist-monkeypox  strains  circulating  in  western Africa appear to be more attenuated and less transmissible than those in the Congo basin [18].
+The incubation period from exposure to the onset of clinical symptoms and signs is 10-14 days. Patients are infectious during the first week of rash and should be isolated [1 1]. Most people infected with monkeypox  virus  are  symptomatic,  but  subclinical  infection  can occur.  Serologic  studies  of  household  contacts  of  acutely  infected cases  in  the  Democratic  Republic  of  Congo  suggest  that  approximately  28%  of  all  monkeypox  infections  are  subclinical.  More recently, immunologic evidence of exposure to monkeypox virus was identified in several asymptomatic contacts of infected people in the USA [19, 20].
+HIV and other conditions that suppress cell mediated immunity may alter the natural history of disease. No data exist for monkeypox but other poxvirus infections, specifically vaccinia and molluscum contagiosum viruses, are more severe in those that are infected with HIV.
+
+TABLE 28.2-2 Comparison of Epidemiologic Features of Human Monkeypox by Surveillance Period and Epidemiological Setting
+
+============================================================
+CHUNK 26
+============================================================
+NATURAL HISTORY AND PATHOGENESIS
+Location, 1970-1979 = Central and western Africa. Location, 1981-1986 = Democratic Republic of Congo. Location, 1996-1997 = Democratic Republic of Congo. Location, 2001-2004 = Democratic Republic of Congo. Location, 2003 = Central USA. Epidemiologic setting, 1970-1979 = Passive surveillance. Epidemiologic setting, 1981-1986 = Active surveillance. Epidemiologic setting, 1996-1997 = Outbreak. Epidemiologic setting, 2001-2004 = Passive surveillance. Epidemiologic setting, 2003 = Outbreak. Number of reported cases, 1970-1979 = 47. Number of reported cases, 1981-1986 = 338. Number of reported cases, 1996-1997 = 419*. Number of reported cases, 2001-2004 = 136. Number of reported cases, 2003 = 81. % laboratory con`rmed, 1970-1979 = 87. % laboratory con`rmed, 1981-1986 = 100. % laboratory con`rmed, 1996-1997 = Unknown. % laboratory con`rmed, 2001-2004 = 37.5. % laboratory con`rmed, 2003 = 40. Median age (yrs), 1970-1979 = 4. Median age (yrs), 1981-1986 = Unknown. Median age (yrs), 1996-1997 = Unknown. Median age (yrs), 2001-2004 = 11. Median age (yrs), 2003 = 27. Suspected primary source, 1970-1979 = Unknown. Suspected primary source, 1981-1986 = Forest animals. Suspected primary source, 1996-1997 = Unknown. Suspected primary source, 2001-2004 = Squirrels, rodents, monkeys. Suspected primary source, 2003 = Prairie dog, Gambian giant rat. Primary cases (%), 1970-1979 = 91. Primary cases (%), 1981-1986 = 72. Primary cases (%), 1996-1997 = 22. Primary cases (%), 2001-2004 = Unknown. Primary cases (%), 2003 = 100. Secondary cases (%), 1970-1979 = 9. Secondary cases (%), 1981-1986 = 28. Secondary cases (%), 1996-1997 = 78. Secondary cases (%), 2001-2004 = Unknown. Secondary cases (%), 2003 = 0. Secondary attack rate (%), 1970-1979 = 3.3. Secondary attack rate (%), 1981-1986 = 3.7 †. Secondary
+
+============================================================
+CHUNK 27
+============================================================
+NATURAL HISTORY AND PATHOGENESIS
+attack rate (%), 1996-1997 = 8.0. Secondary attack rate (%), 2001-2004 = Unknown. Secondary attack rate (%), 2003 = 0. Case-fatality rate (%), 1970-1979 = 17. Case-fatality rate (%), 1981-1986 = 10. Case-fatality rate (%), 1996-1997 = 1.5. Case-fatality rate (%), 2001-2004 = Unknown. Case-fatality rate (%), 2003 = 0. Previous vaccinia vaccination, 1970-1979 = 9% (with vaccine scar). Previous vaccinia vaccination, 1981-1986 = 13%. Previous vaccinia vaccination, 1996-1997 = 6% (with vaccine scar). Previous vaccinia vaccination, 2001-2004 = Unknown. Previous vaccinia vaccination, 2003 = 25% §
+*Excludes 92 cases that were identi`ed in an earlier investigation of the same outbreak but not included in the analysis of the subsequent cases.
+† Among household contacts.
+§Proportion of the con`rmed cases for which information was available.
+Sources: Di Giulio DB, Eckburg PB. Human monkeypox: an emerging zoonosis. Lancet Infect Dis 2004;4:15-25; Rimoin AW, Kisalu N, Kebela-Ilunga B, et al. Endemic human monkeypox, Democratic Republic of Congo, 2001-2004. Emerg Infect Dis 2007;13: 934-7.
+
+============================================================
+CHUNK 28
+============================================================
+CLINICAL FEATURES
+The  clinical  features  of  monkeypox  resemble  those  of  smallpox (variola) (Table 28.2-3). Symptoms begin with a prodromal illness of fever and malaise lasting 1-3 days, followed by the characteristic rash. In  contrast  to  smallpox,  prominent  submandibular,  cervical,  postauricular,  axillary  or  inguinal  lymphadenopathy  occurs  in  many infected persons 1-2 days before rash onset. Lymphadenopathy is not a typical feature of smallpox and can serve to clinically distinguish monkeypox from smallpox (Fig. 28.2.2; Table 28.2-3). As with smallpox, lesions develop concurrently and progress at a similar rate over 2-4  weeks,  depending  on  the  disease  severity.  The  rash  begins  as small,  2-5-mm  papules  and  progresses  through  vesicular,  pustular and  crusted  stages  over  2-3  weeks  (Fig.  28.2.3).  Like  smallpox,  it tends to be more severe on the head and extremities, including the palms and soles, and less intense on the trunk. The scabs slough off during recovery, leaving de-pigmented scars. Complications of monkeypox include secondary bacterial infection of the skin lesions, pneumonitis and eye involvement. Death occurs during the second week of illness in approximately 10% of cases. Prior vaccination with vaccinia virus (smallpox vaccine) results in milder disease with fewer skin lesions, less lymphadenopathy and significantly lower mortality [21].
+
+============================================================
+CHUNK 29
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Poxvirus infection should be considered when evaluating a patient with a febrile illness and vesiculopustular rash, particularly when the patient resides in an area endemic for monkeypox virus (Fig. 28.2.1) or  has  contact  with  animals  capable  of  transmitting  poxviruses.  A presumptive diagnosis of monkeypox can often be made clinically based on the characteristic rash and lymphadenopathy, although the skin lesions may be difficult to distinguish from chickenpox early in the course of illness (Table 28.2-3). Smallpox should be considered if bioterrorism is possible. Suspected cases of monkeypox should be reported to local health authorities.
+FIGURE  28.2.2 Posterior  auricular  lymphadenopathy  in  a  child  with monkeypox. (Photo courtesy of  Leo Lanoie, Prince Albert Parkland Health Region, Saskatchewan, Canada.)
+
+============================================================
+CHUNK 30
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+TABLE 28.2-3 Diberential Diagnosis of Monkeypox, Smallpox and Chickenpox
+
+Incubation period, days, Monkeypox = 7-17. Incubation period, days, Smallpox = 7-17. Incubation period, days, Chickenpox = 12-14. Prodrome period, days, Monkeypox = 1-4. Prodrome period, days, Smallpox = 2-4. Prodrome period, days, Chickenpox = 0-2. Symptom, Monkeypox = . Symptom, Smallpox = . Symptom, Chickenpox = . Fever, severity, Monkeypox = Moderate. Fever, severity, Smallpox = Severe. Fever, severity, Chickenpox = Mild or none. Malaise, severity, Monkeypox = Moderate. Malaise, severity, Smallpox = Moderate. Malaise, severity, Chickenpox = Mild. Headache, severity, Monkeypox = Moderate. Headache, severity, Smallpox = Severe. Headache, severity, Chickenpox = Mild. Lymphadenopathy, severity, Monkeypox = Moderate. Lymphadenopathy, severity, Smallpox = None. Lymphadenopathy, severity, Chickenpox = None. Lesions, Monkeypox = . Lesions, Smallpox = . Lesions, Chickenpox = . Depth (diameter in mm), Monkeypox = Super`cial to deep (4-6). Depth (diameter in mm), Smallpox = Deep (4-6). Depth (diameter in mm), Chickenpox = Super`cial (2-4). Distribution, Monkeypox = Centrifugal (mainly). Distribution, Smallpox = Centrifugal. Distribution, Chickenpox = Centripetal. Evaluation, Monkeypox = Homogenous rash. Evaluation, Smallpox = Homogenous rash. Evaluation, Chickenpox = Heterogeneous rash. Time to desquamation, days, Monkeypox = 14-21. Time to desquamation, days, Smallpox = 14-21. Time to desquamation, days, Chickenpox = 6-14. Frequency of lesions on palms or soles of feet, Monkeypox = Common. Frequency of lesions on palms or soles of feet, Smallpox = Common. Frequency of lesions on palms or soles of feet, Chickenpox = Rare
+
+============================================================
+CHUNK 31
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+FIGURE 28.2.3 Human monkeypox in a 7-year-old girl, Tokondo, Kasai Oriental, Democratic Republic of Congo. (Photos courtesy of Dr Anne W. Rimoin, UCLADRC Monkeypox Study. Tokondo, Democratic Republic of Congo.)
+Laboratory diagnosis is necessary to confirm the diagnosis of monkeypox and differentiate infection from other causes of vesiculopustular rash. The case definition developed by the Centers for Disease Control and Prevention (CDC) after the 2003 outbreak in the USA is shown in Table 28.2-4. Optimum clinical specimens for diagnostic testing  include  scabs  or  swabs  of  the  base  of  vesicles  applied  to  a microscope  slide  and  air  dried.  Samples  potentially  infected  with monkeypox virus should be handled in Biosafety Level 2 facilities. Monkeypox  virus  can  be  identified  by  cell  culture  or  PCR-based assays. Serologic  assays have insufficient sensitivity  to reliably diagnose monkeypox infection.
+With the exception of smallpox, monkeypox is most commonly confused clinically with varicella (chickenpox) (Table 28.2-3). Varicella can be  distinguished  from  monkeypox because  the skin lesions of chickenpox  are  pleomorphic  (in  different  stages  of  development), concentrated on  the trunk and  rarely  involve  the  palms and  soles. Lymphadenopathy does not occur in uncomplicated varicella and the
+
+============================================================
+CHUNK 32
+============================================================
+Criteria for classiNcation
+● Rash (macular, popular, vesicular, or pustular; generalized or localized; discrete or conauent) ● Fever (subjective or measured temperature of ≥ 99.3 o F [ ≥ 37.4 o C]) ● Other signs and symptoms: ● Chills and/or sweats ● Headache ● Backache ● Lymphadenophathy ● Sore throat ● Cough ● Shortness of breath, Epidemiologic criteria = ● Exposure* to an exotic wild mammalian pet † obtained on or after April 15, 2003, with clinical signs of illness (e.g. conjunctivitis, respiratory symptoms, and/or rash) ● Exposure* to an exotic or wild mammalian pet † with or without clinical signs of illness that has been in contact with either a mammalian pet § or a human with monkeypox ● Exposure ¶ to a suspect, probable, or con`rmed human case of monkeypox. ● Rash (macular, popular, vesicular, or pustular; generalized or localized; discrete or conauent) ● Fever (subjective or measured temperature of ≥ 99.3 o F [ ≥ 37.4 o C]) ● Other signs and symptoms: ● Chills and/or sweats ● Headache ● Backache ● Lymphadenophathy ● Sore throat ● Cough ● Shortness of breath, Laboratory criteria = ● Isolation of monkeypox virus in culture ● Demonstration of monkeypox virus DNA by polymerase chain reaction testing of a clinical specimen ● Demonstration of virus morphologically consistent with an orthopoxvirus by electron microscopy in the absence of exposure to another orthopoxvirus ● Demonstration of presence of orthopoxvirus in tissue using immunohistochemical testing methods in the absence of exposure to another orthopoxvirus
+
+============================================================
+CHUNK 33
+============================================================
+Suspect case
+- Meets one of the epidemiologic criteria, AND
+- Fever or unexplained rash, AND
+- Two or more signs or symptoms with onset of `rst sign or symptoms < 21 days after last exposure meeting epidemiologic criteria
+
+============================================================
+CHUNK 34
+============================================================
+Probable case
+●
+Meets one of the epidemiologic criteria, AND
+- Fever, AND
+- Vesicular-pustular rash with onset of `rst sign or symptom < 21 days after last exposure meeting epidemiologic criteria, OR
+- If rash is present but the type is not described, demonstrates elevated levels of IgM antibodies reactive with orthopox virus between at least days 7 to 56 after rash onset**
+
+============================================================
+CHUNK 35
+============================================================
+Exclusion criteria
+- An alternative diagnosis can fully explain the illness, ††  OR
+- The case was reported on the basis of primary or secondary exposure to an exotic or wild mammalian pet or a human (see epidemiologic criteria) subsequently determined not to have monkeypox, provided other possible epidemiologic exposure criteria are not present, OR
+- A case without a rash does not develop a rash within 10 days of onset of clinical symptoms consistent with monkeypox. §§
+- The case is determined to be negative for non-variola generic orthopoxvirus by polymerase chain reaction testing of a well samples rash lesion by the approved Laboratory Response Network (LRN) protocol, OR
+- The case is determined to have undetectable levels of IgM antibody during the period 7-56 days after rash onset. ¶¶
+*Includes living in a household, petting or handling, or visiting a pet-holding facility (e.g. pet store, veterinary clinic, pet distributor).
+- † Includes prairie dogs, Gambian giant rats and rope squirrels.
+§ Includes living in a household or originating from the same pet-holding facility as another animal with monkeypox.
+¶ Includes skin-to-skin or face-to-face contact.
+- **Levels of circulating IgM antibody reactive with orthopoxvirus antigen are determined by ELISA and reported as optical density (OD) values. Values greater than three standard deviations above the mean OD of six independent negative controls are considered 'elevated' . IgM antibody levels may be elevated in persons who have been recently (within one year) vaccinated for smallpox.
+- †† Factors that might be considered in assigning alternate diagnoses include the strength of the epidemiologic exposure criteria for monkeypox, the speci`city of the diagnostic test, and the compatibility of the clinical presentation and course of illness for the alternative diagnosis.
+- §§ If possible, obtain convalescent-phase serum specimen from these patients.
+¶¶ The optimal timing of specimen collection for determination of IgM levels is between days 7 and 56 post-rash onset. However, elevated levels of IgM antibodies may be detectable prior to day 7 or after day 56 post-rash onset; therefore, a negative result during this phase should not be interpreted to indicate an absence of monkeypox infection.
+
+============================================================
+CHUNK 36
+============================================================
+Exclusion criteria
+From Centers for Disease Control and Prevention. Updated Interim Case DeKnition for Human Monkeypox, Available at: http://www.cdc.gov/ncidod/monkeypox/ (last accessed: 6 March 2012). January 2004.
+illness resolves in two weeks. Other causes of a vesiculopapular rash include drug eruptions, eczema herpeticum, dermatitis herpetiformis, rickettsialpox, and molluscum contagiosum [9].
+
+============================================================
+CHUNK 37
+============================================================
+PREVENTION AND TREATMENT
+Access to basic health care in remote forested areas of western and central sub-Saharan Africa can be difficult, and the prevention and treatment of monkeypox is severely limited in the absence of external assistance. Data from the Democratic Republic of Congo in the early 1980s  suggested  that  pre-exposure  smallpox  vaccination  provided approximately 85% protection against monkeypox [22]. Prior smallpox  vaccination,  however,  did  not  provide  complete  protection against  monkeypox  in  the  USA  [19].  The  CDC  recommends  preexposure  smallpox  vaccination  for  field  investigators,  veterinarians and healthcare workers investigating or caring for patients with suspected  monkeypox.  No  information  is  available  on  the  efficacy  of post-exposure vaccination with vaccinia virus, although extrapolation from post-exposure vaccination for the prevention of smallpox suggests vaccination may prevent monkeypox disease or reduce severity. Hence,  the  CDC  recommends  post-exposure  smallpox  vaccination within  four  days  of  exposure  to  monkeypox  and  consideration  of vaccination within two weeks of exposure.
+
+============================================================
+CHUNK 38
+============================================================
+ConGLYPH<c=24,font=/CIDFont+F34>rmed case
+- Meets one of the laboratory criteria
+Treatment  of  persons  with  monkeypox  is  supportive.  Data  are  not available  on  the  effectiveness  of  vaccinia  immune  globulin  for  the prevention or  treatment  of  complications of  monkeypox; however, the CDC recommends immune globulin be considered for prophylactic use in persons exposed to monkeypox virus with severe cellular immunodeficiency for whom smallpox vaccination is contraindicated [23].  Cidofovir  has  anti-monkeypox  viral  activity in  vitro and  in animal studies [24]. Whether humans may benefit is not known, but the CDC recommends that cidofovir therapy be considered in persons with severe monkeypox [23].
+
+============================================================
+CHUNK 39
+============================================================
+REFERENCES
+1. Damon  IK.  Poxviruses.  In:  Knipe  DM,  Howley  PM,  eds.  Field's  Virology. Philadelphia: Lippincott Williams & Wilkins; 2007:2948-75.
+2. Fenner F, Henderson DA, Arita I, et al. Smallpox and Its Eradication. Geneva: World Health Organization; 1988.
+3. Learned LA, Reynolds MG, Wassa DW, et al. Extended interhuman transmission of monkeypox in a hospital community in the Republic of the Congo, 2003. Am J Trop Med Hyg 2005;73:428-34.
+4. Damon  IK,  Roth  CE,  Chowdhary  V.  Discovery  of  monkeypox  in  Sudan. N Engl J Med 2006;355:962-3.
+5. Reed  KD,  Melski  JW,  Graham  MB,  et  al.  The  detection  of  monkeypox  in humans in the Western Hemisphere. N Engl J Med 2004;350:342-50.
+6. Parker S, Nuara A, Buller RM, Schultz DA. Human monkeypox: an emerging zoonotic disease. Future Microbiol 2007;2:17-34.
+7. Essbauer  S,  Pfeffer  M,  Meyer  H.  Zoonotic  poxviruses.  Vet  Microbiol  2009; 229-36.
+8. Ladnyj ID, Ziegler P, Kima E. A human infection caused by monkeypox virus in Basankusu Territory, Democratic Republic of the Congo. Bull World Health Organ 1972;46:593-7.
+9. Di Giulio DB, Eckburg PB. Human monkeypox: an emerging zoonosis. Lancet Infect Dis 2004;4:15-25.
+10.  Centers for Disease Control and Prevention. Update: multistate outbreak of monkeypox-Illinois, Indiana, Kansas, Missouri, Ohio, and Wisconsin, 2003. MMWR Morb Mortal Wkly Rep 2003;52:642-6.
+11.  Nalca  A,  Rimoin  AW,  Bavari  S,  Whitehouse  CA.  Reemergence  of  monkeypox: prevalence, diagnostics, and countermeasures. Clin Infect Dis 2005;41: 1765-71.
+
+============================================================
+CHUNK 40
+============================================================
+REFERENCES
+12.  Jezek Z, Grab B, Szczeniowski MV, et al. Human monkeypox: secondary attack rates. Bull World Health Organ 1988;66:465-70.
+13.  Jezek Z, Grab B, Dixon H. Stochastic model for interhuman spread of monkeypox. Am J Epidemiol 1987;126:1082-92.
+14.  Jezek Z, Nakano JH, Arita I, et al. Serological survey for human monkeypox infections in a selected population in Zaire. J Trop Med Hyg 1987;90:31-8.
+15.  Lederman ER, Reynolds MG, Karem K, et al. Prevalence of antibodies against orthopoxviruses  among  residents  of  Likouala  region,  Republic  of  Congo: evidence  for  monkeypox  virus  exposure.  Am  J  Trop  Med  Hyg  2007;77: 1150-6.
+16.  Rimoin AW, Mulembakani PM, Johnston SC, et al. Major increase in human monkeypox incidence 30 years after smallpox vaccination campaigns cease in the  Democratic  Republic  of  Congo.  Proc  Natl  Acad  Sci  USA  2010;107: 16262-7.
+17.  Rimoin AW, Kisalu N, Kebela-Ilunga B, et al. Endemic human monkeypox, Democratic  Republic  of  Congo,  2001-2004.  Emerg  Infect  Dis  2007;13: 934-7.
+18.  Chen N, Li G, Liszewski MK, et al. Virulence differences between monkeypox virus  isolates  from  West  Africa  and  the  Congo  basin.  Virology  2005;340: 46-63.
+19.  Karem KL, Reynolds M, Hughes C, et al. Monkeypox-induced immunity and failure  of  childhood  smallpox  vaccination  to  provide  complete  protection. Clin Vaccine Immunol 2007;14:1318-27.
+20.  Lewis  MW,  Graham  MB,  Hammarlund  E, et  al.  Monkeypox  without  exanthem. N Engl J Med 2007;356:2112-14.
+21.  Hammarlund E, Lewis MW, Carter SV, et al. Multiple diagnostic techniques identify previously vaccinated individuals with protective immunity against monkeypox. Nat Med 2005;11:1005-11.
+
+============================================================
+CHUNK 41
+============================================================
+REFERENCES
+22.  Fine PE, Jezek Z, Grab B, Dixon H. The transmission potential of monkeypox virus in human populations. Int J Epidemiol 1988;17:643-50.
+23.  Centers for Disease Control and Prevention. Updated Interim CDC Guidance for Use of Smallpox Vaccine, Cidofovir, and Vaccinia Immune Globulin (VIG) for Prevention and Treatment in the Setting of an Outbreak of Monkeypox Infections. 2003.
+24.  De Clercq E. Cidofovir in the treatment of poxvirus infections. Antiviral Res 2002;55:1-13.
+25.  Breman, JG. Poxviruses. In: Strickland GT, ed. Hunter's Tropical Medicine, 8th edn. Philadelphia: Saunders; 2000:207-10.
+26.  Centers for Disease Control and Prevention. Updated Interim Case Definition for  Human  Monkeypox,  Available  at:  http://www.cdc.gov/ncidod/monkeypox/ (last accessed: 6 March 2012). January 2004.
+
+============================================================
+CHUNK 42
+============================================================
+28.3 Nonpolio Enterovirus Mucocutaneous Infections
+Catherine G SutcliJe, William J Moss
+
+============================================================
+CHUNK 43
+============================================================
+Key features
+- Enteroviruses replicate within the gastrointestinal tract or other mucosal surfaces
+- Acute hemorrhagic conjunctivitis is primarily caused by enterovirus 70 and a variant of coxsackievirus A24
+- Epidemics of hemorrhagic conjunctivitis can be explosive, with up to 100% of household members and 15% of the population ultimately infected
+- Hand-foot-and-mouth disease is most commonly caused by coxsackievirus A16 and enterovirus 71
+- Rarely, hand-foot-and-mouth disease caused by enterovirus 71 may be associated with severe neurologic complications (see Chapter 34.2)
+
+============================================================
+CHUNK 44
+============================================================
+INTRODUCTION
+Enteroviruses are members of the Picornaviridae family and are nonenveloped viruses with a single-stranded RNA genome that replicate within the gastrointestinal tract or other mucosal surfaces. More than 90 subtypes of enteroviruses have been identified. Human enteroviruses were formally divided into five subgroups: polioviruses; group A  and  B  coxsackieviruses;  echoviruses;  and  the  numbered  human enteroviruses. In 2000, the International Committee on Taxonomy of Viruses re-classified human enteroviruses into four species consisting of human enteroviruses A, B, C (containing the polioviruses) and D (Table 28.3-1) [1]. In addition to the four human enterovirus species A-D  (shown  in  Table  28.3-1),  other  enteroviral  species  include: human rhinoviruses (A-C); and porcine, bovine and simian enteroviruses. Echoviruses 22 and 23 were reclassified as a new genus called parechoviruses (human parechoviruses 1 and 2).
+Enteroviruses are ubiquitous and most infections are asymptomatic. Some  enteroviruses,  best  known  for  mucocutaneous  disease,  are
+Human enterovirus A, Types = Human coxsackievirus A2-8, 10, 12, 14, 16. , Types = Human enterovirus 71, 76, 89-92. Human enterovirus B, Types = Human coxsackievirus A9, B1-6. , Types = Human echovirus 1-9, 11-21, 24-27, 29-33. , Types = Human enterovirus 69, 73-75, 77-88, 93, 97, 98, 101, 106, 107. Human enterovirus C, Types = Human poliovirus 1-3. , Types = Human coxsackievirus A1, 11, 13, 15, 17-22, 24. , Types = Human enterovirus 95, 96, 99, 102, 104, 105, 109. Human enterovirus D, Types = Human enterovirus 68, 70, 94
+
+============================================================
+CHUNK 45
+============================================================
+INTRODUCTION
+discussed  in  this  chapter.  Enteroviruses  that  are  best  known  for causing neurologic disease, including polioviruses and enterovirus 71, are discussed in Chapter 34.2. Several new enteroviruses have emerged that have pandemic potential, including those causing acute hemorrhagic conjunctivitis and hand-foot-and-mouth disease (HFMD).
+
+============================================================
+CHUNK 46
+============================================================
+EPIDEMIOLOGY
+Acute hemorrhagic conjunctivitis is primarily caused by enterovirus 70 and a variant of coxsackievirus A24; however, other enteroviruses, including  echoviruses  7  and  1 1,  coxsackieviruses  B1  and  B2,  and several  adenoviruses can  also  cause acute hemorrhagic  conjunctivitis,  sporadic  conjunctivitis  and  keratoconjunctivitis.  The  first  pandemic  of  hemorrhagic  conjunctivitis  was  identified  in  Ghana  in 1969 with subsequent spread to other countries in Africa and Southeast Asia, India, Japan and England between 1969 and 1971, affecting millions of people [2]. Enteroviruses capable of causing hemorrhagic  conjunctivitis  are  highly  transmissible,  particularly  in densely populated  areas  in  the  tropics,  where  good  hygiene is  not easy,  and  are  spread  either  directly  through  ocular  and  respiratory secretions  or  indirectly  through  contaminated  fomites  (inanimate objects  such  as  toys).  Epidemics  of  hemorrhagic  conjunctivitis  can be explosive, with up to 100% of household members and 15% of the population ultimately infected. Outbreaks can be seasonal, particularly  in  the  western  hemisphere.  Individuals  of  both  sexes  and all  ages are  susceptible, although adolescents and  young adults are most commonly infected [3].
+HFMD is most commonly caused by coxsackievirus A16 and enterovirus 71. Other enteroviruses associated with HFMD include: coxsackieviruses A4-A7, A9, A10, A24, and B2-B5; echoviruses 1, 4, 1 1 and 18; and enterovirus18. HFMD was first described during an outbreak in  1958  [1]  and  has  been  reported  in  North  and  South  America, Europe and Asia. However, since the 1990s, enterovirus 71-associated outbreaks  have  occurred  most  frequently  in  Taiwan,  Singapore, Malaysia, China, Vietnam and Australia [4] (see Chapter 34.2).
+
+============================================================
+CHUNK 47
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+Direct  transmission  of  enterovirus  70  or  coxsackievirus  A24  from infected hands or fomites to the eye permits viral replication in the palpebral and bulbar conjunctivae and corneal epithelial cells. Both viruses  bind  to  sialic  acid  on  ocular  epithelium  but  coxsackievirus A24  can  also  bind  to  cells  expressing  sialic  acid  in  the  respiratory tract- accounting for concurrent respiratory symptoms [5]. Viral replication  in  the  conjunctivae  and  cornea  leads to  the destruction  of cells and resulting hemorrhagic conjunctivitis. The incubation period from the time of exposure to conjunctivitis is typically 24-72 hours. Disease severity is variable and depends on the number of infected cells  and extent of inflammation. Protective immune responses are elicited following enterovirus 70 and coxsackievirus A24 infections; however,  immunity  to  enterovirus  70  wanes  within  seven  years, leaving individuals susceptible to re-infection [6].
+The pathogenesis of HFMD remains unclear but fecal-oral transmission likely leads to virus replication in the lower gastrointestinal tract, followed by viremia and further replication in the oropharynx (see Chapter 34.2).
+
+============================================================
+CHUNK 48
+============================================================
+CLINICAL FEATURES
+Most  enteroviral  infections  are  asymptomatic  or  associated  with  a nonspecific  febrile  illness.  Signs  and  symptoms  of  respiratory  tract infection (coryza, pharyngitis and pneumonia) and herpangina (multiple  oral  ulcers  at  the  back  of  the  oral  cavity)  may  occur,  but  it remains unclear if enteroviruses are a significant cause of vomiting, diarrhea  or  abdominal  pain.  Rare,  serious  clinical  manifestations include  neonatal  sepsis,  meningoencephalitis  and  myopericarditis. Infection with enterovirus 71 can result in pulmonary edema, pulmonary hemorrhage and cardiopulmonary failure. Chronic enterovirus infection can occur in persons with defective B-lymphocyte function, including  those  with  X-linked  agammaglobulinemia,  severe  combined immunodeficiency or common variable immunodeficiency.
+Individuals with acute hemorrhagic conjunctivitis have abrupt onset of eye pain, photophobia and swelling of the eyelids. Fever, headache and  pre-auricular  lymphadenopathy  may  occur.  Subconjunctival hemorrhage is the characteristic clinical manifestation and occurs in the majority of ocular infections caused by enterovirus 70 but is less common with coxsackievirus A24 ocular infection. Signs and symptoms typically peak on the first day of infection and resolve within several days without complications.
+Children  with  HFMD  usually  present  with  fever,  sore  throat  and refusal to eat. Physical examination reveals vesicles and ulcers on the buccal mucosa and tongue, and papules and vesicles with surrounding erythema on the hands, feet, wrists, ankles, buttocks and genitalia. HFMD caused by enterovirus 71 and coxsackievirus A16 is usually indistinguishable, although some observers state that the skin lesions associated with coxsackievirus A16 infection are larger and the lesions of enterovirus 71 infection are more commonly papular and petechial [7]. Rarely, HFMD caused by enterovirus 71 may be associated with severe neurologic complications, including aseptic meningitis, brainstem or cerebellar encephalitis, and acute flaccid paralysis (see Chapter 34.2). Permanent paralysis or death can result.
+
+============================================================
+CHUNK 49
+============================================================
+CLINICAL FEATURES
+Other severe systemic manifestations of enterovirus infections include: acute respiratory disease, particularly with coxsackie A21 and A24 and echovirus 1 1; epidemic pleurodynia, characterized by chest pains, and caused by coxsackie B viruses; myocarditis and pericarditis, caused by coxsackie  B viruses; and  neonatal  enterovirus infections, caused, in particular, by echovirus 1 1 and coxsackievirus B.
+
+============================================================
+CHUNK 50
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+Enterovirus  infection  should  be  suspected  in  persons  with  hemorrhagic  conjunctivitis  and  those  with  vesicles  and  papules  on  the
+hands,  feet  and  in  the  oropharynx  (Fig.  28.3.1).  The  diagnosis  is usually first made on clinical grounds but enterovirus infection can be confirmed by cell culture or identification of viral RNA by reversetranscriptase PCR. The generalized rash associated with enterovirus infection can resemble that of measles, rubella or roseola. Acute hemorrhagic  conjunctivitis  can  be  caused  by  enteroviruses  other  than enterovirus 70 and coxsackievirus A24, as well as adenoviruses (particularly  type  1 1).  However,  these  viral  causes  cannot  be  clinically distinguished.  The  skin  lesions  of  HFMD  may  resemble  those  of herpes simplex virus or varicella-zoster virus infections (Table 28.3-2) [3],  and  the  acute  flaccid  paralysis  can  be  confused  with  paralytic poliomyelitis
+
+============================================================
+CHUNK 51
+============================================================
+PREVENTION AND TREATMENT
+Good hygiene, particularly hand-washing, limits fecal-oral or ocular transmission  and  is  the  primary  method  of  preventing  enterovirus infection. Social distancing measures, such as closing schools, are also used  [8].  Vaccines  against  enterovirus  7 1,  including  live-attenuated virus,  inactivated  whole  virus,  recombinant  viral  protein,  virus-like particle and DNA vaccines are in development, but none are currently licensed for use [9]. No specific therapy for enterovirus infection is recommended.  The  antiviral  agent  pleconaril  has  activity  against enteroviruses but evidence supporting clinical efficacy is lacking [10]. Intravenous immune  globulin has been used to treat severe
+
+TABLE 28.3-2 Comparison of Acute Hemorrhagic Conjunctivitis and Other Common Types of Conjunctivitis
+
+============================================================
+CHUNK 52
+============================================================
+PREVENTION AND TREATMENT
+Age group, Acute hemorrhagic conjunctivitis = All ages. Age group, Adenoviral conjunctivitis = All ages. Age group, Epidemic keratoconjunctivitis = All ages. Age group, Pharyngoconjunctival fever = Mostly children. Age group, Primary herpes simplex = Young children. Etiologic agent, Acute hemorrhagic conjunctivitis = Enterovirus 70, coxsackievirus A24. Etiologic agent, Adenoviral conjunctivitis = Adenovirus. Etiologic agent, Epidemic keratoconjunctivitis = Adenovirus types 8, 19. Etiologic agent, Pharyngoconjunctival fever = Adenovirus types 1, 2, 3. Etiologic agent, Primary herpes simplex = Herpes simplex virus. Duration, Acute hemorrhagic conjunctivitis = 5-10 days. Duration, Adenoviral conjunctivitis = 1-2 weeks. Duration, Epidemic keratoconjunctivitis = 2-4 weeks. Duration, Pharyngoconjunctival fever = 3 weeks. Duration, Primary herpes simplex = 2-3 weeks. Physical `ndings, Acute hemorrhagic conjunctivitis = . Physical `ndings, Adenoviral conjunctivitis = . Physical `ndings, Epidemic keratoconjunctivitis = . Physical `ndings, Pharyngoconjunctival fever = . Physical `ndings, Primary herpes simplex = . Bilateral involvement, Acute hemorrhagic conjunctivitis = 80%. Bilateral involvement, Adenoviral conjunctivitis = Frequent. Bilateral involvement, Epidemic keratoconjunctivitis = Usually. Bilateral involvement, Pharyngoconjunctival fever = Often unilateral. Bilateral involvement, Primary herpes simplex = Rare. Subconjunctival hemorrhage, Acute hemorrhagic conjunctivitis = Frequent. Subconjunctival hemorrhage, Adenoviral conjunctivitis = Rare. Subconjunctival hemorrhage, Epidemic keratoconjunctivitis = Occasional.
+
+============================================================
+CHUNK 53
+============================================================
+PREVENTION AND TREATMENT
+Subconjunctival hemorrhage, Pharyngoconjunctival fever = Rare. Subconjunctival hemorrhage, Primary herpes simplex = Rare. Keratitis, Acute hemorrhagic conjunctivitis = Frequent. Keratitis, Adenoviral conjunctivitis = Occasional. Keratitis, Epidemic keratoconjunctivitis = Marked but rare early. Keratitis, Pharyngoconjunctival fever = Occasional. Keratitis, Primary herpes simplex = Occasional. Subepithelial opacities, Acute hemorrhagic conjunctivitis = Occasional. Subepithelial opacities, Adenoviral conjunctivitis = Occasional. Subepithelial opacities, Epidemic keratoconjunctivitis = Frequent. Subepithelial opacities, Pharyngoconjunctival fever = Occasional. Subepithelial opacities, Primary herpes simplex = Rare. Pseudomembrane, Acute hemorrhagic conjunctivitis = No. Pseudomembrane, Adenoviral conjunctivitis = Occasional. Pseudomembrane, Epidemic keratoconjunctivitis = Occasional. Pseudomembrane, Pharyngoconjunctival fever = No. Pseudomembrane, Primary herpes simplex = Occasional. Follicles, Acute hemorrhagic conjunctivitis = Slight. Follicles, Adenoviral conjunctivitis = Marked. Follicles, Epidemic keratoconjunctivitis = Marked. Follicles, Pharyngoconjunctival fever = Marked. Follicles, Primary herpes simplex = Moderate. Other symptoms, Acute hemorrhagic conjunctivitis = Upper respiratory tract infection common in coxsackievirus A24. Other symptoms, Adenoviral conjunctivitis = Respiratory symptoms common. Other symptoms, Epidemic keratoconjunctivitis = Upper respiratory tract infection, diarrhea common in children. Other symptoms, Pharyngoconjunctival fever = Triad of fever, pharyngitis and conjunctivitis. Other symptoms, Primary herpes simplex = Dendritic keratitis rare with primary conjunctivitis
+
+============================================================
+CHUNK 54
+============================================================
+PREVENTION AND TREATMENT
+Reproduced with permission from Wright PW, Strauss GH, Langford MP. Acute hemorrhagic conjunctivitis. Am Fam Physician 1992;45:173-8.
+enteroviral infections, including overwhelming infection in neonates, myocarditis and meningoencephalitis, but data from controlled clinical trials are not available.
+
+============================================================
+CHUNK 55
+============================================================
+REFERENCES
+1. Wong SS, Yip CC, Lau SK, Yuen KY. Human enterovirus 71 and hand, foot and mouth disease. Epidemiol Infect 2010;138:1071-89.
+2. Mirkovic RR, Kono R, Yin-Murphy M, et al. Enterovirus type 70: the etiologic agent  of  pandemic  acute  haemorrhagic  conjunctivitis.  Bull  World  Health Organ 1973;49:341-6.
+3. Wright PW, Strauss GH, Langford MP. Acute hemorrhagic conjunctivitis. Am Fam Physician 1992;45:173-8.
+4. Ooi  MH,  Wong  SC,  Lewthwaite  P,  et  al.  Clinical  features,  diagnosis,  and management of enterovirus 71. Lancet Neurol 2010;9:1097-105.
+5. Nilsson EC, Jamshidi F, Johansson SM, et al. Sialic acid is a cellular receptor for coxsackievirus A24 variant, an emerging virus with pandemic potential. J Virol 2008;82:3061-8.
+6. Aoki  K,  Sawada  H.  Long-term  observation  of  neutralization  antibody  after enterovirus 70 infection. Jpn J Ophthalmol 1992;36:465-8.
+7. Lee  TC,  Guo  HR,  Su HJ, et al. Diseases caused  by enterovirus 71 infection. Pediatr Infect Dis J 2009;28:904-10.
+8. Solomon T, Lewthwaite P, Perera D, et al. Virology, epidemiology, pathogenesis, and control of enterovirus 71. Lancet Infect Dis 2010;10:778-90.
+9. Lee MS, Chang LY. Development of enterovirus 71 vaccines. Expert Rev Vaccines 2010;9:149-56.
+10.  Webster AD. Pleconaril-an advance in the treatment of enteroviral infection in immuno-compromised patients. J Clin Virol 2005;32:1-6.
+11.  Sarma N, Sarkar A, Mukherjee A, et al. Epidemic of hand, foot and mouth disease in West Bengal, India in August, 2007: a multicentric study. Indian J Dermatol. 2009;54:26-30.
+
+============================================================
+CHUNK 56
+============================================================
+28.4 Kaposi's Sarcoma-associated Herpesvirus
+Catherine G Sutcliffe, William J Moss
+
+============================================================
+CHUNK 57
+============================================================
+Key features
+- Kaposi's sarcoma-associated herpesvirus (KSHV) is associated with three lymphoproliferative disorders: Kaposi's sarcoma, which is a cutaneous malignancy; primary effusion lymphoma; and multi-centric Castleman's disease
+- The epidemiology of KSHV transmission varies, with sexual transmission predominant in many regions and salivary transmission common among children in parts of sub-Saharan Africa
+
+============================================================
+CHUNK 58
+============================================================
+Key features-cont'd
+- Kaposi's sarcoma occurs in four clinical and epidemiologic types: classic, endemic, immunosuppressed-associated and AIDS-associated
+- Endemic Kaposi's sarcoma is found in central Africa where children are prone to a rapidly fatal, lymphadenopathic form
+
+============================================================
+CHUNK 59
+============================================================
+INTRODUCTION
+Kaposi's sarcoma-associated herpesvirus (KSHV), also called human herpesvirus 8 (HHV-8), is a member of the lymphotropic gammaherpesviruses, which includes Epstein-Barr virus. As with other herpesviruses, KSHV likely evolved and migrated out of Africa with modern humans. Kaposi's sarcoma, a multifocal cutaneous neoplasm of vascular endothelium, was first described by the Hungarian dermatologist  Moritz Kaposi in 1872 as an indolent neoplasm of older men residing in Eastern Europe and the Mediterranean. A more aggressive form  of  endemic  Kaposi's  sarcoma  was  subsequently  identified  in children and adults in Africa, particularly in the region surrounding Lake Kivu in the Democratic Republic of Congo and Rwanda, where it  accounts for up to 10% of all malignancies in children. With the advent  of  immunosuppressive  therapies  for  organ  transplantation, Kaposi's sarcoma was recognized as a complication of immune suppression and the disease became widely known as a signal event of the AIDS epidemic [1]. These four variants correspond to the classic, endemic, immunosuppressed-associated and AIDS-associated forms. The etiology of Kaposi's sarcoma remained elusive until KSHV was identified in 1994 by representational difference analysis of viral DNA fragments from tissue samples [2].
+
+============================================================
+CHUNK 60
+============================================================
+EPIDEMIOLOGY
+KSHV is only found in humans. There are four distinct subtypes of KSHV: subtypes  A  and  C  are  predominantly  found  in  Europe,  the USA, Asia and the Middle East; subtype B is predominantly found in sub-Saharan Africa; and subtype D is predominantly found in south Asia, Australia and the Pacific Islands.
+While infection with KSHV occurs worldwide, the prevalence of infection  varies  (Table  28.4-1)  [3,  4].  In  the  USA,  Asia,  Europe,  South America and the Caribbean, the overall prevalence of KSHV infection is less than 10%. In these regions, KSHV is primarily sexually transmitted. Pre-pubertal children are not usually infected and the prevalence
+- Highly active anti-retroviral therapy can reduce the incidence of Kaposi's sarcoma and the severity of pre-existing lesions in persons co-infected with human immunode?ciency virus (HIV)
+of  infection  increases  with  age  after  the  onset  of  sexual  activity.  In these  epidemiologic  settings,  KSHV  infections  are  more  common among men than women. Homosexual transmission appears to be more efficient than heterosexual transmission, with seroprevalences ranging from 25-60% among male homosexuals and increasing with the number of sexual partners.
+In the Mediterranean, the prevalence of KSHV infection ranges from 15-25%. In sub-Saharan Africa and American Indian populations in South America,  however, KSHV is endemic, with the prevalence of infection 50-60% or higher (Fig. 28.4.1). In these regions, infection is  equally  prevalent  among  men  and  women  and  the  majority  of infections are acquired in childhood, suggesting transmission through non-sexual routes [4].  Salivary  transmission,  often  through  contact within the family, is the predominant mode of transmission. Following puberty, the prevalence of  KSHV rises slowly as a result  of less efficient heterosexual transmission. Mother-to-child transmission of KSHV can occur, but is infrequent [5], and the virus is not found in breast milk [6]. Studies in Africa have found different age-related patterns of KSHV infection, suggesting different patterns of transmission within endemic regions [7].
+
+============================================================
+CHUNK 61
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+The natural history of KSHV begins with infection of endothelial cells and B lymphocytes following contact with infected secretions. Viral latency is established in B lymphocytes, resulting in life-long infection. KSHV cycles between two phases: a latent phase during which the virus lies silent with limited gene expression, and a lytic phase with active replication in the oropharynx and viral shedding in saliva. Similar to other herpesviruses, KSHV evolved mechanisms to evade host immune responses, including modulation of immune surveillance  and  antiviral  responses  [8].  The  viral  genome  also  encodes oncogenic proteins capable of dysregulating cell growth that are likely
+TABLE 28.4-1 Patterns of Kaposi's Sarcoma-Associated Herpesvirus (KSHV) Infection and Non-HIV Kaposi's Sarcoma (KS)
+
+Low, Regions = North America, North Europe, Asia. Low, Population KSHV prevalence = < 5%. Low, Transmission = Sexual. Low, Risk groups = Homosexual men, STD clinic attendees, transplant recipients. Intermediate, Regions = Mediterranean, Middle Eastern countries, Caribbean. Intermediate, Population KSHV prevalence = 5-20%. Intermediate, Transmission = Sexual, non-sexual?. Intermediate, Risk groups = Homosexual men, STD clinic attendees, transplant recipients, older adults. High, Regions = Africa, parts of Amazon basin. High, Population KSHV prevalence = > 50%. High, Transmission = Non-sexual, sexual. High, Risk groups = Older adults, lower socioeconomic status
+*AIDS-KS rates are highly dependent on local HIV infection rates and risk groups.
+STD, sexually transmitted diseases.
+Reproduced with permission from Ganem D. Kaposi's Sarcoma-associated Herpesvirus. In: Knipe DM, Howley PM, eds. Field's Virology. Philadelphia: Lippincott Williams & Wilkins; 2007:2847-88.
+FIGURE 28.4.1 Prevalence of HHV-8 and HIV infection and incidence of Kaposi's sarcoma (KS) in select African countries, ranked according to incidence of KS (reproduced with permission from Casper C. New approaches to the treatment of human herpesvirus 8-associated disease. Rev Med Virol 2008;18:321-9.)
+
+============================================================
+CHUNK 62
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+FIGURE 28.4.2 African child with lymphadenopathic Kaposi's sarcoma. The raised nodules with purple hue are evident on the face, trunk and leg. Lymphatic obstruction resul ted in facial edema (courtesy of William Moss MD).
+involved in the pathogenesis of the associated proliferative disorders [9]. Histologically, Kaposi's sarcoma is characterized by spindle cells with  vascular  spaces  and  extravasated  red  blood  cells.  The  lesions of Kaposi's sarcoma are multicentric in origin and not the result of metastases.
+
+============================================================
+CHUNK 63
+============================================================
+CLINICAL FEATURES
+Infection with KSHV is asymptomatic in most individuals, but some children with primary infection may have a nonspecific febrile illness [10].  More  importantly,  KSHV  infection  is  associated  with  three lymphoproliferative  disorders,  primarily  in  immunocompromised hosts:  Kaposi's  sarcoma;  primary  effusion  lymphoma;  and  multicentric  Castleman's  disease  [8].  The  lesions  of  Kaposi's  sarcoma are  commonly  flat  or  raised  nodules,  0.5-2.0 cm  in  diameter, with a purple hue as a consequence of numerous, poorly oxygenated red  blood  cells  (Fig.  28.4.2).  With  more  advanced  disease,  these nodules  may  coalesce.  Lesions  are  common  in  the  mouth  and  on the face, nose and extremities, but can also occur in the lung, biliary tract, and gastrointestinal tract. Children in endemic areas are more likely  to  have  a  rapidly  fatal  lymphadenopathic  form  that  leads to  edema  (Fig.  28.4.2).  Some  lesions  of  Kaposi's  sarcoma  may spontaneously  regress,  confounding  the  evaluation  of  treatment strategies.
+
+============================================================
+CHUNK 64
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+Infection  with  KSHV  is  diagnosed  serologically  or  by  detection  of viral DNA in saliva, tissue or blood samples. The diagnosis of Kaposi's sarcoma should be considered in patients with compatible skin or mucus membrane lesions and who reside in an endemic area or are  HIV-infected  or  immunosuppressed.  The  diagnosis  is  made  by careful physical examination of the skin and mucosal surfaces. Pathological examination of the biopsied lesions shows the characteristic highly  vascular,  spindle-shaped  cells,  although  histologic  variants with mixed cell or anaplastic types are not uncommon. Detection of gastrointestinal or pulmonary lesions requires imaging studies, such as a chest radiograph, although pulmonary findings are often nonspecific.  Clinical  diagnosis  is  usually  not  problematic  in  persons with multiple lesions and with the appropriate clinical context. Isolated  lesions,  however,  may  be  confused  with  hemangiomas,  dermatofibromas  or  pyogenic  granulomas.  Kaposi's  sarcoma  may  be clinically confused with bacillary angiomatosis caused by the Gramnegative bacteria Rochalimaea, with the two distinguished by histology.
+
+============================================================
+CHUNK 65
+============================================================
+PREVENTION AND TREATMENT
+Methods to prevent sexually transmitted infections, such as the use of condoms, may prevent sexual transmission of KSHV. For persons co-infected with HIV, highly active anti-retroviral therapy is associated with a reduction in the incidence of Kaposi's sarcoma and regression in the size and number of existing lesions. Local therapy for palliation of symptomatic lesions or for cosmetically-unacceptable lesions can be achieved through a variety of means, including radiation therapy, surgical  excision,  cryotherapy,  intralesional  administration  of  antineoplastic agents and topical retinoids. Systemic therapy is reserved for rapidly progressive or severe disease and includes immune modulators  (e.g.  interferonα )  and  chemotherapy.  Antiviral  therapy  with ganciclovir, foscarnet or cidofovir has demonstrated some efficacy in small studies, but the virus is resistant to acyclovir.
+
+============================================================
+CHUNK 66
+============================================================
+REFERENCES
+1. Durack DT. Opportunistic  infections  and  Kaposi's  sarcoma  in  homosexual men. N Engl J Med 1981;305:1465-7.
+2. Chang Y, Cesarman E, Pessin MS, et al. Identification of herpesvirus-like DNA sequences in AIDS-associated Kaposi's sarcoma. Science 1994;266:1865-9.
+3. Ablashi D, Chatlynne  L,  Cooper  H,  et al.  Seroprevalence  of  human herpesvirus-8 (HHV-8) in countries of Southeast Asia compared to the USA, the Caribbean and Africa. Br J Cancer 1999;81:893-7.
+4. de  Sanjose  S,  Mbisa  G,  Perez-Alvarez  S,  et  al.  Geographic  variation  in  the prevalence of Kaposi sarcoma-associated herpesvirus and risk factors for transmission. J Infect Dis 2009;199:1449-56.
+5. Mantina H, Kankasa C, Klaskala W,  et al.  Vertical transmission  of  Kaposi's sarcoma-associated herpesvirus. Int J Cancer 2001;94:749-52.
+6. Brayfield  BP,  Kankasa  C,  West  JT,  et  al.  Distribution  of  Kaposi  sarcomaassociated  herpesvirus/human  herpesvirus  8  in  maternal  saliva  and  breast milk  in  Zambia:  implications  for  transmission.  J  Infect  Dis  2004;189: 2260-70.
+7. Butler LM, Dorsey G, Hladik W, et al. Kaposi sarcoma-associated herpesvirus (KSHV) seroprevalence in population-based samples of African children: evidence for  at  least  2  patterns  of  KSHV  transmission.  J  Infect  Dis  2009;200: 430-8.
+8. Sullivan RJ, Pantanowitz L, Casper C, et al. HIV/AIDS: epidemiology, pathophysiology, and treatment of Kaposi sarcoma-associated herpesvirus disease: Kaposi  sarcoma,  primary  effusion  lymphoma,  and  multicentric  Castleman disease. Clin Infect Dis 2008;47:1209-15.
+
+============================================================
+CHUNK 67
+============================================================
+REFERENCES
+9. Wen KW, Damania B. Kaposi sarcoma-associated herpesvirus (KSHV): Molecular biology and oncogenesis. Cancer Lett 2010;28:140-50.
+10.  Andreoni M, Sarmati L, Nicastri E, et al. Primary human herpesvirus 8 infection in immunocompetent children. JAMA 2002;287:1295-300.
+11.  Ganem D. Kaposi's Sarcoma-associated Herpesvirus. In: Knipe DM, Howley PM,  eds.  Field's  Virology.  Philadelphia:  Lippincott  Williams  &  Wilkins; 2007:2847-88.
+12.  Casper C. New approaches to the treatment of human herpesvirus 8-associated disease. Rev Med Virol 2008;18:321-9.
+

@@ -1,0 +1,160 @@
+============================================================
+CHUNK 0
+============================================================
+Key features
+- Babesiosis is an emerging infectious disease caused by intra-erythrocytic protozoan parasites. Frequent symptoms include fever, fatigue, chills, sweats and headache
+- Babesiosis typically is transmitted by Ixodes ticks, occasionally through blood transfusion and, rarely, transplacentally
+- Healthy people over 50 years of age and immunocompromised individuals, including those who are asplenic, have a malignancy or HIV infection, are at increased risk of severe disease and death
+
+============================================================
+CHUNK 1
+============================================================
+Edouard Vannier, Peter J Krause
+is  now endemic in the northeast (from Maine to Delaware) and in the upper mid-west (Minnesota and Wisconsin). The number of cases and the geographical range of babesiosis have steadily increased over the last two decades. In 2009, more than 700 cases were reported to public health departments in endemic states, although this number is certainly an underestimate. Babesiosis became a nationally notifiable disease in January 201 1. Factors thought to account for the emergence of babesiosis include an increase in deer that are a critical host in the lifecycle of the vector tick ( Ixodes scapularis ), spread of B. microti -infected ticks to new areas and a heightened awareness of the disease by  physicians  and  the  general  public  [1].  Several  cases  caused  by Babesia  duncani have  been  reported  on  the  west  coast.  A  few  cases caused by Babesia divergens -like organisms have been reported from Kentucky, Missouri, and Washington State [1].
+- De1nitive diagnosis is made by visualizing parasites on peripheral blood smears or amplifying Babesia DNA by PCR. Detection of antiBabesia antibody in serum indicates active or past infection
+- Standard therapy is a single 7-10-day course of atovaquone and azithromycin or clindamycin and quinine. Partial or complete exchange transfusion is recommended for severe cases. Highly immunocompromised individuals with persistent infection should be treated for at least 6 weeks, including 2 weeks after the parasite is no longer detected on blood smear
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+Babesiosis is a tick-borne infectious disease caused by intra-erythrocytic protozoan parasites of the genus Babesia . Wild and domestic animals are  reservoir  hosts  for  more  than  100 Babesia species.  Humans  are infected by a few of these species. The parasite is named in honor of the Romanian pathologist Viktor Babes who investigated the cause of febrile hemoglobinuria in cattle and visualized the microorganism in their red blood cells. Described since biblical times as an important disease of livestock, babesiosis was first recognized as a human disease in 1956. Thousands of cases have subsequently been reported, primarily in the USA where babesiosis is classified as an emerging infectious disease.
+
+============================================================
+CHUNK 3
+============================================================
+USA
+The first confirmed human case was identified in 1969 on Nantucket Island and was caused by Babesia microti , a parasite of small rodents. Babesia microti is the most common cause of human babesiosis and
+
+============================================================
+CHUNK 4
+============================================================
+Europe
+About 30 cases have been attributed to B. divergens , a parasite of cattle [2]. Most have been reported from the UK , Ireland and France, particularly  from  regions  with  extensive  cattle  farming.  Isolated  cases have been reported from Croatia (index case), Finland, Georgia (exUSSR), Spain, Portugal and Sweden. A single autochthonous case of B.  microti infection  has  been  documented  in  Germany.  Four  cases infected with Babesia venatorum (EU1), a species closely related to B. odocoilei that infect white-tailed deer in the USA, have been reported from Italy, Austria and Germany [2].
+
+============================================================
+CHUNK 5
+============================================================
+Asia, Africa and South America
+Two cases in Taiwan and one in Japan were infected with B. microti -like  organisms  [1].  A  case  in  South  Korea  has  been  attributed  to Babesia K01, a species closely related to those found in sheep. In the few cases reported from Africa, China, and India, the Babesia spp. were not  fully  characterized.  Asymptomatic  infection  has  been  reported from Mexico and Colombia.
+
+============================================================
+CHUNK 6
+============================================================
+MODE OF TRANSMISSION
+Babesia  microti is  typically  transmitted  during  the  blood  meal  of infected Ixodes  scapularis nymphal  ticks.  Transmission  occurs  from May through to September, with most cases presenting from June to August. Most infected individuals do not recall a tick bite. The tick species that transmit B. duncani and B. divergens -like organisms remain unknown. In Europe, Ixodes ricinus is the main vector for transmission of B. divergens and B. venatorum .
+Babesia microti is the most commonly reported microorganism transmitted through blood transfusion in the USA [3-5]. More than 150 cases have been reported, primarily following packed red blood cell transfusion, but many cases are thought to go unreported or unrecognized  [3].  Transfusion-transmitted B.  duncani infection  has  been documented on three occasions [5]. Transfusion-transmitted babesiosis can occur anywhere and at any time of the year, but most cases are reported in endemic areas during autumn and winter. The incubation period varies from 1 to 9 weeks but in one case was 6 months. Of the  1 1  deaths  attributed  to  transfusion-transmitted  babesiosis  and
+reported to the US Food and Drugs Administration (FDA) between 1998 and 2008, ten occurred between 2005 and 2008 [4, 5]. Recent increases in the number of transfusion-transmitted babesiosis cases and associated mortality are a major concern of the transfusion medicine community.
+Babesiosis  has  rarely  been  transmitted  transplacentally.  Three  such cases have been reported, all caused by B. microti .
+
+============================================================
+CHUNK 7
+============================================================
+BABESIA MICROTI INFECTION
+Symptoms of B. microti infection vary in number and intensity. Three patterns of infection have been described: i) asymptomatic infection; ii) mild-to-moderate viral-like illness; and, iii) severe illness that may be fulminant and culminate in prolonged illness or death.
+As  many  as  a  quarter  of  adults  and  half  of  children  do  not  have symptoms  [6].  Asymptomatic  infection  may  persist  for  weeks  to months following resolution of symptoms, even after standard antibiotic therapy has been administered [7]. The infection is also asymptomatic during the incubation period that typically lasts from 1 to 4 weeks following tick bite.
+Babesiosis  is  a  viral-like  illness  that  consists  of  a  gradual  onset  of malaise and fatigue followed by fever as high as 40.6°C (105°F) and one or more of the following: chills, sweats, headache, myalgia, anorexia, non-productive cough, arthralgia and nausea [1, 6]. Less commonly noted are emotional lability  and  depression,  hyperesthesia, sore  throat,  abdominal  pain,  conjunctival  injection,  photophobia and weight loss. Fever is the most common finding on physical examination.  Rash  is  seldom  noted,  although  ecchymoses  and  petechiae have  been  described.  Mild  splenomegaly,  hepatomegaly,  or  both, occasionally occur. Slight pharyngeal erythema, jaundice, hematuria, and retinopathy with splinter hemorrhages and retinal infarcts have been reported. Severe infection requires hospital admission and often occurs in people over 50 years of age and in people immunocompromised by asplenia, malignancy, HIV infection or immunosuppressive drugs [1, 8]. The most common complications consist of pulmonary edema [acute  respiratory  distress  syndrome  (ARDS)],  disseminated intravascular coagulopathy (DIC), congestive heart failure and renal failure  [9].  Splenic  infarcts  and  splenic  rupture  have  been  noted. Highly immunocompromised hosts may experience a persistent or relapsing  illness  [8].  Outcome  is  fatal  in  6-9%  of  all  hospitalized cases and up to 28% of cases in immunocompromised hosts.
+
+============================================================
+CHUNK 8
+============================================================
+OTHER BABESIA INFECTIONS
+Patients infected with B. divergens present with a fulminant illness and nearly all reported cases have occurred in splenectomized individuals [2]. Symptoms include high fever, shaking chills, intense sweats, headache, myalgia and lumbar and abdominal pain. Hemoglobinuria and jaundice are almost always present. Several decades ago most cases were fatal but, with the advent of exchange transfusion combined with effective antibiotic therapy, death is rare. Cases of B. duncani infection have been few and have ranged in severity from asymptomatic to fatal. Similarly, B. venatorum infection has ranged from mild to severe.
+
+============================================================
+CHUNK 9
+============================================================
+DIAGNOSIS
+The diagnosis of babesiosis should be considered in any person who resides in, or has traveled to, an endemic area and who presents with symptoms of babesiosis during the summer or early autumn.
+The definitive diagnosis of babesiosis is made by microscopic analysis of Giemsa-stained thick or thin blood smears, although parasites can be visualized using Wright's stain (Fig. 100.1, Table 100-1) [1]. Babesia typically appear as ring forms that may be mistakenly identified as Plasmodium falciparum . Trophozoites divide by binary fission, yielding two  to  four  merozoites  that  remain  in  close  proximity.  The  four merozoites  are  distributed  as  a  'Maltese  cross',  but  this  pattern  is seldom noted.
+FIGURE 100.1 Ring forms of Babesia microti on a Giemsa-stained human blood Dlm (magniDcation x1000).
+
+============================================================
+CHUNK 10
+============================================================
+Epidemiology
+- Residence in, or travel to, an area endemic for babesiosis
+- Ixodes tick bite within 1 to 4 weeks
+- Blood transfusion within 1 to 9 weeks
+
+============================================================
+CHUNK 11
+============================================================
+Symptoms
+- Fever, fatigue, chills, sweats, headache, myalgia, anorexia, non-productive cough, arthralgia and nausea
+- Less common: emotional lability and depression, hyperesthesia, sore throat, abdominal pain, conjunctival injection, photophobia and weight loss
+
+============================================================
+CHUNK 12
+============================================================
+Signs on physical examination
+- Fever
+- Splenomegaly, hepatomegaly, pallor
+
+============================================================
+CHUNK 13
+============================================================
+Common laboratory diagnostic procedures
+- Visualization of Babesia parasites on peripheral blood smears
+- AmpliDcation of Babesia DNA in blood using PCR
+- Presence of serum Babesia IgM antibody or a fourfold rise in Babesia IgG antibody
+When parasites are too few to be detected on blood smears, as often occurs in the early phase of infection and after resolution of symptoms,  infection  is  best  detected  by  PCR  [1].  Amplification  and sequence analysis of the entire18S rRNA gene allows for molecular classification of Babesia species.
+Supportive laboratory findings include moderate-to-severe hemolytic anemia,  thrombocytopenia,  an  elevated  reticulocyte  count  and  an elevated  erythrocyte  sedimentation  rate.  The  leukocyte  count  is normal-to-slightly decreased, with a 'left shift.' In severe cases, elevated  serum  bilirubin  and  liver  enzyme  concentrations,  elevated serum blood urea nitrogen and creatinine concentrations, and hematuria and proteinuria are noted.
+Immunofluorescence assay (IFA) serology is useful in confirming the diagnosis.  IgM  antibody  titers ≥ 1  :  64  and  IgG  antibody  titers  of ≥ 1  :  1 024 signify active, or recent, infection. IgG titers typically decrease to ≤ 1  :  64  within 12 months. Thin  blood smears, PCR and serology tests are available at most large commercial laboratories in endemic areas. Certain university medical center laboratories and the Centers for Disease Control  and  Prevention  (CDC)  serve  as  reference laboratories.
+
+============================================================
+CHUNK 14
+============================================================
+BABESIA MICROTI INFECTION
+Patients are occasionally diagnosed with Babesia infection after they have  become  asymptomatic  following  acute  illness.  No  controlled trials are available to guide optimal therapy for such patients, but a regimen  of  atovaquone  and  azithromycin  for  7-10  days  has  been suggested for people who experience asymptomatic parasitemia for 3 months or longer in order to minimize the risks of clinical relapse and  transfusion-transmitted  babesiosis.  Mild-to-moderate  viral-like illness is best treated with the combination of atovaquone and azithromycin for 7-10 days (Table 100-2). Severe infection should be treated with the combination of clindamycin and quinine, although quinine  is  often  associated  with  transient  hearing  impairment  or gastrointestinal upset. In the first antibiotic treatment trial for human babesiosis  [10],  the  combination  of  atovaquone  and  azithromycin was  compared  with  clindamycin and  quinine  - the  first successful therapeutic regimen used for the treatment of babesiosis. These combinations  were  equally  effective  in  clearing  symptoms  and  parasitemia. Adverse effects were reported in 15% of patients who received atovaquone  and  azithromycin  compared  with  72%  of  those  who received clindamycin and quinine. Drug reactions were so severe that the  regimen  was  discontinued  or  the  dosage  decreased  in  about  a
+
+============================================================
+CHUNK 15
+============================================================
+TABLE 100-2 Treatment of Babesiosis
+Atovaquone and azithromycin, Dose = Atovaquone and azithromycin. Atovaquone and azithromycin, Frequency = Atovaquone and azithromycin. Atovaquone, Dose = Adult: 750 mg Child: 20 mg/kg (maximum 750 mg/dose). Atovaquone, Frequency = Every 12 hours Every 12 hours. Azithromycin, Dose = Adult: 500-1000 mg 250 mg Child: 10 mg/kg (maximum 500 mg/dose) 5 mg/kg (maximum 250 mg/dose). Azithromycin, Frequency = On day 1 On subsequent days On day 1 On subsequent days
+
+============================================================
+CHUNK 16
+============================================================
+Clindamycin and quinine
+Clindamycin, 1 = Adult: 600 mg Child: 7-10 mg/kg (maximum 600 mg/dose) Intravenous administration Adult: 300-600 mg Child: 7-10 mg/kg (maximum 600 mg/dose). Clindamycin, 2 = Every 8 hours Every 6-8 hours Every 6 hours Every 6-8 hours. Quinine, 1 = Adult: 650 mg Child: 8 mg/kg (maximum 650 mg/dose). Quinine, 2 = Every 6-8 hours Every 8 hours
+All antibiotics are administered by mouth, unless otherwise speciDed. All doses are administered for 7-10 days except for persistent or relapsing infection (see text). For immunocompromised patients, successful treatment regimens have included higher doses of azithromycin (600-1000 mg per day) in combination with atovaquone.
+Exchange transfusion
+Partial, or complete, exchange transfusion should be considered for the treatment of severe cases, including those who experience parasitemia > 10%, severe anemia, pulmonary edema, or renal or hepatic compromise.
+third  of  those  taking  clindamycin  and  quinine,  but  in  only  2%  of those  taking  atovaquone  and  azithromycin.  Partial,  or  complete, exchange blood transfusion is recommended in case of intense parasitemia ( > 10%), severe anemia, pulmonary edema, or renal or hepatic compromise [1]. For highly immunocompromised people who suffer persistent infection, antimicrobial therapy should be administered for at least 6 weeks, including 2 weeks during which the parasite is no longer detected on blood smear [8].
+
+============================================================
+CHUNK 17
+============================================================
+OTHER BABESIA INFECTIONS
+Babesia divergens infections are treated with exchange transfusion in combination with clindamycin and quinine [2]. The combination of pentamidine  and  trimethoprim-sulfamethoxazole  was  successfully used to treat a mild case of B. divergens infection. Infections with B. duncani and B. venatorum are treated with clindamycin and quinine, along with exchange transfusion and hemodialysis, when necessary.
+
+============================================================
+CHUNK 18
+============================================================
+PREVENTION
+Areas  where  ticks,  deer  and  mice  are  known  to  thrive  should  be avoided during the primary transmission season, especially by people who are immunocompromised. Clothing that covers the lower part of  the  body  and  that  is  sprayed  or  impregnated  with  diethyltoluamide,  dimethyl  phthalate  or  permethrin  (Permanone)  is  recommended. A search for ticks on people and pets should be carried out and the ticks removed with the use of tweezers when possible. Application of acaricide to deer decreases the risk of tick-borne disease in people by reducing tick numbers. In the USA, the indefinite deferral of prospective blood donors who report past Babesia infection is the only measure currently employed to protect the blood supply.  The results of an interim analysis of the first laboratory-based strategy for screening blood donors who are infected with Babesia suggests that the combined use of Babesia microti IFA and qPCR is effective in reducing the incidence of transfusion-transmitted babesiosis. Treatment of blood products with pathogen reduction methods is being developed [4-5]. No vaccine for human babesiosis is available.
+
+============================================================
+CHUNK 19
+============================================================
+ACKNOWLEDGEMENTS
+This work was supported by a generous gift from The Gordon and Llura Gund Foundation and grants from the National Institutes of Health (R01 AG019781 [EV] and R21 AI088079 [PJK]).
+
+============================================================
+CHUNK 20
+============================================================
+REFERENCES
+1. Vannier E, Gewurz BE, Krause PJ. Human babesiosis. Infect Dis Clin North Am 2008;22:469-88.
+2. Hunfeld  KP,  Hildebrandt  A,  Gray  JS.  Babesiosis:  Recent  insights  into  an ancient disease. Int J Parasitol 2008;38:1219-37.
+3. Herwaldt BL, Linden JV, Bosserman E, et al. Transfusion-associated babesiosis in  the  United  States:  a  description  of  cases.  Ann  Intern  Med  201 1;155: 509-19.
+4. Gubernot DM, Nakhasi HL, Mied P, et al. Transfusion-transmitted babesiosis in the United States: Summary of a workshop. Transfusion 2009;49:2759-71.
+5. Leiby DA. Transfusion-transmitted Babesia spp.: bull's-eye on Babesia microti . Clin Microbiol Rev 2011;24:14-28.
+6. Krause  PJ,  McKay  K,  Gadbaw  J,  et  al.  Increasing  health  burden  of  human babesiosis in endemic sites. Am J Trop Med Hyg 2003;68:431-6.
+7. Krause PJ, Spielman A, Telford SR, III, et al. Persistent parasitemia after acute babesiosis. N Engl J Med 1998;339:160-5.
+8. Krause PJ,  Gewurz  BE,  Hill  D,  et  al.  Persistent  and  relapsing  babesiosis  in immunocompromised patients. Clin Infect Dis 2008;46:370-6.
+9. Hatcher JC, Greenberg PD, Antique J, Jimenez-Lucho VE. Severe babesiosis in Long  Island:  review  of  34  cases  and  their  complications.  Clin  Infect  Dis 2001;32:1117-25.
+10.  Krause PJ, Lepore T, Sikand VK, et al. Atovaquone and azithromycin for the treatment of babesiosis. N Engl J Med 2000;343:1454-8.
+S E C T I O N
+

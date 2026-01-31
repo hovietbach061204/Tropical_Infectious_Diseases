@@ -1,0 +1,175 @@
+============================================================
+CHUNK 0
+============================================================
+REFERENCES
+1.  Morse  SS,  Hughes  JM.  Developing  an  integrated  epidemiologic approach to emerging infectious diseases. Epidemiol Rev 1996;18(1):1-3.
+2.  Benedictow OJ. Morbidity in historical plague epidemics. Popul Stud (Camb) 1987;41(3):401-31.
+3.  Lindahl JF,  Grace D. The consequences of human actions on risks for infectious diseases: a review. Infect Ecol Epidemiol 2015;5:30048.
+4.  Microbiology by numbers. Nat Rev Microbiol 2011;9:628.
+5.  Howard CR, Fletcher NF. Emerging virus diseases: can we ever expect the unexpected? Emerg Microbes Infect 2012;1(12):e46.
+6.  World  Health  Organization.  Disease  oubreaks  by  year. http:// www.who.int/csr/don/archive/year/en/.
+8.  Woolhouse  ME,  Haydon  DT,  Antia  R.  Emerging  pathogens:  the epidemiology and evolution of species jumps. T rends Ecol Evol (Amst) 2005;20(5):238-44.
+9.  Richards  GA,  Baker T, Amin  P .  Council  of  the  World  Federation of  Societies  of  Intensive  and  Critical  Care  Medicine.  Ebola  virus disease: report from the task force on tropical diseases by the world federation of societies of intensive and critical care medicine. J Crit Care 2018;43:352-5.
+10.  Libraty DH, Endy TP, Houng HS, et al. Differing in|uences of virus burden and immune activation on disease severity in secondary dengue-3 virus infections. J Infect Dis 2002;185(9):1213-21.
+7.  Jones  KE,  Patel  NG,  Levy  MA,  et al.  Global  trends  in  emerging infectious diseases. Nature 2008;451:990.
+Fig. 36.1 Clinical course by illness day and diagnostic methods.
+
+============================================================
+CHUNK 1
+============================================================
+36.1 Dengue and Dengue Hemorrhagic Fever
+Daniel H. Libraty
+
+============================================================
+CHUNK 2
+============================================================
+KEY FEATURES
+- disease throughout the world. It is caused by infection with any one of the four dengue virus serotypes (DENVs 1-4).
+- range from an inapparent or mild febrile illness, to the more symptomatic and well-described dengue fever (DF), to the most severe, and sometimes fatal, form of illness, dengue hemorrhagic fever (DHF) (severe dengue).
+- a vascular leakage syndrome that develops around the time
+- of defervescence. The relative risk for developing DHF/ severe dengue is increased with sequential heterologous DENV infections.
+- pre-de{ned 'warning signs' require close monitoring and supportive care during the critical phase of illness.
+- < 1% with early recognition and appropriate supportive care and management.
+
+============================================================
+CHUNK 3
+============================================================
+INTRODUCTION
+Dengue is the most prevalent and widespread human arboviral disease in the 21st century. It is caused by infection with any one of four dengue viruses (DENVs 1-4), single-stranded RNA viruses that belong to the genus Flavivirus, family Flaviviridae. The DENVs are transmitted to humans through the bite of infected urban and peri-urban mosquitoes (female Aedes [Stegomyia] aegypti and Aedes [Stegomyia]  albopictus ).  Outbreaks  of  dengue-like  illnesses  were recognized  and  recorded  in  the  17th  and  18th  centuries,  and perhaps even earlier. 1 There has been a dramatic increase in the incidence and global spread of dengue over the past 50 years. 2,3
+
+============================================================
+CHUNK 4
+============================================================
+EPIDEMIOLOGY
+The areas at risk for dengue essentially correspond to the global distribution of A.  aegypti mosquitoes (Fig.  36.1.1). In  the Asian tropics,  all  four  DENV serotypes  co-circulate,  creating  a  large region of hyper-endemicity. Dengue outbreaks occur with predictable seasonality and periodicity. The majority of dengue cases are seen during the rainy season in a given year. Through a complex interplay of population immunity, vector biology, and environmental conditions, a shift in the dominant circulating DENV serotype typically  occurs  every  4  to  6  years.  The  shift  in  the  dominant circulating  DENV serotype  often leads  to  waves of  large-scale epidemic dengue activity. 4 Historically, the Americas were characterized  by  isolated  and  interspersed  dengue  outbreaks  of  a  single infecting serotype. Over the past several decades, Asian genotype DENV strains have spread throughout the Americas accompanied by increased co-circulation of multiple DENV serotypes. 5 As such, the dengue disease and transmission patterns in the Americas are shifting  toward  the  Asian  hyper-endemic  patterns.  The  global burden of  symptomatic dengue is  on the  order of  100 million cases/year. 6
+
+============================================================
+CHUNK 5
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+The human dengue cycle is maintained by DENV transmission back and forth between mosquito vectors and viremic individuals. After the bite of a DENV-infected mosquito, there is local viral replication in Langerhans cells and cutaneous dendritic cells and spread  to  regional  lymph  nodes.  Thereafter,  the  virus  rapidly disseminates, leading to viremia. The likely DENV factories are tissue macrophages, dendritic cells, and adipocytes. The incubation period between a mosquito bite and symptom onset is 3 to 10 days. Viremia generally lasts for 4 to 5 days, and the disappearance of viremia correlates with fever resolution. 5,7
+The most severe and sometimes fatal form of dengue is dengue hemorrhagic fever/dengue shock syndrome (DHF/DSS) (severe dengue).  The  distinguishing  characteristic  of  DHF/DSS  is  a transient and rapid increase in vascular permeability. The plasma leakage syndrome is most often characterized by hemoconcentration and transudate accumulation across serosal surfaces (i.e., pleural effusions  and  ascites).  In  its  extreme  form  (DSS),  hypovolemic shock  ensues. 8,9 The  plasma  leakage  syndrome  of  DHF/DSS develops  rapidly  at  the  time  of  defervescence  and  clearance  of viremia, and is transient (hours to days). Primary infection with a DENV serotype produces long-term protective immunity against re-infection with the homologous serotype (homotypic immunity), but  only  short-term  protective  immunity  against  heterologous serotypes (heterotypic immunity). 10,11 The relative risk of developing DHF/DSS  (severe  dengue)  is  increased  15-  to  100-fold  with sequential  heterologous  DENV  infections  (secondary  DENV infection)  compared  with  primary  DENV  infections. 3 Most individuals with secondary DENV infections do not develop severe dengue. Primary DENV infections in infants < 12 months old also appear more likely  to  lead  to  DHF/DSS  (severe  dengue)  than primary DENV infections in children or adults. 12
+Distribution of countries or areas at risk of dengue transmission, worldwide, 2008
+
+============================================================
+CHUNK 6
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Fig. 36.1.1 Distribution of countries or areas at risk of dengue transmission, worldwide, 2008. (Redrawn with permission from WHO map. Public Health Information and Geographic Information Systems [GIS], WHO).
+Numerous risk factors have been identi{ed for the development of severe dengue. They can be divided into three general steps, and multiple risk factor combinations can take place to produce the three steps. The {rst step includes factors that can increase the dengue viral load. These include antibody-dependent enhancement of viral infection, 3  impairment of CD8 + T-cell and natural killer cell anti-viral immune responses, 13 adiposity, 14 virus genetics/ serotype differences, and host genetics. The second step includes factors that can promote anti-DENV pro-in|ammatory immune responses. These include cross-reactive anti-DENV  T-cell responses, 15  anti-DENV IgG/DENV immune complexes, adiposity, 14 and host genetics. The {nal step includes factors that tip the balance in favor of permeability-inducing conditions in the serosal cavities. Several pro-in|ammatory cytokines/mediators can promote endothelial  paracellular  permeability,  and  virus-induced  type  I interferon signaling can augment the endothelial barrier function. Each of the three steps described here is necessary, but not suf{cient by itself, to produce severe dengue.
+
+============================================================
+CHUNK 7
+============================================================
+CLINICAL FEATURES
+The  most  likely  outcome  of  a  primary  or  secondary  DENV infection is either asymptomatic infection or a mild undifferentiated febrile illness. The mild febrile illness is often characterized by non-speci{c constitutional symptoms. This is particularly true in children, whereas DENV infections may be more likely to present as classic DF in adults. 5
+Classic DF begins with the abrupt onset of fever, retro-orbital headache, backache, and severe myalgias ('breakbone fever'). 5,16 The  febrile  illness  typically  lasts  for  5  to  7  days  and  can  be accompanied by anorexia, nausea/vomiting, and prolonged asthenia. There is accompanying leukopenia, thrombocytopenia, and often mild  hepatic  transaminase  elevation.  Petechiae  may  develop spontaneously, but, most commonly, can be elicited in a positive tourniquet  test. 17 Clinically  signi{cant  bleeding  is  much  less common, but can occasionally be severe or life threatening. T oward the end of the febrile period, the classic rash of dengue may appear (Herman's  rash).  It  is  a  con|uent,  erythematous,  macular  rash over the extremities with scattered, well-circumscribed areas of sparing. The appearance of this rash is pathognomonic for a DENV infection.
+
+============================================================
+CHUNK 8
+============================================================
+CLINICAL FEATURES
+DHF/DSS is the dengue clinical syndrome whose distinguishing feature  is  abrupt  plasma  leakage  from  the  intravascular  to  the extravascular space. The World Health Organization (WHO) case de{nition  for  DHF/DSS  incorporates  three  additional  clinical criteria beyond DF and has established a grading scale of I to IV for DHF severity (T able 36.1.1). 16 Despite the moniker 'hemorrhagic  fever,'  most  often  the  hemorrhagic  manifestations  may only be a positive tourniquet test or spontaneous skin or mucosal petechiae. Severe coagulopathy is nearly always seen in the context of profound shock and multi-organ failure. Recent WHO guidelines have  moved  away  from  the  DHF  case  de{nition  and,  instead, proposed a new case de{nition termed severe  dengue (see T able 36.1.1). 18  Whether de{ned as DHF/DSS or severe dengue, the majority  of  serious  morbidity  and  mortality  caused  by  DENV infections is due to a vascular leakage syndrome with hypotension and shock. Clinically signi{cant hemorrhage can sometimes occur in  the absence of vascular leakage, particularly in adults. Other uncommon complications of DENV infections include hepatic necrosis, encephalopathy/encephalitis, and chorioretinitis. Unlike Zika virus infection, DENV infection during pregnancy has not been associated with congenital malformations.
+
+============================================================
+CHUNK 9
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Dengue should be considered in all individuals in endemic regions, particularly  children,  who  present  with  an  abrupt-onset  febrile illness of < 10 to 14 days' duration during the DENV transmission season. The initial clinical {ndings in DENV infections are fairly non-speci{c and can be dif{cult to distinguish from other common febrile  illnesses  in  the  tropics.  The  differential  diagnosis  for dengue-like illnesses includes typhoid fever, leptospirosis, rickettsial infections, or malaria. In the appropriate clinical setting, measles, in|uenza, chikungunya, or Zika virus infections are also possibilities. Early in the febrile course, the suspicion for a DENV infection can be heightened by the presence of leukopenia, thrombocytopenia, mild aspartate aminotransferase elevation, and a positive tourniquet test  or spontaneous petechiae. The positive predictive value for combinations of these early clinical {ndings has generally been good  when  dengue  is  highly  prevalent  (i.e.,  during  the  rainy season). 17,19
+The critical phase of any DENV infection is the 24 to 48 hours surrounding defervescence-generally around days 5 to 7 of the febrile illness in a secondary DENV infection. This is the time period when plasma leakage will take place in patients developing DHF/DSS. A  challenge  in  patients  with  dengue,  or  suspected dengue, is to identify those at risk for severe disease before the critical phase is reached. A group of warning signs and symptoms have been identi{ed in DENV-infected patients that often presage the deterioration to DHF/DSS (severe dengue) (see T able 36.1.1). 18 These patients require close monitoring and supportive care during the critical phase of illness.
+
+============================================================
+CHUNK 10
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Laboratory diagnosis remains the most reliable way to identify a DENV infection. Reverse transcriptase polymerase chain reaction (RT-PCR) can detect viral RNA in the blood for up to 5 to 7 days after the onset of fever in primary infections and 3 to 4 days in secondary infections. However, DENV RT-PCR is not routinely available in most clinical settings. Viremia can also be detected by antigen-detection assays that measure circulating levels of a DENV non-structural protein, NS1. The timeline for detectable circulating soluble NS1 lags viral RNA RT-PCR detection by 1
+
+============================================================
+CHUNK 11
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+TABLE 36.1.1 Case Definitions for Dengue Hemorrhagic Fever/Dengue Shock Syndrome, Severe Dengue, and the Warning Signs for Severe Dengue
+
+Signs/symptoms of dengue fever and: 1. thrombocytopenia (platelet count < 100,000/mm 3 ), and 2. evidence of plasma leakage (hematocrit rise ≥ 20% from baseline, pleural effusion, or ascites), and 3. hemorrhagic manifestation DHF grade I = criteria 1 + 2 + positive tourniquet test DHF grade II = criteria 1 + 2 + spontaneous bleeding DHF grade III = DHF grade I/II criteria + circulatory failure (hypotension, weak pulse) DHF grade IV = DHF grade I/II criteria + profound shock, Case Definition for Severe Dengue = Probable or laboratory-confirmed dengue and: 1. severe plasma leakage (shock or fluid accumulation with respiratory distress), or 2. severe hemorrhage (as evaluated by clinician), or 3. severe organ impairment: ≥ 1000 U/mL consciousness. Signs/symptoms of dengue fever and: 1. thrombocytopenia (platelet count < 100,000/mm 3 ), and 2. evidence of plasma leakage (hematocrit rise ≥ 20% from baseline, pleural effusion, or ascites), and 3. hemorrhagic manifestation DHF grade I = criteria 1 + 2 + positive tourniquet test DHF grade II = criteria 1 + 2 + spontaneous bleeding DHF grade III = DHF grade I/II criteria + circulatory failure (hypotension, weak pulse) DHF grade IV = DHF grade I/II criteria + profound shock, Warning Signs for Severe Dengue = Abdominal pain or tenderness Persistent vomiting Clinical fluid accumulation Mucosal bleed Lethargy, restlessness Liver enlargement > 2 cm Increase in hematocrit concurrent with rapid decrease in platelet count
+ALT, Alanine aminotransferase; AST, aspartate transaminase.
+
+============================================================
+CHUNK 12
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+to  2  days.  The  most  widely  used  serologic  assay  for  dengue  is IgM/IgG enzyme-linked immunosorbent assay (ELISA). A single positive dengue IgM or high-titer IgG can only provide a presumptive diagnosis of dengue. De{nitive serologic diagnosis requires paired  acute  and  convalescent  sera. Anti-DENV IgM antibody levels do not generally become positive until the {fth or sixth day of illness and can be affected by other |avivirus infections (e.g., Japanese encephalitis virus, Zika virus). Therefore the diagnostic sensitivity and speci{city of anti-DENV IgM ELISA assays often depend on the timing of the blood sample, co-circulating |aviviruses in the region, and the manufacturer.
+
+============================================================
+CHUNK 13
+============================================================
+TREATMENT
+No speci{c anti-viral therapies are available for dengue. The vast majority of uncomplicated dengue can be managed on an outpatient basis with rest, oral rehydration solution, and analgesia/antipyretics. The  use  of  aspirin  or  non-steroidal  anti-in|ammatory  drugs (NSAIDs)  should  be  avoided,  as  they  can  exacerbate  platelet dysfunction  and  mucosal  bleeding.  Patients  and  the  parents  of affected  children  should  be  noti{ed  of  the  warning  signs  and symptoms that should prompt an immediate return to medical attention.
+In-hospital management should be arranged for patients with the pre-de{ned warning signs, early evidence of plasma leakage (including narrow pulse pressure), bleeding or severe hematologic abnormalities,  co-morbid  conditions,  or  those  with  unreliable access  to  outpatient  follow-up  care.  For  hospitalized  patients without frank hypotension or shock, the key aspect of supportive therapy is judicious intravascular volume replacement as the critical phase is entered. This is accomplished by the careful administration of  intravenous  isotonic  crystalloid  solutions  (e.g.,  0.9%  saline, Ringer's lactate, Hartmann's solution) with frequent re-assessment of  intravascular  volume  status  and  urine  output.  The  overly aggressive use of intravenous |uids or the failure to adequately monitor therapy can lead to serious complications of |uid overload during the critical phase of illness. T reatment guidelines are shown in Fig. 36.1.2.
+Prophylactic platelet transfusions have not proven to be useful in  dengue  and  should  be  avoided.  Platelet  transfusions  can  be considered  in  patients  with  thrombocytopenia  and  clinically signi{cant hemorrhage. Intramuscular injections, multiple largebore intravenous lines, and diagnostic or prophylactic placement of nasogastric tubes should be avoided, except as needed in the most severe cases. If possible, complicated or unusual severe dengue cases should be transferred to experienced referral centers in the
+Fig. 36.1.2
+Fig. 36.1.2
+area. The case-fatality rate for severe dengue is < 1% with early recognition and appropriate supportive care and management.
+
+============================================================
+CHUNK 14
+============================================================
+PREVENTION
+Dengue prevention can be approached by strategies to minimize human-vector contact and control mosquito-vector populations. Functioning screens and insecticide-treated bed nets for daytime sleeping  (e.g.,  in  infants)  can  reduce  mosquito-vector  contact indoors. Personal measures that afford some protection against the  daytime  biting  habits  of  female A.  aegypti include  wearing clothing  that  minimizes  skin  exposure  and  appropriate  use  of repellants on exposed skin or clothing. Effective repellants should contain N,N-diethyl-3-methylbenzamide (DEET), 3-(N-acetylN-butyl)-aminopropionic acid ethyl ester (IR3535), or 1-piperidinecarboxylic acid, 2-(2-hydroxyethyl)-1-methylpropylester
+(icaridin). 18 At the public health level, a sustained and integrated vector-control strategy is generally needed to consistently reduce A. aegypti population densities. A. aegypti mosquitoes proliferate in many peri-domestic water-containing habitats. These include purposely {lled man-made containers (e.g., water storage barrels, |owerpots/vases), rain-{lled objects (e.g., used tires), and natural habitats (e.g., tree holes).
+
+============================================================
+CHUNK 15
+============================================================
+PREVENTION
+Dengue vaccine development has moved forward with encouraging advances. Given the potential for increased disease severity upon sequential infection with heterologous DENV serotypes, a general consensus has been that effective vaccination strategies will  require  simultaneous  immunization  to  the  four  DENV serotypes (tetravalent vaccines). A chimeric live-attenuated viral vaccine, where the DENVs 1 to 4 envelope proteins have been engineered onto a yellow fever (YF)-17D vaccine backbone,  is licensed in several countries. However, if this vaccine is administered to truly dengue-naïve individuals, it appears to be able to enhance the subsequent disease severity with a natural DENV infection. Another  tetravalent  live-attenuated  dengue  vaccine  (attenuated by a deletion in the DENV2 3' untranslated region [UTR]) is in phase III clinical trials. Other dengue vaccine products that are in  pre-clinical  or  early  clinical  phases  include  an  adjuvanted recombinant envelope protein vaccine, an adjuvanted inactivated virus vaccine, and a plasmid DNA vaccine. The combination of effective  dengue  vaccination  with  vector-control  strategies  will open up the possibility of severely halting, or even eradicating, DENV transmission in many endemic regions.
+
+============================================================
+CHUNK 16
+============================================================
+REFERENCES
+1.  Vasilakis N, Weaver SC. The history and evolution of human dengue emergence. Adv Virus Res 2008;72:1-76.
+2.  Kyle JL, Harris E. Global spread and persistence of dengue. Annu Rev Microbiol 2008;62:71-92.
+3.  Halstead SB. Dengue. Lancet 2007;370:1644-52.
+4.  Cummings DA, Irizarry RA, Huang NE, et al. Travelling waves in the occurrence of dengue haemorrhagic fever in Thailand. Nature 2004;427:34-7.
+
+============================================================
+CHUNK 17
+============================================================
+36.2 Chikungunya Fever
+Ann M. Powers
+
+============================================================
+CHUNK 18
+============================================================
+KEY FEATURES
+- nearly global distribution. Infection is characterized by the abrupt onset of high fever with severe arthralgia and rash.
+- but may result in long-term arthralgia affecting quality of life.
+- consists of treatment for the fever and pain. No vaccine yet exists, but both vaccines and therapeutic options are under development.
+- Aedes aegypti and A. albopictus mosquitoes. Endemic maintenance of the virus is by forest-dwelling Aedes species mosquitoes.
+5.  Rigau-Perez JG, Clark  GG,  Gubler DJ,  et al. Dengue and dengue haemorrhagic fever. Lancet 1998;352:971-7.
+6.  Bhatt S, Gething PW, Brady OJ, et al. The global distribution and burden of dengue. Nature 2013;496(7446):504-7.
+7.  Halstead SB. Pathogenesis of dengue: challenges to molecular biology. Science 1998;239:476-81.
+8.  Nimmannitya S. Dengue hemorrhagic fever: diagnosis and management. In:  Gubler DJ, Kuno G, editors. Dengue and dengue hemorrhagic fever. New York: CAB International; 1997.
+9.  Wills BA, Oragui EE, Dung NM, et al. Size and charge characteristics  of  the  protein  leak  in  dengue  shock  syndrome.  J  Infect  Dis 2004;190:810-18.
+10.  Sabin A. Research on dengue during World War II. Am J Trop Med Hyg 1952;1:30-50.
+11.  Halstead SB. Pathogenesis of dengue: challenges to molecular biology. Science 1988;239:476-81.
+12.  Halstead  SB,  Lan  NT,  Myint  TT,  et al.  Dengue  hemorrhagic fever  in  infants:  research  opportunities  ignored.  Emerg  Infect  Dis 2002;8:1474-9.
+13.  Beltran D, Lopez-Verges S. NK cells during dengue disease and their recognition of dengue virus-infected cells. Front Immunol 2014;5:192.
+
+============================================================
+CHUNK 19
+============================================================
+KEY FEATURES
+14.  Libraty  DH, Wang  P ,  Guo  Z,  et al.  The  pattern  of  adipose  tissue accumulation during early infancy provides an environment for the development  of  dengue  hemorrhagic  fever.  PLoS  Negl  T rop  Dis 2015;9(12):e0004267.
+15.  Rothman AL. Dengue: de{ning protective versus pathologic immunity. J Clin Invest 2004;113(7):946-51.
+16.  Dengue  haemorrhagic  fever:  diagnosis,  treatment,  prevention  and control. 2nd ed. Geneva: World Health Organization; 1997.
+17.  Kalayanarooj  S,  Vaughn  DW,  Nimmannitya  S,  et al.  Early  clinical  and  laboratory  indicators  of  acute  dengue  illness.  J  Infect  Dis 1997;176:313-21.
+18.  World Health Organization. Dengue: guidelines for diagnosis, treatment, prevention and control-new edition. Geneva: World Health Organization; 2009.
+19.  Potts JA, Rothman AL. Clinical and laboratory features that distinguish dengue from other febrile illnesses in endemic populations. T rop Med Int Health 2008;13:1328-40.
+
+============================================================
+CHUNK 20
+============================================================
+INTRODUCTION
+Chikungunya (CHIK) fever is an arboviral disease that is characterized by the rapid onset of high fever, rash, and severe joint pain (Fig. 36.2.1). Its name is derived from the Makonde word meaning 'that which bends up' in reference to the stooped posture that develops as a result of the arthritic symptoms of the disease. The disease is nearly always self-limiting. 1 The causative agent, chikungunya virus (CHIKV), is a single-stranded, positive-sense RNA virus belonging to the family T ogaviridae , genus Alphavirus. Molecular characterization has demonstrated three distinct genotypes (West African, Central/East African, and Asian)  that historically  were  geographically  limited  to  Africa  and  Asia. 2 Recent spread has made the pathogen a nearly  global  concern (Fig. 36.2.2). A zoonotic cycle is known to exist in Africa involving a range of vertebrate hosts, including non-human primates, and  forest-dwelling Aedes  (Stegomyia) mosquitoes.  The  virus  is transmitted to humans primarily by Aedes aegypti and A. albopictus mosquitoes.
+

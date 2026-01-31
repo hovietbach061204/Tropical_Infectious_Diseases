@@ -1,0 +1,223 @@
+============================================================
+CHUNK 0
+============================================================
+Key features
+- 'Travel for transplantation' di2ers from 'transplant tourism', which is driven by commercialism, involves organ tra1cking, diversion of resources, and is associated with greater risks of infection and lower graft survival rates
+- Solid organ transplant (SOT) recipients are less immunocompromised than stem cell transplant (SCT) recipients. The resulting disparities in quality of life and medical problems following transplantation can lead to acquisition of tropical infections during travel
+- Exposure to tropical pathogens depends upon the geography of travel; presenting clinical syndromes are often atypical, since immunosuppression can alter the usual pathogenesis
+- Malaria predominates among tropical pathogens acquired abroad by travelers who have received SCT or SOT
+- Few cases of visceral leishmaniasis have been reported in SCT recipients. Visceral leishmaniasis is well described in SOT recipients and is generally not acquired during travel; infections re3ect the endemicity of leishmaniasis in the recipient's country of origin
+- Acute Chagas disease in the SCT population causes severe illness, while in the immunocompetent host the course is often benign. Most SOT-related cases of Chagas disease have been described in Latin America. Acquisition during transplantation, particularly cardiac transplantation, is well documented
+- Campylobacter infections can result in Guillain-Barré syndrome (GBS) in transplant recipients; immunosuppressive regimens do not prevent this from occurring
+
+============================================================
+CHUNK 1
+============================================================
+INTRODUCTION
+International travel and transplantation present many opportunities for acquisition of tropical diseases. These include infections related to trafficked organs,  those acquired  during  transplantation, and  infections  among  post-transplant  recipients  who  are  immunocompromised by drugs used to prevent transplant rejection.
+The  Istanbul  Declaration  on  Organ  Trafficking  and  Transplant Tourism  (2008)  provides  useful  guidance  and  information.  The
+
+============================================================
+CHUNK 2
+============================================================
+Neha Nanda, Frank J Bia
+Declaration  distinguishes  between  'travel  for  transplantation'  and 'transplant tourism' . When organs, donors, recipients, or professionals  move across jurisdictional borders,  it  is  designated  as  travel for transplantation, which may be justified. When organ trafficking, commercialism, and diversion of resources undermine the ability of a host country  to  provide  transplant  services  for  its  own  population,  it becomes unethical transplant tourism (Table 152-1) [1,2].
+
+============================================================
+CHUNK 3
+============================================================
+TRANSPLANT TOURISM
+The  Istanbul  Declaration  is  curtailing  such  practices,  but  risks  for donors and recipients persist, particularly for recipient acquisition of serious tropical diseases under conditions of immunosuppression.
+Stem cell transplants occurring among medical tourists have resulted in a recipient brain tumor from unproven neural stem cell therapy performed in Moscow, and meningitis from stem cell transplants in China for spinal cord injuries [3]. Graft survival rates are lower and infection rates are generally higher among transplant tourists. Kidney is the most common organ procured through transplant tourism. At UCLA,  17  of  33  (52%)  recipients  who  received  the  organ  from another country experienced post-transplant infections requiring hospitalization [2]. One recipient acquired hepatitis B and died of multiorgan failure [4]. Given the long waiting list for organ transplantation in the US, and challenges involved in regulating the practice of transplant tourism, it is reasonable to expect a rise in tropical infections occurring in transplant recipients.
+In 2008, a total of 27,966 solid organ transplants were performed in the US, of which two-thirds were from deceased donors. There were approximately 16,000 kidney transplants and 6000 liver transplants. In  Europe during the same year, about 4000 liver transplants were done. The median wait time for liver transplantation in the US varies from 76 days to 459 days. In 2008, about 400 patients with acute myelogenous leukemia (AML) underwent transplantation and 3500 patients with multiple myeloma [5-7]. Worldwide, organ trafficking and transplant tourism account for about 10% of annual organ transplants, providing ample opportunity for the acquisition of unrecognized tropical diseases and reactivation of latent infections from the donated organ [1].
+This chapter focuses upon travelers who have undergone transplantation under ideal circumstances, who then visit areas where tropical diseases  remain  endemic.  How  do  such  travelers  fare  when  they receive pharmaceutical agents designed to prevent organ rejection and are exposed to tropical agents whose pathogenesis may be altered by immunosuppression? Infections may become more pathogenic, and clinically unrecognizable, even to experienced clinicians.
+
+============================================================
+CHUNK 4
+============================================================
+DEGREES OF IMMUNOSUPPRESSION
+In the last 20 years, new immunomodulating agents have been introduced for induction and maintenance of immunosuppression in a transplant recipient (Table 152-2) [8-13]. These include tacrolimus and  cyclosporine,  which  are  calcineurin  inhibitors;  corticosteroids
+152
+that  inhibit  multiple  cytokines;  sirolimus,  an  (mTOR)  inhibitor  of mammalian rapamycin affecting cellular protein synthesis; mycophenolate  mofetil,  an  antimetabolite;  daclizumab  and  basiliximab, antibodies directed against interleukin-2; and alemtuzumab or thymoglobulin, with antibodies directed against T and B lymphocytes. As a result of potent therapies, the rate of graft survival and quality of life after transplantation have improved. In kidney transplant recipients,  1-year  graft  survival  now  approaches  95%  and  incidence  of rejection at 1 year is only 15%. The quality of life for organ recipients 10 years after liver transplantation is generally good. Multiple studies have shown long-term improvement in quality of life after allogeneic stem cell transplantation [14-16].
+Immunosuppressive therapy started immediately after  transplant is more potent and  is  referred  to  as  induction  therapy.  This  regimen generally consists of thymoglobulin, alemtuzumab, daclizumab, or basiliximab. Lifetime maintenance immunotherapy is less potent and consists of calcineurin inhibitors, mTOR inhibitors, and steroids. In the setting of acute rejection, more potent agents like rituximab, an anti-CD20 antibody, and intravenous corticosteroids are employed. Most of these agents are associated with increased susceptibility  to
+TABLE 152-1 DiHerences Between 'Travel for Transplant' and 'Transplant Tourism'
+infection (Table 152-2). In stem cell transplantation (SCT), conditioning  with  total  body  irradiation  eradicates  disease  and  reduces  the likelihood of early rejection.
+
+============================================================
+CHUNK 5
+============================================================
+DEGREES OF IMMUNOSUPPRESSION
+SCT recipients are the most immunosuppressed. As a result of conditioning therapy and graft-versus-host disease (GVHD), cutaneous and mucosal  breakdown,  neutropenia,  lymphopenia,  hypogammaglobinemia, and loss of immune memory occur. Following engraftment, SCT recipients inherit their donor's hematopoietic profile. Solid organ transplant  (SOT)  recipients are  less  immunocompromised.  Among SOT recipients, kidney transplant recipients require relatively minimal immunosuppression, liver and heart require moderate amounts, and small bowel and lung require higher levels.
+
+============================================================
+CHUNK 6
+============================================================
+IMMUNOSUPPRESSION AND TROPICAL DISEASES
+There are very few case reports or series on tropical infections in the SCT recipient: tuberculosis in endemic areas, asymptomatic Chagas disease, and toxoplasmosis. In contrast, there are numerous reports, case series, and reviews of tropical infections in the SOT recipient. This disparity is partially a result of variations in the quality of life (QOL), including opportunities for travel, within each subgroup. In SOT, there is improvement in QOL [14,17]. However, in SCT, there is a reduction in QOL until year 1 post-transplant; 60% reported improvement in QOL by year 1, but 25% reported ongoing medical problems.
+Movement of organs, donors, recipients, or transplant professionals across jurisdictional borders for transplantation, which may be justiFed, Transplant tourism = Practice of transplantation during which transplant resources are diverted to a recipient from another country. The interests of the residents of the host country are therefore undermined. Patients' interests are Frst priority, Transplant tourism = Driven largely by commercialism and monetary gain. Ethical practices in organ acquisition, Transplant tourism = Unethical practices such as organ traGcking
+
+============================================================
+CHUNK 7
+============================================================
+DISEASE DISTRIBUTION IN RETURNING TRAVELERS
+In a cross-sectional survey of 2554 SOT recipients at the Mayo Clinic, 27% of the recipients reported travel outside of the US and Canada after their transplant. Ninety-six percent of the travelers did not seek medical care prior to  travel;  8% required  medical attention due  to illness [18]. Pre-travel counseling and vaccination can help in reducing morbidity in this population. Generally, SOT recipients are urged to delay travel until 3-6 months following transplant. Detailed information about pre-travel advice has been published [19,20].
+Relevant data on all traveler types are available from approximately 30 GeoSentinel sites on six continents. However no database similar to that of the GeoSentinel network exists for transplant recipients. The
+
+TABLE 152-2 Immunosuppressive Agents Used in Transplantation
+
+============================================================
+CHUNK 8
+============================================================
+DISEASE DISTRIBUTION IN RETURNING TRAVELERS
+Alemtuzumab [8,9], Trade name = Campath, MabCampath. Alemtuzumab [8,9], Mechanism = Humanized monoclonal antibody directed against CD52, a glycoprotein expressed on B and T lymphocytes, monocytes, and natural killer cells. Alemtuzumab [8,9], Use = 1. B-cell lymphoid leukemia 2. For induction and maintenance of acute rejection after SOT. Alemtuzumab [8,9], Impact on infections = Increases risk of CMV infection and BK virus nephropathy. Mycophenolate mofetil (MMF) [10,11], Trade name = Cellcept. Mycophenolate mofetil (MMF) [10,11], Mechanism = Inhibitor of IMPDH enzyme, resulting in inhibition of both T and B cells. Mycophenolate mofetil (MMF) [10,11], Use = Maintenance immunosuppression after SOT and SCT. Mycophenolate mofetil (MMF) [10,11], Impact on infections = Increases risk of bacterial infections compared to calcineurin inhibitors and increases risk of CMV infection. Calcineurin inhibitors - cyclosporine (CsA) and tacrolimus (TAC) [12], Trade name = CsA - Gengraf, Neoral, Restasis, Sandimmune TAC - Prograf. Calcineurin inhibitors - cyclosporine (CsA) and tacrolimus (TAC) [12], Mechanism = Blocks transcription of cytokines responsible for T-cell activation by inhibiting calcineurin. Calcineurin inhibitors - cyclosporine (CsA) and tacrolimus (TAC) [12], Use = Same as MMF. Calcineurin inhibitors - cyclosporine (CsA) and tacrolimus (TAC) [12], Impact on infections = Increases risk of BK virus nephropathy when TAC used with MMF. Sirolimus [13], Trade name = Rapamune. Sirolimus [13], Mechanism = Inhibits T-cell activation and proliferation. Sirolimus [13], Use = Same as MMF and also
+
+============================================================
+CHUNK 9
+============================================================
+DISEASE DISTRIBUTION IN RETURNING TRAVELERS
+used in drug-eluting coronary stents. Sirolimus [13], Impact on infections = Reduces risk of CMV reactivation compared to TAC. IMDPH, inosine-5 ′ -monophosphate dehydrogenase., Trade name = IMDPH, inosine-5 ′ -monophosphate dehydrogenase.. IMDPH, inosine-5 ′ -monophosphate dehydrogenase., Mechanism = . IMDPH, inosine-5 ′ -monophosphate dehydrogenase., Use = . IMDPH, inosine-5 ′ -monophosphate dehydrogenase., Impact on infections = 
+reader is referred to a review article by Franco-Paredes et al. detailing three  categories  of  tropical  infections  in  transplant  patients:  those related to donor, to the recipient, and to de novo acquisition [20].
+Approximately 8% of all travelers need medical care during or following  travel,  regardless  of  their  immunologic  status.  Diagnoses  that contributed  to  death  in  travelers  included  severe  and  complicated malaria, pulmonary embolism, pneumonia, and pyogenic abscesses. Among the more than 17,000 patients reported via the GeoSentinel network from June 1996 through August 2004, most were seen for illness  within  a  month  of  travel  [21].  Diagnoses  for  67%  of  these travelers  fell  into  four  major  syndrome  categories:  systemic  febrile illnesses, acute diarrhea, dermatologic disorders, and chronic diarrhea. This classification is of epidemiologic value in predicting disease in transplant patients.
+
+============================================================
+CHUNK 10
+============================================================
+MALARIA
+Malaria is the most likely tropical disease acquired abroad by travelers who previously received SCT or SOT, as it is for all travelers.
+
+============================================================
+CHUNK 11
+============================================================
+MALARIA IN STEM CELL AND SOLID ORGAN TRANSPLANT RECIPIENTS
+There are few case reports of malaria in stem cell recipients. A 20-yearold Bangladeshi woman successfully underwent autologous SCT for acute  myelogenous  leukemia.  She  received  the  transplant  in  Italy. Within a week after her transplant, she developed fevers in the setting of neutropenia. Despite recovery of her neutrophil counts, and treatment with broad-spectrum antimicrobials, fevers continued. A peripheral blood smear showed 4% Plasmodium vivax parasitemia. Within 48 hours of initiation of antimalarial therapy, fevers resolved. Infection was presumed to be a recrudescence of a primary vivax malaria [22].
+A  20-year-old  Indian  man  who  underwent  an  allogeneic  SCT  for chronic  myeloid  leukemia  in  India,  had  a  subtle  presentation  of malaria. Although the patient engrafted, he had continued pancytopenia, and 70 days following transplant he developed splenomegaly and  persistent  pancytopenia  despite  a  bone  marrow  examination showing good cellularity. He had P. vivax on peripheral blood smear. Following malaria treatment, his blood counts normalized and the spleen reduced in size. In retrospect, he gave a history of malaria 5 years prior to transplant [23]. Based on limited reports, vivax appears to  be  the  most  common  species  in  SCT  recipients.  The  prolonged latency of vivax hypnozoites make recrudescence feasible.
+Literature and data on SOT recipients who have acquired malaria de novo are minimal. Rather, acquisition of malaria infection during SOT appears  to  occur  through  infected  blood  products  or  transplanted organs. Most of the nearly 50 cases of malaria in SOT recipients have involved  renal  transplant  patients  [24],  likely  reflecting  their  larger numbers; a majority were caused by P. falciparum . Most had favorable outcomes; however,  some  deaths  have  occurred  with P.  falciparum . Case data are insufficient to allow description of pathogenesis, levels of parasitemia and response to antimalarial therapy in SOT recipients who acquired malaria independent of transplantation.
+
+============================================================
+CHUNK 12
+============================================================
+LEISHMANIASIS IN STEM CELL AND SOLID ORGAN TRANSPLANT RECIPIENTS
+Among SCT recipients, at least two individuals have developed visceral leishmaniasis as a result of de novo infection. One report describes a  57-year-old  man  who  developed  fevers  66  weeks  after  he  had received a peripheral blood SCT in France [25]. It was complicated by GVHD, and treated with antithymoglobulin, anti-CD25 monoclonal antibody, and mycophenolate mofetil. One year following successful treatment  of  nodular  pulmonary  aspergillosis,  fevers  recurred  and serum antibodies to Leishmania were detected. Amastigotes were seen in bone marrow; blood and bone marrow cultures showed L. infantum promastigotes. Retrospective analysis revealed that during the first
+febrile  episode,  asymptomatic  circulation  of Leishmania occurred. Prior to the second episode of fever, there was active infection. Pretransplant donor and recipient blood did not show Leishmania organisms or antibodies. Acquisition of visceral leishmaniasis was attributed to  a  sandfly  bite  a  few  weeks  before  his  initial  presentation.  Fever abated after restarting therapy with amphotericin B, followed by an uneventful course at 1 year [25].
+A 59-year-old male in the Netherlands presented with cytomegalovirus (CMV) and Epstein-Barr virus (EBV) reactivation 3 months after receiving an HLA-matched SCT. He had no constitutional symptoms and his physical examination was unremarkable, but he was pancytopenic. Amastigotes of L. infantum were observed on bone marrow biopsy  and  in  peripheral  blood.  No  antibodies  against Leishmania were detected in peripheral blood. Pre-transplant donor and recipient sera  were  antibody-negative.  The  patient  had  traveled  to  southern France,  where  leishmaniasis  is  endemic,  4  weeks  before  the  transplant.  He  received  liposomal  amphotericin B,  resulting  in  negative blood smears and bone marrow [26].
+
+============================================================
+CHUNK 13
+============================================================
+LEISHMANIASIS IN STEM CELL AND SOLID ORGAN TRANSPLANT RECIPIENTS
+More than 60 cases of visceral leishmaniasis have been described in SOT recipients; the vast majority had received renal transplants [24]. Most  were not acquired  during  travel,  but  reflected  endemicity  of leishmaniasis in the recipients' country of origin. Clues to the development  of  visceral  leishmaniasis  in  this  population  include  fever, hepatomegaly, and splenomegaly. Approximately 50% can show pancytopenia. Symptoms may be atypical due to immunosuppression, and diagnosis can be delayed.
+Antibody detection tests such as the rk39-based immunochromatographic test have shown promise in the diagnosis of visceral leishmaniasis  in  endemic  areas  and  can  assist  in  the  early  diagnosis  in  a returning  transplant  recipient  as  well.  However,  these  diagnostic modalities have yet to be studied in this group of individuals [27].
+
+============================================================
+CHUNK 14
+============================================================
+CHAGAS DISEASE (AMERICAN TRYPANOSOMIASIS) IN STEM CELL AND SOLID ORGAN TRANSPLANT RECIPIENTS
+Presentations of Chagas disease in SCT recipients range from asymptomatic parasitemia to fulminant fatal disease. Asymptomatic parasitemia can occur with reactivation of latent infection in individuals from endemic areas. A patient from northern  Argentina  developed parasitemia  3  months  after  allogeneic  SCT.  During  a  presentation with  pneumococcal  bacteremia,  asymptomatic Trypanosoma  cruzi infection was detected in blood cultures. Treatment achieved a favorable outcome [28].
+A 31-year-old male with chronic Chagas disease was found to have asymptomatic circulating trypomastigotes and neutropenia following conditioning therapy 4 days prior to SCT. He underwent successful transplantation and treatment for Chagas, with no evidence of reactivation of T. cruzi at 4 years [29].
+Acute  disseminated  Chagas  disease  acquired de  novo can  present during episodes of severe immunosuppression. A 25-year-old male developed  fever  and  neuropsychiatric  symptoms  approximately  10 days after an unrelated cord blood transplant. One month after transplantation, T.  cruzi was  observed  in  peripheral  blood  and  bone marrow. Despite antiparasitic therapy, his decline was rapid. Autopsy showed T.  cruzi myocarditis and encephalitis. In retrospect, his pretransplant evaluation had shown pancytopenia with diffuse ST-T wave changes and abnormal Q waves on the electrocardiogram [30].
+A 20-year-old man developed acute Chagas disease after allogeneic SCT, possibly via infected blood products. Three months following his transplant, fever, weakness, and generalized edema occurred with a normal neurologic examination. Hypogammaglobinemia was present and trypomastigotes were observed in peripheral blood and cerebrospinal fluid (CSF) with an otherwise normal CSF analysis. Therapy was initiated, but he developed bacteremia and shock and died [31].
+
+============================================================
+CHUNK 15
+============================================================
+CHAGAS DISEASE (AMERICAN TRYPANOSOMIASIS) IN STEM CELL AND SOLID ORGAN TRANSPLANT RECIPIENTS
+Most SOT-related cases of Chagas disease have been described in Latin America;  reactivation  does  not  occur  in  all  patients  who  undergo immunosuppression  [24,32].  Acquisition  during  transplantation, particularly cardiac transplantation is well documented, and travel for transplantation represents the most likely source of Chagas disease. Donors from areas of high endemicity such as Latin America require careful screening to prevent transmission and subsequent reactivation in the immunosuppressed recipient. Cardiac transplantation utilizing the heart of a patient with chronic infection is considered an absolute contraindication since chagasic myocarditis can readily evolve during periods of immunosuppression.
+
+============================================================
+CHUNK 16
+============================================================
+STRONGYLOIDIASIS IN STEM CELL AND SOLID ORGAN TRANSPLANT RECIPIENTS
+Strongyloidiasis in SCT presents as a hyperinfection syndrome that is often fatal. Frequently a result of a subclinical S. stercoralis infection prior to transplantation in SOT recipients, the disease usually occurs within the first 3 months after transplantation. In SCT, it can have an earlier presentation [33].
+Two people with SCT developed hyperinfection syndrome with alveolar hemorrhage. A 52-year-old man from Puerto Rico, who had undergone an autologous SCT in the US for advanced follicular lymphoma, presented 24 days after SCT with acute-onset abdominal pain, nausea, and vomiting. Duodenal biopsy showed acute inflammation with S. stercoralis larvae  and  rare  CMV  inclusions.  Stools  were  negative  for larvae. Eosinophilia had been observed 3 months prior to the transplant.  Initial  improvement  occurred  following  administration  of ivermectin,  thiabendazole,  phosphonoformate  (Foscarnet®),  and ganciclovir. However, his course was complicated by pneumonia and bacteremia.  On  bronchoalveolar  lavage, S. stercoralis larvae  were detected. He died in septic shock with alveolar hemorrhage [34].
+A 44-year-old woman residing in Florida with acute myelomonocytic leukemia had intermittent eosinophilia. Two days following myeloablative  conditioning  and  allogeneic  SCT,  she  developed  fever, hypotension, bilateral pulmonary infiltrates,  and  bacteremia. Bronchoalveolar lavage showed S. stercoralis larvae and she received ivermectin and immunosuppression reduction. Stools were negative for larvae before and after transplantation. Eleven days into her illness, she died despite therapy [35].
+For  SOT  recipients,  travel  for  transplantation  again  represents  the most  likely  scenario  for  acquisition  of  infection  [24].  This  may be  particularly  true  for  pancreatic  transplantation  where  a  portion of the infected duodenum can carry larvae. Patients who are immunosuppressed  following  SOT  and  acquire  a  new  infection  are  at similar risk.
+
+============================================================
+CHUNK 17
+============================================================
+CAMPYLOBACTER INFECTIONS IN STEM CELL AND SOLID ORGAN TRANSPLANT RECIPIENTS
+Campylobacter jejuni is the agent most frequently associated with Guillain-Barré  syndrome (GBS). Reports of C. jejuni in SCT recipients are sparse. Campylobacteriosis varies from asymptomatic bacteremia to symptomatic  enteritis  with  or  without  bacteremia.  None  of  the reported cases of C. jejuni infection were attributed to either recent or remote history of travel in this group [36].
+Among SOT recipients there are few reports of C. jejuni infection or associated GBS; it is far more likely to occur following CMV infection. In 1998, Maccario et al. reported a case of high-grade bacteremia in a renal transplant recipient nearly 200 days following transplantation [37]. Immunosuppression did not prevent detection of IgM antibody production directed against GM1 ganglioside and subsequent GBS. In 2002, Colle et al. reported Campylobacter fetus infection and subsequent  GBS  70  days  following  liver  transplantation  [38].  They  suggested  that  GBS  and  subsequent  clinical  recovery  were  largely mediated  by  autoimmune  antibody  production  that  was  largely unaffected by transplant immunosuppression directed at T cells. In 2005, Toussaint et al. reported a severe case of CMV-associated colitis and vasculitis [39]. In this case Campylobacter -induced inflammatory cytokine production could have led to CMV reactivation.
+In summary, travel to endemic regions can place transplant recipients at risk of tropical infections during their chronic immunosuppression (Tables 152-3 & 152-4). However, transplant tourism within facilities
+TABLE 152-3 Tropical Infections Occurring in Stem Cell Transplant Recipients*
+
+Systemic febrile illness, Outcome = . Malaria, Outcome = Cured. Leishmaniasis, Outcome = Cured. Chagas disease, Outcome = Some cases are fatal. Disseminated infection, Outcome = . Strongyloidiasis, Outcome = Often fatal. Toxoplasmosis, Outcome = Often fatal. Asymptomatic infection, Outcome = . Chagas disease, Outcome = Cured
+*Data obtained from case reports only; estimates for the frequency of each disease in this population are not available.
+
+============================================================
+CHUNK 18
+============================================================
+CAMPYLOBACTER INFECTIONS IN STEM CELL AND SOLID ORGAN TRANSPLANT RECIPIENTS
+TABLE 152-4 Tropical Infections Occurring in Solid Organ Transplant Recipients
+
+Systemic febrile illness, Frequency = . Systemic febrile illness, Outcomes = . Malaria, Frequency = At least 45 cases have been reported [24]; most have occurred in renal transplant recipients. Malaria, Outcomes = Majority were cured. Leishmaniasis, Frequency = At least 60 cases have been reported; most have occurred in renal transplant recipients. Leishmaniasis, Outcomes = Cured. Disseminated infection, Frequency = . Disseminated infection, Outcomes = . Strongyloidiasis, Frequency = At least 63 cases have been reported. Strongyloidiasis, Outcomes = Often fatal. Histoplasmosis, Frequency = 1 case per 1000 transplant person years in endemic areas. Histoplasmosis, Outcomes = Cured. Asymptomatic infection, Frequency = . Asymptomatic infection, Outcomes = . Chagas disease, Frequency = Varies, depending on the endemic area. Chagas disease, Outcomes = Cured
+located in endemic regions for tropical diseases, where either blood transfusions or organs may already be infected with tropical pathogens, is of equal or greater importance. Atypical presentations, widespread systemic illness and delayed diagnoses are likely to occur under both circumstances.
+
+============================================================
+CHUNK 19
+============================================================
+REFERENCES
+1. Delmonico FL. The implications of Istanbul Declaration on organ trafficking and transplant tourism. Current Opin Organ Transplant 2009;14:1 16-19.
+2. Delmonico FL. The hazards of transplant tourism. Clin J Am Soc Nephrol 2009;4:249-50.
+3. Barclay  E.  Stem-cell  experts  raise  concerns  about  medical  tourism.  Lancet 2009;373:883-4.
+4. Gill J, Madhira BR, Gjertson D, et al. Transplant tourism in the United States: a single-center experience. Clin J Am Soc Nephrol 2008;3:1820-8.
+5. OPTN. http://optn.transplant.hrsa.gov/latestData/rptData.asp
+6. European Liver Transplant Registry. http://www.eltr.org/spip.php?article146
+7. Bone  Marrow  and  Cord  Blood  Donation  and  Transplantation.  http:// bloodcell.transplant.hrsa.gov/RESEARCH/Transplant_Data/US_Tx_Data/ Data_by_Disease/national.aspx
+8. Peleg  AY,  Husain  S,  Kwak  EJ,  et  al.  Opportunistic  infections  in  547  organ transplant  recipients  receiving  alemtuzumab,  a  humanized  monoclonal CD-52 antibody. Clin Infect Dis 2007;44:204-12.
+9. Park  SH,  Choi  SM,  Lee  DG,  et  al.  Infectious  complications  associated with  alemtuzumab use for allogeneic  hematopoietic  stem  cell  transplantation: comparison with anti-thymocyte globulin. Transpl Infect Dis 2009;11:413-23.
+10.  Hanvesakul R, Kubal C, Jham S, et al. Increased incidence of infections following the late introduction  of mycophenolate  mofetil  in  renal  transplant recipients. Nephrol Dial Transplant 2008;23:4049-53.
+11. Ritter  ML,  Pirofski  L.  Mycophenolate  mofetil:  effects  on  cellular  immune subsets,  infectious  complications, and  antimicrobial  activity. Transpl  Infect Dis 2009;11:290-7.
+
+============================================================
+CHUNK 20
+============================================================
+REFERENCES
+12.  Binet I, Nickeleit V, Hirsch HH, et al. Polyomavirus disease under new immunosuppressive drugs: a cause of renal graft dysfunction and graft loss. Transplantation 1999;67:918-22.
+13.  Haririan A, Morawski K, West MS, et al. Sirolimus exposure during the early post-transplant period reduces the risk of CMV infection relative to tacrolimus in renal allograft recipients. Clin Transplantat 2007;21:466-71.
+14.  Zand  MS.  Immunosuppression  and  immune  monitoring  after  renal  transplantation. Semin Dial 2005;18:511-19.
+15.  Desai R, Jamieson NV, Gimson AE, et al. Quality of life up to 30 years following liver transplantation. Liver Transpl 2008;14:1473-9.
+16.  Pidala J, Anasetti C, Jim H. Quality of life after allogeneic hematopoietic cell transplantation. Blood 2009;1 14:7-19.
+17.  Kawagishi N, Takeda I, Miyagi S, et al. Quality of life and problems affecting recipients more than 10 years after living donor liver transplantation. Transplant Proc 2009;41:236-7.
+18.  Uslan DZ, Patel R, Virk A. International travel and exposure risks in solidorgan transplant recipients. Transplantation 2008;86:407-12.
+19.  Kotton CN, Ryan ET, Fishman JA. Prevention of infection in adult travelers after solid organ transplantation. Am J Transplant 2005;5:8-14.
+20.  Franco-Paredes  C,  Jacob  JT,  Hidron  A,  et  al.  Transplantation  and  tropical infectious diseases. Int J Infect Dis 2010;14:e189-96.
+21.  Freedman  DO,  Weld  LH,  Kozarsky  PE,  et  al.  Spectrum  of  disease  and relation  to  place  of  exposure  among  ill  returned  travelers.  N  Engl  J  Med 2006;354:119-30.
+22. This is an important summary of the epidemiology of travel-related infections based upon  clinical  surveillance  data  obtained  in  over  17,000  ill  returning  travelers reported through 30 GeoSentinel sites on six continents.
+
+============================================================
+CHUNK 21
+============================================================
+REFERENCES
+22.  Salutari P, Sica S, Chiusolo P, et al. Plasmodium vivax malaria after autologous bone marrow transplantation: an unusual complication. Bone Marrow Transplant 1996;18:805-6.
+23.  Raina V, Sharma A, Gujral S, Kumar R. Plasmodium vivax causing pancytopenia after allogeneic blood stem cell transplantation in CML. Bone Marrow Transplant 1998;22:205-6.
+24.  Martin-Davila P, Fortun J, Lopez-Velez R, et al. Transmission of tropical and geographically restricted infections during solid-organ transplantation. Clin Microbiol Rev 2008;21:60-96.
+26. This  article  represents  an  important  comprehensive  summary  of  tropical  disease acquisition and presentations in the population of patients who have received solid organ transplants. The issues of diseases acquired during transplantation versus those encountered during travel following transplantation are well discussed.
+25.  Sirvent-von Bueltzingsloewen A, Marty P, Rosenthal E, et al. Visceral leishmaniasis: a new opportunistic infection in hematopoietic stem-cell-transplanted patients. Bone Marrow Transplant 2004;33:667-8.
+26.  Agteresch HJ, van 't Veer MB, Cornelissen JJ, Sluiters JF. Visceral leishmaniasis after allogeneic hematopoietic stem cell transplantation. Bone Marrow Transplant 2007;40:391-3.
+27.  Chappuis F, Sundar S, Hailu A, et al. Visceral leishmaniasis: what are the needs for diagnosis, treatment and control? Nature Rev 2007;5:873-82.
+28.  Altclas J, Sinagra A, Jaimovich G, et al. Reactivation of chronic Chagas' disease following allogeneic bone marrow transplantation and successful pre-emptive therapy with benznidazole. Transpl Infect Dis 1999;1:135-7.
+29.  Dictar M, Sinagra A, Veron MT, et al. Recipients and donors of bone marrow transplants  suffering  from  Chagas'  disease:  management  and  preemptive therapy of parasitemia. Bone Marrow Transplant 1998;21:391-3.
+
+============================================================
+CHUNK 22
+============================================================
+REFERENCES
+30.  Fores R, Sanjuan I, Portero F, et al. Chagas disease in a recipient of cord blood transplantation. Bone Marrow Transplant 2007;39:127-8.
+31.  Villalba R, Fornes G, Alvarez MA, et al. Acute Chagas' disease in a recipient of a  bone  marrow  transplant  in Spain: case report. Clin Infect Dis 1992;14:594-5.
+34. This represents a very well-written and -documented clinical presentation of acute Chagas disease after an allogeneic bone marrow transplantation.
+32.  Centers  for  Disease  Control  and  Prevention  (CDC).  Chagas  disease  after organ transplantation - United States, 2001. MMRW Morb Mortal Wkly Rep 2002;51:210-12.
+33.  Roxby  AC,  Gottlieb  GS,  Limaye  AP.  Strongyloidiasis  in  transplant  patients. Clin Infect Dis 2009;49:1411-23.
+37. The  authors  have  compiled  all  strongyloidiasis  cases  in  SCT  and  SOT  recipients. They provide an excellent summary of clinical presentations, timing of appearance, and outcomes, along with prevention strategies in this population.
+34.  Gupta S, Jain A, Fanning TV, et al. An unusual cause of alveolar hemorrhage post  hematopoietic  stem  cell  transplantation:  a  case  report.  BMC  Cancer 2006;6:87.
+35.  Wirk B, Wingard JR. Strongyloides stercoralis hyperinfection in hematopoietic stem cell transplantation. Transpl Infect Dis 2009;1 1:143-8.
+36.  Lau  SK,  Woo  PC,  Leung  KW,  Yuen  KY.  Emergence  of  cotrimoxazole-  and quinolone-resistant Campylobacter infections  in  bone  marrow  transplant recipients. Eur J Clin Microbiol Infect Dis 2002;21:127-9.
+37.  Maccario M, Tarantino A, Nobile-Orazio E, Ponticelli C. Campylobacter jejuni bacteremia  and  Guillain-Barre  syndrome  in  a  renal  transplant  recipient. Transpl Int 1998;11:439-42.
+
+============================================================
+CHUNK 23
+============================================================
+REFERENCES
+38.  Colle I, Van Vlierberghe H, Troisi R, et al. Campylobacter -associated GuillainBarre syndrome after orthotopic liver transplantation for hepatitis C cirrhosis: a case report. Hepatol Res 2002;24:205.
+39.  Toussaint  N,  Goodman  D,  Langham  R,  et  al.  Haemorrhagic Campylobacter jejuni and CMV colitis in a renal transplant recipient. Nephrol Dial Transplant 2005;20:823-6.
+

@@ -1,0 +1,221 @@
+============================================================
+CHUNK 0
+============================================================
+Key features
+- Tularemia is a rare zoonosis caused by the Gram-negative bacterium Francisella tularensis , including subspecies tularensis (type A) and subsp. holarctica (type B)
+- The disease is restricted to the northern hemisphere and the more virulent type A strains are mainly found in North America
+- A wide spectrum of animal species are susceptible to F. tularensis infection, but lagomorphs and small rodents are responsible for most human infections. Humans become infected through direct contact with infected animals, through the bite of an arthropod, or after exposure to an infected environment
+- Tularemia is often a systemic disease with potential spread of bacteria to the whole reticuloendothelial system as a result of the intracellular lifestyle of F. tularensis , which can multiply within phagocytic cells, such as macrophages
+- Six main syndromes are recognized based on the bacteria's portal of entry: the ulceroglandular and glandular forms (skin); the oculoglandular form (conjunctival mucosa); the oropharyngeal and digestive form (digestive mucosa) the pneumonic form (respiratory mucosa); and the typhoidal form (severe systemic disease usually with undetermined portal of entry)
+- Although usually benign, tularemia may evolve to be a chronic, disabling, and even fatal, disease. The high mortality rate of the pneumonic form of tularemia explains the potential use of F. tularensis for biological warfare and bioterrorism
+- Patients with tularemia should be treated with -uoroquinolone or doxycycline, or gentamicin in severely diseased patients
+- There is no commercially available vaccine available in the USA to prevent tularemia
+
+============================================================
+CHUNK 1
+============================================================
+INTRODUCTION
+Francisella tularensis (initially named as Bacterium tularense ), a fastidious, Gram-negative, facultative intracellular Coccobacillus was first isolated by McCoy and Chapin from ground squirrels in 191 1 in Tulare County (California, USA) and then from a human case of tularemia in  1914  by  Wherry  and  Lamb  (Ohio,  USA)  [1].  The  name  of  the bacterium emphasizes the contribution made by Edward Francis in the early 20th century to improving the knowledge of the medical,
+
+============================================================
+CHUNK 2
+============================================================
+Max Maurin
+epidemiologic and diagnostic aspects of tularemia. Today's renewed medical interest in tularemia stems from the potential use of F. tularensis as a bioterrorism agent (Centers for Disease Control and Prevention [CDC] class A) [2]. Tularemia is currently a notifiable disease in many developed countries.
+Tularemia is not normally found in the tropics or the southern hemisphere  [3].  Two F.  tularensis subspecies  are  responsible  for  human infections: subsp. tularensis (type  A)  mainly in North  America, and subsp. holarctica (type  B)  throughout  the  northern  hemisphere. Contact with infected animals, tick bites and exposure to contaminated environments are the usual mode of infection in humans. In endemic areas, farmers, hunters, trappers, veterinarians, forest workers, and recreational users of the forest are particularly at risk of acquiring tularemia.  The  disease  is  usually  of  mild  severity,  but  it  may  be chronic,  debilitating  and  occasionally  fatal, especially  when  type A strains are involved. The spread of F. tularensis ,  whether intentional (bioterrorism) or not (e.g. importation of animals for hunting), in endemic or non-endemic areas is an ongoing public health threat.
+
+============================================================
+CHUNK 3
+============================================================
+EPIDEMIOLOGY
+Tularemia is restricted to the northern hemisphere and predominates in  North  America,  Russia,  Scandinavia,  and  Japan  (Fig.  73.1)  [3]. However, the incidence and geographic distribution of human infections have recently increased, and unusual tularemia outbreaks have occurred in Bulgaria, Kosovo, and Turkey, but also Spain and probably northern Portugal [4, 5] - two previously non-endemic countries.
+Both type A and, to a lesser extent, type B strains of F. tularensis cause human tularemia in North America. In the USA, most reported cases occur in mid-western states (Arkansas, Missouri, South Dakota, and Oklahoma) and in Massachusetts (particularly on Martha's Vineyard Island);  cases  have  never  been  reported  in  Hawaii.  Among  type  A strains, the genotype AI (or A-east) has been found in the mid-west, California, Maryland,  and Massachusetts,  whereas genotype AII (or A-west) has been reported in California, Nevada, Utah, and Wyoming [6]. Further genotypes have been recently described (A1a, A1b, A2a, and A2b) [7].
+Only  type  B  strains  are  responsible  for  human  tularemia  cases  in Eurasia. In Europe, tularemia is now endemic in all countries except Iceland and the UK [8]. Classically, type B strains belong to biovar I (erythromycin-susceptible)  in  Western  Europe  and  North  America and to biovar II (erythromycin-resistant) in Eastern Europe and Asia. Type B strains found in Japan are genetically different and may be a new subspecies. Francisella tularensis subsp. mediasiatica has only been isolated in animals in central Asia. Recently, type A1 strains close to the American laboratory Schu4 strain have been isolated in arthropods and rodents in Slovakia and Austria.
+Francisella  tularensis can  infect  mammals, birds,  amphibians,  fishes, and invertebrate animals [9]. Lagomorphs (rabbits, hares) and small rodents (e.g. voles, mice, squirrels, muskrats, prairie dogs, and beavers) are  considered  major  enzootic  reservoirs  of F.  tularensis ;  domestic animals  and  pets  (cats,  hamsters)  are  occasionally  infected.  Many arthropods  may  serve  as  vectors  for  transmission  of F.  tularensis to
+
+============================================================
+CHUNK 4
+============================================================
+EPIDEMIOLOGY
+FIGURE 73.1 Geographic distribution of the Francisella tularensis subspecies and the main arthropod vectors.
+
+TABLE 73-1 Epidemiologic and Clinical Aspects of Tularemia
+
+============================================================
+CHUNK 5
+============================================================
+EPIDEMIOLOGY
+Lagomorphs, rodents, other wild and domestic animals, Geographic distribution = Entire northern hemisphere. Lagomorphs, rodents, other wild and domestic animals, Professionally or occupationally exposed persons = Hunters and their households, farmers, trappers, veterinarians. Lagomorphs, rodents, other wild and domestic animals, Modes of transmission = Direct contact with live or dead animals, animal bites Ingestion. Lagomorphs, rodents, other wild and domestic animals, Most common tularemia forms = Ulceroglandular, glandular, oculoglandular, oropharyngeal Oropharyngeal and digestive, typhoidal. Ticks*, Geographic distribution = Entire northern hemisphere. Ticks*, Professionally or occupationally exposed persons = Persons walking in tick-infested areas. Ticks*, Modes of transmission = Tick bites, tick-crushing. Ticks*, Most common tularemia forms = Ulceroglandular, glandular, oculoglandular, typhoidal. Mosquitoes, Geographic distribution = Scandinavia. Mosquitoes, Professionally or occupationally exposed persons = Persons walking near lakes and streams. Mosquitoes, Modes of transmission = Mosquito bites. Mosquitoes, Most common tularemia forms = Ulceroglandular, glandular. Tabanids, Geographic distribution = Western USA. Tabanids, Professionally or occupationally exposed persons = Outdoor activities in rural areas. Tabanids, Modes of transmission = Tabanid bites. Tabanids, Most common tularemia forms = Ulceroglandular, glandular. Contaminated environment (water, mud, dust, grass), Geographic distribution = Entire northern hemisphere. Contaminated environment (water, mud, dust, grass), Professionally or occupationally exposed persons = Water sports, landscapers. Contaminated environment (water, mud, dust, grass), Modes of transmission = Swimming, bathing, canyoning, etc. in infected spring water. Contaminated environment (water, mud, dust, grass), Most common tularemia forms = Ulceroglandular, glandular, oculoglandular, oropharyngeal. Contaminated environment (water, mud, dust, grass), Geographic distribution = Entire northern hemisphere. Contaminated environment (water, mud, dust, grass), Professionally or occupationally exposed persons = Water sports, landscapers. Contaminated environment (water, mud, dust, grass), Modes of transmission
+
+============================================================
+CHUNK 6
+============================================================
+EPIDEMIOLOGY
+= Ingestion of contaminated water. Contaminated environment (water, mud, dust, grass), Most common tularemia forms = Oropharyngeal and digestive, typhoidal. Contaminated environment (water, mud, dust, grass), Geographic distribution = Entire northern hemisphere. Contaminated environment (water, mud, dust, grass), Professionally or occupationally exposed persons = Water sports, landscapers. Contaminated environment (water, mud, dust, grass), Modes of transmission = Inhalation of infected dust, lawn mowing, brush cutting. Contaminated environment (water, mud, dust, grass), Most common tularemia forms = Pneumonic
+*Including Ixodes ricinus , Ixodes persulcatus , Dermacentor reticulatus , Dermacentor marginatus , Rhipicephalus rossicus , and Haemaphisalis concinna in Eurasia; Amblyomma americanum (Lone Star tick) in southeastern USA; Dermacentor variabilis (American dog tick) in eastern USA, California, and central and eastern Canada; Dermacentor andersoni (Rocky Mountain wood tick) in the western USA; Haemaphisalis GLYPH<c=29,font=/CIDFont+F3>ava and Ixodes ovatus in Japan.
+animals  and  humans  (Table  73-1).  Ixodidae  ticks  are  the  primary vectors and a major reservoir of F. tularensis worldwide. Other potential  vectors  include  mosquitoes  (mainly  in  Scandinavia  [10])  and tabanids  (deer  flies,  i.e. Chrysops sp.)  in  the  USA  (particularly  in Wyoming, Utah,  Nevada,  and  California)  [1 1]. Francisella  tularensis can survive for months in humid and cold environments (e.g. water, mud), possibly in association with amebae.
+Human  contamination  may  occur  directly  after  contact  with  an infected  animal  or  animal  carcass,  by  ingestion  of  contaminated water  or  food,  by  arthropod  inoculation,  or  after  contact  with  a contaminated  environment  (Table  73-1)  [3].  Human-to-human transmission  is considered  unlikely. Farmers, hunters, trappers, meat handlers, veterinarians, animal care professionals, pet owners, and persons walking  in tick-infested  lands  (prairies, forest,  etc.)  in
+
+============================================================
+CHUNK 7
+============================================================
+EPIDEMIOLOGY
+endemic areas are considered most at risk of contracting tularemia. Arthropod-borne  tularemia  cases  usually  occur  in  spring,  summer and early autumn during the main activity of these vectors and when persons  are  most  exposed  to  their  bites  by  wearing  short  clothes. In  contrast,  tularemia  caused  by  direct  contact  with  game  animals usually occurs during the winter hunting season. Laboratory workers handling F.  tularensis cultures  are  also  at  high  risk  of  developing tularemia; laboratory staff should be notified when handling samples potentially  containing F.  tularensis .  Such  samples  and  subcultures should be handled in biosafety cabinets-hoods to minimize aerosolbased exposure.
+
+============================================================
+CHUNK 8
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Human inoculation with F. tularensis can occur through the skin, the conjunctiva, and the digestive or respiratory mucosa [12]. Local infection may lead to a cutaneous ulcer, conjunctivitis, pharyngitis, enteritis, or pneumonia. Bacteria rapidly invade the regional lymph nodes, draining the territory of the skin or mucosa lesions. Enlarged lymph nodes may develop at various sites: epitrochlear, subclavicular, axillary, cervical, pretragal, mesenteric, inguinal, mediastinal, etc. A transient bacteremia often allows F.  tularensis to  spread throughout the body, infecting reticuloendothelial cells. In most patients, the immune response  will  control  the  disease.  In  about  20-30%  of  cases,  the lymphadenopathy will evolve to chronic suppuration and necrosis. Less frequently, secondary localizations may supervene (e.g. meningitis, encephalitis, pneumonia, endocarditis, osteomyelitis), possibly leading to death. Whatever the portal of entry, a fulminant course of tularemia with persistent F. tularensis bacteremia, delirium and septic shock is referred to as the typhoidal form of tularemia.
+
+============================================================
+CHUNK 9
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Francisella tularensis virulence factors have been partially characterized, but  the  higher  virulence  of  type  A  compared  with  type  B  strains remains  unexplained  [13]. Francisella  tularensis is  an  intracellular pathogen that predominantly grows in macrophages, but probably also in neutrophils, dendritic cells, and non-professional phagocytic cells,  such  as  alveolar  epithelial  cells,  endothelial  cells  and  hepatocytes.  This  bacterium  harbors  a  pathogenicity  island  (FPI)  that includes genes necessary for intramacrophage growth and virulence, such as the intracellular growth locus operon iglABCD and pdp genes (especially pdpA ). Bacteria phagocytized by macrophages escape the phagocytic vacuole to the cell cytosol where they multiply. Francisella tularensis does  not  trigger  a  high  pro-inflammatory  host  response because of a relatively inert lipopolysaccharide (LPS) and a probable direct  inhibition  of  pro-inflammatory  cytokine  signaling  pathways. Type IV pili appear essential for tissue adhesion and invasion, and a surface exopolysaccharide capsule protects bacteria from the killing action of serum complement during bacteremia.
+A humoral response develops within 2 weeks following infection with F.  tularensis ,  with antibodies primarily directed against the bacterial LPS, but also against outer membrane proteins (OmpA, FopA) and intracellular proteins (GroEL, KatG) [14]. These antibodies probably control F. tularensis bacteremia  and  extracellular multiplication. Mucosal antibody response (mainly of IgA type) may also partially protect vaccinated or previously infected persons from re-infection. Cell-mediated  immunity  (i.e.  CD4 + and  CD8 + T  cells)  is  assumed to  play  a  major  role  in  controlling  intracellular  multiplication  of F. tularensis .
+
+============================================================
+CHUNK 10
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Pathologic aspects of tularemia are not specific [15]. In chronically enlarged  lymph  nodes,  histologic  lesions  may  range  from  welldefined zones of acute inflammation and necrosis located within the outer cortex of lymph nodes, to generalized necrosis that can obliterate  the  node.  Granulomatous  inflammation  may  also  be  present. Caseous  necrosis  is  usually  absent.  Post-mortem  examination  of tissues from patients dying of tularemia may reveal lesions resembling those  of  tuberculosis,  particularly  the  presence  of  well-developed granulomas  in  lungs,  liver,  spleen,  and  lymph  nodes.  Necrotizing pneumonia with abundant fibrin, cellular debris, edema, and neutrophils  within  alveolar  walls  and  alveolar  spaces  may  also  be observed.  The  use  of  specific  monoclonal  or  polyclonal  antibodies allows visualization of F. tularensis within infected tissues.
+
+============================================================
+CHUNK 11
+============================================================
+CLINICAL FEATURES
+The incubation period of tularemia is typically 3-5 days, but may vary from a few hours to up to 2 weeks [1, 10]. Many patients have few symptoms  and  remain  undiagnosed.  More  symptomatic  patients usually seek medical attention several days or weeks after symptom onset. A minority of patients experience acute, severe, and even fulminant, disease (e.g. pneumonic or typhoidal form). Infected patients usually  experience  a  sudden  onset  of  flu-like  symptoms  including fever,  chills,  headaches,  myalgias,  and  arthralgias.  Coughing  is  frequent, and mild diarrhea is found in about 10% of patients. Relative bradycardia is a classically described but uncommon finding. About 20-40% of patients develop a generalized papular or maculopapular rash that may become vesicular or pustular. Erythema nodosum has also been reported, especially in women.
+The spectrum of the clinical manifestations of tularemia is wide, but six clinical syndromes are classically recognized and may occasionally be combined [1, 10]: the ulceroglandular form; the glandular form; the oculoglandular form; the oropharyngeal and digestive form; the pneumonic form; and the typhoidal form. Another classification only differentiates ulceroglandular tularemia (the three former syndromes) from  typhoidal  tularemia  (patients  without  skin  or  lymph-node involvement and with systemic symptoms) [16].
+
+============================================================
+CHUNK 12
+============================================================
+CLINICAL FEATURES
+Approximately 75-90% of patients present with an ulceroglandular form, which combines a cutaneous lesion at the site of F.  tularensis skin  inoculation  and  a  regional  lymphadenopathy  (Figs  73.2  and 73.3). The skin lesion first corresponds to a small papule that develops within a few days into a pustule and then a cutaneous eschar that is  typically  erythematous,  indurated  and  nonhealing.  In  the  much rarer glandular form (about 2% of cases), a cutaneous lesion has not developed or it has healed at the time of the first medical visit. In both  forms,  the  patient  usually  consults  when  the  lymph  nodes become severely enlarged and tender. The lymphadenopathy may be epitrochlear, subclavicular, axillary, cervical or inguinal, and typically lasts for several weeks, and even months. It evolves to suppuration in about 20-30% of cases, sometimes with skin fistulization, especially when adapted antibiotic therapy has been delayed for more than 2 weeks. The progression of the lymphadenopathy is poorly influenced by antibiotic therapy and surgical treatment is often needed for cure after several weeks or months of progression. However, lymph node incision  should  not be  performed in  the  early  stage  of  the  disease because of the frequent spread  of  infection  to  surrounding tissues. Although rarely fatal, the glandular and ulceroglandular forms may evolve  to  disseminated  disease  and  secondary  localizations  (e.g. spleen, liver, lung or brain).
+The  oropharyngeal  and  digestive  form  of  tularemia  (the  second most  frequent  form)  usually  occurs  a  few  days  after  ingestion  of
+FIGURE 73.2 A tularemia skin eschar of the left hand after manipulation of a hare (courtesy of Dr B. Castan).
+FIGURE 73.3 A left axillary lymphadenopathy in a woman with tularemia after skinning a hare (courtesy of Dr B. Castan).
+
+============================================================
+CHUNK 13
+============================================================
+CLINICAL FEATURES
+undercooked  food  or  water  contaminated  with F.  tularensis .  The disease often manifests as clustered cases, either in a family (foodborne  infections)  or  in  a  localized  population  (water-borne  infections).  Large  outbreaks  have  recently  been  reported  in  Turkey, Kosovo,  and  Bulgaria,  with  most  patients  presenting  with  oropharyngeal tularemia [17-19]. Patients with oropharyngeal involvement present with fever and acute exudative or membranous pharyngitis and  rapid development  of swollen cervical  lymph nodes. Enlarged tonsils  with  yellow-white  pseudomembranes  may  suggest  diphtheria.  Pharyngitis  is  usually  severe,  of  prolonged  duration  (several weeks to months) and resists ß-lactam therapy. Complications may include cervical lymph node suppuration with skin fistulization and tonsillar phlegmon. Gastrointestinal tularemia probably develops in patients after ingestion of a high dose of bacteria and may manifest by  mild diarrhea, abdominal  pain,  nausea,  vomiting  and  gastrointestinal bleeding. Enlarged mesenteric lymph nodes may be found. Extensive ulceration of the bowel may lead to severe symptoms and even death.
+The  oculoglandular  form  (2-3%  of  cases)  usually  corresponds  to conjunctival inoculation of F. tularensis by touch with a contaminated finger, for example following manipulation of an infected animal or after crushing a tick. Symptoms usually manifest early and correspond to Parinaud's oculoglandular syndrome, combining a granulomatous unilateral conjunctivitis with homolateral regional lymphadenopathy (Fig. 73.4). The inflamed conjunctiva is painful, with numerous yellowish nodules and pinpoint ulcers. Enlarged lymph nodes may be found in the pretragal, retroauricular or cervical regions. ß-lactams are not  effective  and  the  conjunctivitis  may  last  for  several  weeks  or months without appropriate antibiotic treatment. The most frequent complications include keratitis, sometimes with corneal perforation, lymph node suppuration and cellulitis in nearby skin tissue.
+
+============================================================
+CHUNK 14
+============================================================
+CLINICAL FEATURES
+The pneumonic form may develop after inhalation of an infectious aerosol, for example during lawn mowing or brush cutting [20], following aerosolized laboratory exposure, or, alternatively, as a secondary  localization  of F.  tularensis bacteremia.  Symptoms  are  those  of atypical pneumonia, including fever, a nonproductive cough, dyspnea, and pleuritic chest pain. Bilateral patchy infiltrates are found on chest radiography. Pleural effusions and empyema may develop. Mediastinal lymph nodes may develop and persist for several months after resolution of pneumonia. Pneumonia is often fulminant with lung tissue necrosis when caused by a type A strain.
+The typhoidal form corresponds to a rapid systemic progression of tularemia  with  fever,  a  typhoid  state  and  shock  in  the  absence  of apparent portal of entry (e.g. skin lesion) or lymphadenopathy. This form is often fatal.
+FIGURE  73.4 A  pretragal  inDammatory  lymphadenopathy  in  a  woman with oculoglandular tularemia (courtesy of Dr N. Roch).
+Other rare clinical manifestations of tularemia may include meningitis, encephalitis, pericarditis, endocarditis, peritonitis, hepatitis, splenitis, osteoarticular infections, septic shock with rhabdomyolysis, and acute renal failure.
+
+============================================================
+CHUNK 15
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Mild-to-moderate  tularemia  cases  are  usually  managed  on  an  outpatient basis. Patients with severe clinical manifestations (pneumonia,  typhoidal  tularemia,  severe  digestive  involvement,  brain  or cardiac involvement) should be hospitalized and possibly admitted to an intensive care unit, especially if septic shock is present.
+Nonspecific biologic abnormalities may include moderate leukocytosis  with granulocytosis, a relative increase in mononuclear cells, an inflammatory  syndrome  with  mild  elevation  of  C-reactive  protein and, rarely, a mild elevation of liver enzymes.
+Tularemia diagnosis is usually confirmed by serologic methods, especially  the  microagglutination  test  and,  less  frequently,  the  indirect immunofluorescence and ELISA techniques [21, 22]. These tests are both sensitive and specific, although serology may be negative in the early course of the disease. Antibody titers are usually only detected at significant levels 2-3 weeks following symptom onset, peak after 6-8 weeks progression of the disease and then decline slowly over months or years. Serologic titers of 1  :  160 or more are usually considered significant for the microagglutination test, but cut-off titters may vary between laboratories using different techniques and antigens. A seroconversion or a fourfold rise in antibody titers between acute-phase  and  convalescent-phase  sera  is  considered  diagnostic. Cross-reacting antibodies have been reported between Francisella sp., Brucella sp., Proteus OX19, Yersinia enterocolitica O:3 and Yersinia pestis antigens, but titers are usually low and not confounding. The Western blot technique may be used. Importantly, serologic tests cannot determine the Francisella subspecies and clade involved.
+
+============================================================
+CHUNK 16
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Francisella tularensis culture remains tedious and hazardous for laboratory  personnel  [2 1,  22].  Type  A  strains  are  class  3  pathogens,  and should be grown in a Biosafety Level (BSL) 3 laboratory. Ideally, clinical samples should be transported frozen at -80°C or directly inoculated  to  antibiotic-containing  medium  to  prevent  overgrowth  by commensal species. Isolation of F. tularensis requires enriched medium containing cysteine (e.g. Thayer-Martin medium, chocolate agar supplemented with Polyvitex™ or Isovitalex™) and incubation at 37°C for  a  minimum of 3-5 days. Automated blood culture systems are useful in the rare patients with bacteremia. Francisella tularensis may
+be grown from blood, skin eschar discharges, lymph node samples, conjunctival or throat swabs, cerebrospinal fluid (CSF), sputum, and other suppurations or organ biopsies. Culture sensitivity is considered low  (about  25%  for  cutaneous  and  lymph  node  samples)  and decreases  significantly  after  administration  of  effective  antibiotics. Suspected colonies may be rapidly identified as F. tularensis by using a  specific antiserum or by PCR amplification of specific genes (e.g. fopA or tul4 ).
+
+============================================================
+CHUNK 17
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+PCR-based  techniques  now  provide  a  rapid,  sensitive  and  specific diagnosis of tularemia and carry a much lower infection risk for laboratory personnel than culture [21, 22]. Sensitivities of 73-78% have been  reported  for  skin  samples  from patients  with ulceroglandular tularemia. PCR may remain positive despite previous administration of antibiotics or when testing formalin-fixed tissue specimens. PCR targets include the insertion sequence ISFtu2 , the 16SrRNA-encoding gene,  the  succinate  dehydrogenase  gene SdhA and  genes  encoding outer  membrane-associated  proteins  (Tul4,  a  17-kDa  lipoprotein encoded by the tul4 gene; OmpA, a 43-kDa protein encoded by the fopA gene;  and  an  unnamed  23-kDa  protein). Francisella  tularensis DNA has been amplified from blood, lymph nodes, skin ulcer discharge and skin biopsies, conjunctival discharge, pharynx and CSF. These PCRs are genus- or species-specific. The F. tularensis subspecies and clade involved may be identified by several molecular methods, including analysis of whole-genome restriction digests by pulse-field gel electrophoresis (PFGE), amplified fragment length polymorphism (AFLP), regional difference analysis (RD1 or pdpD locus) and multiplelocus variable number tandem repeat analysis (MLVA).
+
+============================================================
+CHUNK 18
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Tularemia should be systematically evoked in patients living in (or visiting)  an  endemic  area,  with  compatible  clinical  manifestations and a potential exposure. When suggestive epidemiologic conditions are lacking, however, the differential diagnosis of tularemia may be wide  because  symptoms  are  poorly  specific  [21].  Ulceroglandular tularemia is the most easily diagnosed form, but atypical skin lesions associated with enlarged lymph nodes may suggest infections caused by Staphylococcus aureus , Streptococcus pyogenes or Mycobacterium marinum ,  as  well as cat-scratch disease, pasteurellosis, syphilis, anthrax, rat-bite fever, rickettsiosis and sporotrichosis. The chronically-evolving lymphadenopathy of the glandular form is more challenging and may suggest other infectious diseases [tuberculosis, non-tuberculous mycobacterial diseases, cat-scratch disease, plague, lymphogranuloma venereum, Ebstein Barr virus (EBV), cytomegalovirus (CMV) or HIV infections,  toxoplasmosis  or  histoplasmosis]  and  non-infectious diseases (immunologic diseases, malignant diseases including lymphoma, etc.). Oropharyngeal tularemia may suggest S.  pyogenes (group A) infection or diphtheria in the case of pseudomembranous pharyngitis. Failure of ß-lactam therapy may prompt the clinician to make further investigations, but diagnosis is often delayed. Parinaud's oculoglandular syndrome is not specific and Mycobacterium tuberculosis , Bartonella henselae and herpes virus are more frequent etiologies of  this  syndrome,  among  others. Francisella  tularensis pneumonia should be considered, together with other causes of atypical pneumonia,  including  plague  and  anthrax  in  the  context  of  bioterrorism.
+
+============================================================
+CHUNK 19
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+TABLE 73-2 Main Current Therapeutic Options for Tularemia
+
+CiproDoxacin, Dosage and duration = 750 mg per os twice a day for 10-14 days. CiproDoxacin, References = [4, 10, 24, 27]. CiproDoxacin, Category * = 4. CiproDoxacin, Comments = First line in adults and children, especially if type B disease. Doxycycline, Dosage and duration = 100 mg per os twice a day for 10-14 days. Doxycycline, References = [4, 10]. Doxycycline, Category * = 4. Doxycycline, Comments = Adults and children > 8 years, higher relapse rate. Gentamicin, Dosage and duration = 5 mg/kg IV or IM in one or two divided doses for 14 days. Gentamicin, References = [1, 24, 28]. Gentamicin, Category * = 4. Gentamicin, Comments = Adults, children and pregnant women with severe disease. Streptomycin or gentamycin are usually considered front-line eEective therapy for type A disease
+*Category 1, double-blind study; 2, clinical trial < 20 subjects; 3, clinical trial > 20 subjects; 4, series; 5, anecdotal case reports.
+Typhoidal tularemia may be observed in many other severe infectious diseases, including typhoid fever.
+
+============================================================
+CHUNK 20
+============================================================
+TREATMENT
+Human tularemia cases  are  usually  more  severe  in  North  America than in Eurasia. Respective global mortality rates for type A and type B infections changed from 5-10% and 0.5-1% before the antibiotic era, to 2-3% and close to 0% when appropriate antibiotic therapy became available [21]. Higher mortality rates have been reported in patients with the pneumonic or typhoidal forms (30-60%) and in immunocompromised patients. Recently, mortality rates of 4%, 24%, 0% and 7% have been associated in the USA with the A1a, A1b, A2 and B genotypes, respectively [7].
+In  vitro ,  most strains of F. tularensis are resistant to penicillin G and aminopenicillins because of the action of a ß-lactamase [21]. Susceptibility  to  third-generation  cephalosporins (e.g. cefotaxime, ceftriaxone) varies according to the strains studied, but these antibiotics are not effective  against intracellular F.  tularensis and  they  are clinically unreliable [23].
+Chloramphenicol,  cotrimoxazole,  and  macrolides  are  poorly  effective.  The  aminoglycosides,  the  fluoroquinolones,  the  tetracyclines, rifampin and the ketolide telithromycin display a bactericidal activity against F. tularensis , both in axenic medium and in cell systems.
+The  optimum  treatment  of  tularemia  cannot  be  based  on  randomized, controlled clinical trials because the disease is so rare. According to clinical experience, the  aminoglycosides are considered the  most  effective  antibiotics  (Table  73-2)  [21,  24].  Streptomycin has been used for decades with success rates of over 97%. This antibiotic  is  now  difficult  to  obtain  in  many  countries.  Gentamicin  is currently used as an alternative, whereas other aminoglycosides are less  effective.  Administration  of  an  aminoglycoside  is  still  recommended in severe tularemia cases, with the monitoring of antibiotic serum  levels.  However,  aminoglycosides  have  many  side  effects (including ototoxicity and nephrotoxicity) and are only administrable parenterally.
+
+============================================================
+CHUNK 21
+============================================================
+TREATMENT
+The fluoroquinolones are now proposed as first-line drugs in the vast majority  of  patients  with  mild-to-moderate  clinical  manifestations, including in children, as the risk of skeletal toxicity appears low. Their clinical  efficacy  is  better  documented  in  type  B  than  in  type  A tularemia. These antibiotics are less toxic than aminoglycosides and administrable  orally.  Ciprofloxacin  has  been  used  in  most  cases reported  in  the  literature  with  success  rates  over  95%.  Ofloxacin (200 mg twice daily) or levofloxacin (500 mg once daily) may also be effective, but clinical data are scarce.
+Tetracyclines, especially doxycycline, represent a possible alternative, although  more  frequent  relapses  are  observed  upon antibiotic withdrawal.  Gastrointestinal  side  effects  are  frequent,  but  may  be reduced  by  taking  the  drug  with  food.  Tetracyclines  are  classically contraindicated in children less than eight years old because of the
+risk of tooth discoloration, and in pregnant women because of fetal bone toxicity.
+Whatever  the  drug  administered,  10-14  days  treatment  duration should be considered a minimum. Failures and relapses may still be observed in patients with severe disease and/or with delayed onset of appropriate antibiotic therapy. Suppurated lymph nodes may need to be surgically removed to obtain clinical cure. Combined therapy (e.g. an aminoglycoside with a tetracycline or a fluoroquinolone) has been occasionally used in patients with severe disease. There is no indication that it may be superior to monotherapy.
+Antibiotic  treatment  of  tularemia  in  pregnant  women  remains  an unsolved problem. ß-lactams and the macrolides are considered unreliable.  Rifampin  is  not  used  as  monotherapy  because  of  possible selection for resistance. Gentamicin may be used is severe cases, but exposes the mother and fetus to ototoxicity and nephrotoxicity. Telithromycin  may  be  an  interesting  alternative,  but  clinical  data  are lacking and its  administration in pregnant  women is  currently  not recommended.
+
+============================================================
+CHUNK 22
+============================================================
+TREATMENT
+Prevention of tularemia in the most at-risk persons includes: (i) avoiding  exposure  to  sick  animals  and  wearing  protective  gloves  when handling animal carcasses; (ii) wearing long clothing and using insect repellents when walking in endemic areas to prevent arthropod bites, as well as careful skin inspection and prompt removal of ticks; and (iii) performing F. tularensis cultures in a BSL 3 laboratory to prevent laboratory  contamination.  Post-exposure  prophylaxis  of  tularemia may be considered in the context of bioterrorism, during food- or water-borne tularemia outbreaks, or in laboratory workers after contamination  with F.  tularensis cultures.  Ciprofloxacin  or  doxycycline administered  for  10-14  days  at  a  full  dosage  is  currently  recommended,  but  clinical  data  supporting  these  recommendations  are scarce.
+Inactivated  vaccines  and  purified  immunogenic  polysaccharide-  or protein-based vaccines have not proved to be effective in preventing tularemia [25, 26]. Live attenuated vaccines were first developed in the former Soviet Union where millions of people were vaccinated with the attenuated strains 15 and 155 until 1960. The live vaccine strain developed in the USA was derived from these Russian strains. The live vaccine strain mainly protects from the occurrence of severe tularemia disease (e.g. the pneumonic and typhoidal forms), but it is less effective in preventing ulceroglandular tularemia. It has not been licensed by the Food and Drug Administration (FDA) in the USA, nor in any other country because of significant side effects and because the basis of attenuation of this strain has not been fully characterized. Construction of defined attenuated strains of F. tularensis is under way.
+
+============================================================
+CHUNK 23
+============================================================
+REFERENCES
+1. Evans ME, Gregory DW, Schaffner W, McGee ZA. Tularemia: a 30-year experience with 88 cases. Medicine 1985;64:251-69.
+2. Dennis  DT, Inglesby TV, Henderson  DA, et al;  Working Group on Civilian Biodefense.  Tularemia  as  a  biological  weapon:  medical  and  public  health management. JAMA 2001;285:2763-73.
+3. Sjö stedt A. Tularemia: history, epidemiology, pathogen physiology and clinical manifestations. Ann N Y Acad Sci 2007;1105:1-29.
+4. Pérez-Castrilló n  JL,  Bachiller-Luque  P,  Martín-Luquero  M,  et  al.  Tularemia epidemic in northwestern Spain: clinical description and therapeutic response. Clin Infect Dis 2001;33:573-6.
+5. de Carvalho IL, Escudero R, Garcia-Amil C, et al. Francisella tularensis , Portugal. Emerg Infect Dis 2007;13:666-7.
+6. Staples  JE,  Kubota  KA,  Chalcraft  LG,  et  al.  Epidemiologic  and  molecular analysis  of  human  tularemia,  United  States,  1964-2004.  Emerg  Infect  Dis 2006;12:1113-18.
+7. Kugeler KJ, Mead PS, Janusz AM, et al. Molecular epidemiology of Francisella tularensis in the United States. Clin Infect Dis 2009;48:863-70.
+8. Eliasson H, Broman T, Forsman M, Bä ck E. Tularemia: current epidemiology and disease management. Infect Dis Clin North Amer 2006; 20:289-31 1.
+9. Keim P, Johansson A, Wagner DM. Molecular epidemiology, evolution, and ecology of Francisella . Ann NY Acad Sci 2007;1 105:30-66.
+10.  Eliasson H, Bä ck E. Tularaemia in an emergent area in Sweden: an analysis of 234 cases in five years. Scand J Infect Dis 2007;39:880-9.
+
+============================================================
+CHUNK 24
+============================================================
+REFERENCES
+11.  Petersen  JM,  Carlson  JK,  Dietrich  G,  et  al.  Multiple Francisella  tularensis subspecies and clades, tularemia outbreak, Utah. Emerg Infect Dis 2008;14:1928-30.
+12.  Ellis J, Oyston PC, Green M, Titball RW. Tularemia. Clin Microbiol Rev 2002; 15:631-46.
+13.  McLendon MK, Apicella MA, Allen LA. Francisella tularensis : taxonomy, genetics,  and immunopathogenesis of a potential agent of biowarfare. Annu Rev Microbiol 2006;60:167-85.
+14.  Kirimanjeswara  GS,  Olmos  S,  Bakshi  CS,  Metzger  DW.  Humoral  and  cellmediated  immunity  to  the  intracellular  pathogen Francisella tularensis . Immunol Rev 2008;225:244-55.
+15.  Lamps LW, Havens JM, Sjostedt A, et al. Histologic and molecular diagnosis of tularemia: a potential bioterrorism agent endemic to North America. Mod Pathol 2004;17:489-95.
+16.  Nigrovic LE, Wingerter SL. Tularemia. Infect Dis Clin North Am 2008;22:489-504.
+17.  Helvaci S, Gediko lu S, Akalin H, Oral HB. Tularemia in Bursa, Turkey: 205 cases in ten years. Eur J Epidemiol 2000;16:271-6.
+18.  Reintjes  R,  Dedushaj  I,  Gjini  A,  et  al.  Tularemia  outbreak  investigation in  Kosovo:  case  control  and  environmental  studies.  Emerg  Infect  Dis 2002;8:69-73.
+19.  Kantardjiev T, Ivanov I, Velinov T, et al. Tularemia outbreak, Bulgaria, 19972005. Emerg Infect Dis 2006;12:678-80.
+20.  Feldman  KA,  Enscore  RE,  Lathrop  SL,  et  al.  An  outbreak  of  primary pneumonic  tularemia  on  Martha's  Vineyard.  N  Engl  J  Med  2001;345: 1601-6.
+
+============================================================
+CHUNK 25
+============================================================
+REFERENCES
+21.  Tä rnvik A, Chu MC. New approaches to diagnosis and therapy of tularemia. Ann NY Acad Sci 2007;1105:378-404.
+22.  Hepburn  MJ,  Simpson  AJ.  Tularemia:  current  diagnosis  and  treatment options. Expert Rev Anti Infect Ther 2008;6:231-40.
+23.  Cross  JT,  Jacobs  RF.  Tularemia:  treatment  failures  with  outpatient  use  of ceftriaxone. Clin Infect Dis 1993;17:976-80.
+24.  Enderlin  G,  Morales  L,  Jacobs  RF,  Cross  JT.  Streptomycin  and  alternative agents for the treatment of tularemia: review of the literature. Clin Infect Dis 1994;19:42-7.
+25.  Wayne Conlan J, Oyston PC. Vaccines against Francisella tularensis .  Ann NY Acad Sci 2007;1 105:325-50.
+26.  Isherwood  KE,  Titball  RW,  Davies  DH,  et  al.  Vaccination  strategies  for Francisella tularensis . Adv Drug Deliv Rev 2005;57:1403-14.
+27.  Johansson A, Berglund L, Gothefors L, et al. Ciprofloxacin for treatment of tularemia in children. Pediatr Infect Dis J 2000;19:449-53.
+28.  Cross JT Jr, Schutze GE, Jacobs RF. Treatment of tularemia with gentamicin in pediatric patients. Pediatr Infect Dis J 1995;14:151-2.
+

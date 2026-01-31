@@ -1,0 +1,149 @@
+============================================================
+CHUNK 0
+============================================================
+KEY FEATURES
+- Burkholderia pseudomallei, an environmental, saprophytic, gram-negative bacterium found in water and soil in south and east Asia and northern Australia. In endemic areas, it accounts for up to 20% of community-acquired septicemias.
+- B. mallei, a pathogen of horses and other equines; it is now very rare.
+- diabetes, chronic renal disease, alcoholism, cirrhosis, or immunosuppression.
+- (often in liver, spleen, lungs, prostate, or muscle) are common; mortality in endemic areas approaches 50%.
+- B. pseudomallei causes a unique syndrome of acute suppurative parotitis.
+- or a carbapenem, followed by oral trimethoprimsulfamethoxazole, to complete 20 weeks of antibiotic treatment.
+
+============================================================
+CHUNK 1
+============================================================
+INTRODUCTION
+The {rst description  of  glanders,  a  disease  primarily  of  horses caused  by Burkholderia  mallei, is  usually  attributed  to Aristotle, who wrote, 'The ass suffers chie|y from one particular disease which they call 'melis.' It arrives {rst in the head, and a clammy humor runs down the nostrils, thick and red; if it stays in the head the animal may recover, but if it descends into the lungs the animal will die.' Thereafter, the nasal and pulmonary infection (glanders) and subcutaneous abscesses (farcy) of horses, mules, and donkeys (particularly pack animals) were well known as a potential threat to humans. In Rangoon (now Yangon) in 1911 and 1912, Whitmore and Krishnaswami documented a 'hitherto undescribed glanderslike illness among the ill and neglected inhabitants of the town.' 1 The disease, which was killing emaciated morphine addicts who languished on the streets of Rangoon, was caused by a bacterium 'suf{ciently peculiar to distinguish it from all pathogenic bacteria previously known to us.' Whitmore proposed the name Bacillus pseudomallei for the newly discovered pathogen. By 1917, Krishnaswami had reported over 100 cases from Rangoon (5% of all postmortem examinations). Thereafter sporadic cases were reported during and after the Second World War, and many more cases were reported in soldiers {ghting in Vietnam during the war of independence  with  France  and  the  later  con|ict  involving  the United  States.  The  Vietnam  War  experience  skewed  clinical descriptions toward more chronic forms of melioidosis (a 'TB-like disease')  with  reactivations  long  after  exposure. Very  few  cases were reported in indigenous peoples in south and east Asia, but with  improvements  in  hospital  microbiology  facilities  in  some countries over the past three decades, melioidosis has been recognized  increasingly  throughout  this  populous  region. 2-4 The clinical and pathologic picture seen today is much as Whitmore originally described it. Meanwhile, glanders in equines has become
+Nicholas J. White a rarity and human cases are extremely unusual. The U.S. Centers for Disease Control and Prevention (CDC) have classi{ed both B. pseudomallei and B. mallei as tier 1 select agents because of their biothreat potential.
+
+============================================================
+CHUNK 2
+============================================================
+EPIDEMIOLOGY
+Areas of the world endemic for melioidosis are generally within the latitudes 20°S  and 20°N. 2 In  recent  years,  there  have  been increasing  numbers of case reports of human melioidosis from southern China, T aiwan, many areas of Southeast Asia, and the south  of  India,  and  more  recently  parts  of  Africa  and  South America. 5 These are areas inhabited by a signi{cant proportion of the world's population (Fig. 76.1). As with many tropical bacterial diseases, our current understanding of melioidosis epidemiology re|ects the distribution of microbiology laboratories capable of making the diagnosis. It has been estimated recently that there are  165,000  (95%  credible  interval  68,000-412,000)  human melioidosis cases per year worldwide, of whom 89,000 (36,000-227,000) die. 6 B.  pseudomallei is  also  a  major veterinary pathogen  in Australia  and  a  major  problem  for  zoos.  It  causes lethal  infections  in  many  species,  but  large  primates  (notably highland  gorillas),  certain  bird  species,  and  sea  mammals  are particularly vulnerable.
+In endemic areas of Asia, melioidosis is a rainy season disease predominantly affecting adults ( ≈ 90% of cases) who have direct contact with wet soils and who have an underlying predisposition to infection. 7 These are patients with diabetes mellitus ( ≈ 50% of cases), renal disease (calculi, renal failure), alcoholism, or cirrhosis, or patients who are immunosuppressed, either as a result of disease or  drug  treatment. 3,4,7 Melioidosis  is  not  speci{cally  associated with HIV infection. The infection may present at any age, with the peak incidence in the fourth and {fth decades of life, which re|ects the appearance of the underlying predisposing illnesses. In northeast Thailand, where B. pseudomallei accounts for ≈ 20% of community-acquired septicemias, the average annual incidence is increasing steadily as the local population is living longer with improved health services and economic conditions.
+
+============================================================
+CHUNK 3
+============================================================
+EPIDEMIOLOGY
+Serologic studies in Thailand indicate that exposure occurs as soon as the infant makes contact with soil and water, with seroconversion of approximately 25% per year for the {rst 4 years of life. 8 Exposure occurs very frequently during rice farming (a major occupation in rural Asia). Thus the majority of the population in endemic areas have serologic evidence of exposure, but there is no evidence that this antibody is protective. Disease either results from a failure of host defense, resulting from disease or drugs, or, less commonly, a particularly large inoculum (major trauma, near drowning).
+
+============================================================
+CHUNK 4
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+B. pseudomallei is a soil saprophyte associated with the rhizosphere (the layer of soil directly in|uenced by root secretions and soil microorganisms). It can be readily recovered from water and wet soil (often rice paddy {elds) in endemic areas. 5,7,9,10 The bacterium is a motile, aerobic, non-spore-forming, gram-negative bacillus. In contrast, B. mallei is an obligate pathogen .
+The genome of B. pseudomallei is one of the largest and most complex bacterial genomes yet sequenced. It comprises 7.24 Mb,
+Fig. 76.1 Global distribution of B. pseudomallei. Estimated mortality and reported cases of melioidosis. (Reproduced with permission from Ref. 13 and based on modeled estimates from Ref. 6.)
+
+============================================================
+CHUNK 5
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+divided unequally between two circular chromosomes (4.07 Mb and 3.17 Mb) encoding ≈ 5800 genes with an overall G + C content of 68%. The molecular and epidemiologic evidence suggests that mammalian pathogenicity is unimportant in B. pseudomallei ecology, whereas B. mallei appears to have undergone reductive evolution from  a B.  pseudomallei ancestor  (they  have  99%  homology  in conserved genes), and in adapting to its equine host it has shed approximately 1.41 Mb of DNA containing the genes necessary for  soil  survival. 11,12 B.  pseudomallei, like  many soil  bacteria, is  a dif{cult  organism  to kill:  it  can survive in triple-distilled  water for decades; it is resistant to complement and lysosomal defensins and cationic peptides; it can invade  and multiply inside several cell  lines  (notably  phagocytic  cells);  and  it  produces  proteases, lipase,  lecithinase,  catalase,  peroxidase,  superoxide  dismutase, hemolysins, and siderophores. The genome encodes many classic virulence genes, such  as adhesins,  {mbriae,  exopolysaccharides, and type III secretion systems. 13 The cell wall lipopolysaccharide, which is the immunodominant antigen, is highly conserved and contains two distinct O-polysaccharides. B. pseudomallei produces a highly hydrated glycocalyx 'capsule'-an important virulence determinant-that forms a slime. This facilitates the formation of microcolonies in which the organism is both protected from antibiotic penetration and phenotypically altered. Organisms that cause invasive disease are indistinguishable from those found in the environment.
+
+============================================================
+CHUNK 6
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Melioidosis  in  humans  is  usually  acquired  by  inoculation, inhalation,  or  ingestion.  Occasional  nosocomial infections have occurred, and sexual transmission has been  reported twice, but B. pseudomallei is  not regarded as infectious. Rice farmers suffer repeated minor cuts and abrasions while immersed for much of the day in water containing B. pseudomallei, but they do not develop active  infection  unless  an  underlying  predisposing  condition develops. The risk of disease is proportional to the concentration of organisms in the soil. B. pseudomallei triggers the up-regulation in host cells of multiple T oll-like receptors, including TLR2, TLR4 (and its co-receptor monocyte differentiation antigen CD14), and TLR5, leading to the production of pro-in|ammatory and antiin|ammatory cytokines via nuclear factorκ B. Neutrophils play a central role in innate host defense. 13
+Human infection  with B.  mallei has  occurred  rarely  among laboratory  workers  and  those  in  direct  contact  with  infected animals. 14 Person-to-person spread of B. mallei is extremely rare. The bacteria usually enter the body through the eyes, nose, mouth, cracked skin, or cuts. Direct contact with the skin can lead to a localized  cutaneous  infection.  Inhalation  leads  to  pneumonia, septicemia, or disseminated abscesses in muscle, liver, and spleen-a pattern  similar  to  that  of  melioidosis. B.  mallei is  a  dangerous organism in  the  laboratory  and  should  be  investigated  only  in Biosafety  Level  (BSL)  3  facilities.  It  is  highly  infectious  as  an aerosol and, as infection requires only a few organisms, it has been used as a biological warfare agent. Use during the American Civil War, World Wars I and II, and the Russian invasion of Afghanistan has been reported.
+
+============================================================
+CHUNK 7
+============================================================
+CLINICAL FEATURES
+Melioidosis presents as a febrile illness, ranging from a chronic, debilitating, localized infection to an acute, fulminant septicemia characterized by local or metastatic abscess formation. 5,7 Usually, there is no obvious infected wound or trauma. About 85% of cases present acutely,  and  the  majority  of  these  cases  are  septicemic. Most of the reported clinical studies have come from Thailand, Malaysia, Singapore, and northern Australia. The overall mortality in  adults  in Thailand  is  approximately  40%,  with  many  deaths occurring rapidly before microbiologic con{rmation. In northern Australia, the mortality of severe melioidosis has been falling in recent  years  with  earlier  recognition  and  better  intensive  care treatment. The lung is the most commonly affected organ, presenting either with a lung abscess or pneumonia, or secondary multifocal 'blood-borne pneumonia.' Large or peripherally sited lung abscesses  commonly  rupture  into  the  pleural  space  to  cause empyema. Seeding and abscess formation may occur in any organ, although the liver, spleen, skeletal muscle, and prostate are relatively common sites. Renal abscesses are often associated with calculi and urinary infection. In nearly 3000 sequential patients studied prospectively in Thailand, a very wide variety of clinical presentations was seen. Melioidosis may also present as an uncomplicated, localized infection of the skin, subcutaneous tissues, or eye. Corneal ulcers secondary to trauma and then exposure to contaminated water are rapidly destructive. Metastatic pyomyositis is relatively common. Melioidosis causes acute suppurative parotitis. 15 This unique  syndrome  occurs  mainly  in  children  (29%  of  pediatric
+cases, 1% of adult cases) with no other evidence of an underlying predisposing condition. In approximately 10% of cases, the parotitis is  bilateral.  The  patient  presents  with  fever,  pain,  and  swelling over the parotid gland. In advanced cases, there may be rupture either  to  the  skin  or  through  to  the  external  ear.  Incision  and drainage are often required; great  care  must  be taken to avoid damaging the facial nerve. Delay in drainage may also result in a permanent Bell's palsy.
+
+============================================================
+CHUNK 8
+============================================================
+CLINICAL FEATURES
+In approximately 4% of cases from Australia and, less commonly, elsewhere ( < 0.2% of cases in Thailand), melioidosis presents as a brainstem encephalitis with peripheral motor weakness or |accid paraparesis. 4 Prominent features of the brainstem syndrome on presentation are unilateral limb weakness, cerebellar  signs, and cranial nerve palsies. Focal, multiple, small microabscesses in the brainstem and spinal cord are thought to be the cause. The clinical experience from northern Australia is generally similar to that in Southeast Asia, but with two other notable differences; parotid abscess  is  uncommon (although children  comprise  only  4%  of cases compared with 15% in Thailand) and genitourinary infections (commonly prostatic abscess) comprise 15% of cases compared with < 2% elsewhere. 3,4
+Glanders is characterized by initial onset of fever, rigors, and malaise culminating in a rapid onset of pneumonia, bacteremia, skin pustules, and disseminated abscesses. 14 Death occurs in 7 to 10 days without antibiotic treatment. Even with antibiotic treatment, septicemic glanders has a mortality of approximately 50% (in the pre-antibiotic  era,  the mortality  exceeded  90%). The course of infection depends on the route of acquisition.
+
+============================================================
+CHUNK 9
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Melioidosis should be suspected in any severely ill, febrile patient with an underlying predisposing condition who lives in, or has traveled from, an endemic area. The differential diagnosis includes any other bacterial cause of septicemia, cavitating pneumonia, or abscess  formation.  In  northeast Thailand, B.  pseudomallei is  the most common cause of septicemic illness during the rainy season in adult diabetics. There is often abscess formation, either in the lungs (seen on the chest radiograph) or in the liver and spleen (seen on ultrasound examination). Splenic abscess is a pointer to melioidosis in endemic areas (in northeast Thailand, 95% of splenic abscesses are caused  by B.  pseudomallei ) . In  up  to  13%  of  cases with  septicemia,  subcutaneous  abscesses  are  present  in  which gram-negative rods can be demonstrated. B. pseudomallei is readily cultured from infected sites or the blood. Throat swab culture is 90% sensitive compared with sputum culture in adults.
+
+============================================================
+CHUNK 10
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+In  the  laboratory, B.  pseudomallei grows  aerobically  on  most agar media producing clearly visible colonies within 48 hours at 37°C. 16,17 Ashdown's selective medium (a simple agar containing crystal  violet,  glycerol,  and  gentamicin)  is  commonly  used  to culture the organism. The colonies develop a characteristic appearance (becoming rugose, or corn|ower head-like, with a silvery sheen) and they take up the crystal violet dye. Gram stain reveals gram-negative rods that are often described as bipolar staining or like  safety  pins-although in clinical specimens morphology and staining are extremely variable. The organism is cytochrome oxidase-positive, utilizes glucose by an oxidative pathway, and can be reliably identi{ed from its biochemical pro{le using kit-based systems  or  matrix-assisted  laser  desorption/ionization  time  of |ight  (MALDI-TOF) mass spectrometry  (provided there is an appropriate database). B. pseudomallei is  intrinsically  resistant to many antibiotics. In general, it is susceptible to chloramphenicol, the tetracyclines, trimethoprim-sulfamethoxazole, ureidopenicillins, third-generation cephalosporins, carbapenems, and, unusually for a 'pseudomonad,' amoxicillin-clavulanate. B. pseudomallei is intrinsically  resistant  to  other  penicillins,  {rst-  and  second-generation cephalosporins, macrolides, rifamycins, polymixins (colistin), and the  aminoglycosides.  Naturally  occurring  mutants  have  been reported that lack  the ef|ux  pump and are susceptible to both macrolides and aminoglycosides. The |uoroquinolones have weak activity and have proved very disappointing in clinical trials. This unusual antibiotic susceptibility pro{le (i.e., gentamicin and colistin resistance but co-amoxiclav susceptibility) in an oxidase-positive, gram-negative rod is also useful for rapid identi{cation. B. mallei generally shows a similar pattern of antimicrobial susceptibility, except that it is gentamicin sensitive.
+
+============================================================
+CHUNK 11
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Cultures should be plated on routine blood agar and Ashdown's selective medium. Swabs from open, contaminated sites should also be placed in a selective pre-incubation broth. Small colonies are often evident on agar plates in 24 hours. The median time to blood culture positivity is 48 hours but is shorter with automated systems. Direct immuno|uorescence on sputum, urine, or pus is 98%  speci{c  and  approximately  70%  sensitive  compared  with culture but allows a diagnosis to be made in less than 30 minutes. B. pseudomallei has a characteristic biochemical pro{le and can be rapidly identi{ed by speci{c latex agglutination tests. The de{nitive diagnosis  of  melioidosis  is  made  by  isolation  of B.  pseudomallei from any site, as the organism is not carried asymptomatically. In the  past,  serologic  tests,  such  as  the  indirect  hemagglutination (IHA) assay were used widely. The IHA predominantly detects antibodies directed against the remarkably conserved lipopolysaccharide-the immunodominant antigen. Serologic tests may be of value in excluding melioidosis or supporting the diagnosis in areas where prevalence is low; however, they are of less value in endemic areas where a signi{cant proportion of the population is seropositive.
+
+============================================================
+CHUNK 12
+============================================================
+TREATMENT
+Initial intensive care management of severe melioidosis is similar to that of any severe gram-negative septicemia. Patients should be resuscitated with adequate intravenous |uids, as hypovolemia is common in the acute phase. Carbapenems kill B. pseudomallei more rapidly than cephalosporins but have not shown superiority in randomized controlled trials. 18,19 Thus the antibiotics of choice are ceftazidime or a carbapenem (meropenem; T able 76.1). Other thirdgeneration cephalosporins are signi{cantly less effective. Parenteral co-amoxiclav was associated with a similar mortality to ceftazidime but had a higher rate of treatment failure. Cefoperazone-sulbactam has  also  proved  effective. Thus  co-amoxiclav  is  an  appropriate empirical treatment for septicemia in areas where melioidosis is
+TABLE 76.1 Parenteral Treatment of Melioidosis
+
+Ceftazidime, Dose = 40 mg/kg: 8-hourly*. Meropenem, Dose = 20 mg/kg: 8-hourly
+Parenteral treatment should continue until there is clear improvement and the patient can take oral medications. Parenteral treatment should be given for at least 10 and preferably 14 days. Meropenem is preferred for infection of the central nervous system, and the dose should be doubled. Trimethoprim-sulfamethoxazole has excellent tissue penetration and can be added from the start of the initial intensive therapy in central nervous system infection, osteomyelitis and septic arthritis, and genitourinary infection, including prostatic abscesses. The therapeutic response is very slow (median fever clearance: 9 days). Physicians often switch antibiotics prematurely, fearing the emergence of resistance (which occurs in < 3% of patients).
+Dosages often require adjustment for renal failure. Other thirdgeneration cephalosporins (e.g., cefotaxime, ceftriaxone) should not be used, as these have been associated with an increased mortality despite apparent in vitro susceptibility.
+*Or 19 mg/kg IV stat followed by a continuous infusion of 3.5 mg/kg/h.
+
+============================================================
+CHUNK 13
+============================================================
+TREATMENT
+TABLE 76.2 Oral Treatment of Melioidosis
+
+Trimethoprim-sulfamethoxazole, Dose = < 40 kg: 6/30 mg/kg 12-hourly 40-60 kg: 240/1200 mg 12-hourly > 60 kg: 320/1600 mg 12-hourly. Co-amoxiclav (Amoxicillin- clavulanate)*, Dose = 20 mg/5 mg/kg: 8-hourly
+The treatment of choice is trimethoprim-sulfamethoxazole. The usual total duration of treatment is 20 weeks, but longer courses are often needed for complicated lung infections, empyemas, osteomyelitis, septic arthritis, extensive deep-seated infection (including prostatic abscesses), and central nervous system infection.
+*Pregnant women in the first trimester should be given co-amoxiclav (amoxicillin-clavulanate).
+endemic, but treatment should be changed to ceftazidime or a carbapenem once the diagnosis of melioidosis has been con{rmed. Large and accessible abscesses should be drained.
+Melioidosis is  dif{cult  to  treat.  Systemic  infections  respond very slowly to speci{c treatment. The median time to fever resolution is 9 days. Patients with large abscesses or empyema may have high  swinging  fevers  for  more  than  1  month.  Inexperienced physicians  commonly  switch  antibiotic  treatment  prematurely, fearing that the persistent fever re|ects the emergence of drug resistance. This is rare; resistance develops to the β -lactam antibiotic in less than 1% of treated cases. High-dose parenteral treatment should be given for a minimum of 10 days and preferably at least 14 days in systemic infections and the switch to oral treatment only made when there is clear evidence of clinical improvement. Enlargement of an abscess or appearance of new abscesses, particularly in skeletal muscle, or seeding to a joint, is not uncommon in the {rst week of treatment and it is not necessarily a sign of treatment failure. Blood cultures are usually negative by the end of the {rst week, whereas infected sputum or draining abscesses can  remain  culture-positive  for  1  month  in  infections  that  are responding to treatment.
+
+============================================================
+CHUNK 14
+============================================================
+TREATMENT
+Oral  'eradication  therapy'  is  with  high-dose  trimethoprimsulfamethoxazole continued to complete a full 20 weeks of treatment (Table 76.2). 20 In pregnant women in the {rst trimester or patients unable to take trimethoprim-sulfamethoxazole high-dose co-amoxiclav may be given as an alternative. Despite this protracted course, the recurrence rate is approximately 10% (range 5%-28%). In Thailand, the median time to recurrence is 21 weeks. T wo-thirds of recurrences are relapses and a third are re-infections. The prognosis of melioidosis is better in children and relapse is rare. Adult patients require lifelong follow-up. The  optimum  duration  of  maintenance  treatment  for suppurative parotitis has not been determined but, in general, 8 weeks of treatment are suf{cient. These patients do not relapse and the overall prognosis is good.
+
+============================================================
+CHUNK 15
+============================================================
+REFERENCES
+1.  Whitmore A,  Krishnaswami  CS. An  account  of  the  discovery  of  a hitherto undescribed infective disease occurring among the population of Rangoon. Ind Med Gaz 1912;47:262-7.
+2.  Dance  DAB.  Melioidosis:  the  tip  of  the  iceberg?  Clin  Micro  Rev 1991;4:52-60.
+3.  Chaowagul W, White NJ, Dance DA, et al. Melioidosis: a major cause of community-acquired septicemia in northeastern Thailand. J Infect Dis 1989;159:890-9.
+4.  Stephens DP , Thomas JH, Ward LM, Currie BJ. Melioidosis causing critical  illness:  a  review  of  24  years  of  experience  from  the  Royal Darwin Hospital ICU. Crit Care Med 2016;44:1500-5.
+5.  Cheng AC,  Currie  BJ.  Melioidosis: epidemiology, pathophysiology, and management. Clin Microbiol Rev 2005;18:383-416.
+6.  Limmathurotsakul D, Golding N, Dance DA, et al. Predicted global distribution of Burkholderia  pseudomallei and  burden of melioidosis. Nat Microbiol 2016;1:e15008.
+7.  White NJ. Melioidosis. Lancet 2003;361:1715-22.
+8.  Kanaphun  P ,  Thirawattasuk  N,  Suputtamongkol  Y,  et al.  Serology and  carriage  of Pseudomonas  pseudomallei: a  prospective  study  in 1000  hospitalised  children  in  northeastern  Thailand.  J  Infect  Dis 1993;167:230-3.
+9.  Ong CEL, Wongsuvan G, Chew JSW, et al. Presence of Burkholderia pseudomallei in  soil  and  paddy  rice  water  in  a  rice  {eld  in  northeast  Thailand,  but  not  in  air  and  rainwater.  Am  J T rop  Med  Hyg 2017;97:1702-5.
+10.  Limmathurotsakul D, Wongsuvan G, Aanensen D, et al. Melioidosis caused by Burkholderia pseudomallei in drinking water, Thailand, 2012. Emerg Infect Dis 2014;20:265-8.
+
+============================================================
+CHUNK 16
+============================================================
+REFERENCES
+11.  Moore  RA,  Reckseidler-Zenteno  S,  Kim  H,  et al.  Contribution  of gene loss to the pathogenic evolution of Burkholderia pseudomallei and Burkholderia mallei . Infect Immun 2004;72:4172-87.
+12.  Chewapreecha C, Holden MT, Vehkala M, et al. Global and regional dissemination and evolution of Burkholderia pseudomallei . Nat Microbiol 2017;2:e16263.
+13.  Wiersinga WJ, Virk HS, T orres AG, et al. Melioidosis. Nat Rev Dis Primers 2018;4:e17107.
+14.  Van Zandt KE, Greer MT, Gelhaus HC. Glanders: an overview of infection in humans. Orphanet J Rare Dis 2013;8:131.
+15.  T urner  P ,  Kloprogge  S,  Miliya  T ,  et al.  A  retrospective  analysis  of melioidosis  in  Cambodian  children,  2009-2013.  BMC  Infect  Dis 2016;16:688.
+16.  Walsh AL, Wuthiekanun V. The laboratory diagnosis of melioidosis. Br J Biomed Sci 1996;53:249-53.
+17.  Dance DA, Limmathurotsakul D, Currie BJ. Burkholderia pseudomallei : challenges for the clinical microbiology Laboratory-a response from the front line. J Clin Microbiol 2017;55:980-2.
+18.  White NJ, Dance DA, Chaowagul W, et al. Halving of mortality of severe melioidosis by ceftazidime. Lancet 1989;2:697-701.
+19.  Simpson AJH, Suputtamongkol Y, Smith MD, et al. Comparison of imipenem  and  ceftazidime  as  therapy  for  severe  melioidosis.  Clin Infect Dis 1999;29:381-7.
+
+============================================================
+CHUNK 17
+============================================================
+REFERENCES
+20.  Chetchotisakd P, Chierakul W, Chaowagul W, et al. Trimethoprimsulfamethoxazole versus trimethoprim-sulfamethoxazole plus doxycycline as oral eradicative treatment for melioidosis (MERTH): a multicentre, double-blind,  non-inferiority,  randomised  controlled  trial.  Lancet 2014;383:807-14.
+

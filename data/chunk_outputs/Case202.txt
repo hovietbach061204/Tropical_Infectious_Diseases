@@ -1,0 +1,165 @@
+============================================================
+CHUNK 0
+============================================================
+Key features
+- Loiasis, infection with the %larial nematode Loa loa , is endemic in Central and West Africa
+- Characteristic clinical manifestations include episodic angioedema (Calabar swellings) and subconjunctival migration of adult worms (eyeworm)
+- Micro%lariae are found in the peripheral blood during the day
+- Treatment with diethylcarbamazine (DEC) is curative in most cases, but is associated with severe side e&ects in patients with high levels of circulating micro%lariae
+- Weekly DEC is e&ective in preventing loiasis in travelers to endemic regions
+
+============================================================
+CHUNK 1
+============================================================
+INTRODUCTION
+Infection  with  the  filarial  nematode Loa  loa was  first  described  by Mongin in 1770, when he extracted an adult worm from the eye of an  African  slave  [1].  The  clinical  manifestations  were  not  fully described,  however,  until  1781  by  Guyot.  Adult  worms  migrate through the subcutaneous tissues causing intermittent 'Calabar swellings'  and  sometimes  migrate  beneath  the  conjunctiva  (hence  the popular name eye worm ). Although many infected people are asymptomatic  despite  large  numbers  of  circulating  microfilariae  in  the blood, administration of microfilaricidal agents, including diethylcarbamazine and ivermectin, can cause severe, sometimes fatal, treatment-associated  reactions.  This  has  created  challenges  for  the Global Programme to Eliminate Lymphatic Filariasis.
+
+============================================================
+CHUNK 2
+============================================================
+EPIDEMIOLOGY
+It has been estimated that Loa loa infects 3 to 13 million people in Central and West Africa with a distribution that mirrors the distribution of the Chrysops fly vectors, which breed in wet mud on the edge of shaded streams beneath the high-canopied rain forest. The endemic areas of Africa are illustrated in Figure 1 1 1.1. Isolated cases have also been reported in Uganda, Malawi, Zambia and Ethiopia, and in the region from Ghana to Guinea.
+Infection rates are usually higher in adults, particularly males, than in children, probably because of increased exposure to biting flies. Nonhuman primates harbor a form of Loa, but there is no evidence that they act as reservoir hosts for human Loa loa , and infection of humans by the simian strain has not been demonstrated.
+
+============================================================
+CHUNK 3
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+Loa  loa is  transmitted  by  large  tabanid  flies  of  the  genus Chrysops, known in Africa as red flies (Fig. 1 1 1.2). The species C. silacea and C. dimidiata are  the  most  important.  Microfilariae  are  ingested  by  the vector during a blood meal and develop over the course of 10 to 12 days into infective filariform (L3) larvae. Many larvae (up to 100) can develop  in  a  single  fly.  When  the  fly  bites  a  new  host,  larvae  are injected  and  develop  into  adult  worms  over  the  course  of  6  to  12 months. Adult Loa are thin transparent worms that migrate through the subcutaneous tissues at rates of up to 1 cm/min. Females measure 50-70 × 0.5 mm, and males 30-35 × 0.3-0.4 mm. The cuticle of the middle region in both sexes has numerous small bosses that aid in identifying portions of worms removed at biopsy. Adult worms can survive for up to 17 years. Following sexual mating, microfilariae are released into the bloodstream, where they exhibit diurnal periodicity [2]. Peak microfilarial levels in the blood range from undetectable to more  than  100,000  parasites/mL  and  are  remarkably  stable  in  an individual  person  over  time.  Of  note, Loa  loa does  not  harbor  the
+FIGURE  111.1 Geographic  distribution  of  loiasis.  Endemic  areas  are shaded. Please note that the prevalence of infection within an endemic area is typically focal.
+c stage)
+FIGURE 111.2 Loa loa life cycle
+bacterial endosymbiont Wolbachia , found in most other filarial pathogens of humans [3].
+
+============================================================
+CHUNK 4
+============================================================
+CLINICAL FEATURES
+The clinical spectrum of loiasis is broad, ranging from asymptomatic infection to life-threatening complications of encephalitis, cardiomyopathy and renal failure. With the exception of eye worm and renal abnormalities  (see  below),  clinical  signs  and  symptoms  are  more common in visitors to Loaendemic areas than in people native to these areas and reflect a heightened immune response to the parasite. Conversely,  microfilariae  are  detectable  in  the  peripheral  blood of  most  endemic  individuals  with  loiasis  but  are  rare  in  infected visitors [4].
+
+============================================================
+CHUNK 5
+============================================================
+CALABAR SWELLINGS
+Recurrent  episodes  of  localized  angioedema,  or  Calabar  swellings (Fig.  1 1 1.3),  are  one  of  the  characteristic  manifestations  of  loiasis. Although  their  precise  etiology  is  unproved,  Calabar  swellings  are thought  to  be  a  hypersensitivity  response  to  antigenic  material released  by  a  migrating,  developing  or  adult  worm.  They  are  most common on the face and extremities. Typically, an area of pain or itching develops, followed within hours by the development of a 10to 20-cm area of nonpitting edema. The edema lasts from a few days to several weeks and is usually painless, except when the location of the swelling causes restriction of joint movement or nerve compression. Peripheral nerve compression is most common in the region of
+FIGURE 111.3 Calabar swelling. (Courtesy of Joseph Kamgno.)
+the carpal tunnel and may be transiently exacerbated by diethylcarbamazine (DEC) treatment.
+
+============================================================
+CHUNK 6
+============================================================
+EYE WORM
+Subconjunctival  migration  of  the  adult  eye  worm  (Fig.  1 1 1.4),  is generally accompanied by transient swelling of the lid and intense
+FIGURE 111.5 Loa loa microfilaria in a thick blood smear of peripheral
+FIGURE 111.4 Subconjunctival migration of an adult Loa loa worm.
+FIGURE 111.5 Loa loa micro:laria  in  a  thick  blood  smear  of  peripheral blood  stained  with  Dela:eld's  hematoxylin  (180 × ),  showing  the  sheath (clear halo) and nuclei extending to the tip of the tail. (Courtesy of W Meyers, Armed Forces Institute of Pathology.)
+conjunctivitis.  Although  most  episodes  resolve  spontaneously  and completely, rare cases of retinal artery occlusion and macular retinopathy  due  to  aberrant  migration  of  the  adult  parasite  have  been reported.
+
+============================================================
+CHUNK 7
+============================================================
+OTHER SYMPTOMS
+Nonspecific systemic symptoms including pruritus, urticaria, myalgia, arthralgia, fatigue and malaise are common. Eosinophilia is marked in most infected individuals.
+
+============================================================
+CHUNK 8
+============================================================
+Central Nervous System
+The  most  serious  complication  of Loa  loa infection  is  meningoencephalitis, which occurs predominantly in patients with high numbers of  circulating  microfilariae,  particularly  in  the  setting  of  treatment with DEC or ivermectin.
+The severity of central nervous system involvement ranges from mild headache and meningismus to coma and death. Occasionally, microfilariae are found in the cerebrospinal fluid, and, in fatal cases, degenerating microfilariae have been seen in necrotizing granulomas in the brain.
+
+============================================================
+CHUNK 9
+============================================================
+Renal
+Hematuria and proteinuria are commonly seen in loiasis and may be due to immune complex glomerulonephritis or mechanical trauma resulting  from  the  filtration  of  large  numbers  of  microfilariae.  The urinary sediment is usually unremarkable, except for the occasional detection of microfilariae. Transient worsening may occur following DEC treatment; most cases resolve completely with treatment, and progression to chronic renal insufficiency is unusual.
+
+============================================================
+CHUNK 10
+============================================================
+Endomyocardial Fibrosis
+Loiasis has been implicated in the etiology of some cases of endomyocardial fibrosis (EMF) in equatorial Africa based on the higher prevalence of EMF in Loa -endemic areas than in other regions in Africa and high levels of antifilarial antibodies detected in some individuals with EMF. Although clinical resolution of biopsy-proven EMF with antifilarial therapy has been documented in one patient with concomitant  loiasis,  the  relationship  between  these  two  clinical  entities remains unclear.
+
+============================================================
+CHUNK 11
+============================================================
+Other Complications
+Transient  pulmonary  infiltrates  and  pleural  effusion  have  been reported. Other uncommon manifestations of loiasis include arthritis, lymphangitis and hydrocele.
+
+============================================================
+CHUNK 12
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+Loiasis should be considered in an individual with a compatible travel history and unexplained eosinophilia, Calabar swellings, or an adult worm migrating  under  the  skin  or  across  the  eye.  Sometimes,  the diagnosis is suggested by dead, calcified worms seen on a roentgenogram.  Most  people  have  a  history  of  prolonged  exposure  in  an endemic area, although cases have been reported after 1-2 weeks in a highly endemic area.
+
+============================================================
+CHUNK 13
+============================================================
+DEFINITIVE DIAGNOSIS
+Demonstration of Loa loa microfilariae in the blood or identification of an adult Loa loa worm removed from the subcutaneous tissue is diagnostic. Microfilariae can be  distinguished from  microfilariae of Wuchereria bancrofti and Mansonella perstans, other filarial pathogens whose  geographic  distribution  overlaps  that  of Loa  loa ,  by  their diurnal periodicity, their size (approximately 290 × 7.5 μ m), the presence of a sheath and three or more nuclei extending to the tip of the tail  (Fig.  1 1 1.5).  Blood  should  be drawn  between 10 am and 2 pm (with adjustment made for recent [ < 2 weeks] travel from a different time  zone)  to  coincide  with  peak  levels  of  microfilariae.  Although microfilariae can be seen in thick blood smears stained with Giemsa or Wright's stain, concentration techniques, including Knott's concentration, saponin lysis, and filtration of anticoagulated blood through a 5μ m Nuclepore filter, are useful in patients with low numbers of circulating  microfilariae.  Species-specific  PCR-based  diagnostics  are more sensitive than blood filtration, but are available only in research settings [5].
+
+============================================================
+CHUNK 14
+============================================================
+PRESUMPTIVE DIAGNOSIS
+Immunodiagnostic tests are available commercially and at some academic  centers  and  may  be  useful  in  confirming  the  diagnosis  of filariasis in travelers from endemic areas who have characteristic clinical symptoms or unexplained eosinophilia but no detectable microfilariae  in  blood  [6].  Currently  available  tests  do  not  distinguish between  the  human  filariae,  including lymphatic  filariasis  and onchocerciasis, which have overlapping geographic distributions with loiasis. The high prevalence of antifilarial antibodies in native populations of Loa -endemic areas limits the utility of serologic tests in this group.
+
+============================================================
+CHUNK 15
+============================================================
+DIFFERENTIAL DIAGNOSIS
+In the absence of definitive, parasitologic evidence of infection, the diagnosis of loiasis can be difficult. Angioedema mimicking Calabar
+
+============================================================
+CHUNK 16
+============================================================
+DIFFERENTIAL DIAGNOSIS
+Treatment of choice, TABLE 111-1 Treatment of Loiasis.Treatment = DEC. Treatment of choice, TABLE 111-1 Treatment of Loiasis.Dose = 3 mg/kg three times daily for 21 days. Treatment of choice, TABLE 111-1 Treatment of Loiasis.Comments = Severe side e;ects in patients with high mf levels. Treatment of choice, TABLE 111-1 Treatment of Loiasis.Evidence = Multiple anecdotal reports and small case series. Pre-treatment for patients with high mf levels, TABLE 111-1 Treatment of Loiasis.Treatment = Cytapheresis. Pre-treatment for patients with high mf levels, TABLE 111-1 Treatment of Loiasis.Dose = N/A. Pre-treatment for patients with high mf levels, TABLE 111-1 Treatment of Loiasis.Comments = Requires special settings. Pre-treatment for patients with high mf levels, TABLE 111-1 Treatment of Loiasis.Evidence = Case series. Pre-treatment for patients with high mf levels, TABLE 111-1 Treatment of Loiasis.Treatment = Albendazole. Pre-treatment for patients with high mf levels, TABLE 111-1 Treatment of Loiasis.Dose = 200 mg twice daily for 21 days. Pre-treatment for patients with high mf levels, TABLE 111-1 Treatment of Loiasis.Comments = . Pre-treatment for patients with high mf levels, TABLE 111-1 Treatment of Loiasis.Evidence = Double-blind trial. Refractory disease, TABLE 111-1 Treatment of Loiasis.Treatment = Albendazole. Refractory disease, TABLE 111-1 Treatment of Loiasis.Dose = 200 mg twice daily for 21 days. Refractory disease, TABLE 111-1 Treatment of Loiasis.Comments = . Refractory disease, TABLE 111-1 Treatment of Loiasis.Evidence = Case series. Prophylaxis, TABLE 111-1 Treatment of Loiasis.Treatment = DEC. Prophylaxis, TABLE 111-1 Treatment of Loiasis.Dose = 300 mg weekly. Prophylaxis, TABLE 111-1 Treatment of Loiasis.Comments = . Prophylaxis, TABLE 111-1 Treatment of Loiasis.Evidence = Double-blind trial. DEC, diethylcarbamazine; mf, micro:lariae., TABLE
+
+============================================================
+CHUNK 17
+============================================================
+DIFFERENTIAL DIAGNOSIS
+111-1 Treatment of Loiasis.Treatment = DEC, diethylcarbamazine; mf, micro:lariae.. DEC, diethylcarbamazine; mf, micro:lariae., TABLE 111-1 Treatment of Loiasis.Dose = DEC, diethylcarbamazine; mf, micro:lariae.. DEC, diethylcarbamazine; mf, micro:lariae., TABLE 111-1 Treatment of Loiasis.Comments = DEC, diethylcarbamazine; mf, micro:lariae.. DEC, diethylcarbamazine; mf, micro:lariae., TABLE 111-1 Treatment of Loiasis.Evidence = DEC, diethylcarbamazine; mf, micro:lariae.
+swellings can be associated with C1 esterase deficiency, other helminth infections  such  as  gnathostomiasis  and  trichinosis,  and  allergic diseases. Subconjunctival migration of an adult worm is highly suggestive of loiasis, although other etiologies, including Dirofilaria repens and Thelazia californiensis , have been described.
+
+============================================================
+CHUNK 18
+============================================================
+TREATMENT
+In patients with few or no circulating microfilariae, DEC at a dose of 8 to 10 mg/kg/day for 21 days is the drug of choice ( Table 1 1 1-1 ). The drug is not directly toxic  to the  parasites but works in conjunction with  the  host  immune  responses  to  kill  microfilariae  and  adult worms. DEC is curative in most cases, although multiple courses of therapy are often necessary, and relapses have been documented as late as 8 years after treatment [7].
+Mild side effects of DEC treatment, including Calabar swellings, urticaria,  arthralgias,  fever  and  right  upper  quadrant  tenderness,  are common during the first few days of therapy and generally respond to antihistamines or a short course of corticosteroids. DEC should not be used in patients with concomitant onchocerciasis, because of the risk  of  severe  cutaneous  and  ocular  reactions  in  these  individuals. Serious complications of DEC treatment, including meningoencephalitis  and  renal  failure,  are  most  common  in  patients  with  high numbers of circulating microfilariae ( > 2500/mL) and are thought to be due to the massive release of antigens from dying microfilariae [8]. Although advocated in the past, neither a gradual increase in DEC dose nor pretreatment with corticosteroids is completely effective in preventing encephalitis in such patients. Consequently, if therapy is indicated in a patient with high numbers of circulating microfilariae, cytapheresis should be used to reduce the microfilarial load prior to the initiation of DEC and corticosteroid therapy [9].
+Albendazole, at a dose of 200 mg twice daily for 3 weeks, reduced Loa microfilaremia  by  approximately  80%  over  the  course  of  several months without adverse effects [10]. Shorter courses of higher-dose albendazole appear to be less effective [1 1]. Albendazole is thought to have an effect on adult parasites by inhibiting microtubular function and glucose uptake. Albendazole has been used successfully in DEC-refractory Loa loa infection.
+
+============================================================
+CHUNK 19
+============================================================
+TREATMENT
+Ivermectin,  the  treatment  of  choice  for  onchocerciasis,  has  activity against Loa loa microfilariae, but little, if any, effect on adult worms. Consequently, since ivermectin is not curative and causes similar side effects  to  those  seen  with  DEC  in  patients  with  high  microfilarial loads [12], it should not be used for the treatment of loiasis. Doxycycline is not effective in loiasis due to the absence of the bacterial endosymbiont Wolbachia .
+Elimination of insect vectors using larvicides has been hampered by the inaccessibility of vector breeding sites. Clearance of forest around dwellings, screening houses, and use of protective clothing can effectively reduce personal exposure to Chrysops in endemic areas. DEC at a dose of 300 mg weekly is effective in preventing loiasis in long-term travelers to endemic areas [13].
+
+============================================================
+CHUNK 20
+============================================================
+REFERENCES
+1. Mongin. Observation on a worm found under conjunctiva in Maribou, Saint Domingue Island. J Med Chir Pharm Paris 1770;32:338-9.
+2. Duke  BOL.  Behavioural  aspects  of  the  life  cycle  of  Loa.  In:  Canning  ED, Wright CA, eds. Behavioural Aspects of Parasite Transmission. London: Academic Press; 1972:97-108.
+3. Bü ttner  DW,  Wanji  S,  Bazzocchi  C,  et  al.  Obligatory  symbiotic Wolbachia endobacteria are absent from Loa loa . Filaria J 2003;2:10.
+4. Klion AD, Massougbodji A, Sadeler B-C, et al. Loiasis in endemic and nonendemic populations: immunologically mediated differences in clinical presentation. J Infect Dis 1881;163:1318-25.
+5. Nutman TB, Zimmerman PA, Kubofcik J, et al. ELISA-based detection of PCR products: a universally applicable approach to the diagnosis of filarial and other infections. Parasitol Today 1994;10:239-43.
+6. Burbelo  PD,  Ramanathan  R,  Klion  AD,  et  al.  Rapid,  novel,  specific,  highthroughput assay for diagnosis of Loa loa infection.  J  Clin  Microbiol 2008; 46:2298-304.
+7. Diagnosis of loiasis can be difficult, especially in the absence of microfilariae in the blood. The authors describe a novel antibody assay for specific diagnosis of Loa loa infection.
+7. Klion AD, Ottesen EA, Nutman TB. Effectiveness of  diethylcarbamazine in treating loiasis acquired by expatriate visitors to endemic regions: long term follow-up. J Infect Dis 1994;169:604-10.
+8. Carme  B,  Boulesteix  J,  Boutes  H,  et  al.  Five  cases  of  encephalitis  during treatment  of  loiasis  with  diethylcarbamazine.  Am  J  Trop  Med  Hyg  1991; 44:684-90.
+
+============================================================
+CHUNK 21
+============================================================
+REFERENCES
+9. Chandenier J, Pillier-Loriette C, Datry A, et al.  Value of cytapheresis in the treatment of loaiasis with high blood microfilaria levels. Results in 7 cases. Bull Soc Pathol Exot Filiales 1987;80:624-33.
+10.  Klion AD, Massougbodji A, Horton J, et al. Albendazole in human loiasis: results  of  a  double-blind,  placebo-controlled  trial.  J  Infect  Dis  1993;168: 202-6.
+11.  Tsague-Dongmo L, Kamgno J, Pion SDS, et al. Effects of a 3-day regimen of albendazole (800 mg daily) on Loa loa microfilaremia. Ann Trop Med Parasitol 2002;96:707-15.
+12.  Gardon J, Gardon-Wendel N, Demanga-Ngangue, et al. Serious reaction after mass treatment of onchocerciasis with ivermectin in an area endemic for Loa loa infection. Lancet. 1997;350:18-22.
+Severe  post-treatment  reactions  have  been  recognized  as  a  complication  of  DEC treatment of loiasis for decades. This study demonstrates similar post-treatment reactions during mass administration of ivermectin for onchocerciasis control.
+13.  Nutman TB, Miller KD, Mulligan M, et al. Diethylcarbamazine prophylaxis for human loiasis. Results of a double-blind study. N Engl J Med 1988;319: 752-6.
+

@@ -1,0 +1,235 @@
+============================================================
+CHUNK 0
+============================================================
+Key features
+- Mansonella species that infect humans include M. perstans , M.ozzardi, and M. streptocerca
+- Mansonella species vary considerably in their geographic distribution and the location of adult and larval parasites in the host
+- Despite high prevalences of infection in endemic areas, clinical manifestations of Mansonella infections are uncommon
+- Diro+laria infection is a zoonosis spread by mosquitoes that is worldwide in distribution
+- The most common presentation of Diro+laria immitis (dog heartworm) infection in humans is an asymptomatic coin lesion seen on chest radiography
+- Responses of Mansonella and Diro+laria parasites to antiGLYPH<c=31,font=/CIDFont+F9>larial  treatment vary by species
+
+============================================================
+CHUNK 1
+============================================================
+INTRODUCTION
+Microfilariae  of  the  filarial  parasite Mansonella  perstans (synonyms: Dipetalonema perstans , Acanthocheilonema perstans , Tetrapetalonema perstans ) were first described in the blood of an African by Manson in 1891; in 1898, the adult parasite was extracted from the mesentery of an  Amerindian  in  Guyana  [1].  Generally  believed  to  cause  little pathology and, until recently, refractory to antifilarial chemotherapy, M. perstans has been understudied.
+
+============================================================
+CHUNK 2
+============================================================
+EPIDEMIOLOGY
+M. perstans is endemic throughout much of tropical Africa, especially in the region from Senegal east to Uganda and south to Zimbabwe, and in South America along the Atlantic coast from Panama to Argentina.  Minor  foci  have  also  been  identified  in  Algeria  and  Tunisia. Although  the  total  number  of  people  infected  with M.  perstans is unknown, the prevalence of microfilaremia may reach 100% in highly endemic areas [2]. Infection of travelers is rare [3]. Nonhuman primates (gorillas and chimpanzees) can harbor infection with M. perstans , but do not appear to be a major reservoir of infection.
+
+============================================================
+CHUNK 3
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+M. perstans is transmitted by biting midges of the genus Culicoides, of which the species C. milnei and C. grahamii are the most important.
+
+============================================================
+CHUNK 4
+============================================================
+Amy D Klion
+The infected larvae penetrate the skin and develop over the course of 9 to 12 months into adult worms (males 35-45 mm × 50-70 μ m; females 60-80 mm × 100-150 μ m) that inhabit the pleural, peritoneal and pericardial cavities, as well as the mesentery, perirenal and retroperitoneal  tissues  [4].  Microfilariae  of M.  perstans ,  which  are small  (3.5-4.5 μ m × 100-200 μ m)  and  unsheathed  with  a  round terminal nucleus  at  the  tip  of  the  tail  (Fig.  1 13.1),  circulate  in  the blood without periodicity.  Some isolates  of M.  perstans harbor  the bacterial endosymbiont Wolbachia , found in most other filarial pathogens of humans [5].
+
+============================================================
+CHUNK 5
+============================================================
+CLINICAL FEATURES
+Although most patients with M. perstans infection are asymptomatic, clinical manifestations  include transient  subcutaneous  swellings similar to the Calabar swellings of loiasis, urticaria, pruritus, arthralgias, abdominal pain, and fatigue. Serositis, including pleuritis and pericarditis, meningoencephalitis, neuropsychiatric disturbances, hepatitis, granulomatous nodules in the conjunctiva, retinal lesions and periorbital inflammation surrounding dead adult worms ( bungeye or bulge-eye ) have also been described. Eosinophilia and elevated serum IgE levels are common [6].
+
+============================================================
+CHUNK 6
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+The  diagnosis  of M.  perstans infection  is  most  often  made  when microfilariae are detected incidentally in the peripheral blood. Infection should also be considered in individuals with a history of prolonged residence in an endemic area who present with unexplained eosinophilia and/or any of the clinical signs and symptoms described above. Microfilariae can be seen in thick blood smears stained with Giemsa  or  Wright's  stain;  concentration  techniques  are  useful  in patients with low numbers of circulating microfilariae. Species-specific PCR-based diagnostics are more sensitive than blood filtration, but are available only in research settings. Rarely, adult worms are recovered intact or appear in histologic sections.
+
+============================================================
+CHUNK 7
+============================================================
+TREATMENT
+M. perstans infection is relatively refractory to most antifilarial therapies, including diethylcarbamazine (DEC), ivermectin and albendazole  [7].  The  current  recommended  therapy,  DEC  at  a  dose  of 8-10 mg/kg/day for 21 days, is rarely curative, and multiple courses of  therapy  are  often  needed.  Mebendazole  (100-200 mg  daily  for 14-21 days) alone or in combination with DEC (400 mg daily for 21 days) appears to be more effective than DEC alone, clearing M. perstans microfilaremia in up to 37% of subjects in one study [7]. In a more recent randomized trial, doxycycline (200 mg daily for 6 weeks), which has activity against the intracellular endosymbiont Wolbachia , was  100%  effective  in  clearing M.  perstans microfilariae  from  the blood of infected subjects in Mali for up to 36 months [8].
+nr ap
+FIGURE 113.1 Thin  blood  <lm, Mansonella perstans micro<laria  (Giemsa stain, × 890); cephalic space (ces), nucleus (n), nerve ring (nr), anal pore (ap). (Courtesy of the Armed Forces Institute of Pathology, Photograph Neg. No. 74.5605.)
+
+============================================================
+CHUNK 8
+============================================================
+INTRODUCTION
+In 1897, Manson first described microfilariae in the blood of Amerindians  in  Guyana  [9].  He  named  the  species Filaria  ozzardi after Ozzard, who obtained the specimens. In 1929, Faust named the new genus Mansonella .
+
+============================================================
+CHUNK 9
+============================================================
+EPIDEMIOLOGY
+M. ozzardi is restricted to Central America, South America (Colombia, Venezuela, Guyana, Suriname, Brazil, Argentina, Bolivia) and the Caribbean islands (Puerto Rico, Antigua, Guadeloupe, Nevis, Dominican Republic, Haiti, Martinique, St Kitts, St Lucia, St Vincent, and Trinidad). Although the total number of people infected with M. ozzardi is  unknown,  the  prevalence  of  microfilaremia  may  reach  70%  in highly  endemic  villages.  Infection  of  travelers  is  uncommon  [3]. Humans are the only major reservoir of infection.
+
+============================================================
+CHUNK 10
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+M. ozzardi is transmitted by biting midges of the genus Culicoides as well as by the black fly, Simulium amazonicum . Infective larvae penetrate  the skin and develop over the course of months to years into adult worms that are often found in the thoracic and peritoneal cavities, and have also been described in the lymphatics. M. ozzardi adult females  measure  65-81 mm × 2 1 0-250 μ m. Only a fragment of  a male worm (38 mm × 200 μ m) from humans has been described. Microfilariae can be found in the skin and blood, where they circulate without periodicity [10]. M. ozzardi microfilariae are small (3-5 μ m × 170-240 μ m) and sheathless and are characterized by a cephalic space  2  to  6 μ m long with  two  or  three  overlapping  nuclei  and  a caudal space 3 to 8 μ m long with oval terminal nuclei (Fig. 1 13.2). M. ozzardi harbors the bacterial endosymbiont Wolbachia [1 1].
+
+============================================================
+CHUNK 11
+============================================================
+CLINICAL FEATURES
+Although most patients with M. ozzardi infection are asymptomatic [12], clinical manifestations include urticaria, pruritic skin eruptions, edema,  lymphadenopathy,  articular  pains,  fever,  headache,  vertigo, and pulmonary symptoms. Peripheral eosinophilia is common.
+
+============================================================
+CHUNK 12
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+M. ozzardi infection should be considered in individuals with a compatible travel history who present with unexplained eosinophilia and/ or any of the clinical signs and symptoms described above. Definitive diagnosis can be made by demonstration of microfilariae in the blood (see Chapter 1 1 1) or in skin snips (see Chapter 1 12). Currently available serologic tests are not species-specific and do  not differentiate between exposure and infection. PCR-based diagnostics are available only in research settings.
+
+============================================================
+CHUNK 13
+============================================================
+TREATMENT
+Although diethylcarbamazine (DEC) and albendazole appear ineffective  in  the  treatment  [13],  resolution  of  clinical  symptoms and reduction of microfilarial levels have been reported in a single patient  treated  with  ivermectin  [14].  More  recently,  a  placebocontrolled,  double-blind  study  of  40  patients  in  Trinidad  demonstrated  an  82%  reduction  in M.  ozzardi microfilarial  levels  after  4 years of annual ivermectin (6 mg/year) [15]. The efficacy of doxycycline  in  treating  infections  with  other Wolbachia -containing  filarial parasites  has  been  well  documented but  has  not  been  explored  in M. ozzardi infection.
+
+============================================================
+CHUNK 14
+============================================================
+INTRODUCTION
+In  1922,  Macfie  and  Corson  described  microfilariae  in  the  skin of  Ghanaians  that  were  morphologically  distinct  from Onchocerca volvulus [16]. Adult male and female worms were not demonstrated in  humans  until  1972  and  1975,  respectively  [17].  The  clinical significance of streptocerciasis is likely underestimated  due  to overlap in symptomatology and geographic distribution with onchocerciasis.
+
+============================================================
+CHUNK 15
+============================================================
+EPIDEMIOLOGY
+Although streptocerciasis was believed to be limited to the tropical rain forests of western and central Africa, including northern Angola,  Cameroon,  Central  African  Republic,  People's  Republic  of Congo, Equatorial Guinea, Nigeria, and the Democratic Republic of Congo,  a  focus  was  identified  in  western  Uganda  [18].  Prevalence rates vary widely, but can reach 90% focally. Infection of travelers is uncommon [3]. Although natural infection of nonhuman primates occurs,  their  importance  as  reservoirs  of  streptocerciasis  remains unknown.
+
+============================================================
+CHUNK 16
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+M. streptocerca is transmitted by the biting midge, Culicoides grahamii . The infective larvae penetrate the skin and develop over the course of  months  to  years  into  adult  worms  that  live  in  the  dermis  of the  upper  trunk  and  shoulder  girdle. M.  streptocerca adult  worms measure  approximately  27 mm × 85 μ m (females)  and  17 mm × 50 μ m (males).  Dermal  microfilariae  are  small  (2.5-5 μ m × 180240 μ m),  unsheathed  and  characterized  by  a  sharp  curving  of  the posterior end that frequently gives them a shepherd's crook configuration (Fig. 1 13.3). The cephalic space is 3 to 5 μ m long with four oval nuclei in single file followed by seven to ten smaller rounder nuclei. There  are  no  published  data  on  the  presence  of Wolbachia in M. streptocerca .
+
+============================================================
+CHUNK 17
+============================================================
+CLINICAL FEATURES
+The clinical manifestations of streptocerciasis appear to be restricted to the skin and lymph nodes [19]. Although infection is often asymptomatic, the most common complaint is chronic pruritus, most pronounced over the shoulder girdle and thorax. Characteristic findings include dermal thickening, non-anesthetic hypopigmented macules, and axillary or inguinal  adenopathy. Occasionally,  papules may be present. Peripheral blood eosinophilia is common.
+ap
+FIGURE 113.2 Thick blood <lm, Mansonella ozzardi micro<laria (Giemsa stain). (A) × 820. (Courtesy of the Armed Forces Institute of Pathology, Photograph Neg. No.74-19692.) (B) Anterior end, cephalic space (ces), nerve ring (nr), × 1620. (C) Posterior end, anal pore (ap), caudal space (cas), × 1620.
+FIGURE 113.3 Diagnostic features of micro<lariae of Mansonella streptocerca in sections of skin. The micro<lariae are extravascular in the dermal collagen. (A) Anterior end, showing cephalic space and nuclei ( × 1080). (Courtesy of the Armed Forces Institute of Pathology, Photograph Neg. No.71-10075.) (B) Posterior end with 'shepherd's crook' con<guration and nuclei that reach nearly to the tip ( × 1080). (Courtesy of the Armed Forces Institute of Pathology, Photograph Neg. No.71-10074.)
+
+============================================================
+CHUNK 18
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+M. streptocerca infection should be considered in individuals with a compatible  exposure  history  who  present  with  pruritus,  a  macular hypopigmented  rash,  or  bilateral  inguinal  or  axillary  adenopathy. Diagnosis  is  made  by  morphologic  identification  of  microfilariae from skin snips or biopsies (see Chapter 1 12). PCR has been described and  is  more  sensitive  than  standard  techniques  [20].  As  in  other Mansonella infections, serology is not helpful in making a diagnosis.
+Skin histopathology may be necessary to distinguish M. streptocerca macular lesions from those of early leprosy.
+
+============================================================
+CHUNK 19
+============================================================
+TREATMENT
+DEC  (6 mg/kg/day)  for  14  to  21  days  is  effective  in  killing  both microfilariae and adult worms, but can be accompanied by an exacerbation of clinical symptoms, including pruritus, papular eruptions (Fig. 1 13.4), urticaria, arthralgias, myalgias, fever, headache, nausea, and vomiting. These effects generally subside within 24 to 48 hours
+FIGURE 113.4 Multiple  papules  on  the  chest  of  a  Congolese  man  with streptocerciasis.  Papules  developed  within  18  hours  after  ingestion  of 50 mg  of  diethylcarbamazine. (Courtesy  of  the  Armed  Forces  Institute  of Pathology, Photograph Neg. No.77-5005.)
+and can be managed symptomatically with antihistamines and antiinflammatory  agents.  Ivermectin  (150 μ g/kg  as  a  single  dose)  has been shown to reduce M. streptocerca microfilarial levels [21], although there have been no studies examining the clinical effects of this treatment. The use of doxycycline has not been explored.
+
+============================================================
+CHUNK 20
+============================================================
+INTRODUCTION
+Dirofilariasis,  infection  caused  by  filarial  nematodes  of  the  genus Dirofilaria , is the most common zoonotic filariasis. Human dirofilariasis  was  first  described  in  1885.  Unlike  other  filarial  infections  of humans, which are restricted to the tropics and subtropics, dirofilariasis has a worldwide distribution. Two distinct clinical forms are recognized:  pulmonary  dirofilariasis,  caused  by  the  dog  heartworm, Dirofilaria immitis , and subcutaneous dirofilariasis caused by a variety of species, including D. tenuis and D. repens .
+
+============================================================
+CHUNK 21
+============================================================
+EPIDEMIOLOGY
+The true incidence and geographic distribution of human dirofilariasis are unknown [22]. In general, human infection is determined by the prevalence of infection in the natural host and the extent to which humans are exposed to the mosquito vectors. Pulmonary dirofilariasis has a cosmopolitan distribution with cases reported from North and South  America,  Australia,  Japan,  and  Europe.  Subcutaneous  dirofilariasis has been reported worldwide.
+
+============================================================
+CHUNK 22
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Dirofilaria are zoonotic filarial parasites that are transmitted to their natural hosts by mosquito vectors. The location of the adult worms and microfilariae varies depending on the species. All Dirofilaria examined to date harbor the bacterial endosymbiont Wolbachia [22].
+
+============================================================
+CHUNK 23
+============================================================
+Pulmonary Diro.lariasis
+Although D. immitis infects the  cat,  fox, wolf, coyote, sea lion,  and other mammals, the dog is by far the most important reservoir host. Coiled masses of adult worms inhabit the right ventricle and produce microfilariae, which are taken up by the mosquito vector in a blood meal.  In  human  infection,  parasites  likely  develop  partially  in  the right ventricle before dying and being swept into small pulmonary
+FIGURE 113.5 Roentgenogram of 'coin lesion' 2.5 by 2.0 cm, in right lung. (Courtesy of the Armed Forces Institute of Pathology, Photograph Neg. No.72-10156.)
+arteries.  Neither  mature  adult  worms  nor  microfilaria  have  been found in humans.
+
+============================================================
+CHUNK 24
+============================================================
+Subcutaneous Diro.lariasis
+Most  subconjunctival  dirofilarial  infections  in  humans  in  North America are due to D. tenuis , a raccoon parasite, and in Europe, Africa, and Asia, due to D. repens , a dog and cat parasite. Rare cases of subconjunctival disease due to D. immitis have been reported in Asia and Australia. Other species that have been identified as causes of subcutaneous infections in humans include D. striata , a parasite of wildcats, and D. ursi , a parasite of bears. Humans are not a definitive host for these parasites, and although occasionally gravid worms have been identified, microfilariae have not been detected.
+
+============================================================
+CHUNK 25
+============================================================
+Pulmonary Diro.lariasis
+Most cases of pulmonary dirofilariasis present as asymptomatic coin lesions on routine chest radiography (Fig. 1 13.5). Lesions are most often solitary, 1-3 cm in diameter, sharply defined and located in the periphery  of  the  lung.  When  symptoms  do  occur,  they  are  cough, hemoptysis, fever, chills, and malaise.
+
+============================================================
+CHUNK 26
+============================================================
+Subcutaneous Diro.lariasis
+The most dramatic presentation of subcutaneous dirofilariasis is the presence of a moving adult worm in the conjunctiva (Fig. 1 13.6). This is often accompanied by swelling of the eyelid and face and a burning sensation. Occasionally, worms are found in the retina or within the eye and present as eye pain and blurred vision. Subcutaneous lesions in  other  parts  of  the  body  present  as  small  (0.5-1.5 cm),  painless nodules that develop over days to weeks. The nodule may or may not be  painful,  erythematous,  and  accompanied  by  a  feeling  of  movement. Systemic signs are unusual. The most common locations are the eyelid,  scrotum, breast,  arm,  and  leg,  although  any  part  of  the body can be involved.
+
+============================================================
+CHUNK 27
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Pulmonary dirofilariasis should be considered in patients presenting with a coin lesion on radiography without risk factors for or other clinical findings suggestive of malignancy. Rarely, subcutaneous dirofilariasis can mimic a localized tumor [23,24]. Unfortunately, definitive diagnosis can only be made by identification of the worm in a
+FIGURE 113.6 Female DiroGLYPH<c=22,font=/CIDFont+F3>laria tenuis in conjunctiva of left eye. (Courtesy of the Armed Forces Institute of Pathology, Photograph Neg. No.74-6351-1.)
+FIGURE 113.7 Transverse section of immature female DiroGLYPH<c=22,font=/CIDFont+F3>laria immitis in lung (Movat stain, × 275). (Courtesy of the Armed Forces Institute of Pathology, Photograph Neg. No.71-1045.)
+biopsy or autopsy specimen. Filarial serology may be positive or negative,  is  not  species-specific,  and  is  rarely  helpful  in  establishing  a diagnosis.
+Histopathology typically reveals a central zone of necrosis surrounded by granulomatous inflammation and a fibrous wall. A single, coiled, usually necrotic and sometimes calcified, worm is found in the lumen of an artery within the area of necrosis (pulmonary dirofilariasis) or in a subcutaneous abscess (Fig. 1 13.7). Dirofilaria have a number of morphologic features that help in their identification  in tissue  sections, including their relatively large size (100 to 350 μ m in diameter), a thick cuticle, and abundant musculature. Species-specific PCR has  also been used  to identify and differentiate between Dirofilaria species in tissues [25].
+
+============================================================
+CHUNK 28
+============================================================
+TREATMENT
+The only known treatment is surgical removal of the worm, as has often occurred during the diagnostic workup. Removal of the worm is not essential, however, except in cases where ongoing inflammation is likely to cause permanent damage (ex. a worm inside the anterior chamber  of  the  eye).  Most  worms  die  without  treatment  and  are absorbed without clinical sequelae.
+
+============================================================
+CHUNK 29
+============================================================
+REFERENCES
+1. Manson P. Parental form of Filaria perstans . Br Med J 1899;1:429.
+2. Wanji S, Tendongfor N, Esum M, et al. Epidemiology of concomitant infections due to Loa loa, Mansonella perstans , and Onchocerca volvulus in rain forest villages of Cameroon. Med Microbiol Immunol 2003;192:15-21.
+3. Lipner EM, Law MA, Barnett E, et al. Filariasis in travelers presenting to the GeoSentinel Surveillance Network. PLoS Negl Trop Dis 2007;1:e88.
+4. Baird JK, Neafie RC, Lanoie L, Connor DH. Adult Mansonella perstans in the abdominal cavity in nine Africans. Am J Trop Med Hyg 1987;37:578-84.
+5. Keiser PB, Coulibaly Y, Kubofcik J, et al. Molecular identification of Wolbachia from  the  filarial  nematode Mansonella  perstans .  Mol  Biochem  Parasitol 2008;160:123-8.
+6. Fux CA, Chappuis B, Holzer B, et al. Mansonella perstans causing symptomatic hypereosinophilia in a missionary family. Travel Med Infect Dis 2006;4:27580.
+7. Bregnani ER, Rovellini AA, Mbaidoum N, Magnini MG. Comparison of different anthelminthic drug regimens against Mansonella perstans filariasis. Trans R Soc Trop Med Hyg 2006;100:458-63.
+8. Coulibaly YI, Dembele B, Diallo AA, et al. A randomized trial of doxycycline for Mansonella perstans infection. N Engl J Med 2009;361:1448-58. Mansonella perstans infection is refractory to standard antifilarial therapies. Based on  the  premise that M. perstans contains the intracellular  symbiont Wolbachia , this study demonstrates that doxycycline is effective in lowering M. perstans microfilaremia, providing the first example of effective therapy for this infection.
+
+============================================================
+CHUNK 30
+============================================================
+REFERENCES
+9. Manson P.  On  certain  new  species  of  nematode  haematozoa  occurring  in America. Br Med J 1897;1930:1837-8.
+10.  Nathan  MB,  Bartholomew  CF,  Tikasingh  ES.  The  detection  of Mansonella ozzardi microfilariae  in  the  skin  and  blood  with  a  note  on  the  absence  of periodicity. Trans R Soc Trop Med Hyg 1978;72:420-2.
+11.  Casiraghi M, Favia G, Cancrini G, et al. Molecular identification of Wolbachia from the filarial nematode Mansonella ozzardi . Parasitol Res 2001;87:417-20.
+12.  Bartoloni  A,  Cancrini  G,  Bartalesi  F,  et  al. Mansonella  ozzardi infection  in Bolivia: prevalence and clinical associations in the Chaco region. Am J Trop Med Hyg 1999;61:830-3.
+13.  Bartholomew CF, Nathan MB, Tikasingh ES. The failure of diethylcarbamazine in the treatment of Mansonella ozzardi infections. Trans R Soc Trop Med Hyg 1978;72:423-4.
+14.  Nutman TB, Nash TE, Ottesen EA. Ivermectin in the successful treatment of a patient with Mansonella ozzardi infection. J Infect Dis 1987;156:662-5.
+15.  Gonzalez AA, Chadee DD, Rawlins SC. Ivermectin treatment of mansonellosis in Trinidad. West Indian Med J 1999;48:231-4.
+16.  Macfie  JWS, Corson JF.  A new species of filarial  larva found  in the skin of natives in the Gold Coast. Ann Trop Med Parasitol 1922;16:465-71.
+17.  Neafie RC, Connor DH, Meyers WM. Dipetalonema streptocerca (Macfie  and Corson,  1922):  description  of  the  adult  female.  Am  J  Trop  Med  Hyg 1975;24:264-7.
+18.  Fischer P, Bamuhiiga J, Buttner DW. Occurrence and diagnosis of Mansonella streptocerca in Uganda. Acta Trop 1997;63:43.
+
+============================================================
+CHUNK 31
+============================================================
+REFERENCES
+19.  Meyers WM, Connor DH, Harman LE, et al. Human streptocerciasis. A clinicopathologic study of 40 Africans (Zairians) including identification of the adult filaria. Am J Trop Med Hyg 1972;21:528-45.
+20.  Fischer  P,  Buttner  DW,  Bamuhiiga  J,  Williams  SA.  Detection  of  the  filarial parasite Mansonella streptocerca in skin biopsies by a nested polymerase chain reaction-based assay. Am J Trop Med Hyg 1998;58:816-20.
+21.  Fischer P, Tukesiga E, Buttner DW. Long-term suppression of Mansonella streptocerca microfilariae after treatment with ivermectin. J Infect Dis 1999;180:1403-5.
+22.  Simon F, Morchon R, Gonzalez-Miguel J, et al. What is new about animal and human dirofilariosis? Trends Parasitol 2009;25:404-9. filariasis, addressing epidemiology, the host-parasite relationship, and the role of the
+The  authors  provide  an  excellent  recent  review  of  both  human  and  animal  dirointracellular endosymbiont Wolbachia in pathogenesis and treatment.
+23.  Fleck R, Kurz W, Quade B, et al. Human dirofilariasis due to Dirofilaria repens mimicking a scrotal tumor. Urology 2009;73:209.e1-e3.
+24.  Perret-Court A, Coulibaly B, Ranque S, et al. Intradural dirofilariasis mimicking  a  Langerhans  cell  histiocytosis  tumor.  Pediatr  Blood  Cancer  2009;53: 485-7.
+25.  Favia  G,  Lanfrancotti  A,  Della  Torre  A,  et  al.  Polymerase  chain  reactionidentification of Dirofilaria repens and Dirofilaria immitis . Parasitology 1996;113:567-71.
+S E C T I O N
+

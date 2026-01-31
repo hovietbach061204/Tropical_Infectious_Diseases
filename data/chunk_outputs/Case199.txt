@@ -1,0 +1,120 @@
+============================================================
+CHUNK 0
+============================================================
+Donald A P Bundy, Nilanthi de Silva, Simon Brooker
+infections have been estimated to occur in Asia (especially in China, India, and Southeast Asia), 14% in sub-Saharan Africa, and 12% in Latin America and the Caribbean [1]. There can be small localized areas of high transmission. Only cold, arid climates are free of infection; absence of infection in temperate areas is probably due to historical improvements in hygiene and sanitation, rather than non-permissive environmental conditions. Analyses employing geographic  information  systems,  remote  sensing  and  spatial  statistics show that the prevalence of A. lumbricoides is strongly related to estimates of land surface temperature (LST), such that prevalence is generally < 5%  in  areas  where  maximum  LST  exceeds  36-37°C  [6]. Within environmentally determined, distributional limits, there exists considerable local random spatial variation, due presumably to differences  in  personal  hygiene,  sanitation  and  socioeconomic  status. Infection is equally common in urban and rural settings.
+Even  in  areas  of  high  prevalence,  the  intensity  of  infection  is  not uniform. A small proportion usually harbors the majority of worms, and this subset of heavily infected people is concentrated in children < 10 years [7]. Age-intensity profiles are typically convex,  with maximum intensity at 5-10 years of age, and rapidly decline to a low level throughout adulthood. There is no epidemiological difference by sex. In addition, both individuals and families are predisposed to high  or  low  intensity  of  infection,  such  that  the  size  of  the  worm burden reacquired after successful treatment is positively associated with the intensity of infection before treatment [7]. Factors that determine  predisposition  probably  include  differences  in  exposure  and variations in individual susceptibility, some of which has been attributed to genetics.
+
+============================================================
+CHUNK 1
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+Adult females reside in the human distal small intestine and produce up to 200,000 eggs per day that are deposited in the intestinal lumen and excreted in feces (Fig. 108.1). Under suitable environmental conditions of warm, moist, shaded soils, the embryo molts; the infectious stage is a second-stage larva. Infection is by ingestion or possibly by inhalation of contaminated dust. Larvae hatch in the jejunum, penetrate the intestinal wall, and migrate by way of hepatic venules to the right  side  of  the  heart  and  the  pulmonary  circulation,  where  they break into the alveolar spaces and undergo two further molts. From the  alveoli,  the  1.5-mm-long  larvae  ascend  to  the  trachea  and  are swallowed, undergo a last molt in the intestine, and develop to adults. Larvae migrating through the lungs can induce pulmonary hypersensitivity in sensitized hosts, which can be manifested as asthma. Eosinophilic inflammation and granulomatous reaction can be seen in the lungs, as well as hypersecretion of mucus, bronchiolar inflammation, and serous exudate. The intestinal phase of the infection is generally  asymptomatic,  but  moderately  heavy  infections  can  affect  the health, growth, and physical fitness of children. Ascaris produces disturbances  in  the  absorption  of  several  nutrients  including  lactose, nitrogen, and vitamin A, each of which could contribute to growth faltering [3,4]. Heavy worm burdens can cause more serious complications; the most frequently reported, especially in children < 10 years
+
+============================================================
+CHUNK 2
+============================================================
+Key features
+- Ascariasis is the most prevalent human helminth and Neglected Tropical Disease, with an estimated more than 1 billion infections worldwide; it is also among the most common chronic infections of humans
+- Morbidity and transmission are related to the worm burden, which has a non-normal distribution such that most people have few worms, and a few have many
+- Most infections have insidious e$ects on growth and development, including cognitive development, but large worm burdens can result in intestinal obstruction, particularly in young children
+- Intense infection is most common in school-age children who are the targets for school-based community control e$orts
+- Ascaris is easy to treat with one of several e$ective drugs in a single dose - see [11] for a systematic review
+
+============================================================
+CHUNK 3
+============================================================
+INTRODUCTION
+Ascaris lumbricoides , the largest of the intestinal nematodes, is also the most prevalent, with more than 1 billion people infected worldwide [1].  This  is  partly  because  the  female  worm  produces a prodigious number of eggs that are relatively resistant to drying or to extremes of temperature. The adult worms usually remain in the small intestine; passage of the larvae through the lungs is accompanied by pneumonitis, which is usually subclinical. Recent research indicates that moderate to heavy worm burdens can adversely affect cognitive development  in  schoolchildren  and  that  even  light  worm  burdens  can impact  the  health  of  younger  children  [2-4].  A  large  burden of  worms can  cause  a  fatal  intestinal  obstruction  [5].  Much  of  the morbidity  associated  with  infection  can  be  decreased  by  periodic chemotherapy.
+Ascariasis is one of the seven common Neglected Tropical Diseases that can be controlled by regular but infrequent  community chemotherapy. The others are blinding trachoma, hookworm and  whipworm  infection,  lymphatic  filariasis,  schistosomiasis  and onchocerciasis.
+A. lumbricoides has no important animal reservoir, although the morphologically similar A. suum may occasionally infect humans and A. lumbricoides may infect pigs.
+
+============================================================
+CHUNK 4
+============================================================
+EPIDEMIOLOGY
+The prevalence of infection varies geographically, it is highest in the warm and humid equatorial regions [6]. Approximately 71% of all
+myeoleu
+Swallowed
+2-coll staa.
+Advancedi umen
+testine
+Egg in feces
+(diagnostic stage)
+Fertilized - 1 cell
+FIGURE 108.1 Life cycle of Ascaris lumbricoides . (From Melvin DM, Brooke MM, Sadun EH: Common Intestinal Helminths of Man. Atlanta, Centers for Disease Control, DHEW Publication No. [CDC] 75-8286, 1964.)
+FIGURE  108.2 Terminal  part  of  ileum  opened,  showing  obstructing bolus  of  ascarids. (Courtesy  of  Drs  D  W  Aiken  and  F  N  Dickman.  From  JAMA 164:1317, 1957.)
+old,  is  obstruction  of  the  terminal  ileum  by  a  bolus  of  worms (Fig. 108.2).
+It can take from 10 to 12 weeks from ingestion of eggs to the production of eggs. The number of adult worms per infected person can vary widely in an infected population; egg production per female worm decreases as the worm burden increases, and thus egg counts may not linearly  reflect  intensity  of  infection.  Adults  live  for  approximately a year.
+
+============================================================
+CHUNK 5
+============================================================
+IMMUNE RESPONSE
+The  human  immune  response  is  associated  with  elevated  immunoglobulin (Ig)E, tissue eosinophilia and mastocytosis, and a strong localized T helper cell type 2 (Th2) response. Although cross-sectional studies of communities often show features consistent with development of immunity to Ascaris , examination of antibody responses to A. lumbricoides has not shown humoral immunity to have a role in limiting infection. Antibodies to both adult and larval Ascaris antigens simply reflect the intensity of infection. It is likely that infection with Ascaris modulates  allergic  responses  to  non-parasite  allergens,  and affects allergic sensitization and expression of allergic diseases such as asthma [8,9]. It is also possible that immunomodulation in chronic infections could affect HIV-1 disease progression. A recent placebocontrolled, randomized clinical trial conducted among adult Kenyans co-infected with HIV-1 and A. lumbricoides found that treatment with albendazole resulted in significantly increased CD4 counts during 3 months of follow-up [10].
+
+============================================================
+CHUNK 6
+============================================================
+PULMONARY MIGRATION
+Ascaris larvae usually cause few symptoms along their migratory path, but in sensitized hosts, pulmonary manifestations can start within 1 week  after  ingestion  of  eggs.  Symptoms  are  likely  to  occur  where
+transmission  is  seasonal  or  sporadic,  e.g.,  in  Saudi  Arabia.  Other allergic manifestations to migrating larvae, such as urticaria, are more common at the end of the pulmonary phase. Fever, cough, wheezing and dyspnea can be accompanied by sputum production, sometimes with small amounts of blood; chest pain and cyanosis are noted in the most severe cases. Chest film examination can show unilateral or bilateral  abnormalities,  ranging  from  nodular  densities  to  diffuse interstitial patterns. The illness usually is limited to several weeks, but can persist as long as larvae pass through the lungs. Leukocytosis and marked eosinophilia can occur, fulfilling the clinical picture of Lö ffler's  syndrome.  Rarely,  severe  pulmonary  inflammation  has  progressed to death.
+
+============================================================
+CHUNK 7
+============================================================
+INTESTINAL INFECTIONS
+The intestinal phase of the infection is generally asymptomatic, but even moderately heavy infections can affect the health, growth, and physical fitness of children.
+The more serious complications of ascariasis result from migration of adult worms. Migrating worms can reach the upper gastrointestinal (GI) tract and be vomited or passed per rectum. Worms can intertwine and  form  a  bolus,  which  can  cause  partial  or  complete  intestinal obstruction, with abdominal pain, vomiting, and occasionally a palpable  abdominal  mass  (Fig.  108.2).  Rarely,  such  a  mass  causes  a volvulus  or  leads  to  perforation  of  the  small  intestine.  More  frequently, the migrating worms enter ducts or diverticula, where they can perforate or cause obstruction. The common bile duct is the most often obstructed, leading to biliary colic or cholangitis (Fig. 108.3). A worm that ascends higher in the biliary tree can result in liver abscess or can penetrate the bile duct and lead to bile peritonitis. When the pancreatic duct is obstructed it can lead to pancreatitis. Appendicitis can be triggered by Ascaris obstructing the appendix (Fig. 108.4).
+Heavy worm burdens can cause more serious complications; the most frequently reported, especially in children < 10 years old, is obstruction of the terminal ileum by a bolus of worms [5] (Fig. 108.2). Rarely, the section of intestine containing the bolus of worms may act as a fixed point resulting in a volvulus. Ileocecal intussusception as well as solitary intestinal perforation has been attributed to Ascaris , but the causative role of Ascaris in these cases is not always clear.
+
+============================================================
+CHUNK 8
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+The diagnosis of ascariasis is made by stool examination. Characteristic  eggs  (55  to  75 μ m by 35 to 50 μ m) can be seen on direct or concentrated stool specimens. Unfertilized eggs can be more difficult to identify because of their atypical size and appearance. Decorticate eggs lacking the outer mamillated covering are sometimes produced, and these may be confused with the eggs of other  nematodes; the thick hyaline shell is typical of Ascaris . Infections consisting of only male worms produce no eggs; if such infections are symptomatic, the worms  may  sometimes  be  detected  radiologically  as  linear  filling defects outlined by contrast media (Fig. 108.5). Intestinal worms may sometimes ingest barium and be seen as thin, curved linear densities. In cases of suspected biliary ascariasis or pancreatitis, duodenoscopy with  retrograde  cholangiopancreatography  can  be  useful  both  in establishing  a  diagnosis  and  in  providing  a  nonsurgical  means  of removing the worms. Ultrasonography is also useful in the diagnosis of biliary ascariasis but is of less value in pancreatitis.
+FIGURE 108.3 Ascaris  lumbricoides eggs  in  saline  smears  ( × 400  magni3cation)  showing (A) mammilated  outer  cortex (B) fertilized  decorticated  egg (C) embryonated egg (D) unfertilized egg.
+FIGURE 108.4 Adult A. lumbricoides in appendix. (Courtesy of the Louisiana State University School of Medicine, New Orleans.)
+
+============================================================
+CHUNK 9
+============================================================
+CHEMOTHERAPY
+There are several effective drugs for treatment of ascariasis, with cure rates  of > 90%  commonly  achieved  [1 1].  Mebendazole  given  at  a dosage of 100 mg twice daily for 3 days or as a single dose of 500 mg, or albendazole at a single dose of 400 mg, are highly effective. Levamisole (either 80 mg or 2.5 mg/kg) is similarly efficacious. Transient GI discomfort and headache have been reported with these drugs. Pyrantel pamoate (10 mg/kg up to a maximum of 1 g) can be given as a  single  dose.  Adverse  effects  include  occasional  GI  disturbances, headaches, dizziness, rash and fever. Treatment with benzimidazoles should not be administered during the first trimester of pregnancy.
+
+============================================================
+CHUNK 10
+============================================================
+SUPPORTIVE THERAPY
+Intestinal  obstruction  may  necessitate  surgery.  However,  patients who are clinically stable and well hydrated can often be successfully managed  conservatively  with  nasogastric  suction,  intravenous hydration, and antispasmodics followed by anthelminthics given by nasogastric  tube once the obstruction has  subsided.  In these cases, treatment is given after the obstruction is relieved to avoid paralyzing the worms in the ileum, which could precipitate complete obstruction.  Obstruction  of  the  bile  or  pancreatic  ducts  must  be  relieved endoscopically or surgically, but conservative therapy may be appropriate in simple biliary colic.
+
+============================================================
+CHUNK 11
+============================================================
+PREVENTION
+Without  improvements  in  sanitation,  re-infection  following  treatment  is  common,  especially  as  the  eggs  can  remain  viable  in  the environment for years. Chemotherapy targeted at school-age children delivered through schools is a feasible and effective approach to worm control, reducing rates of anemia and improving growth, especially weight [12,13]. By targeting school-age children for repeated chemotherapy, the worm burden in the community can be reduced, thus alleviating morbidity and reducing transmission.
+FIGURE 108.5 Adult A. lumbricoides visualized in small intestine by x-ray following barium. Ascarids may be detected at times without barium, by air contrast, but are less distinct. (Courtesy of Louisiana State University School of Medicine and the Charity Hospital of New Orleans.)
+
+============================================================
+CHUNK 12
+============================================================
+REFERENCES
+1. de Silva NR, Brooker S, Hotez P, et al. Soil-transmitted helminths: updating the global picture. Trends Parasitol 2003;19:547-51.
+2. O'Lorcain P, Holland CV. The public health importance of Ascaris lumbricoides . Parasitology 2000;121:S51-71.
+3. Hall  A,  Hewitt  G, Tuffrey V,  de  Silva N.  A review  and  meta-analysis of  the impact of intestinal worms on child growth and nutrition. Matern Child Nutr 2008;4(Suppl 1):118-236.
+4. Taylor-Robinson DC, Jones AP, Garner P. Deworming drugs for treating soiltransmitted intestinal worms in children: effects on growth and school performance. Cochrane Database Syst Rev 2007;(4):CD000371.
+5. de Silva NR, Guyatt HL, Bundy DAP. Morbidity and mortality due to Ascaris -induced intestinal obstruction. Trans R Soc Trop Med Hyg 1997;91:31-6.
+6. Brooker  S,  Clements  ACA,  Bundy  DAP.  Global  epidemiology,  ecology  and control of soil-transmitted helminth infections. Adv Parasitol 2006;62:22161.
+7. Bundy DAP, Medley G. Immuno-epidemiology of human geohelminthiasis: ecological and  immunological determinants of worm burden. Parasitology 1992;104(Suppl):S105-19.
+8. Cooper PJ. Interactions between helminth parasites and allergy. Curr Opin Allergy Clin Immunol 2009;9:29-37.
+9. Leonardi-Bee J, Pritchard D, Britton J. Asthma and current intestinal parasite infection:  systematic  review  and  meta-analysis.  Am  J  Respir  Crit  Care  Med 2005;174:514-23.
+10.  Walson JL, Otieno PA, Mbuchi M, et al. Albendazole treatment of HIV-1 and helminth co-infection: a randomized, double blind, placebo-controlled trial. AIDS 2008;22:1601-9.
+
+============================================================
+CHUNK 13
+============================================================
+REFERENCES
+11. Keiser J, Utzinger J. Efficacy of current drugs against soil-transmitted helminth  infections:  systematic  review  and  meta-analysis.  JAMA  2008;299: 1937-48.
+12.  Bundy  DAP,  Shaeffer  S,  Jukes  M,  et  al.  School-based  health  and  nutrition programs. In: Jamison D, Breman J, Measham A, et al., eds. Disease Control Priorities in Developing Countries, 2nd edn. New York: The World Bank and Oxford University Press; 2006:1091.
+13.  Bundy  DAP,  Kremer  M,  Bleakley  H,  et  al.  Deworming  and  development: asking the  right questions,  asking the  questions  right. PLoS  Negl  Trop Dis 2009;3:e362.
+

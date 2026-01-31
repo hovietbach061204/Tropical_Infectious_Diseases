@@ -1,0 +1,118 @@
+============================================================
+CHUNK 0
+============================================================
+Key Features
+- Persistent diarrhea (diarrhea lasting ≥ 14 days) is one of the most common syndromes in returned travelers
+- Etiologies range from infectious causes-often protozoan parasites such as Giardia spp. or bacteria-to postinfectious irritable bowel syndrome (IBS) to non-infectious in)ammatory bowel syndromes
+- Evaluation combines stool examinations and culture with laboratory testing for eosinophilia. A malabsorption work-up and more extensive testing may be warranted if initial studies are negative
+- If an infectious etiology is determined, appropriate treatment should be given
+- Management of non-infectious etiologies can include dietary change (e.g. for lactose intolerance), symptomatic management of IBS, or interventions for in)ammatory bowel disease
+
+============================================================
+CHUNK 1
+============================================================
+INTRODUCTION
+Diarrheal disease is common among populations in tropical regions of the world and is a frequent illness in returned travelers. Acute and chronic  diarrhea  were  the  most  common  reasons  for  individuals seeking  post-travel  medical  care  in  the  GeoSentinel  surveillance network  of  17  tropical  and  travel  medicine  clinics  throughout  the world [1]. Presentation with acute diarrhea occurred at a rate of 222 visits  per  1000  travelers  seeking  medical  care,  and chronic  diarrhea occurred at a rate of 1 13 per 1000 visits, with the highest relative rates from  South  Asia  [1,  2].  At  the  Hospital  for  Tropical  Diseases  in London,  gastrointestinal  complaints  were  responsible  for  39%  of attendances at the walk-in clinic over the course of a year in which over 3000 patients used the service. Following an episode of diarrhea during travel, approximately 2% of individuals will go on to chronic illness [3].
+
+============================================================
+CHUNK 2
+============================================================
+ETIOLOGY
+Etiologies of diarrhea in returned travelers can be divided into infectious, usually parasitic and  bacterial [4-6], post-infectious, for example lactose intolerance and irritable bowel syndrome (IBS) [7], and non-infectious, such as inflammatory bowel disease (Table 1461). There is a wide range of microbial agents that cause diarrhea. Many episodes of  travelers' diarrhea  caused by enterotoxigenic Escherichia coli will be self-limiting; however, invasive bacterial infections, such as Shigella spp., can produce more serious infections that will need antimicrobial  treatment.  For  diarrhea that lasts  more  than  14  days post-travel, protozoan parasites are more common: Giardia , the most
+
+============================================================
+CHUNK 3
+============================================================
+Stephen G Wright
+frequently identified agent and travel to South Asia, the highest risk [6]. Although parasites are considered more common with chronic disease, bacterial diarrhea can also persist beyond a week [8].
+While Giardia is the commonest parasitic cause of persisting diarrhea, Cryptosporidium spp. and, less  commonly, Cyclospora cayetanensis are also  recognized.  Amebiasis  is  uncommon  in  short-term  travelers, being  typically  seen  in  long-term  travelers  or  expatriates.  Intestinal helminths usually do not cause diarrheal symptoms with low worm burdens. Acute hookworm infection can occasionally be associated
+TABLE 146-1 Causes of Persistent Diarrhea in Returned Travelers*
+
+Diarrhea with weight loss, Possible causes = Giardiasis Cryptosporidosis Cyclospora Hookworm infection (uncommon) Whipworm infection Strongyloidiasis (less common with GI symptoms) Celiac disease (gluten sensitive enteropathy) HIV/AIDS Tropical sprue (rare) In=ammatory bowel disease Colonic cancer Pancreatic disease Anatomical causes (diverticula, strictures, blind loops). Diarrhea with normal body weight, Possible causes = Post-infective irritable bowel Lactose intolerance (can be post-infectious) Food intolerance. Diarrhea with blood, Possible causes = Amebiasis Invasive bacteria (e.g. Shigella , Campylobacter ) Clostridium diGLYPH<c=26,font=/CIDFont+F3>cile -associated diarrhea Hemorrhagic Escherichia coli (shiga-toxin producing) Schistosomiasis In=ammatory bowel disease (especially ulcerative colitis) Carcinoma of the colon Colonic polyps Diverticulitis Ischemic colitis
+*There can be overlap of clinical presentations.
+GI, gastrointestinal.
+146
+with persistent diarrhea. Colonic schistosomiasis and trichuris infection which can cause diarrhea in indigenous populations are uncommon causes in travelers.
+
+============================================================
+CHUNK 4
+============================================================
+Stephen G Wright
+Post-infectious IBS, identified at 6 months following return, is a recognized complication of travelers' diarrhea. Although the incidence has varied, with some studies reporting it as high as 15%, it is likely that  it  occurs  less  than  5%  of  the  time  [7]. Factors  associated  with increased  risk  of  developing  IBS  are  multiple  episodes  of  diarrhea during travel, longer duration of illness and increased severity.
+Celiac disease is relatively common in temperate parts of the world, occurring in approximately 1 in 200 persons. It should also be considered in migrants with persisting diarrhea. The range of countries where this is recognized is increasing. The first presentation of inflammatory  bowel  disease  (IBD)  can  occur  following  an  episode  of diarrhea during travel.
+
+============================================================
+CHUNK 5
+============================================================
+ASSESSMENT
+The goals in assessing patients are to:
+- determine if there is a persisting, treatable infection-often giardiasis or another protozoal infection;
+- consider the possibility of gastrointestinal disease, such as celiac disease, brought to light as a consequence of intestinal infection, or IBD presenting for the first time;
+- consider whether the patient has a disease unrelated to travel.
+If, after careful evaluation, an infectious cause is ruled out and there is no underlying non-infectious bowel disease, the patient is likely to have post-infectious IBS. In this case, managing persisting symptoms becomes the main objective.
+Weight  loss  during  tropical  travels  is  common,  but  this  is  usually regained when the traveler returns to their usual diet. When this does not happen, malabsorption needs to be considered in a patient with continuing diarrhea. Pale, foul-smelling stools are typical of malabsorption. Both foul-smelling flatus and stools are typical of giardiasis. Soreness of tongue or mouth can be associated with folate deficiency, consistent with celiac disease and tropical sprue, but uncommon in giardiasis.  Tropical  sprue  is  now  uncommon  in  travellers,  perhaps related  to  the ready  use  of antibiotics  in  the treatment of travelers' diarrhea.
+Physical  examination  should  assess  for  abdominal  masses,  colonic tenderness,  and  organ  enlargement.  Signs  of  advanced  nutrient depletion such as glossitis, anemia, and ankle edema suggesting hypoproteinemia,  are  unusual.  It  is  essential  to  record  body  weight  at initial evaluation so that changes over time and after treatment can be monitored.
+A history of blood in the stools needs careful evaluation. The cause may be as simple as an anal fissure from frequent bowel movements and irritation at the mucocutaneous junction, or bleeding from hemorrhoids. In these cases, small amounts of fresh blood are seen on the outside of the stool or left on the toilet paper after a bowel movement. Blood can be associated with invasive organisms, shiga-toxin producing E. coli [9], and non-infectious etiologies (Table 146-1). Colonoscopy may be is often needed to investigate non-local causes.
+
+============================================================
+CHUNK 6
+============================================================
+ASSESSMENT
+In older travelers, conditions unrelated to travel need consideration, for example diverticulitis, ischemic colitis and colonic cancer. IBD can affect any age and an intestinal infection has been associated with the first presentation of disease.
+
+============================================================
+CHUNK 7
+============================================================
+INVESTIGATIONS (Table 146-2)
+Stool  culture  and  microscopy  should  be  routine  in  persons  with prolonged diarrhea. Although microscopy has been the mainstay of diagnosis for parasites, antigen detection assays for Giardia and Cryptosporidium are more sensitive and specific than visual detection [10]. When  there  is  a  broad  differential,  it  remains  important  to  carry out microscopy, or etiologies other than those identified by antigen
+TABLE 146-2 Investigations of Persistent Diarrhea
+
+============================================================
+CHUNK 8
+============================================================
+First-line investigations
+Stool, 1 = Microscopy of saline wet mount, iodine stained and concentrated stool specimens for parasites (usually × 3) Fecal leukocytes Antigen detection* for Giardia , Cryptosporidium and Entamoeba histolytica Modi;ed acid fast staining for Cryptosporidium and Cyclospora Bacterial cultures. Blood, 1 = Complete blood count with an eosinophil count Sedimentation rate, C-reactive protein Liver enzymes, albumin, creatinine and BUN and electrolytes. Urine, 1 = Urine analysis. Serology, 1 = Amebiasis, strongyloidiasis, schistosomiasis (depending on geographic risk). Second-line investigations, 1 = Hydrogen breath studies Lactose tolerance test Fecal elastase (pancreatic insu<ciency) Fecal calprotectin (indicator of colonic in=ammation) Celiac disease screening Folate & vitamin B12 Thyroid function tests Serum immunoglobulin levels HIV serology SeHCAT scan (bile salt malabasorption) CT/MRI scanning Upper and lower gastrointestinal endoscopy with biopsies
+*Antigen detection is available for Entamoeba spp. but will usually not distinguish between E. histolytica and the non-pathogen, Entamoeba dispar . E. histolytica adhesin ELISA assay distinguishes E. histolytica .
+BUN, blood urea nitrogen; CT, computed tomography; MRI, magnetic resonance imaging.
+detection  will  be  missed.  When  amebiasis  is  suspected,  a  freshly passed stool should be examined promptly under direct microscopy and evaulated by antigen detection assay. Concentration methods for parasite diagnosis can improve the yield and are discussed in Chapter 154.1. Examination of formed or semi-formed stools for polymorphonuclear cells  indicates  inflammation  in  the  colonic  wall,  often from invasive bacteria or amebiasis. It is likely that molecular methods for fecal parasite diagnosis will become increasingly used in the next few years.
+
+============================================================
+CHUNK 9
+============================================================
+First-line investigations
+Fecal  cultures  for  bacteria  should  be  obtained.  If  the  patient  has taken  antibiotics,  a  toxin  assay  for Clostridium  difficile should  be assessed [1 1]. Clostridium difficile -associated diarrhea can occur, even after  short-course  antibiotic  treatment  of  travelers'  diarrhea.  While helminths are uncommon causes of persisting diarrhea in the traveler, eosinophilia raises the possibility of hookworm, strongyloidiasis and schistosomiasis. Strongyloides hyperinfection syndrome in the immunocompromised patient is not associated with eosinophilia.
+Serum folic acid and vitamin B12 levels should be requested when malabsorption  is  suspected.  Based  on  the  geographic  risk  and  the clinical scenario, serology for amebiasis and schistosomiasis can be useful. A serologic screen for celiac disease is needed as part of testing for  non-dysenteric  diarrhea  when  infectious  etiologies  have  been eliminated. Upper and lower gastrointestinal endoscopy with appropriate biopsies are needed for patients with diarrhea and weight loss in whom no cause is found from initial investigations. Small bowel biopsies can be useful to identify pathogens such as Cyclospora , as well as  define  the  histology  in  complex  cases,  such  as  HIV-associated enteropathies.
+
+============================================================
+CHUNK 10
+============================================================
+MANAGEMENT
+Routine testing as outlined in Table 146-2 will usually reveal a diagnosis. If an infectious agent is discovered through culture or microscopy,  this  should  be  treated  as  described  in  the  specific  pathogen chapters of this textbook. If studies are negative, including those for non-infectious etiologies, some advocate empirical treatment for giardiasis using a single dose of a nitroimidazole, usually tinidazole at 2 g for adults. However, with current antigen-detection tests, it is less likely that the patient will have giardiasis in the face of negative testing.
+If first-line investigations are negative, a more extensive work-up for malabsorption  may  be  appropriate  that  includes  upper  and  lower endoscopy with biopsy, and imaging tests. These tests should be able to rule out IBD.
+For  those  without  malabsorption  and  in  whom  no  other  cause  is identified, or who have recurrent diarrhea after treatment of an infection,  post-infectious  lactose  intolerance  is  possible  and  a  dietary change  (avoiding  dairy  products)  can  be  made  to  see  if  there  is improvement.  Cholestyramine  sequestration  of  unabsorbed  bile salts  can  control  symptoms  in  patients  in  whom  there  is  bile  salt malabsorption.
+For  patients  with  long-term  symptoms  (months)  and  no  etiology, post-infectious IBS becomes most likely and symptom management is the main consideration. The Rome criteria for IBS include recurrent abdominal discomfort  for  at  least  three  days  per  month  for  three months, plus  a  change  in stool  frequency  and  form  with  relief  by defecation. Many measures have been tried without consistent benefit. Dietary changes, including an increase in fiber intake, antispasmodics, and antimotility agents, probiotics, serotonin-receptor agonists and antidepressants given in low dose for their anti-parasympathetic side effects, have each had variable success [12]. A recent study of rifaximin in  diarrhea-predominant  IBS  showed  marginal  improvement  compared with placebo for three months after treatment [13].
+As  the  differential  diagnosis  of  persistent  diarrhea  in  returned  travelers is broad, the clinician should take a careful history to clarify symptoms,  pursue  a  diagnostic  work-up  based  on  the  differential diagnosis  and  work  closely  with  the  patient  to  treat  and  manage symptoms.
+
+============================================================
+CHUNK 11
+============================================================
+REFERENCES
+1. Freedman DO, Weld LH, Kozarsky PE, et al. Spectrum of disease and relation to  place  of  exposure  among  ill  returned  travelers.  N  Engl  J  Med  2006; 354:119-30.
+2. Greenwood Z, Black J, Weld L, et al. Gastrointestinal infection among international travelers globally. J Travel Med 2008;15:195-202.
+3. Hill  DR,  Beeching  NJ.  Travelers'  diarrhea.  Curr  Opin  Infect  Dis  2010; 23:481-7.
+4. Okhuysen PC. Traveler's diarrhea due to intestinal protozoa. Clin Infect Dis 2001;33:110-14.
+5. Shah N, DuPont HL, Ramsey DJ. Global etiology of travelers' diarrhea: systematic  review  from  1973  to  the  present.  Am  J  Trop  Med  Hyg  2009;80: 609-14.
+6. Swaminathan A, Torresi J, Schlagenhauf P, et al. A global study of pathogens and  host  risk  factors  associated  with  infectious  gastrointestinal  disease  in returned international travellers. J Infect 2009;59:19-27.
+7. Pitzurra R, Fried M, Rogler G, et al. Irritable bowel syndrome among a cohort of European travelers to resource-limited destinations. J Travel Med 201 1;18: 250-6.
+8. Pandey P, Bodhidatta L, Lewis M, et al. Travelers' diarrhea in Nepal: an update on the pathogens and antibiotic resistance. J Travel Med 201 1;18:102-8.
+9. Frank C, Werber D, Cramer JP, et al. Epidemic profile of shiga-toxin-producing Escherichia coli O104:H4 outbreak in Germany-preliminary report. N Engl J Med 2011;365:1771-80.
+10.  Youn  S,  Kabir  M,  Haque  R,  Petri  WA,  Jr.  Evaluation  of  a  screening  test  for detection of Giardia and Cryptosporidium . J Clin Microbiol 2009;47:451-2.
+
+============================================================
+CHUNK 12
+============================================================
+REFERENCES
+11.  Norman  FF,  Perez-Molina  J,  Perez  de  Ayala  A,  et  al. Clostridium  difficile -associated  diarrhea  after  antibiotic  treatment  for  traveler's  diarrhea.  Clin Infect Dis 2008;46:1060-3.
+12.  Brandt LJ, Chey WD, Foxx-Orenstein AE, et al. An evidence-based position statement on the management of irritable bowel syndrome. Am J Gastroenterol 2009;104(suppl. 1):S1-35.
+13.  Pimentel M, Lembo A, Chey WD, et al. Rifaximin therapy for patients with irritable  bowel  syndrome  without  constipation.  N  Engl  J  Med  2011;364: 22-32.
+

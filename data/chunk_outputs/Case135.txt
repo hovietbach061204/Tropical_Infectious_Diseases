@@ -1,0 +1,308 @@
+============================================================
+CHUNK 0
+============================================================
+Jorge J Velarde, Myron M Levine, James P Nataro
+by Kauffman in the 1940s) are currently recognized. Each category of diarrheagenic E. coli comprises a separate set of O:H serotypes, and has  distinct  virulence  attributes  resulting  in  distinctive  clinical  syndromes and characteristic epidemiologic patterns [1, 2].
+First  described  in  the  1940s  and  1950s  was  EPEC,  associated  with sporadic cases of infant summer diarrhea and epidemic gastroenteritis in hospital nurseries. ETEC was first described in the 1950s in cases of severe, cholera-like, watery diarrhea on the Indian subcontinent. In the early 1970s, E. coli strains were isolated from patients with clinical dysentery;  such  strains  were  designated  EIEC  and  these  are  now known to behave like Shigella , particularly in their ability to invade epithelial  cells  and  induce  inflammation.  A  multistate  outbreak  of hemorrhagic colitis in the USA in the early 1980s caused by organisms of serotype O157:H7 led to the discovery of enterohemorrhagic E. coli (EHEC). Escherichia coli strains that exhibit a unique pattern of adherence to HEp-2 cells, so-called aggregative adherence, and associated with diarrheal disease in infants in developing countries were coined enteroaggregative E. coli (EAggEC or EAEC) in the 1980s. In some  epidemiologic  studies, E.  coli strains  that  manifest  a  diffuse pattern of adherence to HEp-2 cells, diffuse-adherent E. coli (DAEC), have also been associated with non-bloody diarrheal illness in young children in developing countries [1-5].
+
+============================================================
+CHUNK 1
+============================================================
+DISTRIBUTION AND INCIDENCE
+ETEC,  EPEC,  EIEC  and  EAEC  are  commonly  isolated  as  agents  of diarrheal disease among infants and young children in less developed countries.  In  many developing  countries,  ETEC is  the  second  most common cause (after rotavirus) of significant diarrheal dehydration in infants. ETEC is also the most common cause of traveler's diarrhea in adults [1, 2, 5, 6]. As a contrast in epidemiologic pattern, EHEC is an  emerging  cause  of  diarrheal  illness,  hemorrhagic  colitis  and hemolytic-uremic syndrome (HUS) in industrialized countries (North America, Europe, Japan, Australia). EHEC disease is considered rare in developing countries, although outbreaks of EHEC in Africa suggest that the relevance of this pathogen in the developing world may be underestimated [1, 2, 7, 8].
+EPEC is no longer a major cause of diarrheal disease in industrialized countries, but remains an important cause of diarrhea in infants in many developing and newly industrializing countries [1, 2]. EAEC has been identified as an important cause of persistent diarrhea among infants  in  Asia  and  South  America.  More  recent  data  suggest  that EAEC may also be common in some industrialized countries [9]. The geographic distribution of DAEC diarrhea is the least well mapped, with the most incriminating studies coming from Latin America. In some epidemiologic studies in developing countries, DAEC was more common in children > 1 year of age [2, 10], in contrast with EPEC, ETEC and EAEC which manifest the highest incidence in the first year of life.
+
+============================================================
+CHUNK 2
+============================================================
+TRANSMISSION
+ETEC is transmitted by contaminated food and water vehicles; relatively large inocula (circa 10 8 organisms) are required to cause illness [2, 5]. Classic EPEC is mostly associated with bottle-feeding infants
+
+============================================================
+CHUNK 3
+============================================================
+Key features
+- Escherichia coli, typically part of the normal intestinal *ora, can cause distinct diarrheal syndromes when they harbor speci)c virulence factors
+- The unique pathogenic mechanisms of each pathotype of diarrheagenic E. coli give rise to the speci)c clinical syndromes they cause
+- Clinical syndromes caused by diarrheagenic E. coli include watery, short-lived diarrhea (ETEC, EPEC, EAEC, DAEC), persistent infant diarrhea (EPEC and EAEC), invasive in*ammatory diarrhea (EIEC, EHEC) and hemorrhagic colitis and the hemolytic uremic syndrome (EHEC)
+- De)nitive microbiologic diagnosis of diarrheagenic E. coli , other than Shiga toxin-producing E. coli , is not usually possible using routine laboratory methods and requires speci)c assays to identify pathogenic mechanisms performed in a reference or research laboratory
+- Despite limitations of diagnostic testing, most cases of illness caused by diarrheagenic Escherichia coli are self-limited, requiring only supportive care with appropriate hydration and can be managed empirically based on clinical presentation
+- Individuals with enterohemorrhagic E. coli (EHEC) should not be treated with antimicrobial agents, as such use markedly increases the risk for hemolytic uremic syndrome (HUS) and renal failure. Individuals with EHEC usually present with bloody diarrhea and low or absent fever
+
+============================================================
+CHUNK 4
+============================================================
+INTRODUCTION
+The bacterial species E.  coli plays an important role in maintaining normal gut physiology in humans. Nevertheless, there exist within this species primary pathogens that cause various syndromes of diarrheal disease, including watery diarrhea, dysentery and hemorrhagic colitis in different age groups under distinct epidemiologic settings.
+
+============================================================
+CHUNK 5
+============================================================
+ETIOLOGIC AGENTS
+Escherichia coli are motile, Gram-negative, rod-shaped bacteria within the family Enterobacteriaceae. Strains of E. coli that cause diarrhea are of six major categories: enterohemorrhagic (EHEC), enterotoxigenic (ETEC), enteroinvasive (EIEC), enteropathogenic (EPEC), enteroaggregative  (EAEC)  and  diffuse-adherent  (DAEC).  More  than  170  O serogroups and more than 60 H types (based on the scheme proposed
+
+============================================================
+CHUNK 6
+============================================================
+ETIOLOGIC AGENTS
+TABLE 42-1 Pathogenetic mechanisms of diarrheagenic E. coli
+
+ETEC, Typical size of virulence plasmid = 60 MDa. ETEC, Proteins promoting interaction with mucosa = CFA Dmbriae. ETEC, Characteristic pattern of attachment to HEp-2 cells = None. ETEC, Toxins = LT, ST. EPEC, Typical size of virulence plasmid = 60 MDa. EPEC, Proteins promoting interaction with mucosa = BFP; intimin. EPEC, Characteristic pattern of attachment to HEp-2 cells = Localized adherence. EPEC, Toxins = None, T3SS eEectors. EIEC, Typical size of virulence plasmid = 140 MDa. EIEC, Proteins promoting interaction with mucosa = IPAs. EIEC, Characteristic pattern of attachment to HEp-2 cells = Invasion. EIEC, Toxins = ShET-2, T3SS eEectors. EHEC, Typical size of virulence plasmid = 60 MDa. EHEC, Proteins promoting interaction with mucosa = Novel Dmbriae; intimin. EHEC, Characteristic pattern of attachment to HEp-2 cells = None. EHEC, Toxins = Shiga toxin 1 & 2, T3SS eEectors. EAggEC, Typical size of virulence plasmid = 65 MDa. EAggEC, Proteins promoting interaction with mucosa = AAF Dmbriae. EAggEC, Characteristic pattern of attachment to HEp-2 cells = Aggregative adherence. EAggEC, Toxins = EAST1, 108 kda toxin. DAEC, Typical size of virulence plasmid = 60 MDa. DAEC, Proteins promoting interaction with mucosa = F1845 Dmbriae; AIDA-I outer membrane protein. DAEC, Characteristic pattern of attachment to HEp-2 cells = DiEuse adherence. DAEC, Toxins = Sat
+
+============================================================
+CHUNK 7
+============================================================
+ETIOLOGIC AGENTS
+AAF, aggregative adherence Dmbriae; BFP , bundle forming pili; CFA, colonization factor antigen; DAEC, diEusely adherent E. coli ; EAggEC, enteroaggregative E. coli ; EAST1, enteroaggregative heat-stable enterotoxin 1; EHEC, enterohemorrhagic E. coli ; EIEC, enteroinvasive E. coli ; EPEC, enteropathogenic E. coli ; ETEC, enterotoxigenic E. coli ; IPAs, invasion plasmid antigens; LT, heat-labile enterotoxin; ShET2, Shigella enterotoxin 2; ST, heat-stable enterotoxin.
+in developing countries [2, 8, 1 1]. EHEC can be transmitted by low inocula (10 1 -10 2 organisms) and is primarily transmitted by ingestion of contaminated food vehicles, although it can also be transmitted directly by contact spread [2, 12, 13]. The modes of transmission of EAEC and DAEC are not yet clearly defined.
+
+============================================================
+CHUNK 8
+============================================================
+NATURAL HISTORY, PATHOGENESIS AND PATHOLOGY
+Different categories of diarrheagenic E. coli have certain pathogenesis motifs  in  common.  A  brief  summary  of  these  properties  for  each category of diarrheagenic E. coli is shown in Table 42-1.
+
+============================================================
+CHUNK 9
+============================================================
+ENTEROTOXIGENIC ESCHERICHIA COLI (ETEC)
+ETEC carry one or two plasmids circa 60 MDa in size that encode heat-labile (LT) or heat-stable (ST) enterotoxins (or both). These also encode one or more fimbrial colonization factor antigens (CFAs) and genes  encoding  the  regulatory  protein  necessary  for  the  high-level expression of CFAs. LT closely resembles cholera enterotoxin and has a similar mode of activity (ADP ribosylation of Gs protein). ST, which consists of peptides of 18 or 19 amino acids in length, activates guanylate cyclase, which results in an intracellular accumulation of cyclic GMP that leads to secretion [1, 5]. Genomic studies suggest that ETEC strains  share  a  very  small  number  of  genes  in  addition  to  these primary virulence factors [14].
+
+============================================================
+CHUNK 10
+============================================================
+ENTEROPATHOGENIC ESCHERICHIA COLI (EPEC)
+In contrast to ETEC, EPEC strains harbor a large array of virulenceassociated  genes,  which  execute  a  complex  and  finely  orchestrated pathogenetic strategy (reviewed in [15]). All classic EPEC strains carry a  circa  60 MDa  plasmid  which  encodes  the  bundle-forming  pilus (BFP); BFP mediates initial attachment and microcolony formation on the small intestinal  mucosa. The plasmid  also  encodes  PerC,  a transcriptional activator for the BFP and for a large number of chromosomal genes. One such gene encodes intimin, a 94 kd protein that mediates intimate attachment to enterocytes. The receptor for intimin is  the  translocated  intimin  receptor (Tir),  which  is  injected  directly into the target cell cytoplasm via an extraordinarily complex organelle called a type III secretion system (T3SS). In addition to Tir, the EPEC T3SS additionally injects more than 20 additional protein toxins into the enterocyte. In aggregate, this panoply of toxins leads to cytoskeletal changes in the target enterocyte, the consequence of which is a pathognomonic 'attaching and effacing' intestinal lesion observed by electron microscopy Other phenotypes induced by the T3SS include loss of tight junction integrity, release of pro-inflammatory cytokines and conversion of the cell from a net absorptive state to a net secretory state [1, 2, 16].
+
+============================================================
+CHUNK 11
+============================================================
+ENTEROINVASIVE ESCHERICHIA COLI (EIEC)
+EIEC closely resembles Shigella in its pathogenesis, involving an early step  of  enterotoxin  production  leading  to  intestinal  secretion  and invasion of intestinal epithelium. EIEC possesses virtually the identical 140 MDa virulence plasmid as Shigella flexneri . Many of the pathogenic  effects  of  EIEC  are  mediated  through  a  T3SS  which  injects  a distinct set of toxins that mediate invasion. The bacteria disseminate in the epithelial layer, are taken up into enterocytes, spread intracellularly  and intercellularly, and cause death of the enterocytes. EIEC infection is characterized by an influx of polymorphonuclear leukocytes into the lamina propria of affected intestinal mucosa [1, 2, 17].
+
+============================================================
+CHUNK 12
+============================================================
+ENTEROHEMORRHAGIC ESCHERICHIA COLI (EHEC)
+EHEC carries an ~60 MDa plasmid that appears to be involved in the expression of adherence fimbriae. Phages carried by EHEC encode the powerful  cytotoxins,  Shiga  toxin  1  or  2.  EHEC  express  the  94-kd intimin protein and harbor a T3SS homologous to that expressed by EPEC. EHEC expressing these proteins can cause attaching and effacing lesions of the colon, whereas EPEC induces these lesions in the small intestine [1, 2].
+
+============================================================
+CHUNK 13
+============================================================
+ENTEROAGGREGATIVE ESCHERICHIA COLI (EAEC)
+EAEC harbors a plasmid of ~60 MDa in size that encodes fimbrial colonization  factors  that  mediate  the  pathognomonic  aggregative adherence to HEp-2 cells. EAEC expresses at least two enterotoxins that may contribute to pathogenesis, including the Pet cytotoxin and the plasmid-encoded EAEC heat-stable enterotoxin (EAST) [1, 9].
+
+============================================================
+CHUNK 14
+============================================================
+DIFFUSE-ADHERENT ESCHERICHIA COLI (DAEC)
+The characteristic diffuse adherence to epithelial cells is mediated by fimbriae. Some DAEC strains produce a protease called Sat which may disrupt tight junctions and induce cytoskeletal alterations [1, 18, 19].
+
+============================================================
+CHUNK 15
+============================================================
+CLINICAL FEATURES
+The different categories of diarrheagenic E. coli cause distinct clinical syndromes, closely related to their virulence mechanisms, which are summarized in Table 42-2.
+TABLE 42-2 Clinical and epidemiologic characteristics of diarrheagenic E. coli
+
+ETEC, Characteristic clinical syndrome * = Watery diarrhea. ETEC, Predominant geographic distribution = Developing world. ETEC, Peak age incidence of disease = Infants, adult travelers. ETEC, Molecular diagnostic targets = ST, LT genes. EPEC, Characteristic clinical syndrome * = Watery diarrhea. EPEC, Predominant geographic distribution = Developing world. EPEC, Peak age incidence of disease = Very young infants. EPEC, Molecular diagnostic targets = EAF plasmid, BFP and intimin genes. EIEC, Characteristic clinical syndrome * = Dysentery †. EIEC, Predominant geographic distribution = Worldwide. EIEC, Peak age incidence of disease = Toddlers, preschool children. EIEC, Molecular diagnostic targets = Inv plasmid. EHEC, Characteristic clinical syndrome * = Hemorrhagic colitis, HUS. EHEC, Predominant geographic distribution = Developed world, Latin America. EHEC, Peak age incidence of disease = Children 2-7 years of age. EHEC, Molecular diagnostic targets = EHEC plasmid; intimin and Shiga toxin genes. EAggEC, Characteristic clinical syndrome * = Persistent diarrhea. EAggEC, Predominant geographic distribution = Worldwide. EAggEC, Peak age incidence of disease = Mainly infants. EAggEC, Molecular diagnostic targets = AA plasmid. DAEC, Characteristic clinical syndrome * = Watery diarrhea. DAEC, Predominant geographic distribution = Unknown. DAEC, Peak age incidence of disease = Preschool children. DAEC, Molecular diagnostic targets = F1845 Dmbrial genes
+*In mild cases, the clinical illness caused by any of the categories of diarrheagenic E. coli consists of watery diarrhea, low-grade fever, nausea and mild abdominal cramps and is indistinguishable.
+† Dysentery occurs in only 10% of patients; the other 90% exhibit watery diarrhea without blood.
+
+============================================================
+CHUNK 16
+============================================================
+CLINICAL FEATURES
+AA, aggregative adherence; BFP, bundle forming pili; DAEC, diEusely adherent E. coli ; EAF, EPEC adherence factor; EAggEC, enteroaggregative E. coli ; EHEC, enterohemorrhagic E. coli ; EIEC, enteroinvasive E. coli ; EPEC, enteropathogenic E. coli ; ETEC, enterotoxigenic E. coli ; LT, heat-labile enterotoxin; ST, heat-stable enterotoxin.
+
+============================================================
+CHUNK 17
+============================================================
+ENTEROTOXIGENIC ESCHERICHIA COLI (ETEC)
+Clinical ETEC infection exhibits a wide range of severity in infants in developing countries and in adult travelers. Mild illness presents as diarrhea, sometimes with low-grade fever, nausea and mild abdominal  cramps,  and  gurgling.  Severe  ETEC  diarrhea  closely  resembles cholera, although more curtailed, with voluminous rice-water stools rich in electrolytes; like cholera, severe ETEC diarrhea can rapidly lead to dehydration [2, 5, 20].
+
+============================================================
+CHUNK 18
+============================================================
+ENTEROPATHOGENIC ESCHERICHIA COLI (EPEC)
+Fulminant EPEC disease, typically occurring in the first 12 months of life,  is  characterized  by  watery  diarrhea  with  prominent  mucus, toxemia, fever and rapid onset of dehydration [2, 20].
+
+============================================================
+CHUNK 19
+============================================================
+ENTEROINVASIVE ESCHERICHIA COLI (EIEC)
+EIEC  has  a  predilection  for  colonic  mucosa  as  the  favored  site  of host-pathogen interaction. The illness is marked by fever, abdominal cramps, malaise, toxemia and watery diarrhea. In under 10% of individuals,  overt  dysentery  occurs,  manifested  by  scanty  stools  with blood and mucus [1, 2, 20].
+
+============================================================
+CHUNK 20
+============================================================
+ENTEROHEMORRHAGIC ESCHERICHIA COLI (EHEC)
+EHEC exhibits a wide spectrum of clinical illness. Mild cases manifest as diarrhea indistinguishable from that caused by many other agents. A high percentage of infections progress to hemorrhagic colitis, characterized by severe abdominal cramps and copious bloody diarrhea, with most patients not exhibiting fever (Table 42-2). The absence of fever and fecal leukocytes help to differentiate EHEC from dysentery caused  by  EIEC  and Shigella [2,  20].  Between  3  and  20  percent  of EHEC infections may result in hemolytic-uremic syndrome (HUS). In  HUS,  a  disseminated  intravascular  coagulopathy  occurs  with massive hemolytic anemia, the presence of fragmented erythrocytes (schistocytes) in the peripheral blood smear, severe thrombocytopenia  and  acute renal failure.  This is  an  emerging  health problem in industrialized and rapidly industrializing countries, but not in developing countries, where HUS is more often seen second to Shigella -associated dysentery, although the contribution from EHEC may be underestimated in the developing world [8, 21].
+
+============================================================
+CHUNK 21
+============================================================
+ENTEROAGGREGATIVE ESCHERICHIA COLI (EAEC)
+EAEC  strains  induce  watery  diarrhea  among  patients  of  all  ages without frank evidence of inflammation (i.e. fever, fecal leukocytes). However, subtle signs of inflammation may be seen, including the presence of mucus in stools and fecal lactoferrin. Though most are brief (1-3 days) and self-limiting, infection may persist for > 14 days and can be a cause of persistent diarrhea among infants and children which then predisposes them to malnutrition and immune compromise [2, 9, 22, 23].
+
+============================================================
+CHUNK 22
+============================================================
+DIFFUSE-ADHERENT ESCHERICHIA COLI (DAEC)
+DAEC infection is associated with a fairly nonspecific clinical picture of watery diarrhea and low-grade fever occurring in developing countries  and  more  commonly  involves  preschool  children  rather  than infants [1, 24].
+
+============================================================
+CHUNK 23
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+In  most  clinical  scenarios  the  management  of  diarrheal  illness  is empiric and the identification of a specific underlying etiologic agent is  unnecessary. Because diarrheagenic E. coli are  not  usually  distinguishable from non-pathogenic E. coli using routine microbiology tests, the definitive  identification  of  diarrheagenic E.  coli requires  assays  that identify specific virulence properties of E. coli isolated from the stool, normally performed in a research or reference laboratory. Multiplexed molecular  diagnostic  techniques  are  under  development  to  greatly facilitate the detection of diarrheagenic E. coli infections in situations where this is important to case management or epidemiology.
+
+============================================================
+CHUNK 24
+============================================================
+ETEC
+Copious purging of rice-water stools should lead to a suspicion of severe ETEC infection, as well as cholera [5, 25].
+
+============================================================
+CHUNK 25
+============================================================
+EPEC
+The presence of  prominent mucus in the diarrheal discharges of  a young,  bottle-fed  infant  less  than  6  months  of  age  with  toxemia
+should raise suspicion of EPEC (rotavirus would be the other main suspect) [2, 20].
+
+============================================================
+CHUNK 26
+============================================================
+EIEC
+With the absence of overt dysentery, clinical EIEC infection exhibits no characteristic clues. On the other hand, among patients with overt dysentery, EIEC must be one of the agents considered in the differential diagnosis [1, 20]. If mucus from a diarrheal stool with or without gross  blood  is  stained  and  microscopic  examination  reveals  large numbers of fecal leukocytes, EIEC should be considered in the differential diagnosis along with Shigella , Salmonella and Campylobacter jejuni ; Yersinia  enterocolitica ,  which  also results in many fecal leukocytes, is rarely diagnosed in the tropics.
+
+============================================================
+CHUNK 27
+============================================================
+EHEC
+The occurrence of hemorrhagic colitis is indicative of EHEC infection. In the tropics, HUS is more likely to be caused by Shigella dysenteriae serotype 1; nevertheless, EHEC must be considered in the differential diagnosis [20].
+
+============================================================
+CHUNK 28
+============================================================
+EAEC
+Persistent  diarrhea  in young infants without  other defined etiology should lead the clinician to consider EAEC [23, 26].
+
+============================================================
+CHUNK 29
+============================================================
+DAEC
+There  are  no  characteristic  clinical  features  of  DAEC-associated diarrhea.
+
+============================================================
+CHUNK 30
+============================================================
+Stool Culture
+Some EIEC are late lactose fermenters (or even fail to ferment lactose) [27],  and  some  EHEC,  particularly  of  serotype  O157:H7,  do  not ferment sorbitol [28]. All other diarrheagenic E. coli are visually indistinguishable on the usual enteric media from normal flora strains of E. coli .
+
+============================================================
+CHUNK 31
+============================================================
+Immunoassays
+ELISAs have been described to identify ETEC, EPEC, EIEC and EHEC using colony blots or culture supernatants [2, 5, 28]. ELISAs that can be used directly on stool extracts are available to identify heat-labile (LT), heat-stable (ST) and Shiga toxins [5, 28].
+
+============================================================
+CHUNK 32
+============================================================
+DNA Probes and PCR
+Molecular  diagnostic  methods  are  widely  used  in  the  detection  of diarrheagenic E.  coli. Polynucleotide and oligonucleotide assays are typically employed in epidemiologic studies. Using this method, large numbers of E. coli can be tested at one time for several different gene targets.  PCR  for detection  of  pathogen-specific  genes  may be  more difficult to perform in the setting of a very large epidemiologic study. In contrast, for the processing of a single clinical stool specimen, it is typically more efficient to run a panel of PCR reactions using primers against  diarrheagenic E.  coli target  genes.  PCR  assays  have  been described  using  primers  specific  for  ETEC,  EIEC,  EHEC,  EPEC  and EAggEC [2, 5, 26, 28].
+
+============================================================
+CHUNK 33
+============================================================
+Adherence to HEp-2 cells
+The HEp-2 assay is one of the most useful phenotypic assays used in the detection of diarrheagenic E. coli (Figs 42.1, 42.2 and 42.3). The presence  of  the  distinctive  adherence  pattern  visualized  by  light microscopy after 3-hour co-incubation of bacteria with HEp-2 cells correlates well with the EPEC (localized), EAggEC (aggregative) and DAEC (diffuse) categories [2].
+FIGURE 42.1 The localized adherence pattern of enteropathogenic E. coli (EPEC) to HEp-2 cells in tissue culture. Focal clusters of bacteria are seen attached to one portion of the HEp-2 cells.
+FIGURE  42.2 The  aggregative  pattern  of  adherence  to  HEp-2  cells diagnostic  of  enteroaggregative E.  coli (EAggEC).  Note the  stacked  brick appearance of bacteria attaching both to the tissue culture cells and to the glass slide in between the cells.
+FIGURE 42.3 The diEuse pattern of adherence to HEp-2 cells that identiDes diEuse  adherence E.  coli (DAEC).  The  bacteria  are  attached  individually, interspersed over the surface of the entire HEp-2 cell.
+
+============================================================
+CHUNK 34
+============================================================
+Serology
+Following  diarrheal  infection  with E.  coli ,  rises  in  serum  antibody against  the  O  antigen  of  the  infecting  strain  can  be  demonstrated. Many of the virulence attributes of the different categories are also immunogenic, although in almost all instances these remain research tools available only in reference laboratories.
+
+============================================================
+CHUNK 35
+============================================================
+Stool microscopy
+Patients  with  dysentery  or  suspected  EIEC  infection  should  have  a drop of stool mucus fixed, stained and examined by light microscopy for the presence of fecal leukocytes. Many patients with EIEC will have numerous  polymorphonuclear  leukocytes  [27].  Although  nonspecific, this test provides evidence that a bacterial pathogen has invaded the intestinal mucosa. Other bacterial enteropathogens that cause a dysenteric syndrome and are associated with abundant fecal leukocytes  are Shigella spp., Campylobacter  jejuni and Salmonella causing nontyphoidal infections. Yersinia  enterocolitica ,  which  also results in many fecal leukocytes, is rarely diagnosed in the tropics.
+
+============================================================
+CHUNK 36
+============================================================
+TREATMENT
+Assessment of hydration status and appropriate rehydration should be  the  critical  first  step  in  management  of  diarrheagenic E.  coli .  In patients  with  mild  and  moderate  dehydration,  oral  rehydration usually suffices;  intravenous rehydration may be necessary in more severe  cases.  In  the  few  controlled  trials  reported,  EPEC-associated diarrhea in infants  was significantly  ameliorated by treatment with appropriate antibiotics [2, 29], although rigorous comparative effectiveness clinical trials of antibiotic regimens have not been performed. Importantly,  EPEC  is  not  associated  with  adult  diarrhea.  ETEC diarrhea in infants  in  developing countries responds adequately to rehydration  therapy  alone.  Traveler's  diarrhea  caused  by  EAEC  and ETEC can be treated with antibiotics (fluoroquinolones, azithromycin,  rifaximin)  early  in  the  course  of  clinical  illness,  which  significantly diminishes the severity and duration of illness [5, 30]. Without treatment, however, traveler's diarrhea is usually self-limited. Antibiotics  are  indicated  in  the  treatment of persistent diarrhea in  children caused by EAEC, although the optimal regimen is not known and can be appropriately guided by results of susceptibility testing. It is likely that the same antibiotics effective for ETEC will also be effective for EAEC infections. Although there are no controlled trials of EIEC antibiotic  management,  because  of  its  close  resemblance  clinically  to shigellosis it is usually treated with the same antibiotics as used for Shigella infections,  including  oral azithromycin,  or  cefixime,  or parenteral ceftriaxone in young children, and oral fluoroquinolones, such as ciprofloxacin, in adults [17]. Of note, resistance to these antibiotics  has  been  documented  and  it  is  crucial  to  understand  local resistance patterns. Current data would strongly support that administration of most antibiotics to individuals with EHEC can markedly increase the risk of HUS and renal failure, and antibiotics should not routinely  be administered to individuals with bloody diarrhea and low or absent fever who may have EHEC-associated diarrhea [21, 31, 32]. It is not known if antibiotics affect the course of DAEC diarrheal disease.
+
+============================================================
+CHUNK 37
+============================================================
+PREVENTION AND CONTROL
+Adequate sanitation and proper personal and food hygiene practices minimize  the  chance  of  acquiring E.  coli diarrheal  infection.  To prevent ETEC-associated diarrhea, travelers must be assiduous about what they eat and drink. There is limited evidence for non-absorbable antimicrobial prophylaxis (rifaximin) for adults in situations where prophylaxis is required to prevent ETEC-associated traveler's diarrhea, but  this  agent  is  ineffective  against  many  other  causes  of  traveler's diarrhea [30].
+Considerable progress has been made to develop vaccines to prevent ETEC diarrhea. These vaccines aim at stimulating protective immune responses  of  both  an  antitoxin  and  an  anticolonizing  nature.  The most  advanced  candidate  vaccines  under  development  include:  (i)
+inactivated ETEC-expressing colonization factor antigens (CFAs) combined with B subunit of cholera toxin or heat-labile (LT) toxin; (ii) attenuated Shigella or Salmonella typhi live vectors expressing CFAs and LT B subunit or a mutant LT; and, (iii) transcutaneous patch delivery LT, mutant LT, and/or fimbrial antigens [5, 33].
+EHEC-associated diarrhea is most commonly reported from industrialized countries, largely because of food production and distribution systems. Cattle can act as a reservoir source; prevention of EHEC infection of humans usually involves proper food processing, preparation and food surveillance.
+
+============================================================
+CHUNK 38
+============================================================
+REFERENCES
+1. Kaper JB, Nataro JP, Mobley HL. Pathogenic Escherichia coli . Nat Rev Microbiol 2004;2:123-40.
+2. Nataro  JP,  Kaper  JB.  Diarrheagenic Escherichia  coli .  Clin  Microbiol  Rev 1998;11142-201.
+3. Marier  R,  Wells  J,  Swanson  RC,  et  al.  An  outbreak  of  enteropathogenic Escherichia coli foodborne disease traced to imported French cheese. Lancet 1973;302:1376-8.
+4. Neter E, Korns RF, Trussel RE. Association of Escherichia coli serogroup 011 1 with two hospital outbreaks of epidemic diarrhea of the newborn infant in New York State during 1947. Pediatrics 1953;12:377-83.
+5. Qadri F, Svennerholm AM, Faruque AS, Sack RB. Enterotoxigenic Escherichia coli in developing countries: epidemiology, microbiology, clinical  features,  treatment,  and  prevention.  Clin  Microbiol  Rev  2005;18: 465-83.
+6. Shah N, DuPont HL, Ramsey DJ. Global etiology of travelers' diarrhea: systematic  review  from  1973  to  the  present.  Am  J  Trop  Med  Hyg  2009; 80:609-14.
+7. Mark  Taylor  C.  Enterohaemorrhagic Escherichia  coli and Shigella  dysenteriae type  1-induced  haemolytic  uraemic  syndrome.  Pediatr  Nephrol  2008;23: 1425-31.
+8. Okeke IN. Diarrheagenic Escherichia coli in sub-Saharan Africa: status, uncertainties and necessities. J Infect Dev Ctries 2009;3:817-42.
+9. Flores J, Okhuysen PC. Enteroaggregative Escherichia coli infection. Curr Opin Gastroenterol 2009;25:8-11.
+10.  Spano LC, Sadovsky AD, Segui PN, et al. Age-specific prevalence of diffusely adherent Escherichia  coli in  Brazilian  children  with  acute  diarrhoea.  J  Med Microbiol 2008;57:359-63.
+
+============================================================
+CHUNK 39
+============================================================
+REFERENCES
+11.  Ochoa TJ, Barletta F, Contreras C, Mercado E. New insights into the epidemiology of enteropathogenic Escherichia  coli infection.  Trans  R  Soc  Trop  Med Hyg 2008;102:852-6.
+12.  Grif K, Orth D, Lederer I, et al. Importance of environmental transmission in cases of EHEC O157 causing hemolytic uremic syndrome. Eur J Clin Microbiol Infect Dis 2005;24:268-71.
+13.  Orth  D, Grif K,  Zimmerhackl LB, Wurzner R. Prevention and treatment  of enterohemorrhagic Escherichia  coli infections  in  humans.  Expert  Rev  Anti Infect Ther 2008;6:101-8.
+14.  Sahl JW, Steinsland H, Redman JC, et al. A comparative genomic analysis of diverse clonal types of enterotoxigenic Escherichia coli reveals pathovar-specific conservation. Infect Immun 2011;79:950-60.
+15.  Dean P, Kenny B. The effector repertoire of enteropathogenic E. coli : ganging up on the host cell. Curr Opin Microbiol 2009;12:101-9.
+16.  Lapointe TK, O'Connor PM, Buret AG. The role of epithelial malfunction in the  pathogenesis  of  enteropathogenic E.  coli -induced  diarrhea.  Lab  Invest 2009;89:964-70.
+17.  Kosek  M,  Yori  PP,  Olortegui  MP.  Shigellosis  update:  advancing  antibiotic resistance, investment empowered vaccine development, and green bananas. Curr Opin Infect Dis 2010;23:475-80.
+18.  Guignot  J,  Chaplais  C,  Coconnier-Polter  MH,  Servin  AL.  The  secreted autotransporter toxin, Sat, functions as a virulence factor in Afa/Dr diffusely adhering Escherichia coli by promoting lesions in tight junction of polarized epithelial cells. Cell Microbiol 2007;9:204-21.
+19.  Servin  AL.  Pathogenesis  of  Afa/Dr  diffusely  adhering Escherichia  coli .  Clin Microbiol Rev 2005;18:264-92.
+
+============================================================
+CHUNK 40
+============================================================
+REFERENCES
+20.  Chao HC, Chen CC, Chen SY, Chiu CH. Bacterial enteric infections in children: etiology, clinical manifestations and antimicrobial therapy. Expert Rev Anti Infect Ther 2006;4:629-38.
+21.  Scheiring J, Andreoli SP, Zimmerhackl LB. Treatment and outcome of Shigatoxin-associated hemolytic uremic syndrome (HUS). Pediatr Nephrol 2008; 23:1749-60.
+22.  Harrington  SM,  Dudley  EG,  Nataro  JP.  Pathogenesis  of  enteroaggregative Escherichia coli infection. FEMS Microbiol Lett 2006;254:12-18.
+
+============================================================
+CHUNK 41
+============================================================
+REFERENCES
+23.  Okhuysen PC, Dupont HL. Enteroaggregative Escherichia coli (EAEC): a cause of  acute  and  persistent  diarrhea  of  worldwide  importance.  J  Infect  Dis 2010;202:503-5.
+24.  Scaletsky IC, Fabbricotti SH, Carvalho RL, et al. Diffusely adherent Escherichia coli as a cause of acute diarrhea in young children in Northeast Brazil: a casecontrol study. J Clin Microbiol 2002;40:645-8.
+25.  Sanchez J, Holmgren J. Virulence factors, pathogenesis and vaccine protection  in  cholera  and  ETEC  diarrhea.  Curr  Opin  Immunol  2005;17: 388-98.
+26.  Weintraub A. Enteroaggregative Escherichia coli : epidemiology, virulence and detection. J Med Microbiol 2007;56:4-8.
+27.  Echeverria P, Sethabutr O, Pitarangsi C. Microbiology and diagnosis of infections  with Shigella and  enteroinvasive Escherichia  coli .  Rev  Infect  Dis  1991; 13(suppl. 4):S220-5.
+28.  Kehl  SC.  Role  of  the  laboratory  in  the  diagnosis  of  enterohemorrhagic Escherichia coli infections. J Clin Microbiol 2002;40:271 1-15.
+29.  Thoren A, Wolde-Mariam T, Stintzing G, et al. Antibiotics in the treatment of  gastroenteritis  caused  by  enteropathogenic Escherichia  coli .  J  Infect  Dis 1980;141:27-31.
+30.  DuPont HL. Therapy for and prevention of traveler's diarrhea. Clin Infect Dis 2007;45 (suppl. 1):S78-84.
+31.  Bitzan M. Treatment options for HUS secondary to Escherichia coli O157:H7. Kidney Int 2009;Feb(suppl.):S62-6.
+
+============================================================
+CHUNK 42
+============================================================
+REFERENCES
+32.  Wong CS, Jelacic S, Habeeb RL, et al. The risk of the hemolytic-uremic syndrome  after  antibiotic  treatment  of Escherichia  coli O157:H7  infections. N Engl J Med 2000;342:1930-6.
+33.  Hill  DR,  Beeching  NJ.  Travelers'  diarrhea.  Curr  Opin  Infect  Dis  2010; 23:481-7.
+

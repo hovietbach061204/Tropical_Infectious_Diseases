@@ -1,0 +1,732 @@
+============================================================
+CHUNK 0
+============================================================
+43
+
+============================================================
+CHUNK 1
+============================================================
+KEY FEATURES
+- death among adults and the leading killer of people with HIV.
+- cases occurring in low- or lower- to middle-income countries.
+- active TB for people infected with latent TB.
+- is associated with lower cure rates compared with susceptible TB.
+- involvement is more common among immunocompromised individuals and children.
+- can improve diagnosis of both TB and rifampin resistance, but access to these strategies remains a serious challenge.
+- mimic community-acquired pneumonia, or show severe disseminated or cavitary disease.
+- nodes, pleural space, central nervous system (CNS), bones, or gastrointestinal tract.
+- immunocompromised individuals or children, and a clinical diagnosis of active TB and MDR-TB with empiric treatment is often necessary.
+- drug-resistant pathogens.
+- and regimens are being tested and implemented to optimize treatment of all forms of TB; however, most people in need of these innovations are unable to access them.
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+Tuberculosis  (TB)  is  an  ancient  infection  of  humanity.  DNAcon{rmed cases date to 9000 years ago, and suspected TB lesions have been described in Homo erectus bones  from 500,000  years ago. Ironically, TB remains a global public health threat and has recently regained its position as the leading infectious cause of death in adults. Since the advent of effective anti-TB agents in the 1950s, TB has come to epitomize diseases of poverty: a curable disease  that  continues  to  kill  1.8  million  people  per  year-the same  number  it  killed  in  2007. 1 As  TB  predominantly  affects working-age populations, the macro-economic impact of the disease in  developing countries  is  also  immense, with  a  0.2% to  0.4% decrease in annual economic growth for every 10% increase in
+
+============================================================
+CHUNK 3
+============================================================
+Tuberculosis
+Ana P. Cavalhiero, Sonya S. Shin, Kwonjune J. Seung, Jennifer J. Furin
+TB incidence. 2 In fact, there is broad agreement that to achieve the  Sustainable  Development  Goals  on  poverty  reduction, TB incidence will need to be dramatically reduced. 3
+Despite  global  efforts  to  eliminate  TB,  prevalence  has  not declined signi{cantly, and in Southeast Asia and the western Paci{c, incidence is also on the rise. These trends may be due, in large part, to 'deadly synergies' with other chronic diseases-although most of the modest decline in TB rates in some settings is due to  treatment  and  prevention  of  HIV , 4 -and  the  emergence  of strains resistant to anti-TB agents and deepening social inequality in both developed and developing countries.
+
+============================================================
+CHUNK 4
+============================================================
+EPIDEMIOLOGY
+About 2 billion people-one-third of the world's population -have Mycobacterium  tuberculosis infection.  Among  the  30  countries identi{ed by the World Health Organization (WHO) as highTB-burden countries, 23 are low- or lower-middle-income countries as de{ned by the World Bank. Of the 6.34 million new TB cases reported in 2016, 2.66 million occurred in Southeast Asia (42%), 1.6 million (26%) in the western Paci{c, and 1.33 million (20%) in sub-Saharan Africa (T able 43.1, Fig. 43.1). 5
+High  rates  of  TB  incidence  in  many  countries  can  still  be attributed to the heavy or rising burden of TB/HIV co-infection. According to the 2016 WHO report, approximately 75% of HIV co-infected TB  patients  live  in  sub-Saharan Africa.  In  2016  an estimated 7.8% of incident TB cases were HIV positive. TB remains the leading cause of death among HIV-positive people-21% of all TB deaths occurred in HIV-positive people. Broad access to highly active antiretroviral therapy for HIV has had a signi{cant impact on TB incidence and mortality in some countries. Access to HIV testing and treatment remains limited, however, in countries in Southeast Asia and the western Paci{c, with only 50% to 75% of  individuals  diagnosed  with  TB  in  these  regions  even  being offered  HIV testing.  Rising  rates  of  diabetes  are  also  having  a signi{cant impact of rates of TB. 6
+
+============================================================
+CHUNK 5
+============================================================
+EPIDEMIOLOGY
+Another concerning trend is the increase in multi-drug-resistant TB (MDR-TB, resistance to at least isoniazid and rifampin) and rifampin-resistant TB (treated the same as MDR-TB with similar dismal success rates), which is  associated  with lower cure rates than cases of pan-susceptible TB. In 2016 MDR-TB incidence was estimated at 580,000 cases, but only 132,120 patients were diagnosed and only 124,990 started on treatment. Only 30% of individuals with an indication for testing for drug-resistant TB received such testing. 7 The term extensively drug resistant tuberculosis (XDR-TB) started being used in 2007, and the term extensively refers to MDR-TB strains that are also resistant to |uoroquinolones and  at  least  one  second-line  injectable  agent. 8 Outbreaks  of XDR-TB  have  been  associated  with  lethal  clinical  outcomes, particularly  among  HIV  co-infected  cases,  although  successful treatment of such cases has been reported, especially when using new and repurposed TB drugs. According to the WHO, in 2015, 77 countries reported 7579 XDR-TB cases, although only 36% of  patients  with  MDR-TB  had  second-line  drug  susceptibility testing (DST) performed. However, the epidemiology of XDR-TB is greatly underestimated because DST is not available in many countries. 9
+TABLE 43.1 Estimated Burden of Tuberculosis in 2015
+Estimated epidemiological burden of TB in 2015 for 30 high TB burden countries, WHO regions and globally. Numbers in thousands. a
+
+============================================================
+CHUNK 6
+============================================================
+EPIDEMIOLOGY
+Angola, Population. = 25000. Angola, HIV-Negative TB Mortality.Best Estimate = 11. Angola, HIV-Negative TB Mortality.Uncertainty Interval = 6.6-17. Angola, HIV-Positive TB Mortality b.Best Estimate = 7.2. Angola, HIV-Positive TB Mortality b.Uncertainty Interval = 1.6-17. Angola, Total TB Incidence.Best Estimate = 93. Angola, Total TB Incidence.Uncertainty Interval = 60-132. Angola, HIV-Positive TB Incidence.Best Estimate = 28. Angola, HIV-Positive TB Incidence.Uncertainty Interval = 17-41. Bangladesh c, Population. = 161000. Bangladesh c, HIV-Negative TB Mortality.Best Estimate = 73. Bangladesh c, HIV-Negative TB Mortality.Uncertainty Interval = 43-110. Bangladesh c, HIV-Positive TB Mortality b.Best Estimate = 0.23. Bangladesh c, HIV-Positive TB Mortality b.Uncertainty Interval = 0.19-0.29. Bangladesh c, Total TB Incidence.Best Estimate = 362. Bangladesh c, Total TB Incidence.Uncertainty Interval = 234-517. Bangladesh c, HIV-Positive TB Incidence.Best Estimate = 0.63. Bangladesh c, HIV-Positive TB Incidence.Uncertainty Interval = 0.39-0.94. Brazil, Population. = 208000. Brazil, HIV-Negative TB Mortality.Best Estimate = 5.5. Brazil, HIV-Negative TB Mortality.Uncertainty Interval = 5.2-5.9. Brazil, HIV-Positive TB Mortality b.Best Estimate = 2.2. Brazil, HIV-Positive TB Mortality b.Uncertainty Interval = 1.2-3.6. Brazil, Total TB Incidence.Best Estimate = 84. Brazil, Total TB Incidence.Uncertainty Interval = 72-97. Brazil, HIV-Positive TB Incidence.Best Estimate = 13. Brazil, HIV-Positive TB Incidence.Uncertainty Interval = 11-15. Cambodia, Population. = 15600. Cambodia, HIV-Negative TB Mortality.Best Estimate = 8.6. Cambodia, HIV-Negative TB Mortality.Uncertainty Interval = 6.1-12. Cambodia, HIV-Positive TB Mortality b.Best Estimate = 0.44. Cambodia, HIV-Positive TB Mortality b.Uncertainty Interval = 0.19-0.79. Cambodia, Total TB Incidence.Best Estimate = 59. Cambodia, Total TB Incidence.Uncertainty Interval = 38-85. Cambodia, HIV-Positive TB Incidence.Best Estimate =
+
+============================================================
+CHUNK 7
+============================================================
+EPIDEMIOLOGY
+1.4. Cambodia, HIV-Positive TB Incidence.Uncertainty Interval = 0.92-2.1. Central African Republic, Population. = 4900. Central African Republic, HIV-Negative TB Mortality.Best Estimate = 2.2. Central African Republic, HIV-Negative TB Mortality.Uncertainty Interval = 1.3-3.4. Central African Republic, HIV-Positive TB Mortality b.Best Estimate = 2.7. Central African Republic, HIV-Positive TB Mortality b.Uncertainty Interval = 1.0-5.3. Central African Republic, Total TB Incidence.Best Estimate = 19. Central African Republic, Total TB Incidence.Uncertainty Interval = 12-27. Central African Republic, HIV-Positive TB Incidence.Best Estimate = 8.6. Central African Republic, HIV-Positive TB Incidence.Uncertainty Interval = 5.3-13. China, Population. = 1380000. China, HIV-Negative TB Mortality.Best Estimate = 35. China, HIV-Negative TB Mortality.Uncertainty Interval = 34-37. China, HIV-Positive TB Mortality b.Best Estimate = 2.6. China, HIV-Positive TB Mortality b.Uncertainty Interval = 1.2-4.5. China, Total TB Incidence.Best Estimate = 918. China, Total TB Incidence.Uncertainty Interval = 788-1060. China, HIV-Positive TB Incidence.Best Estimate = 15. China, HIV-Positive TB Incidence.Uncertainty Interval = 12-19. Congo, Population. = 4620. Congo, HIV-Negative TB Mortality.Best Estimate = 2.3. Congo, HIV-Negative TB Mortality.Uncertainty Interval = 1.3-3.5. Congo, HIV-Positive TB Mortality b.Best Estimate = 2.4. Congo, HIV-Positive TB Mortality b.Uncertainty Interval = 2.0-2.9. Congo, Total TB Incidence.Best Estimate = 18. Congo, Total TB Incidence.Uncertainty Interval = 11-25. Congo, HIV-Positive TB Incidence.Best Estimate = 6.4. Congo, HIV-Positive TB Incidence.Uncertainty Interval = 3.9-9.5. DPR Korea, Population. = 25200. DPR Korea, HIV-Negative TB Mortality.Best Estimate = 15. DPR Korea, HIV-Negative TB Mortality.Uncertainty Interval = 10-22. DPR Korea, HIV-Positive TB Mortality b.Best Estimate = 0.04. DPR Korea, HIV-Positive TB Mortality
+
+============================================================
+CHUNK 8
+============================================================
+EPIDEMIOLOGY
+b.Uncertainty Interval = 0.02-0.06. DPR Korea, Total TB Incidence.Best Estimate = 141. DPR Korea, Total TB Incidence.Uncertainty Interval = 109-178. DPR Korea, HIV-Positive TB Incidence.Best Estimate = 0.45. DPR Korea, HIV-Positive TB Incidence.Uncertainty Interval = 0.32-0.60. DR Congo, Population. = 77300. DR Congo, HIV-Negative TB Mortality.Best Estimate = 51. DR Congo, HIV-Negative TB Mortality.Uncertainty Interval = 30-77. DR Congo, HIV-Positive TB Mortality b.Best Estimate = 16. DR Congo, HIV-Positive TB Mortality b.Uncertainty Interval = 13-20. DR Congo, Total TB Incidence.Best Estimate = 250. DR Congo, Total TB Incidence.Uncertainty Interval = 162-357. DR Congo, HIV-Positive TB Incidence.Best Estimate = 39. DR Congo, HIV-Positive TB Incidence.Uncertainty Interval = 23-57. Ethiopia, Population. = 99400. Ethiopia, HIV-Negative TB Mortality.Best Estimate = 25. Ethiopia, HIV-Negative TB Mortality.Uncertainty Interval = 15-38. Ethiopia, HIV-Positive TB Mortality b.Best Estimate = 3.9. Ethiopia, HIV-Positive TB Mortality b.Uncertainty Interval = 1.6-7.3. Ethiopia, Total TB Incidence.Best Estimate = 191. Ethiopia, Total TB Incidence.Uncertainty Interval = 141-249. Ethiopia, HIV-Positive TB Incidence.Best Estimate = 16. Ethiopia, HIV-Positive TB Incidence.Uncertainty Interval = 10-23. India d, Population. = 1310000. India d, HIV-Negative TB Mortality.Best Estimate = 480. India d, HIV-Negative TB Mortality.Uncertainty Interval = 380-590. India d, HIV-Positive TB Mortality b.Best Estimate = 37. India d, HIV-Positive TB Mortality b.Uncertainty Interval = 21-57. India d, Total TB Incidence.Best Estimate = 2840. India d, Total TB Incidence.Uncertainty Interval = 1470-4650. India d, HIV-Positive TB Incidence.Best Estimate = 113. India d, HIV-Positive TB Incidence.Uncertainty Interval = 58-186. Indonesia, Population. = 258000. Indonesia, HIV-Negative TB Mortality.Best Estimate = 100. Indonesia, HIV-Negative TB Mortality.Uncertainty Interval = 67-150. Indonesia, HIV-Positive TB Mortality
+
+============================================================
+CHUNK 9
+============================================================
+EPIDEMIOLOGY
+b.Best Estimate = 26. Indonesia, HIV-Positive TB Mortality b.Uncertainty Interval = 20-34. Indonesia, Total TB Incidence.Best Estimate = 1020. Indonesia, Total TB Incidence.Uncertainty Interval = 658-1450. Indonesia, HIV-Positive TB Incidence.Best Estimate = 78. Indonesia, HIV-Positive TB Incidence.Uncertainty Interval = 48-116. Kenya, Population. = 46100. Kenya, HIV-Negative TB Mortality.Best Estimate = 9. Kenya, HIV-Negative TB Mortality.Uncertainty Interval = 6.1-12. Kenya, HIV-Positive TB Mortality b.Best Estimate = 7.2. Kenya, HIV-Positive TB Mortality b.Uncertainty Interval = 0.71-21. Kenya, Total TB Incidence.Best Estimate = 107. Kenya, Total TB Incidence.Uncertainty Interval = 87-129. Kenya, HIV-Positive TB Incidence.Best Estimate = 36. Kenya, HIV-Positive TB Incidence.Uncertainty Interval = 29-43. Lesotho, Population. = 2140. Lesotho, HIV-Negative TB Mortality.Best Estimate = 1.2. Lesotho, HIV-Negative TB Mortality.Uncertainty Interval = 0.63-1.9. Lesotho, HIV-Positive TB Mortality b.Best Estimate = 4.8. Lesotho, HIV-Positive TB Mortality b.Uncertainty Interval = 3.0-7.0. Lesotho, Total TB Incidence.Best Estimate = 17. Lesotho, Total TB Incidence.Uncertainty Interval = 11-24. Lesotho, HIV-Positive TB Incidence.Best Estimate = 12. Lesotho, HIV-Positive TB Incidence.Uncertainty Interval = 7.7-18. Liberia, Population. = 4500. Liberia, HIV-Negative TB Mortality.Best Estimate = 3.2. Liberia, HIV-Negative TB Mortality.Uncertainty Interval = 1.9-4.8. Liberia, HIV-Positive TB Mortality b.Best Estimate = 0.84. Liberia, HIV-Positive TB Mortality b.Uncertainty Interval = 0.70-1.0. Liberia, Total TB Incidence.Best Estimate = 14. Liberia, Total TB Incidence.Uncertainty Interval = 9.0-20. Liberia, HIV-Positive TB Incidence.Best Estimate = 1.8. Liberia, HIV-Positive TB Incidence.Uncertainty Interval = 1.1-2.6. Mozambique, Population. = 28000. Mozambique, HIV-Negative TB Mortality.Best Estimate = 21. Mozambique, HIV-Negative TB
+
+============================================================
+CHUNK 10
+============================================================
+EPIDEMIOLOGY
+Mortality.Uncertainty Interval = 12-32. Mozambique, HIV-Positive TB Mortality b.Best Estimate = 34. Mozambique, HIV-Positive TB Mortality b.Uncertainty Interval = 21-50. Mozambique, Total TB Incidence.Best Estimate = 154. Mozambique, Total TB Incidence.Uncertainty Interval = 100-220. Mozambique, HIV-Positive TB Incidence.Best Estimate = 79. Mozambique, HIV-Positive TB Incidence.Uncertainty Interval = 50-115. Myanmar, Population. = 53900. Myanmar, HIV-Negative TB Mortality.Best Estimate = 27. Myanmar, HIV-Negative TB Mortality.Uncertainty Interval = 16-40. Myanmar, HIV-Positive TB Mortality b.Best Estimate = 4.8. Myanmar, HIV-Positive TB Mortality b.Uncertainty Interval = 3.5-6.5. Myanmar, Total TB Incidence.Best Estimate = 197. Myanmar, Total TB Incidence.Uncertainty Interval = 144-258. Myanmar, HIV-Positive TB Incidence.Best Estimate = 17. Myanmar, HIV-Positive TB Incidence.Uncertainty Interval = 11-25. Namibia, Population. = 2460. Namibia, HIV-Negative TB Mortality.Best Estimate = 0.78. Namibia, HIV-Negative TB Mortality.Uncertainty Interval = 0.51-1.1. Namibia, HIV-Positive TB Mortality b.Best Estimate = 0.88. Namibia, HIV-Positive TB Mortality b.Uncertainty Interval = 0.06-2.8. Namibia, Total TB Incidence.Best Estimate = 12. Namibia, Total TB Incidence.Uncertainty Interval = 9.3-15. Namibia, HIV-Positive TB Incidence.Best Estimate = 4.9. Namibia, HIV-Positive TB Incidence.Uncertainty Interval = 3.8-6.2. Nigeria, Population. = 182000. Nigeria, HIV-Negative TB Mortality.Best Estimate = 180. Nigeria, HIV-Negative TB Mortality.Uncertainty Interval = 96-290. Nigeria, HIV-Positive TB Mortality b.Best Estimate = 57. Nigeria, HIV-Positive TB Mortality b.Uncertainty Interval = 43-74. Nigeria, Total TB Incidence.Best Estimate = 586. Nigeria, Total TB Incidence.Uncertainty Interval = 345-890. Nigeria, HIV-Positive TB Incidence.Best Estimate = 100. Nigeria, HIV-Positive TB Incidence.Uncertainty Interval = 56-155. Pakistan, Population. = 189000. Pakistan, HIV-Negative TB Mortality.Best Estimate = 44. Pakistan, HIV-Negative TB Mortality.Uncertainty Interval =
+
+============================================================
+CHUNK 11
+============================================================
+EPIDEMIOLOGY
+9.3-110. Pakistan, HIV-Positive TB Mortality b.Best Estimate = 1.6. Pakistan, HIV-Positive TB Mortality b.Uncertainty Interval = 1.1-2.1. Pakistan, Total TB Incidence.Best Estimate = 510. Pakistan, Total TB Incidence.Uncertainty Interval = 330-729. Pakistan, HIV-Positive TB Incidence.Best Estimate = 8.8. Pakistan, HIV-Positive TB Incidence.Uncertainty Interval = 5.4-13. Papua New Guinea, Population. = 7600. Papua New Guinea, HIV-Negative TB Mortality.Best Estimate = 3.1. Papua New Guinea, HIV-Negative TB Mortality.Uncertainty Interval = 1.8-4.6. Papua New Guinea, HIV-Positive TB Mortality b.Best Estimate = 0.67. Papua New Guinea, HIV-Positive TB Mortality b.Uncertainty Interval = 0.40-1.0. Papua New Guinea, Total TB Incidence.Best Estimate = 33. Papua New Guinea, Total TB Incidence.Uncertainty Interval = 27-40. Papua New Guinea, HIV-Positive TB Incidence.Best Estimate = 4.9. Papua New Guinea, HIV-Positive TB Incidence.Uncertainty Interval = 3.0-7.3. Philippines, Population. = 101000. Philippines, HIV-Negative TB Mortality.Best Estimate = 14. Philippines, HIV-Negative TB Mortality.Uncertainty Interval = 8.8-19. Philippines, HIV-Positive TB Mortality b.Best Estimate = 0.44. Philippines, HIV-Positive TB Mortality b.Uncertainty Interval = 0.24-0.70. Philippines, Total TB Incidence.Best Estimate = 324. Philippines, Total TB Incidence.Uncertainty Interval = 279-373. Philippines, HIV-Positive TB Incidence.Best Estimate = 4.3. Philippines, HIV-Positive TB Incidence.Uncertainty Interval = 3.3-5.4. Russian Federation, Population. = 143000. Russian Federation, HIV-Negative TB Mortality.Best Estimate = 15. Russian Federation, HIV-Negative TB Mortality.Uncertainty Interval = 15-16. Russian Federation, HIV-Positive TB Mortality b.Best Estimate = 1.5. Russian Federation, HIV-Positive TB Mortality b.Uncertainty Interval = < 0.01-7.4. Russian Federation, Total TB Incidence.Best Estimate = 115. Russian Federation, Total TB Incidence.Uncertainty Interval = 98-132. Russian Federation, HIV-Positive TB Incidence.Best Estimate = 11. Russian
+
+============================================================
+CHUNK 12
+============================================================
+EPIDEMIOLOGY
+Federation, HIV-Positive TB Incidence.Uncertainty Interval = 9.3-13. Sierra Leone, Population. = 6450. Sierra Leone, HIV-Negative TB Mortality.Best Estimate = 3.3. Sierra Leone, HIV-Negative TB Mortality.Uncertainty Interval = 1.9-4.9. Sierra Leone, HIV-Positive TB Mortality b.Best Estimate = 0.82. Sierra Leone, HIV-Positive TB Mortality b.Uncertainty Interval = 0.40-1.4. Sierra Leone, Total TB Incidence.Best Estimate = 20. Sierra Leone, Total TB Incidence.Uncertainty Interval = 13-28. Sierra Leone, HIV-Positive TB Incidence.Best Estimate = 2.6. Sierra Leone, HIV-Positive TB Incidence.Uncertainty Interval = 1.7-3.8. South Africa, Population. = 54500. South Africa, HIV-Negative TB Mortality.Best Estimate = 25. South Africa, HIV-Negative TB Mortality.Uncertainty Interval = 21-29. South Africa, HIV-Positive TB Mortality b.Best Estimate = 73. South Africa, HIV-Positive TB Mortality b.Uncertainty Interval = 27-140. South Africa, Total TB Incidence.Best Estimate = 454. South Africa, Total TB Incidence.Uncertainty Interval = 294-649. South Africa, HIV-Positive TB Incidence.Best Estimate = 258. South Africa, HIV-Positive TB Incidence.Uncertainty Interval = 165-370. Thailand, Population. = 68000. Thailand, HIV-Negative TB Mortality.Best Estimate = 8.4. Thailand, HIV-Negative TB Mortality.Uncertainty Interval = 6.9-10. Thailand, HIV-Positive TB Mortality b.Best Estimate = 5.4. Thailand, HIV-Positive TB Mortality b.Uncertainty Interval = 3.3-8.1. Thailand, Total TB Incidence.Best Estimate = 117. Thailand, Total TB Incidence.Uncertainty Interval = 69-176. Thailand, HIV-Positive TB Incidence.Best Estimate = 15. Thailand, HIV-Positive TB Incidence.Uncertainty Interval = 8.0-25. UR Tanzania, Population. = 53500. UR Tanzania, HIV-Negative TB Mortality.Best Estimate = 30. UR Tanzania, HIV-Negative TB Mortality.Uncertainty Interval = 13-53. UR Tanzania, HIV-Positive TB Mortality b.Best Estimate = 25. UR Tanzania, HIV-Positive TB Mortality b.Uncertainty Interval = 16-35. UR Tanzania, Total TB Incidence.Best Estimate = 164. UR Tanzania, Total
+
+============================================================
+CHUNK 13
+============================================================
+EPIDEMIOLOGY
+TB Incidence.Uncertainty Interval = 78-281. UR Tanzania, HIV-Positive TB Incidence.Best Estimate = 57. UR Tanzania, HIV-Positive TB Incidence.Uncertainty Interval = 27-100. Viet Nam, Population. = 93400. Viet Nam, HIV-Negative TB Mortality.Best Estimate = 16. Viet Nam, HIV-Negative TB Mortality.Uncertainty Interval = 11-22. Viet Nam, HIV-Positive TB Mortality b.Best Estimate = 1.1. Viet Nam, HIV-Positive TB Mortality b.Uncertainty Interval = 0.20-2.7. Viet Nam, Total TB Incidence.Best Estimate = 128. Viet Nam, Total TB Incidence.Uncertainty Interval = 103-155. Viet Nam, HIV-Positive TB Incidence.Best Estimate = 5.5. Viet Nam, HIV-Positive TB Incidence.Uncertainty Interval = 3.5-7.9. Zambia, Population. = 16200. Zambia, HIV-Negative TB Mortality.Best Estimate = 5. Zambia, HIV-Negative TB Mortality.Uncertainty Interval = 2.9-7.7. Zambia, HIV-Positive TB Mortality b.Best Estimate = 12. Zambia, HIV-Positive TB Mortality b.Uncertainty Interval = 6.9-20. Zambia, Total TB Incidence.Best Estimate = 63. Zambia, Total TB Incidence.Uncertainty Interval = 41-91. Zambia, HIV-Positive TB Incidence.Best Estimate = 38. Zambia, HIV-Positive TB Incidence.Uncertainty Interval = 24-55. Zimbabwe, Population. = 15600. Zimbabwe, HIV-Negative TB Mortality.Best Estimate = 1.7. Zimbabwe, HIV-Negative TB Mortality.Uncertainty Interval = 0.99-2.5. Zimbabwe, HIV-Positive TB Mortality b.Best Estimate = 6.3. Zimbabwe, HIV-Positive TB Mortality b.Uncertainty Interval = 2.2-13. Zimbabwe, Total TB Incidence.Best Estimate = 38. Zimbabwe, Total TB Incidence.Uncertainty Interval = 28-49. Zimbabwe, HIV-Positive TB Incidence.Best Estimate = 26. Zimbabwe, HIV-Positive TB Incidence.Uncertainty Interval = 17-37. High TB burden countries, Population. = 4630000. High TB burden countries, HIV-Negative TB Mortality.Best Estimate = 1200. High TB burden countries, HIV-Negative TB Mortality.Uncertainty Interval = 1100-1400. High TB burden countries, HIV-Positive TB Mortality b.Best Estimate = 340. High TB burden countries, HIV-Positive TB Mortality b.Uncertainty
+
+============================================================
+CHUNK 14
+============================================================
+EPIDEMIOLOGY
+Interval = 280-410. High TB burden countries, Total TB Incidence.Best Estimate = 9050. High TB burden countries, Total TB Incidence.Uncertainty Interval = 7410-10800. High TB burden countries, HIV-Positive TB Incidence.Best Estimate = 1000. High TB burden countries, HIV-Positive TB Incidence.Uncertainty Interval = 859-1160. Africa, Population. = 989000. Africa, HIV-Negative TB Mortality.Best Estimate = 450. Africa, HIV-Negative TB Mortality.Uncertainty Interval = 350-560. Africa, HIV-Positive TB Mortality b.Best Estimate = 300. Africa, HIV-Positive TB Mortality b.Uncertainty Interval = 230-360. Africa, Total TB Incidence.Best Estimate = 2720. Africa, Total TB Incidence.Uncertainty Interval = 2360-3110. Africa, HIV-Positive TB Incidence.Best Estimate = 834. Africa, HIV-Positive TB Incidence.Uncertainty Interval = 710-969. The Americas, Population. = 991000. The Americas, HIV-Negative TB Mortality.Best Estimate = 19. The Americas, HIV-Negative TB Mortality.Uncertainty Interval = 17-20. The Americas, HIV-Positive TB Mortality b.Best Estimate = 5.9. The Americas, HIV-Positive TB Mortality b.Uncertainty Interval = 4.2-7.9 2.5-3.5. The Americas, Total TB Incidence.Best Estimate = 268. The Americas, Total TB Incidence.Uncertainty Interval = 250-287. The Americas, HIV-Positive TB Incidence.Best Estimate = 32. The Americas, HIV-Positive TB Incidence.Uncertainty Interval = 29-35. Eastern Mediterranean, Population. = 648000. Eastern Mediterranean, HIV-Negative TB Mortality.Best Estimate = 80. Eastern Mediterranean, HIV-Negative TB Mortality.Uncertainty Interval = 38-140. Eastern Mediterranean, HIV-Positive TB Mortality b.Best Estimate = 3. Eastern Mediterranean, HIV-Positive TB Mortality b.Uncertainty Interval = . Eastern Mediterranean, Total TB Incidence.Best Estimate = 749. Eastern Mediterranean, Total TB Incidence.Uncertainty Interval = 561-965. Eastern Mediterranean, HIV-Positive TB Incidence.Best Estimate = 13. Eastern Mediterranean, HIV-Positive TB Incidence.Uncertainty Interval = 9.5-17. Europe, Population. = 910000. Europe, HIV-Negative TB Mortality.Best Estimate = 32. Europe, HIV-Negative TB Mortality.Uncertainty Interval = 31-33.
+
+============================================================
+CHUNK 15
+============================================================
+EPIDEMIOLOGY
+Europe, HIV-Positive TB Mortality b.Best Estimate = 4.9. Europe, HIV-Positive TB Mortality b.Uncertainty Interval = 1.5-10. Europe, Total TB Incidence.Best Estimate = 323. Europe, Total TB Incidence.Uncertainty Interval = 299-349. Europe, HIV-Positive TB Incidence.Best Estimate = 27. Europe, HIV-Positive TB Incidence.Uncertainty Interval = 23-31. South-East Asia, Population. = 1930000. South-East Asia, HIV-Negative TB Mortality.Best Estimate = 710. South-East Asia, HIV-Negative TB Mortality.Uncertainty Interval = 600-830. South-East Asia, HIV-Positive TB Mortality b.Best Estimate = 74. South-East Asia, HIV-Positive TB Mortality b.Uncertainty Interval = 56-95. South-East Asia, Total TB Incidence.Best Estimate = 4740. South-East Asia, Total TB Incidence.Uncertainty Interval = 3230-6540. South-East Asia, HIV-Positive TB Incidence.Best Estimate = 227. South-East Asia, HIV-Positive TB Incidence.Uncertainty Interval = 159-307. Western Pacific, Population. = 1860000. Western Pacific, HIV-Negative TB Mortality.Best Estimate = 89. Western Pacific, HIV-Negative TB Mortality.Uncertainty Interval = 81-98. Western Pacific, HIV-Positive TB Mortality b.Best Estimate = 5.7. Western Pacific, HIV-Positive TB Mortality b.Uncertainty Interval = 3.8-8.1. Western Pacific, Total TB Incidence.Best Estimate = 1590. Western Pacific, Total TB Incidence.Uncertainty Interval = 1440-1740. Western Pacific, HIV-Positive TB Incidence.Best Estimate = 34. Western Pacific, HIV-Positive TB Incidence.Uncertainty Interval = 29-40. Global, Population. = 7320000. Global, HIV-Negative TB Mortality.Best Estimate = 1400. Global, HIV-Negative TB Mortality.Uncertainty Interval = 1200-1600. Global, HIV-Positive TB Mortality b.Best Estimate = 390. Global, HIV-Positive TB Mortality b.Uncertainty Interval = 320-460. Global, Total TB Incidence.Best Estimate = 10400. Global, Total TB Incidence.Uncertainty Interval = 8740-12200. Global, HIV-Positive TB Incidence.Best Estimate = 1170. Global, HIV-Positive TB Incidence.Uncertainty Interval = 1020-1320
+
+============================================================
+CHUNK 16
+============================================================
+EPIDEMIOLOGY
+a Numbers for mortality shown to two significant figures. Numbers for incidence shown to two significant figures if under 100 and to three significant figures otherwise.
+b Deaths among HIV-postive TB cases are classified as HIV deaths according to ICD-10.
+c Estimates of TB incidence and mortality for Bangladesh will be reviewed once final results from the 2015/2016 national TB prevalence survey are available.
+d Estimates of TB incidence and mortality for India are interim in nature, pending results from the national TB prevalence survey planned for 2017/2018. Data from World Health Organization. WHO Report 2016: Global Tuberculosis Control. Geneva: World Health Organization; 2016.
+Fig. 43.1 Estimated TB incidence rates by country, 2015. (From World Health Organization: WHO Global TB Report 2016: Global Tuberculosis Control. Geneva: World Health Organization; 2016.)
+
+============================================================
+CHUNK 17
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+TB is an airborne pathogen. A cough or sneeze from an infectious host emits thousands of aerosolized droplet nuclei that are much smaller than respiratory droplets (approximately 1-5 μ m). Bacilli-containing droplets remain airborne for hours to days and are small enough to be inhaled into the terminal alveoli.
+After inhalation, bacilli may extend via lung lymphatics to other areas of the lungs and to other organs throughout the body. Cellular immunity develops after approximately 6 to 12 weeks, resulting in  either  eradication  of  bacilli  or  the  formation  of  granulomas around the sites of infection. This cellular immunity is the basis for the tuberculin skin test (TST; described later). Cell-mediated immunity  prevents  progression  to  symptomatic  disease  in  the majority of infected individuals who are considered to have latent infection.  However,  approximately  10%  of  infected  individuals will develop active disease in the acute setting; in such cases, the bacilli proliferate within macrophages, provoking local in|ammation and  progression  of  lesions,  which  can  become  necrotic  and, ultimately, cavitary. Individuals who develop active disease within 1  to  2  years  of  infection  are  considered  to  have  primary  TB. Re-activation of TB, or the development of active disease more than 2 years after infection, occurs in approximately 5% to 10% of infected individuals over their lifetime. HIV infection increases this risk to approximately 5% to 10% per year. Without anti-TB chemotherapy, approximately 50% of patients with active disease die within 5 years, 30% recover spontaneously, and 20% remain infectious. 10
+
+============================================================
+CHUNK 18
+============================================================
+CLINICAL FEATURES
+The diverse  breadth of clinical  presentations  is  a  result  of  the bacilli' s ability to infect virtually every organ. Approximately 70% to 90% of active cases involve the lung, whereas the remaining 10% to 30% of cases are extra-pulmonary (Fig. 43.2). 11 Up  to 15% of cases have both pulmonary and extra-pulmonary involvement, although this may be an underestimate because of sub-clinical frequent among immunocompromised individuals and children. Among patients  with AIDS,  up  to  70%  have  extra-pulmonary involvement. The  diagnosis  of  extra-pulmonary  TB  requires  a high index of suspicion. The paucity of sensitive diagnostic methods for TB and limited capacity to sample suspected sites of involvement, in particular, in resource-poor settings, means that many diagnoses are based solely on clinical features.
+Manifestations of active TB  are  often sub-acute  or  chronic, typically developing over weeks to months. Constitutional symptoms include fever, night sweats, anorexia, and weight loss. With increasing chronicity,  the  classic  {nding  of 'consumption,'  or  generalized wasting, may be observed, regardless of organ involvement. However, the blunted in|ammatory response of immunosuppressed individuals can result in attenuated or absent signs and symptoms-in particular, those associated with local pathology.
+
+============================================================
+CHUNK 19
+============================================================
+Pulmonary Tuberculosis
+Primary  pulmonary  TB  is  often  characterized  by  lower  lobe in{ltrates (Fig. 43.3) and/or hilar adenopathy, re|ecting the site
+Fig. 43.2 Distribution of TB presentation by HIV status. (A) Distribution of TB cases by anatomic site in HIV-negative patients. (B) Distribution of TB cases by anatomic site in HIV-positive patients. ABD, Abdominal TB; EPTB, extra-pulmonary TB; GUTB, genitourinary TB; LNTB, lymph node tuberculosis; MTB, miliary TB; PTB, pulmonary TB; TBM, tuberculosis meningitis. (Redrawn from Sharma SK, Mohan A. Extrapulmonary tuberculosis. Indian J Med Res 2004;120:316-353.)
+of  inoculation  and  early  spread  via  lymphatics.  Symptoms  and radiographic {ndings can be subtle or mimic community-acquired pneumonia. Inquiry into recent TB contacts is important to increase the  index  of  suspicion.  Immunosuppressed  individuals,  such  as infants and HIV-positive individuals, are less able to contain the infection and therefore are more likely to present with primary TB. Cavitary lesions are frequently associated with hemoptysis. Physical {ndings may include the use of accessory muscles and tachycardia with a widely split S2, as well as clubbing, pale conjunctiva, and slow capillary re{ll. Lung auscultation can vary widely, ranging  from  a  normal  examination  to  focal  rales,  generalized wheezing, or focally absent breath sounds. A cavitary lesion may emit a hollow, tubular, low-pitched sound, sometimes producing a 'waterfall' sound if |uid is present in the cavity.
+Fig. 43.3 Chest radiograph of primary TB. Primary TB with right lower lobe infiltrate and right hilar adenopathy in an HIV-positive patient.
+Fig. 43.4 TB adenitis. Suppurative cervical lymphadenopathy (scrofula).
+
+============================================================
+CHUNK 20
+============================================================
+Tuberculous Adenitis
+Lymphadenitis is the most common extra-pulmonary manifestation of TB. As with all forms of extra-pulmonary  TB, adenitis has classically been a pediatric presentation, but is increasingly observed in adults co-infected with HIV. Cervical lymphadenopathy (scrofula) is the most common (Fig. 43.4), whereas generalized lymphadenopathy may re|ect disseminated infection. Chronic progression can lead to suppuration and formation of sinus tracts. Up to half of TB adenitis cases may present without systemic symptoms.
+
+============================================================
+CHUNK 21
+============================================================
+Pleural Tuberculosis
+TB  pleurisy  is  commonly  a  manifestation  of  primary  disease, although  it  can  also  be  seen  in  the  context  of  re-activation.  In many  developing  countries,  TB  is  the  most  common  cause  of pleural effusions. Symptoms may be acute or subacute and include pleuritic chest pain, non-productive cough, and progressive dyspnea.
+
+============================================================
+CHUNK 22
+============================================================
+Tuberculosis of the Central Nervous System
+Central nervous system (CNS) TB may present as a mass lesion (tuberculoma or abscess) or meningoencephalitis. Some estimate that up to 10% of all TB cases have CNS involvement, although many such cases may go undiagnosed or be diagnosed post-mortem. Focal lesions are often sub-acute and present with focal neurologic defects, seizures, or symptoms caused by increased intra-cranial pressure as a result of mass effect. Sub-acute to chronic in tempo (usually lasting more than 5 days), meningoencephalitis presents with fever, headache, and nuchal rigidity. Altered sensorium and cranial nerve involvement are not uncommon. Choroid tubercles may be visualized on fundoscopic examination.
+
+============================================================
+CHUNK 23
+============================================================
+Osteoarticular Tuberculosis
+Approximately  50%  of  osteoarticular  TB  involves  the  spine, although virtually any bone or joint can be involved. TB of the spine (Pott's disease) typically involves the thoracic spine and can present  with  chronic  back  pain,  neurologic  defects,  and  tender spinal deformities (gibbus). Neurologic compromise and kyphotic deformities can develop if untreated. Chronic arthritis typically presents with pain and swelling of the involved joint. Bone involvement may be associated with an overlying skin lesion. Such cases are often treated with broad-spectrum antibiotics, to which the lesion  may  partially  respond.  Progression  of  osteoarticular  TB can lead to bone and joint destruction.
+
+============================================================
+CHUNK 24
+============================================================
+Other Manifestations
+Gastrointestinal TB  commonly  presents with diffuse  ascites  or abdominal pain and palpable mass caused by intestinal involvement, in  particular,  the  jejunoileum  and  ileocecum.  Individuals  with TB-associated granulomatous hepatitis may present with jaundice and disproportionately elevated alkaline phosphatase values. The presence  of  hepatosplenomegaly  should  raise  the  suspicion  of disseminated TB. Genitourinary TB includes renal involvement, orchitis,  endometritis,  and  tubo-ovarian  masses.  Symptoms  of pelvic  in|ammatory  disease  that  are  refractory or partially responsive to treatment should raise suspicion for TB in endemic areas. Renal TB may present with |ank pain, dysuria, hematuria, and  pyuria.  Imaging  can  reveal  hydronephrosis,  {brosis  and scarring, enlarged ureters, and pelvic masses. Cutaneous TB may be ulcerative or nodular; lupus vulgaris, more common in women, refers  to  painful  nodular  lesions, often  on the  face.  Other sites of involvement include the pericardium, larynx, adrenal glands, and eye (including endophthalmitis, uveitis, iritis, episcleritis, and choroidal  tubercles). In many  developing  countries,  ascites, pericardial effusions, and sterile pyuria are considered TB until proven otherwise. Multi-organ or disseminated TB may be associated  with  bacteremia  and  the  presence  of  a  miliary  pattern  on chest radiograph, consisting of homogeneously distributed micronodular in{ltrates (Fig. 43.5).
+
+============================================================
+CHUNK 25
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+That the global mainstay of TB diagnosis is an insensitive assay developed more than  a century ago  is testament to the urgent need  for accurate diagnostics. In particular,  smear-negative pulmonary TB and extra-pulmonary TB remain predominantly clinical  diagnoses.  Among  immunosuppressed  individuals  who present with attenuated manifestations of disease, under-diagnosis is still the norm, as evidenced by undiagnosed TB identi{ed postmortem in 14% to 54% of HIV-positive individuals and in 20% of children (Box 43.1). Diagnostic delays or failure to obtain diagnostic con{rmation should not preclude initiation of appropriate therapy.
+Fig. 43.5 Miliary TB. Micronodular infiltrates resembling millet seeds represent miliary tuberculosis.
+
+============================================================
+CHUNK 26
+============================================================
+BOX 43.1 Diagnosis of Pediatric Tuberculosis
+- > 2 wk), fever, weight loss/failure to thrive, weakness/reduced playfulness, night sweats (older children), household contact with diagnosed TB or chronic cough.
+- spinal deformities.
+- children with sensitivity slightly lower than culture. Sputum smear is rarely positive.
+- preferably by sputum induction. Other methods: gastric lavage, bronchoalveolar lavage, and stool analysis. Multiple samples improve yield.
+- assays (IGRA) have limited role-often negative in high-risk children.
+- miliary) are more common and cavities unusual.
+- biopsy suspected sites helpful.
+- confirmation.
+
+============================================================
+CHUNK 27
+============================================================
+Genotypic Testing for TB and Drug-Resistant TB
+The {eld of TB diagnostics has long been plagued by a lack of effective  and  ef{cient  diagnostic  tests,  and  until  recently,  most persons with TB were diagnosed via sputum smear microscopy-a 100-year-old test that misses a majority of cases of active TB-or via solid culture that requires highly functional, bio-secure laboratory facilities. That all changed in 2010 when the WHO of{cially endorsed a novel, genotypic test, called Xpert MTB/RIF (commonly known as the GeneXpert ). 12 Xpert MTB/RIF is a cartridge-based, automated polymerase chain reaction (PCR) TB diagnostic that has a sensitivity and speci{city similar to that of solid culture. In addition to  being  able  to  detect  the  presence  of M. tuberculosis DNA, the test is able to identify the presence of mutations that confer resistance to rifampicin, a proxy for MDR-TB. Xpert MTB/ RIF is especially effective in diagnosing TB in persons with HIV , children, and in extra-pulmonary specimens (with the exception of pleural |uid). 13  Xpert MTB/RIF is now recommended as the primary diagnostic tool for all persons with possible TB. It can be used outside of sophisticated laboratory settings, produces results within 2 hours, and a point-of-care version known as the Xpert Omni will be available in 2019. 14
+In addition to the Xpert MTB/RIF, other genotypic tests to identify both TB and drug resistance are in use or being developed. Chief among these are the molecular line probe assays, which can detect M. tuberculosis and  detect  mutations  that are linked with resistance to isoniazid, rifampicin, kanamycin, and the |uoroquinolones.  These tests require more  sophisticated laboratory support-including a dedicated room for PCR testing-but can provide rapid results within a matter of days. Previously, the tests had to be run on culture-positive specimens, but now they can be performed on sputum samples.
+
+============================================================
+CHUNK 28
+============================================================
+Sputum Smear Microscopy
+Sputum smear microscopy is often the only diagnostic test available in resource-limited settings. It is no longer recommended as the initial diagnostic test for TB, but it can be done for monitoring purposes  in  persons  who  have  a  positive  smear  at  treatment initiation.
+
+============================================================
+CHUNK 29
+============================================================
+Tuberculosis Culture
+Although considered the 'gold standard' for TB diagnosis, mycobacterial culture still misses up to 20% of pulmonary cases that are con{rmed based on clinical {ndings and response to TB therapy. Sputum culture is technically dif{cult and is not widely available in resource-limited settings. Mycobacterium tuberculosis is  also slowgrowing with solid culture results in 6 to 8 weeks. Liquid media assays (e.g., mycobacteria growth incubator) have greater sensitivity than culture on solid media and reduce the time to detection (8-16 days). However, contamination rates may be higher, and commercial assays using liquid media are much more costly. One important advantage of mycobacterial culture is that additional testing-in particular, DST-can be performed on positive isolates.
+
+============================================================
+CHUNK 30
+============================================================
+Radiography
+Chest radiography and |uorography are commonly used to diagnose pulmonary TB. Because numerous other pulmonary diseases look similar to active TB (T able 43.2), clinical {ndings must complement radiographic {ndings to make the clinical diagnosis of TB. Re-activation TB-more frequently observed among HIV-negative cases-classically presents with apical involvement because of the high oxygen tension in the upper lung zones. Chronic {ndings include cavities, {brosis, collapse of upper lobes, and retraction of the mediastinal structures (Fig. 43.6). Atypical presentations, such as miliary features, intra-thoracic adenopathy, pleural effusions,
+
+============================================================
+CHUNK 31
+============================================================
+Radiography
+TABLE 43.2 Differential Diagnosis for Chest Radiograph Features
+
+Cavities, Alternative Diagnoses = Fungal infections (e.g., aspergilloma), old TB, acute bacterial infection. Cavities, Notes = Active TB cavities typically present in upper lobes with adjacent infiltrates.. Infiltrate, Alternative Diagnoses = Bacterial pneumonia, aspiration (can present in upper lobes). Infiltrate, Notes = Alternative diagnoses more acute in presentation.. Fibrosis, Alternative Diagnoses = Silicosis and other occupational exposures, idiopathic pulmonary fibrosis, old TB. Fibrosis, Notes = Consider exposure history and location of lesions (TB presents as apical fibrosis or fibrothorax).. Pleural effusion, Alternative Diagnoses = Parapneumonic effusion, neoplastic, congestive heart failure. Pleural effusion, Notes = Consider co-morbid conditions, constitutional symptoms; sampling of pleural fluid often informative.. Lymphadenopathy, Alternative Diagnoses = Neoplastic, other mycobacterial infections. Lymphadenopathy, Notes = Consider co-morbid conditions, regional epidemiology of other mycobacterial infections. Tissue sampling often informative.. Miliary/ disseminated, Alternative Diagnoses = Pneumocystis jirovecii, lymphocytic interstitial pneumonitis, endemic fungi (e.g., histoplasmosis). Miliary/ disseminated, Notes = Consider exposure history and regional epidemiology. Bronchoalveolar lavage often informative.
+Data from World Health Organization: WHO Report 2009: Global tuberculosis control . Geneva: World Health Organization; 2009; and World Health Organization: Multidrug and extensively drug-resistant TB (M/ XDR-TB): 2010 Global report on surveillance and response . Geneva: World Health Organization; 2010.
+Fig. 43.6 Re-activation TB. Extensive bilateral apical lesions include air bronchograms in the right upper lobe and a cavitary lesion in the left upper lobe.
+
+============================================================
+CHUNK 32
+============================================================
+Radiography
+TABLE 43.3 Diagnostic Features of Extra-Pulmonary Samples
+
+Pleural fluid, Findings Associated With Tuberculosis Infection = Exudative effusion, elevated adenosine deaminase (ADA), lymphocytic predominance, pH 7.3-7.4. ADA sensitivity and specificity in pleural fluid of 58%-92% and 60%-90%, respectively. Combined analysis of pleural fluid and pleural biopsy may increase diagnostic yield to 95%, compared with 25%-75% for fluid alone.. Cerebrospinal fluid (CSF), Findings Associated With Tuberculosis Infection = Low glucose, high protein, usually ≤ 1000 cells/mm 3 with ≥ 50% lymphocytes. Positive acid-fast bacilli in 10%-40%. TB PCR on CSF has a sensitivity of 73%-100%. Neutrophilic predominance may be seen in up to one-third of cases, particularly in early stages of infection. Centrifuged samples, large volume (i.e., 10 mL), and serial examinations may increase diagnostic confirmation.. Ascitic fluid, Findings Associated With Tuberculosis Infection = Lymphocytic predominance; a third may have positive smear or culture. CA-125 may be elevated in TB patients.. Lymph node aspirate or biopsy, Findings Associated With Tuberculosis Infection = Granulomas in biopsy; AFB and/or culture often confirmatory. TB PCR may be positive in up to one-third of samples.. Pleural, peritoneal, or pericardial biopsy, Findings Associated With Tuberculosis Infection = Granulomas; presence of AFB is rare; culture confirmation may be obtained in up to 66%.. Blood culture, Findings Associated With Tuberculosis Infection = Greater yield with disseminated disease; positive in 19%-96% of HIV-positive individuals.. Urine, Findings Associated With Tuberculosis Infection = Large volume (at least 80 mL) of first morning void optimizes yield. Urine PCR has good sensitivity and specificity.
+
+============================================================
+CHUNK 33
+============================================================
+Radiography
+and lower lobe in{ltrates, are common in HIV-positive patients. Chest radiographs are particularly useful for 'ruling out' pulmonary TB before starting treatment for latent TB infection. However, chest radiographs may be normal in up to 14% of HIV-positive individuals  with  culture-con{rmed  pulmonary  TB.  Computed tomography (CT) and ultrasound are useful for evaluating patients with suspected extra-pulmonary TB, although {ndings are often non-speci{c  and  can  include  organomegaly,  lymphadenopathy, ascites, and abscesses. Plain radiographs may reveal bony destruction or  compression  fractures  at  sites  of  bony  involvement.  CT  or magnetic resonance imaging (MRI) in suspected cases of CNS TB may reveal basilar meningeal enhancement and hydrocephalus, and can be helpful in ruling out alternative diagnoses in HIV-positive individuals, such as lymphoma and toxoplasmosis. In Pott's disease, compression fractures, discitis, and adjacent soft tissue involvement with cold abscesses may be revealed on imaging.
+
+============================================================
+CHUNK 34
+============================================================
+Analysis of Other Bodily Fluids and Tissue Samples
+If extra-pulmonary TB is suspected, every effort should be made to  obtain  a  relevant  sample  (T able 43.3).  Xpert  MTB/RIF  and TB culture should be performed when  available,  but are  often insensitive because of low bacillary load, and Xpert should not be used on pleural |uid.
+
+============================================================
+CHUNK 35
+============================================================
+Drug Susceptibility Tests
+In  areas  with  signi{cant  rates  of  MDR-TB,  regional  or  individual  resistance  data  are  crucial  for  designing  regimens  for
+TABLE 43.4 Characteristics of Novel Methods to Diagnose Tuberculosis and Drug-Resistant Tuberculosis
+
+Nitrate reductase method, Characteristics = Low-cost, simple assay in which Mycobacterium tuberculosis reduces nitrate to nitrite, resulting in color change when detection reagent added to tube. Pooled sensitivity/specificity for direct drug susceptibility testing (DST) 99%/100% for rifampin (R) and 94%/100% for isoniazid (H). Pooled sensitivity/specificity for indirect DST 97%/100% for R and 96%/99% for H. Turn-around time 14-21 days.. Microscopic observation drug susceptibility assay (MODS), Characteristics = Low-cost, simple assay in which liquid culture allows early visualization of cordlike structures using inverted microscope. Performs well on smear-negative samples. Pooled sensitivity/specificity for direct DST for detecting resistance to R and H: 96%/96% and 92%/96%, respectively. Turn-around time approximately 21 days.. INNO-LiPA Rif TB assay (Immunogenetics, Ghent, Belgium), Characteristics = Line probe assay to detect most common rpoB mutations associated with R resistance. Specialized equipment required. Risk of DNA contamination in laboratory. Pooled sensitivity/specificity of both direct and indirect assays were 97%/99% for detecting R resistance. Turnaround time 1-2 days.. Loop-mediated isothermal amplification [TB LAMP], (Eiken Chemical Company Ltd., Tokyo, Japan), Characteristics = Temperature-independent DNA amplification and genotypic detection of M. tuberculosis with visual optic readout; could be used in peripheral labs. Could be used to replace smear microscopy but does not detect drug resistance.
+treatment-failure cases. DST methods include both phenotypic and genotypic methods and are summarized in T able 43.4. 15-16
+
+============================================================
+CHUNK 36
+============================================================
+Tests for Tuberculosis Infection
+There are two classes of tests to diagnose TB infection: TST and interferon-gamma release assays (IGRA).  Both tests are unable to distinguish between latent and active infection. The TST (also called the Mantoux test ) involves the intra-dermal injection of TB antigens (i.e., puri{ed protein derivatives, PPDs) and evaluation after  48  to  72  hours  for  the  presence  of  a  local  in|ammatory response. The transverse diameter of the induration (not erythema) is  measured  and  interpreted  based  on  pre-test  probabilities (Box  43.2). 17 IGRAs  are  in  vitro  blood  tests  that  measure  the T-lymphocyte  response  to M.  tuberculosis -speci{c  antigens. 18 Although there was originally great hope that the IGRAs could replace TST as a more sensitive test and even help monitor response to treatment, the performance of the IGRAs has in some ways been disappointing. 19
+
+============================================================
+CHUNK 37
+============================================================
+Empiric Treatment of Tuberculosis
+Given  the  challenges  in  diagnosing  smear-negative  TB,  it  is sometimes necessary to initiate empiric TB treatment. In such cases,  TB  treatment  should  be  started  if  the  patient  reports  a sub-acute history of constitutional symptoms, and radiographic and  diagnostic  tests  are  consistent  with  TB,  and  alternative diagnoses are not obvious. For individuals with chronic cough, a trial of antibiotic therapy may be attempted before empiric TB treatment. In such cases, agents with anti-mycobacterial activity,
+BOX 43.2 Criteria for Positive Tuberculin Skin Test by Risk Group
+
+============================================================
+CHUNK 38
+============================================================
+RESPONSE WITH ≥ 5 MM INDURATION
+HIV-positive persons
+Recent contacts of TB case patients
+Fibrotic changes on chest x-ray consistent with TB
+Patients with organ transplants and other immunosuppressed patients receiving the equivalent of 15 mg/day of prednisone
+for 1 mo or more*
+
+============================================================
+CHUNK 39
+============================================================
+RESPONSE WITH ≥ 10 MM INDURATION
+Recent immigrants (i.e., within the last 5 yr) from high-prevalence countries
+Injection drug users
+Residents or employees of the following high-risk congregate settings: prisons and jails, nursing homes and other long-term facilities for the elderly, hospital and other health care facilities, residential facilities for patients with AIDS, and homeless shelters
+Mycobacteriology laboratory personnel
+Persons with the following clinical conditions that place them at high risk: silicosis, diabetes mellitus, chronic renal failure, some hematologic disorders (e.g., leukemias and lymphomas), other specific malignancies (e.g., carcinoma of the head, neck and lung), weight loss ≥ 10% of ideal body weight, gastrectomy, and jejunoileal bypass
+Child younger than 4 yr of age or infants, children, and adolescents exposed to adults at high risk
+
+============================================================
+CHUNK 40
+============================================================
+RESPONSE WITH ≥ 15 MM INDURATION
+Persons with no risk factors for TB
+*Risk of TB in patients treated with corticosteroids increases with a higher dose and longer duration.
+Source: American Thoracic Society. Targeted tuberculin testing and treatment of latent tuberculosis infection. American Thoracic Society. MMWR Recomm Rep 2000 June 9;49(RR-6):1-51.
+such as |uoroquinolones, should be avoided. In high-burden-TB settings, there should be a low threshold for empiric TB treatment, especially if the patient is ill or HIV positive.
+
+============================================================
+CHUNK 41
+============================================================
+MONITORING TREATMENT RESPONSE
+With effective treatment, patients experience rapid improvement in  constitutional  symptoms  followed  by  a  gradual  decrease  in cough and sputum production. Smear microscopy is a simple way to monitor treatment for cases with initially smear-positive disease. Sputum is generally smear negative by the end of the {rst month of treatment; over 90% will be smear negative after 2 months of regular treatment. Of note, because it can detect DNA even from dead  bacilli,  Xpert  MTB/RIF  should  not  be  used  for  routine monitoring.
+Any suggestion that the patient is not responding to treatment by  the  second  month  should  trigger  immediate  re-evaluation (Table 43.5). Adherence to treatment can be assessed by careful, non-judgmental  inquiry  of  the  patient,  family,  and  providers. Drug-resistant TB  should  be  considered,  especially  in  settings with signi{cant rates of primary TB and/or individuals with suboptimal  treatment  adherence.  Patients  with  drug-resistant TB, even MDR-TB, may initially respond favorably to {rst-line TB drugs. Paradoxical worsening soon after the start of therapy may be observed. This is more common among HIV-positive individuals, in particular, shortly after initiation of antiretroviral therapy (i.e., immune  reconstitution syndrome 20,21 ). However, paradoxical
+
+============================================================
+CHUNK 42
+============================================================
+MONITORING TREATMENT RESPONSE
+TABLE 43.5 Common Causes of Failure to Respond to Tuberculosis Treatment
+
+Drug-resistant TB, Evaluations = Repeat culture and drug susceptibility testing (DST); close clinical monitoring. Drug-resistant TB, Action = Empiric second-line TB treatment if patient is clinically unstable or once drug resistance confirmed. Poor adherence, Evaluations = Interview patient, family, health workers; count pills; verify signs and symptoms associated with drug ingestion (e.g., dark urine-rifampin). Poor adherence, Action = Reinforce education, directly observed treatment (DOT). HIV-related opportunistic infections, Evaluations = HIV testing; CD4; viral load; symptom- directed diagnosis of opportunistic infections. HIV-related opportunistic infections, Action = Early initiation of HAART; treatment of opportunistic infections. Malnutrition, Evaluations = Close monitoring of weight (and height in children); serum albumin. Malnutrition, Action = Nutritional supplementation. Paradoxical response, Evaluations = Rule out other causes of deterioration. Paradoxical response, Action = Continue with treatment; for HIV-positive individuals consider use of corticosteroids
+HAART, Highly active antiretroviral therapy.
+responses  can  be  observed  in  immunocompetent  individuals, including up to 10% of individuals with CNS TB. HIV-positive patients  may  also  have  other  AIDS-related  complications  that confuse the clinical picture. More than one issue can contribute to failure to clinically respond to TB treatment in a single patient. Furthermore, in smear-negative disease, con{rming a de{nitive diagnosis can be challenging. It is often necessary to provide empiric treatment for several likely diagnoses. In patients who are clinically unstable, hospitalization may be necessary to assess the patient carefully and quickly.
+
+============================================================
+CHUNK 43
+============================================================
+TREATMENT
+TB treatment has been extensively studied in controlled clinical trials, which support the use of multi-drug regimens along with measures  to  ensure  optimal  treatment  adherence. 22 Therapy generally consists of an 'intensive phase' with daily administration of at least four anti-tuberculous drugs, followed by a 'continuation phase'  involving  daily  or  intermittent  therapy  with  a  reduced number of drugs. A summary of anti-TB drugs and drug interactions is provided in T ables 43.6 to 43.12. 23
+
+============================================================
+CHUNK 44
+============================================================
+Treatment of Patients With Drug-Susceptible Tuberculosis
+The WHO released new guidelines on the treatment of TB in 2017. 24 Patients without a history of prior TB treatment and no risk factors for drug-resistant TB should be started on standard {rst-line treatment, that is, 'Category I' treatment (T ables 43.13 and 43.14). Category I treatment is effective for almost all types of  patients,  including  pregnant  women,  children,  HIV-positive patients, and patients with extra-pulmonary TB. Use of isoniazid and ethambutol in the continuation phase is less effective than isoniazid/rifampin and should not be used. Fixed-dose combination tablets  can  simplify  dosing  and  reduce  the  risk  of  partial  nonadherence.  In  some  cases,  therapy  should  be  prolonged.  For
+
+TABLE 43.6 Anti-Tuberculous Medications and Their Side Effects
+
+============================================================
+CHUNK 45
+============================================================
+Treatment of Patients With Drug-Susceptible Tuberculosis
+Isoniazid (H), Description and Adult Dose = Description: bactericidal; inhibits mycolic acid synthesis most effectively in dividing cells; hepatically metabolized Dose: 300 mg/day or 900 mg/ day. Isoniazid (H), Side Effects = Common: hepatitis (10%-20% have elevated transaminases), peripheral neuropathy (dose related; increased risk with malnutrition, alcoholism, diabetes, concurrent use of aminoglycoside (AG) or ethionamide (ETO)) Less common: gynecomastia, rash, psychosis, seizure. Isoniazid (H), Monitoring Requirements and Comments = Monitoring: consider baseline and monthly aspartate aminotransferase (SGOT), especially if age greater than 50 yr Comments: give with pyridoxine 50 mg/day if using large dose or if patient is at risk for peripheral neuropathy (diabetes, alcoholism, HIV, etc.). Rifamycins Rifampicin (R) (Rifampin) Rifabutin (Rfb), Description and Adult Dose = Description: bactericidal; inhibits protein synthesis by blocking mRNA transcription and synthesis; hepatically metabolized Dose: R: 600 mg/day; Rfb: 300 mg/day. Rifamycins Rifampicin (R) (Rifampin) Rifabutin (Rfb), Side Effects = Common: orange-colored bodily secretions, transient transaminitis, hepatitis, gastrointestinal (GIT) distress Less common: cholestatic jaundice. Rifamycins Rifampicin (R) (Rifampin) Rifabutin (Rfb), Monitoring Requirements and Comments = Monitoring: baseline SGOT and bilirubin, repeat if symptoms (jaundice, fatigue, anorexia, weakness, or nausea and vomiting for more than 3 days). Pyrazinamide (Z), Description and Adult Dose = Description: bactericidal; mechanism unclear; effective in acidic milieu (e.g., cavitary disease, intracellular organisms); hepatically metabolized, renally excreted Dose: 30-40 mg/kg/day. Pyrazinamide
+
+============================================================
+CHUNK 46
+============================================================
+Treatment of Patients With Drug-Susceptible Tuberculosis
+(Z), Side Effects = Common: arthritis/arthralgias, hepatotoxicity, hyperuricemia, abdominal distress Less common: impaired diabetic control, rash. Pyrazinamide (Z), Monitoring Requirements and Comments = Monitoring: baseline and monthly SGOT; uric acid can be measured if arthralgias, arthritis, or symptoms of gout are present Comments: usually given once daily, but can split dose initially to improve tolerance. Ethambutol (E), Description and Adult Dose = Description: bacteriostatic at conventional dosing (15 mg/ kg); inhibits lipid and cell wall metabolism; renally excreted Dose: 15-25 mg/kg, consider decreasing to 15 mg/kg once patient is culture negative. Ethambutol (E), Side Effects = Common: generally well tolerated Less common: optic neuritis, GI distress, arthritis/arthralgia. Ethambutol (E), Monitoring Requirements and Comments = Monitoring: baseline and monthly visual acuity and red/green color vision test when dosed at greater than 15 mg/ kg/day (more than 10% loss is considered significant); regularly question patient about visual symptoms. Aminoglycosides (AG) Amikacin (AMK) Kanamycin (K) Streptomycin (S) Polypeptides Capreomycin (CM) Viomycin (VM), Description and Adult Dose = Description: bactericidal; aminoglycosides inhibit protein synthesis through disruption of ribosomal function; less effective in acidic, intracellular environments; polypeptides appear to inhibit translocation of the peptidyl-tRNA and the initiation of protein synthesis; renally excreted Dose: 15-20 mg/kg/day. Aminoglycosides (AG) Amikacin (AMK) Kanamycin (K) Streptomycin (S) Polypeptides Capreomycin (CM) Viomycin (VM), Side Effects = Common: pain at injection site, proteinuria, serum electrolyte disturbances Less common: cochlear otoxocity (hearing loss, dose-related to cumulative and peak concentrations, increased risk with renal insufficiency, may be irreversible), nephrotoxicity (dose-related
+
+============================================================
+CHUNK 47
+============================================================
+Treatment of Patients With Drug-Susceptible Tuberculosis
+to cumulative and peak concentrations, increased risk with renal insufficiency, often irreversible), peripheral neuropathy, rash, vestibular toxicity (nausea, vomiting, vertigo, ataxia, nystagmus), eosinophilia Otoxocity potentiated by certain diuretics, especially loop diuretics Common: generally well tolerated, well absorbed. Aminoglycosides (AG) Amikacin (AMK) Kanamycin (K) Streptomycin (S) Polypeptides Capreomycin (CM) Viomycin (VM), Monitoring Requirements and Comments = Monitoring: baseline and then bi-weekly creatinine, urea, and serum potassium; more frequently in high-risk patients. If potassium is low, check magnesium and calcium. Baseline audiometry and monthly monitoring in high risk patients (high risk patients = elderly, diabetic or HIV-positive patients, or patients with renal insufficiency) Comments: observe for problems with balance; increase dosing interval or reduce dose and monitor serum drug concentrations as needed to control side effects Electrolyte disturbances are more common in patients receiving CM. Fluoroquinolones, Description and Adult Dose = Description: bactericidal; DNA-gyrase inhibitor; renally excreted Dose: Ofloxacin 800 mg/day Levofloxacin 750 mg/day Moxifloxacin 400 mg/day. Fluoroquinolones, Side Effects = Less common: diarrhea, dizziness, GI distress, headache, insomnia, photosensitivity, rash, vaginitis, psychosis, seizure (central nervous system [CNS] effects seen almost exclusively in elderly); synotenovitis. Fluoroquinolones, Monitoring Requirements and Comments = Monitoring: no laboratory monitoring requirements Comments: do not administer with antacids, sucralfate, iron, zinc, calcium, or oral potassium and have the most activity against Mycobacterium tuberculosis. Cycloserine (CS), Description and Adult Dose = Description: bacteriostatic; alanine analog; interferes with cell wall proteoglycan synthesis; renally excreted Dose: 500-1000 mg/day (initiate at 500 mg/day for 2-3 days then gradually increase to full dose). Cycloserine (CS), Side Effects =
+
+============================================================
+CHUNK 48
+============================================================
+Treatment of Patients With Drug-Susceptible Tuberculosis
+Common: neurologic and psychiatric disturbances, including headaches, irritability, sleep disturbances, aggression, and tremors Less common: psychosis, peripheral neuropathy, seizures (increased risk of CNS effects with concurrent use of ethanol, H, ETO, or other centrally acting medications), hypersensitivity. Cycloserine (CS), Monitoring Requirements and Comments = Monitoring: consider serum drug monitoring to establish optimal dosing Comments: give 50 mg for every 250 mg of CS (to lessen neurologic adverse effects)
+
+TABLE 43.6 Anti-Tuberculous Medications and Their Side Effects-cont'd
+
+============================================================
+CHUNK 49
+============================================================
+Treatment of Patients With Drug-Susceptible Tuberculosis
+Thiamides Ethionamide (ETO) Prothionamide (PTO), Description and Adult Dose = Description: may be bactericidal or bacteriostatic depending on susceptibility and concentrations attained at the infection site; the carbotionamide group, also found on thiacetazone, and the pyridine ring, also found on H, appear essential for activity; hepatically metabolized, renally excreted Dose: 500-1000 mg/day (initiate at 500 mg/day for 2-3 days then gradually increase to full dose). Thiamides Ethionamide (ETO) Prothionamide (PTO), Side Effects = Common: GI distress (nausea, vomiting, diarrhea, abdominal pain, loss of appetite), dysgeusia (metallic taste), hypothyroidism (especially when taken with PAS) Less common: arthralgias, dermatitis, gynecomastia, hepatitis, impotence, peripheral neuropathy, photosensitivity. Thiamides Ethionamide (ETO) Prothionamide (PTO), Monitoring Requirements and Comments = Monitoring: consider baseline and monthly SGOT Comments: may split dose or give at bedtime to improve tolerability; ETO and PTO efficacies are considered similar; PTO may cause fewer GI side effects. Para -aminosalicylic acid (PAS), Description and Adult Dose = Description: bacteriostatic; disrupts folic acid metabolism (thought to inhibit the biosynthesis of co-enzyme F in the folic acid pathway); hepatic acetylation, renally excreted. Dose: 8-12 g/day divided into 2-3 doses. Para -aminosalicylic acid (PAS), Side Effects = Common: GI distress (nausea, vomiting, diarrhea), hypersensitivity, hypothyroidism (especially when taken with ETO) Less common: hepatitis, electrolyte abnormalities Drug interactions: decreased H acetylation, decreased R absorption in non-granular preparation, decreased B 12 uptake. Para -aminosalicylic acid (PAS), Monitoring Requirements and Comments = Monitoring: no laboratory monitoring requirements Comments: some formulas of enteric coated granules need to be administered with an acidic food
+
+============================================================
+CHUNK 50
+============================================================
+Treatment of Patients With Drug-Susceptible Tuberculosis
+or beverage (i.e., yogurt or acidic juice)
+Adapted from PIH Guide to the Medical Management of Multidrug-Resistant Tuberculosis . Boston: Partners In Health; 2004. Available at: https://www. pih.org/article/download-the-pih-guide-to-medical-management-of-multidrug-resistant-tubercu.
+
+TABLE 43.7 Pediatric Dosing of Tuberculosis Drugs
+
+============================================================
+CHUNK 51
+============================================================
+Treatment of Patients With Drug-Susceptible Tuberculosis
+Isoniazid (H), Dose = 7-20 mg/kg daily. Isoniazid (H), Maximum Daily Dose = 900 mg. Rifampin (R), Dose = 10-20 mg/kg daily. Rifampin (R), Maximum Daily Dose = 600 mg. Ethambutol (E), Dose = 15-25 mg/kg daily. Ethambutol (E), Maximum Daily Dose = 1200 mg. Pyrazinamide (Z), Dose = 30-40 mg/kg daily. Pyrazinamide (Z), Maximum Daily Dose = 2000 mg. Streptomycin (S), Dose = 20-30 mg/kg daily. Streptomycin (S), Maximum Daily Dose = 1000 mg. Kanamycin (Km), Dose = 15-20 mg/kg daily. Kanamycin (Km), Maximum Daily Dose = 1000 mg. Capreomycin (Cm), Dose = 15-20 mg/kg daily. Capreomycin (Cm), Maximum Daily Dose = 1000 mg. Ofloxacin (Ofx), Dose = 15-20 mg/kg daily. Ofloxacin (Ofx), Maximum Daily Dose = 800 mg. Levofloxacin (Lfx), Dose = 15-20 mg/kg daily. Levofloxacin (Lfx), Maximum Daily Dose = 1000 mg. Moxifloxacin (Mfx), Dose = 10-15 mg/kg daily. Moxifloxacin (Mfx), Maximum Daily Dose = 400 mg. Ethionamide (Eto), Dose = 15-20 mg/kg daily. Ethionamide (Eto), Maximum Daily Dose = 1000 mg. Cycloserine (Cs), Dose = 15-20 mg/kg daily. Cycloserine (Cs), Maximum Daily Dose = 1000 mg. Para -aminosalicylic acid (PAS), Dose = 150 mg/kg daily. Para -aminosalicylic acid (PAS), Maximum Daily Dose = 8 g. Linezolid (LZD), Dose = 10 mg/kg/daily. Linezolid (LZD), Maximum Daily Dose = 600 mg. Clofazimine (CFZ), Dose = 2-5
+
+============================================================
+CHUNK 52
+============================================================
+Treatment of Patients With Drug-Susceptible Tuberculosis
+mg/kg daily. Clofazimine (CFZ), Maximum Daily Dose = 100 mg. Delamanid (DLM), Dose = 3-4 mg/kg/day. Delamanid (DLM), Maximum Daily Dose = 200 mg. Bedaquiline (BDQ), Dose = Loading dose: 6 mg/kg/day for 14 days. Bedaquiline (BDQ), Maximum Daily Dose = 400 mg. , Dose = Maintenance dose: 3-4 mg/kg three times a WEEK. , Maximum Daily Dose = 200 mg three times a WEEK
+From the World Health Organization's Guidelines for the Programmatic Management of Drug-Resistant Tuberculosis, Emergency Update 2008. http://whqlibdoc.who.int/publications/2008/9789241547581 _eng.pdf?ua=1
+TABLE 43.8 World Health Organization Recommended Use of Fixed-Dose Combinations for First-Line Treatment for Adults
+
+, Initial Phase (2 Months) = 2 (HRZE) Daily 56 total doses (Isoniazid 75 mg + rifampin 150 mg + pyrazinamide 400 mg + ethambutol 275 mg). , Continuation Phase (4 Months) = 4 (HR) Daily 112 total doses (Isoniazid 75 mg + rifampin 150 mg). 30-39 kg, Initial Phase (2 Months) = 2. 30-39 kg, Continuation Phase (4 Months) = 2. 40-54 kg, Initial Phase (2 Months) = 3. 40-54 kg, Continuation Phase (4 Months) = 3. 55-70 kg, Initial Phase (2 Months) = 4. 55-70 kg, Continuation Phase (4 Months) = 4. Over 70 kg, Initial Phase (2 Months) = 5. Over 70 kg, Continuation Phase (4 Months) = 5
+
+============================================================
+CHUNK 53
+============================================================
+Treatment of Patients With Drug-Susceptible Tuberculosis
+HR, Isoniazid and rifampin; HRZE, isoniazid, rifampin, pyrazinamide, ethambutol. From WHO. Tuberculosis Care with TB-HIV Co-management, 2007. http://www.who.int/hiv/pub/imai/TB_HIVModule23.05.07.pdf individuals with baseline cavitary disease and positive culture at 2 months, the continuation phase should be extended by 3 additional months. Principles of TB treatment in HIV-positive individuals, 25 children, 26,27 and  pregnant  women  are  outlined  in  Boxes  43.3, 43.4,  and  43.5,  respectively. 28 Most  resource-poor  settings  use WHO criteria in determining treatment outcomes. 29
+In  2017  the  WHO  updated  guidance  on  the  treatment  of individuals  with  drug-susceptible TB. These  recommendations stress  the  importance  of  daily  treatment  through  the  6-month course of therapy; prompt initiation of antiretroviral therapy for persons co-infected with HIV; that {xed-dose combination tablets be used; that TB meningitis and osteoarticular TB be treated for 12 months as opposed to 6 months; and that empiric re-treatment regimens no longer be used. These recommendations also support community-based  adherence  support  and  no  longer  stress  the need for directly observed therapy.
+
+============================================================
+CHUNK 54
+============================================================
+BOX 43.3 Tuberculosis Treatment in HIV-Positive Individuals
+- initiated as soon as TB is suspected, even if bacteriologic confirmation is not possible.
+- antiretroviral and anti-tuberculosis drugs must be considered (see Tables 43.9 through 43.12). Efavirenz-containing antiretroviral therapy (ART) with standard Category I treatment with rifampin is most commonly used.
+- I treatment should be avoided because of an increased risk of rifamycin resistance and treatment failure and/or relapse:
+- isoniazid and rifabutin (strongest data for adverse outcomes if CD4 cell count < 100 cells/ μ l)
+- individuals; however, if slow clinical response, prolongation of continuation phase to 7 mo suggested.
+- initiation, studies support the initiation of ART as soon as possible after start of TB treatment to minimize morbidity and mortality, regardless of CD4 cell count.
+- TB symptoms, including unmasking of clinical symptoms associated with previously asymptomatic extra-pulmonary sites. Although data from controlled trials are lacking, prednisone (e.g., 1-2 mg/kg per day for 1-2 wk then tapered) for immune reconstitution syndrome may decrease morbidity, once alternative causes (e.g., other AIDS-related complications, drug-resistant TB, etc.) are ruled out.
+- of Stevens-Johnson syndrome.
+
+============================================================
+CHUNK 55
+============================================================
+BOX 43.4 Tuberculosis Treatment in Children
+- < 5 yr are at risk of rapid progression to severe illness, and treatment should not be delayed.
+- intensive phase for children with extensive disease or in settings with high prevalence of HIV or isoniazid resistance.
+- household contact. Children should not be treated with pan-susceptible regimens if the identified index case has confirmed or suspected drug-resistant TB.
+
+============================================================
+CHUNK 56
+============================================================
+Re-Treatment Regimens and the Treatment of Individuals With Drug-Resistant Tuberculosis
+The WHO recommends that all individuals with TB and a history of prior TB treatment be tested for drug resistance, preferably using the Xpert MTB/RIF. Those with rifampin resistance should be treated for MDR-TB treatment (Box 43.6).
+
+============================================================
+CHUNK 57
+============================================================
+Adjunctive Treatments
+Systematic reviews of controlled trials demonstrate that steroids reduce mortality and long-term neurologic disability caused by meningeal  TB. 30 Steroids  may  also  be  used  when  paradoxical worsening is suspected to be caused by an in|ammatory response.
+
+============================================================
+CHUNK 58
+============================================================
+BOX 43.5 Tuberculosis Treatment During Pregnancy and Breastfeeding
+- pregnancy and breastfeeding. Although detailed data for PZA are lacking, most consensus guidelines recommend its use during pregnancy and breastfeeding.
+- capreomycin can cause ototoxicity in the fetus and are not recommended during the first 20 weeks of pregnancy. These medications have minimal gastrointestinal absorption and are therefore considered safe during breastfeeding.
+- drugs. The fluoroquinolones, cycloserine and paraaminosalicylic acid have not been associated with teratogenic defects in human or animal studies at therapeutic doses. Teratogenic defects, including central nervous system defects, from thiamides have been observed in animal studies.
+- smear-negative.
+
+============================================================
+CHUNK 59
+============================================================
+BOX 43.6 Principles of Treatment of Drug-Resistant Disease
+- be treated with all-oral regimens.
+- fluoroquinolone - are strongly recommended and should be given to a majority of persons with RR-TB. They have been associated with improved treatment outcomes and decreased mortality rates.
+- a majority of patients since they have been associated with improved treatment outcomes.
+- intolerance to bedaquiline, linezolid, the fluoroquinolones, cycloserine or clofazimine.
+- since they are associated with worse treatment outcomes: if an injectable must be given, it should be amikacin and this drug should only be used if there is documented susceptibility and if hearing can be formally monitored.
+- given to individuals who qualify for it, but although it was associated with lower rates of loss to follow up, it was associated with higher rates of failed treatment, relapse and death. Therefore, drug susceptibility testing is essential to ensure eligibility and patients should be informed about the benefits and risks of the regimen, including the risk of hearing loss.
+World Health Organization. Rapid Communication: Key changes to treatment of multidrug- and rifampicin-resistant tuberculosis. August 2018. https://www.who.int/tb/publications/2018/WHO_Rapid CommunicationMDRTB.pdf
+In these cases, every effort must be made to {rst rule out drugresistant TB, which can have an identical clinical presentation.
+Surgery is another important adjunct to chemotherapy in the management of patients with TB, where resources are available. Debridement should be considered in certain cases of osteoarticular
+
+TABLE 43.9 Recommendations for Concomitant Treatment of Tuberculosis and HIV Infection
+
+============================================================
+CHUNK 60
+============================================================
+BOX 43.6 Principles of Treatment of Drug-Resistant Disease
+Efavirenz-based ART* with rifampin-based TB treatment, PK Effect of the Rifamycin = Well-characterized, modest effect. Efavirenz-based ART* with rifampin-based TB treatment, Tolerability/Toxicity = Low rates of discontinuation. Efavirenz-based ART* with rifampin-based TB treatment, Antiviral Activity When Used With Rifampin = Excellent. Efavirenz-based ART* with rifampin-based TB treatment, Recommendation (Comments) = Preferred. Protease inhibitor- based ART* with rifabutin-based TB treatment, PK Effect of the Rifamycin = Little effect of rifabutin on PI concentrations, but marked increases in rifabutin concentrations. Protease inhibitor- based ART* with rifabutin-based TB treatment, Tolerability/Toxicity = Low rates of discontinuation (if rifabutin is appropriately dose-reduced). Protease inhibitor- based ART* with rifabutin-based TB treatment, Antiviral Activity When Used With Rifampin = Favorable, though published clinical experience is not extensive. Protease inhibitor- based ART* with rifabutin-based TB treatment, Recommendation (Comments) = Preferred for patients unable to take efavirenz†. Nevirapine-based ART with rifampin-based TB treatment, PK Effect of the Rifamycin = Moderate effect. Nevirapine-based ART with rifampin-based TB treatment, Tolerability/Toxicity = Concern about hepatotoxicity when used with isoniazid, rifampin, and pyrazinamide. Nevirapine-based ART with rifampin-based TB treatment, Antiviral Activity When Used With Rifampin = Favorable. Nevirapine-based ART with rifampin-based TB treatment, Recommendation (Comments) = Alternative for patients who cannot take efavirenz and if rifabutin not available. Zidovudine/lamivudine/ abacavir/tenofovir with rifampin-based TB treatment, PK Effect of the Rifamycin = 50% decrease in zidovudine, possible effect on abacavir
+
+============================================================
+CHUNK 61
+============================================================
+BOX 43.6 Principles of Treatment of Drug-Resistant Disease
+not evaluated. Zidovudine/lamivudine/ abacavir/tenofovir with rifampin-based TB treatment, Tolerability/Toxicity = Anemia. Zidovudine/lamivudine/ abacavir/tenofovir with rifampin-based TB treatment, Antiviral Activity When Used With Rifampin = No published clinical experience. Zidovudine/lamivudine/ abacavir/tenofovir with rifampin-based TB treatment, Recommendation (Comments) = Alternative for patients who cannot take efavirenz and if rifabutin not available. Zidovudine/lamivudine/ tenofovir with rifampin-based TB treatment, PK Effect of the Rifamycin = 50% decrease in zidovudine, no other effects predicted. Zidovudine/lamivudine/ tenofovir with rifampin-based TB treatment, Tolerability/Toxicity = Anemia. Zidovudine/lamivudine/ tenofovir with rifampin-based TB treatment, Antiviral Activity When Used With Rifampin = Favorable, but not evaluated in a randomized trial. Zidovudine/lamivudine/ tenofovir with rifampin-based TB treatment, Recommendation (Comments) = Alternative for patients who cannot take efavirenz and if rifabutin not available. Zidovudine/lamivudine/ abacavir with rifampin-based TB treatment, PK Effect of the Rifamycin = 50% decrease in zidovudine, possible effect on abacavir not evaluated. Zidovudine/lamivudine/ abacavir with rifampin-based TB treatment, Tolerability/Toxicity = Anemia. Zidovudine/lamivudine/ abacavir with rifampin-based TB treatment, Antiviral Activity When Used With Rifampin = Early favorable experience, but this combination is less effective than efavirenz- based regimens in persons not taking rifampin. Zidovudine/lamivudine/ abacavir with rifampin-based TB treatment, Recommendation (Comments) = Alternative for patients who cannot take
+
+============================================================
+CHUNK 62
+============================================================
+BOX 43.6 Principles of Treatment of Drug-Resistant Disease
+efavirenz and if rifabutin not available. Super-boosted lopinavir-based ART with rifampin-based TB treatment, PK Effect of the Rifamycin = Little effect. Super-boosted lopinavir-based ART with rifampin-based TB treatment, Tolerability/Toxicity = Hepatitis among healthy adults, but favorable experience among young children ( < 3 years). Super-boosted lopinavir-based ART with rifampin-based TB treatment, Antiviral Activity When Used With Rifampin = Good among young children ( < 3 years). Super-boosted lopinavir-based ART with rifampin-based TB treatment, Recommendation (Comments) = Alternative if rifabutin not available; preferred for young children when rifabutin not available. Raltegravir, PK Effect of the Rifamycin = Data still pending but likely interacts with rifampicin. Raltegravir, Tolerability/Toxicity = . Raltegravir, Antiviral Activity When Used With Rifampin = Use with rifampicin likely decreases the AUC for raltegravir and dolutegravir. Raltegravir, Recommendation (Comments) = . Dolutegravir, PK Effect of the Rifamycin = Interacts with rifampicin. Dolutegravir, Tolerability/Toxicity = . Dolutegravir, Antiviral Activity When Used With Rifampin = . Dolutegravir, Recommendation (Comments) = Studies show that when used with rifampicin, the dose of dolutegravir should be doubled (50 mg twice daily). 52
+ART, Antiretroviral therapy; AUC, area under curve.
+From Centers for Disease Control and Prevention: Managing drug interactions in the treatment of HIV-related tuberculosis. Atlanta, GA: CDC; 2007. Available at: www.cdc.gov/tb/publications/guidelines/TB_HIV_Drugs/default.htm
+*With two nucleoside analogs.
+- †Includes patients with non-nucleoside reverse transcriptase inhibitor (NNRTI)-resistant HIV, those unable to tolerate efavirenz, and women during the first one to two trimesters of pregnancy.
+
+============================================================
+CHUNK 63
+============================================================
+BOX 43.6 Principles of Treatment of Drug-Resistant Disease
+TB and extensive  soft tissue  involvement  (e.g.,  paraspinal  cold abscess,  TB  of  the  breast).  Finally,  for  individuals  with  a  poor prognosis with chemotherapy alone (e.g., MDR-TB and XDR-TB), resection of localized lung lesions is recommended.
+
+============================================================
+CHUNK 64
+============================================================
+Adherence
+Patient adherence is the most important factor associated with successful  TB  treatment.  Adherence  is  dif{cult  because  of  the heavy pill  burden and prolonged treatment. Patients  should be educated  before  starting  treatment  about  the  importance  of adherence and the danger of treatment failure and drug resistance. Although in the past international consensus endorsed the use of directly observed treatment (DOT), even in an absence of ef{cacy data, 31 the  2017  WHO  guidelines  stress  that  other  supportive measures  can  be  used,  with  a  focus  on  patient  education  and empowerment. DOT varies widely by program. 32 Incentives and enablers include transportation reimbursement, cash transfers, case management, and outreach support. Nutritional supplementation can also increase adherence and may have an independent effect on  treatment  success,  particularly  in  resource-limited  settings where chronic malnutrition is rampant.
+
+============================================================
+CHUNK 65
+============================================================
+Treatment of Tuberculosis Infection ('Preventive Therapy')
+A number of regimens for treatment of patients with TB infection help prevent the development of active TB disease. 33,34 The standard of care for treatment of TB infection-isoniazid 300 mg daily for 6 to 9 months-has been shown to be effective in preventing progression to active TB and has not been associated with the development of isoniazid resistance. Some studies have supported longer courses
+
+============================================================
+CHUNK 66
+============================================================
+Treatment of Tuberculosis Infection ('Preventive Therapy')
+Efavirenz, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Antiretroviral Drug = None. Efavirenz, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Rifampin = No change (600 mg/day). Efavirenz, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Comments = Efavirenz AUC ↓ by 22%; no change in rifampin concentration. Efavirenz should not be used during the first trimester of pregnancy. Nevirapine, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Antiretroviral Drug = No change. Nevirapine, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Rifampin = No change (600 mg/day). Nevirapine, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Comments = Nevirapine AUC ↓ 37%-58% and Cmin ↓ 68% with 200 mg 2 × /day dose. Delavirdine Etravirine, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Antiretroviral Drug = Rifampin and delavirdine should not be used together Rifampin and etravirine should not be used together. Delavirdine Etravirine, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Rifampin = Rifampin and delavirdine should not be used together Rifampin and etravirine should not be used together. Delavirdine Etravirine, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Comments = Delavirdine AUC ↓ by 95% Marked decrease in etravirine predicted, based on data on the interaction with rifabutin. SINGLE PROTEASE INHIBITORS, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Antiretroviral Drug = SINGLE PROTEASE INHIBITORS. SINGLE PROTEASE INHIBITORS, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Rifampin = SINGLE PROTEASE INHIBITORS. SINGLE PROTEASE INHIBITORS, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Comments = SINGLE PROTEASE INHIBITORS. ,
+
+============================================================
+CHUNK 67
+============================================================
+Treatment of Tuberculosis Infection ('Preventive Therapy')
+NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Antiretroviral Drug = Recommended Change in Dose of Antiretroviral Drug. , NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Rifampin = Recommended Change in Dose of Rifampin. , NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Comments = Comments. fos-Amprenavir Atazanavir Indinavir, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Antiretroviral Drug = Rifampin and fos-amprenavir should not be used together Rifampin and atazanavir should not be used together. fos-Amprenavir Atazanavir Indinavir, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Rifampin = Rifampin and fos-amprenavir should not be used together Rifampin and atazanavir should not be used together. fos-Amprenavir Atazanavir Indinavir, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Comments = Atazanavir AUC ↓ by > 95% Indinavir AUC ↓ by 89%. Nelfinavir, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Antiretroviral Drug = Rifampin and indinavir should not be used together Rifampin and nelfinavir should not be used together. Nelfinavir, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Rifampin = Rifampin and indinavir should not be used together Rifampin and nelfinavir should not be used together. Nelfinavir, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Comments = Nelfinavir AUC ↓ by 82%. Saquinavir, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Antiretroviral Drug = Rifampin and saquinavir should not be used together. Saquinavir, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Rifampin = Rifampin and saquinavir should not be used together. Saquinavir,
+
+============================================================
+CHUNK 68
+============================================================
+Treatment of Tuberculosis Infection ('Preventive Therapy')
+NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Comments = Saquinavir AUC ↓ by 84%. DUAL PROTEASE-INHIBITOR COMBINATIONS, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Antiretroviral Drug = DUAL PROTEASE-INHIBITOR COMBINATIONS. DUAL PROTEASE-INHIBITOR COMBINATIONS, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Rifampin = DUAL PROTEASE-INHIBITOR COMBINATIONS. DUAL PROTEASE-INHIBITOR COMBINATIONS, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Comments = DUAL PROTEASE-INHIBITOR COMBINATIONS. , NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Antiretroviral Drug = Recommended Change in Dose of Antiretroviral Drug. , NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Rifampin = Recommended Change in Dose of Rifampin. , NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Comments = Comments. Saquinavir/ritonavir, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Antiretroviral Drug = Saquinavir 400 mg plus ritonavir 400 mg twice daily. Saquinavir/ritonavir, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Rifampin = No change (600 mg/day). Saquinavir/ritonavir, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Comments = Use with caution; the combination of saquinavir (1000 mg twice daily), ritonavir (100 mg twice daily), and rifampin caused unacceptable rates of hepatitis among healthy volunteers. Lopinavir/ritonavir (Kaletra), NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Antiretroviral Drug = Increase the dose of lopinavir/ ritonavir (Kaletra)-4 tablets (200 mg of lopinavir with 50 mg of ritonavir) twice daily. Lopinavir/ritonavir (Kaletra), NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Rifampin = No change (600 mg/day). Lopinavir/ritonavir
+
+============================================================
+CHUNK 69
+============================================================
+Treatment of Tuberculosis Infection ('Preventive Therapy')
+(Kaletra), NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Comments = Use with caution; this combination resulted in hepatitis in all adult healthy volunteers in an initial study. 'Super-boosted' lopinavir/ritonavir (Kaletra), NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Antiretroviral Drug = Lopinavir/ ritonavir (Kaletra)-2 tablets (200 mg of lopinavir with 50 mg of ritonavir) + 300 mg of ritonavir twice daily. 'Super-boosted' lopinavir/ritonavir (Kaletra), NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Rifampin = No change (600 mg/day). 'Super-boosted' lopinavir/ritonavir (Kaletra), NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Comments = Use with caution; this combination resulted in hepatitis among adult healthy volunteers; however, there are favorable pharmacokinetic and clinical data among young children. CCR-5 RECEPTOR AGONISTS, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Antiretroviral Drug = CCR-5 RECEPTOR AGONISTS. CCR-5 RECEPTOR AGONISTS, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Rifampin = CCR-5 RECEPTOR AGONISTS. CCR-5 RECEPTOR AGONISTS, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Comments = CCR-5 RECEPTOR AGONISTS. , NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Antiretroviral Drug = Recommended Change in Dose of Antiretroviral Drug. , NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Rifampin = Recommended Change in Dose of Rifampin. , NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Comments = Comments. Maraviroc, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Antiretroviral Drug = Increase maraviroc to 600 mg twice daily. Maraviroc, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Rifampin = No change (600 mg/day).
+
+============================================================
+CHUNK 70
+============================================================
+Treatment of Tuberculosis Infection ('Preventive Therapy')
+Maraviroc, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Comments = Maraviroc Cmin ↓ by 78%; no reported clinical experience with increased dose of maraviroc with rifampin. INTEGRASE INHIBITORS, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Antiretroviral Drug = INTEGRASE INHIBITORS. INTEGRASE INHIBITORS, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Rifampin = INTEGRASE INHIBITORS. INTEGRASE INHIBITORS, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Comments = INTEGRASE INHIBITORS. , NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Antiretroviral Drug = Recommended Change in Dose of Antiretroviral Drug. , NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Rifampin = Recommended Change in Dose of Rifampin. , NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Comments = Comments. Raltegravir, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Antiretroviral Drug = Do not administer together. Raltegravir, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Rifampin = . Raltegravir, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Comments = Raltegravir concentrations ↓ by 40%-61%. Dolutegravir, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Antiretroviral Drug = Administer 50 mg twice daily (double dose). Dolutegravir, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Rifampin = . Dolutegravir, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Comments = . AUC, Area under curve; Cmin , minimum concentration. From Centers for Disease Control and Prevention: Managing drug interactions in the treatment of HIV-related tuberculosis. Atlanta, GA: CDC; 2007. Available at: www.cdc.gov/tb/publications/guidelines/TB_HIV_Drugs/default.htm, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Antiretroviral Drug = AUC, Area under curve; Cmin , minimum concentration. From
+
+============================================================
+CHUNK 71
+============================================================
+Treatment of Tuberculosis Infection ('Preventive Therapy')
+Centers for Disease Control and Prevention: Managing drug interactions in the treatment of HIV-related tuberculosis. Atlanta, GA: CDC; 2007. Available at: www.cdc.gov/tb/publications/guidelines/TB_HIV_Drugs/default.htm. AUC, Area under curve; Cmin , minimum concentration. From Centers for Disease Control and Prevention: Managing drug interactions in the treatment of HIV-related tuberculosis. Atlanta, GA: CDC; 2007. Available at: www.cdc.gov/tb/publications/guidelines/TB_HIV_Drugs/default.htm, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Recommended Change in Dose of Rifampin = AUC, Area under curve; Cmin , minimum concentration. From Centers for Disease Control and Prevention: Managing drug interactions in the treatment of HIV-related tuberculosis. Atlanta, GA: CDC; 2007. Available at: www.cdc.gov/tb/publications/guidelines/TB_HIV_Drugs/default.htm. AUC, Area under curve; Cmin , minimum concentration. From Centers for Disease Control and Prevention: Managing drug interactions in the treatment of HIV-related tuberculosis. Atlanta, GA: CDC; 2007. Available at: www.cdc.gov/tb/publications/guidelines/TB_HIV_Drugs/default.htm, NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS.Comments = AUC, Area under curve; Cmin , minimum concentration. From Centers for Disease Control and Prevention: Managing drug interactions in the treatment of HIV-related tuberculosis. Atlanta, GA: CDC; 2007. Available at: www.cdc.gov/tb/publications/guidelines/TB_HIV_Drugs/default.htm
+of isoniazid treatment of infection in persons with HIV. 35  More recent evidence shows that the use of a 12-week regimen of high-dose isoniazid and rifapentine given once a week is effective in treating TB infection and could greatly enhance completion rates among persons infected but not yet sick with TB. 36
+
+============================================================
+CHUNK 72
+============================================================
+Treatment of Tuberculosis Infection ('Preventive Therapy')
+Consensus on treatment of individuals at risk of latent MDR-TB infection is lacking, but recent data show that |uoroquinolone-based therapy has been associated with a 90% reduction in MDR-TB disease  among  persons  exposed  to  MDR-TB. 37 Some  experts recommend the use of at least two drugs to which the infecting isolate  is  likely  to  be  susceptible  (based  on  contact  or  regional resistance data).
+
+============================================================
+CHUNK 73
+============================================================
+Epidemiology
+Roughly 1 million children develop TB every year. 38 However, due to  the  paucibacillary  nature  of  the  disease  and  the  limited health systems in most affected countries, these cases are largely under-diagnosed, under-treated, and under-reported. 39,40 Unlike adults, infants and young children are at higher risk of becoming ill and developing severe forms of the disease after exposure and infection. This risk is multiplied in the presence of immunode{ciency or malnutrition. 41
+
+TABLE 43.11 Recommendations for Co-administration of Antiretroviral Drugs With Rifabutin
+
+============================================================
+CHUNK 74
+============================================================
+Epidemiology
+Efavirenz, REVERSE-TRANSCRIPTASE INHIBITORS Antiretroviral Dose Change = No change. Efavirenz, Rifabutin Dose Change = ↑ to 450-600 mg (daily or intermittent). Efavirenz, Comments = Rifabutin AUC ↓ by 38%. Effect of efavirenz + protease inhibitor(s) on rifabutin concentration has not been studied. Efavirenz should not be used during the first trimester of pregnancy.. Nevirapine, REVERSE-TRANSCRIPTASE INHIBITORS Antiretroviral Dose Change = No change. Nevirapine, Rifabutin Dose Change = No change (300 mg daily or thrice weekly). Nevirapine, Comments = Rifabutin and nevirapine AUC not significantly changed.. Delavirdine, REVERSE-TRANSCRIPTASE INHIBITORS Antiretroviral Dose Change = Rifabutin and delavirdine should not be used together. Delavirdine, Rifabutin Dose Change = Rifabutin and delavirdine should not be used together. Delavirdine, Comments = Delavirdine AUC ↓ by 70%; rifabutin AUC ↑ by 100%.. Etravirine, REVERSE-TRANSCRIPTASE INHIBITORS Antiretroviral Dose Change = No change. Etravirine, Rifabutin Dose Change = No change (300 mg daily or thrice weekly). Etravirine, Comments = No clinical experience; etravirine Cmin ↓ by 45%, but this was not thought to warrant a change in dose.. SINGLE PROTEASE INHIBITORS, REVERSE-TRANSCRIPTASE INHIBITORS Antiretroviral Dose Change = SINGLE PROTEASE INHIBITORS. SINGLE PROTEASE INHIBITORS, Rifabutin Dose Change = SINGLE PROTEASE INHIBITORS. SINGLE PROTEASE INHIBITORS, Comments = SINGLE PROTEASE INHIBITORS. , REVERSE-TRANSCRIPTASE INHIBITORS Antiretroviral Dose Change = Antiretroviral Dose Change. , Rifabutin Dose Change = Rifabutin Dose Change. , Comments = Comments. fos-Amprenavir Atazanavir, REVERSE-TRANSCRIPTASE INHIBITORS Antiretroviral Dose Change = No change No change. fos-Amprenavir Atazanavir, Rifabutin Dose Change = ↓ to 150 mg/day or 300 mg 3x/week ↓ to
+
+============================================================
+CHUNK 75
+============================================================
+Epidemiology
+150 mg every other day or 3 × / week. fos-Amprenavir Atazanavir, Comments = No published clinical experience No published clinical experience. Rifabutin AUC ↑ by 250%. Rifabutin AUC ↑ by 170%; indinavir. Indinavir, REVERSE-TRANSCRIPTASE INHIBITORS Antiretroviral Dose Change = 1000 mg every 8 hr. Indinavir, Rifabutin Dose Change = ↓ to 150 mg/day or 300 mg 3 × /week. Indinavir, Comments = concentrations ↓ by 34%.. Nelfinavir, REVERSE-TRANSCRIPTASE INHIBITORS Antiretroviral Dose Change = No change. Nelfinavir, Rifabutin Dose Change = ↓ to 150 mg/day or 300 mg 3 × /week. Nelfinavir, Comments = Rifabutin AUC ↑ by 207%; insignificant change in nelfinavir concentration. DUAL PROTEASE-INHIBITOR COMBINATIONS, REVERSE-TRANSCRIPTASE INHIBITORS Antiretroviral Dose Change = DUAL PROTEASE-INHIBITOR COMBINATIONS. DUAL PROTEASE-INHIBITOR COMBINATIONS, Rifabutin Dose Change = DUAL PROTEASE-INHIBITOR COMBINATIONS. DUAL PROTEASE-INHIBITOR COMBINATIONS, Comments = DUAL PROTEASE-INHIBITOR COMBINATIONS. , REVERSE-TRANSCRIPTASE INHIBITORS Antiretroviral Dose Change = Recommended Change in Dose of Antiretroviral Drug. , Rifabutin Dose Change = Recommended Change in Dose of Rifampin. , Comments = Comments. Lopinavir/ritonavir (Kaletra), REVERSE-TRANSCRIPTASE INHIBITORS Antiretroviral Dose Change = No change. Lopinavir/ritonavir (Kaletra), Rifabutin Dose Change = ↓ to 150 mg every other day or 3 × / week. Lopinavir/ritonavir (Kaletra), Comments = Rifabutin AUC ↑ by 303%; 25-O-des-acetyl rifabutin AUC ↑ by 47.5-fold. Ritonavir (any dose), with saquinavir, indinavir, amprenavir, fos-amprenavir, atazanavir, tipranavir, or darunavir, REVERSE-TRANSCRIPTASE INHIBITORS Antiretroviral Dose Change = No change. Ritonavir (any dose), with saquinavir,
+
+============================================================
+CHUNK 76
+============================================================
+Epidemiology
+indinavir, amprenavir, fos-amprenavir, atazanavir, tipranavir, or darunavir, Rifabutin Dose Change = ↓ to 150 mg every other day or 3 × / week. Ritonavir (any dose), with saquinavir, indinavir, amprenavir, fos-amprenavir, atazanavir, tipranavir, or darunavir, Comments = Rifabutin AUC ↑ and 25-O-des-acetyl rifabutin AUC ↑ , by varying degrees.. CCR-5 RECEPTOR AGONISTS, REVERSE-TRANSCRIPTASE INHIBITORS Antiretroviral Dose Change = CCR-5 RECEPTOR AGONISTS. CCR-5 RECEPTOR AGONISTS, Rifabutin Dose Change = CCR-5 RECEPTOR AGONISTS. CCR-5 RECEPTOR AGONISTS, Comments = CCR-5 RECEPTOR AGONISTS. , REVERSE-TRANSCRIPTASE INHIBITORS Antiretroviral Dose Change = Recommended Change in Dose of Antiretroviral Drug. , Rifabutin Dose Change = Recommended Change in Dose of Rifampin. , Comments = Comments. , REVERSE-TRANSCRIPTASE INHIBITORS Antiretroviral Dose Change = No change. , Rifabutin Dose Change = No change. , Comments = No clinical experience; a significant interaction. INTEGRASE INHIBITORS, REVERSE-TRANSCRIPTASE INHIBITORS Antiretroviral Dose Change = INTEGRASE INHIBITORS. INTEGRASE INHIBITORS, Rifabutin Dose Change = INTEGRASE INHIBITORS. INTEGRASE INHIBITORS, Comments = INTEGRASE INHIBITORS. Raltegravir, REVERSE-TRANSCRIPTASE INHIBITORS Antiretroviral Dose Change = No change. Raltegravir, Rifabutin Dose Change = No change. Raltegravir, Comments = No clinical experience; a significant interaction is unlikely, but this has not yet been. From Centers for Disease Control and Prevention: Managing drug interactions in the treatment of HIV-related tuberculosis. Atlanta, GA: CDC;, REVERSE-TRANSCRIPTASE INHIBITORS Antiretroviral Dose Change = . From Centers for Disease Control and Prevention: Managing drug interactions in the treatment of HIV-related tuberculosis. Atlanta, GA: CDC;, Rifabutin Dose Change = . From Centers for Disease Control and Prevention: Managing drug interactions in the treatment of HIV-related tuberculosis. Atlanta, GA:
+
+============================================================
+CHUNK 77
+============================================================
+Epidemiology
+CDC;, Comments = . , REVERSE-TRANSCRIPTASE INHIBITORS Antiretroviral Dose Change = . , Rifabutin Dose Change = . , Comments = 2007.. Available at:, REVERSE-TRANSCRIPTASE INHIBITORS Antiretroviral Dose Change = www.cdc.gov/tb/publications/guidelines/TB_HIV_Drugs/default.htm. Available at:, Rifabutin Dose Change = . Available at:, Comments = studied.. , REVERSE-TRANSCRIPTASE INHIBITORS Antiretroviral Dose Change = . , Rifabutin Dose Change = . , Comments = is unlikely, but this has not yet been. , REVERSE-TRANSCRIPTASE INHIBITORS Antiretroviral Dose Change = . , Rifabutin Dose Change = . , Comments = studied.. Maraviroc, REVERSE-TRANSCRIPTASE INHIBITORS Antiretroviral Dose Change = . Maraviroc, Rifabutin Dose Change = . Maraviroc, Comments = 
+
+============================================================
+CHUNK 78
+============================================================
+Diagnosis
+The  diagnosis  of  TB  in  children  can  be  challenging:  they develop  the  disease  with  lower  bacillary  load,  specimens  for analysis are more  dif{cult to collect,  and  extra-pulmonary disease  is  more  common. 42 Frequently,  bacteriologic  con{rmation  will  not  be  achieved,  and  empirical  treatment  should  be started.  Xpert  MTB/RIF  should  be  used  instead  of  smear microscopy  as  the  primary  diagnostic  test  for  children  with possible TB.
+
+============================================================
+CHUNK 79
+============================================================
+Prevention
+The best prevention is the rapid diagnosis of adults as the source of infection, prompt initiation of their treatment, and assessment of children who are household contacts. If presenting signs and symptoms of the disease, the child should be started on treatment. If presenting no signs of active disease, the child should initiate treatment of TB infection, as already described in this chapter.
+Bacille Calmette-Guérin (BCG) is a live attenuated M. bovis vaccine  that  has  been  used since  the 1930s.  It  still  is  currently the  only  vaccine  approved  for TB  prevention,  although  others are  being  studied.  BCG  reduces  the  chance  of  severe  forms of  the  disease  such  as  meningitis  and  disseminated  TB  during childhood.  It  should  be  given  as  a  single  dose  as  soon  as  possible after birth in countries with high TB burden. The vaccine's effectiveness in preventing TB decreases over time, and booster doses are no longer indicated. Due to the risk of disseminated disease, the vaccine itself is contraindicated in children infected with HIV. 43,44
+
+============================================================
+CHUNK 80
+============================================================
+Prevention
+Peripheral neuropathy, TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Antiretroviral Agent (ARV) = Stavudine (D4T), didanosine (ddI), zalcitabine (ddC). Peripheral neuropathy, TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Anti-Tuberculosis Agent = Linezolid (Lzd), Cs, H , Aminoglycosides, Eto/Pto, E. Peripheral neuropathy, TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Comments = Avoid use of D4T, ddI, and ddC in combination with Cs or Lzd because of theoretically increased peripheral neuropathy. If these agents must be used and peripheral neuropathy develops, replace the antiretroviral agent with a less neurotoxic agent.. Central nervous system (CNS) toxicity, TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Antiretroviral Agent (ARV) = Efavirenz (EFV). Central nervous system (CNS) toxicity, TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Anti-Tuberculosis Agent = Cs , H, Eto/Pto, Fluoroquinolones. Central nervous system (CNS) toxicity, TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Comments = Efavirenz has a high rate of CNS side effects (confusion, impaired concentration, depersonalization, abnormal dreams, insomnia, and dizziness) in the first 2-3 wk, which typically resolve on their own. If the CNS side effects do not resolve on their own, consider substitution of the agent. At present, there are limited data on the use of EFV with Cs; concurrent use is accepted practice with frequent monitoring for CNS toxicity. Frank psychosis is rare with EFV alone.. Depression, TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Antiretroviral Agent (ARV) = EFV. Depression, TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Anti-Tuberculosis Agent = Cs , Fluoroquinolones, H, Eto/Pto. Depression, TABLE
+
+============================================================
+CHUNK 81
+============================================================
+Prevention
+43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Comments = Severe depression can be seen in 2.4% of patients receiving EFV*; Consider substituting EFV if severe depression develops. The severe socioeconomic circumstances of many patients with chronic disease can also contribute to depression.. Headache, TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Antiretroviral Agent (ARV) = Zidovudine (AZT), EFV. Headache, TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Anti-Tuberculosis Agent = Cs. Headache, TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Comments = Rule out more serious causes of headache such as bacterial meningitis, cryptococcal meningitis, CNS toxoplasmosis, etc. Use of analgesics (ibuprofen, paracetamol) and hydration may help. Headache secondary to AZT, EFV, and Cs is usually self-limited.. Nausea and vomiting, TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Antiretroviral Agent (ARV) = Ritonavir (RTV), D4T , nevirapine (NVP), and most others. Nausea and vomiting, TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Anti-Tuberculosis Agent = Eto/Pto, PAS, H, E, Z, and others. Nausea and vomiting, TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Comments = Nausea and vomiting are common adverse effects and can be managed. Persistent vomiting and abdominal pain may be a result of developing lactic acidosis and/or hepatitis secondary to medications.. Abdominal pain, TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Antiretroviral Agent (ARV) = All HAART has been associated with abdominal pain. Abdominal pain, TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Anti-Tuberculosis Agent = Eto/Pto, PAS. Abdominal pain, TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Comments = Abdominal pain is a common adverse effect and often benign; however, abdominal pain may be an early symptom of severe adverse effects
+
+============================================================
+CHUNK 82
+============================================================
+Prevention
+such as pancreatitis, hepatitis, or lactic acidosis.. Pancreatitis, TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Antiretroviral Agent (ARV) = D4T, ddI, ddC. Pancreatitis, TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Anti-Tuberculosis Agent = Lzd. Pancreatitis, TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Comments = Avoid use of these agents together. If an agent causes pancreatitis, suspend it permanently and do not use any of the pancreatitis- producing anti-HIV medications (D4T, ddI, or ddC) in the future. Also consider gallstones or alcohol as a potential cause of pancreatitis.. Diarrhea, TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Antiretroviral Agent (ARV) = All protease inhibitors, ddI (buffered formula). Diarrhea, TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Anti-Tuberculosis Agent = Eto/Pto, PAS , fluoroquinolones. Diarrhea, TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Comments = Diarrhea is a common adverse effect. Also consider opportunistic infections as a cause of diarrhea or Clostridium difficile (a cause of pseudomembranous colitis).. Hepatotoxicity, TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Antiretroviral Agent (ARV) = NVP, EFV, all protease inhibitors (RTV > other protease inhibitors), all nucleoside reverse transcriptase inhibitors (NRTIs). Hepatotoxicity, TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Anti-Tuberculosis Agent = H, R, E, Z, PAS, Eto/ Pto, fluoroquinolones. Hepatotoxicity, TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Comments = receiving this medication. Also rule out viral etiologies as cause of hepatitis (hepatitis A, B, C,
+
+============================================================
+CHUNK 83
+============================================================
+Prevention
+and cytomegalovirus).. Skin rash, TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Antiretroviral Agent (ARV) = Abacavir (ABC), NVP, EFV, D4T, and others. Skin rash, TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Anti-Tuberculosis Agent = H,R, Z, PAS, fluoroquinolones, and others. Skin rash, TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Comments = Do not re-challenge with ABC (can result in life-threatening anaphylaxis). Do not re-challenge with an agent that caused Stevens-Johnson syndrome. this medication. Thioacetazone is contraindicated in HIV because of life-threatening rash.. Lactic acidosis, TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Antiretroviral Agent (ARV) = D4T, ddI, AZT, lamivudine (3TC). Lactic acidosis, TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Anti-Tuberculosis Agent = Lzd. Lactic acidosis, TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Comments = If an agent causes lactic acidosis, replace it with an agent less likely to cause lactic acidosis.. Renal toxicity, TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Antiretroviral Agent (ARV) = Tenofovir (TDF) (rare). Renal toxicity, TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Anti-Tuberculosis Agent = Aminoglycosides, Cm. Renal toxicity, TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Comments = TDF may cause renal injury with the characteristic features of Fanconi's syndrome, hypophosphatemia, hypouricemia, proteinuria, normoglycemic glycosuria, and in some cases acute renal failure. There are no data on the concurrent use of TDF with aminoglycosides or Cm. Use TDF with caution in patients receiving aminoglycosides or Cm. Even without the concurrent use of TDF, HIV-infected patients have
+
+============================================================
+CHUNK 84
+============================================================
+Prevention
+an increased risk of renal toxicity secondary to aminoglycosides and Cm. Frequent creatinine and electrolyte monitoring every 1-3 wk is recommended. Many anti-virals and anti-tuberculosis medications need to be dose adjusted for renal insufficiency.. Nephrolithiasis, TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Antiretroviral Agent (ARV) = Indinavir (IDV). Nephrolithiasis, TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Anti-Tuberculosis Agent = None. Nephrolithiasis, TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Comments = No overlapping toxicities regarding nephrolithiasis have been documented between antiretroviral therapy (ART) and anti-tuberculosis medications. Adequate hydration prevents nephrolithiasis in patients taking IDV. If nephrolithiasis develops while on IDV, substitute with another protease inhibitor if possible.. Electrolyte disturbances, TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Antiretroviral Agent (ARV) = TDF (rare). Electrolyte disturbances, TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Anti-Tuberculosis Agent = Cm, Aminoglycosides. Electrolyte disturbances, TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs.Comments = Diarrhea and/or vomiting can contribute to electrolyte disturbances. Even without the concurrent use of TDF, HIV-infected patients have an increased risk of both renal toxicity and electrolyte disturbances secondary to aminoglycosides and Cm.
+
+TABLE 43.12 Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs-cont'd
+
+============================================================
+CHUNK 85
+============================================================
+Prevention
+Bone marrow suppression, Antiretroviral Agent (ARV) = AZT. Bone marrow suppression, Anti-Tuberculosis Agent = Lzd , R, Rfb, H. Bone marrow suppression, Comments = Monitor blood counts regularly. Replace AZT if bone marrow suppression develops. Consider suspension of Lzd. medication. Consider adding folinic acid supplements, especially if receiving TMP/. Optic neuritis, Antiretroviral Agent (ARV) = ddI. Optic neuritis, Anti-Tuberculosis Agent = E , Eto/Pto (rare). Optic neuritis, Comments = Suspend agent responsible for optic neuritis permanently and replace with an agent that does not cause optic neuritis.. Hyperlipidemia, Antiretroviral Agent (ARV) = Protease inhibitors, EFV. Hyperlipidemia, Anti-Tuberculosis Agent = None. Hyperlipidemia, Comments = No overlapping toxicities regarding hyperlipidemia have been documented between ART and anti-tuberculosis medications. Follow World Health Organization (WHO) ART guidelines for management of hyperlipidemia.. Lipodystrophy, Antiretroviral Agent (ARV) = NRTIs (especially D4T and ddI). Lipodystrophy, Anti-Tuberculosis Agent = None. Lipodystrophy, Comments = No overlapping toxicities regarding lipodystrophy have been documented between ART and anti-tuberculosis medications. Follow WHO ART guidelines for management of lipodystrophy.. Dysglycemia (disturbed blood sugar regulation), Antiretroviral Agent (ARV) = Protease inhibitors. Dysglycemia (disturbed blood sugar regulation), Anti-Tuberculosis Agent = Gatifloxacin (Gfx) , Eto/Pto. Dysglycemia (disturbed blood sugar regulation), Comments = Protease inhibitors tend to cause insulin resistance and hyperglycemia. Eto/Pto tend to make insulin control in diabetics more difficult, and can result in hypoglycemia and poor glucose regulation. Gatifloxacin is no longer recommended for use in treatment of TB because of this side effect.. Hypothyroidism, Antiretroviral Agent (ARV) = D4T. Hypothyroidism, Anti-Tuberculosis Agent = Eto/Pto, PAS.
+
+============================================================
+CHUNK 86
+============================================================
+Prevention
+Hypothyroidism, Comments = There is potential for overlying toxicity; however, evidence is mixed. Several studies show subclinical hypothyroidism associated with HAART, particularly stavudine. PAS and Eto/Pto, especially in combination, can commonly cause hypothyroidism.. QTcF prolongation, Antiretroviral Agent (ARV) = Lopinavir/ritonavir, EFV. QTcF prolongation, Anti-Tuberculosis Agent = MFX, BDQ, DLM, CFZ. QTcF prolongation, Comments = Monthly monitoring of QTc recommended.
+HAART, Highly active antiretroviral therapy; TMP/SMX, trimethoprim-sulfamethoxazole; Lzd, linezolid, sometimes used to treat drug-resistant TB given in vitro activity against Mycobacterium tuberculosis .
+*Bristol-Myers Squibb, letter to providers, March 2005.
+Adapted from PIH Guide to the Medical Management of Multidrug-Resistant Tuberculosis. Boston: Partners in Health; 2004. Available at: https://www. pih.org/article/download-the-pih-guide-to-medical-management-of-multidrug-resistant-tubercu.
+TABLE 43.13 Common First-Line Tuberculosis Treatment Regimens
+
+Pan-susceptible TB, Types of TB Patients in Which It Is Commonly Used = New pulmonary and extra-pulmonary TB, with or without HIV infection. Pan-susceptible TB, Initial Phase = 2HRZE 2(HRZES) 3. Pan-susceptible TB, Continuation Phase = 4HR. Pan-susceptible TB, Notes = 12 months of treatment are recommended for TB meningitis and osteoarticular TB, 2HREZ followed by 10 HR. , Types of TB Patients in Which It Is Commonly Used = . , Initial Phase = /1(HRZE) 3. , Continuation Phase = 5(HRE) 3. , Notes = Thrice-weekly administration in the intensive phase has been associated with increased risk of acquired drug resistance in clinical trials.
+Adapted from World Health Organization. Treatment of tuberculosis: guidelines for national programmes. Geneva: World Health Organization; 2017.
+
+============================================================
+CHUNK 87
+============================================================
+Prevention
+TABLE 43.14 World Health Organization Recommended Use of Fixed-Dose Combinations for First-Line Treatment for Children
+
+, Initial Phase (2 mo) = 2 (HRZ)* Daily 56 total doses (Isoniazid 50 mg + rifampin 75 mg + pyrazinamide 150 mg). , Continuation Phase (4 mo) = 4 (HR) Daily 112 total doses (Isoniazid 50 mg + rifampin 75 mg). 4-7 kg, Initial Phase (2 mo) = 1. 4-7 kg, Continuation Phase (4 mo) = 1. 8-11 kg, Initial Phase (2 mo) = 2. 8-11 kg, Continuation Phase (4 mo) = 2. 12-15 kg, Initial Phase (2 mo) = 3. 12-15 kg, Continuation Phase (4 mo) = 3. 16-24 kg, Initial Phase (2 mo) = 4. 16-24 kg, Continuation Phase (4 mo) = 4. ≥ 25 kg, Initial Phase (2 mo) = Adult dosage recommended. ≥ 25 kg, Continuation Phase (4 mo) = Adult dosage recommended
+*Ethambutol should be added in the intensive phase for children with extensive disease or living in settings where the prevalence of HIV or of isoniazid resistance is high.
+HR , Isoniazid & rifampin; HRZ , isoniazid, rifampin, pyrazinamide.
+From World Health Organization: Technical briefing note: technical step process to switch to new paediatric tuberculosis formulations. Geneva: World Health Organization; 2016.
+
+============================================================
+CHUNK 88
+============================================================
+Treatment
+The general principles of treatment during childhood are similar to that of adults. With timely initiation of therapy, children have generally good outcomes, even when infected with drug-resistant TB. 45,46 However, there is  a lack  of  child-friendly  formulations for  many  of  the  medicines,  and  the  need  to  prepare  the  pills (dividing, crushing, and mixing with sweet substances) can be time consuming and requires proper orientation for the  health staff and  caregivers. 47 Fixed  combination  pills  based  on  weight  are available (see T able 43.14).
+
+============================================================
+CHUNK 89
+============================================================
+FUTURE PROSPECTS
+The last 5 years in TB have seen an explosion in clinical trials, focusing on novel therapeutic strategies and drugs. Three treatmentshortening trials for patients with pan-susceptible TB in which a |uoroquinolone was substituted for either isoniazid or ethambutol and treatment was shortened from 6 months to 4 months were recently  completed. 48 All  of  them  failed  to  demonstrate  noninferiority of the shortened regimens, but other trials are being developed using agents such as linezolid and clofazimine to see if treatment duration can be reduced when these agents are included. There is also renewed interest in using higher doses of rifampicin to see if treatment can be shortened or success rates improved. 49 Two novel agents-bedaquiline and delamanid-have also been approved by stringent regulatory authorities and recommended by the WHO for the treatment of MDR-TB. 50 Other novel agents and vaccines are in the pipeline, as are trials looking at all-oral, shortened regimens for drug-resistant TB. 51 Thus although TB remains one of the most concerning infectious disease problems in the world, there is hope that with political and {nancial commitment, the suffering caused by TB may {nally have a chance to end.
+
+============================================================
+CHUNK 90
+============================================================
+REFERENCE
+1.  World Health Organization. T owards ending tuberculosis. What gets measured gets done. Geneva, Switzerland: World Health Organization; 2017. http://www.who.int/publications/10-year-review/tb/en/.
+2. Publishers; 2008.
+4.  van Schalkwyk C, Mndzebele S, Hlophe T , et al. Outcomes and Impact e69437.
+5.  World Health Organization. WHO Global TB Report 2016: Global tuberculosis control. Geneva: World Health Organization; 2016. http:// www.who.int/tb/publications/global_report/en/.
+5. Association  of  Pulmonary  T uberculosis  and  Diabetes  in  Mexico: Analysis  of  the  National  T uberculosis  Registry  2000-2012.  PLoS
+7.  World Health Organization. WHO treatment guidelines for drugresistant tuberculosis. 2016 Update. Geneva: World Health Organization; 2016. http://apps.who.int/iris/bitstream/handle/10665/250125/ F87636F1AA?sequence=1.
+7. Drug-Resistant  Tuberculosis  over  Four  Decades:  Whole  Genome Sequencing  and  Dating  Analysis  of  Mycobacterium  tuberculosis Isolates from KwaZulu-Natal. PLoS Med 2015;12(9):e1001880.
+8. 243-53.
+9. Int Union Tuberc Lung Dis 1991;66:193-4.
+10. Res 2004;120:316-53.
+12.  World Health Organization. Policy statement: automated real-time nucleic  acid  ampli{cation  technology  for  rapid  and  simultaneous
+12. detection of tuberculosis and rifampicin resistance: Xpert MTB/RIF. Policy statement. Geneva: World Health Organization; 2011.
+13.  Albert H, Nathavitharana R, Isaacs C, et al. Development, roll-out and impact of Xpert MTB/RIF for tuberculosis: what lessons have
+14.  World Health Organization. Updated: Xpert MTB/RIF implementation manual technical and operational 'how-to': practical considerations. Geneva: World Health Organization; 2014.
+15. for multi drug resistant tuberculosis: a meta-analysis. BMC Infect Dis 2009;9:67.
+16.  Ling  DI,  Zwerling AA,  Pai  M.  GenoT ype  MTBDR  assays  for  the
+
+============================================================
+CHUNK 91
+============================================================
+REFERENCE
+17.  Centers for Disease Control and Prevention. T argeted tuberculin testing and  treatment  of  latent  tuberculosis  infection.  American  Thoracic Society. MMWR Recomm Rep 2000;49:1-51.
+18.  Centers for Disease Control and Prevention. Updated Guidelines for Using Interferon Gamma Release Assays to Detect Mycobacterium tuberculosis Infection - United States, 2010. MMWR 2010;59:RR-5.
+19.  Mandalakas AM,  Kirchner  HL,  Lombard  C,  et al. Well-quanti{ed tuberculosis exposure is a reliable surrogate measure of tuberculosis
+20. immune  reconstitution  in|ammatory  syndrome  and  unmasking  of tuberculosis by antiretroviral therapy. Clin Chest Med 2009;30:797-810.
+21. syndrome associated  with  Mycobacterium  tuberculosis infection: a
+22. -cial  American  Thoracic  Society/Centers  for  Disease  Control  and Prevention/Infectious Diseases Society of America Clinical Practice Guidelines: Treatment of Drug-Susceptible Tuberculosis. Clin Infect Dis 2016;63(7):853-67.
+23.  Centers for Disease Control and Prevention. Managing Drug Interactions in the T reatment of HIV-related T uberculosis. Centers for Disease Control and Prevention 2007. www.cdc.gov/tb/publications/guidelines/ TB_HIV_Drugs/default.htm.
+24.  World Health Organization. Guidelines for the treatment of drug-susceptible  tuberculosis.  Geneva,  Switzerland:  World  Health Organization; 2017. http://apps.who.int/iris/bitstream/10665/255052/ 1/9789241550000-eng.pdf?ua = 1.
+25.  Centers  for  Disease  Control  and  Prevention.  Guidelines  for  the management of persons with TB and HIV. 2017. https://www.cdc.gov/ tb/publications/guidelines/hiv_aids.htm.
+26. -2006;173:1078-90.
+27. 2012;367:348-61.
+28.  Nguyen  H, Pandol{ni  C, Chiodini P , Bonati M. T uberculosis care for  pregnant  women:  a  systematic  review.  BMC  Infect  Dis  2014; 14:617.
+
+============================================================
+CHUNK 92
+============================================================
+REFERENCE
+29.  World  Health  Organization.  De{nitions  and  reporting  framework for  tuberculosis:  2013  update.  Geneva;  Switzerland: World  Health Organizatio;  2013.  http://apps.who.int/iris/bitstream/10665/79199/ 1/9789241505345_eng.pdf.
+30.  Prasad  K,  Singh  MB.  Corticosteroids  for  managing  tuberculous meningitis. Cochrane Database Syst Rev 2008;(1):CD002244.
+31. Cochrane Database Syst Rev 2007;(4):CD003343.
+32. meta-analysis of community-based Directly observed therapy programs 2009;34:506-13.
+33. preventive therapy for tuberculosis. Clin Chest Med 2009;30:827-46.
+34.  World Health Organization. Latent tuberculosis infection: updated and consolidated guidelines for programmatic management. Geneva: World Health Organization; 2018. http://apps.who.int/iris/bitstream/ handle/10665/260233/9789241550239-eng.pdf?sequence = 1.
+35. Prophylactic  Therapy  for  the  Prevention  of  T uberculosis  in  HIV Infected Adults: A Systematic Review and Meta-Analysis of Randomized
+
+============================================================
+CHUNK 93
+============================================================
+REFERENCE
+- Med 2011;365(23):2155-66.
+37.  Marks SM, Mase SR, Bamrah Morris S. Systematic Review, MetaInfection to Reduce Progression to Multidrug-Resistant T uberculosis. Clin Infect Dis 2017;64(12):1670-7.
+- 2016;8:24.
+- tuberculosis in 22 high-burden countries: a mathematical modelling study. Lancet Glob Health 2014;2(8):e453-9.
+- -losis in children: a global perspective. Infect Drug Resist 2014;7:153.
+- Infect Dis 2012;206(12):1809-15.
+- for  the  diagnosis  of  pulmonary  tuberculosis  in  children:  a  systematic  review  and  meta-analysis.  Lancet  Respir  Med  2015;3(6): 451-61.
+43.  Hesseling AC, Cotton MF, Fordham von Reyn C, et al. Consensus statement on the revised World Health Organization recommendations for BCG vaccination in HIV-infected infants: Submitted on behalf of the BCG Working Group, Child Lung Health Section, International Union Against Tuberculosis and Lung Disease, 38th Union World Conference on Lung Health, Cape T own, 8-12 November 2007 [Of{cial
+44.  Abubakar I, Pimpin L, Ariti C, et al. Systematic review and meta-analysis of  the  current  evidence  on  the  duration  of  protection  by  bacillus Calmette-Guerin  vaccination  against  tuberculosis.  Health T echnol Assess 2013;17(37):1-372.
+- success  in  children  treated  for  multidrug-resistant  tuberculosis:  an observational cohort study. Thorax 2014;69(5):458-64.
+47.  Chiang SS, Roche S, Contreras C, et al. Barriers to the treatment of childhood tuberculous infection and tuberculosis disease: a qualitative
+- Treatment With Fluoroquinolones: Lost in Translation? Clin Infect Dis 2016;62(4):484-90.
+49.  Lienhardt C, Lönnroth K, Menzies D, et al. T ranslational Research for Med 2016;13(3):e1001965.
+51.  Resist-TB. Clinical Trials Progress Report. 2017. http://www.resisttb .org/?page_id = 1602.
+
+============================================================
+CHUNK 94
+============================================================
+REFERENCE
+- of  the  HIV  integrase  inhibitor  dolutegravir  given  twice  daily  with rifampin or once daily with rifabutin: results of a Phase 1 study among
+

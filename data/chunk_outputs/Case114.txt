@@ -1,0 +1,242 @@
+============================================================
+CHUNK 0
+============================================================
+Blood Transfusion in Resource-limited Settings 20
+Oliver Hassall, Imelda Bates, Kathryn Maitland
+- Establishment  of  a  nationally  coordinated  blood  transfusion service.
+- Collection of blood only from voluntary non-remunerated blood donors from low-risk populations.
+- Testing of all donated blood, including screening for transfusiontransmissible infections, blood grouping and compatibility testing.
+- Reduction in unnecessary transfusions through the effective clinical use of blood, including the use of simple alternatives to transfusion (crystalloids and colloids), wherever possible.
+With respect to these goals, this chapter focuses upon the major challenges facing transfusion services in countries in sub-Saharan Africa where the authors have immediate experience. The issues raised are likely to be relevant to other resource-limited countries.
+
+============================================================
+CHUNK 1
+============================================================
+THE GLOBAL BLOOD SUPPLY (Fig. 20.1)
+The Global Database on Blood Safety (GDBS) of the WHO reports that only 45% of all blood is donated in countries where 80% of the world's population live, and that the average blood donation rate in countries with a low human development index (HDI) is 2.3 per 1000 population, compared with 8.1 in countries with a medium HDI, and 36.7 in countries with a high HDI [3]. Although there is currently no model  that  takes  into  account  disease  burden  and  health  service sophistication to define what constitutes an adequate national blood requirement, these figures undoubtedly indicate a serious inequity in the availability of blood globally and inadequate blood supplies in resource-limited countries.
+
+============================================================
+CHUNK 2
+============================================================
+BLOOD SUPPLY IN AFRICA
+Published data with regard to blood supply in the WHO Africa Region are limited to the GDBS survey of 2004 [4], and are constrained by underreporting. Eight of 48 countries, including Africa's most populous, Nigeria, did not respond. Furthermore, within countries, there is bias in favor of data from national blood transfusion services, which may not give a true picture of the situation outside these organizations. In the 38 African countries for which data were provided, 2.2 million units of blood were reported to have been donated in 2004 for an estimated population of 431 million (72% of the total population of the region). This represents an average of 5.1 units donated per  1000  population  per  year.  Of  the  2.2  million  units  donated, 850,000 (39%)  were  donated  in  South  Africa,  which  has  a  highly sophisticated blood transfusion service and an estimated population of 39 million (9% of the total). If South Africa is removed from the analysis, an average of 3.4 units of blood are donated per 1000 population for the rest of sub-Saharan Africa.
+WHO estimates the blood requirement for countries in the region may be 10 to 20 units per 1000 population per year [4]. In resourcelimited  areas  of  Africa,  demand  is  high  predominantly  because  of
+
+============================================================
+CHUNK 3
+============================================================
+Key features
+- The issues of blood safety, adequate supply, equitable access and rational use still remain major challenges throughout the world. The greatest concern is in resourcelimited countries, the majority of which are in sub-Saharan Africa. This chapter focuses on the major challenges facing transfusion services in Africa, but these are relevant to other resource-limited countries
+- Despite high demand, blood supply is inadequate to meet global needs. An average of only 2.3 units are donated per 1000 population in sub-Saharan Africa, compared with 8.1 and 36.7, respectively, in countries with a medium and high human developmental indices.
+- Women and young children are the chief recipients of blood transfusions in sub-Saharan Africa, accounting for over three-quarters of the blood transfusion requirements
+- Nearly half of the blood collected in sub-Saharan Africa is from family or paid donors, in whom infectious risks are higher than in voluntary and non-remunerated donors
+- The risks of transfusion-transmitted infection (TTI) are often substantial in resource-limited settings because of the high background incidence of viral, bacterial and malarial infections, the frequent use of paid or replacement donors, and incomplete screening coverage
+- The frequency of noninfectious adverse events related to blood transfusion is largely unknown as hemovigilance activities are very limited
+
+============================================================
+CHUNK 4
+============================================================
+INTRODUCTION
+The transfusion of blood can be a life-saving intervention, and the provision  of  adequate  supplies  of  safe  blood  for  transfusion  is  an essential undertaking for any health system. In 1975, a World Health Organization (WHO) resolution recognized the importance of blood transfusion  services  and  urged  governments  to  'promote  national blood  transfusion  services,  based  on  voluntary  non-remunerated donations, and to promulgate laws to  govern  their  operation'  [1]. More than 30 years later, the issues of blood safety, adequate supply, equitable  access  and  rational  use  still  remain  major  challenges throughout  the  world.  The  greatest  concern  is  in  resource-limited countries, many of which are in sub-Saharan Africa, which have struggled to achieve the four key goals of an integrated strategy of blood safety [2]:
+FIGURE 20.1 Global estimates for blood donations per 1000 population (2007).
+severe anemia, infectious diseases, and bleeding in pregnancy. Based on the limited supply of data and using the lowest WHO estimate of demand (10 donations per 1000 population), the shortfall in blood donations for those countries responding to the survey and excluding South Africa is about 2.6 million units.
+donation as uninfected, either because of imperfect test sensitivity or human error. The higher the incidence of new infection in the donor population,  the  greater  the  likelihood  that  blood  will  be  donated during the window period before a serologic screening test is capable of detecting the infection.
+Although the magnitude of the shortage of blood for transfusion in sub-Saharan Africa is not certain, the patient groups who suffer the greatest  impact  are  easier  to  identify.  Young  children  have  a  high demand for blood, with the prevalence of severe anemia (defined as hemoglobin < 5 g/dL) in hospitalized children ranging from 8% to 29% [5]. In malaria-endemic areas, Plasmodium falciparum malaria as well as other infections and nutritional deficiencies have also been associated with severe anemia in children [6-8]. In some hospitals, 50%  of  all  children  admitted  are  transfused,  and  children  may account  for  up  to  70%  of  all  transfusions  prescribed  in  malariaendemic Africa [9-11].
+
+============================================================
+CHUNK 5
+============================================================
+INTRODUCTION
+Women of reproductive age are also major users of blood transfusions in resource-limited countries. Of the 20 countries worldwide with the highest maternal death rates, 19 are in sub-Saharan Africa, where the risk of maternal death is 1 in 16, compared with 1 in 2800 in industrialized  countries.  The  most  common  cause  of  maternal  death  is severe bleeding, contributing to over 40% of maternal deaths, and it has  been  estimated  that  a  quarter  of  these  women  die  because  of blood shortages [12].
+
+============================================================
+CHUNK 6
+============================================================
+Infectious Risk of Blood Transfusions
+Blood is a biologic tissue and when transferred from one individual to another it can transmit infection with potentially devastating consequences for the recipient. Viruses (e.g. HIV, hepatitis), bacteria (e.g. Treponema  pallidum ),  parasites  (e.g.  malaria,  trypanosomes)  and prions  (e.g.  vCJD)  may  all  be  transmitted  by  blood  transfusion. Reducing the risk of such an event is an important responsibility of providers of blood for transfusion.
+The transfusion-transmissible infections (TTI) for which all blood for transfusion should be screened are HIV, hepatitis B, hepatitis C, and syphilis [13]. For any TTI, the risk of an infectious unit entering the donor pool is related to the prevalence and incidence of the infection within the donor population.  The  higher the prevalence, the more often a laboratory screening test will incorrectly identify an infected
+Reducing the risk of TTI, therefore, has three main components: the identification of population groups with a low prevalence and incidence of TTI from which to recruit blood donors; health screening of potential donors to allow exclusion/self-exclusion of those with risk factors for TTI; and the screening of all blood donations for TTIs with sensitive and quality-assured tests in good laboratories.
+HIV is readily transmitted by whole blood transfusion with a seroconversion rate of 96% [14] and, historically, blood transfusion was thought to account for 10% of all new HIV infections in sub-Saharan Africa [15]. In the mid-1990s, the risk of HIV infection from a blood transfusion in Kenya was 2% [16]. In a recent analysis, Jayaraman and colleagues constructed a mathematical model to quantify the transfusion  risks  of  three  viruses  (HIV,  hepatitis  B  and  hepatitis  C)  in  45 sub-Saharan African countries [17]. Although the authors recognized methodologic bias in the epidemiologic sample base, they estimated that if projected annual transfusion requirements were met, transfusions alone would be responsible for 28,595 HBV infections, 16,625 HCV infections and 6650 HIV infections every year [17].
+
+============================================================
+CHUNK 7
+============================================================
+Infectious Risk of Blood Transfusions
+Another  infectious  risk  of  blood  transfusion,  for  which  laboratory screening is not routinely performed, is bacterial contamination. In wealthy countries, the risk of bacterial contamination of red cell products is low. In the Netherlands, a study of whole blood units cultured within 24 hours of donation reported a contamination rate of 0.34% [18], and the frequency of bacterial contamination of red blood cell concentrates is thought to be approximately 1 in 30,000 [19]. Clinically  significant  episodes resulting  from bacterial  contamination of blood products in wealthy countries are even rarer, with reported rates of  5.8 per million units (France) and 0.21 per million units (USA) [20,21].
+Recent data from sub-Saharan Africa suggest that the risk of bacterial contamination in whole blood units may be much higher than in wealthy countries. Bacterial contamination, with predominantly environmental  organisms,  was  found  in  9%  of  pediatric  transfusions issued in a Kenyan hospital [22]. Pediatric transfusions are particularly vulnerable to contamination in resource-limited countries, since, in the absence of pediatric transfusion packs, small volumes have to
+be drawn from adult (500 mL) packs. A recent study from northern Ghana  on  whole  blood  packs  identified  a  contamination  rate  of 17.5%; the  majority  of  contaminants  in  this  case  were  thought  to originate from the skin of the donor [23]. Another recent study from southern Ghana demonstrated a 13% bacterial contamination rate of whole blood [24].
+
+============================================================
+CHUNK 8
+============================================================
+Other Risks of Transfusion
+Systems for the routine detection of adverse consequences of blood transfusions (hemovigilance) only exist where transfusion safety has been identified as a health priority by the government [25]. In lowincome  countries,  the  frequency  of  noninfectious  adverse  events related  to  blood  transfusion  is  largely  unknown  as  hemovigilance activities are very limited. The transfusion of the incorrect unit with the possibility of ABO incompatibility and a life-threatening hemolytic transfusion reaction remains the most common hazard of transfusion  in  the  developed  world  [26,27].  Clerical  and  other  human errors are frequently to blame, even in health systems that are sophisticated and well resourced.
+In low-income countries, most blood is transfused as whole blood. Febrile  nonhemolytic  transfusion  reactions  (FNHTR)  are  therefore likely to be common because they are caused by biologically active substances associated with donor leukocytes, such as cytokines, complement  fragments,  antibodies  and  adhesion  molecules  [26,27]. Detection  of  these  reactions  in  low-income  countries  is  difficult because many transfusion recipients may already be febrile as a result of their underlying condition. In the only published study of its type, 40% of transfusions (26,973 units) in Yaounde, Cameroon were associated  with  fever  [28].  In  most  resource-rich  countries,  leukocyte reduction of transfusion products has decreased the risk of immunogenicity and cytokine release, and significantly reduced the number of FNHTR  [29,30], post-transfusion purpura, and transfusionassociated graft-versus-host disease [31].
+The transfusion of whole blood may have other adverse consequences, such  as  activation  of  adhesion  molecules  that  are  thought  to  be important in the generation of transfusion-related acute lung injury resulting in noncardiogenic pulmonary edema [27,32]. Transfusionassociated immunomodulation is associated with accelerated disease progression  and  mortality  in  patients  with  HIV  infection,  due  to transfusion-related immunosuppression [33].
+
+============================================================
+CHUNK 9
+============================================================
+Blood Donor Selection
+One of the key goals of the WHO strategy is to ensure all donors are voluntary  and  non-remunerated,  but  many  of  the  world's  poorest countries  are  still  struggling  to  achieve  this  goal  (Fig.  20.2).  For example, in 15 countries in Africa, accounting for 45% of the regions' population,  only  25-50%  of  blood  was  collected  from  voluntary donors. Overall, 1.2 million units, nearly half of the 2.8 million units of blood collected in sub-Saharan Africa, were from family or paid donors [4]. Recent data indicate that the difference in HIV prevalence between voluntary and replacement donors may be related to their different  age  structures  rather  than  whether  they  are  voluntary  or replacement  donors  [34].  Furthermore,  the  voluntary  donors  may have higher incidence rates of HIV infection because of their younger age profile [35]. In fact, the safest type of donor is one who is unpaid and donates regularly, irrespective of whether they were originally a voluntary or replacement donor.
+
+============================================================
+CHUNK 10
+============================================================
+PROGRESS IN IMPROVING BLOOD SUPPLY AND SAFETY IN SUB-SAHARAN AFRICA
+Over the  past  decade,  several  countries  in  sub-Saharan  Africa  have made progress in achieving the goals defined by the WHO to improve blood safety, financed largely by international donors. For example, the US President's Emergency Plan For AIDS Relief (PEPFAR) provides direct support to 14 countries to strengthen blood transfusion services.  Between  2003  and  2007,  this  resulted  in  an  increase  in  the number of total blood donations and the proportion from voluntary donors, and a decrease in the percentage of donations reactive for HIV [36]. These improvements have been achieved by establishing regional centers,  which  make  up  a  national  blood  transfusion  service,  to replace  hospital-based  systems.  Although  the  increase  in  voluntary donors has reduced the number of replacement blood donors, many of the voluntary donors are secondary school students, so there is a risk of blood shortages during the school holidays, which may also coincide with periods of peak demand.
+National blood transfusion services are more expensive than hospitalbased facilities because  they need  to establish efficient  donor recruitment and selection programs, maintain distribution and communication  networks,  and  support  quality-assured  laboratory  services.  Most  of  the  donors  attending  hospital-based  facilities  are recruited  by  families  of  patients  (i.e.  replacement  donors),  so  the
+hospitals do not bear the cost of donor recruitment [37]. There are, therefore,  concerns  about  the  sustainability  of  systems  requiring  a high level of financial support in low-income countries where cost recovery is unlikely.
+
+============================================================
+CHUNK 11
+============================================================
+WHO NEEDS BLOOD?
+In wealthy countries, the use of blood is strictly monitored through specialist transfusion practitioners, hospital transfusion committees, and national reporting systems. In resource-limited countries, appropriate use of blood and blood products and monitoring of transfusions are poorly taught and rarely monitored. Evidence underpinning guidelines  for  the  clinical  use  of  blood  in  low-income  countries  is often  weak  or  inappropriate  for  settings  with  few  resources.  The pattern of usage of blood in low-income countries, with most transfusions given predominantly as an emergency treatment to children and pregnant women, is very different from that in more wealthy countries (see Fig. 20.3A,B). The high percentage of blood used for pediatric transfusions (19-67%) and pregnancy-related complications in women (15-40%) contrasts markedly with equivalent figures of 1% and 4% from a district hospital in the UK. The majority of pediatric transfusions are for young children; in the studies for which data are available, children under the age of 5 years receive 43% to 62% of all blood transfusions.
+FIGURE 20.3 Estimates for the proportionate use of blood in the United Kingdom (A) and resource-limited countries in Africa (B) .
+
+============================================================
+CHUNK 12
+============================================================
+TRANSFUSION GUIDELINES
+The decision whether or not to prescribe a blood transfusion should be based on an assessment of the clinical condition of the patient, taking into account their hemoglobin level. Trials based in wealthy countries  have  found  that  30-day  mortality  was  the  same  in  two groups  of  critically  ill  patients  irrespective  of  whether  hemoglobin levels of 7 g/dL or 9 g/dL were used to trigger the transfusion [38]. In less acutely ill or younger patients, 30-day mortality was lower in the group with the trigger of 7g/dL [38]. One of the largest pediatric trials ever conducted also concluded that a hemoglobin transfusion threshold of 7 g/dL decreased transfusion requirements without increasing adverse outcomes [39]. Similar trials are needed in Africa, where, due to  a  shortage of  blood, transfusion triggers tend to  be much  lower (4 g/dL or under 5 g/dL in symptomatic patients) [40].
+Pediatric guidelines in low-income countries where malaria is prevalent  often  indicate  that  profound  anemia  (hemoglobin < 4 g/dL) should be treated with a transfusion [40]. Most transfusions received are whole blood and not packed red cells. This is supported by evidence suggesting that children with hemoglobin concentration less than 3.9 g/dL who were transfused had a lower mortality than those with similar hemoglobin concentrations who were not transfused [7]. Transfusions may be needed at higher hemoglobin levels if dehydration, shock, impaired consciousness, heart failure, or labored breathing are present.
+
+============================================================
+CHUNK 13
+============================================================
+MISUSE OF BLOOD TRANSFUSIONS
+Even in wealthy countries with good supplies of blood, there can be significant  overuse  of  blood  transfusions  [37].  In  resource-limited countries, there is also often poor adherence to transfusion guidelines, and despite the lack of blood, 50-75% of blood transfusions may be given inappropriately [41,42]. This has led some to observe that 'no other pharmaceutical preparation of comparable cost and toxicity is prescribed  with  [such]  a  cavalier  attitude  towards  risk'  [43].  Other studies have shown that over a third of transfused children did not have their hemoglobin measured prior to transfusion, and of those in  whom  the  pre-transfusion  hemoglobin  was  checked,  18%  had levels above the recommended transfusion trigger of 6 g/dL without any additional indications for transfusion [42].
+The decision to transfuse in resource-limited settings is often based on a clinical diagnosis of anemia using signs of severe pallor of the palms and/or the conjunctiva [44]. However, clinical assessment of pallor may over-diagnose anemia [41,42] or miss a large proportion of patients with severe anemia [45]. Clinical assessment of anemia is therefore  not  precise enough to  inform  the decision  to  prescribe a scarce and potentially dangerous therapy such as a blood transfusion. An accurate hemoglobin measurement is essential to avoid putting transfusion recipients at unnecessary risk, and to prevent inappropriate use and wastage of blood.
+
+============================================================
+CHUNK 14
+============================================================
+MISUSE OF BLOOD TRANSFUSIONS
+Manual measurement of hemoglobin requiring dilution techniques, as  performed in laboratories in many resource-limited countries, is often inaccurate. Reasons include poorly maintained equipment, lack of supplies and quality standards, and inadequate training and supervision [46,47]. A photometric method (HemoCue® AB-Hb Photometer, Quest Diagnostics Ltd) does provide a direct hemoglobin reading on a small volume of blood, but uses disposable cuvettes which may be  too  expensive  for  resource-constrained  laboratories  with  heavy workloads [48]. The packed cell volume is often used as a substitute for hemoglobin in pediatric practice [49], but this too does not give an accurate estimation of anemia [50,51]. The Hemoglobin Colour Scale (HCS) [52] is a simple, rapid and cheap method for assessing anemia, but its usefulness for guiding decisions about blood transfusions has not been evaluated in appropriate field trials in low-income countries [53].
+
+============================================================
+CHUNK 15
+============================================================
+OUTCOMES OF BLOOD TRANSFUSIONS
+In-hospital  case-fatality  rates  following  blood  transfusions  in  lowincome African countries range from 6% to 20% [7,54-56]. In children, prostration, respiratory distress and profound anemia
+(hemoglobin < 4 g/dL)  are  all  associated  with  an  increased  risk  of death. Around a third of these deaths occur within 6 hours of admission to hospital, so appropriate emergency management is crucial [9]. Recent studies have indicated that the respiratory distress and cardiovascular changes associated with acute severe anemia in children are due to hypovolemia rather than heart failure [57-59], and studies are underway to determine the optimal emergency management procedures for these children. In some children in malaria-endemic regions, anemia may fail to resolve or severe anemia may recur within a few weeks after  discharge  from  hospital,  possibly  due  to  persistence  of low-level malaria parasitemia [60,61].
+
+============================================================
+CHUNK 16
+============================================================
+ALTERNATIVES TO TRANSFUSION
+Blood transfusions are a costly and risky therapy, especially in lowincome  countries,  and  should  not  be  used  if  there  are  alternative therapies. Studies in healthy adult volunteers did not show evidence of poor oxygen delivery during isovolemic reduction of hemoglobin concentrations to 5 g/dL [62]. Healthy young adults are able to tolerate hemorrhage of up to 40% of their blood volume and can therefore  be  managed  with  crystalloid  without  the  need  for  red  cell transfusion. A study in the Gambia showed better recovery in children with hemoglobin levels of 4-5 g/dL who received iron treatment than in those who received a blood transfusion [54], and in Kenyan children,  blood  transfusion  did  not  influence  faster  hemoglobin recovery at 1-month follow-up [60]. In obstetric bleeding, misoprostol (oxytocin) can stop hemorrhage and may be more cost-effective than blood products [63]. Transfusion should not be used as a source of blood volume [64], or to treat shock unless hypovolemia is associated with active hemorrhage. In such cases, volume expanders such as crystalloid  solutions  are  cheaper  and  safer  than  blood.  In  children with severe malarial anemia with acidosis and shock, restoration of the  circulating  volume  with  saline  or  colloid  while  waiting  for  a blood transfusion did not cause pulmonary edema or a critical reduction in hemoglobin [65].
+
+============================================================
+CHUNK 17
+============================================================
+REDUCING TRANSFUSIONS BY PREVENTING ANEMIA
+Anemia is a risk factor for poor outcome in pregnancy. Estimates for all-cause anemia-attributable direct and indirect mortality have been calculated as 6.4%, 7.3% and 3.0% for Africa, Asia and Latin America, respectively [66]. The prevalence of anemia in pregnant women and children in low-income countries commonly exceeds 50%, and the risk of needing a blood transfusion as a result of severe anemia or hemorrhage  would  be  significantly  reduced  if  early  detection  and management of anemia were improved. Therefore the best way  to reduce the number of blood transfusions in low-income countries is to reduce the prevalence of anemia in the populations most at risk, such as children and pregnant women, through early detection and better  management.  Standard anemia treatment  guidelines  in  lowincome malarious areas focus on malaria, folate deficiency, and iron deficiency, but there is evidence that other factors such as bacteremia (especially  nontyphoidal Salmonella ),  hookworm,  HIV  infection, vitamin A deficiency, and vitamin B12 deficiency may also be important [8].
+
+============================================================
+CHUNK 18
+============================================================
+REFERENCES
+1. World Health Organization (WHO). Utilization and supply of human blood and blood products in Twenty-eighth World Health Assembly. Geneva: WHO; 1975.
+2. WHO Department of Blood Safety. Aide-Memoire for National Blood Programmes: Blood Safety. Geneva: WHO; 2002:1-2.
+3. World Health Organization (WHO). Global Database on Blood Safety: Report 2004-5. Geneva: WHO; 2008.
+4. Tapko JB, Sam O, Diarra-Nama AJ. Status of blood safety in the WHO African Region:  report  of  the  2004  survey.  Brazzaville:  WHO  Regional  Office  for Africa; 2007:1-25.
+5. World  Health  Organization  (WHO).  The  prevention  and  management  of severe anaemia in children in malaria-endemic regions of Africa: a review of research. Geneva: WHO; 2001.
+6. Newton  CR,  Marsh  K,  Peshu  N,  Mwangi  I.  Blood  transfusions  for  severe anaemia in African children. Lancet 1992;340:917-18.
+7. Lackritz EM, Campbell CC, Ruebush TK 2nd, et al. Effect of blood transfusion on survival among children in a Kenyan hospital. Lancet 1992;340:524-8.
+8. Calis JC, Phiri KS, Faragher EB, et al. Severe anemia in Malawian children. N Engl J Med 2008;358:888-99.
+9. English M, Ahmed M, Ngando C, et al. Blood transfusion for severe anaemia in children in a Kenyan hospital. Lancet 2002;359:494-5.
+10.  Greenberg  AE,  Nguyen-Dinh  P,  Mann  JM,  et  al.  The  association  between malaria, blood transfusions, and HIV seropositivity in a pediatric population in Kinshasa, Zaire. JAMA 1988;259:545-9.
+11.  Jager H, N'Galy B, Perriens J, et al. Prevention of transfusion-associated HIV transmission in Kinshasa, Zaire: HIV screening is not enough. AIDS 1990;4: 571-4.
+12.  Bates  I,  Chapotera GK,  McKew  S,  van  den  Broek  N.  Maternal  mortality in sub-Saharan Africa: the contribution of ineffective blood transfusion services. BJOG 2008;115:1331-9.
+
+============================================================
+CHUNK 19
+============================================================
+REFERENCES
+13.  World Health Organization (WHO). Screening Donated Blood for Transfusion-Transmissible  Infections:  Recommendations.  Geneva:  WHO; 2010:1-73.
+14.  Colebunders R, Ryder R, Francis H, et al. Seroconversion rate, mortality, and clinical manifestations associated with the receipt of a human immunodeficiency  virus-infected  blood  transfusion  in  Kinshasa,  Zaire.  J  Infect  Dis 1991;164:450-6.
+15.  McFarland W, Mvere D, Katzenstein D. Risk factors for prevalent and incident HIV infection in a cohort of volunteer blood donors in Harare, Zimbabwe: implications for blood safety. AIDS 1997;11(Suppl 1):S97-102.
+16.  Moore A, Herrera G, Nyamongo J, et al. Estimated risk of HIV transmission by blood transfusion in Kenya. Lancet 2001;358:657-60.
+17.  Jayaraman  S,  Chalabi  Z,  Perel  P,  et  al.  The  risk  of  transfusion-transmitted infections in sub-Saharan Africa. Transfusion 2010;50:433-42.
+18.  de  Korte  D,  Marcelis  JH,  Soeterboek  AM.  Determination  of  the  degree  of bacterial  contamination  of  whole-blood  collections  using  an  automated microbe-detection system. Transfusion 2001;41:815-18.
+19.  Hillyer CD, Josephson CD, Blajchman MA, et al. Bacterial contamination of blood  components:  risks,  strategies,  and  regulation:  joint  ASH  and  AABB educational session in transfusion medicine. Hematology Am Soc Hematol Educ Program 2003:575-89.
+20.  Perez  P,  Salmi  LR,  Follea  G,  et  al.  Determinants  of  transfusion-associated bacterial contamination: results of the French BACTHEM case-control study. Transfusion 2001;41: 862-72.
+21.  Kuehnert  MJ,  Roth  VR,  Haley  NR,  et  al.  Transfusion-transmitted  bacterial infection  in  the  United  States,  1998  through  2000.  Transfusion  2001;41: 1493-9.
+22.  Hassall O, Maitland K, Pole L, et al. Bacterial contamination of pediatric whole blood transfusions in a Kenyan hospital. Transfusion 2009;49:2594-8.
+
+============================================================
+CHUNK 20
+============================================================
+REFERENCES
+23.  Opoku-Okrah  C.  Bacterial  contamination  of  donor  blood  at  the  Tamale Teaching Hospital, Ghana. Afr Health Sci 2009;9:13-18.
+24.  Adjei  AA,  Kuma  GK,  Tettey  Y,  et  al.  Bacterial  contamination  of  blood  and blood components in three major blood transfusion centers, Accra, Ghana. Jpn J Infect Dis 2009;62:265-9.
+25.  Faber JC. Worldwide overview of existing haemovigilance systems. Transfus Apher Sci 2004;31:99-110.
+26.  Williamson  LM,  Lowe  S,  Love  EM,  et  al.  Serious  hazards  of  transfusion (SHOT)  initiative:  analysis  of  the  first  two  annual  reports.  BMJ  1999;319: 16-19.
+27.  Snyder  EL.  The  role  of  cytokines  and  adhesive  molecules  in  febrile  nonhemolytic transfusion reactions. Immunol Invest 1995;24:333-9.
+28.  Mbanya D,  Binam  F,  Kaptue  L.  Transfusion  outcome  in  a  resource-limited setting of Cameroon: a five-year evaluation. Int J Infect Dis 2001;5:70-3.
+29.  Shanwell  A,  Kristiansson  M,  Remberger  M,  Ringden  O.  Generation  of cytokines in red cell concentrates during storage is prevented by prestorage white cell reduction. Transfusion 1997;37:678-84.
+30.  Karam O, Tucci M, Toledano BJ, et al. Length of storage and in vitro immunomodulation induced by prestorage leukoreduced red blood cells. Transfusion 2009;49:2326-34.
+31.  Williamson LM, Stainsby D, Jones H, et al. The impact of universal leukodepletion  of  the  blood  supply  on  hemovigilance  reports  of  posttransfusion purpura  and  transfusion-associated  graft-versus-host  disease.  Transfusion 2007;47:1455-67.
+32.  Nishimura M, Hashimoto S, Takanashi M, et al. Role of anti-human leucocyte antigen class II alloantibody and monocytes in development of transfusionrelated acute lung injury. Transfus Med 2007;17:129-34.
+
+============================================================
+CHUNK 21
+============================================================
+REFERENCES
+33.  Sullivan  P.  Associations  of  anemia,  treatments  for  anemia,  and  survival  in patients with human immunodeficiency virus infection. J Infect Dis 2002;185 (Suppl 2):S138-42.
+
+============================================================
+CHUNK 22
+============================================================
+REFERENCES
+34.  Allain  JP,  Sarkodie  F,  Asenso-Mensah  K,  Owusu-Ofori  S.  Relative  safety  of first-time  volunteer  and  replacement  donors  in  West  Africa.  Transfusion 2010;50:340-3.
+35.  Mumo J, Vansover A, Jehuda-Cohen T. Detecting seronegative-early HIV infections among adult versus student Kenyan blood donors, by using Stimmunology. Exp Biol Med (Maywood) 2009;234:931-9.
+36.  CDC. Progress toward strengthening blood transfusion services - 14 countries, 2003-2007. MMWR Morb Mortal Wkly Rep 2008;57:1273-7.
+37.  So-Osman C, Cicilia  J,  Brand  A,  et  al.  Triggers  and  appropriateness  of  red blood cell transfusions in the postpartum patient - a retrospective audit. Vox Sang 2010;98:65-9.
+38.  Hebert PC, Wells G, Blajchman MA, et al. A multicenter, randomized, controlled  clinical  trial  of  transfusion  requirements  in  critical  care.  Transfusion Requirements  in  Critical  Care  Investigators,  Canadian  Critical  Care  Trials Group. N Engl J Med 1999;340:409-17.
+39.  Lacroix J, Hebert PC, Hutchison JS, et al. Transfusion strategies for patients in pediatric intensive care units. N Engl J Med 2007;356:1609-19.
+40.  Health Organization (WHO). Management of the Child with a Serious Infection or Severe Malnutrition: Guidelines for Care at the First-Referral Level in Developing Countries. Geneva: WHO; 2000.
+41.  Lackritz EM, Ruebush TK 2nd, Zucker JR, et al. Blood transfusion practices and blood-banking services in a Kenyan hospital. AIDS 1993;7:995-9.
+42.  Mosha D, Poulsen A, Reyburn H, et al. Quality of paediatric blood transfusions  in  two  district  hospitals  in  Tanzania: a  cross-sectional hospital based study. BMC Pediatr 2009;9:51.
+43.  Fleming AF. HIV and blood transfusion in sub-Saharan Africa. Transfus Sci 1997;18:167-79.
+44.  World Health Organization (WHO). Hospital Care for Children: Guidelines for the Management of Common Illnesses with Limited Resources. Geneva: WHO; 2005.
+
+============================================================
+CHUNK 23
+============================================================
+REFERENCES
+45.  Muhe L, Oljira B, Degefu H, et al. Evaluation of clinical pallor in the identification and treatment of children with moderate and severe anaemia. Trop Med Int Health 2000;5:805-10.
+46.  Critchley J, Bates I. Haemoglobin colour scale for anaemia diagnosis where there  is  no  laboratory:  a  systematic  review.  Int  J  Epidemiol  2005;34: 1425-34.
+47.  Lara AM, Kandulu J, Chisuwo L, et al. Laboratory costs of a hospital-based blood transfusion service in Malawi. J Clin Pathol 2007;60:1 117-20.
+48.  Neufeld L, Garcia-Guerra A, Sanchez-Francia D, et al. Hemoglobin measured by Hemocue and a reference method in venous and capillary blood: a validation study. Salud Publica Mex 2002;44:219-27.
+49.  Lee SJ, Stepniewska K, Anstey N, et al. The relationship between the haemoglobin concentration and the haematocrit in Plasmodium falciparum malaria. Malar J 2008;7:149.
+50.  Quinto L, Aponte JJ, Menendez C, et al. Relationship between haemoglobin and  haematocrit  in  the  definition  of  anaemia.  Trop  Med  Int  Health 2006;11:1295-302.
+51.  Carneiro IA, Drakeley CJ, Owusu-Agyei S, et al. Haemoglobin and haematocrit:  is  the  threefold  conversion  valid  for  assessing  anaemia  in  malariaendemic settings? Malar J 2007;6:67.
+52.  Stott  GJ,  Lewis  SM.  A  simple  and  reliable  method  for  estimating  haemoglobin. Bull World Health Organ 1995;73:369-73.
+53.  Paddle JJ. How objective are the supporters of the Haemoglobin Colour Scale? Bull World Health Organ 2002;80:987.
+54.  Bojang KA, Palmer A, Boele van Hensbroek M, et al. Management of severe malarial  anaemia  in  Gambian  children.  Trans  R  Soc  Trop  Med  Hyg  1997; 91:557-61.
+
+============================================================
+CHUNK 24
+============================================================
+REFERENCES
+55.  Commey JO, Dekyem P. Childhood deaths from anaemia in Accra, Ghana. West Afr J Med 1995;14:101-4.
+56.  English M. Life-threatening severe malarial anaemia. Trans R Soc Trop Med Hyg 2000;94:585-8.
+57.  English M, Waruiru C, Marsh K. Transfusion for respiratory distress in lifethreatening childhood malaria. Am J Trop Med Hyg 1996;55:525-30.
+58.  Maitland K, Pamba A, Newton CR, Levin M. Response to volume resuscitation in children with severe malaria. Pediatr Crit Care Med 2003;4:426-31.
+59.  English M, Muambi B, Mithwani S, Marsh K. Lactic acidosis and oxygen debt in African children with severe anaemia. QJM 1997;90:563-9.
+60.  Akech SO, Hassall O, Pamba A, et al. Survival and haematological recovery of children with severe malaria transfused in accordance to WHO guidelines in Kilifi, Kenya. Malar J 2008;7:256.
+61.  Lackritz  EM,  Hightower  AW,  Zucker  JR,  et  al.  Longitudinal  evaluation  of severely anemic children in Kenya: the effect of transfusion on mortality and hematologic recovery. AIDS 1997;11:1487-94.
+62.  Weiskopf RB, Viele MK, Feiner J, et al. Human cardiovascular and metabolic response to acute, severe isovolemic anemia. JAMA 1998;279:217-21.
+63.  Leduc D, Senikas V, Lalonde AB, et al. Active management of the third stage of  labour:  prevention  and  treatment  of  postpartum  hemorrhage.  J  Obstet Gynaecol Can 2009;31:980-93.
+64.  World Health Organization (WHO). The Clinical Use of Blood Handbook. Geneva: WHO; 2002:1-221.
+65.  Maitland K, Pamba A, English M, et al. Pre-transfusion management of children with severe malarial anaemia: a randomised controlled trial of intravascular volume expansion. Br J Haematol 2005;128:393-400.
+
+============================================================
+CHUNK 25
+============================================================
+REFERENCES
+66.  Brabin BJ, Premji Z, Verhoeff F. An analysis of anemia and child mortality. J Nutr 2001;131(2S-2):636S-645S; discussion 646S-8S.
+

@@ -1,0 +1,644 @@
+============================================================
+CHUNK 0
+============================================================
+133
+
+============================================================
+CHUNK 1
+============================================================
+133.1 Poisonous Aquatic Animals
+David A Warrell
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION: SEAFOOD POISONING [1]
+Inhabitants of oceanic islands and sea coasts who are largely dependent  on  marine  animals  for  their  protein  intake  are  particularly  at risk  from acute gastrointestinal symptoms ('food poisoning') after eating seafood. In some communities, almost 2% of the population is  affected  each  year.  Infectious  causes  include  viruses:  hepatitis A  virus  (mollusks,  especially  clams  and  oysters),  Norwalk  virus (clams and oysters) and astro- and caliciviruses  (cockles  and  other molluscs);  bacteria: Vibrio  parahaemolyticus (crustaceans,  especially shrimps), Vibrio  cholerae (crabs  and  mollusks),  non-O  group  1 V. cholerae (oysters), Vibrio  vulnificus (oysters), Aeromonas  hydrophila (frozen oysters), Plesiomonas  shigelloides (oysters,  mussels,  mackerel, cuttlefish), Shigella spp. (mollusks), Campylobacter jejuni (clams), and Salmonella typhi (mollusks). Microbial toxins have been responsible for  botulism  after  ingestion  of  smoked  fish  and  canned  salmon. Since  1953,  approximately  100,000  Japanese  are  thought  to  have been affected by methyl mercury poisoning (Minamata disease) after eating fish and mollusks contaminated with methyl mercury derived from industrial waste dumped in Minamata Bay and at the mouth of the Agano River in Japan. The victims developed severe CNS damage, with  a  mortality  of  33%  in  the  initial  outbreak.  Pregnant  women exposed to methyl mercury gave birth to infants who were mentally retarded and had cerebral palsy and convulsions.
+The  origins  of  natural  toxins  in  seafood  that  give  rise  to  gastrointestinal,  neurotoxic  and  other  symptoms  can  usually  be  traced down  the  food  chain  to  algae  (dinoflagellates  and  diatoms)  and bacteria, while histamine-like symptoms are attributable to bacterial decomposition of dead fish.  Globalization  of  the seafood  industry and expanding  appetites  for  novel  gustatory  experiences,  or  use  as traditional  medicines,  now ensures that  exotic  tropical  fish,  crustaceans and mollusks are widely available in Western fish markets. As a  result,  toxic  seafood  poisoning  is  becoming  more  common  and geographically widespread.
+
+============================================================
+CHUNK 3
+============================================================
+PREVENTION OF SEAFOOD POISONING
+As  most  marine  toxins,  such  as  ciguatera  toxin,  tetrodotoxin  and scombrotoxins, are heat-stable, cooking does not prevent poisoning. However, some toxins are fairly water-soluble and may be leached out by soaking-as such, the water in which exotic fish are cooked should not be drunk. In tropical areas, the flesh of fish should be separated as soon as possible from the head, skin, intestines, gonads and other viscera that may contain high concentrations of toxin. All scale-less fish should be regarded as potentially tetrodotoxic. Fish may accumulate  toxins  from  the  food  chain  throughout  their  lives  and so very large reef fish carry the highest risk of being ciguatera-toxic. Certain species are especially dangerous, such as Moray eels and parrot fish (Scaridae), which should never be eaten because of the high risk of unusually rapid  and  severe  ciguatera  and  scaritoxic  fish  poisoning. Scombroid  poisoning  can  be  prevented  by  eating  fresh  fish  or  by freezing fish as soon as possible after they are caught. Shellfish should never be eaten during the dangerous seasons, when red tides declare the blooming of toxic dinoflagellates and when there are numbers of dead sea birds, seals, and other marine animals on the beaches.
+
+============================================================
+CHUNK 4
+============================================================
+REFERENCE
+1.  Sobel  J,  Painter  J.  Illnesses  caused  by  marine  toxins.  Clin  Infect  Dis  2005; 41:1290-6.
+
+============================================================
+CHUNK 5
+============================================================
+Key features
+- Food poisoning from toxins in <sh, shell<sh, and crustaceans, rather than pathogenic organisms, is prevalent in many ocean communities and is increasingly recognized in travelers and those who eat exotic <sh. Toxins are ultimately derived from dino;agellates, diatoms, and bacteria (Table 133.2.1)
+- As most seafood toxins are thermostable, cooking does not remove the risk of poisoning. Very large reef <sh (e.g. Moray eels), scale-less <sh, and <sh viscera should be avoided and shell<sh should not be eaten at times of red tide or when marine birds and mammals are dying o=
+- Diarrheal, neurotoxic, paralytic and amnesic syndromes of shell<sh poisoning are recognized. Acute gastrointestinal symptoms are associated variously with paraesthesiae and more serious paralytic and central nervous system (CNS) symptoms that can be fatal. Treatment is symptomatic
+- Ciguatera and tetrodotoxic <sh poisonings cause acute gastrointestinal symptoms followed by paraesthesiae and neurotoxic or paralytic symptoms
+- Scombroid <sh poisoning produces anaphylactic, histamine-like symptoms caused by eating <sh spoiled by bacterial decomposition
+- Palytoxin, carps' gall bladder and Pfeisteria -associated poisoning are also discussed
+
+============================================================
+CHUNK 6
+============================================================
+NEUROTOXIC FISH POISONING
+Nausea,  vomiting,  abdominal  colic,  tenesmus  and  watery  diarrhea may precede neurotoxic symptoms of paraesthesia of the lips, buccal cavity and extremities, distorted temperature perception (so that cold objects impart a burning sensation like dry ice), myalgia, progressive flaccid paralysis, dizziness, ataxia, cardiovascular disturbances, bradycardia and rashes. Two important causes of this syndrome are ciguatera fish poisoning and tetrodotoxin poisoning (Table 133.2-1).
+
+============================================================
+CHUNK 7
+============================================================
+CIGUATERA FISH POISONING [1, 2]
+Symptoms develop between 1 and 6 hours (extreme range: minutes to  30 h)  after  eating  fish  such  as  groupers,  snappers,  parrot  fish, mackerel, moray eels (Fig. 133.2.1), barracudas, and jacks. These are warm-water  shore  or  reef  fish.  The  global  incidence  is  thought  to exceed 50,000 cases per year. Up to 2% of the population may be affected each year (e.g. in Kiribati, Tokelau, and Tuvalu in the Pacific region) with a case fatality of 0.1%. The toxins responsible are polyethers, such as ciguatoxin (activates Na + channels), maitotoxin (activates Ca 2 + channels) and scaritoxin, ultimately derived along the food chain from benthic dinoflagellates such as Gambierdiscus toxicus . They are concentrated in the liver, viscera and gonads, especially of large, carnivorous fish. The increasing market for exotic fish from the Caribbean and elsewhere has led to cases of ciguatera in Britain and other European  countries.  Geographically-distinct  clinical  patterns  have emerged in the Caribbean (predominantly gastrointestinal), Pacific (more  neurotoxic),  and  Indian  Ocean  (hallucinations,  incoordination, dysequilibration, depression and nightmares), reflecting variation in the prevailing toxins.
+Gastrointestinal symptoms of nausea, vomiting, diarrhea and abdominal pain and cramps and, on occasion, a metallic taste in the mouth are  followed  by  neurologic  symptoms  of  paresthesia  around  the mouth  and  extremities,  reversed  hot-cold  sensation  (dysesthesia), increased salivation, dilatation of the pupils, strabismus, ptosis, weakness and ataxia, usually resolve within a few hours, but paraesthesiae and myalgia may persist for a week, or even months. Pruritus of the soles and palms and a sensation that one's teeth are loose are distinctive symptoms but occur irregularly. Cardiovascular features include braycardia, hypotension and hypovolemia. Rashes are also described. Similar symptoms  (chelonitoxication)  may  follow  ingestion  of marine turtles in the Indo-Pacific area, but the case fatality is much higher.
+
+============================================================
+CHUNK 8
+============================================================
+TETRODOTOXIN POISONING
+Scale-less fish, such as puffer, porcupine (Fig. 133.2.2), toad and sun fish  (order:  Tetraodonitiformes)  may  become  highly  poisonous  at certain seasons, such as May to June-the spawning season in Japan. Eating  these  fish  is  proscribed  in  the  Old  Testament  (e.g.  Leviticus 11  :  9-12). Tetrodotoxin, an aminoperhydroquinazoline, is one of the most potent non-protein toxins known. It produces neurotoxic and cardiotoxic effects by blocking voltage-gated sodium ion channels. It is  concentrated  in  the  ovaries,  viscera,  and  skin  of  tetraodontiform fish;  in  the  skin  of  newts  (genus Taricha ),  frogs  and  toads  (genera Colostethus, Atelopus, Bracycephalus ), and salamanders; in the saliva of octopuses;  in  the  digestive  glands  of  several  species  of  gastropod
+FIGURE 133.2.1 Californian  moray  eel  ( Gymnothorax morda ) (© David A. Warrell).
+
+FIGURE 133.2.2 Slender-spined porcupine `sh,  South  Australia  ( Diodon nicthemerus ) (© David A. Warrell).
+
+============================================================
+CHUNK 9
+============================================================
+TETRODOTOXIN POISONING
+TABLE 133.2-1 Summary of Characteristics of Diberent Types of Seafood Poisoning All of Which Cause Acute Gastrointestinal Symptoms, 1 = TABLE 133.2-1 Summary of Characteristics of Diberent Types of Seafood Poisoning All of Which Cause Acute Gastrointestinal Symptoms. TABLE 133.2-1 Summary of Characteristics of Diberent Types of Seafood Poisoning All of Which Cause Acute Gastrointestinal Symptoms, 2 = TABLE 133.2-1 Summary of Characteristics of Diberent Types of Seafood Poisoning All of Which Cause Acute Gastrointestinal Symptoms. TABLE 133.2-1 Summary of Characteristics of Diberent Types of Seafood Poisoning All of Which Cause Acute Gastrointestinal Symptoms, 3 = TABLE 133.2-1 Summary of Characteristics of Diberent Types of Seafood Poisoning All of Which Cause Acute Gastrointestinal Symptoms. Type of poisoning, 1 = Ciguatera. Type of poisoning, 2 = Tetrodotoxic. Type of poisoning, 3 = Scombroid. Incubation, 1 = 1-6 hours. Incubation, 2 = 10-45 minutes. Incubation, 3 = 5-60 minutes. Duration of symptoms, 1 = Days-months. Duration of symptoms, 2 = Days. Duration of symptoms, 3 = Few hrs. Characteristic symptoms, 1 = Paraesthesiae, myalgias. Characteristic symptoms, 2 = Rapidly developing paralysis, areaexia, erythematous rash. Characteristic symptoms, 3 = Immediate lip tingling, anaphylactic-like pruritus, urticaria, shock, angioedema, brochospasm, diarrhoea, headache. Seafood abected, 1 = Tropical reef `sh: red snapper, red bass, coral trout, sea bass, grouper, parrot `sh, moray eels, mackerel, tuna, jacks, barracuda. Seafood abected, 2 = Scale-less `sh: puber ('fugu'), porcupine, sun, toad `sh and freshwater puber `sh (Tetraodontiformes) also amphibians, crabs, octopus, molluscs, nermertines, aat worms etc.. Seafood abected, 3 = Dark-aeshed `sh: tuna, skipjack, bonito, mackerel, mahi-mahi; anchovies, sardines, pilchards. Geographical range,
+
+============================================================
+CHUNK 10
+============================================================
+TETRODOTOXIN POISONING
+1 = Tropical Paci`c, Indian and Caribbean oceans. Geographical range, 2 = Tropical oceans, Japan, China, SE Asia, also farmed. Geographical range, 3 = Global. Toxin and origin, 1 = Ciguatoxins and maitotoxins from dinoaagellate Gambierdiscus toxicus. Toxin and origin, 2 = Tetrodotoxins (aminoperhydroquinazoline) from bacteria e.g. Pseudomonas sp. Saxitoxin in freshwater puber `sh. Toxin and origin, 3 = Histamine, saurine from bacterial ( Proteus , Klebsiella ) decomposition of `sh muscle histidine
+mollusks; and in a starfish, flat worm ( Planorbis spp.), and nemertine worms  in  Japan.  It  is  produced  by  various  bacteria  ( Pseudomonas, Pseudoalteromonas, Vibrio spp. etc.). Puffer fish ('fugu') is particularly popular in Japan where, despite stringent regulations, there are still cases of tetrodotoxin poisoning, with about four deaths each year.
+Nausea  and  abdominal  pain  occur  but  usually  no  vomiting  or diarrhea, or there may be no gastrointestinal symptoms. Neurotoxic symptoms  characterized  by  rapid  onset,  within  10-45  minutes,  of weakness, dizziness, paresthesiae of the lips, tongue, throat and, later, the limbs. Pallor, sweating and increased salivation may be present. Tachycardia, hypotension, difficulty breathing and flaccid ascending paralysis may lead to respiratory paralysis; death usually occurs 2-6 hours after eating the fish. Usually, consciousness is retained throughout,  although  they  may  appear  comatose.  Patients  have  developed fixed  dilated  pupils  and  brain  stem  areflexia,  so  appearing  brain dead, but have made a complete recovery after being mechanically ventilated.
+Erythema, petechiae, blistering and desquamation may appear. Freshwater puffer fish poisoning in northern Thailand has been attributed to saxitoxin.
+
+============================================================
+CHUNK 11
+============================================================
+HISTAMINENLIKE SYNDROME OSCOMBROTOXIC POISONINGP
+The dark  red  flesh  of  scombroid  fish  (tuna,  mackerel,  bonito,  and skipjack)  and  of  canned non-scombroid  fish,  such  as  sardines and pilchards,  may  be  decomposed  by  the  action  of  bacteria  such  as Proteus morgani and Klebsiella pneumoniae , which decarboxylate muscle histidine into saurine, histamine, cadaverine and other unidentified toxins:  100 g  of  spoiled  fish  may  contain  almost  1 g  of  histamine. Histamine  absorbed  from  the  gut  is  normally  broken  down  by N -methyl-transferase and diamine oxidase (histaminase), but if the histamine concentration is very high, or the patient is taking a diamine oxidase inhibitor such as isoniazid (as anti-tuberculosis chemotherapy), scombrotoxic poisoning may result. Toxic fish may produce a tingling or smarting sensation in the mouth or a peppery flavor when eaten. Within minutes or up to a few hours after ingestion, flushing, burning, sweating, urticaria and pruritis may develop with headache, abdominal colic, nausea, vomiting, diarrhoea, bronchial asthma, giddiness and hypotension. Full recovery is expected over a few hours but symptoms may persist for up to 24 hours.
+
+============================================================
+CHUNK 12
+============================================================
+PALYTOXIN POISONING [3]
+Palytoxin and similar toxins are highly potent Na + -K + ATPase inhibitors  occurring  in  zoanthid  corals  ( Palythoa  toxica ) , red  alga,  a  sea anemone and in dinoflagellates such as Ostrepsis siamensis . It affects humans lethally when ingested in reef fish, crabs and shellfish (sometimes  associated  with  ciguatoxins,  saxitoxins  and  tetrodotoxin), and  non-lethally  after  dermal  and  ocular  exposure,  especially  in aquarium  keepers.  Clinical  effects  include  acute  gastrointestinal symptoms followed by paraesthesiae, hypertension, distorted sense of taste (dysguesia), rhabdomyolysis, cardiac dysrhythmias, respiratory failure, and coma, rapidly progressing to death. There is no specific treatment.
+
+============================================================
+CHUNK 13
+============================================================
+POISONING BY INGESTING CARP'S GALLBLADDER [4]
+In parts of the Far East, the raw bile and gallbladder of various species of freshwater carp (e.g. grass carp Ctenopharyngodon idellus and Jullien's
+133.3 Mushroom Poisoning
+Hans Persson golden carp Probarbus jullieni ) are believed to have medicinal properties.  Patients  in  China,  Taiwan,  Hong  Kong,  Japan,  Thailand  and elsewhere  have  developed  acute  abdominal  pain,  vomiting  and watery diarrhea 2-18 hours after drinking the raw bile or eating the raw  gallbladder  of  these  fish.  One  patient  developed  flushing  and dizziness.  Hepatic  and  renal  damage  may  develop,  progressing  to oliguric or non-oliguric acute  renal failure (acute  tubular necrosis). The hepatonephrotoxin has not been identified, but is heat-stable and may be derived from the carp's diet.
+• Mushrooms cannot be considered as essential nutrients but
+
+============================================================
+CHUNK 14
+============================================================
+PFIESTERIANASSOCIATED POSSIBLE ESTUARY ASSOCIATED SYNDROME OPEASP
+Although the toxic dinoflagellate Pfiesteria piscicida is commonly associated with fish kills and can be concentrated in shellfish, toxic exposure  in  humans  is  thought  to  be  by  direct  contact  with  the  toxin, absorbed through the skin or from aerosols. It became a major environmental concern in coastal waters of North Carolina, Virginia and Maryland  (USA)  in  the  late  1990s.  Pfiesteria-associated  Possible Estuary Associated Syndrome (PEAS) was characterized by impaired cognitive function and rapid and severe decrements in visual contrast sensitivity.  PEAS signs and symptoms responded to cholestyramine treatment  supporting  the  hypothesis  that  PEAS  was  a  biotoxinassociated illness.
+
+============================================================
+CHUNK 15
+============================================================
+DIFFERENTIAL DIAGNOSIS OF SEAFOOD POISONING
+The  differential  diagnosis  of  gastrointestinal  symptoms  of  seafood poisoning  includes  bacterial  and  viral  food  poisoning  and  allergic reactions.
+Viral  and  bacterial  food  poisoning  has  a  longer  incubation  period (hours or days), unless it is caused by a preformed toxin, as in the case  of  staphylococcal,  clostridial  and Bacillus cereus poisoning. However, neurologic symptoms are distinctive, suggesting some kind of neurotoxic seafood poisoning. Allergic reactions produce anaphylactic  symptoms  (pruritus,  urticaria,  erythema,  angioedema,  bronchospasm,  and  shock),  sometimes  within  minutes  of  ingestion.
+Unless there is a past history of specific seafood allergy (e.g. to prawns, tuna) or an epidemiologic clue (several diners affected), it can be very difficult  to  distinguish  allergy  from  scombroid  poisoning,  but  the emergency treatment is the same for both etiologies.
+
+============================================================
+CHUNK 16
+============================================================
+TREATMENT OF SEAFOOD POISONING [5]
+No  specific  treatments  or  antidotes  are  available.  Gastric  lavage  is controversial but elimination of gastrointestinal contents should be attempted if this can be achieved within 1-2 hours of ingestion and without jeopardizing the airway. Activated charcoal adsorbs saxitoxin and other shellfish toxins. Atropine is said to improve gastrointestinal symptoms and sinus bradycardia in patients with gastrointestinal and neurotoxic  poisoning.  Calcium  gluconate  may  relieve  mild  neuromuscular symptoms. Oximes and anticholinesterases are ineffective in ciguatera and tetrodotoxin poisoning respectively. Mannitol, once promoted  for  ciguatera  poisoning,  has  proved  useless.  In  cases  of paralytic poisoning, endotracheal intubation and mechanical ventilation and cardiac resuscitation have proved life saving. In Malaysia, a patient  with  tetrodotoxin  poisoning  developed  fixed dilated  pupils and brain stem areflexia, so appearing brain dead, but made a complete  recovery  after  being  mechanically  ventilated.  Symptoms  of scrombrotoxic poisoning can be alleviated with epinephrine, anti-H1 histamine blockers and adrenergic β -2 agonist bronchodilators.
+
+============================================================
+CHUNK 17
+============================================================
+REFERENCES
+1.  Bagnis RA, Kuberski T, Laugier S. Clinical observations on 3009 cases of Ciguatera  (fish  poisoning)  in  the  Southern  Pacific.  Am  J  Trop  Med  Hyg  1979; 28:1067-73.
+2.  Halstead BW. Poisonous and Venomous Marine Animals of the World, 2nd edn. Princeton: Darwin Press; 1988.
+3.  Deeds  JR,  Schwartz  MD.  Human  risk  associated  with  palytoxin  exposure. Toxicon 2009;56:150-62.
+4.  Lin YF, Lin SH  (1999).  Simultaneous  acute  renal  and  hepatic failure after  ingesting  raw  carp  gall  bladder.  Nephrol  Dialysis  Transplant  1999;14: 2011-12.
+5.  Williamson JA, Fenner PJ, Burnett JW, eds. Venomous and Poisonous Marine Animals:  A  Medical  and  Biological  Handbook.  Sydney:  University  of  New South Wales Press; 1996.
+
+============================================================
+CHUNK 18
+============================================================
+REFERENCES
+Incubation, TABLE 133.3-1 Summary of Characteristics of Diberent Types of Seafood Poisoning All of Which Cause Acute Gastrointestinal Symptoms.Ciguatera = 1-6 hours. Incubation, TABLE 133.3-1 Summary of Characteristics of Diberent Types of Seafood Poisoning All of Which Cause Acute Gastrointestinal Symptoms.Tetrodotoxic = 10-45 minutes. Incubation, TABLE 133.3-1 Summary of Characteristics of Diberent Types of Seafood Poisoning All of Which Cause Acute Gastrointestinal Symptoms.Scombroid = 5-60 minutes. Duration of symptoms, TABLE 133.3-1 Summary of Characteristics of Diberent Types of Seafood Poisoning All of Which Cause Acute Gastrointestinal Symptoms.Ciguatera = Days to months. Duration of symptoms, TABLE 133.3-1 Summary of Characteristics of Diberent Types of Seafood Poisoning All of Which Cause Acute Gastrointestinal Symptoms.Tetrodotoxic = Days. Duration of symptoms, TABLE 133.3-1 Summary of Characteristics of Diberent Types of Seafood Poisoning All of Which Cause Acute Gastrointestinal Symptoms.Scombroid = Hours. Characteristic symptoms, TABLE 133.3-1 Summary of Characteristics of Diberent Types of Seafood Poisoning All of Which Cause Acute Gastrointestinal Symptoms.Ciguatera = Paraesthesiae, myalgias. Characteristic symptoms, TABLE 133.3-1 Summary of Characteristics of Diberent Types of Seafood Poisoning All of Which Cause Acute Gastrointestinal Symptoms.Tetrodotoxic = Rapidly developing paralysis, areaexia, erythematous rash. Characteristic symptoms, TABLE 133.3-1 Summary of Characteristics of Diberent Types of Seafood Poisoning All of Which Cause Acute Gastrointestinal Symptoms.Scombroid = Immediatelip-tingling,anaphylactic- like pruritus, urticaria, shock, angioedema, brochospasm, diarrhea, headache. Seafood abected, TABLE 133.3-1 Summary of Characteristics of Diberent Types of Seafood Poisoning All of Which Cause Acute Gastrointestinal Symptoms.Ciguatera = Tropical reef `sh: red snapper, red bass, coral trout, sea bass, grouper, parrot `sh, moray eels, mackerel, tuna, jacks, barracuda. Seafood abected, TABLE 133.3-1 Summary of Characteristics of Diberent Types of
+
+============================================================
+CHUNK 19
+============================================================
+REFERENCES
+Seafood Poisoning All of Which Cause Acute Gastrointestinal Symptoms.Tetrodotoxic = Scaleless `sh: puber ('fugu'), porcupine, sun, toad `sh and freshwater puber `sh (Tetraodontiformes), also amphibians, crabs, octopus, mollusks, nermertines, aat worms, etc.. Seafood abected, TABLE 133.3-1 Summary of Characteristics of Diberent Types of Seafood Poisoning All of Which Cause Acute Gastrointestinal Symptoms.Scombroid = Dark-aeshed `sh: tuna, skipjack, bonito, mackerel, mahi-mahi; anchovies, sardines, pilchards. Geographic range, TABLE 133.3-1 Summary of Characteristics of Diberent Types of Seafood Poisoning All of Which Cause Acute Gastrointestinal Symptoms.Ciguatera = Tropical Paci`c, Indian and Caribbean oceans. Geographic range, TABLE 133.3-1 Summary of Characteristics of Diberent Types of Seafood Poisoning All of Which Cause Acute Gastrointestinal Symptoms.Tetrodotoxic = Tropical oceans Japan, China, Southeast Asia, also farmed. Geographic range, TABLE 133.3-1 Summary of Characteristics of Diberent Types of Seafood Poisoning All of Which Cause Acute Gastrointestinal Symptoms.Scombroid = Global. Toxin and origin, TABLE 133.3-1 Summary of Characteristics of Diberent Types of Seafood Poisoning All of Which Cause Acute Gastrointestinal Symptoms.Ciguatera = Ciguatoxins and maitotoxins from the dinoaagellate Gambierdiscus toxicus. Toxin and origin, TABLE 133.3-1 Summary of Characteristics of Diberent Types of Seafood Poisoning All of Which Cause Acute Gastrointestinal Symptoms.Tetrodotoxic = Tetrodotoxins (aminoperhydroquinazoline) from bactéria, e.g. Pseudomonas spp.; axitoxin in freshwater puber `sh. Toxin and origin, TABLE 133.3-1 Summary of Characteristics of Diberent Types of Seafood Poisoning All of Which Cause Acute Gastrointestinal Symptoms.Scombroid = Histamine, saurine from bacterial ( Proteus , Klebsiella ) decomposition of `sh muscle histidine
+
+============================================================
+CHUNK 20
+============================================================
+REFERENCES
+lack of knowledge and awareness of potential risks may also result in  serious  mushrooms  poisoning.  Toddlers,  who  are  happy  to  put anything  into  their  mouth,  may  accidentally  try  mushrooms,  but only small amounts are usually ingested, making serious poisoning rare  in  this  situation.  Deliberate  ingestion  of  toxic  mushrooms occurs as a result of, and is almost exclusively related to, ingestion of psychotropic fungi and, hence, this is looked upon as a variation of abuse.
+
+============================================================
+CHUNK 21
+============================================================
+DIAGNOSIS [1, 2]
+Circumstances are often unclear. The history is of fundamental importance. Any information about the mushrooms harvested is essential: supposed species, appearance, site of growth, etc. Some fungal toxins cause typical clinical features, for example the dreaded amatoxins and those  causing  distinctive  neurologic  symptoms.  Information  about specific symptoms and the time for their onset is crucial. The possibility of a cause for the symptoms other than poisoning must also be considered.
+Identification  of  the  actual  mushrooms  by  macro-  or  microscopic examination often requires the assistance of a mycologist. Currently, amatoxin is the only fungal toxin that can be detected (in urine) in clinical practice.
+
+============================================================
+CHUNK 22
+============================================================
+FUNGAL TOXINS
+From a clinical point of view, the most relevant and practical way of classifying mushroom poisonings is to group them according to their toxic effects and related symptoms. Applying this pragmatic approach, the  following  main  groups  of  fungal  toxins  can  be  distinguished: cytotoxic  agents,  neurotoxins  and  gastrointestinal  irritants  (Table 133.3-1).
+
+============================================================
+CHUNK 23
+============================================================
+Species
+Amatoxins are cyclic octapeptides occurring mainly in certain Amanita species,  for  example Amanita  phalloides (death  cap)  (Fig.  133.3.1),
+FIGURE 133.3.1 Death cap (Amanita phalloides) (courtesy of Hans Marklund).
+Amanita  virosa (destroying  angel)  and Amanita  verna (fool's  mushroom), in Galerina marginata and in certain Lepiota species.
+
+============================================================
+CHUNK 24
+============================================================
+Mechanisms of Toxicity
+Amatoxins  inhibit protein synthesis by blocking  nuclear  RNA polymerase II, resulting in cell necrosis. There is also some evidence that  the  toxins  may  induce  apoptosis  and  glutathione  depletion. Target organs are intestinal mucosa, liver and kidneys. The most critical clinical effect is hepatic damage-the degree of which is decisive for the prognosis.
+
+============================================================
+CHUNK 25
+============================================================
+Symptoms
+Entirely typical, and of great diagnostic importance, is a delayed onset of gastrointestinal symptoms. The latency period after ingestion may vary  from  8  hours  to  24  hours  (mean:  12  hours).  Symptoms  are violent  with  vomiting  and  intense,  watery  diarrhea  (mimicking cholera). This results in dehydration and metabolic disturbances. On the second day, signs of liver damage may ensue and, in severe cases,
+the hepatic injury will gradually become extensive with subsequent liver failure. Initially, deprived renal function is related to dehydration and will normalize with fluid replacement. Kidney dysfunction reappearing after 3-4 days is instead related to a toxin-induced damage to  the  kidneys,  which  has  proven  to  be  a  poor  prognostic  sign. Although there is an obvious mortality, most patients survive and, in those cases, the liver will usually recover completely.
+
+============================================================
+CHUNK 26
+============================================================
+MANAGEMENT [4]
+- Forced  emesis/gastric  lavage  is  indicated  only  if  the  patient  is admitted within 4-6 hours and still in the asymptomatic period. Activated charcoal shall always be administered.
+- Because of a supposed entero-hepatic recirculation of the toxins, their  elimination  may  be  enhanced  by  multiple-dose  activated charcoal for three days.
+- A slightly enhanced diuresis (adults around 200 ml/h) for 24-48 hours  may  also  increase  toxin  elimination  (initially  the  renal clearance of toxin is high).
+- Toxin  uptake  in  the  liver  may,  according  to  experimental  and some  clinical  data,  be  reduced  by  silibinin  (a  thistle  extract). Dosage:  a  bolus  dose  of  5 mg/kg  is  given  intravenously  (IV) during  1  hour,  followed  by  a  continuous  infusion  of  20 mg/ kg/24 h. It is suggested that this treatment is given for three days post-ingestion. High-dose benzyl penicillin (300 mg/kg/24 h) is an alternative if silibinin is not available.
+- Cautious  symptomatic  and  supportive  care  is  mandatory  and includes fluid replacement, correction of metabolic disturbances and  support  of  deficient  hepatic  and  renal  function.  There  are some promising experiences, not yet entirely validated, of using N -acetylcysteine for liver protection.
+- Hemodialysis is used for renal support if needed, but for toxin elimination  it  is  only  indicated  in  case  of  a  pre-existing  renal disease, or if the patient  is admitted very early in the asymptomatic phase.
+
+============================================================
+CHUNK 27
+============================================================
+SPECIES AND MECHANISMS OF TOXICITY
+Orellanine is a highly nephrotoxic substance occurring in a few Cortinarius spp., in particular Cortinarius rubellus ( speciosissimus ) and Cortinarius orellanus (Fig. 133.3.2). The toxin is a bipyridine N -oxide that interferes  with  protein  synthesis  in  the  kidneys.  The  renal  damage includes interstitial nephritis, tubular necrosis and basal membrane rupture. In a substantial number of cases, the damage does not heal and a gradual fibrosis of the renal parenchyma will ensue. Symptoms other than those attributable to renal damage are so vague or mild that they are almost invariably overlooked.
+
+============================================================
+CHUNK 28
+============================================================
+SYMPTOMS
+The clinical course is insidious and unpredictable. Initially, symptoms are mild or absent. As a result, patients present late (2-14 days after ingestion)  prompted  by  symptoms  of  emerging  renal  dysfunction (headache, thirst, chills, fatigue, muscle pain, lumbar and flank discomfort). Polyuria may be followed by oliguria and anuria. Pyuria is a characteristic finding. Renal function may recover completely, partially or not at all. The frequency of end-stage renal failure varies in different series of patients between 10% and 40%.
+
+============================================================
+CHUNK 29
+============================================================
+TREATMENT
+In the very rare circumstance of early admission, general decontamination  procedures  are  warranted.  The  usual  late  presentation  with established  renal  damage allows only  symptomatic and supportive care. Variable periods of dialysis may be necessary but in refractory cases, renal transplant or chronic dialysis is required.
+
+============================================================
+CHUNK 30
+============================================================
+OTHER NEPHROTOXIC FUNGI
+A few other mushrooms are claimed to be nephrotoxic, but the toxins responsible  have  not  been  identified.  In  North  America,  kidney
+FIGURE 133.3.2 A common cause of poisoning by nephrotoxic Cor  tinarius spp. is confusion of Cortinarius rubellus (in  the  lower part of the picture) and  funnel  chanterel, Cantharellus  tubaeformis (above) (courtesy  of  Astrid Holmgren).
+damage followed ingestion of Amanita smithiana that was mistaken for Tricholoma magnivelare . In the South of France, 53 patients developed renal dysfunction and failure after accidental ingestion of mushroom meals including Amanita  proxima that  were  mistaken  for  the non-toxic Amanita ovoidea .
+
+============================================================
+CHUNK 31
+============================================================
+SPECIES AND MECHANISMS OF TOXICITY
+Gyromitrin occurs in certain Gyromitra spp. 'false morels', in particular Gyromitra esculenta . Gyromitrin is a volatile and water-soluble toxin that is extracted from the fungus by boiling. Gyromitrin decomposes in the stomach to form toxic hydrazines that are irritating and, more importantly, that deplete central nervous  system (CNS) pyridoxine. This  will  reduce  gamma-aminobutyric acid (GABA) synthesis. Glutathione depletion in erythrocytes and liver damage are other possible toxic effects.
+
+============================================================
+CHUNK 32
+============================================================
+SYMPTOMS
+As gyromitrin is highly volatile, it can be inhaled, for example during the storage and drying of the fungi or while boiling them. Apart from irritating effects on eyes and airways, inhalation may result in systemic symptoms.  The  most  common  cause  of  gyromitrin  poisoning  is, however, ingestion of false morels that have not been detoxified by adequate boiling. Systemic symptoms after ingestion are often delayed 5-8 h after ingestion. Gastrointestinal symptoms are not invariable; the  main  symptoms  after  significant  exposure  are  neurologic,  for example dizziness, vertigo, ataxia, sweating, and incoordination. Seizures are a potential risk. After heavy exposure, hemolysis, hypoglycemia and hepatic damage can occur.
+
+============================================================
+CHUNK 33
+============================================================
+TREATMENT
+In the case of heavy exposure, especially if there are neurologic symptoms, pyridoxine is given at a dose of 25 mg/kg as an IV infusion over 30 minutes. A diluted solution of pyridoxine should be given as it is irritating  and  painful  to  the  vessels.  Pyridoxine specifically  reverses seizures  but  if  it  fails,  a  benzodiazepine  should  be  given.  Keep  a glucose infusion running. Symptomatic care is given as required.
+
+============================================================
+CHUNK 34
+============================================================
+MYOTOXIC FUNGI [7]
+During the last decade, a few reports have been published from France and Poland indicating that ingestion of large and/or repeated meals of Tricholoma  equestre  (flavovirens) ,  'man  on  horseback'  or  'yellow knight' mushroom, can cause severe rhabdomyolysis, attributable to cycloprop-2-ene carboxylic acid. In some cases, this has resulted in secondary  renal  failure  and  even  death.  This  is  alarming,  for  this mushroom is popular and widely considered safe. Investigations are continuing.
+
+============================================================
+CHUNK 35
+============================================================
+Species and Mechanism of Toxicity
+Muscarine  was  first  detected  in  certain  mushrooms  in  the  19th century. It occurs particularly in some Inocybe and Clitocybe spp. Muscarine  stimulates  cholinergic  receptors  in  the  autonomic  nervous system. All toxic symptoms are referable to an excessive stimulation of these receptors.
+
+============================================================
+CHUNK 36
+============================================================
+Symptoms
+Onset  is  rapid,  normally  within  30  minutes  to  2  hours.  Nausea, abdominal colic, and diarrhea are common. Other typical symptoms are  diaphoresis,  hypersalivation, rhinorrhea, lacrimation, bronchorrhea, bronchospasm, miosis, bradycardia, and hypotension. Patients often feel miserable.
+
+============================================================
+CHUNK 37
+============================================================
+Treatment
+Muscarinic symptoms are effectively counteracted by atropine, dose 1-2 mg IV in adults (0.02-0.05 mg/kg IV in children). The dose is repeated  as  required.  Symptomatic  care,  for  example  fluid  replacement, may be indicated occassionally.
+
+============================================================
+CHUNK 38
+============================================================
+Species and Mechanism of Toxicity
+Isoxazoles (ibotenic acid, muscimol, muscazone) are GABA agonists, occurring in some Amanita spp.,  for  example Amanita muscaria (fly agaric) (Fig. 133.3.3), Amanita pantherina (panther cap), and Amanita regalis .
+
+============================================================
+CHUNK 39
+============================================================
+Symptoms
+The onset of symptoms is rapid after significant exposure (0.5-1.5 hours).  Gastrointestinal  discomfort  is  uncommon  and  neurologic and psychotropic effects dominate; inebriation, euphoria alternating with  anxiety,  confusion,  illusions,  delusions,  hallucinations,  agitation, and violent behavior are also common. More uncommon symptoms are myoclonic jerks, muscle fasciculation and convulsions. CNS depression  and  unconsciousness may follow heavy exposure, especially in panther cap poisoning.
+
+============================================================
+CHUNK 40
+============================================================
+Treatment
+Treatment  is  symptomatic.  Sedation  is  urgently  needed;  benzodiazepines can be given generously and repeatedly as required. In case
+FIGURE 133.3.3 Possible variations in appearance of ay agaric ( Amanita muscaria ) may result in confusion with edible mushrooms (Courtesy of Ole Högberg).
+of severe agitation and delirium, antipsychotic drugs (e.g. haloperidol or chlorpromazine) may be added and have proved helpful.
+
+============================================================
+CHUNK 41
+============================================================
+Species and Mechanisms of Toxicity
+Certain Psilocybe and Panaeolus spp. contain toxins with strong hallucinogenic properties. Psilocybin, a tryptamine derivative, is the most important toxic component enhancing serotonin levels in the CNS. These fungi, known as 'magic mushrooms', are ingested deliberately. The 'liberty cap', Psilocybe semilanceata , is the most popular fungus in this group.
+
+============================================================
+CHUNK 42
+============================================================
+Symptoms
+Symptoms mostly appear within an hour: euphoria, hallucinations, altered  sense  of  time  and  space,  and  depersonalization  are  typical. The  hallucinations  may  be  bizarre  and  utterly  unpleasant,  which often brings the patient to hospital. Other symptoms are agitation, anxiety, tachycardia, mydriasis, flushing, and fever.
+
+============================================================
+CHUNK 43
+============================================================
+Treatment
+Treatment is symptomatic. It is wise to keep the patient in a quiet room and provide generous sedation with, in the first place, benzodiazepines, adding antipsychotic drugs (e.g. haloperidol) in the case of violent behavior or frightening hallucinations.
+
+============================================================
+CHUNK 44
+============================================================
+Species and Symptoms
+A large and heterogeneous group of mushrooms contain agents that are  irritating  to  the  gastrointestinal  mucosa. This  is  their  sole  toxic effect. These mildly toxic fungi are found in many different genera, i.e . Paxillus, Agaricus, Entoloma, Boletus, Hebeloma, Tricholoma, Russula, Lactarius, Ramaria , etc. Causative toxins are, in general, not chemically characterized.
+
+============================================================
+CHUNK 45
+============================================================
+Symptoms
+Gastrointestinal symptoms begin within a few hours post-exposure and disappear quickly. There may be exceptions in sensitive people; a few species in this group may prove more aggressive. One example is Entoloma sinuatum ('leaden entoloma') that may cause more longlasting and intense symptoms.
+133.4 Poisoning by Plants
+Hans Persson
+
+============================================================
+CHUNK 46
+============================================================
+Treatment
+Treatment is symptomatic and supportive. Admission to hospital is rarely required. The age and general condition of the patient and the intensity of symptoms will determine whether medical intervention is necessary or not. Children and the elderly may be more at risk. The only medical treatment that may occasionally be indicated is correction of fluid and electrolyte disturbances.
+
+============================================================
+CHUNK 47
+============================================================
+CHLOROPHYLLUM MOLYBDITES
+Chlorophyllum molybdites or Lepiota moybdites ('false parasol' or 'greenspored parasol') and Lepiota morganii or Macrolepiota morganii ('Morgan's mushroom') contain a gastrointestinal irritant with additional, possible α -receptor-blocking and cholinergic effects.
+
+============================================================
+CHUNK 48
+============================================================
+Symptoms
+Intense gastrointestinal symptoms  will  follow ingestion within 30 min  to  a  few  hours.  Diarrhea  may  sometimes  become  bloody. Fluid and electrolyte imbalance may follow and, in severe cases, renal dysfunction  might  ensue.  Occasionally,  cholinergic  symptoms  are observed.
+
+============================================================
+CHUNK 49
+============================================================
+Treatment
+Treatment is symptomatic and supportive, with adequate fluid and electrolyte  replacement.  Any  cholinergic  symptoms  are  reversed  by atropine.
+
+============================================================
+CHUNK 50
+============================================================
+Species and Mechanisms of Toxicity
+An antabuse reaction may be provoked by Coprinus atramentarius and possibly other Coprinus spp., Clitocybe clavipes , and Boletus luridus . The toxic principle is the presence of coprin that blocks aldehyde dehydrogenase, explaining why ingestion of these mushrooms in combination with ethanol may result in a typical antabuse syndrome. This risk will last for almost a week post-ingestion.
+•
+
+============================================================
+CHUNK 51
+============================================================
+Symptoms
+Symptoms mimic those of an ethanol-disulfiram reaction('antabuse syndrome'): flushing, sweating, nausea, headache, tachycardia, anxiety, and circulatory disturbances.
+
+============================================================
+CHUNK 52
+============================================================
+Treatment
+If the patient is  admitted  early,  activated  charcoal and  gastric lavage  may  be  useful.  Otherwise,  treatment  is  symptomatic  and supportive.
+
+============================================================
+CHUNK 53
+============================================================
+Paxillus Syndrome
+This syndrome is caused by ingestion of the 'roll-rim cap', Paxillus involutus .  This  mushroom can cause problems in two ways. First, it contains thermo-labile, strongly irritating toxins that may cause severe gastroenteritis if the mushroom is not cooked properly. Second, there are  antigenic  agents  in  this  mushroom  that  are  not  denatured  by cooking, explaining why people may become sensitized if the fungus is  eaten repeatedly. These people may react violently to subsequent meals containing this mushroom. Symptoms are severe gastroenteritis, dehydration, hemolysis and associated kidney failure. Treatment is symptomatic.
+
+============================================================
+CHUNK 54
+============================================================
+REFERENCES
+1.  Bresinsky  A,  Besl  H.  A  Colour  Atlas  of  Poisonous  Fungi.  A  Handbook  for Pharmacists, Doctors, and Biologists. London: Wolfe Publishing Ltd; 1990.
+2.  Cooper MR, Johnson AW. Poisonous plants and fungi in Britain. Animal and human poisoning, 2nd edn. London: The Stationary Office; 1998.
+3.  Karlson-Stiber  C,  Persson  H.  Cytotoxic  fungi-an  overview.  Toxicon  2003; 42:339-49.
+4.  Enjalbert F, Rapior S, Nougier-Soulé J, et al. Treatment of amatoxin poisoning: 20-year retrospective analysis. J Toxicol Clin Toxicol 2002;40:715-57.
+5.  Holmdahl  J.  Mushroom  poisoning: Cortinarius  speciosissimus nephrotoxicity. Thesis. Gothenburg: Göteborg University; 2001.
+6.  Holmdahl  J,  Blohmé  I.  Renal  transplantation  after Cortinarius  speciosissimus poisoning. Nephrol Dialysis Transplant 1995;10:1920-2.
+7.  Saviuc P, Danel V. New syndromes in mushroom poisoning. Toxicol Rev 2006; 25:199-209.
+8.  De Haro L, Prost N, David JM, et al. Syndrome sudorien et muscarinien. Expérience  de  Centre  Antipoisons  de  Marseille.  La  Presse  Médicale  1999;28: 1069-70.
+FIGURE  133.4.1 Deadly  night  shade  ( Datura  belladonna ) (©  David  A. Warrell).
+food that causes poisoning in both in adults and children. Another cause of significant plant poisoning is deliberate ingestion of plants whose toxins have psychotropic and hallucinogenic properties, such as belladonna alkaloids (e.g. in Datura spp.) (Fig. 133.4.1), tetrahydrocannabinols ( Cannabis sativa ) or mescaline ( Lophophora williamsii ). Toxic plants are also used as suicidal agents. In South India and Sri Lanka, yellow oleander ( Thevetia peruviana ) is commonly chosen as an agent for self harm (see below).
+
+============================================================
+CHUNK 55
+============================================================
+REFERENCES
+Treatment  of  plant  poisoning  involves  decontamination,  symptomatic care and administration of antidotes, such as physostigmine for belladonna alkaloids, digitalis-specific  antibodies  for  cardiac  glycosides,  hydroxocobalamine  or  sodium  thiosulphate  for  cyanogenic plant toxins and specific antibodies for colchicine.
+
+============================================================
+CHUNK 56
+============================================================
+SPECIFIC PLANT POISONINGS
+(Box 133.4.1) [1-5]
+
+============================================================
+CHUNK 57
+============================================================
+GASTROINTESTINAL IRRITANTS
+Ingestion of  many  plants  may  cause  gastroenteritic  symptoms (abdominal colic, vomiting, and diarrhea) as the sole toxic manifestation.
+Oxalic acid and calcium oxalate crystals occur in a number of popular decorative  plants,  such  as  'dumb  cane'  ( Dieffenbachia spp.),  'elephant's ear' ( Philodenron spp.) and 'cuckoo pint' ( Arum maculatum ). The  crystals  cause  intense  irritation  of  mucous  membranes  in  the mouth, esophagus, stomach and intestine. Increased salivation, reddening, blistering, and dysphagia may ensue. Other decorative plants, for example Euphorbia and Daphne spp. contain highly irritating diterpene esters that cause burning sensations and pain in the mucous membranes  of  the  gastrointestinal  tract  and  are,  in  general,  most pronounced in mouth and pharynx. Other symptoms are increased salivation, reddening and blisters.
+Some of these toxins may also cause skin lesions and minor renal damage (see below).
+Treatment is with oral fluids to rinse and dilute the irritant material, together with symptomatic care as required.
+
+============================================================
+CHUNK 58
+============================================================
+SKIN LESIONS
+Dieffenbachia and Euphorbia spp. are irritating to skin and dermatitis can develop in people who handle these plants frequently. Hypersensitivity reactions may follow exposure to certain plants, for example 'poison  ivy'  ( Rhus  radicans ),  'western  poison  oak'  ( Toxicodendron diversilobum )  and Primula obconica .  Treatment is  by rinsing  the  skin with water and symptomatic care.
+
+============================================================
+CHUNK 59
+============================================================
+Gastrointestinal irritants
+- Oxalic acid
+- Calcium oxalate
+- Diterpene esters
+- Others
+
+============================================================
+CHUNK 60
+============================================================
+Dermatotoxins
+- Calcium oxalate
+- Oxalic acid
+- Phototoxic psoralens
+
+============================================================
+CHUNK 61
+============================================================
+Neurotoxins
+- Belladonna alkaloids
+- Hallucinogenic toxins
+- Convulsants
+- Agents with nicotine-like ebects
+
+============================================================
+CHUNK 62
+============================================================
+Cardiotoxins
+- Aconitine
+- Cardiac glycosides
+- Taxin, veratrin, andromedotoxins, phoratoxin
+
+============================================================
+CHUNK 63
+============================================================
+Cytotoxic agents
+- Colchicine
+- Toxalbumins - ricin, abrin
+- Lectins
+- Cyanogenic glycosides (bitter cassava root)
+
+============================================================
+CHUNK 64
+============================================================
+Hepatotoxins
+- Pyrrolizidine alkaloids
+
+============================================================
+CHUNK 65
+============================================================
+Nephrotoxins
+- Terpenes
+- Antraquinone glycosides
+More dramatic reactions may occur after exposure to plants containing phototoxic psoralens. Examples are 'giant hogweed' and other Heracleum spp., 'rue' ( Ruta graveolens ) and the 'gas plant' ( Dictamnus albus ).  Skin  that  is  contaminated  with  sap  from  these  plants  and subsequently exposed to sun light may develop a nasty phototoxic reaction  involving  eczematous  skin  lesions  and  extensive,  painful bullae. To prevent this unpleasant reaction, exposed skin should be irrigated immediately and sunlight avoided. Established injuries are treated as chemical burns.
+
+============================================================
+CHUNK 66
+============================================================
+BELLADONNA ALKALOIDS
+Belladonna  alkaloids  have  long  been  used  in  clinical  medicine  to reduce gastric acid secretion, as spasmolytics, and to treat bradycardia and cholinergic overstimulation. In excess, however, they can prove toxic.
+Belladonna alkaloids occur in a number of plants, for example deadly nightshade  ( Atropa  belladonna ),  henbane  ( Hyoscyamus  niger ),  thorn apple/Jimsonweed  ( Datura  stramonium )  and  angels'  trumpet  ( Brugmansia suaveolens ) (Fig. 133.4.2). The alkaloids inhibit acetylcholine activity  at  muscarine  receptors,  resulting  in  both  peripheral  and central  anticholinergic  effects.  Exposed  patients  may  present  with central  nervous  system  (CNS)  symptoms,  such  as  anxiety  and excitation - sometimes extreme, hallucinations, mydriasis and fever.
+FIGURE  133.4.2 Angels'  trumpet  ( Brugmansia  suaveolens ) (©  David  A. Warrell).
+Peripheral  symptoms  include  tachycardia,  urinary  retention,  dry mouth, warm skin and flushing. Rarely, and in severe exposure, seizures and unconsciousness may ensue. Differential diagnoses include poisoning by amphetamines and other CNS stimulants, acute organic psychosis and CNS infections.
+Treatment is both specific and symptomatic. Sedation, preferably with benzodiazepines, is often effective, but large doses may be required. Physostigmine  in  a  dose  of  1-2 mg  slowly  intravenously  (IV)  in adults (0.02-0.04 mg/kg slowly IV in children) will more specifically antagonize  both  central  and  peripheral  anticholinergic  symptoms. However,  physostigmine  should  be  withheld  if  cardiotoxic  agents have been co-ingested, if the patient is bradycardic and if a diagnostic electrocardiogram (ECG) reveals any conduction abnormalities.
+Unilateral  mydriasis  may  be  an  alarming  clinical  sign;  however,  it happens when people who handle anticholinergic plants rub their eye.  This  has  sometimes  caused  diagnostic  confusion,  resulting  in expensive, but unnecessary, investigations. 'Gardener's eye' should be considered in such situations.
+
+============================================================
+CHUNK 67
+============================================================
+HALLUCINOGENIC PLANTS
+These plants are popular because of the strong hallucinogenic effects. Most important are tetrahydrocannabinols from cannabis ( Cannabis sativa )  and  alkaloids  of  khat  ( Catha  edulis ),  mescaline  in  'peyote' ( Lophophora williamsii ) and myristicin in 'nutmeg' ( Myristica fragrans ). Ingestion of the plant itself usually causes only moderate toxic exposure. Treatment is symptomatic.
+
+============================================================
+CHUNK 68
+============================================================
+PLANTS CAUSING CONVULSIONS
+Cicutoxin occurs in Cicuta virosa ('cowbane'), Cicuta maculata ('water hemlock') and Cicuta douglasii ('western water hemlock'). Oenanthotoxin  in Oenanthe  crocata ('hemlock  water  dropwort')  has  the same toxic properties as cicutoxin, one of the most potent convulsants known.  Cicutoxin  is  a  potent  gamma-aminobutyric  acid  (GABA)
+FIGURE 133.4.3 Ackee fruit ( Blighia sapida ) (© David A. Warrell).
+antagonist  that  induces  recurrent  seizures  and  exerts  cholinergic effects.
+Severe  poisoning  has  occurred  in  adults  who  have  mistaken  these plants for edible ones. The onset of symptoms is dramatic, with initial cholinergic symptoms, such as gastrointestinal upset, hypersalivation and  sweating.  The  most  prominent  symptoms  are  recurrent,  longlasting tonic-clonic convulsions. On arrival in hospital, patients may have hypoxia, severe metabolic acidosis, circulatory instability, joint dislocations and rhabdomyolysis.
+Treatment requires maximum symptomatic and supportive care in an intensive care unit. Emphasis should be put on eliminating the convulsions  which,  in  the  few  cases  observed  so  far,  have  necessitated complete muscle relaxation and ventilator support.
+A number of other plants have been associated with seizures. Examples are the 'ackee fruit' ( Blighia sapida ) (Fig. 133.4.3), the 'chinaberry' ( Melia azedarach ), 'moonseed' ( Menispermum canadense ), 'May apple' ( Podophyllum pelatum ) and 'nux vomica' ( Stychnos nux-vomica ). Treatment is symptomatic and supportive.
+
+============================================================
+CHUNK 69
+============================================================
+PLANTS WITH NICOTINIC EFFECTS
+Examples  of  plants  exerting  nicotine  effects  are  hemlock  ( Conium maculatum ) and the tobacco plant ( Nicotina tabacum ). The unpleasant taste  of  hemlock  does  stop  people  from  ingesting  it  although  it has been confused with parsley. Symptoms are variable and not characteristic:  salivation,  nausea,  vomiting,  thirst,  vision  disturbances, sweating,  and  vertigo.  More  severe  symptoms  may  follow,  such  as hypertension and tachycardia, followed by bradycardia and hypotension,  muscle  fasciculation  and  seizures.  At  a  later  stage,  muscular weakness, paralysis and coma may ensue. Treatment is symptomatic and supportive.
+Nicotine-like effects may also follow ingestion of 'Jessamine' ( Gelsemium sempervirens )-poisonings are reported from China. Cyticine, the toxic principle of Laburnum spp. (e.g. 'golden chain') may cause mild nicotine effects, but symptoms observed in children after ingestion  of  golden  chain  seeds  are  mostly  just  vomiting  and  diarrhea. Occasionally,  and  after  heavy  exposure,  typical  nicotine  symptoms
+may occur (see above). Ingestion of Lobelia spp.  may  cause  similar symptoms.
+
+============================================================
+CHUNK 70
+============================================================
+Aconitine
+Aconitum spp.,  such as Aconitum napellus ('aconite', 'monkshood') and Aconitum  septentrionale (a  northern  variant)  contain  aconitine, one  of  the  most  potent  plant  toxins.  Severe  poisoning  may  occur through ingestion of herbal medicines containing aconitine and from deliberate ingestion of the plant to cause self-harm. These dreaded intoxications  are  not  uncommon  and  numerous  fatalities  have occurred.
+Typically, burning and tingling sensations on lips, in the mouth and in  the  pharynx  develop  rapidly.  Gastrointestinal  and  neurotoxic symptoms may develop: numbness and paraesthesia in the extremities  and  sialorrhea.  The  most  life-threatening  features  are  cardiac arrythmias. Ventricular extrasystoles often precede ventricular tachycardia and fibrillation. Heart failure and shock develop concurrently. These arrythmias are difficult to control and the prognosis is poor. CNS depression and seizures are uncommon symptoms.
+Gastrointestinal decontamination should be attempted, energetically and even at a late stage. Treatment is symptomatic and supportive. Advanced methods of cardiopulmonary support are indispensable in severe cases.
+
+============================================================
+CHUNK 71
+============================================================
+Cardiotoxic Plants-Miscellaneous
+Yew ( Taxus baccata ) and some other Taxus spp. contain toxic alkaloids that may exert significant cardiotoxicity; QRS-widening, AV-block and other  arrythmias have  been  observed. Fatalities  have occurred. Veratrine ( Veratrum and Zigadenus spp.) (Fig. 133.4.4) is associated with digitalis-like effects. Cardiotoxic effects have also been associated with exposure to 'mountain laurel' ( Kalmia latifolia ), Menziesia spp., Rhodedendron spp. and 'American mistletoes' ( Phoradendron spp.).
+FIGURE 133.4.4 White helleborine ( Veratrum album ) (© David A. Warrell).
+
+============================================================
+CHUNK 72
+============================================================
+CYTOTOXIC PLANTS
+These  plant  toxins  disturb  cell  metabolism,  affecting  mitosis  and intracellular protein synthesis.
+
+============================================================
+CHUNK 73
+============================================================
+COLCHICINE
+Colchicine is used as a pharmaceutical, for example against gout. It is  the  toxic  principle  of Colchicum  autumnale ('autumn  crocus', 'meadow saffron') and the magnificent Gloriosa superba ('glory lily', 'ornamental lily'). Colchicine has antimitotic effects, in particular on cells  with  rapid  turnover,  for  example  intestinal  mucosa  and  bone marrow. However, colchicine is also toxic to heart, liver and kidneys.
+Classical colchicine poisoning presents with different phases. There is an initial period with mainly gastrointestinal symptoms that are often intense.  Thereafter,  serious  systemic  symptoms  may  follow  with cardiac arrhythmias, CNS depression and seizures, liver and kidney damage and delayed bone marrow depression. Intentional, massive exposures may result in severe, and even fatal, poisoning.
+Apart from attempts to reduce absorption, treatment aims to enhance elimination by multiple-dose activated charcoal and, in particular, to provide  proper  rehydration  and  other  supportive  care.  In  cases  of impaired  bone  marrow  function,  administration  of  granulocyte colony-stimulating  factor  (G-CSF)  has  proven  useful.  Colchicinespecific antibodies have been developed but are not yet commercially availability.
+
+============================================================
+CHUNK 74
+============================================================
+TOXALBUMINS
+The so called toxalbumins ricin and abrin are water soluble proteins that block protein synthesis and cause cell death. Particularly vulnerable are mucous membranes in the mouth, esophagus and gastrointestinal  tract.  They  occur  in Ricinus  communis ('castor  oil  plant'  or 'castor bean') (Fig. 133.4.5) and Abrus precatorius ('jequirity bean', 'rosary  bean'  or'  rosary  pea')  (Fig.  133.4.6).  Ricin  is  listed  as  a chemical weapon. The primary target is the gut. Severe gastroenteritis with extensive fluid and electrolyte loss is the major toxic manifestation. Secondary renal and hepatic damage may ensue.
+Treatment is symptomatic and supportive with initial emphasis on fluid  and  electrolyte  replacement,  correction  of  metabolic  disturbances, kidney and liver support.
+
+============================================================
+CHUNK 75
+============================================================
+CYANOGENIC GLYCOSIDES
+Kernels  and  fruits  of  certain  plants  may  contain  cyanogenic  glycosides.  Kernels  must  be  chewed  to  release  their  cyanide  and  large amounts  are  required  to  cause  poisoning.  Glycosides  of  this  type occur in Prunus spp., such as almonds, apricots, cherries, and peaches.
+FIGURE 133.4.5 Castor oil plant or castor bean ( Ricinus communis ) (© David A. Warrell).
+FIGURE  133.4.6 Jequirity bean, rosary bean  or rosary pea ( Abrus precatorius ) (© David A. Warrell).
+'Loquat' ( Eriobotrya ),  'cherry laurel' ( Prunus laurocerasus )  and even apple pips ( Malus spp.) are claimed to have caused poisoning.
+Chewing and swallowing kernels or fruits of this type may result in cyanide release in the stomach. This is a relatively slow process and onset of symptoms is much delayed in comparison with ingestion of cyanide salts or inhalation of hydrogen cyanide, where symptoms are either immediate (inhalation) or start in a few minutes (ingestion). Acute cyanide poisoning induced by plants is rare. Treatment is as for cyanide poisoning of any origin.
+
+============================================================
+CHUNK 76
+============================================================
+HEPATOTOXIC PLANTS
+In contrast to fungi, plant poisoning rarely affects the liver. There is, however,  one  exception.  Plants  containing  pyrrolizidine  alkaloids may cause chronic veno-occlusive disease that gradually impairs liver function. Long-term exposure may result in cirrhosis These alkaloids occur in certain Senecio, Crotalaria, Heliotropium and Symphytum spp. Clinical cases have been reported from Jamaica, India and Afghanistan, for example. There is no specific treatment available. In recent years,  a  number  of  widely  distributed  herbal  medicines  have  been associated with hepatic toxicity.
+
+============================================================
+CHUNK 77
+============================================================
+NEPHROTOXIC PLANTS
+Damage to the kidneys with a temporary decline in renal function is usually secondary to other symptoms such as heavy fluid loss. Direct nephrotoxic effects may be observed after exposure to the anthraquinon glycosides and oxalic acid in rhubarb ( Rheum rhabarbum ). Ingestion of large amounts of stems or leaves may cause irritation in the mouth and intestine, transient renal dysfunction and moderate metabolic  acidosis. Rumex spp.  (docks  and  sorrels)  that  also  contain oxalates may cause similar effects.
+'Spurge laurel' ( Daphne laureda ), 'mezereon' ( Daphne mezereum ) and 'savin' ( Juniperus savina ) contain terpenes that are irritating and may cause blisters in mouth and gastrointestinal tract, but also nephritis with hematuria and proteinuria.
+
+============================================================
+CHUNK 78
+============================================================
+REFERENCES
+'Cassava' ( Manihot esculenta ), an important food crop in arid tropical countries, contains cyanide. Unless it is thoroughly cooked, ingestion of bitter cassava roots can cause acute cyanide poisoning (gastrointestinal symptoms after 30 minutes to hours) or, over a longer period, chronic  cyanide  poisoning  aggravating  iodine-deficiency  cretinism and  causing  acute  spastic  paraparesis  ('Konzo')  in  Tanzania  and other East African countries, and tropical ataxic neuropathy in Nigeria and some other countries.
+1.  Audi J,  Belson  M,  Patel  M,  et  al.  Ricin  poisoning:  a  comprehensive  review. JAMA 2005;294:2342-51.
+2.  Cooper MR, Johnson AW. Poisonous Plants and Fungi in Britain. Animal and Human poisoning, 2nd edn. London: The Stationary Office; 1998.
+3.  Chan TY. Aconite poisoning. Clin Toxicol 2009;47:279-85.
+4.  Froberg B, Ibrahim D, Furbee RB. Plant poisoning. Emerg Med Clin North Am 2007;25:375-433.
+5.  Schep LJ, Slaughter RJ, Beasley DM. Nicotinic plant poisoning. Clin Toxicol 2009;47:771-81.
+
+============================================================
+CHUNK 79
+============================================================
+Key features
+- Cardiac glycosides inhibit the Na + /K + ATPase on cardiomyocyte membranes, increasing intracellular sodium and calcium concentrations, cardiac excitability and risk of dysrhythmias
+- Most poisoning is suicidal, although unintentional poisoning in children or from medicinal use is recognized
+- Acute poisoning results in vomiting, diarrhea, abdominal pain, hyperkalemia, sinus and atrio-ventricular (AV) node block, severe bradycardia and ventricular tachydysrhythmias
+- Antidigoxin antibodies effectively reverse poisoning but are rarely available because of cost; symptomatic care involves treating bradycardia and hyperkalemia
+- Case fatality from yellow oleander poisoning is 5-10%; cardiac glycoside poisoning kills several thousand people every year-the majority in South Asia
+
+============================================================
+CHUNK 80
+============================================================
+INTRODUCTION
+Cardiac glycosides occur in many plant families, including Scrophulariaceae  (foxgloves),  Apocynaceae (oleanders)  and  Liliaceae (lilies, sea  onion).  Each  plant  species  synthesizes  several  glycosides,  for example yellow oleander ( Cascabela thevetia (L.)) (Fig. 133.5.1) contains thevetins A and B, thevetoxin and neriifolin, while sea mango (odollam tree; Cerbera manghas Linn) (Fig. 133.5.2) contains cerberin, neriifolin and cerberoside [1].
+The glycosides are  made up of  a  sugar moiety  and  a  non-sugar  or aglycone moiety; classification into cardenolides or bufadienolides is based up on the aglycone having a five- or a six-membered lactone ring in the C17 position of the steroid nucleus respectively. The glycosides  are  not  destroyed  by  either  drying  or  heating  of  plant material.
+
+============================================================
+CHUNK 81
+============================================================
+EPIDEMIOLOGY
+It seems likely that plants containing cardiac glycosides are responsible  for  more  acute  deaths  each  year  than  any  other  plant  family. Self-poisoning with seeds of the yellow oleander or sea mango causes thousands of deaths every year in South Asia [2, 3]. Unintentional
+FIGURE 133.5.1 Yellow oleander ( Thevetia peruviana ). (A) aower and (B) the seed that has been extracted from the fruit.
+FIGURE 133.5.2 Sea mango, odollam tree or Kerala suicide nut ( Cerbera manghas ). (A) tree, (B) aower and (C) fruit.
+pediatric  poisoning  occurs with yellow  oleander in the tropics and subtropics; ingestion of therapeutic teas made from common oleander ( Nerium oleander ) leaves is an occasional cause of severe poisoning [4].  In  southern  Africa,  medicinal  use  of  plants  containing  cardiac glycosides (such as Urginea sanguinea ) commonly results in unintentional poisoning [5].
+
+============================================================
+CHUNK 82
+============================================================
+NATURAL HISTORY, PATHOGENESIS, AND PATHOLOGY
+Cardiac glycosides inhibit the Na + /K + ATPase on cardiomyocyte membranes, causing a fall in intracellular potassium concentration and rise in sodium [6]. This causes an increase in intracellular calcium owing to loss of Na + /Ca 2 + exchange activity which in turn increases calcium release  from  the  sarcoplasmic  reticulum,  alters  membrane  resting polarity and increases excitability with risk of dysrhythmias. Cardiac glycosides also increase vagal efferent activity to the heart, reducing sinuatrial firing rate (causing bradycardia) and conduction velocity of electrical impulses through the AV node.
+
+============================================================
+CHUNK 83
+============================================================
+PATIENT EVALUATION, DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+Diagnosis is made from the history plus typical toxidrome. Symptomatic patients present with gastrointestinal signs (nausea, vomiting, diarrhea, abdominal pain) and with cardiac dysrhythmias, commonly bradycardia and/or sinus or AV node block [3, 7]. Blood tests show hyperkalemia  that  correlates  with  severity  of  poisoning.  Cardiac glycosides can be detected using standard laboratory assays for digitalis glycosides. However, these assays are not quantitative and apparent cardiac glycoside concentrations should not be used to determine whether to give treatment.
+
+============================================================
+CHUNK 84
+============================================================
+TREATMENT
+Pharmaceutical  digitalis  poisoning  is  treated  with  antidigoxin  or digitoxin  Fab  antibody  fragments.  The  cardiac  glycosides  in  yellow oleander are similar enough to digitalis glycosides for the Fab fragments to be highly effective in reversing gastrointestinal and cardiac toxicity [8, 9]. The indications for administration include complete heart  block,  Mobitz type-II  second-degree block,  sinus  bradycardia with a heart rate of less than 40 beats per minute (bpm) unresponsive to atropine, sinus arrest or block with sinus pauses longer than two seconds, serum potassium > 5.5 mmol/l, or ventricular tachycardias  [8].  The  best  regimen  is  currently  unclear.  Consider  giving 400 mg  over  20 min  followed  by  400-800 mg  over  4-8  hours  by infusion to provide a therapeutic concentration for longer. There is less evidence for use of Fab fragments for poisoning with other plant cardiac glycosides but case reports suggest benefit. Unfortunately, the cost  of  these  antibodies  precludes  their  use  in  many  places  where cases are common.
+Two  randomized,  controlled  trials  have  tested  the  effectiveness  of multiple doses of activated charcoal (MDAC) in yellow oleander poisoning [6]. The first found a marked reduction in death in patients receiving  MDAC compared with a single dose of charcoal (SDAC): case  fatality  5/201  (2·5%) patients  receiving MDAC versus  16/200 (8%) patients receiving SDAC (p = 0·025, relative risk [RR] 0·31, 95% confidence  interval  [CI]  0·12-0·83)  [10].  The  second,  larger  trial found no effect on mortality of giving MDAC versus SDAC (23/540 (4·3%) vs. 26/549 [4.7%]; RR 0·90, 0·52-1·56) [1 1]. The reason for this difference in trial results in unclear and precludes a clear conclusion on the effectiveness of MDAC. However, charcoal was found to be safe in these studies and a single dose is recommended.
+The  evidence  for  benefit  from  other  interventions  is  weak  (Table 133.5-1). Gastric lavage is not recommended. Atropine and intravenous fluids are used to keep the heart rate above 60 bpm and systolic
+
+============================================================
+CHUNK 85
+============================================================
+TREATMENT
+TABLE 133.5-1 Grade of Evidence for Treatments (both recommended and non-recommended) for Plant Cardiac Glycoside Poisoning
+
+Digoxin-speci`c Fab antibodies, EScacy * = 1b Individual RCT (with narrow con`dence interval). Activated charcoal, EScacy * = 1a SR of RCTs'-'. Intravenous atropine, EScacy * = Case-series and low quality cohort and case-control studies. Insulin dextrose, EScacy * = Expert opinion. Temporary cardiac pacing, EScacy * = Expert opinion. Gastric lavage or emesis, EScacy * = Expert opinion. Low energy DC cardioversion, EScacy * = Expert opinion
+Grade of Recommendation (Oxford Centre for Evidence Based Medicine) http://www.cebm.net/index.aspx?o=1025.
+RCT, randomized, controlled trial.
+blood pressure above 80 mmHg. Insulin dextrose is given for serum potassium concentrations  above  5.5 mmol/L;  hypokalemia and hypomagnesemia should be treated until both are back in the high normal range.  In  the  absence  of  antidigoxin  Fab,  consider  treating severe bradycardia owing to AV block with temporary pacing and ventricular fibrillation with low-energy direct current (DC) defibrillation.
+
+============================================================
+CHUNK 86
+============================================================
+REFERENCES
+1. Radford DJ, Gillies AD, Hinds JA, Duffy P. Naturally occurring cardiac glycosides. Med J Aust 1986;144:540-4.
+2. Gaillard Y, Krishnamoorthy A, Bevalot F. Cerbera odollam : a 'suicide tree' and cause  of  death  in  the  state  of  Kerala,  India.  J  Ethnopharmacol  2004;95: 123-6.
+3. Eddleston M, Ariaratnam CA,  Meyer PW, et al.  Epidemic  of  self-poisoning with seeds of the yellow oleander tree (Thevetia peruviana) in northern Sri Lanka. Trop Med Int Health 1999;4:266-73.
+4. Bandara  V,  Weinstein  SA,  White  J,  Eddleston  M.  A  review  of  the  natural history, toxinology, diagnosis and clinical management of Nerium oleander (common  oleander)  and  Thevetia  peruviana  (yellow  oleander)  poisoning. Toxicon 2010;56(3):273-81.
+5. McVann A, Havlik I, Joubert PH, Monteagudo FSE. Cardiac glycoside poisoning  involved  in  deaths  from  traditional  medicines.  S  Afr  Med  J  1992; 81:139-41.
+6. Rajapakse S.  Management  of  yellow  oleander  poisoning.  Clin  Toxicol 2009;47:206-12.
+7. Eddleston M, Ariaratnam CA, Sjostrom L, et al. Acute yellow oleander (Thevetia  peruviana)  poisoning  -  cardiac  arrhythmias,  electrolyte  disturbances, and serum cardiac glycoside levels on presentation to hospital. Heart 2000; 83:301-6.
+8. Eddleston M, Rajapakse S, Rajakanthan K, et al. Anti-digoxin Fab fragments in  cardiotoxicity  induced  by  ingestion  of  yellow  oleander:  a  randomised controlled trial. Lancet 2000;355:967-72.
+9. Roberts DM, Buckley N. Antidotes for acute cardenolide (cardiac glycoside) poisoning. Cochrane Database Syst Rev 2006;4:CD005490.
+
+============================================================
+CHUNK 87
+============================================================
+REFERENCES
+10.  de Silva HA, Fonseka MMD, Pathmeswaran A, et al. Multiple-dose activated charcoal  for  treatment  of  yellow  oleander  poisoning:  a  single-blind,  randomised, placebo-controlled trial. Lancet 2003;361:1935-8.
+11.  Eddleston M, Juszczak E, Buckley NA, et al. Multiple-dose activated charcoal in  acute  self-poisoning:  a  randomised  controlled  trial.  Lancet  2008;371: 579-86.
+

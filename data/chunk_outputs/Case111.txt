@@ -1,0 +1,237 @@
+============================================================
+CHUNK 0
+============================================================
+Elizabeth M Molyneux
+implementation. The need for support from national health policy, financial  commitment  and  health  system  strengthening  is  emphasized [4].
+Additional  challenges  have  included  the  need  to  adapt  it  to  take account  of  diseases  that  are  important  in  particular  settings,  for example dengue is a much more important cause of illness in Asia than Africa. Because of its WHO endorsement, there may be a tendency for its implementation in inappropriate settings, for example in countries where healthcare workers are already trained to a high standard.
+A seven-country audit of inpatient pediatric care was undertaken by the WHO in 1997. It showed that there were many gaps in health care delivery and there was a universal need for triage, emergency care and patient monitoring [5]. In response to these findings, the WHO produced the 'Pocket Book of Hospital Care for Children: Guidelines for  the  Management  of  Common  Illness  with  Limited  Resources', also known as the The Hospital Pocket Book or Blue Book [6]. The book  of  guidelines  is  for  use  by  doctors,  senior  nurses  and  other senior healthcare workers responsible for the inpatient and outpatient care of young children at the first referral level in developing countries (Fig.  17.2).  The guidelines cover the most common diagnoses and problems  in  resource-constrained  countries  and  assume  that  only basic laboratory support, essential drugs and inexpensive medicines are available, with no specialist care on site. It focuses on the major causes of childhood mortality, such as pneumonia, diarrhea, severe malnutrition, malaria, meningitis, measles, HIV infection and related conditions. It also covers neonatal problems and surgical conditions of  children  which  can  be  managed  in  small  hospitals.  The  Pocket Book can be purchased in a hardcopy or downloaded free from the WHO website [6]. A three-and-a-half-day course on Emergency Triage Assessment and Treatment (ETAT) is available on the WHO Child and Adolescent Health Division website [7].
+
+============================================================
+CHUNK 1
+============================================================
+PREVENTIVE SCHEMES
+It  is  important  to  provide  protection  to  vulnerable  children  in  the form of immunizations, supplementary food, intermittent prophylactic drug therapy against malaria, bed nets, etc. All these tasks of testing and treating mothers and children, giving advice, giving medications or  immunizations  fall  to  the  health  assistant  or  the  nurse.  These community  workers have gradually  acquired  a  multitude  of  duties towards the child and their family. Each duty is small and important, but together they make for a heavy workload. Extended Programmes for  Immunizations  (EPI)  days  and  antenatal  visits  are  times  when mothers and babies encounter the health service and these visits have acquired a lot of 'add on' activities; all good but a lot for a worker to convey or a mother to recall (Table 17-1).
+
+============================================================
+CHUNK 2
+============================================================
+EXPANDED PROGRAMME FOR IMMUNISATION (EPI)
+The EPI was established in 1974 through a World Health Assembly resolution to build on the success of the global smallpox eradication
+Pediatrics in the tropics is challenging. It is not only the management of children with tropical diseases; it is caring for children in a health system  that  may  be  under-resourced,  under-staffed  and  frequently overwhelmed by numbers. It is adapting to do the best with limited resources and few staff. It is the sharing of ideas and practice with a team that may have very different levels of medical education, but a common goal. It is to use clinical acumen for diagnosis and to be creative in finding solutions for what may seem, on first encounter, to be insuperable. It can be demanding, sometimes overwhelming, always interesting and very rewarding.
+Most children in the world have their medical care provided by health workers with little access to diagnostic aids and with limited therapies. The first-line health worker may have received only minimal training. The World Health Organization (WHO) has provided guidelines for the diagnosis and management of common clinical problems based on pattern recognition of a collection of signs and symptoms, and syndromic treatment designed to treat the common causes of identified  clinical  problems.  In  the  past,  the  management  of  individual illnesses was taught separately but these have been drawn together in the Integrated Management of Childhood Illnesses (IMCI) [1]. In this scheme,  a  child  is  assessed  for  danger  signs,  treated  appropriately, referred when necessary and the family is counseled about immunizations, nutrition and follow-up (Fig. 17.1).
+Syndromic  management  leads  to  over-treatment  but  simplifies looking  after  large  numbers  of  patients  with  few  staff.  National policy  should  make  appropriate  drugs  available  for  every  level  of healthcare.
+IMCI strategy has three main components:
+- To  improve  the  case-management  skills  of  health  carers  using locally adapted clinical guidelines that do not focus on a single diagnosis, but  rather on  selected  signs  and  symptoms  to  guide rational treatment.
+- This needs support through the provision of appropriate therapies and referral chains.
+- The child is seen in the context of the family and the clinic visit because  of  an  acute  event  which  is  used  to  provide,  not  only immediate  curative  treatment,  but  also  attention  to  nutrition, immunization, counseling and other holistic health needs.
+
+============================================================
+CHUNK 3
+============================================================
+EXPANDED PROGRAMME FOR IMMUNISATION (EPI)
+In Tanzania, this led to a 13% reduction in the cost of care and better outcomes [2]. A  re-analysis  of  these  data  to  include  the  quality  of care given showed that the cost of using IMCI was $4.02/person per annum  compared  with  $25.70  without  IMCI  [3].  To  reach  these improvements requires all the ingredients of IMCI to be availabletraining, drugs, staff, immunizations and time; training alone will not suffice.
+Although the ICMI works well in many settings, local and national constraints include low healthcare worker compliance, the perceived length and expense of training, inadequate counseling of child caregivers,  the  weakness  of  health  systems  to  support  ICMI  policy and  lack  of  institutional  or  governmental  budget  allocations  for
+17
+
+============================================================
+CHUNK 4
+============================================================
+Ask the mother what the child's problems are
+- Determine whether this is an initial or follow-up visit for this problem.
+- if follow-up visit, use the follow-up instructions on Treat the child chart
+- if initial visit, assess the child as follows:
+
+============================================================
+CHUNK 5
+============================================================
+Ask:
+- Is the child able to drink or breast feed?
+- Does the child vomit everything?
+- Has the child had convulsions?
+A child with any general danger sign needs urgent attention; complete the assessment and any permitted treatment immediately so that referral is not delayed.
+
+============================================================
+CHUNK 6
+============================================================
+THEN ASK ABOUT MAIN SYMPTOMS:
+Does the child have a cough or difficult breathing?
+Classify cough or difficult breathing
+CLASSIFY AS
+
+============================================================
+CHUNK 7
+============================================================
+IDENTIFY TREATMENT
+SIGNS
+
+============================================================
+CHUNK 8
+============================================================
+TREATMENT
+FIGURE  17.1 The  ;rst  page  of  the  Integrated  Management  of  Childhood  Illness  Chart  Booklet,  showing  initial  assessment  for  danger  signs (http:// whqlibdoc.who.int/publications/2008/9789241597289_eng.pdf).
+
+• Any general danger sign or • Chest indrawing or • Stridor in a calm child, 1 = Severe pneumonia or very severe disease. • Any general danger sign or • Chest indrawing or • Stridor in a calm child, 2 = • Give first dose of an appropriate antibiotic • Refer urgently to hospital. • Fast breathing, 1 = Pneumonia. • Fast breathing, 2 = • Give oral antibiotic for 3 days • If wheezing (even if it disappeared after rapidly acting bronchodilator) give an inhaled bronchodilator for 5 days • Soothe the throat and relieve the cough with a safe remedy • If coughing for more than 3 weeks or if having recurrent wheezing, refer for assessment for TB or asthma • Advise the mother when to return immediately • Follow-up in 2 days. • No signs of pneumonia or very severe disease, 1 = Cough or cold. • No signs of pneumonia or very severe disease, 2 = • If wheezing (even if it disappeared after rapidly acting bronchodilator) give an inhaled bronchodilator for 5 days • Soothe the throat and relieve the cough with a safe remedy • If coughing for more than 3 weeks or if having recurrent wheezing, refer for assessment for TB or asthma • Advise the mother when to return immediately • Follow-up in 5 days if not improving
+
+============================================================
+CHUNK 9
+============================================================
+TREATMENT
+programme and to ensure that all children in all countries benefited from life-saving vaccines. The first diseases targeted by the EPI were diphtheria,  whooping  cough,  tetanus,  measles,  poliomyelitis  and tuberculosis.  In  2009,  an  estimated  82%  of  children  globally  had received at least three doses of diphtheria, pertussis, tetanus (DPT) vaccine  (DPT3).  Additional  vaccines  have  now  been  added  to  the original  six  recommended  in  1974.  Most  countries,  including  the majority of low-income countries, have added hepatitis B and Haemophilus influenzae type b (Hib) to their routine infant immunization schedules  and  an  increasing  number  are  in  the  process  of  adding pneumococcal  conjugate  vaccine  and  rotavirus  vaccines  to  their schedules.
+
+============================================================
+CHUNK 10
+============================================================
+Look:
+- See if the child is lethargic or unconscious.
+- Is the child convulsing now?
+How to manage the airway in a child with obstructed breathing (or who has just stopped breathing) where neck trauma or possible cervical spine injury is suspected
+1. Stabilise the neck
+2. Inspect mouth and remove foreign body if present
+3. Clear secretions from throat
+4. Check the airway by looking for chest movements, listening for breath sounds and feeling for breath
+Use jaw thrust without head tilt. Place the 4th and 5th finger behind the angle of the jaw and move it upwards so that the bottom of the jaw is thrust forwards, at 90 o  to the body
+FIGURE 17.2 Page from the WHO Pocket Book showing how to manage the airway.
+The  overall  coverage  for  childhood  immunizations  varies  from country  to  country.  In  some  countries  (e.g.  Malawi),  the  uptake  is good, with 82% coverage for all three doses of the pentavalent vaccine [diphtheria, tetanus,  whooping  cough,  hepatitis  B  and H.  influenza type b (DPTHibHepB)] and 64% for measles. In other countries, the uptake is poor and the difference in urban/rural uptake is great [8]. EPI programs include the periodic distribution of vitamin A supplements to children. Not all countries have the pentavalent vaccinemany are still using DPT. The pentavalent vaccine raises the cost of vaccination 10-fold and can only be sustained with external funding, such  as  from  the  Global  Alliance  for  Vaccines  and  Immunisation (GAVI).
+Measles remains a cause of significant morbidity and mortality despite the availability of an effective vaccine (see Chapter 28.1). The WHO estimates  that  there  are  about  350,000  measles  deaths  a  year  [9]. Many of the deaths are not from acute measles, but from post-measles diarrhea and pneumonia. In countries where measles is common, it tends  to  occur  in  young  children  ( < 12  months of  age).  Therefore, children  need  to  be  immunized  earlier  than  their  counterparts  in well-resourced countries. The measles vaccine is given at 9 months of  age  and  is  not  repeated.  Given  at  this  age,  it  provides  80-90% protection [10].
+
+============================================================
+CHUNK 11
+============================================================
+Look:
+Pneumococcal conjugate vaccine is not widely available in resourceconstrained countries because of cost, but its introduction into the EPI service would be enormously beneficial. In HIV-infected infants, immunization is not as  effective  or  as  long-lasting  compared  with uninfected children, but a study from the Gambia showed an overall
+
+============================================================
+CHUNK 12
+============================================================
+Look:
+Table 17-1 Preventive care required from pregnancy through childhood
+
+Tetanus immunization, Delivery = PMTCT. Tetanus immunization, Postnatal = PMTCT. Tetanus immunization, Childhood < 5 yrs = Cotrimoxazole prophylaxis. Maternal Hb level, Delivery = Skilled care. Maternal Hb level, Postnatal = Cord care. Maternal Hb level, Childhood < 5 yrs = Pentavalent vaccine + polio. VDRL/RPR, Delivery = Blood if needed. VDRL/RPR, Postnatal = BCG/Polio. VDRL/RPR, Childhood < 5 yrs = Supplementary feeds. IPDT*, Delivery = . IPDT*, Postnatal = KMC. IPDT*, Childhood < 5 yrs = Vitamin A. Breast feeding advice, Delivery = Breast feeding advice. Breast feeding advice, Postnatal = Breast feeding advice. Breast feeding advice, Childhood < 5 yrs = Breast feeding advice. Bed net, Delivery = Bed net. Bed net, Postnatal = Bed net. Bed net, Childhood < 5 yrs = Bed net. HIV test, Delivery = . HIV test, Postnatal = HIV tests/PCR. HIV test, Childhood < 5 yrs = HIV test / PCR 1. BP, Delivery = . BP, Postnatal = . BP, Childhood < 5 yrs = Measles immunisation. Weight, Delivery = . Weight, Postnatal = Weight. Weight, Childhood < 5 yrs = Weight/height/ MUAC 2. Urine protein, Delivery = . Urine protein, Postnatal = . Urine protein, Childhood < 5 yrs = iPDT*. Threats to good health and growth, Delivery = MALNUTRITION AND HIV INFECTION POVERTY, INACCESSIBILITY TO HEALTH CARE, PARENTAL SICKNESS, SOCIAL UNREST, ORPHANHOOD, WOODSMOKE. Threats to good health and growth, Postnatal = MALNUTRITION AND HIV INFECTION POVERTY, INACCESSIBILITY TO HEALTH CARE, PARENTAL SICKNESS, SOCIAL UNREST, ORPHANHOOD, WOODSMOKE. Threats to good health and growth, Childhood < 5 yrs = MALNUTRITION AND HIV INFECTION POVERTY, INACCESSIBILITY TO HEALTH CARE, PARENTAL SICKNESS, SOCIAL UNREST, ORPHANHOOD, WOODSMOKE
+
+============================================================
+CHUNK 13
+============================================================
+Look:
+BCG, Bacillus-Calmette-Guérin; BP , blood pressure; Hb, hemoglobin; IPDT, intermittent preventive drug therapy for malaria; KMC, Kangaroo Mother Care; MUAC, mid upper arm circumference; PMTCT, preventing mother to child transmission of HIV; RPR, rapid plasma reagin; VDRL, Venereal Disease Research Laboratory test.
+- *Intermittent preventive drug therapy for malaria.
+1 Polymerase chain reaction.
+2 Mid Upper Arm Circumference.
+five-year protection measured by antibody levels to the nine serotypes of the study conjugate vaccine of 77% [confidence interval (CI) 95% 51.90] [1 1, 12].
+The Pneumococcal Accelerated Development and Introduction Plan (pneumoADIP) is striving  to make the seven-valent pneumococcal conjugate  vaccine  (PCV-7)  available  for  young  infants  in  resourcepoor countries and Rwanda was the first country in Africa to introduce it  into  its  infant  EPI  program.  In  2010,  the  Rwandan  Ministry  of Health, with the help of international partners, made pneumococcal conjugate vaccine available through the EPI program to all infants. Through GAVI, it is anticipated that the cost of funded PCV-7 will be brought down to about US $1 for a three-dose course [13].
+
+============================================================
+CHUNK 14
+============================================================
+HIV/AIDS
+Countries with a high HIV/AIDS burden are struggling to care for all the people who are living with AIDS (PLWA).
+Prophylactic  cotrimoxazole,  recommended  for  all  children  (and adults) with HIV infection and HIV-exposed infants [14], and fixed combination  drugs  (FDC)  are  available  and  provided  through  the global fund. Local national programs provide registration procedures, protocols, training, stock control, prescribing controls and monitoring;  the  human  resources  required  and  logistical  implications  are
+huge. Children are expected to form about 10% of the total number of  people  on  antiretroviral  therapies  (ARTs),  but  their  access  to therapy has been slower than that of adults. Reasons for this include difficulty in deciding how to provide suitable doses for children with a limited variety of FDC tablets available (and none of them childfriendly  tablets),  although  pediatric  combination  tablets  are  now available. The need to confirm a diagnosis below the age of 15 months with  PCR  testing  is  a  challenge.  Studies  have  shown  that  infants started on ARTs before they develop opportunistic infections have a much better survival [15]. It is not easy to advise about infant feeding. What is  best  for  babies  whose  chances  of  acquiring  HIV  infection from breast feeding are about 14-42% but whose chance of dying of gastroenteritis or malnutrition in a poor family if bottle fed is much greater?  Recent  studies  from  Zambia  and  Malawi  both  showed increased  mortality  with  abrupt  cessation  of  breast  feeding  of  all infants and, in Malawi, there was no reduction in HIV transmission [16, 17]. The WHO recommends considering the ability of the mother to maintain artificial feeding under the headings Acceptability, Feasibility,  Affordability,  Sustainability  and  Safety  (AFASS) before  giving any advice [18], i.e. will replacement feeding be acceptable, feasible, affordable,  sustainable  and  safe?  Considerations  include  analyzing the  family's  access  to  clean  water,  electricity,  hygienic  latrines  or toilets, their financial situation, and other social and economic factors necessary to support replacement feeding. A breast-feeding mother on ART that reduces her viral load to negligible amounts could breast feed her baby without fear of HIV transmission: this would seem the way forward in preventing vertical transmission of the disease, but not at the cost of infections and malnutrition that could be prevented by breast feeding.
+
+============================================================
+CHUNK 15
+============================================================
+NEWBORNS
+Infant mortality has decreased in several countries, but this fall in the case fatality rate has been mainly in children over 2 months of age (Fig.  17.3).  The  United  Nations  Millennium  Eight  Development Goals were established following the Millennium Summit in 2000 [19];  they  comprise  eight  international  development  goals  that  all 192  United  Nations  member  states,  and  at  least  23  international organizations, have agreed to achieve by the year 2015. To achieve the fourth Millennium Development Goal of halving child mortality by 2015, neonatal mortality must be tackled [20]. About 40% of all child deaths (4 million per year) occur in the neonatal period. Almost 75% of neonatal deaths occur in the first week of life, of which 85% are caused  by  prematurity,  infection  and  birth  asphyxia  (Fig.  17.4). Skilled attendance at delivery, simple care of the premature-such as Kangaroo  Mother  Care  (KMC)-and  good  hygiene  would  prevent many of these deaths. Tetanus can be prevented by maternal immunization.  In  Kenya,  Opiyo  et al.  showed  that  a  one-day  training course in neonatal resuscitation led to a significant improvement in resuscitation  steps  and  techniques  (66%  v  27%  p = 0.001)  [21].The training was based on the one-day UK Resuscitation Council training [22]  (Fig.  17.5)  adapted  to  the  Kenyan  setting  and  included  an  A (Airway),  B  (Breathing)  and  C (Circulation) approach to  resuscitation, laying down a clear, step-by-step strategy for the first minutes of resuscitation at birth with practical scenarios using infant manikins.
+KMC is when a mother gives warmth, nutrition and love to her baby who is placed, skin-to-skin, between her breasts,  and  nursed  there. The baby is kept in this position most of the day and night, providing a constant, even body temperature. KMC babies grow more quickly than those nursed in incubators. It is ideal care for premature and small-for-dates infants, and mothers can continue KMC at home until the baby's body weight is 2.5 kg. In hospital, this releases nurses to care for the very sick infants, as mothers provide most of the KMC for their infants [23].
+
+============================================================
+CHUNK 16
+============================================================
+PNEUMONIA
+Pneumonia  causes  most  deaths  in  childhood  and  the  majority of  these  deaths  occur  in  resource-constrained  parts  of  the  world. Qazi et al. showed that simple, standardized training in acute respiratory infection management, based on WHO recommendations, will
+FIGURE  17.3 Steps  to  infant  resuscitation  from  the  UK  Resuscitation Council Training Manual [http://www.resus.org.uk/pages/nls.pdf (p. 121)].
+reduce mortality and decrease the use of antibiotics [24]. The recommendations include assessment of the following:
+- clinical  signs  in  children  presenting  with  a  cough  or  difficult breathing;
+- fast breathing;
+- in-drawing of the lower chest wall;
+- other specified danger signs.
+Antibiotics  are  recommended  for  treatment  of  pneumonia,  acute streptococcal pharyngitis, acute otitis media and mastoiditis, but not for  treatment  of  acute  upper  respiratory  infections,  such  as  coughs and  colds.  Commercial  cough  remedies  containing  ineffective  or harmful ingredients are discouraged.
+FIGURE  17.4 Neonatal deaths and the  Millennium Development  Goals (Reproduced  with  permission  from Lawn J, Cousens S, Bhutta Z, et al. Why are 4 million newborn babies dying each year? Lancet 2004;364:399-401).
+FIGURE  17.5 Common  causes  of  infant deaths worldwide (source: WHO).
+Despite the size of the problem, in Kenya and Papua New Guinea oxygen was unavailable in several health facilities and even fewer had oxygen  saturation  monitors  [25].  In  HIV-endemic  areas,  both  the diagnosis and management of pneumonia have become increasingly difficult.  HIV-infected  children  are  prone  to  bacterial  pneumonia (often caused by Streptococcus  pneumoniae) but  after  repeated  infections that cause structural damage and radiologic changes, it can be difficult to decide what is new, what is old and what is the best treatment for the present problem. Staphylococcal infections and carriage are  more  common  in  HIV-infected  children.  Bacterial  pneumonia may occur on a background of lymphocytic interstitial pneumonitis (LIP) and/or tuberculosis (TB).
+
+============================================================
+CHUNK 17
+============================================================
+PNEUMONIA
+Pneumocystis  jiroveccii pneumonitis  (PCP)  may  be  the  presenting illness of HIV-infected infants aged 3-8 months. Despite treatment with high-dose cotrimoxazole and steroids, the prognosis is poor and it  is  hoped  that  by  giving  all  HIV  PCR-positive  infants  ART,  the number  and  severity  of  all  infections  will  be  reduced.  PCP  has  a distinctive  clinical  presentation-air  hunger  with  hyperinflation  of the lungs which are clear on auscultation. Body temperature is only minimally raised and even high flow oxygen often only marginally improves oxygenation.
+On the other hand, TB can be difficult to diagnose. A contact history of TB is one of  the most helpful findings in making the diagnosis. The purified protein derivative (PPD) skin tests are usually negative in HIV-infected children,  but when strongly positive  it  can be very helpful. Sputum samples cannot be easily obtained and chest x-ray is seldom diagnostic. Gastric aspirates must be collected from an empty stomach and immediately placed in a buffered solution. In our hands, the  results  have  been  unrewarding.  The  mortality  in  HIV-infected children is higher than in HIV-negative children and is related to the CD4 count [26]. LIP has a characteristic lacy radiologic appearance and, clinically, there is generalized lymphadenopathy; fever is uncommon. LIP may be complicated by the presence of bronchiectasis and TB, making the diagnosis more complicated.
+
+============================================================
+CHUNK 18
+============================================================
+MALARIA
+One million children die of malaria every year. Deaths are almost all caused by Plasmodium falciparum infections. Malaria comes in several forms  and  is  most  commonly  asymptomatic  or  causes  mild  fever. Complicated malaria-accompanied by anemia or altered consciousness (cerebral malaria) and respiratory distress-carries a significant mortality  [27];  urgent  treatment  is  needed.  Most  countries  with endemic P. falciparum malaria are using an artemisinin-based first-line combination therapy to overcome resistance to drugs such as chloroquine  and  sulfamethoxazole  (SP).  Combination  drugs  are  used  to slow  down  the  development  of  resistance  to  artemisinins,  which should not be prescribed on their own.
+Several  studies  have  identified  malaria,  particularly  associated  with convulsions,  as  a  major  cause  of  long-term  neurologic  sequelae, including epilepsy and behavioral disorders. It was always known that
+about 15-20% of children with severe or cerebral malaria developed gross neurologic sequelae, such as hemiplegia, blindness or cerebral palsy, but, more recently, subtle forms of sequelae have been studied and identified [28].
+Bed nets,  intermittent  prophylactic therapeutic  medication  (iPTpd) and  indoor  residual  spraying  will  help  reduce  the  prevalence  and severity of malaria; some malaria vaccines also look promising [29].
+Malaria and malnutrition both lead to anemia and there is a known association  between  this  anemia  and  non-typhoidal  salmonellosis (NTS). NTS is the most common cause of bacteremia in malarial areas [30]. It is important to know the resistance pattern to antibiotics of the common pathogens in the region so that antibiotic guidelines can reflect the local findings.
+
+============================================================
+CHUNK 19
+============================================================
+GASTROENTERITIS
+The use of oral rehydration solution (ORS) has greatly reduced the mortality  from  gastroenteritis  but  1.4-6  million  children  still  die every year from dehydration. ORS is a sodium and glucose solution prepared by diluting one sachet of ORS in 1 liter of safe water. In most countries, ORS packets are available from health centers, pharmacies, markets and shops. When a child has three or more loose stools in a day, begin to give ORS and encourage the child to drink as much as possible. A child under the age of 2 years needs at least a quarter to a half of a large (250-ml) cup of the ORS drink after each watery stool and a child aged 2 years or older needs at least a half to a whole large (250-ml) cup of the ORS drink after each watery stool. It is important to administer the solution in small amounts at regular intervals on a continuous basis. In case ORS packets are not available, caregivers at home may use homemade solutions consisting of half a teaspoon of salt and six level teaspoons of sugar dissolved in one liter of safe water [31]. Alternatively, lightly salted rice water, or even plain water, may be given. To avoid dehydration, increased fluids should be given as soon  as  possible  after  illness  onset.  All  oral  fluids,  including  ORS solution, should be prepared with the best available drinking water and stored safely. Continuous provision of nutritious food is essential and  breastfeeding  of  infants  and  young  children  should  continue [32].
+Current guidelines for the acute management of severe sepsis in children place prime importance on early, rapid and substantial infusion of intravenous fluids; the immediate aim is to correct a possible fluid responsive  hypodynamic  circulation-the  assumption  being  that, beyond this, an expansion of the circulating volume will attenuate hypotension, ameliorate the perceived impaired peripheral and endorgan perfusion, and correct abnormalities of base deficit and lactate. However,  a  recently  published,  multicenter,  randomized,  placebocontrolled trial  of more than  3000 children  in Uganda, Kenya and Tanzania  found  that  fluid  boluses  significantly  increased  48-hour mortality in critically ill children with impaired perfusion [33]. This unexpected  finding  is  prompting  some  re-evaluation  of  the  initial management of children with severe sepsis in resource-poor settings [33].
+
+============================================================
+CHUNK 20
+============================================================
+GASTROENTERITIS
+Rotavirus causes about 50-75% of cases of acute diarrhea and vomiting. Oral rotavirus vaccines have been approved by the WHO and it is anticipated that these vaccines, once introduced into national EPI programs, will have a huge impact on the number of gastroenteritis cases that occur [34]. Good hygiene, clean water and breast feeding all help prevent gastroenteritis and such simple methods of prevention must not be forgotten. If diarrhea does occur, oral zinc has been shown to be effective in reducing the frequency and volume of stools and length of the diarrheal episode [35].
+
+============================================================
+CHUNK 21
+============================================================
+REFERENCES
+1. Integrated Management of Childhood Illnesses. UNICEF and CAH (WHO). Geneva: World Health Organization. Available at: http://www.who.int/child_ adolescent_health/topics/prevention_care/child/imci/en/.
+2. Adam T, Manzi F, Schellenberg JA, et al. Does the Integrated Management of Childhood  Illness  cost  more  than  routine  care?  Results  from  the  United Republic of Tanzania. Bull WHO 2005;83:369-77.
+3. Bryce J, Cesar V, Habicht J-P, et al. The multicountry evaluation of the IMCI strategy: lessons for the evaluation of public health interventions. Am J Public Health 2004;94:406-15.
+4. Ahmed  HM,  Mitchell  M,  Hedt  B.  National  implementation  of  Integrated Management of Childhood Illness (IMCI): policy constraints and strategies. Health Policy 2010;96:128-33.
+5. Nolan T, Angos P, Cunha AJ, et al. Quality of hospital care for seriously ill children in developing countries. Lancet 2001;357:86-7, 106-10.
+6. WHO Pocket book for hospital care for children. Guidelines for the management  of  common  illnesses  with  limited  resources.  Geneva:  World  Health Organization; 2005. Available at: http://www.who.int/child_adolescent_ health/documents/9241546700/en/index.html.
+7. WHO Emergency Triage Assessment and Treatment (ETAT). Manual for participants.  Geneva:  World  Health  Organization.  Available  at:  http://www. who.int/child_adolescent_health/documents/.
+8. Otten M, Kezaala R, Fall A, et al. Public-health impact of accelerated measles control in the WHO Africa region 2000-2003. Lancet 2005;366:832-9.
+9. Centers for Disease Control and Prevention (CDC). Progress in global measles control and mortality reduction 2000-2006. MMWR 2007;56:1237-41.
+10.  Akramuzzaman SM, Cutts FT, Hossain MDJ, et al. Measles vaccination effectiveness and risk factors for measles in Dhaka, Bangladesh. Bull World Health Organ 2002;80:776-82.
+
+============================================================
+CHUNK 22
+============================================================
+REFERENCES
+11.  Mahdi SA, Klugman KP, Kuwanda L, et al. Quantitative and qualitative anamnestic immune responses to pneumococcal conjugate vaccine in HIV-infected and  HIV-uninfected  children  5  years  after  vaccination.  J  Infect  Dis  2009; 99;1168-76.
+12.  Saka M, Okoko BJ, Kohberger RC, et al. Immunogenicity and serotype-specific efficacy  of  9-  valent  pneumococcal  conjugate  vaccine  (PCV-9)  determined during an efficacy trial in The Gambia. Vaccine 2008;26:3719-26.
+13.  Meehan A, Mackenzie D, Booy R. Protecting children with HIV against pneumococcal disease. Lancet Infect Dis 2009;9:394-5.
+14.  Chintu C,  Bhat GJ,  Walker  AS,  et  al.  Cotrimoxazole as  prophylaxis  against opportunistic infection in HIV-infected Zambian children (CHAP): a double blind randomised placebo-controlled trial. Lancet 2004;364:1865-71.
+15.  Violari A, Cotton MF, Gibb DM, et al; for the CHER Study Team. Early antiretroviral therapy and mortality among HIV-infeted infants. N Eng J Med 2008; 359:2233-44.
+16.  Kuhn L,  Aldrovandi GM, Sinkala  M,  et al;  for  the  Zambia  Exclusive Breast Feeding Study. Effects of early, abrupt weaning on HIV-free survival of children in Zambia. N Eng J Med 2008;359:130-41.
+17.  Kumwenda  NI,  Hoover  DR,  Mofenson  LM,  et  al.  Extended  antiretroviral prophylaxis  to  reduce  breast-milk-HIV  transmission.  N  Eng  J  Med  2008; 359:119-29.
+18.  Guidelines on HIV and infant feeding 2010. Principles and recommendations for infant feeding in the context of HIV and a summary of evidence. Geneva: World Health Organization; 2010.
+19.  http://www.un.org/millenniumgoals/.
+20.  Lawn J, Cousens S, Bhutta Z, et al. Why are 4 million newborn babies dying each year? Lancet 2004;364:399-401.
+
+============================================================
+CHUNK 23
+============================================================
+REFERENCES
+21.  Opiyo  N,  Were  F,  Govedi  F,  et  al.  Effect  of  newborn  resuscitation  training of  Health  Worker practices in  Pumwani Hospital Kenya. PLoS one 2008;3: e1999.
+22.  http://www.resus.org.uk/pages/glalgos.htm (Newborn Life Support Algorithm).
+23.  Blencowe  H,  Kerac  M,  Molyneux  EM.  Safety,  effectiveness  and  barriers  to follow up using an 'Early Discharge' Kangaroo Care Policy in a resource poor setting. J Trop Paeds 2009; 55:244-8.
+24.  Qazi SA, Rehman GN, Khan MA. Standard management of acute respiratory infections in a children's hospital in Pakistan: impact on antibiotic use and case fatality. Bull World Health Organ 1996;74:501-7.
+25.  Graham SM, English M, Hazir T, et al. Challenges to improving case management of children with pneumonia at health facilities in resource constrained settings. Bull World Health Organ 2008;86:349-55.
+26.  Harries  AD,  Hargreaves  NJ,  Graham  SM  et  al.  Childhood  tuberculosis  in Malawi: nationwide case-finding and treatment outcomes. Int J Tuberc lung Dis 2002;6:424-31.
+27.  Crawley J, English M, Wariuru C, et al. Abnormal breathing patterns in childhood cerebral malaria. Trans R Soc Trop Med Hyg 1998;92:305-8.
+28.  Idro R, Ndiritu M, Ogutu B, et al. Burden, features, and outcome of neurological  involvement  in  acute  falciparum  malaria  in  Kenyan  children.  JAMA 2007;297:2232-40.
+29.  Chattopadhyay  R,  Kumar  S.  Malaria  vaccine:  latest  update  and  challenges ahead. Indian J Exp Biol 2009;47:527-36.
+30.  Gordon MA, Graham SM, Walsh AL, et al. Epidemic invasive non-typhoidal Salmonella infections among adults and children associated with multidrug resistance in Malawi. Clin Infect Dis 2008;146:963-9.
+
+============================================================
+CHUNK 24
+============================================================
+REFERENCES
+31.  http://www.who.int/cholera/technical/en/.
+32.  Fischer Walker CL, Friberg IK, Binkin N, et al. Scaling up diarrhea prevention and  treatment  interventions:  a  Lives  Saved  Tool  analysis.  Plos  Med  2001; 8(3):e10000428.
+33.  Maitland K, Kiguli S, Opoka RO, et al; FEAST Trial group. Mortality after fluid bolus in African children with severe infection. NEJM  2011;364(26): 2483-95.
+34.  Rotavirus vaccine: an update WHO. Weekly epidemiological record. No 51-52. 2009;84:533-40 http://www.who.int/wer/.
+35.  Zinc supplementation in the management of diarrhoea. http:/www.who.int/ entity/elena/titles/zinc_diarrhoea/en/.
+

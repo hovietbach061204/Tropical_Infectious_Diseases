@@ -1,0 +1,206 @@
+============================================================
+CHUNK 0
+============================================================
+KEY FEATURES
+- most important poxvirus of humans, was declared eradicated in 1980 after widespread vaccination with vaccinia virus.
+- clinically similar to smallpox, although lymphadenopathy is more prominent and the mortality rate lower.
+- person to person via respiratory droplets.
+- vaccine) results in milder disease and signi{cantly lower mortality.
+- on the face, trunk, or extremities of children worldwide.
+- sheep that manifests as papules, nodules, and pustules at the site of inoculation.
+
+============================================================
+CHUNK 1
+============================================================
+Poxviruses
+Catherine G. Sutcliffe, Anne W. Rimoin, William J. Moss
+
+============================================================
+CHUNK 2
+============================================================
+INTRODUCTION
+Poxviruses  belong  to  the  family  Poxviridae.  Those  that  infect humans are found among four genera ( Orthopoxvirus, Parapoxvirus, Molluscipoxvirus, and Yatapoxvirus )  within the Chordopoxvirinae subfamily (T able 32.2.1). Most poxvirus infections in humans are zoonoses, with only variola and molluscum contagiosum viruses being uniquely human pathogens. Poxviruses are large, generally brick-shaped  virions  containing  double-stranded  DNA  that,  in contrast to many other DNA viruses, replicate within the cytoplasm rather than in the nucleus of the host cell. 1
+Variola virus is the etiologic agent of smallpox and was responsible for millions of deaths over thousands of years. The earliest archeological evidence dates to the 18th dynasty in ancient Egypt (1580-1350 BC). Large epidemics of smallpox occurred in most civilizations, with 10% to 30% of cases resulting in death. Smallpox was  eradicated  through  an  intensive global  campaign  based on vaccination with vaccinia virus, a related Orthopoxvirus thought to be derived from cowpox virus. Recent genetic analysis of vaccine virus  from  the  early 20th century suggests an ancestral lineage linked  to  horsepox  virus. 2 The  last  endemic  case  of  smallpox occurred  in  Somalia  in  1977,  and  in  1980  the  World  Health 3
+More recently, concern has been raised about the use of variola virus  as  a  biological  weapon,  resulting  in  increased  interest  in poxviruses. With more frequent global travel and the expansion of human populations into new habitats, the public health importance of zoonotic poxviruses and their potential to cause outbreaks
+
+TABLE 32.2.1 Genera and Species of the Family Poxviridae, Subfamily Chordopoxvirinae That Affect Humans
+
+============================================================
+CHUNK 3
+============================================================
+INTRODUCTION
+ORTHOPOXVIRUS, Geographic Distribution = . ORTHOPOXVIRUS, Other Infected Animals = . ORTHOPOXVIRUS, Reservoir = . Variola, Geographic Distribution = Eradicated (formerly worldwide). Variola, Other Infected Animals = Humans. Variola, Reservoir = None. Monkeypox, Geographic Distribution = Africa (United States)*. Monkeypox, Other Infected Animals = Humans, primates, zoo animals, prairie dogs. Monkeypox, Reservoir = Squirrels, dormice, Gambian giant rat, hedgehog, jerboa, opossum, woodchuck. Cowpox, Geographic Distribution = Western Eurasia. Cowpox, Other Infected Animals = Humans, cats, cows, elephants, gerbils, rats, okapi, zoo animals. Cowpox, Reservoir = Rodents (bank voles, long-tailed field mouse). Vaccinia, Geographic Distribution = Worldwide. Vaccinia, Other Infected Animals = Humans, cows, buffalo, rabbits, pigs. Vaccinia, Reservoir = Most likely rodents. PARAPOXVIRUS, Geographic Distribution = . PARAPOXVIRUS, Other Infected Animals = . PARAPOXVIRUS, Reservoir = . Bovine papular stomatitis, Geographic Distribution = Worldwide. Bovine papular stomatitis, Other Infected Animals = Humans, cows. Bovine papular stomatitis, Reservoir = Unknown (cows?). Orf (contagious ecthyma, contagious pustular dermatitis), Geographic Distribution = Worldwide. Orf (contagious ecthyma, contagious pustular dermatitis), Other Infected Animals = Humans, sheep, goat, artiodactyla, other ruminants. Orf (contagious ecthyma, contagious pustular dermatitis), Reservoir = Unknown (sheep? goats?). Pseudo-cowpox (paravaccinia, milker's nodule), Geographic Distribution = Worldwide. Pseudo-cowpox (paravaccinia, milker's nodule), Other Infected Animals = Humans, cows. Pseudo-cowpox (paravaccinia, milker's nodule), Reservoir = Unknown (cows?). Parapoxvirus of seals, Geographic Distribution = Worldwide. Parapoxvirus of seals, Other Infected Animals = Humans, seals. Parapoxvirus of seals,
+
+============================================================
+CHUNK 4
+============================================================
+INTRODUCTION
+Reservoir = Unknown (seals?). Parapoxvirus of reindeer, Geographic Distribution = Finland. Parapoxvirus of reindeer, Other Infected Animals = Humans, reindeer. Parapoxvirus of reindeer, Reservoir = Unknown. MOLLUSCIPOXVIRUS, Geographic Distribution = . MOLLUSCIPOXVIRUS, Other Infected Animals = . MOLLUSCIPOXVIRUS, Reservoir = . Molluscum contagiosum, Geographic Distribution = Worldwide. Molluscum contagiosum, Other Infected Animals = Humans. Molluscum contagiosum, Reservoir = Humans. YATAPOXVIRUS, Geographic Distribution = . YATAPOXVIRUS, Other Infected Animals = . YATAPOXVIRUS, Reservoir = . Tanapox, Geographic Distribution = Africa. Tanapox, Other Infected Animals = Humans, rodents. Tanapox, Reservoir = Mosquitoes(?), rodents(?). Yabapox, Geographic Distribution = Africa. Yabapox, Other Infected Animals = Humans, primates. Yabapox, Reservoir = Unknown (primates?). Yaba monkey tumor, Geographic Distribution = Africa. Yaba monkey tumor, Other Infected Animals = Primates. Yaba monkey tumor, Reservoir = Unknown
+*Import of monkeypox to the United States with Gambian giant rats.
+Adapted from Damon IK. Poxviruses. In: Knipe DM, Howley PM, eds. Field's Virology . Philadelphia: Lippincott Williams & Wilkins; 2007:2948-75, Essbauer S, Pfeffer M, Meyer H. Zoonotic poxviruses. Vet Microbiol 2009; 229-236, and Breman, JG. Poxviruses. In: Strickland GT, ed. Hunter's Tropical Medicine, 8th ed. Philadelphia: Saunders; 2000:207-210.
+have been recognized. Monkeypox virus is a zoonotic poxvirus currently regarded as the most important Orthopoxvirus infection in  humans  since  the  global  eradication  of  smallpox  and  is  the focus of this chapter.
+
+============================================================
+CHUNK 5
+============================================================
+EPIDEMIOLOGY
+Monkeypox virus was {rst identi{ed in captive monkeys at the State Serum Institute in Copenhagen in 1958, although they are not  the  natural  viral  reservoir.  Monkeypox  virus  is  endemic  to tropical rainforests of central and western Africa, with most human cases occurring in the Democratic Republic of Congo (formerly in  neighboring  Republic of  Congo, 4 and  a  cluster  of  cases  was reported in 2005 to 2006 in Sudan for the {rst time. 5 T oward the end of 2017 an outbreak of monkeypox in Nigeria caused a reported 269 suspected and 115 con{rmed cases scattered throughout the country. 6 In 2003 the {rst report of human monkeypox outside of the African continent occurred in the midwestern United States and was associated with imported African rodents. 7
+are engaged in hunting and gathering. 8 Humans contract monkeypox through direct contact with infected animals or humans. Most cases are contracted through direct contact with infected body |uids or lesions during hunting, skinning, killing, or cooking animal carcasses.  Such  mammals include the  great apes  (chimpanzees and orangutans), many species of monkey, domestic pigs, African hedgehogs, opossums, many species of squirrel, dormice, African porcupines, rats, jerboa, and shrews. The natural reservoir species is unknown; however, rope squirrels or other terrestrial rodents that inhabit the forests of central and western Africa are considered the most likely viral reservoirs. 8,9
+
+============================================================
+CHUNK 6
+============================================================
+EPIDEMIOLOGY
+The {rst documented human case of monkeypox was a child in the Democratic Republic of Congo in 1970, 2 years after the last case of smallpox had occurred in the area. 10 After subsequent Democratic  Republic  of  Congo  between  1981  and  1986  and identi{ed a further 338 cases, with 28% attributed to secondary human-to-human transmission. The largest reported outbreak of Republic of Congo during 1996 and 1997, although confusion with a  concurrent varicella outbreak  made  precise estimates of the size of the outbreak dif{cult. 11 With increased global travel and interest in exotic pets, the geographic range of monkeypox has expanded. In 2003 the {rst outbreak of monkeypox outside of Africa occurred in the midwestern United States, with 71 cases, of which 35 were laboratory-con{rmed. 12 Many cases had direct contact with infected pet prairie dogs. The outbreak was traced to imported giant Gambian rats from Ghana that were housed with prairie dogs. Despite this importation and the potential for monkeypox virus to infect a broad range of mammals, the virus does not appear to have established an endemic animal reservoir within the United States. 8,13
+Person-to-person transmission of monkeypox virus accounts for 10% to 30% of cases. 11 T ransmission is through large respiratory droplets during prolonged face-to-face contact, although transmission through  contact  with  infected  fomites  or  aerosols  may  occur. 8 Person-to-person transmission of monkeypox virus is less ef{cient than for variola virus, and the longest recorded human chain of transmission is six generations. 4 Studies conducted in the 1980s suggested that household transmission from an index case occurred in  8%  to  15%  of  contacts. 14 These  data  were  used  to  create  a stochastic model for the spread of monkeypox between humans, which indicated that monkeypox virus was highly unlikely to sustain itself in human populations and therefore did not constitute a major public health problem. 15 When these studies were conducted, most household  members  were  vaccinated  against  smallpox,  which provided cross-protective immunity to monkeypox infection. T oday, most  individuals  are  now  unvaccinated.  In  an  outbreak  in  the Democratic Republic of Congo in 2013, the proportion of household contacts infected with monkeypox ranged from 50% to 100%, 16 suggesting an increased risk for human-to-human transmission.
+
+============================================================
+CHUNK 7
+============================================================
+EPIDEMIOLOGY
+In  endemic regions,  transmission of  human  monkeypox has been reported throughout the year with no peak month or season. Incidence is highest in individuals under the age of 15 years and is slightly higher in males than females in this age group. In 1981 serologic surveys were carried out in four countries in central and western  Africa  to  determine  the  prevalence  of Orthopoxvirus infection, including monkeypox virus infection. 17 The prevalence of antibodies to Orthopoxvirus was 15.4% among people without were seropositive for monkeypox virus, with seroprevalence highest among children aged 5 to 9 years. More recently, a study conducted in the Republic of Congo after an outbreak of monkeypox in 2003 found  a  seroprevalence  of  57%  for Orthopoxvirus ,  with  some seropositivity likely attributable to prior smallpox vaccination. 18 A 20-fold increase in the incidence of monkeypox was found in the Democratic Republic of Congo by active surveillance 30 years after cessation of smallpox, and unvaccinated individuals were at a 5.2-fold increased risk of monkeypox. 19
+Fig. 32.2.1 Map of endemic and imported monkeypox cases since 1970.
+
+TABLE 32.2.2 Comparison of Epidemiologic Features of Human Monkeypox by Surveillance Period and Epidemiologic Setting
+
+============================================================
+CHUNK 8
+============================================================
+EPIDEMIOLOGY
+Location, 1970-1979 = Central and western Africa. Location, 1981-1986 = Democratic Republic of Congo. Location, 1996-1997 = Democratic Republic of Congo. Location, 2001-2004 = Democratic Republic of Congo. Location, 2003 = Central United States. Location, 2013 = Democratic Republic of Congo. Epidemiologic setting, 1970-1979 = Passive surveillance. Epidemiologic setting, 1981-1986 = Active surveillance. Epidemiologic setting, 1996-1997 = Outbreak. Epidemiologic setting, 2001-2004 = Passive surveillance. Epidemiologic setting, 2003 = Outbreak. Epidemiologic setting, 2013 = Passive surveillance/ outbreak. Number of reported cases, 1970-1979 = 47. Number of reported cases, 1981-1986 = 338. Number of reported cases, 1996-1997 = 419*. Number of reported cases, 2001-2004 = 136. Number of reported cases, 2003 = 81. Number of reported cases, 2013 = 104. % laboratory confirmed, 1970-1979 = 87. % laboratory confirmed, 1981-1986 = 100. % laboratory confirmed, 1996-1997 = Unknown. % laboratory confirmed, 2001-2004 = 37.5. % laboratory confirmed, 2003 = 40. % laboratory confirmed, 2013 = 48. Median age (yr), 1970-1979 = 4. Median age (yr), 1981-1986 = Unknown. Median age (yr), 1996-1997 = Unknown. Median age (yr), 2001-2004 = 11. Median age (yr), 2003 = 27. Median age (yr), 2013 = 10. Suspected primary source, 1970-1979 = Unknown. Suspected primary source, 1981-1986 = Forest animals. Suspected primary source, 1996-1997 = Unknown. Suspected primary source, 2001-2004 = Squirrels, rodents, monkeys. Suspected primary source, 2003 = Prairie dog, Gambian giant rat. Suspected primary source, 2013 = Squirrels. Primary cases (%), 1970-1979 = 91. Primary cases (%), 1981-1986 = 72. Primary cases (%), 1996-1997 = 22. Primary cases (%), 2001-2004 = Unknown. Primary cases (%), 2003 = 100. Primary cases (%), 2013 = 27. Secondary cases (%), 1970-1979 = 9. Secondary cases (%), 1981-1986 = 28. Secondary cases (%), 1996-1997 = 78.
+
+============================================================
+CHUNK 9
+============================================================
+EPIDEMIOLOGY
+Secondary cases (%), 2001-2004 = Unknown. Secondary cases (%), 2003 = 0. Secondary cases (%), 2013 = 73. Secondary attack rate (%), 1970-1979 = 3.3. Secondary attack rate (%), 1981-1986 = 3.7†. Secondary attack rate (%), 1996-1997 = 8.0. Secondary attack rate (%), 2001-2004 = Unknown. Secondary attack rate (%), 2003 = 0. Secondary attack rate (%), 2013 = 50.0†. Case-fatality rate (%), 1970-1979 = 17. Case-fatality rate (%), 1981-1986 = 10. Case-fatality rate (%), 1996-1997 = 1.5. Case-fatality rate (%), 2001-2004 = Unknown. Case-fatality rate (%), 2003 = 0. Case-fatality rate (%), 2013 = 10. Previous vaccinia vaccination, 1970-1979 = 9% (with vaccine scar). Previous vaccinia vaccination, 1981-1986 = 13%. Previous vaccinia vaccination, 1996-1997 = 6% (with vaccine scar). Previous vaccinia vaccination, 2001-2004 = Unknown. Previous vaccinia vaccination, 2003 = 25%§. Previous vaccinia vaccination, 2013 = 15%
+- *Excludes 92 cases that were identified in an earlier investigation of the same outbreak but not included in the analysis of the subsequent cases. † Among household contacts.
+§Proportion of the confirmed cases for which information was available.
+
+============================================================
+CHUNK 10
+============================================================
+EPIDEMIOLOGY
+- Sources: Di Giulio DB, Eckburg PB. Human monkeypox: an emerging zoonosis. Lancet Infect Dis 2004;4:15-25; Rimoin AW, Kisalu N, Kebela-Ilunga B, et al. Endemic human monkeypox, Democratic Republic of Congo, 2001-2004. Emerg Infect Dis 2007;13: 934-937; Nolen LD, Osadebe L, Katomba J, et al. Extended human-to-human transmission during a monkeypox outbreak in the Democratic Republic of Congo. Emerg Infect Dis 2013; 22: 1014-21; Nolen LD, Osadebe L, Katomba J, et al. Introduction of monkeypox into a community and household: risk factors and zoonotic reservoirs in the Democratic Republic of Congo. Am J Trop Med 2015; 93: 410-415.
+The age distribution of cases and the secondary attack rate for monkeypox  have  changed,  most  likely  because  of  cessation  of smallpox  vaccination  and  waning  immunity  among  vaccinated persons.  In  the  1970s  and  1980s,  most  cases  occurred  among unvaccinated  children  younger  than  5  years  of  age.  Secondary cases tended to be older and were likely to be among mothers of infected children. As susceptibility to monkeypox increased, both the  average  age  of  infection  and  the  proportion  of  secondary infections increased (T able 32.2.2). In the Democratic Republic of Congo, the mean age of cases of monkeypox increased from 4.4 years during the period 1981 to 1986 to 15.4 years during the period 2001 to 2004. 20
+
+============================================================
+CHUNK 11
+============================================================
+EPIDEMIOLOGY
+orf, and tanapox viruses (see T able 32.2.1). Molluscum contagiosum is  the  most  common  poxvirus  infection  of  humans  and  causes umbilicated papules of 1 to 5 mm in size on the face, trunk, or Parapoxvirus infection of humans, is a zoonotic infection acquired from goats and sheep manifesting as papules, nodules, and pustules at the site of inoculation. T anapox virus, in the genus Yatapoxvirus and  endemic  in  equatorial Africa,  is  transmitted  by  nonhuman primates  via  an  arthropod  vector  or  by  direct  contact,  and results  in  a  febrile  illness  with  papulonodular  skin  lesions  and lymphadenopathy.
+
+============================================================
+CHUNK 12
+============================================================
+NATURAL HISTORY AND PATHOGENESIS
+Monkeypox  begins  with  infection  of  either  the  dermis  (after transmission from infected animals) or the respiratory epithelium (after transmission from an infected person). The virus disseminates through the lymphatic system, resulting in primary viremia and systemic infection. A secondary viremia results in infection of the epithelium, producing skin and mucosal lesions. As a consequence of  replication  in  mucosal  surfaces  the  virus  can  be  transmitted through oropharyngeal secretions to close contacts. The risk of transmission likely depends on the density of oropharyngeal lesions, the proximity and duration of contact, and virus survival, despite host immune responses. Monkeypox virus, like other poxviruses, has evolved mechanisms to evade host immune responses. Monkeypox virus is likely to be stable on fomites, and the number of virions required for infection is thought to be low based on potential similarities  with  variola  virus.  Strain  differences  may  existmonkeypox strains circulating in western Africa appear to be more attenuated and less transmissible than those in the Congo basin. 21
+The incubation period from exposure to the onset of clinical symptoms and signs is 10 to 14 days. Patients are infectious during the {rst week of rash and should be isolated. 13 Most people infected with monkeypox virus are symptomatic, but sub-clinical infection can  occur.  Serologic  studies  of  household  contacts  of  acutely infected cases in the Democratic Republic of Congo suggest that approximately 28% of all monkeypox infections are sub-clinical. More recently, immunologic evidence of exposure to monkeypox virus was identi{ed in several asymptomatic contacts of infected people in the United States. 22,23
+HIV and other conditions that suppress cell-mediated immunity may alter the natural history of disease. No data exist for monkeypox,  but  other  poxvirus  infections,  speci{cally  vaccinia  and molluscum contagiosum viruses, are more severe in those  who are infected with HIV.
+
+============================================================
+CHUNK 13
+============================================================
+CLINICAL FEATURES
+The clinical features of monkeypox resemble those of smallpox (variola) (T able 32.2.3). Symptoms begin with a prodromal illness of fever and malaise lasting 1 to 3 days, followed by the characteristic rash. In contrast to smallpox, prominent sub-mandibular, cervical,
+TABLE 32.2.3 Differential Diagnosis of Monkeypox, Smallpox, and Chickenpox
+
+Incubation period, days, Monkeypox = 7-17. Incubation period, days, Smallpox = 7-17. Incubation period, days, Chickenpox = 12-14. Prodrome period, days, Monkeypox = 1-4. Prodrome period, days, Smallpox = 2-4. Prodrome period, days, Chickenpox = 0-2. Symptom, Monkeypox = . Symptom, Smallpox = . Symptom, Chickenpox = . Fever, severity Malaise, severity Headache, severity, Monkeypox = Moderate Moderate Moderate. Fever, severity Malaise, severity Headache, severity, Smallpox = Severe Moderate Severe. Fever, severity Malaise, severity Headache, severity, Chickenpox = Mild or none Mild Mild. Lymphadenopathy, severity Lesions Depth (diameter in mm), Monkeypox = Moderate (4-6). Lymphadenopathy, severity Lesions Depth (diameter in mm), Smallpox = None Deep (4-6). Lymphadenopathy, severity Lesions Depth (diameter in mm), Chickenpox = Superficial (2-4). Distribution Evaluation Time to desquamation, days Frequency of lesions on palms, Monkeypox = Superficial to deep Centrifugal (mainly) Homogeneous rash 14-21 Common. Distribution Evaluation Time to desquamation, days Frequency of lesions on palms, Smallpox = Centrifugal Homogeneous 14-21 Common. Distribution Evaluation Time to desquamation, days Frequency of lesions on palms, Chickenpox = None Centripetal Heterogeneous 6-14 Rare
+From Nalca A, Rimoin AW, Bavari S, Whitehouse CA. Reemergence of monkeypox: prevalence, diagnostics, and countermeasures. Clin Infect Dis 2005;41: 1765-1771.
+
+============================================================
+CHUNK 14
+============================================================
+CLINICAL FEATURES
+Fig. 32.2.2 Posterior auricular lymphadenopathy in a child with monkeypox. (Photo courtesy of Leo Lanoie, Prince Albert Parkland Health Region, Saskatchewan, Canada.)
+post-auricular,  axillary,  or  inguinal  lymphadenopathy  occurs  in many infected  persons  1  to  2  days  before  rash  onset.  Lymphadenopathy is not a typical feature of smallpox and can serve to clinically distinguish monkeypox from smallpox (Fig. 32.2.2; see Table 32.2.3). As with smallpox, lesions develop concurrently and progress at a  similar  rate  over  2  to 4  weeks,  depending  on  the disease  severity. The  rash  begins  as  small,  2-  to  5-mm  papules and progresses through vesicular, pustular, and crusted stages over 2  to  3  weeks  (Fig.  32.2.3).  Like  smallpox,  it  tends  to  be  more severe on the head and extremities, including the palms and soles, and less intense on the trunk. The scabs slough off during recovery, leaving de-pigmented scars. Complications of monkeypox include
+A
+Fig. 32.2.3 Human monkeypox in a 7-year-old girl, Tokondo, Kasai Oriental, Democratic Republic of Congo. (Photos courtesy of Dr. Anne W. Rimoin, UCLA-DRC Monkeypox Study. Tokondo, Democratic Republic of Congo.)
+secondary bacterial infection of the skin lesions, pneumonitis, and eye involvement. Death occurs during the second week of illness in  approximately 10% of cases. Prior vaccination with vaccinia virus  (smallpox  vaccine)  results  in  milder  disease  with  fewer skin lesions, less lymphadenopathy, and signi{cantly lower mortality. 24
+
+============================================================
+CHUNK 15
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+Poxvirus infection should be considered when evaluating a patient with a febrile illness and vesiculopustular rash, particularly when the patient resides in an area endemic for monkeypox virus (see Fig. 32.2.1) or has contact with animals capable of transmitting poxviruses. A presumptive diagnosis of monkeypox can often be made  clinically  based  on  the  characteristic  rash  and  lymphadenopathy, although the skin lesions may be dif{cult to distinguish from chickenpox early in the course of illness (see T able 32.2.3). Smallpox should be considered if bioterrorism is possible. Suspected cases of monkeypox should be reported to local health authorities.
+Laboratory  diagnosis  is  necessary  to  con{rm  the  diagnosis of  monkeypox  and  differentiate  infection  from  other  causes of  vesiculopustular  rash.  The  case  de{nition  developed  by  the Centers  for  Disease  Control  and  Prevention  (CDC)  after  the 2003  outbreak  in  the  United  States  is  shown  in  T able  32.2.4. or  swabs  of  the  base  of  vesicles  applied  to  a  microscope  slide and air dried. Samples potentially infected with monkeypox virus should  be  handled  in  Biosafety  Level  2  facilities.  Monkeypox virus can be identi{ed by cell culture or polymerase chain reaction  (PCR)-based  assays,  and  the  Cepheid  GeneXpert  System has  a  PCR-based cartridge  for {eld diagnosis.  Serologic  assays have  insuf{cient  sensitivity  to  reliably  diagnose  monkeypox infection.
+
+============================================================
+CHUNK 16
+============================================================
+PATIENT EVALUATION, DIAGNOSIS, AND DIFFERENTIAL DIAGNOSIS
+TABLE 32.2.4 Centers for Disease Control and Prevention Case Definition for Monkeypox, 1 = TABLE 32.2.4 Centers for Disease Control and Prevention Case Definition for Monkeypox. TABLE 32.2.4 Centers for Disease Control and Prevention Case Definition for Monkeypox, 2 = TABLE 32.2.4 Centers for Disease Control and Prevention Case Definition for Monkeypox. Clinical Criteria, 1 = Epidemiologic Criteria. Clinical Criteria, 2 = Laboratory Criteria. generalized or localized; discrete or confluent) ≥ 99.3°F [ ≥ 37.4°C]), 1 = obtained on or after April 15, 2003, with clinical signs of illness (e.g., conjunctivitis, respiratory symptoms, and/or rash) pet† with or without clinical signs of illness that has been in contact with either a mammalian pet§ or a human with monkeypox confirmed human case of monkeypox. generalized or localized; discrete or confluent) ≥ 99.3°F [ ≥ 37.4°C]), 2 = polymerase chain reaction testing of a clinical specimen consistent with an Orthopoxvirus by electron microscopy in the absence of exposure to another Orthopoxvirus Orthopoxvirus in tissue using immunohistochemical testing methods in the absence of exposure to another Orthopoxvirus. CASE CLASSIFICATION, 1 = CASE CLASSIFICATION. CASE CLASSIFICATION, 2 = CASE CLASSIFICATION. Suspect Case, 1 = Probable Case. Suspect Case, 2 = Confirmed Case. of first sign or symptoms < 21 days after last exposure meeting epidemiologic criteria, 1 = sign or symptom < 21 days after last exposure meeting epidemiologic criteria, OR described, demonstrates elevated levels of IgM antibodies reactive with Orthopoxvirus between at least days 7-56 after rash onset**. of first sign or symptoms < 21 days after last exposure meeting epidemiologic criteria, 2 = 
+
+============================================================
+CHUNK 17
+============================================================
+EXCLUSION CRITERIA
+- subsequently determined not to have monkeypox, provided other possible epidemiologic exposure criteria are not present, OR
+- Orthopoxvirus by polymerase chain reaction testing of a well-sampled rash lesion by the approved Laboratory Response Network (LRN) protocol, OR
+*Includes living in a household, petting or handling, or visiting a pet-holding facility (e.g., pet store, veterinary clinic, pet distributor).
+- † Includes prairie dogs, Gambian giant rats, and rope squirrels.
+- § Includes living in a household or originating from the same pet-holding facility as another animal with monkeypox.
+Includes skin-to-skin or face-to-face contact.
+- **Levels of circulating IgM antibody reactive with Orthopoxvirus antigen are determined by enzyme-linked immunosorbent assay (ELISA) and reported as optical density (OD) values. Values greater than three standard deviations above the mean OD of six independent negative controls are considered 'elevated.' IgM antibody levels may be elevated in persons who have been recently (within 1 year) vaccinated for smallpox.
+- Factors that might be considered in assigning alternative diagnoses include the strength of the epidemiologic exposure criteria for monkeypox, the specificity of the diagnostic test, and the compatibility of the clinical presentation and course of illness for the alternative diagnosis.
+§§
+If possible, obtain convalescent-phase serum specimen from these patients.
+- The optimal timing of specimen collection for determination of IgM levels is between days 7 and 56 post-rash onset. However, elevated levels of IgM antibodies may be detectable before day 7 or after day 56 post-rash onset; therefore a negative result during this phase should not be interpreted to indicate an absence of monkeypox infection.
+From Centers for Disease Control and Prevention. Updated Interim Case Definition for Human Monkeypox, January 2004. Available at: https://stacks. cdc.gov/view/cdc/26098/cdc_26098_DS1.pdf.
+
+============================================================
+CHUNK 18
+============================================================
+EXCLUSION CRITERIA
+With the exception of smallpox, monkeypox is most commonly confused clinically with varicella (chickenpox) (see T able 32.2.3), and coinfection with both  viruses  can  occur. 25 Varicella  can  be distinguished from monkeypox because the skin lesions of chickenpox are pleomorphic (in different stages of development), are concentrated on the trunk, and rarely involve the palms and soles. Lymphadenopathy does not occur in uncomplicated varicella, and rash  include  drug  eruptions,  eczema  herpeticum,  dermatitis herpetiformis, rickettsialpox, and molluscum contagiosum. 11
+
+============================================================
+CHUNK 19
+============================================================
+PREVENTION AND TREATMENT
+Access to basic health care in remote forested areas of western and central sub-Saharan Africa can be dif{cult, and the prevention and treatment of monkeypox are severely limited in the absence of  external  assistance.  Data  from  the  Democratic  Republic  of Congo in the early 1980s suggested that pre-exposure smallpox vaccination  provided  approximately  85%  protection  against monkeypox. 26 Prior smallpox vaccination, however, did not provide complete protection against monkeypox in the United States. 22 No  information  is  available  on  the  ef{cacy  of  post-exposure vaccination with vaccinia virus, although extrapolation from postexposure  vaccination  for  the  prevention  of  smallpox  suggests post-exposure  vaccination  may  prevent  monkeypox  disease  or reduce  severity  if  given  within  3  days  of  exposure.  The  CDC currently recommends routine smallpox vaccination of laboratory personnel who directly handle cultures or animals contaminated or infected with replication-competent Orthopoxviruses . The CDC also  recommends that vaccination  be offered  to  health  care  or animal  care  personnel  who  have  contact  with  contaminated materials, provided they have no contraindications to vaccination. Post-exposure vaccination for those with an Orthopoxvirus exposure can be determined on a case-by-case basis in consultation with public health authorities. 27
+Treatment of persons with monkeypox is supportive. Data are not available on the effectiveness of vaccinia immune globulin for the  prevention  or  treatment  of  complications  of  monkeypox; however, the CDC recommends immune globulin be considered for prophylactic use in persons exposed to monkeypox virus with severe cellular immunode{ciency for whom smallpox vaccination is contraindicated. 28 Cidofovir and brincidofocir (CMX001) have anti-monkeypox viral activity in vitro and in animal studies, with brincidofocir  exhibiting  greater  potency  and  safety. 29 Whether humans may bene{t from either treatment is not known, but the CDC recommends that treatment with either antiviral be considered in  persons  with  severe  monkeypox. 28 T ecovirimat  (ST-246)  has also been shown to be effective in treating Orthopoxvirus -induced disease  in  animal  studies, 30 but  would  need  to  be  administered under an Investigational New Drug status. 28
+
+============================================================
+CHUNK 20
+============================================================
+REFERENCES
+1.  Damon IK. Poxviruses. In: Knipe DM, Howley PM, editors. Field's virology. Philadelphia: Lippincott Williams & Wilkins; 2013. p. 216084.
+2.  Schrick L, T ausch SH, Dabrowski PW, et al. An early American smallpox vaccine based on horsepox. N Engl J Med 2017;377:1491-2.
+3.  Fenner F, Henderson DA, Arita I, et al. Smallpox and its eradication.
+4.  Learned LA, Reynolds MG, Wassa DW, et al. Extended interhuman transmission of monkeypox in a hospital community in the Republic of the Congo, 2003. Am J Trop Med Hyg 2005;73:428-34.
+5.  Damon  IK,  Roth  CE,  Chowdhary  V.  Discovery  of  monkeypox  in Sudan. N Engl J Med 2006;355:962-3.
+7.  Reed KD, Melski JW, Graham MB, et al. The detection of monkeypox in humans in the western hemisphere. N Engl J Med 2004;350:342-50.
+8.  Parker S, Nuara A, Buller RM, Schultz DA. Human monkeypox: an emerging zoonotic disease. Future Microbiol 2007;2:17-34.
+8. 2009;229-36.
+9. virus in Basankusu T erritory, Democratic Republic of the Congo. Bull
+11.  Di Giulio DB, Eckburg PB. Human monkeypox: an emerging zoonosis. Lancet Infect Dis 2004;4:15-25.
+12.  Centers  for  Disease  Control  and  Prevention.  Update:  multistate and  Wisconsin,  2003.  MMWR  Morb  Mortal  Wkly  Rep  2003;52: 642-6.
+13.  Nalca  A,  Rimoin  AW,  Bavari  S,  Whitehouse  CA.  Reemergence  of monkeypox: prevalence, diagnostics, and countermeasures. Clin Infect Dis 2005;41:1765-71.
+13. of monkeypox. Am J Epidemiol 1987;126:1082-92.
+14. transmission during a monkeypox outbreak in the Democratic Republic of the Congo. Emerg Infect Dis 2016;22:1014-21.
+
+============================================================
+CHUNK 21
+============================================================
+REFERENCES
+15. Hyg 1987;90:31-8.
+18.  Lederman ER, Reynolds MG, Karem K, et al. Prevalence of antibodies against orthopoxviruses among residents of Likouala region, Republic of Congo: evidence for monkeypox virus exposure. Am J Trop Med Hyg 2007;77:1150-6.
+19.  Rimoin AW, Mulembakani PM, Johnston SC, et al. Major increase in human monkeypox incidence 30 years after smallpox vaccination campaigns cease in  the Democratic Republic of Congo. Proc Natl Acad Sci USA 2010;107:16262-7.
+20.  Rimoin  AW,  Kisalu  N,  Kebela-Ilunga  B,  et al.  Endemic  human monkeypox,  Democratic  Republic  of  Congo,  2001-2004.  Emerg Infect Dis 2007;13:934-7.
+21.  Chen N, Li G, Liszewski MK, et al. Virulence differences between monkeypox  virus  isolates  from  west  Africa  and  the  Congo  basin. Virology 2005;340:46-63.
+22.  Karem  KL,  Reynolds  M,  Hughes  C,  et al.  Monkeypox-induced immunity and failure of childhood smallpox vaccination to provide complete protection. Clin Vaccine Immunol 2007;14:1318-27.
+23.  Lewis MW, Graham MB, Hammarlund E, et al. Monkeypox without exanthem. N Engl J Med 2007;356:2112-14.
+24.  Hammarlund  E,  Lewis  MW,  Carter  SV,  et al.  Multiple  diagnostic techniques identify previously vaccinated individuals with protective immunity against monkeypox. Nat Med 2005;11:1005-11.
+25.  Hoff NA, Morier DS, Kisalu NK, et al. Varicella coinfection in patients with active monkeypox in  the Democratic Republic of the  Congo. Ecohealth 2017;14:564-74.
+24. -keypox virus in human populations. Int J Epidemiol 1988;17:643-50.
+
+============================================================
+CHUNK 22
+============================================================
+REFERENCES
+27.  Petersen BW, Harms TJ, Reynolds MG, Harrison LH. Use of vaccinia virus smallpox vaccine in laboratory and health care personnel at risk for  occupational  exposure  to  orthopoxviruses  -  recommendations of the advisory committee on immunization practices (ACIP) 2015. MMWR Morb Mortal Wkly Rep 2016;65:257-62.
+28.  Centers for Disease Control and Prevention. Monkeypox Treatment.
+29.  De Clercq E. Cidofovir in the treatment of poxvirus infections. Antiviral Res 2002;55:1-13.
+30.  Mucker  EM,  Goff  AJ,  Shamblin  JD,  et al.  Ef{cacy  of  tecovirimat (ST-246) in nonhuman primates infected with variola virus (smallpox). Antimicrob Agents Chemother 2013;57:6246-53.
+
