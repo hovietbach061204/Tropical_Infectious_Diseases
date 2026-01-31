@@ -1,5 +1,7 @@
 Tropical_Dataset/
 embedded_json/
 
-Fine-tuning/
+Fine-tuning/fine_tuned_model
+Fine-tuning/Modelfiles
 docling/papers/
+.env
