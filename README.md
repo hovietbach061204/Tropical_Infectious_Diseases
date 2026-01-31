@@ -4,9 +4,10 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Stack](https://img.shields.io/badge/Tech-LangChain%20%7C%20Qdrant%20%7C%20Neo4j-green)
 ![Status](https://img.shields.io/badge/Status-Research%20Prototype-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## 📖 Abstract
-This project presents an advanced diagnositc system for tropical and infectious diseases (e.g., Dengue, Typhoid, Malaria) utilizing a **Hybrid Retrieval-Augmented Generation (RAG)** framework. By integrating vector search (**Qdrant**) with a knowledge graph (**Neo4j**), the system retrieves both semantic context and structured relationships (symptoms, locations, risk factors). The generation is handled by a fine-tuned **Qwen2.5-7B/Llama-3.1** model, optimized for medical reasoning.
+This project presents an advanced diagnostic system for tropical and infectious diseases (e.g., Dengue, Typhoid, Malaria) utilizing a **Hybrid Retrieval-Augmented Generation (RAG)** framework. By integrating vector search (**Qdrant**) with a knowledge graph (**Neo4j**), the system retrieves both semantic context and structured relationships (symptoms, locations, risk factors). The generation is handled by a fine-tuned **Qwen2.5-7B/Llama-3.1** model, specifically optimized for medical reasoning and evidence-based diagnosis.
 
 ## 🏗️ System Architecture
 The system follows a modular pipeline designed to maximize context recall and diagnosis accuracy:
@@ -14,23 +15,45 @@ The system follows a modular pipeline designed to maximize context recall and di
 2.  **Hybrid Retrieval:**
     * **Vector Search (Qdrant):** Dense retrieval using `nomic-embed-text` embeddings.
     * **Knowledge Graph (Neo4j):** Graph traversal to link symptoms with diseases and risk factors.
-3.  **Generation:** A custom fine-tuned LLM (Qwen/Llama) generates evidence-based diagnoses.
+3.  **Generation:** A custom fine-tuned LLM (Qwen/Llama) generates diagnoses with "Diagnosis" and "Explanation" blocks.
 4.  **Evaluation:** Automated benchmarking using **Ragas** and **DeepEval** (Faithfulness, Context Recall, Answer Correctness).
 
-## 🚀 Key Features
-* **Dual-Path Retrieval:** Combines vector similarity with graph-based reasoning to handle complex medical queries.
-* **Domain-Specific Fine-Tuning:** Models were fine-tuned on a curated dataset of tropical disease case studies.
-* **Hallucination Guardrails:** Implements RAG metrics to ensure answers are grounded in retrieved context.
-* **Evaluation Pipeline:** Integrated `eeval_model.py` for continuous performance monitoring.
+---
 
 ## 🛠️ Installation & Setup
 
-### Prerequisites
+### 1. Prerequisites
 * Python 3.10+
-* Neo4j Database (Local or AuraDB)
+* [Git LFS](https://git-lfs.com/) (Required for large model weights)
+* Neo4j Database (Local Desktop or AuraDB)
 * Qdrant Instance (Docker or Cloud)
 
-### 1. Clone the Repository
+### 2. Template for .env
+# --- LLM Providers ---
+OPENAI_API_KEY=sk-proj-...
+HUGGINGFACE_HUB_TOKEN=hf_...
+HF_TOKEN=hf_...
+
+# --- Vector Database (Qdrant) ---
+QDRANT_URL=https://...
+QDRANT_API_KEY=...
+
+# --- Knowledge Graph (Neo4j) ---
+NEO4J_URI=bolt://localhost:7687
+NEO4J_USERNAME=neo4j
+NEO4J_PASSWORD=your_password
+
+# --- Evaluation & Tracing ---
+LANGCHAIN_API_KEY=lsv2_...
+LANGCHAIN_TRACING_V2=true
+
+# --- Model Configuration ---
+ENCODE_MODEL=cross-encoder/ms-marco-MiniLM-L-6-v2
+CHAT_MODEL=gpt-4o-mini
+OPENAI_JUDGE_MODEL=gpt-4o
+
+### 3. Clone the Repository
 ```bash
 git clone [https://github.com/hovietbach061204/Tropical_Infectious_Diseases.git](https://github.com/hovietbach061204/Tropical_Infectious_Diseases.git)
 cd Tropical_Infectious_Diseases
+
